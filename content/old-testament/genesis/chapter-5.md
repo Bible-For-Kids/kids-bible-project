@@ -345,7 +345,7 @@ When Lamech was 182 years old, he had a son.
 **Original Reference**: Genesis 5:29 - He named him Noah, saying, "This one will comfort us in our work and in the toil of our hands, caused by the ground which Yahweh has cursed."
 
 #### Ages 5-7
-Lamech named him Noah and said, "He will comfort us in our work and painful toil from the ground the Lord has cursed."
+Lamech named him Noah and said, "He will comfort us in our work and in the painful toil of our hands from the ground the Lord has cursed."
 
 #### Ages 8-10
 He named him Noah and said, "He will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."

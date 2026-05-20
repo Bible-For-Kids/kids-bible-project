@@ -24,7 +24,7 @@ Then she said, "But God told us not to eat fruit from the tree in the middle of 
 "God knows that when you eat from it, your eyes will be opened. You will be like God, knowing good and evil."
 
 ### Genesis 3:6
-The woman saw that the tree was good for food, pleasing to the eyes, and desirable for gaining wisdom. She took some of its fruit and ate it. She also gave some to her husband, who was with her, and he ate it.
+The woman looked at the tree and saw that its fruit was good for food, pleasing to the eyes, and desirable for gaining wisdom. She took some of its fruit and ate it. She also gave some to her husband, who was with her, and he ate it.
 
 ### Genesis 3:7
 Then the eyes of both of them were opened, and they realized they were naked. So they sewed fig leaves together and made coverings for themselves.
@@ -51,10 +51,10 @@ Then the Lord God said to the woman, "What have you done?" The woman said, "The 
 So the Lord God said to the serpent, "Because you have done this, you are cursed above all livestock and wild animals. You will crawl on your belly and eat dust all the days of your life."
 
 ### Genesis 3:15
-God said, "I will put hostility between you and the woman, and between your offspring and hers. He will crush your head, and you will strike his heel."
+God said, "I will put hostility between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel."
 
 ### Genesis 3:16
-To the woman he said, "I will greatly increase your pain in childbearing. With pain you will give birth to children. Your desire will be for your husband, and he will rule over you."
+To the woman he said, "I will greatly increase your pain in childbearing. With pain you will give birth to children. Trouble will also come between you and your husband. Your desire will be for your husband, and he will rule over you."
 
 ### Genesis 3:17
 To Adam he said, "Because you listened to your wife and ate from the tree I commanded you not to eat from, the ground is cursed because of you. Through painful toil you will eat from it all the days of your life."

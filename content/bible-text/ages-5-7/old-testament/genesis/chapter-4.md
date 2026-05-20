@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 4:1
-Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man."
+Adam was with his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man."
 
 ### Genesis 4:2
 Later, Eve gave birth to Cain's brother Abel. Abel cared for sheep, and Cain worked the ground.
@@ -18,7 +18,7 @@ Later, Eve gave birth to Cain's brother Abel. Abel cared for sheep, and Cain wor
 After some time, Cain brought some fruit from the ground as an offering to the Lord.
 
 ### Genesis 4:4
-Abel also brought an offering. He brought the firstborn from his flock and their fat portions. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering. He brought the firstborn from his flock and the best rich parts from them. The Lord looked with favor on Abel and his offering.
 
 ### Genesis 4:5
 But the Lord did not look with favor on Cain and his offering. Cain became very angry, and his face fell.
@@ -30,10 +30,10 @@ Then the Lord said to Cain, "Why are you angry? Why has your face fallen?
 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door. It wants to rule you, but you must rule over it."
 
 ### Genesis 4:8
-Cain said to his brother Abel, "Let us go out to the field." Away from home, while they were in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
 
 ### Genesis 4:9
-Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not know. Am I my brother's keeper?"
+Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not know. Am I supposed to guard my brother?"
 
 ### Genesis 4:10
 The Lord said, "What have you done? Your brother's blood is crying out to me from the ground.
@@ -57,7 +57,7 @@ But the Lord said to him, "No. If anyone kills Cain, that person will be punishe
 So Cain went away from the Lord's presence. He traveled east of Eden and lived in the land of Nod.
 
 ### Genesis 4:17
-Cain knew his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named it Enoch after his son.
+Cain was with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named it Enoch after his son.
 
 ### Genesis 4:18
 Enoch became the father of Irad. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech.
@@ -66,10 +66,10 @@ Enoch became the father of Irad. Irad became the father of Mehujael. Mehujael be
 Lamech married two women. One was named Adah, and the other was named Zillah.
 
 ### Genesis 4:20
-Adah gave birth to Jabal. He was the father of people who live in tents and keep livestock.
+Adah gave birth to Jabal. He was the father of people who live in tents and keep farm animals.
 
 ### Genesis 4:21
-His brother was named Jubal. He was the father of people who play the lyre and pipe.
+His brother was named Jubal. He was the father of people who play musical instruments, like lyres and pipes.
 
 ### Genesis 4:22
 Zillah also had a son, Tubal-Cain. He made all kinds of tools from bronze and iron. Tubal-Cain's sister was Naamah.
@@ -81,7 +81,7 @@ Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear 
 If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
 
 ### Genesis 4:25
-Adam knew his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
+Adam was with his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
 
 ### Genesis 4:26
 Seth also had a son, and he named him Enosh. At that time, people began to call on the name of the Lord.

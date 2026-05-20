@@ -93,7 +93,7 @@ Altogether, Methuselah lived 969 years. Then he died.
 When Lamech was 182 years old, he had a son.
 
 ### Genesis 5:29
-Lamech named him Noah and said, "He will comfort us in our work and painful toil from the ground the Lord has cursed."
+Lamech named him Noah and said, "He will comfort us in our work and in the painful toil of our hands from the ground the Lord has cursed."
 
 ### Genesis 5:30
 After Noah was born, Lamech lived 595 more years. He had other sons and daughters.

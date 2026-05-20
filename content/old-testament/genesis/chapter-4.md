@@ -16,10 +16,10 @@ Genesis 4 follows Adam and Eve's sons, Cain and Abel. Sin moves from the garden 
 **Original Reference**: Genesis 4:1 - The man knew Eve his wife. She conceived, and gave birth to Cain, and said, "I have gotten a man with Yahweh's help."
 
 #### Ages 5-7
-Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man."
+Adam was with his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man."
 
 #### Ages 8-10
-Adam knew Eve his wife, and she became pregnant and gave birth to Cain. She said, "With the Lord's help, I have received a man."
+Adam was with Eve his wife, and she became pregnant and gave birth to Cain. She said, "With the Lord's help, I have received a man."
 
 ---
 
@@ -52,10 +52,10 @@ In the course of time, Cain brought some of the fruit of the soil as an offering
 **Original Reference**: Genesis 4:4 - Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,
 
 #### Ages 5-7
-Abel also brought an offering. He brought the firstborn from his flock and their fat portions. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering. He brought the firstborn from his flock and the best rich parts from them. The Lord looked with favor on Abel and his offering.
 
 #### Ages 8-10
-Abel also brought an offering from the firstborn of his flock and from their fat portions. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering from the firstborn of his flock and from their rich fat portions. The Lord looked with favor on Abel and his offering.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -114,10 +114,10 @@ Keep the image of sin crouching at the door; it helps children picture temptatio
 **Original Reference**: Genesis 4:8 - Cain said to Abel, his brother, "Let's go into the field." While they were in the field, Cain rose up against Abel, his brother, and killed him.
 
 #### Ages 5-7
-Cain said to his brother Abel, "Let us go out to the field." Away from home, while they were in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
 
 #### Ages 8-10
-Cain said to his brother Abel, "Let us go out to the field." Away from home, while they were in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
 
 ---
 
@@ -125,10 +125,10 @@ Cain said to his brother Abel, "Let us go out to the field." Away from home, whi
 **Original Reference**: Genesis 4:9 - Yahweh said to Cain, "Where is Abel, your brother?" He said, "I don't know. Am I my brother's keeper?"
 
 #### Ages 5-7
-Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not know. Am I my brother's keeper?"
+Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not know. Am I supposed to guard my brother?"
 
 #### Ages 8-10
-Then the Lord said to Cain, "Where is your brother Abel?" Cain answered, "I do not know. Am I my brother's keeper?"
+Then the Lord said to Cain, "Where is your brother Abel?" Cain answered, "I do not know. Am I supposed to watch over my brother?"
 
 ---
 
@@ -222,10 +222,10 @@ So Cain went out from the Lord's presence. He traveled east of Eden and lived in
 **Original Reference**: Genesis 4:17 - Cain knew his wife. She conceived, and gave birth to Enoch. He built a city, and named the city after the name of his son, Enoch.
 
 #### Ages 5-7
-Cain knew his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named it Enoch after his son.
+Cain was with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named it Enoch after his son.
 
 #### Ages 8-10
-Cain knew his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch.
+Cain was with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch.
 
 ---
 
@@ -255,7 +255,7 @@ Lamech married two women. One was named Adah, and the other was named Zillah.
 **Original Reference**: Genesis 4:20 - Adah gave birth to Jabal, who was the father of those who dwell in tents and have livestock.
 
 #### Ages 5-7
-Adah gave birth to Jabal. He was the father of people who live in tents and keep livestock.
+Adah gave birth to Jabal. He was the father of people who live in tents and keep farm animals.
 
 #### Ages 8-10
 Adah gave birth to Jabal. He was the father of those who live in tents and raise livestock.
@@ -266,10 +266,10 @@ Adah gave birth to Jabal. He was the father of those who live in tents and raise
 **Original Reference**: Genesis 4:21 - His brother's name was Jubal, who was the father of all who handle the harp and pipe.
 
 #### Ages 5-7
-His brother was named Jubal. He was the father of people who play the lyre and pipe.
+His brother was named Jubal. He was the father of people who play musical instruments, like lyres and pipes.
 
 #### Ages 8-10
-His brother was named Jubal. He was the father of all who play the lyre and pipe.
+His brother was named Jubal. He was the father of all who play musical instruments, like the lyre and pipe.
 
 ---
 
@@ -313,10 +313,10 @@ If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
 **Original Reference**: Genesis 4:25 - Adam knew his wife again. She gave birth to a son, and named him Seth, saying, "for God has given me another child instead of Abel, for Cain killed him."
 
 #### Ages 5-7
-Adam knew his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
+Adam was with his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
 
 #### Ages 8-10
-Adam knew his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
+Adam was with his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
 
 ---
 
