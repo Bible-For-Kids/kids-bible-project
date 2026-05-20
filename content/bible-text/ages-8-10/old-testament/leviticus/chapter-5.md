@@ -9,7 +9,7 @@ Leviticus
 ## Verses
 
 ### Leviticus 5:1
-"If anyone sins, in that he hears a public adjuration to testify, he being a witness, whether he has seen or known, if he doesn't report it, then he must bear his guilt.
+If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he bears his guilt.
 
 ### Leviticus 5:2
 "Or if anyone touches any unclean thing, whether it is the dead body of an unclean animal, or the dead body of unclean livestock, or the dead body of unclean small crawling things, and it is hidden from him, and he is unclean, then he must be guilty.

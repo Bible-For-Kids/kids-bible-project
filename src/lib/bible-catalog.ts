@@ -11,11 +11,16 @@ export interface BibleBookSummary {
   ageRanges: AgeRange[]
 }
 
+interface ApprovedChapterManifest {
+  'old-testament'?: Record<string, number[]>
+}
+
 const AGE_RANGES: AgeRange[] = ['5-7', '8-10']
 const TESTAMENT = 'old-testament' as const
 const BOOK_ORDER = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy']
 
 export async function getBibleCatalog(): Promise<BibleBookSummary[]> {
+  const approvedChapters = await getApprovedChapterMap()
   const chaptersByBook = new Map<string, Set<number>>()
   const agesByBook = new Map<string, Set<AgeRange>>()
 
@@ -41,6 +46,8 @@ export async function getBibleCatalog(): Promise<BibleBookSummary[]> {
         if (!chapterMatch) continue
 
         const chapterNumber = Number(chapterMatch[1])
+        if (!approvedChapters.get(book.name)?.has(chapterNumber)) continue
+
         if (!chaptersByBook.has(book.name)) {
           chaptersByBook.set(book.name, new Set())
         }
@@ -63,6 +70,11 @@ export async function getBibleCatalog(): Promise<BibleBookSummary[]> {
       ageRanges: Array.from(agesByBook.get(slug) ?? []).sort() as AgeRange[],
     }))
     .sort((a, b) => compareBooks(a.slug, b.slug))
+}
+
+export async function isApprovedChapter(bookSlug: string, chapterNumber: number) {
+  const approvedChapters = await getApprovedChapterMap()
+  return approvedChapters.get(bookSlug)?.has(chapterNumber) ?? false
 }
 
 export async function getChapterNavigation(bookSlug: string, chapterNumber: number) {
@@ -112,4 +124,36 @@ function compareBooks(first: string, second: string) {
   }
 
   return first.localeCompare(second)
+}
+
+async function getApprovedChapterMap() {
+  const manifest = await readApprovedChapterManifest()
+  const approvedByBook = new Map<string, Set<number>>()
+  const oldTestament = manifest[TESTAMENT] ?? {}
+
+  for (const [bookSlug, chapters] of Object.entries(oldTestament)) {
+    approvedByBook.set(
+      bookSlug,
+      new Set(chapters.filter(chapter => Number.isInteger(chapter) && chapter > 0))
+    )
+  }
+
+  return approvedByBook
+}
+
+async function readApprovedChapterManifest(): Promise<ApprovedChapterManifest> {
+  const filePath = path.join(
+    process.cwd(),
+    'content',
+    'bible-text',
+    'approved-chapters.json'
+  )
+
+  try {
+    return JSON.parse(await fs.readFile(filePath, 'utf8')) as ApprovedChapterManifest
+  } catch (err) {
+    const code = (err as NodeJS.ErrnoException).code
+    if (code === 'ENOENT') return {}
+    throw err
+  }
 }

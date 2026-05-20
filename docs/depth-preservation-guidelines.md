@@ -48,6 +48,18 @@ Leviticus, Numbers, and similar passages need extra care. Preserve the specific 
 - Keep the offering type when it matters. For ages 5-7, "grain gift," "offering for sin," and "offering for guilt" are clearer than flattening everything into "a gift."
 - Do not delete numbers, animals, washing, waiting days, priestly actions, or location details just because the passage is repetitive.
 
+Legal verses must be just as child-readable as narrative verses. For example, Leviticus 5:1 should not say "public adjuration." A faithful child-readable version can say: "If someone hears a public call to tell the truth, and he saw what happened or knows about it, he must speak up. If he stays quiet, he is guilty."
+
+## Publication Approval
+
+Only chapters listed in `content/bible-text/approved-chapters.json` may appear in the public reader. Imported or generated chapters are drafts until a human review confirms:
+
+- the verse meaning has not drifted from the original reference,
+- both age ranges can be read by children in that range,
+- the wording keeps the visual storytelling tradition where the passage allows it,
+- chapter summaries and lessons are theologically precise,
+- the resource chapter includes the Genesis 1-2 style support material.
+
 ## Word Substitution Guidelines
 
 ### ✅ **Words to Simplify (Truly Complex)**

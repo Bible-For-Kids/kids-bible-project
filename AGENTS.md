@@ -42,6 +42,15 @@ The reader uses Bible text from `content/bible-text/...`, but chapter resource f
 
 Use `docs/chapter-resource-template.md` when starting a new resource chapter.
 
+## Approval Gate
+
+Generated or imported chapters are drafts until they are added to `content/bible-text/approved-chapters.json`. The public reader must only expose approved chapters.
+
+- Genesis 1-2 are the current approved baseline.
+- Do not add a chapter to the approved manifest until its resource chapter follows the Genesis 1-2 pattern and both age-range Bible text files have been reviewed for theological accuracy, child-readable vocabulary, and visual storytelling.
+- A chapter can be complete as a draft and still be unapproved. Keep it out of the manifest until it can be read independently by a child in the target age range.
+- Legal, ritual, genealogy, and measurement-heavy chapters need special review. Do not let imported adult wording such as `public adjuration`, `earthen vessel`, `ephah`, or `one log of oil` reach the public reader.
+
 ## Validation
 
 Run these before committing:

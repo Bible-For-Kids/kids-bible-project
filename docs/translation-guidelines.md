@@ -218,6 +218,19 @@ Each Bible story should follow this structure:
 - Avoid modern interpretations that change meaning
 - Respect the original historical context
 
+### Legal and Ritual Prose
+- Keep the legal meaning, but untangle adult sentence structure.
+- Replace courtroom or ritual words a child cannot read alone with plain words that keep the same action.
+- Preserve who acts, what they know, what they must do, and what happens if they do not do it.
+
+**Example - Leviticus 5:1**
+
+Avoid imported wording like: "If anyone sins, in that he hears a public adjuration to testify..."
+
+Better for ages 5-7: "If someone hears a public call to tell the truth, and he saw what happened or knows about it, he must speak up. If he stays quiet, he is guilty."
+
+Better for ages 8-10: "If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he bears his guilt."
+
 ## Resources and References
 
 ### Helpful Tools

@@ -327,6 +327,87 @@ function validateStoryMarkdown(filePath, content) {
   };
 }
 
+function validateApprovedChapterManifest(contentDir) {
+  const errors = [];
+  const warnings = [];
+  const manifestPath = path.join(contentDir, 'bible-text', 'approved-chapters.json');
+
+  if (!fs.existsSync(manifestPath)) {
+    return {
+      errors: ['Missing approved chapter manifest: bible-text/approved-chapters.json'],
+      warnings,
+      valid: false,
+    };
+  }
+
+  let manifest;
+  try {
+    manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+  } catch (err) {
+    return {
+      errors: [`Could not parse approved chapter manifest: ${err.message}`],
+      warnings,
+      valid: false,
+    };
+  }
+
+  if (!manifest || typeof manifest !== 'object' || Array.isArray(manifest)) {
+    errors.push('Approved chapter manifest must be a JSON object');
+    return { errors, warnings, valid: false };
+  }
+
+  for (const [testament, books] of Object.entries(manifest)) {
+    if (!['old-testament', 'new-testament'].includes(testament)) {
+      warnings.push(`Unknown testament "${testament}" in approved chapter manifest`);
+    }
+
+    if (!books || typeof books !== 'object' || Array.isArray(books)) {
+      errors.push(`${testament}: expected a book-to-chapters object`);
+      continue;
+    }
+
+    for (const [bookSlug, chapters] of Object.entries(books)) {
+      if (!Array.isArray(chapters)) {
+        errors.push(`${testament}/${bookSlug}: approved chapters must be an array`);
+        continue;
+      }
+
+      const seenChapters = new Set();
+      for (const chapterNumber of chapters) {
+        if (!Number.isInteger(chapterNumber) || chapterNumber < 1) {
+          errors.push(`${testament}/${bookSlug}: chapter "${chapterNumber}" must be a positive integer`);
+          continue;
+        }
+
+        if (seenChapters.has(chapterNumber)) {
+          warnings.push(`${testament}/${bookSlug}/chapter-${chapterNumber}: duplicate approved chapter entry`);
+        }
+        seenChapters.add(chapterNumber);
+
+        const requiredFiles = [
+          path.join(contentDir, testament, bookSlug, `chapter-${chapterNumber}.md`),
+          path.join(contentDir, 'bible-text', 'ages-5-7', testament, bookSlug, `chapter-${chapterNumber}.md`),
+          path.join(contentDir, 'bible-text', 'ages-8-10', testament, bookSlug, `chapter-${chapterNumber}.md`),
+        ];
+
+        for (const requiredFile of requiredFiles) {
+          if (!fs.existsSync(requiredFile)) {
+            errors.push(
+              `${testament}/${bookSlug}/chapter-${chapterNumber}: missing ${path.relative(contentDir, requiredFile)}`
+            );
+          }
+        }
+      }
+    }
+  }
+
+  return {
+    errors,
+    warnings,
+    valid: errors.length === 0,
+  };
+}
+
 function requireSection(content, marker, label, bucket) {
   if (!content.includes(marker)) {
     bucket.push(`Missing ${label}`);
@@ -471,8 +552,28 @@ function validateAll() {
     totalWarnings += result.warnings.length;
   }
 
+  const manifestResult = validateApprovedChapterManifest(contentDir);
+  console.log('');
+  if (manifestResult.valid) {
+    console.log(chalk.green('OK bible-text/approved-chapters.json'));
+    validFiles++;
+  } else {
+    console.log(chalk.red('FAIL bible-text/approved-chapters.json'));
+  }
+
+  for (const error of manifestResult.errors) {
+    console.log(chalk.red(`  Error: ${error}`));
+  }
+
+  for (const warning of manifestResult.warnings) {
+    console.log(chalk.yellow(`  Warning: ${warning}`));
+  }
+
+  totalErrors += manifestResult.errors.length;
+  totalWarnings += manifestResult.warnings.length;
+
   console.log('\n' + chalk.blue('Validation Summary:'));
-  console.log(`Files validated: ${markdownFiles.length}`);
+  console.log(`Files validated: ${markdownFiles.length + 1}`);
   console.log(chalk.green(`Valid files: ${validFiles}`));
   console.log(chalk.red(`Total errors: ${totalErrors}`));
   console.log(chalk.yellow(`Total warnings: ${totalWarnings}`));
@@ -493,4 +594,4 @@ if (require.main === module) {
   validateAll();
 }
 
-module.exports = { validateStory, validateChapter, validateAll };
+module.exports = { validateStory, validateChapter, validateApprovedChapterManifest, validateAll };

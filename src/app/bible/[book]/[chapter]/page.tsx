@@ -1,9 +1,12 @@
 import Link from 'next/link'
 import { Book } from 'lucide-react'
-import { getBibleCatalog, getChapterNavigation } from '@/lib/bible-catalog'
+import { notFound } from 'next/navigation'
+import { getBibleCatalog, getChapterNavigation, isApprovedChapter } from '@/lib/bible-catalog'
 import { loadChapterContent } from '@/lib/chapter-loader'
 import type { ChapterData } from '@/lib/chapter-loader'
 import { BibleChapterClient } from './chapter-reader-client'
+
+export const dynamicParams = false
 
 export async function generateStaticParams() {
   const catalog = await getBibleCatalog()
@@ -26,6 +29,10 @@ interface PageParams {
 export default async function BibleChapterReader({ params }: PageParams) {
   const book = params.book
   const chapterNumber = Number(params.chapter)
+
+  if (!(await isApprovedChapter(book, chapterNumber))) {
+    notFound()
+  }
 
   let chapter: ChapterData | null = null
   try {

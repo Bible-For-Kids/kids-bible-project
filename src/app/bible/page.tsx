@@ -17,7 +17,9 @@ export default async function BibleIndexPage() {
                 Home
               </Link>
               <h1 className="mt-3 text-3xl font-bold tracking-normal text-slate-950">Bible Reader</h1>
-              <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">Children&apos;s Bible Version</p>
+              <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
+                Reviewed Children&apos;s Bible Version chapters
+              </p>
             </div>
 
             <div className="inline-flex rounded-lg border border-slate-200 bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700">
@@ -36,7 +38,7 @@ export default async function BibleIndexPage() {
             <div className="rounded-lg border border-slate-200 bg-white p-4">
               <div className="flex items-center gap-3 text-slate-700">
                 <BookOpen className="h-5 w-5 text-blue-700" />
-                <span className="text-sm font-semibold">Chapters</span>
+                <span className="text-sm font-semibold">Reviewed Chapters</span>
               </div>
               <p className="mt-2 text-2xl font-bold text-slate-950">{chapterCount}</p>
             </div>
@@ -60,7 +62,7 @@ export default async function BibleIndexPage() {
                   <div>
                     <h2 className="text-xl font-bold text-slate-950">{book.name}</h2>
                     <p className="mt-1 text-sm text-slate-600">
-                      {book.chapters.length} chapter{book.chapters.length === 1 ? '' : 's'} available
+                      {book.chapters.length} reviewed chapter{book.chapters.length === 1 ? '' : 's'} available
                     </p>
                   </div>
                   <Link
