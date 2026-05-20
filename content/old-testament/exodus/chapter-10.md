@@ -180,10 +180,10 @@ The Lord said to Moses, "Stretch out your hand over the land of Egypt for the lo
 **Original Reference**: Exodus 10:13 - Moses stretched out his rod over the land of Egypt, and Yahweh brought an east wind on the land all that day, and all night; and when it was morning, the east wind brought the locusts.
 
 #### Ages 5-7
-Moses stretched his rod over the land of Egypt, and the Lord brought an east wind over the land all that day and all that night. In the morning, the east wind brought the locusts.
+Moses stretched his staff over the land of Egypt, and the Lord brought an east wind over the land all that day and all that night. In the morning, the east wind brought the locusts.
 
 #### Ages 8-10
-Moses stretched out his rod over the land of Egypt, and the Lord brought an east wind on the land all that day and all night. When morning came, the east wind brought the locusts.
+Moses stretched out his staff over the land of Egypt, and the Lord brought an east wind on the land all that day and all night. When morning came, the east wind brought the locusts.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -355,7 +355,7 @@ Moses said, "You must also give us sacrifices and burned offerings, so we may sa
 **Original Reference**: Exodus 10:26 - Our livestock also shall go with us. Not a hoof shall be left behind, for of it we must take to serve Yahweh our God; and we don't know with what we must serve Yahweh, until we come there."
 
 #### Ages 5-7
-"Our livestock must go with us too. Not one hoof will be left behind, because we must take from them to serve the Lord our God. We will not know what we must use to serve the Lord until we get there."
+"Our farm animals must go with us too. Not one hoof will be left behind, because we must take from them to serve the Lord our God. We will not know what we must use to serve the Lord until we get there."
 
 #### Ages 8-10
 "Our livestock must also go with us. Not one hoof may be left behind, because we must take from them to serve the Lord our God. We do not know what we must use to serve the Lord until we arrive there."

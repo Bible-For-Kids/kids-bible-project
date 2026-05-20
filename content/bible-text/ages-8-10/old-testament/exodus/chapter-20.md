@@ -48,7 +48,7 @@ God spoke all these words.
 "You must not murder."
 
 ### Exodus 20:14
-"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
+"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
 
 ### Exodus 20:15
 "You must not steal."

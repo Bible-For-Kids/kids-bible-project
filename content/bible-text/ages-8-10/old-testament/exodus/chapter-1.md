@@ -48,7 +48,7 @@ But the more the Egyptians afflicted them, the more the Israelites multiplied an
 So the Egyptians made the children of Israel serve with harsh labor.
 
 ### Exodus 1:14
-They made their lives bitter with hard work in mortar, brick, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
+They made the Israelites' lives bitter with hard work in mud mortar, brickmaking, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
 
 ### Exodus 1:15
 The king of Egypt spoke to the Hebrew midwives. One was named Shiphrah, and the other was named Puah.

@@ -45,10 +45,10 @@ The Lord spoke to Moses.
 He said, "I have heard the grumbling of the people of Israel. Tell them, 'At evening you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.'"
 
 ### Exodus 16:13
-That evening quail came and covered the camp. In the morning, dew lay all around the camp.
+That evening quail flew in and covered the camp. In the morning, dew lay all around the camp.
 
 ### Exodus 16:14
-When the dew was gone, thin flaky pieces were on the ground in the wilderness, like frost spread over the earth.
+When the dew dried up, thin flaky pieces were left on the ground in the wilderness, like frost spread over the earth.
 
 ### Exodus 16:15
 When the people saw it, they said to one another, "What is it?" They did not know what it was. Moses said, "This is the bread the Lord has given you to eat."
@@ -102,10 +102,10 @@ So the people rested on the seventh day.
 The people of Israel called the food manna. It was white like coriander seed, and it tasted like wafers made with honey.
 
 ### Exodus 16:32
-Moses said, "This is what the Lord commands: Keep an basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord commands: Keep a basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 ### Exodus 16:33
-Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for your families after you."
+Moses told Aaron, "Take a jar, put a basket measure of manna in it, and place it before the Lord to be kept for your families after you."
 
 ### Exodus 16:34
 Aaron placed it before the Testimony to be kept, just as the Lord commanded Moses.
@@ -114,4 +114,4 @@ Aaron placed it before the Testimony to be kept, just as the Lord commanded Mose
 The people of Israel ate manna for forty years, until they came to a land where people lived. They ate manna until they reached the edge of Canaan.
 
 ### Exodus 16:36
-An basket measure was one-tenth of a dry measure.
+A basket measure was one-tenth of a dry measure.

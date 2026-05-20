@@ -12,13 +12,13 @@ Exodus
 Moses answered, "But they will not believe me or listen to my voice. They will say, 'The Lord has not appeared to you.'"
 
 ### Exodus 4:2
-The Lord said to him, "What is that in your hand?" Moses said, "A rod."
+The Lord said to him, "What is that in your hand?" Moses said, "A staff."
 
 ### Exodus 4:3
-The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a serpent. Moses ran from it.
+The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a snake. Moses ran from it.
 
 ### Exodus 4:4
-The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a rod in his hand again.
+The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a staff in his hand again.
 
 ### Exodus 4:5
 The Lord said, "This is so they may believe that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you."
@@ -54,10 +54,10 @@ Then the Lord became angry with Moses and said, "Is not Aaron the Levite your br
 "You will speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
 
 ### Exodus 4:16
-"He will speak to the people for you. He will be your spokesman, and you will be to him in God's place.
+"Aaron will speak to the people for you. He will be your mouth, and you will stand before him with God's words."
 
 ### Exodus 4:17
-"Take this rod in your hand. With it you will do the signs."
+"Take this staff in your hand. With it you will do the signs."
 
 ### Exodus 4:18
 Moses went back to Jethro his father-in-law and said to him, "Please let me return to my relatives in Egypt and see whether they are still alive." Jethro said to Moses, "Go in peace."
@@ -66,7 +66,7 @@ Moses went back to Jethro his father-in-law and said to him, "Please let me retu
 The Lord said to Moses in Midian, "Go back to Egypt, for all the men who wanted to kill you are dead."
 
 ### Exodus 4:20
-Moses took his wife and his sons, placed them on a donkey, and returned to the land of Egypt. Moses took the rod of God in his hand.
+Moses took his wife and his sons, placed them on a donkey, and returned to the land of Egypt. Moses took the staff of God in his hand.
 
 ### Exodus 4:21
 The Lord said to Moses, "When you go back to Egypt, see that you do all the wonders before Pharaoh that I have put in your hand. But I will harden his heart, and he will not let the people go.

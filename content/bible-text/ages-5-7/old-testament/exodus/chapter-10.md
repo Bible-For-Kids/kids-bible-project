@@ -45,7 +45,7 @@ Pharaoh said to them, "Let the Lord be with you if I let you and your little one
 The Lord said to Moses, "Stretch out your hand over the land of Egypt for the locusts, so they may come up on Egypt and eat every plant of the land, all that the hail has left."
 
 ### Exodus 10:13
-Moses stretched his rod over the land of Egypt, and the Lord brought an east wind over the land all that day and all that night. In the morning, the east wind brought the locusts.
+Moses stretched his staff over the land of Egypt, and the Lord brought an east wind over the land all that day and all that night. In the morning, the east wind brought the locusts.
 
 ### Exodus 10:14
 The locusts came up over all the land of Egypt and settled in every part of Egypt. They were very heavy; there had never been locusts like them before, and there would never be such locusts again.
@@ -84,7 +84,7 @@ Pharaoh called to Moses and said, "Go, serve the Lord. Only let your flocks and 
 Moses said, "You must also give us sacrifices and burned offerings, so we may sacrifice to the Lord our God."
 
 ### Exodus 10:26
-"Our livestock must go with us too. Not one hoof will be left behind, because we must take from them to serve the Lord our God. We will not know what we must use to serve the Lord until we get there."
+"Our farm animals must go with us too. Not one hoof will be left behind, because we must take from them to serve the Lord our God. We will not know what we must use to serve the Lord until we get there."
 
 ### Exodus 10:27
 But the Lord hardened Pharaoh's heart, and he would not let them go.

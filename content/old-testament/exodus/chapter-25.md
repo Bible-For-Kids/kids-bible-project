@@ -225,7 +225,7 @@ The tabernacle is the holy tent where the Lord dwells among his people; avoid ma
 "Make a cover of the ark of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
 
 #### Ages 8-10
-"Make a atonement cover of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
+"Make an atonement cover of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
 
 **Key Vocabulary**:
 - ark: The gold-covered chest in the holy tent that held the testimony

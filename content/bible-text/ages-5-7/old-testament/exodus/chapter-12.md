@@ -57,7 +57,7 @@ For seven days you must eat bread made without yeast. On the first day, remove y
 On the first day you will gather for worship, and on the seventh day you will gather again. Do no work on those days, except preparing the food each person needs.
 
 ### Exodus 12:17
-Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day through all your families as a lasting rule.
 
 ### Exodus 12:18
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
@@ -93,7 +93,7 @@ you will say, 'It is the Passover sacrifice to the Lord. In Egypt, he passed ove
 The Israelites went and did exactly what the Lord had commanded Moses and Aaron.
 
 ### Exodus 12:29
-At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn who sat near the throne to the firstborn of the prisoner in the dungeon, and the firstborn of the animals.
+At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn who sat near the throne to the firstborn of the prisoner in the dark prison, and the firstborn of the animals.
 
 ### Exodus 12:30
 Pharaoh got up in the night, along with his servants and all the Egyptians. There was a great cry in Egypt, because there was death in every house.

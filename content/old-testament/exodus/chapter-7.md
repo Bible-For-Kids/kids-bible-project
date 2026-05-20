@@ -135,10 +135,10 @@ The Lord spoke to Moses and Aaron.
 **Original Reference**: Exodus 7:9 - "When Pharaoh speaks to you, saying, 'Perform a miracle!' then you shall tell Aaron, 'Take your rod, and cast it down before Pharaoh, and it will become a serpent.' "
 
 #### Ages 5-7
-He said, "When Pharaoh says, 'Show a miracle,' tell Aaron, 'Take your rod and throw it down before Pharaoh,' and it will become a serpent."
+He said, "When Pharaoh says, 'Show a miracle,' tell Aaron, 'Take your staff and throw it down before Pharaoh,' and it will become a snake."
 
 #### Ages 8-10
-He said, "When Pharaoh says to you, 'Show a miracle,' tell Aaron, 'Take your rod and throw it down before Pharaoh,' and it will become a serpent."
+He said, "When Pharaoh says to you, 'Show a miracle,' tell Aaron, 'Take your staff and throw it down before Pharaoh,' and it will become a snake."
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -150,10 +150,10 @@ He said, "When Pharaoh says to you, 'Show a miracle,' tell Aaron, 'Take your rod
 **Original Reference**: Exodus 7:10 - Moses and Aaron went in to Pharaoh, and they did so, as Yahweh had commanded. Aaron cast down his rod before Pharaoh and before his servants, and it became a serpent.
 
 #### Ages 5-7
-Moses and Aaron went in to Pharaoh and did what the Lord commanded. Aaron threw down his rod before Pharaoh and his servants, and it became a serpent.
+Moses and Aaron went in to Pharaoh and did what the Lord commanded. Aaron threw down his staff before Pharaoh and his servants, and it became a snake.
 
 #### Ages 8-10
-Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw down his rod before Pharaoh and his servants, and it became a serpent.
+Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw down his staff before Pharaoh and his servants, and it became a snake.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -166,10 +166,10 @@ Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw d
 **Original Reference**: Exodus 7:11 - Then Pharaoh also called for the wise men and the sorcerers. They also, the magicians of Egypt, did the same thing with their enchantments.
 
 #### Ages 5-7
-Then Pharaoh called for his wise men and sorcerers, and the magicians of Egypt did the same kind of thing with their magic arts.
+Then Pharaoh called for his wise men and magic workers, and the magicians of Egypt did the same kind of thing with their magic arts.
 
 #### Ages 8-10
-Then Pharaoh called the wise men and sorcerers, and the magicians of Egypt also did similar things by their magic arts.
+Then Pharaoh called the wise men and magic workers, and the magicians of Egypt also did similar things by their magic arts.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -180,10 +180,10 @@ Then Pharaoh called the wise men and sorcerers, and the magicians of Egypt also 
 **Original Reference**: Exodus 7:12 - For they each cast down their rods, and they became serpents; but Aaron's rod swallowed up their rods.
 
 #### Ages 5-7
-Each man threw down his rod, and the rods became serpents, but Aaron's rod swallowed their rods.
+Each man threw down his staff, and the staffs became snakes. But Aaron's staff swallowed their staffs.
 
 #### Ages 8-10
-Each man threw down his rod, and the rods became serpents, but Aaron's rod swallowed their rods.
+Each man threw down his staff, and the staffs became snakes, but Aaron's staff swallowed their staffs.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
@@ -223,10 +223,10 @@ The Lord said to Moses, "Pharaoh's heart is hardened; he refuses to let the peop
 **Original Reference**: Exodus 7:15 - Go to Pharaoh in the morning. Behold, he is going out to the water. You shall stand by the river's bank to meet him. You shall take the rod which was turned to a serpent in your hand.
 
 #### Ages 5-7
-"Go to Pharaoh in the morning when he goes out to the water. Stand by the riverbank to meet him, and take in your hand the rod that became a serpent."
+"Go to Pharaoh in the morning when he goes out to the water. Stand by the riverbank to meet him, and take in your hand the staff that became a snake."
 
 #### Ages 8-10
-"Go to Pharaoh in the morning as he goes out to the water. Stand on the riverbank to meet him, and take in your hand the rod that turned into a serpent."
+"Go to Pharaoh in the morning as he goes out to the water. Stand on the riverbank to meet him, and take in your hand the staff that turned into a snake."
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -248,10 +248,10 @@ The Lord said to Moses, "Pharaoh's heart is hardened; he refuses to let the peop
 **Original Reference**: Exodus 7:17 - Yahweh says, "In this you shall know that I am Yahweh. Behold: I will strike with the rod that is in my hand on the waters which are in the river, and they shall be turned to blood.
 
 #### Ages 5-7
-"'This is what the Lord says: By this you will know that I am the Lord. I will strike the river water with the rod in my hand, and it will turn to blood.'"
+"'This is what the Lord says: By this you will know that I am the Lord. I will strike the river water with the staff in my hand, and it will turn to blood.'"
 
 #### Ages 8-10
-"'This is what the Lord says: By this you will know that I am the Lord. With the rod in my hand I will strike the waters in the river, and they will turn to blood.'"
+"'This is what the Lord says: By this you will know that I am the Lord. With the staff in my hand I will strike the waters in the river, and they will turn to blood.'"
 
 **Key Vocabulary**:
 - blood: A sign of life, and in Passover a sign marking the houses God would pass over
@@ -273,10 +273,10 @@ The Lord said to Moses, "Pharaoh's heart is hardened; he refuses to let the peop
 **Original Reference**: Exodus 7:19 - Yahweh said to Moses, "Tell Aaron, 'Take your rod, and stretch out your hand over the waters of Egypt, over their rivers, over their streams, and over their pools, and over all their ponds of water, that they may become blood. There will be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone.' "
 
 #### Ages 5-7
-The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over Egypt's waters, over streams, rivers, ponds, and pools, so they become blood. Blood will be through all Egypt, even in wooden and stone containers.'"
+The Lord told Moses, "Say to Aaron, 'Take your staff and stretch your hand over Egypt's waters, over streams, rivers, ponds, and pools, so they become blood. Blood will be through all Egypt, even in wooden and stone containers.'"
 
 #### Ages 8-10
-The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over the waters of Egypt, over their streams, rivers, ponds, and pools, so they become blood. There will be blood throughout Egypt, in containers of wood and stone.'"
+The Lord told Moses, "Say to Aaron, 'Take your staff and stretch your hand over the waters of Egypt, over their streams, rivers, ponds, and pools, so they become blood. There will be blood throughout Egypt, in containers of wood and stone.'"
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -289,10 +289,10 @@ The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over th
 **Original Reference**: Exodus 7:20 - Moses and Aaron did so, as Yahweh commanded; and he lifted up the rod, and struck the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
 
 #### Ages 5-7
-Moses and Aaron did as the Lord commanded. Aaron lifted the rod and struck the river water while Pharaoh and his servants watched, and all the water in the river turned to blood.
+Moses and Aaron did as the Lord commanded. Aaron lifted the staff and struck the river water while Pharaoh and his servants watched, and all the water in the river turned to blood.
 
 #### Ages 8-10
-Moses and Aaron did as the Lord commanded. Aaron lifted the rod and struck the river water in the sight of Pharaoh and his servants, and all the river water turned to blood.
+Moses and Aaron did as the Lord commanded. Aaron lifted the staff and struck the river water in the sight of Pharaoh and his servants, and all the river water turned to blood.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt

@@ -67,10 +67,10 @@ The Lord spoke to Moses: "Go to Pharaoh and say to him, 'This is what the Lord s
 **Original Reference**: Exodus 8:5 - Yahweh said to Moses, "Tell Aaron, 'Stretch out your hand with your rod over the rivers, over the streams, and over the pools, and cause frogs to come up on the land of Egypt.' "
 
 #### Ages 5-7
-The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your rod over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
+The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your staff over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
 
 #### Ages 8-10
-The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your rod over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
+The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your staff over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -220,10 +220,10 @@ But when Pharaoh saw there was relief, he hardened his heart and did not listen 
 **Original Reference**: Exodus 8:16 - Yahweh said to Moses, "Tell Aaron, 'Stretch out your rod, and strike the dust of the earth, that it may become lice throughout all the land of Egypt.' "
 
 #### Ages 5-7
-The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust of the land, so it becomes lice through all the land of Egypt.'"
+The Lord said to Moses, "Tell Aaron, 'Stretch out your staff and strike the dust of the ground. The dust will become tiny biting bugs all over Egypt.'"
 
 #### Ages 8-10
-The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust of the land, so it becomes lice throughout all the land of Egypt.'"
+The Lord said to Moses, "Tell Aaron, 'Stretch out your staff and strike the dust of the land, so it becomes tiny biting bugs throughout all the land of Egypt.'"
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -235,10 +235,10 @@ The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust o
 **Original Reference**: Exodus 8:17 - They did so; and Aaron stretched out his hand with his rod, and struck the dust of the earth, and there were lice on man, and on animal; all the dust of the earth became lice throughout all the land of Egypt.
 
 #### Ages 5-7
-They did so. Aaron stretched out his hand with his rod and struck the dust of the earth, and lice came on people and animals. All the dust in Egypt became lice.
+They did what the Lord said. Aaron stretched out his hand with his staff and struck the dust of the ground. Tiny bugs came on people and animals, and the dust all over Egypt became tiny bugs.
 
 #### Ages 8-10
-They did so. Aaron stretched out his hand with his rod and struck the dust of the earth, and lice came on people and animals. All the dust of the land became lice throughout Egypt.
+They did so. Aaron stretched out his hand with his staff and struck the dust of the earth. Tiny biting bugs came on people and animals, and all the dust of the land became tiny bugs throughout Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -249,10 +249,10 @@ They did so. Aaron stretched out his hand with his rod and struck the dust of th
 **Original Reference**: Exodus 8:18 - The magicians tried with their enchantments to produce lice, but they couldn't. There were lice on man, and on animal.
 
 #### Ages 5-7
-The magicians tried with their magic arts to bring out lice, but they could not. The lice were on people and animals.
+The magicians tried to make tiny bugs with their magic arts, but they could not. The tiny bugs were on people and animals.
 
 #### Ages 8-10
-The magicians tried by their magic arts to bring out lice, but they could not. The lice were on people and animals.
+The magicians tried with their magic arts to bring out tiny bugs, but they could not. The bugs were on people and animals.
 
 ---
 
@@ -328,10 +328,10 @@ This is a good memory verse for the chapter. Preserve the exact rescue, command,
 **Original Reference**: Exodus 8:24 - Yahweh did so; and there came grievous swarms of flies into the house of Pharaoh, and into his servants' houses. In all the land of Egypt the land was corrupted by reason of the swarms of flies.
 
 #### Ages 5-7
-The Lord did so. A heavy swarm came into Pharaoh's house, into his servants' houses, and through all the land of Egypt. The land was ruined because of the swarm.
+The Lord did what he said. Thick swarms of flies came into Pharaoh's house, into his servants' houses, and all over Egypt. The land was ruined by the flies.
 
 #### Ages 8-10
-The Lord did so. A severe swarm came into Pharaoh's house, his servants' houses, and all the land of Egypt. The land was ruined because of the swarm.
+The Lord did so. Heavy swarms of flies came into Pharaoh's house, his servants' houses, and all the land of Egypt. The land was ruined because of the flies.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -428,10 +428,10 @@ Moses left Pharaoh and pleaded with the Lord.
 **Original Reference**: Exodus 8:31 - Yahweh did according to the word of Moses, and he removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one.
 
 #### Ages 5-7
-The Lord did what Moses asked and removed the swarms from Pharaoh, his servants, and his people. Not one remained.
+The Lord did what Moses asked and took the flies away from Pharaoh, his servants, and his people. Not one fly remained.
 
 #### Ages 8-10
-The Lord did according to Moses' word and removed the swarms from Pharaoh, his servants, and his people. Not one remained.
+The Lord did what Moses asked and removed the flies from Pharaoh, his servants, and his people. Not one fly remained.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt

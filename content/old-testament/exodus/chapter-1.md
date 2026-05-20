@@ -192,10 +192,10 @@ So the Egyptians made the children of Israel serve with harsh labor.
 **Original Reference**: Exodus 1:14 - and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve.
 
 #### Ages 5-7
-They made the Israelites' lives bitter with heavy work. They worked with mortar and bricks and in the fields, and the Egyptians treated them harshly.
+They made the Israelites' lives bitter with heavy work. The people worked with wet mud for bricks and worked hard in the fields, and the Egyptians treated them harshly.
 
 #### Ages 8-10
-They made their lives bitter with hard work in mortar, brick, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
+They made the Israelites' lives bitter with hard work in mud mortar, brickmaking, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them

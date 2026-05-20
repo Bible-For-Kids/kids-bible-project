@@ -183,7 +183,7 @@ This verse grounds Sabbath in creation. Preserve the link to Genesis 1-2.
 "You must not break marriage faithfulness."
 
 #### Ages 8-10
-"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
+"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
 
 ---
 

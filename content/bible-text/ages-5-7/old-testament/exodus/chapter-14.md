@@ -63,13 +63,13 @@ I will harden the hearts of the Egyptians, and they will follow them. I will be 
 The Egyptians will know that I am the Lord when I am honored over Pharaoh, his chariots, and his riders."
 
 ### Exodus 14:19
-The angel of God, who had been traveling in front of Israel's camp, moved behind them. The pillar of cloud also moved from in front of them and stood behind them.
+Then the angel of God, who had been leading Israel from the front, moved behind them. The pillar of cloud moved too and stood behind them.
 
 ### Exodus 14:20
-The cloud came between the Egyptian camp and the Israelite camp. It brought darkness to one side and light to the other, so the two groups did not come near each other all night.
+The cloud stood between Egypt's camp and Israel's camp. On one side it made darkness, and on the other side it gave light, so the two camps could not reach each other all night.
 
 ### Exodus 14:21
-Moses stretched his hand over the sea. All night the Lord pushed the sea back with a strong east wind and made the ground dry. The waters were divided.
+Then Moses stretched his hand over the sea. All night the Lord drove the water back with a strong east wind. The sea split open, and the ground became dry.
 
 ### Exodus 14:22
 The Israelites went into the middle of the sea on dry ground. The water stood like a wall on their right and on their left.

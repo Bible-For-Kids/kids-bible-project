@@ -57,7 +57,7 @@ For seven days you must eat bread made without yeast. On the first day, remove y
 On the first day you will hold a holy gathering, and on the seventh day another holy gathering. No work is to be done on those days, except preparing the food each person needs.
 
 ### Exodus 12:17
-Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day throughout your generations as a lasting command.
 
 ### Exodus 12:18
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.

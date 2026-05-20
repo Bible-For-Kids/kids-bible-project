@@ -188,10 +188,10 @@ The Lord said to Moses, "Go to the people and set them apart today and tomorrow.
 **Original Reference**: Exodus 19:13 - No hand shall touch him, but he shall surely be stoned or shot through; whether it is animal or man, he shall not live.' When the trumpet sounds long, they shall come up to the mountain."
 
 #### Ages 5-7
-"No hand may touch that person; the person must be stoned or shot through. Whether animal or person, it must not live. When the trumpet sounds long, they may come near the mountain."
+"No one may touch that person. The person must be put to death with stones or arrows. Whether it is an animal or a person, it must not live. When the trumpet sounds long, the people may come near the mountain."
 
 #### Ages 8-10
-"No hand may touch that person; the person must be stoned or shot through. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."
+"No hand may touch that person. The person must be put to death with stones or arrows. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."
 
 ---
 

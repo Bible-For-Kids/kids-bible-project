@@ -48,7 +48,7 @@ But the harder the Egyptians treated them, the more the Israelites grew in numbe
 So the Egyptians forced the children of Israel to work even harder.
 
 ### Exodus 1:14
-They made the Israelites' lives bitter with heavy work. They worked with mortar and bricks and in the fields, and the Egyptians treated them harshly.
+They made the Israelites' lives bitter with heavy work. The people worked with wet mud for bricks and worked hard in the fields, and the Egyptians treated them harshly.
 
 ### Exodus 1:15
 The king of Egypt spoke to two Hebrew midwives. Their names were Shiphrah and Puah.

@@ -277,10 +277,10 @@ The Egyptians will know that I am the Lord when I am honored over Pharaoh, his c
 **Original Reference**: Exodus 14:19 - The angel of God, who went before the camp of Israel, moved and went behind them; and the pillar of cloud moved from before them, and stood behind them.
 
 #### Ages 5-7
-The angel of God, who had been traveling in front of Israel's camp, moved behind them. The pillar of cloud also moved from in front of them and stood behind them.
+Then the angel of God, who had been leading Israel from the front, moved behind them. The pillar of cloud moved too and stood behind them.
 
 #### Ages 8-10
-The angel of God, who had been going before Israel's camp, moved and went behind them. The pillar of cloud also moved from in front of them and stood behind them.
+Then the angel of God, who had been going in front of Israel's camp, moved behind them. The pillar of cloud also moved from the front and stood behind them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -291,10 +291,10 @@ The angel of God, who had been going before Israel's camp, moved and went behind
 **Original Reference**: Exodus 14:20 - It came between the camp of Egypt and the camp of Israel. There was the cloud and the darkness, yet gave it light by night. One didn't come near the other all night.
 
 #### Ages 5-7
-The cloud came between the Egyptian camp and the Israelite camp. It brought darkness to one side and light to the other, so the two groups did not come near each other all night.
+The cloud stood between Egypt's camp and Israel's camp. On one side it made darkness, and on the other side it gave light, so the two camps could not reach each other all night.
 
 #### Ages 8-10
-It came between the Egyptian camp and the Israelite camp. The cloud brought darkness to one side and gave light to the other, so neither group came near the other all night.
+The cloud came between the Egyptian camp and the Israelite camp. It brought darkness to one side and light to the other, so the two camps did not come near each other all night.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -305,10 +305,10 @@ It came between the Egyptian camp and the Israelite camp. The cloud brought dark
 **Original Reference**: Exodus 14:21 - Moses stretched out his hand over the sea, and Yahweh caused the sea to go back by a strong east wind all night, and made the sea dry land, and the waters were divided.
 
 #### Ages 5-7
-Moses stretched his hand over the sea. All night the Lord pushed the sea back with a strong east wind and made the ground dry. The waters were divided.
+Then Moses stretched his hand over the sea. All night the Lord drove the water back with a strong east wind. The sea split open, and the ground became dry.
 
 #### Ages 8-10
-Moses stretched out his hand over the sea, and the Lord drove the sea back with a strong east wind all night. He made the sea into dry land, and the waters were divided.
+Then Moses stretched his hand over the sea. All night the Lord drove the sea back with a strong east wind and made the ground dry. The waters were divided.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt

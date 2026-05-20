@@ -173,10 +173,10 @@ He said, "I have heard the complaints of the Israelites. Tell them, 'At evening 
 **Original Reference**: Exodus 16:13 - In the evening, quail came up and covered the camp; and in the morning the dew lay around the camp.
 
 #### Ages 5-7
-That evening quail came and covered the camp. In the morning, dew lay all around the camp.
+That evening quail flew in and covered the camp. In the morning, dew lay all around the camp.
 
 #### Ages 8-10
-That evening quail came and covered the camp, and in the morning dew lay around the camp.
+That evening quail came and covered the camp, and in the morning dew lay all around the camp.
 
 ---
 
@@ -184,10 +184,10 @@ That evening quail came and covered the camp, and in the morning dew lay around 
 **Original Reference**: Exodus 16:14 - When the dew that lay had gone, behold, on the surface of the wilderness was a small round thing, small as the frost on the ground.
 
 #### Ages 5-7
-When the dew was gone, thin flaky pieces were on the ground in the wilderness, like frost spread over the earth.
+When the dew dried up, thin flaky pieces were left on the ground in the wilderness, like frost spread over the earth.
 
 #### Ages 8-10
-When the dew lifted, thin flakes were on the surface of the wilderness, as fine as frost on the ground.
+When the dew lifted, thin flakes were left on the surface of the wilderness, as fine as frost on the ground.
 
 **Key Vocabulary**:
 - wilderness: A wild place away from settled towns
@@ -221,7 +221,7 @@ Manna means "What is it?" Keep the wonder of God providing food in the wildernes
 "This is what the Lord commands: Each person should gather what they need to eat, one basket measure for each person in the tent."
 
 #### Ages 8-10
-"This is what the Lord has commanded: Gather as much as each person needs to eat, an basket measure for each person in your tents."
+"This is what the Lord has commanded: Gather as much as each person needs to eat, a basket measure for each person in your tents."
 
 ---
 
@@ -413,10 +413,10 @@ The people of Israel named the food manna. It was white like coriander seed, and
 **Original Reference**: Exodus 16:32 - Moses said, "This is the thing which Yahweh has commanded, 'Let an omer-full of it be kept throughout your generations, that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.' "
 
 #### Ages 5-7
-Moses said, "This is what the Lord commands: Keep an basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord commands: Keep a basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 #### Ages 8-10
-Moses said, "This is what the Lord has commanded: Keep an basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord has commanded: Keep a basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 **Key Vocabulary**:
 - wilderness: A wild place away from settled towns
@@ -427,10 +427,10 @@ Moses said, "This is what the Lord has commanded: Keep an basket measure of it f
 **Original Reference**: Exodus 16:33 - Moses said to Aaron, "Take a pot, and put an omer-full of manna in it, and lay it up before Yahweh, to be kept throughout your generations."
 
 #### Ages 5-7
-Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for your families after you."
+Moses told Aaron, "Take a jar, put a basket measure of manna in it, and place it before the Lord to be kept for your families after you."
 
 #### Ages 8-10
-Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for future generations."
+Moses told Aaron, "Take a jar, put a basket measure of manna in it, and place it before the Lord to be kept for future generations."
 
 **Key Vocabulary**:
 - manna: The bread-like food God gave Israel in the wilderness
@@ -467,10 +467,10 @@ The Israelites ate manna for forty years, until they came to an inhabited land. 
 **Original Reference**: Exodus 16:36 - Now an omer is one tenth of an ephah.
 
 #### Ages 5-7
-An basket measure was one-tenth of a dry measure.
+A basket measure was one-tenth of a dry measure.
 
 #### Ages 8-10
-An basket measure was one-tenth of a dry measure.
+A basket measure was one-tenth of a dry measure.
 
 ---
 

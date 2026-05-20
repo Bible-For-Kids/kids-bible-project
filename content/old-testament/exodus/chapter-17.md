@@ -160,10 +160,10 @@ Joshua did as Moses told him and fought Amalek. Moses, Aaron, and Hur went up to
 **Original Reference**: Exodus 17:11 - When Moses held up his hand, Israel prevailed. When he let down his hand, Amalek prevailed.
 
 #### Ages 5-7
-When Moses held up his hand, Israel was winning. When he lowered his hand, Amalek was winning.
+As Moses held his hand up high, Israel was winning. But whenever his hand came down, Amalek started winning.
 
 #### Ages 8-10
-Whenever Moses held up his hand, Israel gained the advantage. Whenever he lowered his hand, Amalek gained the advantage.
+Whenever Moses held up his hand, Israel gained the advantage. But whenever his hand dropped, Amalek gained the advantage.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -174,10 +174,10 @@ Whenever Moses held up his hand, Israel gained the advantage. Whenever he lowere
 **Original Reference**: Exodus 17:12 - But Moses' hands were heavy; so they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side. His hands were steady until sunset.
 
 #### Ages 5-7
-Moses' hands grew tired, so Aaron and Hur took a stone and put it under him. He sat on it, and they held up his hands, one on each side, until the sun went down.
+But Moses' hands got heavy, and he grew tired. So Aaron and Hur brought a stone for him to sit on. Then they stood beside him, one on each side, and held up his hands until the sun went down.
 
 #### Ages 8-10
-Moses' hands became heavy, so Aaron and Hur took a stone and put it under him, and he sat on it. They held up his hands, one on one side and one on the other, until sunset.
+But Moses' hands became heavy, and he grew tired. So Aaron and Hur brought a stone and put it under him, and Moses sat on it. They stood beside him, one on each side, and held up his hands until sunset.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -188,10 +188,10 @@ Moses' hands became heavy, so Aaron and Hur took a stone and put it under him, a
 **Original Reference**: Exodus 17:13 - Joshua defeated Amalek and his people with the edge of the sword.
 
 #### Ages 5-7
-Joshua defeated Amalek and his people with the sword.
+So Joshua defeated Amalek and his people with the sword.
 
 #### Ages 8-10
-Joshua defeated Amalek and his people with the sword.
+So Joshua defeated Amalek and his people with the sword.
 
 ---
 

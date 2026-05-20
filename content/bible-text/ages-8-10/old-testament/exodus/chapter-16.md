@@ -45,16 +45,16 @@ The Lord spoke to Moses.
 He said, "I have heard the complaints of the Israelites. Tell them, 'At evening you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.'"
 
 ### Exodus 16:13
-That evening quail came and covered the camp, and in the morning dew lay around the camp.
+That evening quail came and covered the camp, and in the morning dew lay all around the camp.
 
 ### Exodus 16:14
-When the dew lifted, thin flakes were on the surface of the wilderness, as fine as frost on the ground.
+When the dew lifted, thin flakes were left on the surface of the wilderness, as fine as frost on the ground.
 
 ### Exodus 16:15
 When the Israelites saw it, they asked one another, "What is it?" They did not know what it was. Moses said, "It is the bread the Lord has given you to eat."
 
 ### Exodus 16:16
-"This is what the Lord has commanded: Gather as much as each person needs to eat, an basket measure for each person in your tents."
+"This is what the Lord has commanded: Gather as much as each person needs to eat, a basket measure for each person in your tents."
 
 ### Exodus 16:17
 The Israelites did this. Some gathered more, and some gathered less.
@@ -102,10 +102,10 @@ So the people rested on the seventh day.
 The people of Israel named the food manna. It was white like coriander seed, and it tasted like wafers made with honey.
 
 ### Exodus 16:32
-Moses said, "This is what the Lord has commanded: Keep an basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord has commanded: Keep a basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 ### Exodus 16:33
-Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for future generations."
+Moses told Aaron, "Take a jar, put a basket measure of manna in it, and place it before the Lord to be kept for future generations."
 
 ### Exodus 16:34
 Aaron placed it before the Testimony to be kept, just as the Lord commanded Moses.
@@ -114,4 +114,4 @@ Aaron placed it before the Testimony to be kept, just as the Lord commanded Mose
 The Israelites ate manna for forty years, until they came to an inhabited land. They ate manna until they reached the border of Canaan.
 
 ### Exodus 16:36
-An basket measure was one-tenth of a dry measure.
+A basket measure was one-tenth of a dry measure.

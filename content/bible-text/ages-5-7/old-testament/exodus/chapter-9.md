@@ -15,19 +15,19 @@ Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the L
 "'If you refuse to let them go and still hold them back,'"
 
 ### Exodus 9:3
-"'the hand of the Lord will come on your livestock in the field: the horses, donkeys, camels, oxen, and sheep. A very terrible sickness will come.'"
+"'the hand of the Lord will come on your farm animals in the field: the horses, donkeys, camels, oxen, and sheep. A very terrible sickness will come.'"
 
 ### Exodus 9:4
-"'The Lord will make a difference between the livestock of Israel and the livestock of Egypt. Nothing that belongs to the children of Israel will die.'"
+"'The Lord will make a difference between the farm animals of Israel and the farm animals of Egypt. Nothing that belongs to the children of Israel will die.'"
 
 ### Exodus 9:5
 The Lord set a time and said, "Tomorrow the Lord will do this in the land."
 
 ### Exodus 9:6
-The next day the Lord did it. The livestock of Egypt died, but not one of the livestock of the children of Israel died.
+The next day the Lord did it. The farm animals of Egypt died, but not one of the farm animals of the children of Israel died.
 
 ### Exodus 9:7
-Pharaoh sent someone to check, and not one of Israel's livestock was dead. But Pharaoh's heart stayed hard, and he did not let the people go.
+Pharaoh sent someone to check, and not one of Israel's farm animals was dead. But Pharaoh's heart stayed hard, and he did not let the people go.
 
 ### Exodus 9:8
 The Lord said to Moses and Aaron, "Take handfuls of ashes from the furnace, and let Moses toss them toward the sky while Pharaoh watches."
@@ -63,19 +63,19 @@ The Lord said to Moses, "Get up early in the morning, stand before Pharaoh, and 
 "'Tomorrow about this time I will send very heavy hail, heavier than any hail Egypt has had from its beginning until now.'"
 
 ### Exodus 9:19
-"'Now send word and bring your livestock and everything you have in the field to safety. Every person and animal left in the field and not brought home will be struck by the hail and die.'"
+"'Now send word and bring your farm animals and everything you have in the field to safety. Every person and animal left in the field and not brought home will be struck by the hail and die.'"
 
 ### Exodus 9:20
-Those among Pharaoh's servants who feared the word of the Lord hurried their servants and livestock into the houses.
+Those among Pharaoh's servants who feared the word of the Lord hurried their servants and farm animals into the houses.
 
 ### Exodus 9:21
-But those who did not take the word of the Lord seriously left their servants and livestock in the field.
+But those who did not take the word of the Lord seriously left their servants and farm animals in the field.
 
 ### Exodus 9:22
 The Lord said to Moses, "Stretch your hand toward the sky, so hail may fall over all the land of Egypt, on people, animals, and every plant in the field."
 
 ### Exodus 9:23
-Moses stretched his rod toward the sky, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on Egypt.
+Moses stretched his staff toward the sky, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on Egypt.
 
 ### Exodus 9:24
 There was hail, with fire mixed in the hail, very heavy. Nothing like it had happened in Egypt since it became a nation.

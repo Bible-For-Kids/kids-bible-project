@@ -145,6 +145,85 @@ const CROSS_REFS = {
   '40:34': ['1 Kings 8:10-11', 'John 1:14'],
 };
 
+const STORY_REVISIONS = {
+  'Exodus 1:14': {
+    '5-7': 'They made the Israelites\' lives bitter with heavy work. The people worked with wet mud for bricks and worked hard in the fields, and the Egyptians treated them harshly.',
+    '8-10': 'They made the Israelites\' lives bitter with hard work in mud mortar, brickmaking, and all kinds of field labor. In all their work, the Egyptians treated them harshly.',
+  },
+  'Exodus 4:16': {
+    '5-7': '"Aaron will speak to the people for you. He will speak for you, and you will give him the words God gives you."',
+    '8-10': '"Aaron will speak to the people for you. He will be your mouth, and you will stand before him with God\'s words."',
+  },
+  'Exodus 7:12': {
+    '5-7': 'Each man threw down his staff, and the staffs became snakes. But Aaron\'s staff swallowed their staffs.',
+    '8-10': 'Each man threw down his staff, and the staffs became snakes, but Aaron\'s staff swallowed their staffs.',
+  },
+  'Exodus 12:17': {
+    '5-7': 'Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day through all your families as a lasting rule.',
+    '8-10': 'Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day throughout your generations as a lasting command.',
+  },
+  'Exodus 14:19': {
+    '5-7': 'Then the angel of God, who had been leading Israel from the front, moved behind them. The pillar of cloud moved too and stood behind them.',
+    '8-10': 'Then the angel of God, who had been going in front of Israel\'s camp, moved behind them. The pillar of cloud also moved from the front and stood behind them.',
+  },
+  'Exodus 14:20': {
+    '5-7': 'The cloud stood between Egypt\'s camp and Israel\'s camp. On one side it made darkness, and on the other side it gave light, so the two camps could not reach each other all night.',
+    '8-10': 'The cloud came between the Egyptian camp and the Israelite camp. It brought darkness to one side and light to the other, so the two camps did not come near each other all night.',
+  },
+  'Exodus 14:21': {
+    '5-7': 'Then Moses stretched his hand over the sea. All night the Lord drove the water back with a strong east wind. The sea split open, and the ground became dry.',
+    '8-10': 'Then Moses stretched his hand over the sea. All night the Lord drove the sea back with a strong east wind and made the ground dry. The waters were divided.',
+  },
+  'Exodus 16:13': {
+    '5-7': 'That evening quail flew in and covered the camp. In the morning, dew lay all around the camp.',
+    '8-10': 'That evening quail came and covered the camp, and in the morning dew lay all around the camp.',
+  },
+  'Exodus 16:14': {
+    '5-7': 'When the dew dried up, thin flaky pieces were left on the ground in the wilderness, like frost spread over the earth.',
+    '8-10': 'When the dew lifted, thin flakes were left on the surface of the wilderness, as fine as frost on the ground.',
+  },
+  'Exodus 8:16': {
+    '5-7': 'The Lord said to Moses, "Tell Aaron, \'Stretch out your staff and strike the dust of the ground. The dust will become tiny biting bugs all over Egypt.\'"',
+    '8-10': 'The Lord said to Moses, "Tell Aaron, \'Stretch out your staff and strike the dust of the land, so it becomes tiny biting bugs throughout all the land of Egypt.\'"',
+  },
+  'Exodus 8:17': {
+    '5-7': 'They did what the Lord said. Aaron stretched out his hand with his staff and struck the dust of the ground. Tiny bugs came on people and animals, and the dust all over Egypt became tiny bugs.',
+    '8-10': 'They did so. Aaron stretched out his hand with his staff and struck the dust of the earth. Tiny biting bugs came on people and animals, and all the dust of the land became tiny bugs throughout Egypt.',
+  },
+  'Exodus 8:18': {
+    '5-7': 'The magicians tried to make tiny bugs with their magic arts, but they could not. The tiny bugs were on people and animals.',
+    '8-10': 'The magicians tried with their magic arts to bring out tiny bugs, but they could not. The bugs were on people and animals.',
+  },
+  'Exodus 8:24': {
+    '5-7': 'The Lord did what he said. Thick swarms of flies came into Pharaoh\'s house, into his servants\' houses, and all over Egypt. The land was ruined by the flies.',
+    '8-10': 'The Lord did so. Heavy swarms of flies came into Pharaoh\'s house, his servants\' houses, and all the land of Egypt. The land was ruined because of the flies.',
+  },
+  'Exodus 8:31': {
+    '5-7': 'The Lord did what Moses asked and took the flies away from Pharaoh, his servants, and his people. Not one fly remained.',
+    '8-10': 'The Lord did what Moses asked and removed the flies from Pharaoh, his servants, and his people. Not one fly remained.',
+  },
+  'Exodus 17:11': {
+    '5-7': 'As Moses held his hand up high, Israel was winning. But whenever his hand came down, Amalek started winning.',
+    '8-10': 'Whenever Moses held up his hand, Israel gained the advantage. But whenever his hand dropped, Amalek gained the advantage.',
+  },
+  'Exodus 17:12': {
+    '5-7': 'But Moses\' hands got heavy, and he grew tired. So Aaron and Hur brought a stone for him to sit on. Then they stood beside him, one on each side, and held up his hands until the sun went down.',
+    '8-10': 'But Moses\' hands became heavy, and he grew tired. So Aaron and Hur brought a stone and put it under him, and Moses sat on it. They stood beside him, one on each side, and held up his hands until sunset.',
+  },
+  'Exodus 17:13': {
+    '5-7': 'So Joshua defeated Amalek and his people with the sword.',
+    '8-10': 'So Joshua defeated Amalek and his people with the sword.',
+  },
+  'Exodus 19:13': {
+    '5-7': '"No one may touch that person. The person must be put to death with stones or arrows. Whether it is an animal or a person, it must not live. When the trumpet sounds long, the people may come near the mountain."',
+    '8-10': '"No hand may touch that person. The person must be put to death with stones or arrows. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."',
+  },
+  'Exodus 21:20': {
+    '5-7': '"If a man hits his male or female servant with a stick, and the servant dies right away, the man must surely be punished."',
+    '8-10': '"If a man strikes his male or female servant with a stick, and the servant dies under his hand, he must surely be punished."',
+  },
+};
+
 main();
 
 function main() {
@@ -171,7 +250,7 @@ function polishExodusAgeText() {
       const content = fs.readFileSync(filePath, 'utf8');
       const verses = extractVerses(content).map(verse => ({
         ...verse,
-        body: polishExodusText(verse.body, ageRange),
+        body: polishExodusText(verse.body, ageRange, verse.reference),
       }));
 
       const parts = [
@@ -198,7 +277,7 @@ function polishExodusAgeText() {
   }
 }
 
-function polishExodusText(text, ageRange) {
+function polishExodusText(text, ageRange, reference) {
   let result = polishKidReadableText(text, ageRange);
 
   result = result
@@ -210,6 +289,14 @@ function polishExodusText(text, ageRange) {
     .replace(/\bone fourth of a hin of wine\b/g, 'one fourth-measure of wine')
     .replace(/\bone hin of olive oil\b/g, 'one liquid measure of olive oil')
     .replace(/\bbekah\b/g, 'half-silver weight')
+    .replace(/\brods\b/g, 'staffs')
+    .replace(/\brod\b/g, 'staff')
+    .replace(/\bRods\b/g, 'Staffs')
+    .replace(/\bRod\b/g, 'Staff')
+    .replace(/\bserpents\b/g, 'snakes')
+    .replace(/\bserpent\b/g, 'snake')
+    .replace(/\bSerpents\b/g, 'Snakes')
+    .replace(/\bSerpent\b/g, 'Snake')
     .replace(/\bephod\b/g, 'priestly vest')
     .replace(/\bEphod\b/g, 'Priestly vest')
     .replace(/\bbreastpiece\b/g, 'chest piece')
@@ -236,6 +323,8 @@ function polishExodusText(text, ageRange) {
     .replace(/\baccording to the holy place weight\b/g, 'by the holy place weight')
     .replace(/\barticles of silver and gold\b/g, 'silver and gold items')
     .replace(/\bfalse witness\b/g, 'false testimony')
+    .replace(/\bsorcerers\b/g, 'magic workers')
+    .replace(/\bSorcerers\b/g, 'Magic workers')
     .replace(/\bpledge\b/g, 'promise item')
     .replace(/\bno bloodguilt is counted for him\b/g, 'the person is not guilty of bloodshed')
     .replace(/\bbloodguilt is counted\b/g, 'the person is guilty of bloodshed')
@@ -281,7 +370,9 @@ function polishExodusText(text, ageRange) {
       .replace(/\bfragrant\b/g, 'sweet-smelling')
       .replace(/\bcommit adultery\b/g, 'break marriage faithfulness')
       .replace(/\bcovet\b/g, 'want to take')
-      .replace(/\bnakedness\b/g, 'body uncovered');
+      .replace(/\bnakedness\b/g, 'body uncovered')
+      .replace(/\blivestock\b/g, 'farm animals')
+      .replace(/\bdungeon\b/g, 'dark prison');
   } else {
     result = result
       .replace(/\banointing oil\b/g, 'special anointing oil')
@@ -291,7 +382,7 @@ function polishExodusText(text, ageRange) {
       .replace(/\bnakedness\b/g, 'body being uncovered');
   }
 
-  return result
+  result = result
     .replace(/\bsweet-smelling sweet-smelling incense\b/g, 'sweet-smelling incense')
     .replace(/\bfragrant sweet-smelling incense\b/g, 'sweet-smelling incense')
     .replace(/\b(?:special\s+)+anointing oil\b/g, 'special anointing oil')
@@ -340,9 +431,19 @@ function polishExodusText(text, ageRange) {
     .replace(/\bone-fourth of a hin of wine\b/g, 'one-fourth measure of wine')
     .replace(/\bWave them as an offering lifted before the Lord\b/g, 'Lift them before the Lord as an offering')
     .replace(/\bwave them as an offering lifted before the Lord\b/g, 'lift them before the Lord as an offering')
+    .replace(/\ban basket measure\b/g, 'a basket measure')
+    .replace(/\bAn basket measure\b/g, 'A basket measure')
+    .replace(/\ban priestly vest\b/g, 'a priestly vest')
+    .replace(/\bAn priestly vest\b/g, 'A priestly vest')
+    .replace(/\ba atonement cover\b/g, 'an atonement cover')
+    .replace(/\bA atonement cover\b/g, 'An atonement cover')
+    .replace(/\bgroups out of Egypt\b/g, 'people out of Egypt')
+    .replace(/\bshot through\b/g, 'shot with arrows')
     .replace(/\s+([,.;:!?])/g, '$1')
     .replace(/\s+/g, ' ')
     .trim();
+
+  return STORY_REVISIONS[reference]?.[ageRange] || result;
 }
 
 function ageTextPath(chapterNumber, ageRange) {

@@ -39,13 +39,13 @@ Moses said to Joshua, "Choose men for us and go fight Amalek. Tomorrow I will st
 Joshua did what Moses said and fought Amalek. Moses, Aaron, and Hur went up to the top of the hill.
 
 ### Exodus 17:11
-When Moses held up his hand, Israel was winning. When he lowered his hand, Amalek was winning.
+As Moses held his hand up high, Israel was winning. But whenever his hand came down, Amalek started winning.
 
 ### Exodus 17:12
-Moses' hands grew tired, so Aaron and Hur took a stone and put it under him. He sat on it, and they held up his hands, one on each side, until the sun went down.
+But Moses' hands got heavy, and he grew tired. So Aaron and Hur brought a stone for him to sit on. Then they stood beside him, one on each side, and held up his hands until the sun went down.
 
 ### Exodus 17:13
-Joshua defeated Amalek and his people with the sword.
+So Joshua defeated Amalek and his people with the sword.
 
 ### Exodus 17:14
 The Lord said to Moses, "Write this in a book so it will be remembered, and tell Joshua: I will completely wipe out the memory of Amalek from under heaven."

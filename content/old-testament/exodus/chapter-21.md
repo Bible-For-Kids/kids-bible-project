@@ -240,10 +240,10 @@ These are the judgments Moses was to set before the people.
 **Original Reference**: Exodus 21:20 - "If a man strikes his servant or his maid with a rod, and he dies under his hand, the man shall surely be punished.
 
 #### Ages 5-7
-"If a man hits his male or female servant with a rod, and the servant dies right away, the man must surely be punished."
+"If a man hits his male or female servant with a stick, and the servant dies right away, the man must surely be punished."
 
 #### Ages 8-10
-"If a man strikes his male or female servant with a rod, and the servant dies under his hand, he must surely be punished."
+"If a man strikes his male or female servant with a stick, and the servant dies under his hand, he must surely be punished."
 
 **Key Vocabulary**:
 - servant: Someone who serves or works for another person

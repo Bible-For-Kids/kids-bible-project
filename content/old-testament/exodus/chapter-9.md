@@ -41,7 +41,7 @@ Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the L
 **Original Reference**: Exodus 9:3 - behold, Yahweh's hand is on your livestock which are in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks with a very grievous pestilence.
 
 #### Ages 5-7
-"'the hand of the Lord will come on your livestock in the field: the horses, donkeys, camels, oxen, and sheep. A very terrible sickness will come.'"
+"'the hand of the Lord will come on your farm animals in the field: the horses, donkeys, camels, oxen, and sheep. A very terrible sickness will come.'"
 
 #### Ages 8-10
 "'the hand of the Lord will come on your livestock in the field: on the horses, donkeys, camels, oxen, and sheep. There will be a very severe disease.'"
@@ -52,7 +52,7 @@ Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the L
 **Original Reference**: Exodus 9:4 - Yahweh will make a distinction between the livestock of Israel and the livestock of Egypt; and nothing shall die of all that belongs to the children of Israel." ' "
 
 #### Ages 5-7
-"'The Lord will make a difference between the livestock of Israel and the livestock of Egypt. Nothing that belongs to the children of Israel will die.'"
+"'The Lord will make a difference between the farm animals of Israel and the farm animals of Egypt. Nothing that belongs to the children of Israel will die.'"
 
 #### Ages 8-10
 "'The Lord will make a distinction between the livestock of Israel and the livestock of Egypt, and nothing that belongs to the children of Israel will die.'"
@@ -77,7 +77,7 @@ The Lord set a time, saying, "Tomorrow the Lord will do this thing in the land."
 **Original Reference**: Exodus 9:6 - Yahweh did that thing on the next day; and all the livestock of Egypt died, but of the livestock of the children of Israel, not one died.
 
 #### Ages 5-7
-The next day the Lord did it. The livestock of Egypt died, but not one of the livestock of the children of Israel died.
+The next day the Lord did it. The farm animals of Egypt died, but not one of the farm animals of the children of Israel died.
 
 #### Ages 8-10
 The Lord did this the next day. All the livestock of Egypt died, but not one of the livestock of the children of Israel died.
@@ -91,7 +91,7 @@ The Lord did this the next day. All the livestock of Egypt died, but not one of 
 **Original Reference**: Exodus 9:7 - Pharaoh sent, and, behold, there was not so much as one of the livestock of the Israelites dead. But the heart of Pharaoh was stubborn, and he didn't let the people go.
 
 #### Ages 5-7
-Pharaoh sent someone to check, and not one of Israel's livestock was dead. But Pharaoh's heart stayed hard, and he did not let the people go.
+Pharaoh sent someone to check, and not one of Israel's farm animals was dead. But Pharaoh's heart stayed hard, and he did not let the people go.
 
 #### Ages 8-10
 Pharaoh sent to check, and not one of the Israelites' livestock was dead. Yet Pharaoh's heart was hardened, and he did not let the people go.
@@ -253,7 +253,7 @@ This is a good memory verse for the chapter. Preserve the exact rescue, command,
 **Original Reference**: Exodus 9:19 - Now therefore command that all of your livestock and all that you have in the field be brought into shelter. The hail will come down on every man and animal that is found in the field, and isn't brought home, and they will die." ' "
 
 #### Ages 5-7
-"'Now send word and bring your livestock and everything you have in the field to safety. Every person and animal left in the field and not brought home will be struck by the hail and die.'"
+"'Now send word and bring your farm animals and everything you have in the field to safety. Every person and animal left in the field and not brought home will be struck by the hail and die.'"
 
 #### Ages 8-10
 "'Now send and gather your livestock and everything you have in the field. Every person and animal found in the field and not brought home will have the hail come down on them, and they will die.'"
@@ -264,7 +264,7 @@ This is a good memory verse for the chapter. Preserve the exact rescue, command,
 **Original Reference**: Exodus 9:20 - Those who feared Yahweh's word among the servants of Pharaoh made their servants and their livestock flee into the houses.
 
 #### Ages 5-7
-Those among Pharaoh's servants who feared the word of the Lord hurried their servants and livestock into the houses.
+Those among Pharaoh's servants who feared the word of the Lord hurried their servants and farm animals into the houses.
 
 #### Ages 8-10
 Whoever among Pharaoh's servants feared the word of the Lord made his servants and livestock flee into the houses.
@@ -278,7 +278,7 @@ Whoever among Pharaoh's servants feared the word of the Lord made his servants a
 **Original Reference**: Exodus 9:21 - Whoever didn't respect Yahweh's word left his servants and his livestock in the field.
 
 #### Ages 5-7
-But those who did not take the word of the Lord seriously left their servants and livestock in the field.
+But those who did not take the word of the Lord seriously left their servants and farm animals in the field.
 
 #### Ages 8-10
 Whoever did not regard the word of the Lord left his servants and livestock in the field.
@@ -303,10 +303,10 @@ The Lord said to Moses, "Stretch out your hand toward heaven, so there may be ha
 **Original Reference**: Exodus 9:23 - Moses stretched out his rod toward the heavens, and Yahweh sent thunder and hail; and lightning flashed down to the earth. Yahweh rained hail on the land of Egypt.
 
 #### Ages 5-7
-Moses stretched his rod toward the sky, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on Egypt.
+Moses stretched his staff toward the sky, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on Egypt.
 
 #### Ages 8-10
-Moses stretched out his rod toward heaven, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on the land of Egypt.
+Moses stretched out his staff toward heaven, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on the land of Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them

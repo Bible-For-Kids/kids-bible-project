@@ -62,10 +62,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:4 - These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest's office.
 
 #### Ages 5-7
-"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
+"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
 
 #### Ages 8-10
-"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
+"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
 
 **Key Vocabulary**:
 - Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest

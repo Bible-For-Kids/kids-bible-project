@@ -21,7 +21,7 @@ The Lord spoke to Moses and said, "Go to Pharaoh and tell him, 'This is what the
 "'The frogs will come up on you, on your people, and on all your servants.'"
 
 ### Exodus 8:5
-The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your rod over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
+The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your staff over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
 
 ### Exodus 8:6
 Aaron stretched his hand over the waters of Egypt, and frogs came up and covered the land.
@@ -54,13 +54,13 @@ The people gathered them into piles, and the land smelled bad.
 But when Pharaoh saw that there was relief, he made his heart hard and would not listen to them, just as the Lord had said.
 
 ### Exodus 8:16
-The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust of the land, so it becomes lice through all the land of Egypt.'"
+The Lord said to Moses, "Tell Aaron, 'Stretch out your staff and strike the dust of the ground. The dust will become tiny biting bugs all over Egypt.'"
 
 ### Exodus 8:17
-They did so. Aaron stretched out his hand with his rod and struck the dust of the earth, and lice came on people and animals. All the dust in Egypt became lice.
+They did what the Lord said. Aaron stretched out his hand with his staff and struck the dust of the ground. Tiny bugs came on people and animals, and the dust all over Egypt became tiny bugs.
 
 ### Exodus 8:18
-The magicians tried with their magic arts to bring out lice, but they could not. The lice were on people and animals.
+The magicians tried to make tiny bugs with their magic arts, but they could not. The tiny bugs were on people and animals.
 
 ### Exodus 8:19
 Then the magicians said to Pharaoh, "This is the finger of God." But Pharaoh's heart stayed hard, and he would not listen, just as the Lord had said.
@@ -78,7 +78,7 @@ The Lord said to Moses, "Get up early in the morning and stand before Pharaoh as
 "'I will make a difference between my people and your people. Tomorrow this sign will happen.'"
 
 ### Exodus 8:24
-The Lord did so. A heavy swarm came into Pharaoh's house, into his servants' houses, and through all the land of Egypt. The land was ruined because of the swarm.
+The Lord did what he said. Thick swarms of flies came into Pharaoh's house, into his servants' houses, and all over Egypt. The land was ruined by the flies.
 
 ### Exodus 8:25
 Pharaoh called for Moses and Aaron and said, "Go, sacrifice to your God here in the land."
@@ -99,7 +99,7 @@ Moses said, "When I leave you, I will pray to the Lord. Tomorrow the swarms will
 Moses left Pharaoh and prayed to the Lord.
 
 ### Exodus 8:31
-The Lord did what Moses asked and removed the swarms from Pharaoh, his servants, and his people. Not one remained.
+The Lord did what Moses asked and took the flies away from Pharaoh, his servants, and his people. Not one fly remained.
 
 ### Exodus 8:32
 But Pharaoh made his heart hard this time also, and he would not let the people go.

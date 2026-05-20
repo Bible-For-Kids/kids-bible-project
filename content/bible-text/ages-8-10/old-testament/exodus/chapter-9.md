@@ -75,7 +75,7 @@ Whoever did not regard the word of the Lord left his servants and livestock in t
 The Lord said to Moses, "Stretch out your hand toward heaven, so there may be hail in all the land of Egypt, on people, animals, and every plant of the field throughout Egypt."
 
 ### Exodus 9:23
-Moses stretched out his rod toward heaven, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on the land of Egypt.
+Moses stretched out his staff toward heaven, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on the land of Egypt.
 
 ### Exodus 9:24
 There was hail, and fire mixed with the hail, very severe. There had been nothing like it in all the land of Egypt since it became a nation.

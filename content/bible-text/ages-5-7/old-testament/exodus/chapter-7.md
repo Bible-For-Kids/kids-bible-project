@@ -33,16 +33,16 @@ Moses was eighty years old, and Aaron was eighty-three years old, when they spok
 The Lord spoke to Moses and Aaron.
 
 ### Exodus 7:9
-He said, "When Pharaoh says, 'Show a miracle,' tell Aaron, 'Take your rod and throw it down before Pharaoh,' and it will become a serpent."
+He said, "When Pharaoh says, 'Show a miracle,' tell Aaron, 'Take your staff and throw it down before Pharaoh,' and it will become a snake."
 
 ### Exodus 7:10
-Moses and Aaron went in to Pharaoh and did what the Lord commanded. Aaron threw down his rod before Pharaoh and his servants, and it became a serpent.
+Moses and Aaron went in to Pharaoh and did what the Lord commanded. Aaron threw down his staff before Pharaoh and his servants, and it became a snake.
 
 ### Exodus 7:11
-Then Pharaoh called for his wise men and sorcerers, and the magicians of Egypt did the same kind of thing with their magic arts.
+Then Pharaoh called for his wise men and magic workers, and the magicians of Egypt did the same kind of thing with their magic arts.
 
 ### Exodus 7:12
-Each man threw down his rod, and the rods became serpents, but Aaron's rod swallowed their rods.
+Each man threw down his staff, and the staffs became snakes. But Aaron's staff swallowed their staffs.
 
 ### Exodus 7:13
 Pharaoh's heart grew hard, and he would not listen to them, just as the Lord had said.
@@ -51,22 +51,22 @@ Pharaoh's heart grew hard, and he would not listen to them, just as the Lord had
 The Lord said to Moses, "Pharaoh's heart is hard. He refuses to let the people go."
 
 ### Exodus 7:15
-"Go to Pharaoh in the morning when he goes out to the water. Stand by the riverbank to meet him, and take in your hand the rod that became a serpent."
+"Go to Pharaoh in the morning when he goes out to the water. Stand by the riverbank to meet him, and take in your hand the staff that became a snake."
 
 ### Exodus 7:16
 "Say to him, 'The Lord God of the Hebrews sent me to you, saying, Let my people go, so they may serve me in the wilderness. But until now you have not listened.'"
 
 ### Exodus 7:17
-"'This is what the Lord says: By this you will know that I am the Lord. I will strike the river water with the rod in my hand, and it will turn to blood.'"
+"'This is what the Lord says: By this you will know that I am the Lord. I will strike the river water with the staff in my hand, and it will turn to blood.'"
 
 ### Exodus 7:18
 "'The fish in the river will die, the river will smell bad, and the Egyptians will hate drinking water from it.'"
 
 ### Exodus 7:19
-The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over Egypt's waters, over streams, rivers, ponds, and pools, so they become blood. Blood will be through all Egypt, even in wooden and stone containers.'"
+The Lord told Moses, "Say to Aaron, 'Take your staff and stretch your hand over Egypt's waters, over streams, rivers, ponds, and pools, so they become blood. Blood will be through all Egypt, even in wooden and stone containers.'"
 
 ### Exodus 7:20
-Moses and Aaron did as the Lord commanded. Aaron lifted the rod and struck the river water while Pharaoh and his servants watched, and all the water in the river turned to blood.
+Moses and Aaron did as the Lord commanded. Aaron lifted the staff and struck the river water while Pharaoh and his servants watched, and all the water in the river turned to blood.
 
 ### Exodus 7:21
 The fish in the river died, the river smelled bad, and the Egyptians could not drink from it. Blood was through all the land of Egypt.

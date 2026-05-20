@@ -45,7 +45,7 @@ The Lord said to Moses, "Go to the people and make them ready today and tomorrow
 "Set a boundary for the people all around the mountain. Tell them, 'Be careful not to go up the mountain or touch its edge. Anyone who touches the mountain must surely die.'"
 
 ### Exodus 19:13
-"No hand may touch that person; the person must be stoned or shot through. Whether animal or person, it must not live. When the trumpet sounds long, they may come near the mountain."
+"No one may touch that person. The person must be put to death with stones or arrows. Whether it is an animal or a person, it must not live. When the trumpet sounds long, the people may come near the mountain."
 
 ### Exodus 19:14
 Moses went down from the mountain to the people. He made the people ready, and they washed their clothes.

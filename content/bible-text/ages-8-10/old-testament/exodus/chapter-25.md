@@ -57,7 +57,7 @@ The Lord spoke to Moses, saying,
 "Put into the ark the testimony that I will give you."
 
 ### Exodus 25:17
-"Make a atonement cover of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
+"Make an atonement cover of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
 
 ### Exodus 25:18
 "Make two cherubim of hammered gold at the two ends of the atonement cover."

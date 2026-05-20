@@ -66,7 +66,7 @@ These are the rules God told Moses to place before the people.
 "then if the hurt man gets up and walks outside with his staff, the one who hit him will not be put to death. But he must pay for the lost time and make sure the man is healed."
 
 ### Exodus 21:20
-"If a man hits his male or female servant with a rod, and the servant dies right away, the man must surely be punished."
+"If a man hits his male or female servant with a stick, and the servant dies right away, the man must surely be punished."
 
 ### Exodus 21:21
 "But if the servant lives a day or two, the man will not be punished in that same way, because the servant was counted as his property."

@@ -66,7 +66,7 @@ These are the judgments Moses was to set before the people.
 "then if the injured man gets up and walks outside with his staff, the one who hit him will be cleared. Still, he must pay for the lost time and provide for his healing."
 
 ### Exodus 21:20
-"If a man strikes his male or female servant with a rod, and the servant dies under his hand, he must surely be punished."
+"If a man strikes his male or female servant with a stick, and the servant dies under his hand, he must surely be punished."
 
 ### Exodus 21:21
 "But if the servant survives a day or two, the man will not be punished in that same way, because the servant was considered his property."

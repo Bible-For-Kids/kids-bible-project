@@ -224,10 +224,10 @@ On the first day you will hold a holy gathering, and on the seventh day another 
 **Original Reference**: Exodus 12:17 - You shall observe the feast of unleavened bread; for in this same day I have brought your armies out of the land of Egypt. Therefore you shall observe this day throughout your generations by an ordinance forever.
 
 #### Ages 5-7
-Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day through all your families as a lasting rule.
 
 #### Ages 8-10
-Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day throughout your generations as a lasting command.
 
 ---
 
@@ -369,7 +369,7 @@ The Israelites went and did exactly as the Lord had commanded Moses and Aaron.
 **Original Reference**: Exodus 12:29 - At midnight, Yahweh struck all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of livestock.
 
 #### Ages 5-7
-At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn who sat near the throne to the firstborn of the prisoner in the dungeon, and the firstborn of the animals.
+At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn who sat near the throne to the firstborn of the prisoner in the dark prison, and the firstborn of the animals.
 
 #### Ages 8-10
 At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dungeon, and every firstborn of the livestock.

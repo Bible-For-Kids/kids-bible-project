@@ -18,7 +18,7 @@ Exodus
 "Speak to all the skilled people whom I have filled with a spirit of wisdom. They must make Aaron's clothes to set him apart, so he may serve me as priest."
 
 ### Exodus 28:4
-"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
+"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
 
 ### Exodus 28:5
 "They must use gold, blue, purple, and red thread yarn, and fine linen."

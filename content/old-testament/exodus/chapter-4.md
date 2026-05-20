@@ -30,10 +30,10 @@ Moses answered, "But they will not believe me or listen to my voice. They will s
 **Original Reference**: Exodus 4:2 - Yahweh said to him, "What is that in your hand?" He said, "A rod."
 
 #### Ages 5-7
-The Lord said to him, "What is that in your hand?" Moses said, "A rod."
+The Lord said to him, "What is that in your hand?" Moses said, "A staff."
 
 #### Ages 8-10
-The Lord said to him, "What is that in your hand?" Moses said, "A rod."
+The Lord said to him, "What is that in your hand?" Moses said, "A staff."
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -44,10 +44,10 @@ The Lord said to him, "What is that in your hand?" Moses said, "A rod."
 **Original Reference**: Exodus 4:3 - He said, "Throw it on the ground." He threw it on the ground, and it became a snake; and Moses ran away from it.
 
 #### Ages 5-7
-The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a serpent. Moses ran away from it.
+The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a snake. Moses ran away from it.
 
 #### Ages 8-10
-The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a serpent. Moses ran from it.
+The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a snake. Moses ran from it.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -58,10 +58,10 @@ The Lord said, "Throw it on the ground." Moses threw it on the ground, and it be
 **Original Reference**: Exodus 4:4 - Yahweh said to Moses, "Stretch out your hand, and take it by the tail." He stretched out his hand, and took hold of it, and it became a rod in his hand.
 
 #### Ages 5-7
-The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a rod in his hand again.
+The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a staff in his hand again.
 
 #### Ages 8-10
-The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a rod in his hand again.
+The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a staff in his hand again.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -218,10 +218,10 @@ Then the Lord became angry with Moses and said, "Is not Aaron the Levite your br
 **Original Reference**: Exodus 4:16 - He will be your spokesman to the people. It will happen that he will be to you a mouth, and you will be to him as God.
 
 #### Ages 5-7
-"Aaron will speak to the people for you. He will be your spokesman, and you will be to him in God's place.
+"Aaron will speak to the people for you. He will speak for you, and you will give him the words God gives you."
 
 #### Ages 8-10
-"He will speak to the people for you. He will be your spokesman, and you will be to him in God's place.
+"Aaron will speak to the people for you. He will be your mouth, and you will stand before him with God's words."
 
 **Key Vocabulary**:
 - Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
@@ -232,10 +232,10 @@ Then the Lord became angry with Moses and said, "Is not Aaron the Levite your br
 **Original Reference**: Exodus 4:17 - You shall take this rod in your hand, with which you shall do the signs."
 
 #### Ages 5-7
-"Take this rod in your hand. With it you will do the signs."
+"Take this staff in your hand. With it you will do the signs."
 
 #### Ages 8-10
-"Take this rod in your hand. With it you will do the signs."
+"Take this staff in your hand. With it you will do the signs."
 
 **Key Vocabulary**:
 - sign: Something God gives or does to show his word is true
@@ -274,10 +274,10 @@ The Lord said to Moses in Midian, "Go back to Egypt, for all the men who wanted 
 **Original Reference**: Exodus 4:20 - Moses took his wife and his sons, and set them on a donkey, and he returned to the land of Egypt. Moses took God's rod in his hand.
 
 #### Ages 5-7
-Moses took his wife and his sons, put them on a donkey, and went back toward Egypt. Moses carried the rod of God in his hand.
+Moses took his wife and his sons, put them on a donkey, and went back toward Egypt. Moses carried the staff of God in his hand.
 
 #### Ages 8-10
-Moses took his wife and his sons, placed them on a donkey, and returned to the land of Egypt. Moses took the rod of God in his hand.
+Moses took his wife and his sons, placed them on a donkey, and returned to the land of Egypt. Moses took the staff of God in his hand.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
