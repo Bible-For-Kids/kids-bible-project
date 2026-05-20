@@ -106,6 +106,7 @@ const VOCABULARY = {
   Rachel: 'Jacob\'s loved wife and the mother of Joseph and Benjamin',
   rainbow: 'The sign God gave of his covenant after the flood',
   Rebekah: 'Isaac\'s wife and the mother of Jacob and Esau',
+  remembered: 'God turning his faithful care toward someone he has not forgotten',
   repentance: 'Turning from sin with a changed heart',
   refuge: 'A safe place to run for help',
   reunion: 'Coming together again after being apart',

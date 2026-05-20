@@ -36,7 +36,7 @@ Cush became the father of Nimrod. Nimrod became a mighty man on the earth.
 Nimrod was a mighty hunter before the Lord. That is why people said, "Like Nimrod, a mighty hunter before the Lord."
 
 ### Genesis 10:10
-The first centers of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
+The first places in Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
 
 ### Genesis 10:11
 From Shinar, Nimrod went to Assyria. There he built the cities of Nineveh, Rehoboth Ir, and Calah.

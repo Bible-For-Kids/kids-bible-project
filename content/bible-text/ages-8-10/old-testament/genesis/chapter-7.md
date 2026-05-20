@@ -39,7 +39,7 @@ Male and female, they came to Noah and entered the ark, just as God had commande
 After seven days, the floodwaters came on the earth.
 
 ### Genesis 7:11
-In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens were opened.
+In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens opened.
 
 ### Genesis 7:12
 Rain fell on the earth for 40 days and 40 nights.

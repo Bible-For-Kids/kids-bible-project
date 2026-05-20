@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 8:1
-God remembered Noah and all the wild animals and livestock with him in the ark. He sent a wind over the earth, and the waters began to recede.
+God remembered Noah and all the wild animals and livestock with him in the ark. God had not forgotten them. He sent a wind over the earth, and the waters began to recede.
 
 ### Genesis 8:2
 The springs of the deep and the floodgates of the heavens were closed, and the rain from the sky stopped.
@@ -45,7 +45,7 @@ When the dove returned to him in the evening, Noah saw a freshly plucked olive l
 He waited seven more days and sent the dove out again, but this time it did not return to him.
 
 ### Genesis 8:13
-In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and saw that the ground was dry.
+In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and looked out. He saw that the ground was dry.
 
 ### Genesis 8:14
 By the twenty-seventh day of the second month, the earth was dry.

@@ -4,7 +4,7 @@
 Genesis 8 shows God remembering Noah as the floodwaters go down. Noah leaves the ark, worships the Lord, and God promises the ordered seasons will continue while the earth remains.
 
 ## Important Keywords
-- remembered: A key word that helps explain this chapter.
+- remembered: God turning his faithful care toward someone he has not forgotten
 - ark: The large boat God told Noah to build
 - altar: A special place where someone worshiped the Lord with an offering
 - offering: A gift brought to the Lord in worship
@@ -16,16 +16,16 @@ Genesis 8 shows God remembering Noah as the floodwaters go down. Noah leaves the
 **Original Reference**: Genesis 8:1 - God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided.
 
 #### Ages 5-7
-God remembered Noah and all the animals with him in the ark. God sent a wind over the earth, and the waters began to go down.
+God remembered Noah and all the animals with him in the ark. God had not forgotten them. He sent a wind over the earth, and the waters began to go down.
 
 #### Ages 8-10
-God remembered Noah and all the wild animals and livestock with him in the ark. He sent a wind over the earth, and the waters began to recede.
+God remembered Noah and all the wild animals and livestock with him in the ark. God had not forgotten them. He sent a wind over the earth, and the waters began to recede.
 
 **Translation Notes**:
 In the Bible, God remembering means he acts faithfully; it does not mean he had forgotten.
 
 **Key Vocabulary**:
-- remembered: A key word that helps explain this chapter.
+- remembered: God turning his faithful care toward someone he has not forgotten
 - ark: The large boat God told Noah to build
 
 **Cross-References**:
@@ -170,10 +170,10 @@ He waited seven more days and sent the dove out again, but this time it did not 
 **Original Reference**: Genesis 8:13 - In the six hundred first year, in the first month, the first day of the month, the waters were dried up from the earth. Noah removed the covering of the ship, and looked. He saw that the surface of the ground was dry.
 
 #### Ages 5-7
-In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and saw that the ground was dry.
+In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and looked out. He saw that the ground was dry.
 
 #### Ages 8-10
-In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and saw that the ground was dry.
+In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and looked out. He saw that the ground was dry.
 
 **Key Vocabulary**:
 - ark: The large boat God told Noah to build
@@ -256,7 +256,7 @@ All the animals, all the creatures that move along the ground, and all the birds
 **Original Reference**: Genesis 8:20 - Noah built an altar to Yahweh, and took of every clean animal, and of every clean bird, and offered burnt offerings on the altar.
 
 #### Ages 5-7
-Then Noah built an altar to the Lord. He took some of every clean animal and clean bird and offered burnt offerings on the altar.
+Then Noah built an altar to the Lord. He took some of every clean animal and clean bird and offered them as burned offerings on the altar.
 
 #### Ages 8-10
 Then Noah built an altar to the Lord. Taking some of every clean animal and clean bird, he offered burnt offerings on the altar.

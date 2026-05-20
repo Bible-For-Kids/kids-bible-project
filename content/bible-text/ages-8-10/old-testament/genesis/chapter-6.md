@@ -15,10 +15,10 @@ When human beings began to increase in number on the earth, daughters were born 
 The sons of God saw that the daughters of humans were beautiful, and they took as wives any they chose.
 
 ### Genesis 6:3
-Then the Lord said, "My Spirit will not contend with humans forever, for they are mortal. Their days will be 120 years."
+Then the Lord said, "My Spirit will not contend with humans forever, for they are flesh and will die. Their days will be 120 years."
 
 ### Genesis 6:4
-The Nephilim were on the earth in those days, and also afterward. They were the mighty men of long ago, men of renown.
+The Nephilim were on the earth in those days, and also afterward. They were the mighty men of long ago, men well known in their time.
 
 ### Genesis 6:5
 The Lord saw that human wickedness had become great on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.
@@ -48,7 +48,7 @@ God saw how corrupt the earth had become, for all flesh had corrupted its way on
 So God said to Noah, "I am going to put an end to all flesh, because the earth is filled with violence because of them. I am surely going to destroy them with the earth.
 
 ### Genesis 6:14
-Make yourself a great ark of gopher wood. Make rooms inside it and cover it with pitch inside and outside so the waters cannot come in.
+Make yourself a great ark of gopher wood. Make rooms inside it and cover it with pitch, a sticky tar, inside and outside so the waters cannot come in.
 
 ### Genesis 6:15
 This is how you are to build it: the ark shall be about 450 feet long, 75 feet wide, and 45 feet high.

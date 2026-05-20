@@ -41,10 +41,10 @@ As people moved east, they found a plain in Shinar and settled there.
 **Original Reference**: Genesis 11:3 - They said to one another, "Come, let's make bricks, and burn them thoroughly." They had brick for stone, and they used tar for mortar.
 
 #### Ages 5-7
-They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and tar instead of mortar.
+They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and sticky tar to hold the bricks together.
 
 #### Ages 8-10
-They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar.
+They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar to hold the bricks together.
 
 ---
 
@@ -52,10 +52,10 @@ They said to one another, "Come, let us make bricks and bake them thoroughly." T
 **Original Reference**: Genesis 11:4 - They said, "Come, let's build ourselves a city, and a tower whose top reaches to the sky, and let's make a name for ourselves, lest we be scattered abroad on the surface of the whole earth."
 
 #### Ages 5-7
-Then they said, "Come, let us build ourselves a city and a tower with its top reaching toward the heavens. Let us make a name for ourselves, so we will not be scattered over the whole earth."
+Then they said, "Come, let us build ourselves a city and a tower with its top reaching toward the heavens. Let us make a great name for ourselves, so we will not be scattered over the whole earth."
 
 #### Ages 8-10
-Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a name for ourselves, so we will not be scattered over the whole earth."
+Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a great name for ourselves, so we will not be scattered over the whole earth."
 
 **Translation Notes**:
 Keep the people's motive clear: they wanted a name for themselves and feared being scattered.
@@ -97,7 +97,7 @@ The Lord said, "They are one people, and they all have one language. This is onl
 **Original Reference**: Genesis 11:7 - Come, let's go down, and there confuse their language, that they may not understand one another's speech."
 
 #### Ages 5-7
-Come, let us go down and confuse their language, so they will not understand one another."
+Come, let us go down and mix up their language, so they will not understand one another."
 
 #### Ages 8-10
 Come, let us go down and confuse their language, so they will not understand one another's speech."
@@ -114,7 +114,7 @@ Use careful wording for God's speech; do not make the Lord sound confused or thr
 **Original Reference**: Genesis 11:8 - So Yahweh scattered them abroad from there on the surface of all the earth. They stopped building the city.
 
 #### Ages 5-7
-So the Lord scattered them from there over the whole earth. They stopped building the city.
+So the Lord scattered them from there over the whole earth, and they stopped building the city.
 
 #### Ages 8-10
 So the Lord scattered them from there over the whole earth, and they stopped building the city.
@@ -128,7 +128,7 @@ So the Lord scattered them from there over the whole earth, and they stopped bui
 **Original Reference**: Genesis 11:9 - Therefore its name was called Babel, because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.
 
 #### Ages 5-7
-That is why the city was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth.
+That is why the city was called Babel, because there the Lord mixed up the language of the whole earth. From there, the Lord scattered them over all the earth.
 
 #### Ages 8-10
 That is why it was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth.
@@ -416,7 +416,7 @@ The people of the earth shared one language and gathered in Shinar to build a ci
 ## Memory Verses by Age
 
 ### Ages 5-7
-That is why the city was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth. - Genesis 11:9
+That is why the city was called Babel, because there the Lord mixed up the language of the whole earth. From there, the Lord scattered them over all the earth. - Genesis 11:9
 
 ### Ages 8-10
 That is why it was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth. - Genesis 11:9

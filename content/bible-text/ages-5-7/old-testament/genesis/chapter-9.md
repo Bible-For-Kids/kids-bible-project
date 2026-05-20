@@ -18,13 +18,13 @@ All the animals of the earth, all the birds of the sky, every creature that move
 Every moving thing that lives will be food for you. I give them to you, just as I gave you the green plants.
 
 ### Genesis 9:4
-But you must not eat meat that still has its lifeblood in it.
+But you must not eat meat that still has its life-blood in it.
 
 ### Genesis 9:5
-For your lifeblood, I will require an accounting. I will require it from every animal and from every human being.
+For your life-blood, I will call anyone to answer for taking human life. I will require it from every animal and from every human being.
 
 ### Genesis 9:6
-Whoever sheds human blood, by humans that person's blood will be shed, because God made human beings in his image.
+Whoever sheds human blood, that person's blood will be shed by humans, because God made human beings in his image.
 
 ### Genesis 9:7
 As for you, have children and grow in number. Spread out over the earth and become many."
@@ -36,7 +36,7 @@ Then God said to Noah and to his sons with him,
 "I now make my covenant with you and with your children after you.
 
 ### Genesis 9:10
-I also make it with every living creature with you: the birds, the livestock, and all the wild animals, every creature that came out of the ark.
+I also make it with every living creature with you: the birds, the farm animals, and all the wild animals, every creature that came out of the ark.
 
 ### Genesis 9:11
 I make my covenant with you: never again will all living creatures be destroyed by floodwaters. Never again will a flood destroy the earth."
@@ -66,16 +66,16 @@ The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was th
 These three were Noah's sons, and from them came the people who spread over the whole earth.
 
 ### Genesis 9:20
-Noah became a man of the soil, and he planted a vineyard.
+Noah began to work the soil, and he planted a vineyard.
 
 ### Genesis 9:21
-Noah drank some of the wine and became drunk. He lay uncovered inside his tent.
+Noah drank some of the wine and became drunk. He lay inside his tent with no covering over him.
 
 ### Genesis 9:22
 Ham, the father of Canaan, saw his father uncovered and told his two brothers outside.
 
 ### Genesis 9:23
-Shem and Japheth took a garment and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not see him uncovered.
+Shem and Japheth took a piece of clothing and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not see him uncovered.
 
 ### Genesis 9:24
 When Noah woke up from his wine and learned what his youngest son had done to him,

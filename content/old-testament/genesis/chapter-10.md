@@ -119,10 +119,10 @@ Nimrod was a mighty hunter before the Lord. That is why people said, "Like Nimro
 **Original Reference**: Genesis 10:10 - The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 
 #### Ages 5-7
-The first centers of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
+The first places in Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
 
 #### Ages 8-10
-The first centers of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
+The first centers, or chief places, of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
 
 **Key Vocabulary**:
 - kingdom: A people or land ruled by a king

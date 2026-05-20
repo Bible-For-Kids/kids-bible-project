@@ -49,7 +49,7 @@ Everything that lives and moves will be food for you. Just as I gave you the gre
 **Original Reference**: Genesis 9:4 - But flesh with its life, that is, its blood, you shall not eat.
 
 #### Ages 5-7
-But you must not eat meat that still has its lifeblood in it.
+But you must not eat meat that still has its life-blood in it.
 
 #### Ages 8-10
 But you must not eat meat that still has its lifeblood in it.
@@ -63,10 +63,10 @@ But you must not eat meat that still has its lifeblood in it.
 **Original Reference**: Genesis 9:5 - I will surely require accounting for your life's blood. At the hand of every animal I will require it. At the hand of man, even at the hand of every man's brother, I will require the life of man.
 
 #### Ages 5-7
-For your lifeblood, I will require an accounting. I will require it from every animal and from every human being.
+For your life-blood, I will call anyone to answer for taking human life. I will require it from every animal and from every human being.
 
 #### Ages 8-10
-For your lifeblood, I will require an accounting. I will require it from every animal and from every human being.
+For your lifeblood, I will require an answer. I will call every animal and every human being to answer for taking human life.
 
 **Key Vocabulary**:
 - blood: A word often connected with life in Genesis
@@ -77,7 +77,7 @@ For your lifeblood, I will require an accounting. I will require it from every a
 **Original Reference**: Genesis 9:6 - Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image.
 
 #### Ages 5-7
-Whoever sheds human blood, by humans that person's blood will be shed, because God made human beings in his image.
+Whoever sheds human blood, that person's blood will be shed by humans, because God made human beings in his image.
 
 #### Ages 8-10
 Whoever sheds human blood, by humans that person's blood will be shed, because God made human beings in his image.
@@ -134,7 +134,7 @@ Then God said to Noah and to his sons with him,
 **Original Reference**: Genesis 9:10 - and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, of all that go out of the ship, even every animal of the earth.
 
 #### Ages 5-7
-I also make it with every living creature with you: the birds, the livestock, and all the wild animals, every creature that came out of the ark.
+I also make it with every living creature with you: the birds, the farm animals, and all the wild animals, every creature that came out of the ark.
 
 #### Ages 8-10
 I also establish it with every living creature that was with you: the birds, the livestock, and all the wild animals, every creature that came out of the ark.
@@ -276,10 +276,10 @@ These three were Noah's sons, and from them the whole earth was populated.
 **Original Reference**: Genesis 9:20 - Noah began to be a farmer, and planted a vineyard.
 
 #### Ages 5-7
-Noah became a man of the soil, and he planted a vineyard.
+Noah began to work the soil, and he planted a vineyard.
 
 #### Ages 8-10
-Noah, a man of the soil, began to plant a vineyard.
+Noah began to work the soil and planted a vineyard.
 
 ---
 
@@ -287,7 +287,7 @@ Noah, a man of the soil, began to plant a vineyard.
 **Original Reference**: Genesis 9:21 - He drank of the wine and got drunk. He was uncovered within his tent.
 
 #### Ages 5-7
-Noah drank some of the wine and became drunk. He lay uncovered inside his tent.
+Noah drank some of the wine and became drunk. He lay inside his tent with no covering over him.
 
 #### Ages 8-10
 When he drank some of its wine, he became drunk and lay uncovered inside his tent.
@@ -309,7 +309,7 @@ Ham, the father of Canaan, saw his father uncovered and told his two brothers ou
 **Original Reference**: Genesis 9:23 - Shem and Japheth took a garment, and laid it on both their shoulders, went in backwards, and covered the nakedness of their father. Their faces were backwards, and they didn't see their father's nakedness.
 
 #### Ages 5-7
-Shem and Japheth took a garment and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not see him uncovered.
+Shem and Japheth took a piece of clothing and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not see him uncovered.
 
 #### Ages 8-10
 But Shem and Japheth took a garment, laid it across their shoulders, walked backward, and covered their father. Their faces were turned away, so they did not see him uncovered.

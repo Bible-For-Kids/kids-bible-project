@@ -33,7 +33,7 @@ The Lord calls Noah into the ark; keep the action personal and commanded by God.
 **Original Reference**: Genesis 7:2 - You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.
 
 #### Ages 5-7
-Take seven pairs of every kind of clean animal, a male and its mate. Take one pair of every kind of unclean animal, a male and its mate.
+Take seven pairs of every kind of animal God called clean, a male and its mate. Take one pair of every kind of animal not called clean, a male and its mate.
 
 #### Ages 8-10
 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate.
@@ -112,7 +112,7 @@ Noah and his wife, his sons, and his sons' wives entered the ark to escape the w
 **Original Reference**: Genesis 7:8 - Clean animals, unclean animals, birds, and everything that creeps on the ground
 
 #### Ages 5-7
-Clean animals, unclean animals, birds, and all creatures that move along the ground came to Noah.
+The animals God called clean, the animals not called clean, the birds, and all creatures that move along the ground came to Noah.
 
 #### Ages 8-10
 Pairs of clean animals, unclean animals, birds, and all creatures that move along the ground came to Noah.
@@ -151,10 +151,10 @@ After seven days, the floodwaters came on the earth.
 **Original Reference**: Genesis 7:11 - In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky's windows opened.
 
 #### Ages 5-7
-In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the windows of the heavens opened.
+In Noah's 600th year, on the seventeenth day of the second month, water burst up from the great deep, and rain poured down as the windows of the heavens opened.
 
 #### Ages 8-10
-In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens were opened.
+In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens opened.
 
 **Key Vocabulary**:
 - flood: The great waters God sent in Noah's day
@@ -190,7 +190,7 @@ On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his
 **Original Reference**: Genesis 7:14 - they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort.
 
 #### Ages 5-7
-They entered with every kind of wild animal, livestock, crawling creature, and bird.
+They entered with every kind of wild animal, farm animal, crawling creature, and bird.
 
 #### Ages 8-10
 They entered with every kind of wild animal, livestock, creature that moves along the ground, and bird.
@@ -283,7 +283,7 @@ The waters rose more than 20 feet above the mountains and covered them.
 **Original Reference**: Genesis 7:21 - All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.
 
 #### Ages 5-7
-Every living thing that moved on land died: birds, livestock, wild animals, crawling creatures, and all people.
+Every living thing that moved on land died: birds, farm animals, wild animals, crawling creatures, and all people.
 
 #### Ages 8-10
 Every living thing that moved on land perished: birds, livestock, wild animals, all creatures that swarm over the earth, and all people.

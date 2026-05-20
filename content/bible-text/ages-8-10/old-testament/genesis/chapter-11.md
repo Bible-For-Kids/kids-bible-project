@@ -15,10 +15,10 @@ Now the whole earth had one language and the same words.
 As people moved east, they found a plain in Shinar and settled there.
 
 ### Genesis 11:3
-They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar.
+They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar to hold the bricks together.
 
 ### Genesis 11:4
-Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a name for ourselves, so we will not be scattered over the whole earth."
+Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a great name for ourselves, so we will not be scattered over the whole earth."
 
 ### Genesis 11:5
 But the Lord came down to see the city and the tower the people were building.

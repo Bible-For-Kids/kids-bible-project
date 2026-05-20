@@ -15,10 +15,10 @@ At that time, the whole earth had one language and the same words.
 As people moved east, they found a wide plain in Shinar and settled there.
 
 ### Genesis 11:3
-They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and tar instead of mortar.
+They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and sticky tar to hold the bricks together.
 
 ### Genesis 11:4
-Then they said, "Come, let us build ourselves a city and a tower with its top reaching toward the heavens. Let us make a name for ourselves, so we will not be scattered over the whole earth."
+Then they said, "Come, let us build ourselves a city and a tower with its top reaching toward the heavens. Let us make a great name for ourselves, so we will not be scattered over the whole earth."
 
 ### Genesis 11:5
 But the Lord came down to see the city and the tower the people were building.
@@ -27,13 +27,13 @@ But the Lord came down to see the city and the tower the people were building.
 The Lord said, "They are one people, and they all have one language. This is only the beginning of what they will do. Nothing they plan will be held back from them.
 
 ### Genesis 11:7
-Come, let us go down and confuse their language, so they will not understand one another."
+Come, let us go down and mix up their language, so they will not understand one another."
 
 ### Genesis 11:8
-So the Lord scattered them from there over the whole earth. They stopped building the city.
+So the Lord scattered them from there over the whole earth, and they stopped building the city.
 
 ### Genesis 11:9
-That is why the city was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth.
+That is why the city was called Babel, because there the Lord mixed up the language of the whole earth. From there, the Lord scattered them over all the earth.
 
 ### Genesis 11:10
 This is Shem's family line. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.

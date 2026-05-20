@@ -17,7 +17,7 @@ Genesis 6 shows human wickedness spreading across the earth, but Noah finds favo
 **Original Reference**: Genesis 6:1 - When men began to multiply on the surface of the ground, and daughters were born to them,
 
 #### Ages 5-7
-People began to grow many on the earth, and daughters were born to them.
+People began to spread out and grow in number on the earth, and daughters were born to them.
 
 #### Ages 8-10
 When human beings began to increase in number on the earth, daughters were born to them.
@@ -28,7 +28,7 @@ When human beings began to increase in number on the earth, daughters were born 
 **Original Reference**: Genesis 6:2 - God's sons saw that men's daughters were beautiful, and they took any that they wanted for themselves as wives.
 
 #### Ages 5-7
-The sons of God saw that the daughters of humans were beautiful. They took the wives they chose.
+The sons of God saw that the daughters of humans were beautiful. They took the women they chose as wives.
 
 #### Ages 8-10
 The sons of God saw that the daughters of humans were beautiful, and they took as wives any they chose.
@@ -39,10 +39,10 @@ The sons of God saw that the daughters of humans were beautiful, and they took a
 **Original Reference**: Genesis 6:3 - Yahweh said, "My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years."
 
 #### Ages 5-7
-Then the Lord said, "My Spirit will not struggle with humans forever, because they are mortal. Their days will be 120 years."
+Then the Lord said, "My Spirit will not struggle with humans forever, because they are flesh and will die. Their days will be 120 years."
 
 #### Ages 8-10
-Then the Lord said, "My Spirit will not contend with humans forever, for they are mortal. Their days will be 120 years."
+Then the Lord said, "My Spirit will not contend with humans forever, for they are flesh and will die. Their days will be 120 years."
 
 ---
 
@@ -50,10 +50,10 @@ Then the Lord said, "My Spirit will not contend with humans forever, for they ar
 **Original Reference**: Genesis 6:4 - The Nephilim were in the earth in those days, and also after that, when God's sons came in to men's daughters and had children with them. Those were the mighty men who were of old, men of renown.
 
 #### Ages 5-7
-The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, men of name.
+The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, famous men.
 
 #### Ages 8-10
-The Nephilim were on the earth in those days, and also afterward. They were the mighty men of long ago, men of renown.
+The Nephilim were on the earth in those days, and also afterward. They were the mighty men of long ago, men well known in their time.
 
 ---
 
@@ -170,7 +170,7 @@ God saw how corrupt the earth had become, for all flesh had corrupted its way on
 **Original Reference**: Genesis 6:13 - God said to Noah, "I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
 #### Ages 5-7
-So God said to Noah, "I am going to bring an end to all flesh, because the earth is full of violence because of them. I will destroy them with the earth.
+So God said to Noah, "I am going to bring an end to people and living creatures, because the earth is full of violence because of them. I will destroy them along with the earth.
 
 #### Ages 8-10
 So God said to Noah, "I am going to put an end to all flesh, because the earth is filled with violence because of them. I am surely going to destroy them with the earth.
@@ -181,10 +181,10 @@ So God said to Noah, "I am going to put an end to all flesh, because the earth i
 **Original Reference**: Genesis 6:14 - Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.
 
 #### Ages 5-7
-Make yourself a great ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with pitch so water cannot come in.
+Make yourself a large ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with sticky tar so water cannot come in.
 
 #### Ages 8-10
-Make yourself a great ark of gopher wood. Make rooms inside it and cover it with pitch inside and outside so the waters cannot come in.
+Make yourself a great ark of gopher wood. Make rooms inside it and cover it with pitch, a sticky tar, inside and outside so the waters cannot come in.
 
 **Key Vocabulary**:
 - ark: The large boat God told Noah to build
@@ -223,7 +223,7 @@ Make a roof for the ark, leaving an opening about 18 inches high near the top fo
 **Original Reference**: Genesis 6:17 - I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die.
 
 #### Ages 5-7
-I am going to bring floodwaters on the earth to destroy every creature with the breath of life under the heavens. Everything on earth will die.
+I am going to bring floodwaters on the earth to destroy every creature under the sky that has the breath of life. Everything on earth will die.
 
 #### Ages 8-10
 I am going to bring floodwaters on the earth to destroy every creature under the heavens that has the breath of life. Everything on earth will perish.

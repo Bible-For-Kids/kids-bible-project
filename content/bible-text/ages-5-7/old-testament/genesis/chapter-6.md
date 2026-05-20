@@ -9,16 +9,16 @@ Genesis
 ## Verses
 
 ### Genesis 6:1
-People began to grow many on the earth, and daughters were born to them.
+People began to spread out and grow in number on the earth, and daughters were born to them.
 
 ### Genesis 6:2
-The sons of God saw that the daughters of humans were beautiful. They took the wives they chose.
+The sons of God saw that the daughters of humans were beautiful. They took the women they chose as wives.
 
 ### Genesis 6:3
-Then the Lord said, "My Spirit will not struggle with humans forever, because they are mortal. Their days will be 120 years."
+Then the Lord said, "My Spirit will not struggle with humans forever, because they are flesh and will die. Their days will be 120 years."
 
 ### Genesis 6:4
-The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, men of name.
+The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, famous men.
 
 ### Genesis 6:5
 The Lord saw that human evil had become very great on the earth. Every plan in people's hearts was only evil all the time.
@@ -45,10 +45,10 @@ The earth was corrupt before God. It was full of violence.
 God looked at the earth and saw that it was corrupt. All people had corrupted their ways.
 
 ### Genesis 6:13
-So God said to Noah, "I am going to bring an end to all flesh, because the earth is full of violence because of them. I will destroy them with the earth.
+So God said to Noah, "I am going to bring an end to people and living creatures, because the earth is full of violence because of them. I will destroy them along with the earth.
 
 ### Genesis 6:14
-Make yourself a great ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with pitch so water cannot come in.
+Make yourself a large ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with sticky tar so water cannot come in.
 
 ### Genesis 6:15
 This is how you must make it: about 450 feet long, 75 feet wide, and 45 feet high.
@@ -57,7 +57,7 @@ This is how you must make it: about 450 feet long, 75 feet wide, and 45 feet hig
 Make a roof for the ark. Leave an opening near the top for air and light. Put a door in the side, and make lower, middle, and upper decks.
 
 ### Genesis 6:17
-I am going to bring floodwaters on the earth to destroy every creature with the breath of life under the heavens. Everything on earth will die.
+I am going to bring floodwaters on the earth to destroy every creature under the sky that has the breath of life. Everything on earth will die.
 
 ### Genesis 6:18
 But I will make my covenant with you. You will enter the ark: you, your sons, your wife, and your sons' wives with you.

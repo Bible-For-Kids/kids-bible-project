@@ -21,7 +21,7 @@ Everything that lives and moves will be food for you. Just as I gave you the gre
 But you must not eat meat that still has its lifeblood in it.
 
 ### Genesis 9:5
-For your lifeblood, I will require an accounting. I will require it from every animal and from every human being.
+For your lifeblood, I will require an answer. I will call every animal and every human being to answer for taking human life.
 
 ### Genesis 9:6
 Whoever sheds human blood, by humans that person's blood will be shed, because God made human beings in his image.
@@ -66,7 +66,7 @@ The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was th
 These three were Noah's sons, and from them the whole earth was populated.
 
 ### Genesis 9:20
-Noah, a man of the soil, began to plant a vineyard.
+Noah began to work the soil and planted a vineyard.
 
 ### Genesis 9:21
 When he drank some of its wine, he became drunk and lay uncovered inside his tent.

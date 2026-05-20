@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 8:1
-God remembered Noah and all the animals with him in the ark. God sent a wind over the earth, and the waters began to go down.
+God remembered Noah and all the animals with him in the ark. God had not forgotten them. He sent a wind over the earth, and the waters began to go down.
 
 ### Genesis 8:2
 The springs of the deep and the windows of the heavens were closed. The rain from the sky stopped.
@@ -45,7 +45,7 @@ When the dove came back to him in the evening, Noah saw a fresh olive leaf in it
 Noah waited seven more days and sent the dove out again. This time, it did not return to him.
 
 ### Genesis 8:13
-In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and saw that the ground was dry.
+In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and looked out. He saw that the ground was dry.
 
 ### Genesis 8:14
 By the twenty-seventh day of the second month, the earth was dry.
@@ -66,7 +66,7 @@ So Noah came out with his sons, his wife, and his sons' wives.
 All the animals, crawling creatures, and birds came out of the ark by their kinds.
 
 ### Genesis 8:20
-Then Noah built an altar to the Lord. He took some of every clean animal and clean bird and offered burnt offerings on the altar.
+Then Noah built an altar to the Lord. He took some of every clean animal and clean bird and offered them as burned offerings on the altar.
 
 ### Genesis 8:21
 The Lord smelled the pleasing aroma and said in his heart, "I will never again curse the ground because of humans, even though the human heart plans evil from childhood. I will never again destroy every living creature as I have done.
