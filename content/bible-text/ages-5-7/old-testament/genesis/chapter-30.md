@@ -108,7 +108,7 @@ Laban said, "What shall I give you?" Jacob said, "You shall not give me anything
 "So my righteousness will answer for me later, when my wages are brought before you. Every goat that is not speckled or spotted, and every sheep that is not brown, shall be counted as stolen if it is with me."
 
 ### Genesis 30:34
-Laban said, "Behold, let it be according to your word."
+Laban said, "Let it be according to your word."
 
 ### Genesis 30:35
 That day Laban removed the male goats that were streaked and spotted, all the female goats that were speckled and spotted, every one that had white on it, and all the brown sheep. He put them into the hands of his sons.

@@ -45,6 +45,16 @@ const expectedVerseCounts = {
   [path.normalize('old-testament/genesis/chapter-38.md')]: 30,
   [path.normalize('old-testament/genesis/chapter-39.md')]: 23,
   [path.normalize('old-testament/genesis/chapter-40.md')]: 23,
+  [path.normalize('old-testament/genesis/chapter-41.md')]: 57,
+  [path.normalize('old-testament/genesis/chapter-42.md')]: 38,
+  [path.normalize('old-testament/genesis/chapter-43.md')]: 34,
+  [path.normalize('old-testament/genesis/chapter-44.md')]: 34,
+  [path.normalize('old-testament/genesis/chapter-45.md')]: 28,
+  [path.normalize('old-testament/genesis/chapter-46.md')]: 34,
+  [path.normalize('old-testament/genesis/chapter-47.md')]: 31,
+  [path.normalize('old-testament/genesis/chapter-48.md')]: 22,
+  [path.normalize('old-testament/genesis/chapter-49.md')]: 33,
+  [path.normalize('old-testament/genesis/chapter-50.md')]: 26,
 };
 
 function validateStory(filePath, content) {

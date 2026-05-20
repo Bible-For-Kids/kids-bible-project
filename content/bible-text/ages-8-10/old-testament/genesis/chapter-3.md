@@ -69,7 +69,7 @@ By the sweat of your face you will eat food until you return to the ground. You 
 Adam named his wife Eve, because she would become the mother of all the living.
 
 ### Genesis 3:21
-The Lord God made garments of skin for Adam and his wife and clothed them.
+The Lord God made clothes from animal skins for Adam and his wife and clothed them.
 
 ### Genesis 3:22
 Then the Lord God said, "The man has become like one of us, knowing good and evil. He must not be allowed to reach out, take from the tree of life, eat, and live forever."

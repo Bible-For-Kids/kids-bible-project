@@ -54,7 +54,7 @@ May the young woman I speak to be the one you have chosen for Isaac. I will say,
 Before he had even finished praying, Rebekah came out with her water jar on her shoulder. She was the daughter of Bethuel, who was the son of Milkah and Nahor, Abraham's brother.
 
 ### Genesis 24:16
-The young woman was very beautiful. She was a virgin, and no man had known her. She went down to the well, filled her jar, and came back up.
+The young woman was very beautiful. She was a virgin and had never been with a man as a wife. She went down to the well, filled her jar, and came back up.
 
 ### Genesis 24:17
 The servant ran to meet her and said, "Please let me drink a little water from your jar."

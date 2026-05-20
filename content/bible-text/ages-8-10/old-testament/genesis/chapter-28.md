@@ -51,7 +51,7 @@ The Lord stood above the stairway and said, "I am the Lord God of Abraham your f
 "Your descendants shall be like the dust of the earth. You shall spread abroad to the west, east, north, and south, and in you and in your descendants all the families of the earth shall be blessed."
 
 ### Genesis 28:15
-"Behold, I am with you and will keep you wherever you go. I will bring you back into this land, for I will not leave you until I have done what I have spoken to you."
+"Look, I am with you and will keep you wherever you go. I will bring you back into this land, for I will not leave you until I have done what I have spoken to you."
 
 ### Genesis 28:16
 Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did not know it."

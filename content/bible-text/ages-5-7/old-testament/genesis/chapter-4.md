@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 4:1
-Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have gotten a man."
+Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man."
 
 ### Genesis 4:2
 Later, Eve gave birth to Cain's brother Abel. Abel cared for sheep, and Cain worked the ground.

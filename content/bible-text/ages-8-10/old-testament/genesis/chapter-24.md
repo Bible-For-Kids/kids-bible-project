@@ -54,7 +54,7 @@ May the young woman to whom I say, 'Please lower your jar so I may drink,' and w
 Before he had finished speaking, Rebekah came out with her jar on her shoulder. She had been born to Bethuel, son of Milkah, the wife of Nahor, Abraham's brother.
 
 ### Genesis 24:16
-The young woman was very beautiful, a virgin, and no man had known her. She went down to the spring, filled her jar, and came up.
+The young woman was very beautiful, a virgin, and had never been with a man as a wife. She went down to the spring, filled her jar, and came up.
 
 ### Genesis 24:17
 The servant ran to meet her and said, "Please let me drink a little water from your jar."
