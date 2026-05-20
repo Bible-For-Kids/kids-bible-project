@@ -63,10 +63,10 @@ Before they lay down, all the men from every part of Sodom, young and old, surro
 **Original Reference**: Genesis 19:5 - They called to Lot, and said to him, "Where are the men who came in to you this night? Bring them out to us, that we may have sex with them."
 
 #### Ages 5-7
-They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can know them."
+They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can shame them and hurt them."
 
 #### Ages 8-10
-They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can know them."
+They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can abuse them."
 
 ---
 
@@ -96,10 +96,10 @@ He said, "No, my brothers. Please do not act so wickedly.
 **Original Reference**: Genesis 19:8 - See now, I have two virgin daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only don't do anything to these men, because they have come under the shadow of my roof."
 
 #### Ages 5-7
-Look, I have two daughters who have not known a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
+Look, I have two daughters who have never slept with a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
 
 #### Ages 8-10
-Look, I have two daughters who have not known a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."
+Look, I have two daughters who have never slept with a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."
 
 ---
 
@@ -151,10 +151,10 @@ The two visitors said to Lot, "Do you have anyone else here: sons-in-law, sons, 
 **Original Reference**: Genesis 19:13 - for we will destroy this place, because the outcry against them has grown so great before Yahweh that Yahweh has sent us to destroy it."
 
 #### Ages 5-7
-We are going to destroy this place. The outcry against its people has become great before the Lord, and the Lord has sent us to destroy it."
+We are going to destroy this place. A great cry against its people has come before the Lord, and the Lord has sent us to destroy it."
 
 #### Ages 8-10
-We are going to destroy this place, because the outcry against its people has become great before the Lord. The Lord has sent us to destroy it."
+We are going to destroy this place, because a great outcry against its people has come before the Lord. The Lord has sent us to destroy it."
 
 ---
 
@@ -223,7 +223,7 @@ But Lot said to them, "No, my lords, please!
 **Original Reference**: Genesis 19:19 - See now, your servant has found favor in your sight, and you have magnified your loving kindness, which you have shown to me in saving my life. I can't escape to the mountain, lest evil overtake me, and I die.
 
 #### Ages 5-7
-Your servant has found favor in your eyes, and you have shown great kindness by saving my life. But I cannot run to the mountains. Disaster may overtake me, and I will die.
+You have been kind to me and saved my life. But I cannot run to the mountains. Disaster may overtake me, and I will die.
 
 #### Ages 8-10
 Your servant has found favor in your eyes, and you have shown great kindness by saving my life. But I cannot run to the mountains. Disaster may overtake me, and I will die.
@@ -375,10 +375,10 @@ The older daughter said to the younger, "Our father is old, and there is no man 
 **Original Reference**: Genesis 19:32 - Come, let's make our father drink wine, and we will lie with him, that we may preserve our father's family line."
 
 #### Ages 5-7
-Come, let us give our father wine to drink. Then we will lie with him, so we can keep our family line alive through our father."
+Come, let us give our father wine to drink. Then we will sleep with him, so we can keep our family line alive through our father."
 
 #### Ages 8-10
-Come, let us give our father wine to drink and then lie with him, so we can preserve our family line through our father."
+Come, let us give our father wine to drink and then sleep with him, so we can preserve our family line through our father."
 
 ---
 
@@ -386,10 +386,10 @@ Come, let us give our father wine to drink and then lie with him, so we can pres
 **Original Reference**: Genesis 19:33 - They made their father drink wine that night: and the firstborn went in, and lay with her father. He didn't know when she lay down, nor when she arose.
 
 #### Ages 5-7
-That night, they gave their father wine to drink. The older daughter went in and lay with her father, and he did not know when she lay down or got up.
+That night, they gave their father wine to drink. The older daughter went in and slept with her father, and he did not know when she lay down or got up.
 
 #### Ages 8-10
-That night, they gave their father wine to drink. The older daughter went in and lay with her father, and he did not know when she lay down or got up.
+That night, they gave their father wine to drink. The older daughter went in and slept with her father, and he did not know when she lay down or got up.
 
 ---
 
@@ -397,10 +397,10 @@ That night, they gave their father wine to drink. The older daughter went in and
 **Original Reference**: Genesis 19:34 - It came to pass on the next day, that the firstborn said to the younger, "Behold, I lay last night with my father. Let's make him drink wine again tonight. You go in, and lie with him, that we may preserve our father's family line."
 
 #### Ages 5-7
-The next day, the older daughter said to the younger, "Last night I lay with my father. Let us give him wine again tonight. You go in and lie with him, so we can keep our family line alive through our father."
+The next day, the older daughter said to the younger, "Last night I slept with my father. Let us give him wine again tonight. You go in and sleep with him, so we can keep our family line alive through our father."
 
 #### Ages 8-10
-The next day, the older daughter said to the younger, "Last night I lay with my father. Let us give him wine again tonight, and you go in and lie with him, so we can preserve our family line through our father."
+The next day, the older daughter said to the younger, "Last night I slept with my father. Let us give him wine again tonight, and you go in and sleep with him, so we can preserve our family line through our father."
 
 ---
 
@@ -408,10 +408,10 @@ The next day, the older daughter said to the younger, "Last night I lay with my 
 **Original Reference**: Genesis 19:35 - They made their father drink wine that night also. The younger went and lay with him. He didn't know when she lay down, nor when she got up.
 
 #### Ages 5-7
-So that night, they gave their father wine to drink again. The younger daughter went in and lay with him, and he did not know when she lay down or got up.
+So that night, they gave their father wine to drink again. The younger daughter went in and slept with him, and he did not know when she lay down or got up.
 
 #### Ages 8-10
-So that night, they gave their father wine to drink again. The younger daughter went in and lay with him, and he did not know when she lay down or got up.
+So that night, they gave their father wine to drink again. The younger daughter went in and slept with him, and he did not know when she lay down or got up.
 
 ---
 

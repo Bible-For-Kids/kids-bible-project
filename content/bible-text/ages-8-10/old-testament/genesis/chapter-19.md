@@ -21,7 +21,7 @@ But Lot urged them strongly, so they went with him and entered his house. He pre
 Before they lay down, all the men from every part of Sodom, young and old, surrounded the house.
 
 ### Genesis 19:5
-They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can know them."
+They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can abuse them."
 
 ### Genesis 19:6
 Lot went outside to meet them and shut the door behind him.
@@ -30,7 +30,7 @@ Lot went outside to meet them and shut the door behind him.
 He said, "No, my brothers. Please do not act so wickedly.
 
 ### Genesis 19:8
-Look, I have two daughters who have not known a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."
+Look, I have two daughters who have never slept with a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."
 
 ### Genesis 19:9
 The men said, "Get out of our way!" Then they said, "This man came here as a foreigner, and now he wants to judge us. We will treat you worse than them." They pushed hard against Lot and came near to break down the door.
@@ -45,7 +45,7 @@ Then they struck the men at the doorway with blindness, from the youngest to the
 The two visitors said to Lot, "Do you have anyone else here: sons-in-law, sons, daughters, or anyone in the city who belongs to you? Get them out of this place.
 
 ### Genesis 19:13
-We are going to destroy this place, because the outcry against its people has become great before the Lord. The Lord has sent us to destroy it."
+We are going to destroy this place, because a great outcry against its people has come before the Lord. The Lord has sent us to destroy it."
 
 ### Genesis 19:14
 So Lot went out and spoke to the men promised to marry his daughters. He said, "Hurry, get out of this place, because the Lord is about to destroy the city!" But they thought he was joking.
@@ -102,16 +102,16 @@ Lot and his two daughters left Zoar and settled in the mountains, because he was
 The older daughter said to the younger, "Our father is old, and there is no man around here to give us children in the usual way.
 
 ### Genesis 19:32
-Come, let us give our father wine to drink and then lie with him, so we can preserve our family line through our father."
+Come, let us give our father wine to drink and then sleep with him, so we can preserve our family line through our father."
 
 ### Genesis 19:33
-That night, they gave their father wine to drink. The older daughter went in and lay with her father, and he did not know when she lay down or got up.
+That night, they gave their father wine to drink. The older daughter went in and slept with her father, and he did not know when she lay down or got up.
 
 ### Genesis 19:34
-The next day, the older daughter said to the younger, "Last night I lay with my father. Let us give him wine again tonight, and you go in and lie with him, so we can preserve our family line through our father."
+The next day, the older daughter said to the younger, "Last night I slept with my father. Let us give him wine again tonight, and you go in and sleep with him, so we can preserve our family line through our father."
 
 ### Genesis 19:35
-So that night, they gave their father wine to drink again. The younger daughter went in and lay with him, and he did not know when she lay down or got up.
+So that night, they gave their father wine to drink again. The younger daughter went in and slept with him, and he did not know when she lay down or got up.
 
 ### Genesis 19:36
 Both of Lot's daughters became pregnant by their father.

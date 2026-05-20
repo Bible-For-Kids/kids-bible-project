@@ -16,7 +16,7 @@ Genesis 17 continues the covenant family story. God gives Abram the covenant sig
 **Original Reference**: Genesis 17:1 - When Abram was ninety-nine years old, Yahweh appeared to Abram and said to him, "I am God Almighty. Walk before me and be blameless.
 
 #### Ages 5-7
-When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and be blameless.
+When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and live in a way that is right.
 
 #### Ages 8-10
 When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and be blameless.
@@ -27,13 +27,14 @@ When Abram was 99 years old, the Lord appeared to him and said, "I am God Almigh
 **Original Reference**: Genesis 17:2 - I will make my covenant between me and you, and will multiply you exceedingly."
 
 #### Ages 5-7
-I will make my covenant between me and you, and I will make your family grow very, very much."
+I will make my covenant, my serious promise, between me and you. I will make your family grow very, very much."
 
 #### Ages 8-10
-I will make my covenant between me and you, and I will greatly increase your numbers."
+I will make my covenant between me and you, and I will greatly increase your family."
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- promise: Words someone says and keeps
 
 ---
 
@@ -91,7 +92,7 @@ I will make you very fruitful. I will make nations of you, and kings will come f
 **Original Reference**: Genesis 17:7 - I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be a God to you and to your offspring after you.
 
 #### Ages 5-7
-I will keep my covenant between me and you and your offspring after you, for all generations. It will be an everlasting covenant. I will be your God and the God of your offspring after you.
+I will keep my covenant between me and you and the family that comes after you, for all generations. It will be a covenant that lasts forever. I will be your God and the God of your family after you.
 
 #### Ages 8-10
 I will establish my covenant as an everlasting covenant between me and you and your offspring after you for the generations to come. I will be your God and the God of your offspring after you.
@@ -112,7 +113,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 17:8 - I will give to you, and to your offspring after you, the land where you are traveling, all the land of Canaan, for an everlasting possession. I will be their God."
 
 #### Ages 5-7
-I will give you and your offspring the land where you now live as a foreigner, all the land of Canaan, as an everlasting possession. I will be their God."
+I will give you and the family after you the land where you now live as a foreigner, all the land of Canaan. It will belong to them forever. I will be their God."
 
 #### Ages 8-10
 I will give you and your offspring the land where you now live as a foreigner, all the land of Canaan, as an everlasting possession. I will be their God."
@@ -126,7 +127,7 @@ I will give you and your offspring the land where you now live as a foreigner, a
 **Original Reference**: Genesis 17:9 - God said to Abraham, "As for you, you will keep my covenant, you and your offspring after you throughout their generations.
 
 #### Ages 5-7
-Then God said to Abraham, "As for you, you must keep my covenant, you and your offspring after you.
+Then God said to Abraham, "As for you, you must keep my covenant, you and the family that comes after you.
 
 #### Ages 8-10
 Then God said to Abraham, "As for you, you must keep my covenant, you and your offspring after you for the generations to come.
@@ -141,10 +142,10 @@ Then God said to Abraham, "As for you, you must keep my covenant, you and your o
 **Original Reference**: Genesis 17:10 - This is my covenant, which you shall keep, between me and you and your offspring after you. Every male among you shall be circumcised.
 
 #### Ages 5-7
-This is my covenant sign that you must keep: every male among you must be circumcised.
+This is the sign of my covenant that you must keep: every male among you must receive the body sign called circumcision.
 
 #### Ages 8-10
-This is my covenant with you and your offspring after you, the covenant you must keep: every male among you shall be circumcised.
+This is my covenant with you and your offspring after you, the covenant you must keep: every male among you shall receive the body sign called circumcision.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -157,10 +158,10 @@ This is my covenant with you and your offspring after you, the covenant you must
 **Original Reference**: Genesis 17:11 - You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you.
 
 #### Ages 5-7
-You must be circumcised in your flesh. This will be the sign of the covenant between me and you.
+You must receive this sign in your flesh. This will be the sign of the covenant between me and you.
 
 #### Ages 8-10
-You are to be circumcised in your flesh, and it will be the sign of the covenant between me and you.
+You are to receive this sign in your flesh, and it will be the sign of the covenant between me and you.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -172,13 +173,14 @@ You are to be circumcised in your flesh, and it will be the sign of the covenant
 **Original Reference**: Genesis 17:12 - He who is eight days old will be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your offspring.
 
 #### Ages 5-7
-For all generations, every boy among you must be circumcised when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
+For all generations, every boy among you must receive this sign when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
 
 #### Ages 8-10
-For the generations to come, every male among you who is eight days old must be circumcised, including those born in your household or bought from a foreigner.
+For the generations to come, every male among you who is eight days old must receive this sign, including those born in your household or bought from a foreigner.
 
 **Key Vocabulary**:
 - offspring: Children and later family who come after someone
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -186,13 +188,14 @@ For the generations to come, every male among you who is eight days old must be 
 **Original Reference**: Genesis 17:13 - He who is born in your house, and he who is bought with your money, must be circumcised. My covenant will be in your flesh for an everlasting covenant.
 
 #### Ages 5-7
-Whether born in your house or bought with your money, each one must be circumcised. My covenant in your flesh will be an everlasting covenant.
+Whether born in your house or bought with your money, each male must receive this sign. My covenant in your flesh will last forever.
 
 #### Ages 8-10
-Whether born in your household or bought with your money, they must be circumcised. My covenant in your flesh is to be an everlasting covenant.
+Whether born in your household or bought with your money, they must receive this sign. My covenant in your flesh is to be an everlasting covenant.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -200,13 +203,14 @@ Whether born in your household or bought with your money, they must be circumcis
 **Original Reference**: Genesis 17:14 - The uncircumcised male who is not circumcised in the flesh of his foreskin, that soul shall be cut off from his people. He has broken my covenant."
 
 #### Ages 5-7
-Any uncircumcised male who is not circumcised has broken my covenant and must be cut off from his people."
+Any male who does not receive this sign has broken my covenant and must be cut off from his people."
 
 #### Ages 8-10
-Any uncircumcised male who has not been circumcised has broken my covenant and must be cut off from his people."
+Any male who has not received this sign has broken my covenant and must be cut off from his people."
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -258,7 +262,7 @@ Abraham said to God, "If only Ishmael might live under your blessing!"
 **Original Reference**: Genesis 17:19 - God said, "No, but Sarah, your wife, will bear you a son. You shall call his name Isaac. I will establish my covenant with him for an everlasting covenant for his offspring after him.
 
 #### Ages 5-7
-Then God said, "Yes, but your wife Sarah will have a son, and you will name him Isaac. I will make my covenant with him and with his offspring after him forever.
+Then God said, "Yes, but your wife Sarah will have a son, and you will name him Isaac. I will make my covenant with him and with the family that comes after him forever.
 
 #### Ages 8-10
 Then God said, "Yes, but your wife Sarah will bear you a son, and you will name him Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him.
@@ -311,10 +315,14 @@ When God finished speaking with Abraham, he went up from him.
 **Original Reference**: Genesis 17:23 - Abraham took Ishmael his son, all who were born in his house, and all who were bought with his money: every male among the men of Abraham's house, and circumcised the flesh of their foreskin in the same day, as God had said to him.
 
 #### Ages 5-7
-On that same day, Abraham took his son Ishmael and all the males in his household, those born in his house and those bought with his money. He circumcised them, just as God told him.
+On that same day, Abraham took his son Ishmael and all the males in his household, those born in his house and those bought with his money. He gave them the covenant sign, just as God told him.
 
 #### Ages 8-10
-On that very day, Abraham took his son Ishmael and all the males in his household, those born in his house or bought with his money, and circumcised them as God had told him.
+On that very day, Abraham took his son Ishmael and all the males in his household, those born in his house or bought with his money, and gave them the covenant sign as God had told him.
+
+**Key Vocabulary**:
+- covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -322,10 +330,14 @@ On that very day, Abraham took his son Ishmael and all the males in his househol
 **Original Reference**: Genesis 17:24 - Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.
 
 #### Ages 5-7
-Abraham was 99 years old when he was circumcised.
+Abraham was 99 years old when he received the covenant sign.
 
 #### Ages 8-10
-Abraham was 99 years old when he was circumcised.
+Abraham was 99 years old when he received the covenant sign.
+
+**Key Vocabulary**:
+- covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -333,10 +345,14 @@ Abraham was 99 years old when he was circumcised.
 **Original Reference**: Genesis 17:25 - Ishmael, his son, was thirteen years old when he was circumcised in the flesh of his foreskin.
 
 #### Ages 5-7
-His son Ishmael was 13 years old when he was circumcised.
+His son Ishmael was 13 years old when he received the covenant sign.
 
 #### Ages 8-10
-His son Ishmael was 13 years old when he was circumcised.
+His son Ishmael was 13 years old when he received the covenant sign.
+
+**Key Vocabulary**:
+- covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -344,10 +360,14 @@ His son Ishmael was 13 years old when he was circumcised.
 **Original Reference**: Genesis 17:26 - In the same day both Abraham and Ishmael, his son, were circumcised.
 
 #### Ages 5-7
-Abraham and his son Ishmael were circumcised on that same day.
+Abraham and his son Ishmael received the covenant sign on that same day.
 
 #### Ages 8-10
-Abraham and his son Ishmael were circumcised on that same day.
+Abraham and his son Ishmael received the covenant sign on that same day.
+
+**Key Vocabulary**:
+- covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -355,10 +375,13 @@ Abraham and his son Ishmael were circumcised on that same day.
 **Original Reference**: Genesis 17:27 - All the men of his house, those born in the house, and those bought with money from a foreigner, were circumcised with him.
 
 #### Ages 5-7
-All the males in Abraham's household were circumcised with him, whether born in his house or bought from a foreigner.
+All the males in Abraham's household received the sign with him, whether born in his house or bought from a foreigner.
 
 #### Ages 8-10
-All the males in Abraham's household were circumcised with him, whether born in his household or bought from a foreigner.
+All the males in Abraham's household received the sign with him, whether born in his household or bought from a foreigner.
+
+**Key Vocabulary**:
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -373,7 +396,7 @@ God gives Abram the covenant sign of circumcision, changes Abram and Sarai's nam
 ## Memory Verses by Age
 
 ### Ages 5-7
-I will keep my covenant between me and you and your offspring after you, for all generations. It will be an everlasting covenant. I will be your God and the God of your offspring after you. - Genesis 17:7
+I will keep my covenant between me and you and the family that comes after you, for all generations. It will be a covenant that lasts forever. I will be your God and the God of your family after you. - Genesis 17:7
 
 ### Ages 8-10
 I will establish my covenant as an everlasting covenant between me and you and your offspring after you for the generations to come. I will be your God and the God of your offspring after you. - Genesis 17:7

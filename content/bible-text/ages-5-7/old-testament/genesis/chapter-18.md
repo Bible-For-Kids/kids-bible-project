@@ -15,7 +15,7 @@ The Lord appeared to Abraham near the great trees of Mamre. Abraham was sitting 
 Abraham looked up and saw three men standing nearby. When he saw them, he hurried from the tent entrance to meet them and bowed low to the ground.
 
 ### Genesis 18:3
-He said, "My lord, if I have found favor in your eyes, please do not pass by your servant.
+He said, "My lord, if you are pleased with me, please do not pass by your servant.
 
 ### Genesis 18:4
 Let a little water be brought so you can wash your feet. Then rest under the tree.
@@ -48,13 +48,13 @@ So Sarah laughed to herself and said, "After I am worn out and my lord is old, w
 Then the Lord said to Abraham, "Why did Sarah laugh and say, 'Will I really have a child now that I am old?'
 
 ### Genesis 18:14
-Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son."
+Is anything too hard for the Lord? I will return to you at the time I have set next year, and Sarah will have a son."
 
 ### Genesis 18:15
 Sarah was afraid, so she said, "I did not laugh." But he said, "Yes, you did laugh."
 
 ### Genesis 18:16
-When the men got up to leave, they looked down toward Sodom. Abraham walked with them to send them on their way.
+When the men got up to leave, they looked down toward Sodom. Abraham walked with them for a while to send them on their way.
 
 ### Genesis 18:17
 Then the Lord said, "Shall I hide from Abraham what I am about to do?
@@ -66,31 +66,31 @@ Abraham will surely become a great and powerful nation, and all nations on earth
 I have chosen him so he will teach his children and household after him to keep the way of the Lord by doing what is right and just. Then the Lord will bring about for Abraham what he promised him."
 
 ### Genesis 18:20
-Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very serious.
+Then the Lord said, "A great cry has risen against Sodom and Gomorrah, and their sin is very serious.
 
 ### Genesis 18:21
-I will go down and see if what they have done is as bad as the outcry that has come to me. If not, I will know."
+I will go down and see if what they have done is as bad as the cry that has come to me. If not, I will know."
 
 ### Genesis 18:22
 The men turned away and went toward Sodom, but Abraham remained standing before the Lord.
 
 ### Genesis 18:23
-Abraham came near and said, "Will you really sweep away the righteous with the wicked?
+Abraham came near and said, "Will you really sweep away the people who do right along with the wicked?
 
 ### Genesis 18:24
-What if there are fifty righteous people in the city? Will you sweep it away and not spare the place for their sake?
+What if there are fifty people in the city who do right? Will you sweep it away and not spare the place for their sake?
 
 ### Genesis 18:25
-Far be it from you to do such a thing, to kill the righteous with the wicked. Will not the Judge of all the earth do what is right?"
+Far be it from you to do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
 
 ### Genesis 18:26
-The Lord said, "If I find fifty righteous people in Sodom, I will spare the whole place for their sake."
+The Lord said, "If I find fifty people in Sodom who do right, I will spare the whole place for their sake."
 
 ### Genesis 18:27
 Then Abraham said, "I have been bold to speak to the Lord, though I am only dust and ashes.
 
 ### Genesis 18:28
-What if there are five fewer than fifty righteous people? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
+What if there are five fewer than fifty people who do right? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
 
 ### Genesis 18:29
 Abraham spoke again, "What if only forty are found there?" The Lord said, "For the sake of forty, I will not do it."

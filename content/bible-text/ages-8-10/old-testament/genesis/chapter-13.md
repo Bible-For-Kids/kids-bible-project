@@ -24,7 +24,7 @@ It was the place where he had first built an altar, and there Abram called on th
 Lot, who was traveling with Abram, also had flocks, herds, and tents.
 
 ### Genesis 13:6
-The land could not support both of them while they stayed together, because their possessions were so great.
+The land could not support both of them while they stayed together, because they had so many animals and possessions.
 
 ### Genesis 13:7
 Quarreling broke out between Abram's herders and Lot's herders. At that time, the Canaanites and Perizzites were also living in the land.
@@ -36,7 +36,7 @@ So Abram said to Lot, "Let there be no quarreling between you and me, or between
 Is not the whole land before you? Let us part company. If you go left, I will go right. If you go right, I will go left."
 
 ### Genesis 13:10
-Lot looked around and saw that the whole plain of the Jordan was well watered, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
+Lot looked around and saw that the whole plain of the Jordan had plenty of water, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
 
 ### Genesis 13:11
 So Lot chose for himself the whole plain of the Jordan and set out toward the east. The two men separated from each other.

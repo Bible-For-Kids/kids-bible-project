@@ -12,13 +12,13 @@ Genesis
 After these things, the word of the Lord came to Abram in a vision: "Do not be afraid, Abram. I am your shield. Your reward will be very great."
 
 ### Genesis 15:2
-But Abram said, "Lord God, what can you give me, since I remain childless and the one who will inherit my estate is Eliezer of Damascus?"
+But Abram said, "Lord God, what can you give me, since I still have no child and the one who will receive what belongs to me is Eliezer of Damascus?"
 
 ### Genesis 15:3
 Abram said, "You have given me no offspring, so a servant in my household will be my heir."
 
 ### Genesis 15:4
-Then the word of the Lord came to him: "This man will not be your heir. A son who is your own flesh and blood will be your heir."
+Then the word of the Lord came to him: "This man will not be your heir. A son who comes from your own body will be your heir."
 
 ### Genesis 15:5
 The Lord brought Abram outside and said, "Look up at the sky and count the stars, if you can count them." Then he said, "So shall your offspring be."
@@ -39,10 +39,10 @@ The Lord said, "Bring me a three-year-old young cow, a three-year-old goat, a th
 Abram brought all these to him, cut the animals in two, and arranged the halves opposite each other. He did not cut the birds in two.
 
 ### Genesis 15:11
-Birds of prey came down on the carcasses, but Abram drove them away.
+Birds of prey came down toward the dead animals, but Abram drove them away.
 
 ### Genesis 15:12
-As the sun was setting, Abram fell into a deep sleep, and a thick and dreadful darkness came over him.
+As the sun was setting, Abram fell into a deep sleep, and thick, dreadful darkness came over him.
 
 ### Genesis 15:13
 Then the Lord said to Abram, "Know for certain that your offspring will be strangers in a land that is not theirs. They will be enslaved and mistreated for 400 years.

@@ -26,10 +26,10 @@ Abraham moved on from there into the region of the Negev. He lived between Kades
 **Original Reference**: Genesis 20:2 - Abraham said about Sarah his wife, "She is my sister." Abimelech king of Gerar sent, and took Sarah.
 
 #### Ages 5-7
-Abraham said about his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her.
+Abraham said about his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her into his house.
 
 #### Ages 8-10
-Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her.
+Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her into his house.
 
 ---
 
@@ -59,10 +59,13 @@ Now Abimelek had not gone near her, so he said, "Lord, will you destroy an innoc
 **Original Reference**: Genesis 20:5 - Didn't he tell me, 'She is my sister'? She, even she herself, said, 'He is my brother.' I have done this in the integrity of my heart and the innocence of my hands."
 
 #### Ages 5-7
-Did Abraham not say to me, 'She is my sister'? And Sarah herself said, 'He is my brother.' I did this with a clear heart and clean hands."
+Did Abraham not say to me, 'She is my sister'? And Sarah herself said, 'He is my brother.' I did this without knowing the truth, and I have not done wrong with her."
 
 #### Ages 8-10
-Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He is my brother'? I did this with a clear heart and clean hands."
+Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He is my brother'? I did this without knowing the truth, and I have not done wrong with her."
+
+**Key Vocabulary**:
+- truth: What is real, right, and faithful
 
 ---
 
@@ -70,13 +73,16 @@ Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He i
 **Original Reference**: Genesis 20:6 - God said to him in the dream, "Yes, I know that in the integrity of your heart you have done this, and I also withheld you from sinning against me. Therefore I didn't allow you to touch her.
 
 #### Ages 5-7
-Then God said to him in the dream, "Yes, I know you did this with a clear heart. That is why I kept you from sinning against me. I did not let you touch her.
+Then God said to him in the dream, "Yes, I know you did this without knowing the truth. That is why I kept you from sinning against me. I did not let you touch her.
 
 #### Ages 8-10
-Then God said to him in the dream, "Yes, I know you did this with a clear heart. I also kept you from sinning against me. That is why I did not let you touch her.
+Then God said to him in the dream, "Yes, I know you did this without knowing the truth. I also kept you from sinning against me. That is why I did not let you touch her.
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+
+**Key Vocabulary**:
+- truth: What is real, right, and faithful
 
 ---
 
@@ -84,10 +90,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 20:7 - Now therefore, restore the man's wife. For he is a prophet, and he will pray for you, and you will live. If you don't restore her, know for sure that you will die, you, and all who are yours."
 
 #### Ages 5-7
-Now return the man's wife. He is a prophet, and he will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
+Now return the man's wife. He is my prophet, a man who speaks for me, and he will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
 
 #### Ages 8-10
-Now return the man's wife, for he is a prophet. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
+Now return the man's wife, for he is a prophet, a man who speaks for me. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
 
 ---
 
@@ -106,7 +112,7 @@ Early the next morning, Abimelek called all his officials and told them everythi
 **Original Reference**: Genesis 20:9 - Then Abimelech called Abraham, and said to him, "What have you done to us? How have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done deeds to me that ought not to be done!"
 
 #### Ages 5-7
-Then Abimelek called Abraham and said, "What have you done to us? How have I sinned against you, that you brought such great guilt on me and my kingdom? You have done things to me that should not be done."
+Then Abimelek called Abraham and said, "What have you done to us? How have I sinned against you, that you brought such great blame on me and my kingdom? You have done things to me that should not be done."
 
 #### Ages 8-10
 Then Abimelek called Abraham and said, "What have you done to us? How have I sinned against you, that you have brought such great guilt on me and my kingdom? You have done things to me that should not be done."
@@ -186,7 +192,7 @@ Abimelek said, "My land is before you. Live wherever you like."
 To Sarah he said, "I am giving your brother a thousand pieces of silver. This shows everyone with you that you are cleared, and before all people you are made right."
 
 #### Ages 8-10
-To Sarah he said, "I am giving your brother a thousand pieces of silver. This is to cover the offense before all who are with you, and you are completely vindicated."
+To Sarah he said, "I am giving your brother a thousand pieces of silver. This shows everyone with you that the wrong has been answered, and everyone will know you are clear in this matter."
 
 ---
 
@@ -223,10 +229,10 @@ Abraham again says Sarah is his sister, God protects Sarah in Abimelech's house,
 ## Memory Verses by Age
 
 ### Ages 5-7
-Then God said to him in the dream, "Yes, I know you did this with a clear heart. That is why I kept you from sinning against me. I did not let you touch her. - Genesis 20:6
+Then God said to him in the dream, "Yes, I know you did this without knowing the truth. That is why I kept you from sinning against me. I did not let you touch her. - Genesis 20:6
 
 ### Ages 8-10
-Then God said to him in the dream, "Yes, I know you did this with a clear heart. I also kept you from sinning against me. That is why I did not let you touch her. - Genesis 20:6
+Then God said to him in the dream, "Yes, I know you did this without knowing the truth. I also kept you from sinning against me. That is why I did not let you touch her. - Genesis 20:6
 
 ## Discussion Questions by Age
 

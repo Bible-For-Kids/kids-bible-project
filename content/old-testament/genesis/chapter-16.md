@@ -27,10 +27,10 @@ Abram's wife Sarai had borne him no children, but she had an Egyptian servant na
 **Original Reference**: Genesis 16:2 - Sarai said to Abram, "See now, Yahweh has restrained me from bearing. Please go in to my servant. It may be that I will obtain children by her." Abram listened to the voice of Sarai.
 
 #### Ages 5-7
-Sarai said to Abram, "The Lord has kept me from having children. Go to my servant. Maybe I can build a family through her." Abram listened to Sarai.
+Sarai said to Abram, "The Lord has kept me from having children. Have a child with my servant. Maybe I can build a family through her." Abram listened to Sarai.
 
 #### Ages 8-10
-Sarai said to Abram, "The Lord has kept me from having children. Go to my servant; perhaps I can build a family through her." Abram listened to Sarai.
+Sarai said to Abram, "The Lord has kept me from having children. Have a child with my servant; perhaps I can build a family through her." Abram listened to Sarai.
 
 ---
 
@@ -38,10 +38,10 @@ Sarai said to Abram, "The Lord has kept me from having children. Go to my servan
 **Original Reference**: Genesis 16:3 - Sarai, Abram's wife, took Hagar the Egyptian, her servant, after Abram had lived ten years in the land of Canaan, and gave her to Abram her husband to be his wife.
 
 #### Ages 5-7
-So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servant Hagar to Abram as a wife.
+So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servant Hagar to Abram as another wife.
 
 #### Ages 8-10
-So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servant Hagar to Abram as his wife.
+So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servant Hagar to Abram as another wife.
 
 ---
 
@@ -49,10 +49,10 @@ So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servan
 **Original Reference**: Genesis 16:4 - He went in to Hagar, and she conceived. When she saw that she had conceived, her mistress was despised in her eyes.
 
 #### Ages 5-7
-Abram went to Hagar, and she became pregnant. When Hagar knew she was pregnant, she looked down on Sarai.
+Abram slept with Hagar, and she became pregnant. When Hagar knew she was pregnant, she looked down on Sarai.
 
 #### Ages 8-10
-Abram went to Hagar, and she became pregnant. When Hagar knew she was pregnant, she began to despise Sarai.
+Abram slept with Hagar, and she became pregnant. When Hagar knew she was pregnant, she began to despise Sarai.
 
 ---
 
@@ -96,7 +96,7 @@ The angel of the Lord found Hagar near a spring in the wilderness, the spring be
 **Original Reference**: Genesis 16:8 - He said, "Hagar, Sarai's servant, where did you come from? Where are you going?" She said, "I am fleeing from the face of my mistress Sarai."
 
 #### Ages 5-7
-He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from my mistress Sarai."
+He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from Sarai, the woman I serve."
 
 #### Ages 8-10
 He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from my mistress Sarai."
@@ -107,10 +107,10 @@ He said, "Hagar, servant of Sarai, where have you come from, and where are you g
 **Original Reference**: Genesis 16:9 - Yahweh's angel said to her, "Return to your mistress, and submit yourself under her hands."
 
 #### Ages 5-7
-Then the angel of the Lord said to her, "Go back to your mistress and submit to her."
+Then the angel of the Lord said to her, "Go back to the woman you serve and live under her authority."
 
 #### Ages 8-10
-Then the angel of the Lord said to her, "Go back to your mistress and submit to her."
+Then the angel of the Lord said to her, "Go back to your mistress and submit to her authority."
 
 **Key Vocabulary**:
 - angel: A messenger sent from God
@@ -121,7 +121,7 @@ Then the angel of the Lord said to her, "Go back to your mistress and submit to 
 **Original Reference**: Genesis 16:10 - Yahweh's angel said to her, "I will greatly multiply your offspring, that they will not be counted for multitude."
 
 #### Ages 5-7
-The angel also said, "I will give you so many offspring that they cannot be counted."
+The angel also said, "I will give you so many children and families after you that they cannot be counted."
 
 #### Ages 8-10
 The angel added, "I will increase your offspring so much that they will be too many to count."
@@ -150,7 +150,7 @@ The angel of the Lord also said, "You are pregnant and will give birth to a son.
 **Original Reference**: Genesis 16:12 - He will be like a wild donkey among men. His hand will be against every man, and every man's hand against him. He will live opposed to all of his brothers."
 
 #### Ages 5-7
-He will be like a wild donkey of a man. His hand will be against everyone, and everyone's hand will be against him. He will live in conflict with all his brothers."
+He will be like a wild donkey of a man, hard to hold back. He will fight against many people, and many people will fight against him. He will live in conflict with all his brothers."
 
 #### Ages 8-10
 He will be like a wild donkey of a man. His hand will be against everyone, and everyone's hand will be against him. He will live in hostility toward all his brothers."

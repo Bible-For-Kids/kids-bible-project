@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 12:1
-The Lord said to Abram, "Leave your country, your people, and your father's household, and go to the land I will show you.
+The Lord spoke to Abram and said, "Leave your country, your people, and your father's household. Go to the land I will show you.
 
 ### Genesis 12:2
 I will make you into a great nation. I will bless you, make your name great, and you will be a blessing.
@@ -27,7 +27,7 @@ Abram took his wife Sarai, his nephew Lot, all their possessions, and the people
 Abram traveled through the land as far as the great tree of Moreh at Shechem. At that time, the Canaanites were in the land.
 
 ### Genesis 12:7
-The Lord appeared to Abram and said, "I will give this land to your offspring." So Abram built an altar there to the Lord, who had appeared to him.
+The Lord appeared to Abram and said, "I will give this land to your offspring, the family who comes after you." So Abram built an altar there to the Lord, who had appeared to him.
 
 ### Genesis 12:8
 From there Abram moved to the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord.
@@ -36,7 +36,7 @@ From there Abram moved to the hills east of Bethel and pitched his tent, with Be
 Then Abram continued traveling toward the Negev.
 
 ### Genesis 12:10
-A famine came to the land, so Abram went down to Egypt to stay there for a while, because the famine was severe.
+A famine came to the land, so Abram went down to Egypt to stay there for a while, because there was very little food and the famine was severe.
 
 ### Genesis 12:11
 As he was about to enter Egypt, Abram said to his wife Sarai, "I know what a beautiful woman you are.
@@ -66,4 +66,4 @@ So Pharaoh called Abram and said, "What have you done to me? Why did you not tel
 Why did you say, 'She is my sister,' so that I took her as my wife? Now then, here is your wife. Take her and go!"
 
 ### Genesis 12:20
-Then Pharaoh gave orders about Abram to his men, and they sent him away with his wife and everything he had.
+Then Pharaoh gave orders about Abram to his men. They sent him away with his wife and everything he had.

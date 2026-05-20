@@ -15,10 +15,10 @@ Genesis 12 continues the covenant family story. God calls Abram to leave home, p
 **Original Reference**: Genesis 12:1 - Now Yahweh said to Abram, "Leave your country, and your relatives, and your father's house, and go to the land that I will show you.
 
 #### Ages 5-7
-The Lord said to Abram, "Leave your country, your people, and your father's house. Go to the land I will show you.
+The Lord spoke to Abram. He said, "Leave your country, your people, and your father's house. Go to the land I will show you.
 
 #### Ages 8-10
-The Lord said to Abram, "Leave your country, your people, and your father's household, and go to the land I will show you.
+The Lord spoke to Abram and said, "Leave your country, your people, and your father's household. Go to the land I will show you.
 
 **Translation Notes**:
 Keep God as the one who initiates Abram's journey; Abram does not invent the promise.
@@ -97,10 +97,10 @@ Abram traveled through the land as far as the great tree of Moreh at Shechem. At
 **Original Reference**: Genesis 12:7 - Yahweh appeared to Abram and said, "I will give this land to your offspring." He built an altar there to Yahweh, who had appeared to him.
 
 #### Ages 5-7
-The Lord appeared to Abram and said, "I will give this land to your offspring." So Abram built an altar there to the Lord, who had appeared to him.
+The Lord appeared to Abram and said, "I will give this land to the children and families who come after you." So Abram built an altar there to worship the Lord, who had appeared to him.
 
 #### Ages 8-10
-The Lord appeared to Abram and said, "I will give this land to your offspring." So Abram built an altar there to the Lord, who had appeared to him.
+The Lord appeared to Abram and said, "I will give this land to your offspring, the family who comes after you." So Abram built an altar there to the Lord, who had appeared to him.
 
 **Key Vocabulary**:
 - altar: A special place where someone worshiped the Lord with an offering
@@ -136,10 +136,10 @@ Then Abram continued traveling toward the Negev.
 **Original Reference**: Genesis 12:10 - There was a famine in the land. Abram went down into Egypt to live as a foreigner there, for the famine was severe in the land.
 
 #### Ages 5-7
-A famine came to the land. Abram went down to Egypt to stay there for a while, because the famine was very bad.
+Then a famine came to the land, and there was very little food. Abram went down to Egypt to stay there for a while, because the famine was very bad.
 
 #### Ages 8-10
-A famine came to the land, so Abram went down to Egypt to stay there for a while, because the famine was severe.
+A famine came to the land, so Abram went down to Egypt to stay there for a while, because there was very little food and the famine was severe.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food
@@ -194,7 +194,7 @@ When Abram entered Egypt, the Egyptians saw that Sarai was very beautiful.
 **Original Reference**: Genesis 12:15 - The princes of Pharaoh saw her, and praised her to Pharaoh; and the woman was taken into Pharaoh's house.
 
 #### Ages 5-7
-Pharaoh's officials saw her and praised her to Pharaoh. So Sarai was taken into Pharaoh's house.
+Pharaoh's officials saw her and praised her to Pharaoh. So Sarai was taken into Pharaoh's palace.
 
 #### Ages 8-10
 Pharaoh's officials saw her and praised her to Pharaoh, and Sarai was taken into Pharaoh's palace.
@@ -249,10 +249,10 @@ Why did you say, 'She is my sister,' so that I took her as my wife? Now then, he
 **Original Reference**: Genesis 12:20 - Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had.
 
 #### Ages 5-7
-Then Pharaoh gave orders about Abram, and his men sent Abram away with his wife and everything he had.
+Then Pharaoh gave orders about Abram. His men sent Abram away with his wife and everything he had.
 
 #### Ages 8-10
-Then Pharaoh gave orders about Abram to his men, and they sent him away with his wife and everything he had.
+Then Pharaoh gave orders about Abram to his men. They sent him away with his wife and everything he had.
 
 ---
 

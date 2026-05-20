@@ -26,7 +26,7 @@ Abram went up from Egypt to the Negev with his wife and everything he had, and L
 **Original Reference**: Genesis 13:2 - Abram was very rich in livestock, in silver, and in gold.
 
 #### Ages 5-7
-Abram had become very rich in livestock, silver, and gold.
+Abram had become very rich. He had many animals, and he had silver and gold.
 
 #### Ages 8-10
 Abram had become very wealthy in livestock, silver, and gold.
@@ -70,10 +70,10 @@ Lot, who was traveling with Abram, also had flocks, herds, and tents.
 **Original Reference**: Genesis 13:6 - The land was not able to bear them, that they might live together; for their possessions were so great that they couldn't live together.
 
 #### Ages 5-7
-The land could not support both of them living together, because they had so many possessions.
+There was not enough room for both families to live close together, because they had so many animals and belongings.
 
 #### Ages 8-10
-The land could not support both of them while they stayed together, because their possessions were so great.
+The land could not support both of them while they stayed together, because they had so many animals and possessions.
 
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
@@ -84,7 +84,7 @@ The land could not support both of them while they stayed together, because thei
 **Original Reference**: Genesis 13:7 - There was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. The Canaanites and the Perizzites lived in the land at that time.
 
 #### Ages 5-7
-Abram's herders and Lot's herders began to quarrel. At that time, the Canaanites and Perizzites also lived in the land.
+The men who cared for Abram's animals and the men who cared for Lot's animals began to argue. At that time, the Canaanites and Perizzites also lived in the land.
 
 #### Ages 8-10
 Quarreling broke out between Abram's herders and Lot's herders. At that time, the Canaanites and Perizzites were also living in the land.
@@ -98,7 +98,7 @@ Quarreling broke out between Abram's herders and Lot's herders. At that time, th
 **Original Reference**: Genesis 13:8 - Abram said to Lot, "Please, let there be no strife between you and me, and between your herdsmen and my herdsmen; for we are relatives.
 
 #### Ages 5-7
-So Abram said to Lot, "Let there be no quarrel between you and me, or between your herders and mine. We are family.
+So Abram said to Lot, "Let there be no arguing between you and me, or between your animal-keepers and mine. We are family.
 
 #### Ages 8-10
 So Abram said to Lot, "Let there be no quarreling between you and me, or between your herders and mine, because we are close relatives.
@@ -123,10 +123,10 @@ Is not the whole land before you? Let us part company. If you go left, I will go
 **Original Reference**: Genesis 13:10 - Lot lifted up his eyes, and saw all the plain of the Jordan, that it was well-watered everywhere, before Yahweh destroyed Sodom and Gomorrah, like the garden of Yahweh, like the land of Egypt, as you go to Zoar.
 
 #### Ages 5-7
-Lot looked around and saw that the whole plain of the Jordan was well watered, like the garden of the Lord and like Egypt. This was before the Lord destroyed Sodom and Gomorrah.
+Lot looked around and saw the whole plain of the Jordan. It had plenty of water, like the garden of the Lord and like Egypt. This was before the Lord destroyed Sodom and Gomorrah.
 
 #### Ages 8-10
-Lot looked around and saw that the whole plain of the Jordan was well watered, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
+Lot looked around and saw that the whole plain of the Jordan had plenty of water, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
 
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
@@ -184,7 +184,7 @@ After Lot separated from Abram, the Lord said to Abram, "Lift up your eyes from 
 **Original Reference**: Genesis 13:15 - for I will give all the land which you see to you and to your offspring forever.
 
 #### Ages 5-7
-All the land you see I will give to you and your offspring forever.
+All the land you see I will give to you and to the children and families who come after you forever.
 
 #### Ages 8-10
 All the land you see I will give to you and your offspring forever.
@@ -202,7 +202,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 13:16 - I will make your offspring as the dust of the earth, so that if a man can count the dust of the earth, then your offspring may also be counted.
 
 #### Ages 5-7
-I will make your offspring like the dust of the earth. If anyone could count the dust, then your offspring could be counted.
+I will make the family that comes after you like the dust of the earth. If anyone could count the dust, then your family could be counted.
 
 #### Ages 8-10
 I will make your offspring like the dust of the earth, so that if anyone could count the dust, then your offspring could be counted.
@@ -248,7 +248,7 @@ Abram and Lot separate peacefully, Lot chooses the Jordan plain near Sodom, and 
 ## Memory Verses by Age
 
 ### Ages 5-7
-All the land you see I will give to you and your offspring forever. - Genesis 13:15
+All the land you see I will give to you and to the children and families who come after you forever. - Genesis 13:15
 
 ### Ages 8-10
 All the land you see I will give to you and your offspring forever. - Genesis 13:15

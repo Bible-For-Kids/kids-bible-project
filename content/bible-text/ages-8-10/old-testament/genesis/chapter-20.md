@@ -12,7 +12,7 @@ Genesis
 Abraham moved on from there into the region of the Negev. He lived between Kadesh and Shur, and for a while he stayed in Gerar.
 
 ### Genesis 20:2
-Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her.
+Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her into his house.
 
 ### Genesis 20:3
 But God came to Abimelek in a dream one night and said to him, "You are as good as dead because of the woman you have taken. She is a married woman."
@@ -21,13 +21,13 @@ But God came to Abimelek in a dream one night and said to him, "You are as good 
 Now Abimelek had not gone near her, so he said, "Lord, will you destroy an innocent nation?
 
 ### Genesis 20:5
-Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He is my brother'? I did this with a clear heart and clean hands."
+Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He is my brother'? I did this without knowing the truth, and I have not done wrong with her."
 
 ### Genesis 20:6
-Then God said to him in the dream, "Yes, I know you did this with a clear heart. I also kept you from sinning against me. That is why I did not let you touch her.
+Then God said to him in the dream, "Yes, I know you did this without knowing the truth. I also kept you from sinning against me. That is why I did not let you touch her.
 
 ### Genesis 20:7
-Now return the man's wife, for he is a prophet. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
+Now return the man's wife, for he is a prophet, a man who speaks for me. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
 
 ### Genesis 20:8
 Early the next morning, Abimelek called all his officials and told them everything that had happened, and they were very afraid.
@@ -54,7 +54,7 @@ Then Abimelek brought sheep, cattle, and male and female servants and gave them 
 Abimelek said, "My land is before you. Live wherever you like."
 
 ### Genesis 20:16
-To Sarah he said, "I am giving your brother a thousand pieces of silver. This is to cover the offense before all who are with you, and you are completely vindicated."
+To Sarah he said, "I am giving your brother a thousand pieces of silver. This shows everyone with you that the wrong has been answered, and everyone will know you are clear in this matter."
 
 ### Genesis 20:17
 Then Abraham prayed to God, and God healed Abimelek, his wife, and his female servants so they could have children again.

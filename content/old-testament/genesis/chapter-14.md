@@ -58,10 +58,13 @@ All these kings joined forces in the Valley of Siddim, which is the Salt Sea.
 **Original Reference**: Genesis 14:4 - They served Chedorlaomer for twelve years, and in the thirteenth year they rebelled.
 
 #### Ages 5-7
-For twelve years, they had served Kedorlaomer. In the thirteenth year, they rebelled.
+For twelve years, those kings had been under Kedorlaomer's rule. In the thirteenth year, they turned against him.
 
 #### Ages 8-10
-For twelve years they had served Kedorlaomer, but in the thirteenth year they rebelled.
+For twelve years they had served under Kedorlaomer, but in the thirteenth year they rebelled against him.
+
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -94,10 +97,10 @@ They defeated the Horites in the hill country of Seir, as far as El Paran near t
 **Original Reference**: Genesis 14:7 - They returned, and came to En Mishpat (also called Kadesh), and struck all the country of the Amalekites, and also the Amorites, that lived in Hazazon Tamar.
 
 #### Ages 5-7
-Then they turned back and came to En Mishpat, which is Kadesh. They conquered the whole land of the Amalekites and the Amorites who lived in Hazezon Tamar.
+Then they turned back and came to En Mishpat, which is Kadesh. They defeated the Amalekites and the Amorites who lived in Hazezon Tamar.
 
 #### Ages 8-10
-Then they turned back and came to En Mishpat, which is Kadesh. They conquered the whole land of the Amalekites and the Amorites who lived in Hazezon Tamar.
+Then they turned back and came to En Mishpat, which is Kadesh. They defeated the Amalekites throughout their land and the Amorites who lived in Hazezon Tamar.
 
 ---
 
@@ -133,7 +136,7 @@ They lined up for battle in the Valley of Siddim against Kedorlaomer, Tidal, Amr
 **Original Reference**: Genesis 14:10 - Now the valley of Siddim was full of tar pits; and the kings of Sodom and Gomorrah fled, and some fell there. Those who remained fled to the hills.
 
 #### Ages 5-7
-The Valley of Siddim was full of tar pits. When the kings of Sodom and Gomorrah fled, some men fell into the pits, and the rest ran to the hills.
+The Valley of Siddim was full of sticky tar pits. When the kings of Sodom and Gomorrah ran away, some men fell into the pits, and the rest ran to the hills.
 
 #### Ages 8-10
 The Valley of Siddim was full of tar pits. When the kings of Sodom and Gomorrah fled, some men fell into the pits, and the rest fled to the hills.
@@ -172,10 +175,10 @@ They also carried off Abram's nephew Lot and his possessions, because Lot was li
 **Original Reference**: Genesis 14:13 - One who had escaped came and told Abram, the Hebrew. At that time, he lived by the oaks of Mamre, the Amorite, brother of Eshcol and brother of Aner. They were allies of Abram.
 
 #### Ages 5-7
-One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, who was the brother of Eshkol and Aner. They were Abram's allies.
+One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite. Mamre was the brother of Eshkol and Aner, and these men had promised to help Abram.
 
 #### Ages 8-10
-One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, brother of Eshkol and Aner, who were Abram's allies.
+One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, brother of Eshkol and Aner. These men were Abram's allies, bound to help him.
 
 ---
 
@@ -183,7 +186,7 @@ One man escaped and told Abram the Hebrew. Abram was living near the great trees
 **Original Reference**: Genesis 14:14 - When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued as far as Dan.
 
 #### Ages 5-7
-When Abram heard that his relative had been captured, he called out 318 trained men born in his household. He chased the enemy as far as Dan.
+When Abram heard that his relative had been captured, he called out 318 trained men born in his household. He chased the enemy all the way to Dan.
 
 #### Ages 8-10
 When Abram heard that his relative had been captured, he called out 318 trained men born in his household and pursued the enemy as far as Dan.
@@ -205,7 +208,7 @@ During the night, Abram divided his men to attack them, and he pursued them as f
 **Original Reference**: Genesis 14:16 - He brought back all the goods, and also brought back his relative Lot and his goods, and the women also, and the other people.
 
 #### Ages 5-7
-Abram brought back all the goods. He also brought back his relative Lot, Lot's possessions, the women, and the other people.
+Abram brought back all the goods. He also brought back his relative Lot, Lot's belongings, the women, and the other people.
 
 #### Ages 8-10
 Abram recovered all the goods and brought back his relative Lot, Lot's possessions, the women, and the other people.

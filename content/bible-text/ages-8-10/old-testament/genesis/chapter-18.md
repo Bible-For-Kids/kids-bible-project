@@ -24,7 +24,7 @@ Let a little water be brought so you can wash your feet and rest under this tree
 Let me bring some bread so you can be refreshed. Then you may go on your way, since you have come to your servant." They said, "Very well. Do as you have said."
 
 ### Genesis 18:6
-So Abraham hurried into the tent to Sarah and said, "Quick, get three seahs of fine flour, knead it, and make bread."
+So Abraham hurried into the tent to Sarah and said, "Quick, get three measures of fine flour, knead it, and make bread."
 
 ### Genesis 18:7
 Then Abraham ran to the herd, chose a tender, good calf, and gave it to a servant, who hurried to prepare it.
@@ -54,7 +54,7 @@ Is anything too hard for the Lord? I will return to you at the appointed time ne
 Sarah was afraid, so she lied and said, "I did not laugh." But he said, "Yes, you did laugh."
 
 ### Genesis 18:16
-When the men got up to leave, they looked down toward Sodom, and Abraham walked with them to send them on their way.
+When the men got up to leave, they looked down toward Sodom, and Abraham walked with them for a while to send them on their way.
 
 ### Genesis 18:17
 Then the Lord said, "Shall I hide from Abraham what I am about to do?
@@ -66,10 +66,10 @@ Abraham will surely become a great and powerful nation, and all nations on earth
 I have chosen him so that he will direct his children and household after him to keep the way of the Lord by doing what is right and just. Then the Lord will bring about for Abraham what he promised him."
 
 ### Genesis 18:20
-Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very serious.
+Then the Lord said, "A great outcry has risen against Sodom and Gomorrah, and their sin is very serious.
 
 ### Genesis 18:21
-I will go down and see whether what they have done is as bad as the outcry that has reached me. If not, I will know."
+I will go down and see whether what they have done is as bad as the cry that has reached me. If not, I will know."
 
 ### Genesis 18:22
 The men turned away and went toward Sodom, but Abraham remained standing before the Lord.

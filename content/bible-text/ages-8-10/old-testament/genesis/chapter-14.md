@@ -18,7 +18,7 @@ They fought against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of 
 All these kings joined forces in the Valley of Siddim, which is the Salt Sea.
 
 ### Genesis 14:4
-For twelve years they had served Kedorlaomer, but in the thirteenth year they rebelled.
+For twelve years they had served under Kedorlaomer, but in the thirteenth year they rebelled against him.
 
 ### Genesis 14:5
 In the fourteenth year, Kedorlaomer and the kings allied with him came and defeated the Rephaites, Zuzites, Emites, and Horites in their lands.
@@ -27,7 +27,7 @@ In the fourteenth year, Kedorlaomer and the kings allied with him came and defea
 They defeated the Horites in the hill country of Seir, as far as El Paran near the wilderness.
 
 ### Genesis 14:7
-Then they turned back and came to En Mishpat, which is Kadesh. They conquered the whole land of the Amalekites and the Amorites who lived in Hazezon Tamar.
+Then they turned back and came to En Mishpat, which is Kadesh. They defeated the Amalekites throughout their land and the Amorites who lived in Hazezon Tamar.
 
 ### Genesis 14:8
 Then the kings of Sodom, Gomorrah, Admah, Zeboyim, and Bela, which is Zoar, marched out.
@@ -45,7 +45,7 @@ The four kings seized all the goods and food of Sodom and Gomorrah and went away
 They also carried off Abram's nephew Lot and his possessions, because Lot was living in Sodom.
 
 ### Genesis 14:13
-One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, brother of Eshkol and Aner, who were Abram's allies.
+One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, brother of Eshkol and Aner. These men were Abram's allies, bound to help him.
 
 ### Genesis 14:14
 When Abram heard that his relative had been captured, he called out 318 trained men born in his household and pursued the enemy as far as Dan.

@@ -16,7 +16,7 @@ Genesis 15 continues the covenant family story. The Lord promises Abram offsprin
 **Original Reference**: Genesis 15:1 - After these things Yahweh's word came to Abram in a vision, saying, "Don't be afraid, Abram. I am your shield, your exceedingly great reward."
 
 #### Ages 5-7
-After these things, the word of the Lord came to Abram in a vision. He said, "Do not be afraid, Abram. I am your shield. Your reward will be very great."
+After these things, the Lord spoke to Abram in a vision, like a message he could see. He said, "Do not be afraid, Abram. I am your shield. Your reward will be very great."
 
 #### Ages 8-10
 After these things, the word of the Lord came to Abram in a vision: "Do not be afraid, Abram. I am your shield. Your reward will be very great."
@@ -30,7 +30,7 @@ After these things, the word of the Lord came to Abram in a vision: "Do not be a
 But Abram said, "Lord God, what can you give me? I still have no child, and Eliezer of Damascus will receive what belongs to me."
 
 #### Ages 8-10
-But Abram said, "Lord God, what can you give me, since I remain childless and the one who will inherit my estate is Eliezer of Damascus?"
+But Abram said, "Lord God, what can you give me, since I still have no child and the one who will receive what belongs to me is Eliezer of Damascus?"
 
 ---
 
@@ -38,7 +38,7 @@ But Abram said, "Lord God, what can you give me, since I remain childless and th
 **Original Reference**: Genesis 15:3 - Abram said, "Behold, you have given no children to me: and, behold, one born in my house is my heir."
 
 #### Ages 5-7
-Abram said, "You have given me no offspring. A servant in my house will be my heir."
+Abram said, "You have given me no child. A servant in my house will receive my family place after me."
 
 #### Ages 8-10
 Abram said, "You have given me no offspring, so a servant in my household will be my heir."
@@ -52,10 +52,10 @@ Abram said, "You have given me no offspring, so a servant in my household will b
 **Original Reference**: Genesis 15:4 - Behold, Yahweh's word came to him, saying, "This man will not be your heir, but he who will come out of your own body will be your heir."
 
 #### Ages 5-7
-Then the word of the Lord came to him: "This man will not be your heir. Your own son will be your heir."
+Then the Lord spoke to him: "This man will not receive your family place after you. Your own son will receive it."
 
 #### Ages 8-10
-Then the word of the Lord came to him: "This man will not be your heir. A son who is your own flesh and blood will be your heir."
+Then the word of the Lord came to him: "This man will not be your heir. A son who comes from your own body will be your heir."
 
 ---
 
@@ -63,7 +63,7 @@ Then the word of the Lord came to him: "This man will not be your heir. A son wh
 **Original Reference**: Genesis 15:5 - Yahweh brought him outside, and said, "Look now toward the sky, and count the stars, if you are able to count them." He said to Abram, "So your offspring will be."
 
 #### Ages 5-7
-The Lord brought Abram outside and said, "Look up at the sky. Count the stars, if you can count them." Then he said, "That is how many your offspring will be."
+The Lord brought Abram outside and said, "Look up at the sky. Count the stars, if you can count them." Then he said, "That is how many children and families will come after you."
 
 #### Ages 8-10
 The Lord brought Abram outside and said, "Look up at the sky and count the stars, if you can count them." Then he said, "So shall your offspring be."
@@ -77,7 +77,7 @@ The Lord brought Abram outside and said, "Look up at the sky and count the stars
 **Original Reference**: Genesis 15:6 - He believed in Yahweh, who credited it to him for righteousness.
 
 #### Ages 5-7
-Abram believed the Lord, and the Lord counted it to him as righteousness.
+Abram believed the Lord, and the Lord counted Abram's faith as being right with him.
 
 #### Ages 8-10
 Abram believed the Lord, and the Lord counted it to him as righteousness.
@@ -86,6 +86,7 @@ Abram believed the Lord, and the Lord counted it to him as righteousness.
 Do not turn this into Abram earning righteousness; the verse says he believed and God counted it as righteousness.
 
 **Key Vocabulary**:
+- faith: Trust in God and in what he has spoken
 - righteousness: Being counted right before God
 
 **Cross-References**:
@@ -109,7 +110,7 @@ The Lord said to him, "I am the Lord, who brought you out of Ur of the Chaldeans
 **Original Reference**: Genesis 15:8 - He said, "Lord Yahweh, how will I know that I will inherit it?"
 
 #### Ages 5-7
-Abram said, "Lord God, how will I know that I will possess it?"
+Abram said, "Lord God, how will I know that it will truly be mine?"
 
 #### Ages 8-10
 Abram said, "Lord God, how can I know that I will possess it?"
@@ -142,10 +143,10 @@ Abram brought all these to him, cut the animals in two, and arranged the halves 
 **Original Reference**: Genesis 15:11 - The birds of prey came down on the carcasses, and Abram drove them away.
 
 #### Ages 5-7
-Birds of prey came down on the carcasses, but Abram drove them away.
+Large birds came down toward the dead animals, but Abram drove them away.
 
 #### Ages 8-10
-Birds of prey came down on the carcasses, but Abram drove them away.
+Birds of prey came down toward the dead animals, but Abram drove them away.
 
 ---
 
@@ -153,10 +154,10 @@ Birds of prey came down on the carcasses, but Abram drove them away.
 **Original Reference**: Genesis 15:12 - When the sun was going down, a deep sleep fell on Abram. Now terror and great darkness fell on him.
 
 #### Ages 5-7
-As the sun was going down, Abram fell into a deep sleep. A thick and dreadful darkness came over him.
+As the sun was going down, Abram fell into a deep sleep. Thick, frightening darkness came over him.
 
 #### Ages 8-10
-As the sun was setting, Abram fell into a deep sleep, and a thick and dreadful darkness came over him.
+As the sun was setting, Abram fell into a deep sleep, and thick, dreadful darkness came over him.
 
 ---
 
@@ -164,7 +165,7 @@ As the sun was setting, Abram fell into a deep sleep, and a thick and dreadful d
 **Original Reference**: Genesis 15:13 - He said to Abram, "Know for sure that your offspring will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years.
 
 #### Ages 5-7
-Then the Lord said to Abram, "Know this: your offspring will live as strangers in a land that is not theirs. They will be enslaved and mistreated for 400 years.
+Then the Lord said to Abram, "Know this: the family that comes after you will live as strangers in a land that is not theirs. They will be made slaves and treated badly for 400 years.
 
 #### Ages 8-10
 Then the Lord said to Abram, "Know for certain that your offspring will be strangers in a land that is not theirs. They will be enslaved and mistreated for 400 years.
@@ -178,7 +179,7 @@ Then the Lord said to Abram, "Know for certain that your offspring will be stran
 **Original Reference**: Genesis 15:14 - I will also judge that nation, whom they will serve. Afterward they will come out with great wealth;
 
 #### Ages 5-7
-But I will judge the nation they serve. Afterward, they will come out with many possessions.
+But I will judge the nation they serve. Afterward, they will come out with many belongings.
 
 #### Ages 8-10
 But I will judge the nation they serve, and afterward they will come out with many possessions.
@@ -200,7 +201,7 @@ You will go to your ancestors in peace and be buried at a good old age.
 **Original Reference**: Genesis 15:16 - In the fourth generation they will come here again, for the iniquity of the Amorite is not yet full."
 
 #### Ages 5-7
-In the fourth generation, your offspring will come back here, because the sin of the Amorites has not yet become complete."
+In the fourth generation, your family will come back here, because the sin of the Amorites has not yet reached its full measure."
 
 #### Ages 8-10
 In the fourth generation, your offspring will come back here, because the sin of the Amorites has not yet reached its full measure."
@@ -225,12 +226,13 @@ When the sun had set and darkness had fallen, a smoking firepot and a flaming to
 **Original Reference**: Genesis 15:18 - In that day Yahweh made a covenant with Abram, saying, "I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates:
 
 #### Ages 5-7
-On that day, the Lord made a covenant with Abram. He said, "I give this land to your offspring, from the river of Egypt to the great river, the Euphrates.
+On that day, the Lord made a covenant, a serious promise, with Abram. He said, "I give this land to the family that comes after you, from the river of Egypt to the great river, the Euphrates.
 
 #### Ages 8-10
 On that day, the Lord made a covenant with Abram and said, "I give this land to your offspring, from the river of Egypt to the great river, the Euphrates.
 
 **Key Vocabulary**:
+- promise: Words someone says and keeps
 - covenant: A serious promise relationship God makes
 - offspring: Children and later family who come after someone
 
@@ -280,7 +282,7 @@ The Lord promises Abram offspring as many as the stars, counts Abram's faith as 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abram believed the Lord, and the Lord counted it to him as righteousness. - Genesis 15:6
+Abram believed the Lord, and the Lord counted Abram's faith as being right with him. - Genesis 15:6
 
 ### Ages 8-10
 Abram believed the Lord, and the Lord counted it to him as righteousness. - Genesis 15:6

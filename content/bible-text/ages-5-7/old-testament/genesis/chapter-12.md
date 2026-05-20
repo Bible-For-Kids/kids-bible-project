@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 12:1
-The Lord said to Abram, "Leave your country, your people, and your father's house. Go to the land I will show you.
+The Lord spoke to Abram. He said, "Leave your country, your people, and your father's house. Go to the land I will show you.
 
 ### Genesis 12:2
 I will make you into a great nation. I will bless you and make your name great, and you will be a blessing.
@@ -27,7 +27,7 @@ Abram took his wife Sarai, his nephew Lot, and everything they owned. He also to
 Abram traveled through the land to the great tree of Moreh at Shechem. At that time, the Canaanites lived in the land.
 
 ### Genesis 12:7
-The Lord appeared to Abram and said, "I will give this land to your offspring." So Abram built an altar there to the Lord, who had appeared to him.
+The Lord appeared to Abram and said, "I will give this land to the children and families who come after you." So Abram built an altar there to worship the Lord, who had appeared to him.
 
 ### Genesis 12:8
 From there Abram moved to the hills east of Bethel. He set up his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the Lord's name.
@@ -36,7 +36,7 @@ From there Abram moved to the hills east of Bethel. He set up his tent, with Bet
 Then Abram kept traveling, moving toward the Negev.
 
 ### Genesis 12:10
-A famine came to the land. Abram went down to Egypt to stay there for a while, because the famine was very bad.
+Then a famine came to the land, and there was very little food. Abram went down to Egypt to stay there for a while, because the famine was very bad.
 
 ### Genesis 12:11
 As Abram was about to enter Egypt, he said to his wife Sarai, "I know you are a beautiful woman.
@@ -51,7 +51,7 @@ Please say you are my sister, so things will go well for me because of you, and 
 When Abram entered Egypt, the Egyptians saw that Sarai was very beautiful.
 
 ### Genesis 12:15
-Pharaoh's officials saw her and praised her to Pharaoh. So Sarai was taken into Pharaoh's house.
+Pharaoh's officials saw her and praised her to Pharaoh. So Sarai was taken into Pharaoh's palace.
 
 ### Genesis 12:16
 Pharaoh treated Abram well because of Sarai. Abram received sheep, cattle, donkeys, servants, and camels.
@@ -66,4 +66,4 @@ So Pharaoh called Abram and said, "What have you done to me? Why did you not tel
 Why did you say, 'She is my sister,' so that I took her as my wife? Here is your wife. Take her and go!"
 
 ### Genesis 12:20
-Then Pharaoh gave orders about Abram, and his men sent Abram away with his wife and everything he had.
+Then Pharaoh gave orders about Abram. His men sent Abram away with his wife and everything he had.

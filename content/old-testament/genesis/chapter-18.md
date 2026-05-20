@@ -38,7 +38,7 @@ Abraham looked up and saw three men standing nearby. When he saw them, he hurrie
 **Original Reference**: Genesis 18:3 - and said, "My lord, if now I have found favor in your sight, please don't go away from your servant.
 
 #### Ages 5-7
-He said, "My lord, if I have found favor in your eyes, please do not pass by your servant.
+He said, "My lord, if you are pleased with me, please do not pass by your servant.
 
 #### Ages 8-10
 He said, "My lord, if I have found favor in your eyes, please do not pass by your servant.
@@ -74,7 +74,7 @@ Let me bring some bread so you can be refreshed. Then you may go on your way, si
 Abraham hurried into the tent to Sarah and said, "Quick! Get fine flour, knead it, and make bread."
 
 #### Ages 8-10
-So Abraham hurried into the tent to Sarah and said, "Quick, get three seahs of fine flour, knead it, and make bread."
+So Abraham hurried into the tent to Sarah and said, "Quick, get three measures of fine flour, knead it, and make bread."
 
 ---
 
@@ -159,7 +159,7 @@ Then the Lord said to Abraham, "Why did Sarah laugh and say, 'Will I really have
 **Original Reference**: Genesis 18:14 - Is anything too hard for Yahweh? At the set time I will return to you, when the season comes round, and Sarah will have a son."
 
 #### Ages 5-7
-Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son."
+Is anything too hard for the Lord? I will return to you at the time I have set next year, and Sarah will have a son."
 
 #### Ages 8-10
 Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son."
@@ -187,10 +187,10 @@ Sarah was afraid, so she lied and said, "I did not laugh." But he said, "Yes, yo
 **Original Reference**: Genesis 18:16 - The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way.
 
 #### Ages 5-7
-When the men got up to leave, they looked down toward Sodom. Abraham walked with them to send them on their way.
+When the men got up to leave, they looked down toward Sodom. Abraham walked with them for a while to send them on their way.
 
 #### Ages 8-10
-When the men got up to leave, they looked down toward Sodom, and Abraham walked with them to send them on their way.
+When the men got up to leave, they looked down toward Sodom, and Abraham walked with them for a while to send them on their way.
 
 ---
 
@@ -234,10 +234,10 @@ I have chosen him so that he will direct his children and household after him to
 **Original Reference**: Genesis 18:20 - Yahweh said, "Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous,
 
 #### Ages 5-7
-Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very serious.
+Then the Lord said, "A great cry has risen against Sodom and Gomorrah, and their sin is very serious.
 
 #### Ages 8-10
-Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very serious.
+Then the Lord said, "A great outcry has risen against Sodom and Gomorrah, and their sin is very serious.
 
 ---
 
@@ -245,10 +245,10 @@ Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their s
 **Original Reference**: Genesis 18:21 - I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know."
 
 #### Ages 5-7
-I will go down and see if what they have done is as bad as the outcry that has come to me. If not, I will know."
+I will go down and see if what they have done is as bad as the cry that has come to me. If not, I will know."
 
 #### Ages 8-10
-I will go down and see whether what they have done is as bad as the outcry that has reached me. If not, I will know."
+I will go down and see whether what they have done is as bad as the cry that has reached me. If not, I will know."
 
 ---
 
@@ -267,7 +267,7 @@ The men turned away and went toward Sodom, but Abraham remained standing before 
 **Original Reference**: Genesis 18:23 - Abraham came near, and said, "Will you consume the righteous with the wicked?
 
 #### Ages 5-7
-Abraham came near and said, "Will you really sweep away the righteous with the wicked?
+Abraham came near and said, "Will you really sweep away the people who do right along with the wicked?
 
 #### Ages 8-10
 Abraham came near and said, "Will you really sweep away the righteous with the wicked?
@@ -278,7 +278,7 @@ Abraham came near and said, "Will you really sweep away the righteous with the w
 **Original Reference**: Genesis 18:24 - What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it?
 
 #### Ages 5-7
-What if there are fifty righteous people in the city? Will you sweep it away and not spare the place for their sake?
+What if there are fifty people in the city who do right? Will you sweep it away and not spare the place for their sake?
 
 #### Ages 8-10
 What if there are fifty righteous people in the city? Will you really sweep it away and not spare the place for their sake?
@@ -289,7 +289,7 @@ What if there are fifty righteous people in the city? Will you really sweep it a
 **Original Reference**: Genesis 18:25 - May it be far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?"
 
 #### Ages 5-7
-Far be it from you to do such a thing, to kill the righteous with the wicked. Will not the Judge of all the earth do what is right?"
+Far be it from you to do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
 
 #### Ages 8-10
 Far be it from you to do such a thing, to kill the righteous with the wicked. Will not the Judge of all the earth do what is right?"
@@ -300,7 +300,7 @@ Far be it from you to do such a thing, to kill the righteous with the wicked. Wi
 **Original Reference**: Genesis 18:26 - Yahweh said, "If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake."
 
 #### Ages 5-7
-The Lord said, "If I find fifty righteous people in Sodom, I will spare the whole place for their sake."
+The Lord said, "If I find fifty people in Sodom who do right, I will spare the whole place for their sake."
 
 #### Ages 8-10
 The Lord said, "If I find fifty righteous people in Sodom, I will spare the whole place for their sake."
@@ -322,7 +322,7 @@ Then Abraham said, "I have been bold to speak to the Lord, though I am only dust
 **Original Reference**: Genesis 18:28 - What if there will lack five of the fifty righteous? Will you destroy all the city for lack of five?" He said, "I will not destroy it if I find forty-five there."
 
 #### Ages 5-7
-What if there are five fewer than fifty righteous people? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
+What if there are five fewer than fifty people who do right? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
 
 #### Ages 8-10
 What if there are five fewer than fifty righteous people? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
@@ -395,7 +395,7 @@ The Lord appears to Abraham by the oaks of Mamre, promises Sarah a son, and lets
 ## Memory Verses by Age
 
 ### Ages 5-7
-Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son." - Genesis 18:14
+Is anything too hard for the Lord? I will return to you at the time I have set next year, and Sarah will have a son." - Genesis 18:14
 
 ### Ages 8-10
 Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son." - Genesis 18:14

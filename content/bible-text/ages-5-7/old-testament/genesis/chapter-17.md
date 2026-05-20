@@ -9,10 +9,10 @@ Genesis
 ## Verses
 
 ### Genesis 17:1
-When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and be blameless.
+When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and live in a way that is right.
 
 ### Genesis 17:2
-I will make my covenant between me and you, and I will make your family grow very, very much."
+I will make my covenant, my serious promise, between me and you. I will make your family grow very, very much."
 
 ### Genesis 17:3
 Abram fell facedown, and God spoke with him.
@@ -27,28 +27,28 @@ Your name will no longer be Abram. Your name will be Abraham, because I have mad
 I will make you very fruitful. I will make nations come from you, and kings will come from you.
 
 ### Genesis 17:7
-I will keep my covenant between me and you and your offspring after you, for all generations. It will be an everlasting covenant. I will be your God and the God of your offspring after you.
+I will keep my covenant between me and you and the family that comes after you, for all generations. It will be a covenant that lasts forever. I will be your God and the God of your family after you.
 
 ### Genesis 17:8
-I will give you and your offspring the land where you now live as a foreigner, all the land of Canaan, as an everlasting possession. I will be their God."
+I will give you and the family after you the land where you now live as a foreigner, all the land of Canaan. It will belong to them forever. I will be their God."
 
 ### Genesis 17:9
-Then God said to Abraham, "As for you, you must keep my covenant, you and your offspring after you.
+Then God said to Abraham, "As for you, you must keep my covenant, you and the family that comes after you.
 
 ### Genesis 17:10
-This is my covenant sign that you must keep: every male among you must be circumcised.
+This is the sign of my covenant that you must keep: every male among you must receive the body sign called circumcision.
 
 ### Genesis 17:11
-You must be circumcised in your flesh. This will be the sign of the covenant between me and you.
+You must receive this sign in your flesh. This will be the sign of the covenant between me and you.
 
 ### Genesis 17:12
-For all generations, every boy among you must be circumcised when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
+For all generations, every boy among you must receive this sign when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
 
 ### Genesis 17:13
-Whether born in your house or bought with your money, each one must be circumcised. My covenant in your flesh will be an everlasting covenant.
+Whether born in your house or bought with your money, each male must receive this sign. My covenant in your flesh will last forever.
 
 ### Genesis 17:14
-Any uncircumcised male who is not circumcised has broken my covenant and must be cut off from his people."
+Any male who does not receive this sign has broken my covenant and must be cut off from his people."
 
 ### Genesis 17:15
 God also said to Abraham, "As for Sarai your wife, do not call her Sarai anymore. Her name will be Sarah.
@@ -63,7 +63,7 @@ Abraham fell facedown and laughed. He said in his heart, "Can a son be born to a
 Abraham said to God, "If only Ishmael might live under your blessing!"
 
 ### Genesis 17:19
-Then God said, "Yes, but your wife Sarah will have a son, and you will name him Isaac. I will make my covenant with him and with his offspring after him forever.
+Then God said, "Yes, but your wife Sarah will have a son, and you will name him Isaac. I will make my covenant with him and with the family that comes after him forever.
 
 ### Genesis 17:20
 As for Ishmael, I have heard you. I will bless him, make him fruitful, and make his family very great. He will be the father of twelve rulers, and I will make him into a great nation.
@@ -75,16 +75,16 @@ But I will make my covenant with Isaac, the son Sarah will have for you at this 
 When God finished speaking with Abraham, God went up from him.
 
 ### Genesis 17:23
-On that same day, Abraham took his son Ishmael and all the males in his household, those born in his house and those bought with his money. He circumcised them, just as God told him.
+On that same day, Abraham took his son Ishmael and all the males in his household, those born in his house and those bought with his money. He gave them the covenant sign, just as God told him.
 
 ### Genesis 17:24
-Abraham was 99 years old when he was circumcised.
+Abraham was 99 years old when he received the covenant sign.
 
 ### Genesis 17:25
-His son Ishmael was 13 years old when he was circumcised.
+His son Ishmael was 13 years old when he received the covenant sign.
 
 ### Genesis 17:26
-Abraham and his son Ishmael were circumcised on that same day.
+Abraham and his son Ishmael received the covenant sign on that same day.
 
 ### Genesis 17:27
-All the males in Abraham's household were circumcised with him, whether born in his house or bought from a foreigner.
+All the males in Abraham's household received the sign with him, whether born in his house or bought from a foreigner.
