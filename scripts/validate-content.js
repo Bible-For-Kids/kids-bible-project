@@ -1,0 +1,372 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
+const chalk = require('chalk');
+
+const expectedVerseCounts = {
+  [path.normalize('old-testament/genesis/chapter-1.md')]: 31,
+  [path.normalize('old-testament/genesis/chapter-2.md')]: 25,
+  [path.normalize('old-testament/genesis/chapter-3.md')]: 24,
+  [path.normalize('old-testament/genesis/chapter-4.md')]: 26,
+  [path.normalize('old-testament/genesis/chapter-5.md')]: 32,
+  [path.normalize('old-testament/genesis/chapter-6.md')]: 22,
+  [path.normalize('old-testament/genesis/chapter-7.md')]: 24,
+  [path.normalize('old-testament/genesis/chapter-8.md')]: 22,
+  [path.normalize('old-testament/genesis/chapter-9.md')]: 29,
+  [path.normalize('old-testament/genesis/chapter-10.md')]: 32,
+  [path.normalize('old-testament/genesis/chapter-11.md')]: 32,
+  [path.normalize('old-testament/genesis/chapter-12.md')]: 20,
+  [path.normalize('old-testament/genesis/chapter-13.md')]: 18,
+  [path.normalize('old-testament/genesis/chapter-14.md')]: 24,
+  [path.normalize('old-testament/genesis/chapter-15.md')]: 21,
+  [path.normalize('old-testament/genesis/chapter-16.md')]: 16,
+  [path.normalize('old-testament/genesis/chapter-17.md')]: 27,
+  [path.normalize('old-testament/genesis/chapter-18.md')]: 33,
+  [path.normalize('old-testament/genesis/chapter-19.md')]: 38,
+  [path.normalize('old-testament/genesis/chapter-20.md')]: 18,
+  [path.normalize('old-testament/genesis/chapter-21.md')]: 34,
+  [path.normalize('old-testament/genesis/chapter-22.md')]: 24,
+  [path.normalize('old-testament/genesis/chapter-23.md')]: 20,
+  [path.normalize('old-testament/genesis/chapter-24.md')]: 67,
+  [path.normalize('old-testament/genesis/chapter-25.md')]: 34,
+  [path.normalize('old-testament/genesis/chapter-26.md')]: 35,
+  [path.normalize('old-testament/genesis/chapter-27.md')]: 46,
+  [path.normalize('old-testament/genesis/chapter-28.md')]: 22,
+  [path.normalize('old-testament/genesis/chapter-29.md')]: 35,
+  [path.normalize('old-testament/genesis/chapter-30.md')]: 43,
+  [path.normalize('old-testament/genesis/chapter-31.md')]: 55,
+  [path.normalize('old-testament/genesis/chapter-32.md')]: 32,
+  [path.normalize('old-testament/genesis/chapter-33.md')]: 20,
+  [path.normalize('old-testament/genesis/chapter-34.md')]: 31,
+  [path.normalize('old-testament/genesis/chapter-35.md')]: 29,
+  [path.normalize('old-testament/genesis/chapter-36.md')]: 43,
+  [path.normalize('old-testament/genesis/chapter-37.md')]: 36,
+  [path.normalize('old-testament/genesis/chapter-38.md')]: 30,
+  [path.normalize('old-testament/genesis/chapter-39.md')]: 23,
+  [path.normalize('old-testament/genesis/chapter-40.md')]: 23,
+};
+
+function validateStory(filePath, content) {
+  if (isBibleTextFile(filePath)) {
+    return validateBibleTextFile(filePath, content);
+  }
+
+  if (content.includes('## Verse-by-Verse Translation')) {
+    return validateChapter(filePath, content);
+  }
+
+  return validateStoryMarkdown(filePath, content);
+}
+
+function validateChapter(filePath, content) {
+  const errors = [];
+  const warnings = [];
+
+  requireSection(content, '# ', 'chapter title', errors);
+  requireSection(content, '## Book Overview', 'book overview', warnings);
+  requireSection(content, '## Verse-by-Verse Translation', 'verse-by-verse translation section', errors);
+  requireSection(content, '## Chapter Summary', 'chapter summary', warnings);
+  requireSection(content, '## Key Lessons for Children', 'key lessons', warnings);
+  requireSection(content, '## Memory Verses by Age', 'memory verses by age', warnings);
+  requireSection(content, '## Discussion Questions by Age', 'discussion questions by age', warnings);
+  requireSection(content, '## Prayer', 'prayer', warnings);
+
+  if (content.includes('[Continue for verses')) {
+    errors.push('Contains placeholder text for unfinished verses');
+  }
+
+  const verses = extractVerses(content);
+  if (!verses.length) {
+    errors.push('No verse entries found');
+  }
+
+  const relativePath = path.normalize(path.relative(path.join(__dirname, '../content'), filePath));
+  const expectedCount = expectedVerseCounts[relativePath];
+  if (expectedCount && verses.length !== expectedCount) {
+    errors.push(`Expected ${expectedCount} verses but found ${verses.length}`);
+  }
+
+  const ageTextByRange = {};
+  for (const ageRange of ['5-7', '8-10']) {
+    const ageTextPath = resolveAgeTextPathForChapter(filePath, ageRange);
+    if (!ageTextPath) continue;
+
+    if (!fs.existsSync(ageTextPath)) {
+      errors.push(`Missing ages ${ageRange} Bible text source: ${path.relative(path.join(__dirname, '../content'), ageTextPath)}`);
+      continue;
+    }
+
+    const ageTextVerses = extractBibleTextVerses(fs.readFileSync(ageTextPath, 'utf8'));
+    ageTextByRange[ageRange] = ageTextVerses;
+    if (expectedCount && ageTextVerses.length !== expectedCount) {
+      errors.push(`Ages ${ageRange} Bible text source expected ${expectedCount} verses but found ${ageTextVerses.length}`);
+    }
+  }
+
+  let previousVerseNumber = 0;
+  for (const verse of verses) {
+    const numberMatch = verse.reference.match(/:(\d+)$/);
+    const verseNumber = numberMatch ? Number(numberMatch[1]) : null;
+
+    if (!verseNumber) {
+      errors.push(`${verse.reference}: could not read verse number`);
+    } else if (previousVerseNumber && verseNumber !== previousVerseNumber + 1) {
+      errors.push(`${verse.reference}: verse numbering jumps after verse ${previousVerseNumber}`);
+    }
+    previousVerseNumber = verseNumber ?? previousVerseNumber;
+
+    if (!verse.body.includes('**Original Reference**:')) {
+      errors.push(`${verse.reference}: missing original reference`);
+    }
+
+    for (const ageRange of ['5-7', '8-10']) {
+      const ageTextVerses = ageTextByRange[ageRange] || [];
+      if (ageTextVerses.length && !ageTextVerses.some(ageVerse => ageVerse.reference === verse.reference)) {
+        errors.push(`${verse.reference}: missing from ages ${ageRange} Bible text source`);
+      }
+    }
+  }
+
+  return {
+    errors,
+    warnings,
+    valid: errors.length === 0,
+  };
+}
+
+function validateBibleTextFile(filePath, content) {
+  const errors = [];
+  const warnings = [];
+
+  requireSection(content, '# ', 'chapter title', errors);
+  requireSection(content, '## Book', 'book section', errors);
+  requireSection(content, '## Chapter', 'chapter section', errors);
+  requireSection(content, '## Verses', 'verses section', errors);
+
+  const verses = extractBibleTextVerses(content);
+  if (!verses.length) {
+    errors.push('No verse entries found');
+  }
+
+  const expectedCount = getExpectedVerseCount(filePath);
+  if (expectedCount && verses.length !== expectedCount) {
+    errors.push(`Expected ${expectedCount} verses but found ${verses.length}`);
+  }
+
+  let previousVerseNumber = 0;
+  for (const verse of verses) {
+    const numberMatch = verse.reference.match(/:(\d+)$/);
+    const verseNumber = numberMatch ? Number(numberMatch[1]) : null;
+
+    if (!verseNumber) {
+      errors.push(`${verse.reference}: could not read verse number`);
+    } else if (previousVerseNumber && verseNumber !== previousVerseNumber + 1) {
+      errors.push(`${verse.reference}: verse numbering jumps after verse ${previousVerseNumber}`);
+    }
+    previousVerseNumber = verseNumber ?? previousVerseNumber;
+
+    if (!verse.body.trim()) {
+      errors.push(`${verse.reference}: verse text is empty`);
+    }
+  }
+
+  if (isAges5to7File(filePath)) {
+    for (const verse of verses) {
+      if (verse.body.trim().length < 20) {
+        warnings.push(`${verse.reference}: Ages 5-7 text may be too brief for the richer story style`);
+      }
+    }
+  }
+
+  return {
+    errors,
+    warnings,
+    valid: errors.length === 0,
+  };
+}
+
+function validateStoryMarkdown(filePath, content) {
+  const errors = [];
+  const warnings = [];
+
+  requireSection(content, '# ', 'story title', errors);
+  requireSection(content, '## Bible Reference', 'Bible Reference section', errors);
+  requireSection(content, '## Age Group', 'Age Group section', errors);
+  requireSection(content, '## Story Content', 'Story Content section', errors);
+  requireSection(content, '## Key Lesson', 'Key Lesson section', errors);
+  requireSection(content, '## Discussion Questions', 'Discussion Questions section', errors);
+  requireSection(content, '## Memory Verse', 'Memory Verse section', errors);
+  requireSection(content, '## Prayer', 'Prayer section', errors);
+
+  if (!content.includes('### Ages 5-7')) {
+    warnings.push('Missing Ages 5-7 section');
+  }
+  if (!content.includes('### Ages 8-10')) {
+    warnings.push('Missing Ages 8-10 section');
+  }
+  if (!content.includes('<!-- Illustration Prompt -->')) {
+    warnings.push('Missing illustration prompt');
+  }
+
+  return {
+    errors,
+    warnings,
+    valid: errors.length === 0,
+  };
+}
+
+function requireSection(content, marker, label, bucket) {
+  if (!content.includes(marker)) {
+    bucket.push(`Missing ${label}`);
+  }
+}
+
+function extractVerses(content) {
+  const verseSection = extractSection(content, '## Verse-by-Verse Translation') || content;
+  const verseRegex = /^###\s+(.+?\s+\d+:\d+)\s*\r?\n([\s\S]*?)(?=^###\s+.+?\s+\d+:\d+\s*$|^##\s+|(?![\s\S]))/gm;
+  return [...verseSection.matchAll(verseRegex)].map((match) => ({
+    reference: match[1].trim(),
+    body: match[2],
+  }));
+}
+
+function extractBibleTextVerses(content) {
+  const verseSection = extractSection(content, '## Verses') || content;
+  const verseRegex = /^###\s+(.+?\s+\d+:\d+)\s*\r?\n([\s\S]*?)(?=^###\s+.+?\s+\d+:\d+\s*$|^##\s+|(?![\s\S]))/gm;
+  return [...verseSection.matchAll(verseRegex)].map((match) => ({
+    reference: match[1].trim(),
+    body: match[2].trim(),
+  }));
+}
+
+function extractAgeText(content, ageLabel) {
+  const regex = new RegExp(
+    `^####\\s+Ages\\s+${escapeRegex(ageLabel)}\\s*\\r?\\n([\\s\\S]*?)(?=^####\\s+Ages\\s+|^\\*\\*|^<!--|^---\\s*$|^###\\s+|(?![\\s\\S]))`,
+    'm'
+  );
+  const match = content.match(regex);
+  return match ? match[1].trim() : '';
+}
+
+function extractSection(content, heading) {
+  const regex = new RegExp(`${escapeRegex(heading)}\\s*\\r?\\n+([\\s\\S]*?)(?=\\r?\\n##\\s|(?![\\s\\S]))`, 'i');
+  const match = content.match(regex);
+  return match ? match[1].trim() : null;
+}
+
+function escapeRegex(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function findMarkdownFiles(dir) {
+  const files = [];
+
+  function traverse(currentDir) {
+    for (const item of fs.readdirSync(currentDir)) {
+      const fullPath = path.join(currentDir, item);
+      const stat = fs.statSync(fullPath);
+
+      if (stat.isDirectory()) {
+        traverse(fullPath);
+      } else if (item.endsWith('.md')) {
+        files.push(fullPath);
+      }
+    }
+  }
+
+  traverse(dir);
+  return files;
+}
+
+function isBibleTextFile(filePath) {
+  const relativePath = path.normalize(path.relative(path.join(__dirname, '../content'), filePath));
+  return relativePath.startsWith(path.normalize('bible-text/'));
+}
+
+function isAges5to7File(filePath) {
+  const relativePath = path.normalize(path.relative(path.join(__dirname, '../content'), filePath));
+  return relativePath.startsWith(path.normalize('bible-text/ages-5-7/'));
+}
+
+function resolveAgeTextPathForChapter(filePath, ageRange) {
+  const contentDir = path.join(__dirname, '../content');
+  const relativePath = path.normalize(path.relative(contentDir, filePath));
+
+  if (!relativePath.startsWith(path.normalize('old-testament/')) && !relativePath.startsWith(path.normalize('new-testament/'))) {
+    return null;
+  }
+
+  return path.join(contentDir, 'bible-text', `ages-${ageRange}`, relativePath);
+}
+
+function getExpectedVerseCount(filePath) {
+  const contentDir = path.join(__dirname, '../content');
+  const relativePath = path.normalize(path.relative(contentDir, filePath));
+  const bibleTextMatch = relativePath.match(new RegExp(`^${escapeRegex(path.normalize('bible-text/'))}ages-(?:5-7|8-10)[\\\\/]?(.+)$`));
+  const chapterPath = bibleTextMatch ? path.normalize(bibleTextMatch[1]) : relativePath;
+
+  return expectedVerseCounts[chapterPath];
+}
+
+function validateAll() {
+  const contentDir = path.join(__dirname, '../content');
+  const markdownFiles = findMarkdownFiles(contentDir);
+
+  if (markdownFiles.length === 0) {
+    console.log(chalk.yellow('No markdown files found in content directory'));
+    return;
+  }
+
+  console.log(chalk.blue(`Validating ${markdownFiles.length} markdown files...\n`));
+
+  let totalErrors = 0;
+  let totalWarnings = 0;
+  let validFiles = 0;
+
+  for (const filePath of markdownFiles) {
+    const content = fs.readFileSync(filePath, 'utf8');
+    const result = validateStory(filePath, content);
+
+    if (result.valid) {
+      console.log(chalk.green(`OK ${path.relative(contentDir, filePath)}`));
+      validFiles++;
+    } else {
+      console.log(chalk.red(`FAIL ${path.relative(contentDir, filePath)}`));
+    }
+
+    for (const error of result.errors) {
+      console.log(chalk.red(`  Error: ${error}`));
+    }
+
+    for (const warning of result.warnings) {
+      console.log(chalk.yellow(`  Warning: ${warning}`));
+    }
+
+    totalErrors += result.errors.length;
+    totalWarnings += result.warnings.length;
+  }
+
+  console.log('\n' + chalk.blue('Validation Summary:'));
+  console.log(`Files validated: ${markdownFiles.length}`);
+  console.log(chalk.green(`Valid files: ${validFiles}`));
+  console.log(chalk.red(`Total errors: ${totalErrors}`));
+  console.log(chalk.yellow(`Total warnings: ${totalWarnings}`));
+
+  if (totalErrors > 0) {
+    console.log('\n' + chalk.red('Validation failed. Please fix errors before submitting.'));
+    process.exit(1);
+  }
+
+  if (totalWarnings > 0) {
+    console.log('\n' + chalk.yellow('Validation passed with warnings.'));
+  } else {
+    console.log('\n' + chalk.green('All files passed validation.'));
+  }
+}
+
+if (require.main === module) {
+  validateAll();
+}
+
+module.exports = { validateStory, validateChapter, validateAll };

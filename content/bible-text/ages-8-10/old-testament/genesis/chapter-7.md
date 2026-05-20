@@ -1,0 +1,81 @@
+# Genesis 7
+
+## Book
+Genesis
+
+## Chapter
+7
+
+## Verses
+
+### Genesis 7:1
+Then the Lord said to Noah, "Go into the ark, you and your whole household, because I have found you righteous before me in this generation.
+
+### Genesis 7:2
+Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate.
+
+### Genesis 7:3
+Also take seven pairs of every kind of bird, male and female, to keep their kinds alive throughout the earth.
+
+### Genesis 7:4
+Seven days from now I will send rain on the earth for 40 days and 40 nights. I will wipe from the face of the earth every living thing I have made."
+
+### Genesis 7:5
+Noah did everything the Lord commanded him.
+
+### Genesis 7:6
+Noah was 600 years old when the floodwaters came on the earth.
+
+### Genesis 7:7
+Noah and his wife, his sons, and his sons' wives entered the ark to escape the waters of the flood.
+
+### Genesis 7:8
+Pairs of clean animals, unclean animals, birds, and all creatures that move along the ground came to Noah.
+
+### Genesis 7:9
+Male and female, they came to Noah and entered the ark, just as God had commanded Noah.
+
+### Genesis 7:10
+After seven days, the floodwaters came on the earth.
+
+### Genesis 7:11
+In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens were opened.
+
+### Genesis 7:12
+Rain fell on the earth for 40 days and 40 nights.
+
+### Genesis 7:13
+On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his wife, and the wives of his three sons.
+
+### Genesis 7:14
+They entered with every kind of wild animal, livestock, creature that moves along the ground, and bird.
+
+### Genesis 7:15
+Pairs of every creature that has the breath of life came to Noah and entered the ark.
+
+### Genesis 7:16
+The animals that entered were male and female of every living thing, as God had commanded Noah. Then the Lord shut him in.
+
+### Genesis 7:17
+For 40 days the flood kept coming on the earth. The waters rose higher and higher and lifted the ark high above the ground.
+
+### Genesis 7:18
+The waters rose and increased greatly over the earth, and the ark floated safely on the surface of the water.
+
+### Genesis 7:19
+The waters rose greatly on the earth, and all the high mountains under the whole sky were covered.
+
+### Genesis 7:20
+The waters rose more than fifteen cubits above the mountains and covered them.
+
+### Genesis 7:21
+Every living thing that moved on land perished: birds, livestock, wild animals, all creatures that swarm over the earth, and all people.
+
+### Genesis 7:22
+Everything on dry land that had the breath of life in its nostrils died.
+
+### Genesis 7:23
+Every living thing on the face of the earth was wiped away: people, animals, crawling creatures, and birds. Only Noah and those with him in the ark remained.
+
+### Genesis 7:24
+The waters flooded the earth for 150 days.
