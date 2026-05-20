@@ -28,8 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href={`${basePath}/favicon.ico`} />
-        <link rel="apple-touch-icon" href={`${basePath}/apple-touch-icon.png`} />
+        <link rel="icon" type="image/svg+xml" href={`${basePath}/favicon.svg`} />
       </head>
       <body className={`${inter.className} min-h-screen bg-gradient-to-b from-blue-50 to-green-50`}>
         <div className="flex min-h-screen flex-col">
