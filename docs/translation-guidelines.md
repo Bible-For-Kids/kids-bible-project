@@ -81,6 +81,7 @@ Each verse must have two distinct translations:
 - Do not add or remove essential details
 - Preserve the historical and cultural context
 - Keep the moral and spiritual lessons intact
+- Keep chapter summaries and key lessons theologically precise, not just memorable. For example, prefer "God speaks, and his words come to pass" over "God speaks, and creation obeys" unless the text itself presents personal obedience. Prefer text-shaped wording such as "the great lights of the sky" over flatter wording like "lights in the sky" when the biblical wording carries meaning.
 
 ### 2. Age Appropriateness
 - Consider emotional maturity

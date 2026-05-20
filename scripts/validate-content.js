@@ -124,6 +124,17 @@ const expectedVerseCounts = {
   [path.normalize('old-testament/leviticus/chapter-27.md')]: 34,
 };
 
+const theologicalGuardrails = [
+  {
+    pattern: /\bGod speaks,\s+and creation obeys\b/i,
+    message: 'Prefer "God speaks, and his words come to pass" over personifying creation as obeying',
+  },
+  {
+    pattern: /\bplaced lights in the sky\b/i,
+    message: 'Prefer text-shaped wording such as "made the great lights of the sky" in Genesis 1 summaries',
+  },
+];
+
 function validateStory(filePath, content) {
   if (isBibleTextFile(filePath)) {
     return validateBibleTextFile(filePath, content);
@@ -148,6 +159,7 @@ function validateChapter(filePath, content) {
   requireSection(content, '## Memory Verses by Age', 'memory verses by age', warnings);
   requireSection(content, '## Discussion Questions by Age', 'discussion questions by age', warnings);
   requireSection(content, '## Prayer', 'prayer', warnings);
+  collectTheologicalGuardrailWarnings(content, warnings);
 
   if (content.includes('[Continue for verses')) {
     errors.push('Contains placeholder text for unfinished verses');
@@ -369,6 +381,14 @@ function isAges5to7File(filePath) {
 function isListFragmentVerse(text) {
   const trimmed = text.trim();
   return trimmed.endsWith(',') || /^[a-z]/.test(trimmed);
+}
+
+function collectTheologicalGuardrailWarnings(content, warnings) {
+  for (const guardrail of theologicalGuardrails) {
+    if (guardrail.pattern.test(content)) {
+      warnings.push(guardrail.message);
+    }
+  }
 }
 
 function resolveAgeTextPathForChapter(filePath, ageRange) {

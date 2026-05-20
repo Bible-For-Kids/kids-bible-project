@@ -23,9 +23,18 @@ God spoke into the deep darkness that covered everything. He said, "Let there be
 
 Use this as the voice target for Genesis and future narrative passages:
 - Concrete picture first: darkness, water, sky, land, light, living things.
-- Simple drama: God speaks, creation responds, the scene changes.
+- Simple drama: God speaks, his words come to pass, and the scene changes.
 - Faithful explanation: clarify what the verse means, but do not add later details into earlier verses.
 - Gentle wonder: make the verse feel big, good, and safe for a young child.
+
+### Chapter Summaries and Theological Accuracy
+
+Chapter summaries and key lessons should be vivid, but they must stay as close as possible to the Bible's own claims and wording.
+
+- Prefer "God speaks, and his words come to pass" over "creation obeys" unless the passage itself presents creation as personally obeying.
+- Preserve important biblical wording when it carries meaning, such as "the great lights of the sky" in Genesis 1 rather than the flatter "lights in the sky."
+- Summaries may connect the chapter's movements, but should not import details from later chapters or explain away tensions the text keeps open.
+- Use active language for God's work: God commands, makes, separates, gathers, names, blesses, and sees that his work is good.
 
 ## Word Substitution Guidelines
 

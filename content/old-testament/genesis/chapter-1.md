@@ -559,10 +559,10 @@ God saw all that he had made, and it was very good. Evening came, and morning ca
 ---
 
 ## Chapter Summary
-God created the heavens and the earth by speaking. He brought light into darkness, made the sky, gathered the seas, brought out dry land, filled the land with plants, placed lights in the sky, created creatures for the waters, sky, and land, and made people in his image. Everything God made was good, and when he finished the sixth day, it was very good.
+God created the heavens and the earth by his word. He commanded light to shine in the darkness, made the sky, gathered the waters into seas so dry land appeared, commanded the land to bring out plants, made the great lights of the sky and the stars, created creatures for the waters, sky, and land, and made people in his image. Everything God made was good, and when he finished the sixth day, it was very good.
 
 ## Key Lessons for Children
-1. **God Creates by His Word**: God speaks, and creation obeys.
+1. **God Creates by His Word**: God speaks, and his words come to pass.
 2. **God Brings Order**: God separates, gathers, names, and fills his world with purpose.
 3. **God Calls Creation Good**: The world God made is valuable and loved by him.
 4. **People Are Made in God's Image**: Every person has special worth because God made people to reflect him.
