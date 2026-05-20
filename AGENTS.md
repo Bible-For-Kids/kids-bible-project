@@ -42,6 +42,14 @@ The reader uses Bible text from `content/bible-text/...`, but chapter resource f
 
 Use `docs/chapter-resource-template.md` when starting a new resource chapter.
 
+When draft Bible text exists but the resource chapter is missing, run:
+
+```powershell
+yarn generate:resources
+```
+
+This creates missing `content/old-testament/...` resource chapters from the age-range Bible text and WEB original-reference text. It intentionally skips hand-reviewed files such as Genesis 1-2. Use `node scripts/generate-resource-chapters.js --overwrite-generated` only to refresh files that contain the draft resource marker.
+
 ## Approval Gate
 
 Generated or imported chapters are drafts until they are added to `content/bible-text/approved-chapters.json`. The public reader must only expose approved chapters.

@@ -1,0 +1,458 @@
+# Leviticus Chapter 21
+
+## Book Overview
+Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 21 and should be reviewed before approval.
+
+## Important Keywords
+- Aaron: Moses' brother and Israel's first high priest
+- altar: A special place where offerings were given to the Lord
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+- Israel: God's covenant people descended from Jacob
+
+## Verse-by-Verse Translation
+
+### Leviticus 21:1
+**Original Reference**: Leviticus 21:1 - Yahweh said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest shall not defile himself for the dead among his people,
+
+#### Ages 5-7
+The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must not make himself unclean for the dead among his people,
+
+#### Ages 8-10
+The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must not make himself unclean for the dead among his people,
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- Aaron: Moses' brother and Israel's first high priest
+- Lord: God's covenant name used in many English Bibles
+- Moses: The servant God used to lead Israel out of Egypt
+- priest: A worship leader who served at the holy place
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:2
+**Original Reference**: Leviticus 21:2 - except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,
+
+#### Ages 5-7
+except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,
+
+#### Ages 8-10
+except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:3
+**Original Reference**: Leviticus 21:3 - and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.
+
+#### Ages 5-7
+and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean.
+
+#### Ages 8-10
+and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:4
+**Original Reference**: Leviticus 21:4 - He shall not defile himself, being a chief man among his people, to profane himself.
+
+#### Ages 5-7
+He must not make himself unclean, being a chief man among his people, to dishonor himself.
+
+#### Ages 8-10
+He must not make himself unclean, being a chief man among his people, to dishonor himself.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:5
+**Original Reference**: Leviticus 21:5 - " 'They shall not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.
+
+#### Ages 5-7
+"They must not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.
+
+#### Ages 8-10
+"They must not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:6
+**Original Reference**: Leviticus 21:6 - They shall be holy to their God, and not profane the name of their God, for they offer the offerings of Yahweh made by fire, the bread of their God. Therefore they shall be holy.
+
+#### Ages 5-7
+They will be holy to their God, and not dishonor the name of their God, for they offer the offerings of the Lord made by fire, the bread of their God. Therefore they will be holy.
+
+#### Ages 8-10
+They will be holy to their God, and not dishonor the name of their God, for they offer the offerings of the Lord made by fire, the bread of their God. Therefore they will be holy.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:7
+**Original Reference**: Leviticus 21:7 - " 'They shall not marry a woman who is a prostitute, or profane. A priest shall not marry a woman divorced from her husband; for he is holy to his God.
+
+#### Ages 5-7
+"They must not marry a woman who is living in sexual sin or has been dishonored. A priest must not marry a woman divorced from her husband; for he is holy to his God.
+
+#### Ages 8-10
+"They must not marry a woman who is living in sexual sin or has been dishonored. A priest must not marry a woman divorced from her husband; for he is holy to his God.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+- priest: A worship leader who served at the holy place
+- sin: Disobeying God and going against his good way
+
+---
+
+### Leviticus 21:8
+**Original Reference**: Leviticus 21:8 - Therefore you shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I Yahweh, who sanctify you, am holy.
+
+#### Ages 5-7
+Therefore you must make him holy, for he offers the bread of your God. He will be holy to you, for I the Lord, who make holy you, am holy.
+
+#### Ages 8-10
+Therefore you must make him holy, for he offers the bread of your God. He will be holy to you, for I the Lord, who make holy you, am holy.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:9
+**Original Reference**: Leviticus 21:9 - " 'The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire.
+
+#### Ages 5-7
+"The daughter of any priest, if she profanes herself through sexual sin, she profanes her father. She must be burned with fire.
+
+#### Ages 8-10
+"The daughter of any priest, if she profanes herself through sexual sin, she profanes her father. She must be burned with fire.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
+- sin: Disobeying God and going against his good way
+
+---
+
+### Leviticus 21:10
+**Original Reference**: Leviticus 21:10 - " 'He who is the high priest among his brothers, upon whose head the anointing oil is poured, and who is consecrated to put on the garments, shall not let the hair of his head hang loose, or tear his clothes.
+
+#### Ages 5-7
+"Whoever is the high priest among his brothers, upon whose head the anointing oil is poured, and who is set apart to put on the clothes, must not let the hair of his head hang loose, or tear his clothes.
+
+#### Ages 8-10
+"Whoever is the high priest among his brothers, upon whose head the anointing oil is poured, and who is set apart to put on the garments, must not let the hair of his head hang loose, or tear his clothes.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
+
+---
+
+### Leviticus 21:11
+**Original Reference**: Leviticus 21:11 - He must not go in to any dead body, or defile himself for his father or for his mother.
+
+#### Ages 5-7
+He must not go in to any dead body, or make himself unclean for his father or for his mother.
+
+#### Ages 8-10
+He must not go in to any dead body, or make himself unclean for his father or for his mother.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:12
+**Original Reference**: Leviticus 21:12 - He shall not go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am Yahweh.
+
+#### Ages 5-7
+He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+
+#### Ages 8-10
+He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:13
+**Original Reference**: Leviticus 21:13 - " 'He shall take a wife in her virginity.
+
+#### Ages 5-7
+"He must take a wife in her virginity.
+
+#### Ages 8-10
+"He must take a wife in her virginity.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:14
+**Original Reference**: Leviticus 21:14 - He shall not marry a widow, or one divorced, or a woman who has been defiled, or a prostitute. He shall take a virgin of his own people as a wife.
+
+#### Ages 5-7
+He must not marry a widow, or one divorced, or a woman who has been made unclean, or a woman living in sexual sin. He must take a virgin of his own people as a wife.
+
+#### Ages 8-10
+He must not marry a widow, or one divorced, or a woman who has been made unclean, or a woman living in sexual sin. He must take a virgin of his own people as a wife.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- sin: Disobeying God and going against his good way
+
+---
+
+### Leviticus 21:15
+**Original Reference**: Leviticus 21:15 - He shall not profane his offspring among his people, for I am Yahweh who sanctifies him.' "
+
+#### Ages 5-7
+He must not dishonor his children among his people, for I am the Lord who makes holy him.' "
+
+#### Ages 8-10
+He must not dishonor his children among his people, for I am the Lord who makes holy him.' "
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- holy: Set apart for God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:16
+**Original Reference**: Leviticus 21:16 - Yahweh spoke to Moses, saying,
+
+#### Ages 5-7
+The Lord spoke to Moses, saying,
+
+#### Ages 8-10
+The Lord spoke to Moses, saying,
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- Lord: God's covenant name used in many English Bibles
+- Moses: The servant God used to lead Israel out of Egypt
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:17
+**Original Reference**: Leviticus 21:17 - "Say to Aaron, 'None of your offspring throughout their generations who has a defect may approach to offer the bread of his God.
+
+#### Ages 5-7
+"Say to Aaron, 'None of your children for all their generations who has a blemish may approach to offer the bread of his God.
+
+#### Ages 8-10
+"Say to Aaron, 'None of your children for all their generations who has a blemish may approach to offer the bread of his God.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- Aaron: Moses' brother and Israel's first high priest
+- God: The one true Creator and Lord over all
+
+---
+
+### Leviticus 21:18
+**Original Reference**: Leviticus 21:18 - For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity,
+
+#### Ages 5-7
+For whatever man he is that has a blemish, he must not draw near: a blind man, or a lame, or whoever has a flat nose, or any deformity,
+
+#### Ages 8-10
+For whatever man he is that has a blemish, he must not draw near: a blind man, or a lame, or whoever has a flat nose, or any deformity,
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:19
+**Original Reference**: Leviticus 21:19 - or a man who has an injured foot, or an injured hand,
+
+#### Ages 5-7
+or a man who has an injured foot, or an injured hand,
+
+#### Ages 8-10
+or a man who has an injured foot, or an injured hand,
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:20
+**Original Reference**: Leviticus 21:20 - or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles.
+
+#### Ages 5-7
+or hunchbacked, or a dwarf, or one who has a blemish in his eye, or an itching disease, or scabs, or who has damaged testicles.
+
+#### Ages 8-10
+or hunchbacked, or a dwarf, or one who has a blemish in his eye, or an itching disease, or scabs, or who has damaged testicles.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+---
+
+### Leviticus 21:21
+**Original Reference**: Leviticus 21:21 - No man of the offspring of Aaron the priest who has a defect shall come near to offer the offerings of Yahweh made by fire. Since he has a defect, he shall not come near to offer the bread of his God.
+
+#### Ages 5-7
+No man of the children of Aaron the priest who has a blemish must come near to offer the offerings of the Lord made by fire. Since he has a blemish, he must not come near to offer the bread of his God.
+
+#### Ages 8-10
+No man of the children of Aaron the priest who has a blemish must come near to offer the offerings of the Lord made by fire. Since he has a blemish, he must not come near to offer the bread of his God.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- Aaron: Moses' brother and Israel's first high priest
+- God: The one true Creator and Lord over all
+- Lord: God's covenant name used in many English Bibles
+- priest: A worship leader who served at the holy place
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:22
+**Original Reference**: Leviticus 21:22 - He shall eat the bread of his God, both of the most holy, and of the holy.
+
+#### Ages 5-7
+He must eat the bread of his God, both of the most holy, and of the holy.
+
+#### Ages 8-10
+He must eat the bread of his God, both of the most holy, and of the holy.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- holy: Set apart for God
+
+---
+
+### Leviticus 21:23
+**Original Reference**: Leviticus 21:23 - He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am Yahweh who sanctifies them.' "
+
+#### Ages 5-7
+He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+
+#### Ages 8-10
+He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- altar: A special place where offerings were given to the Lord
+- holy: Set apart for God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Leviticus 21:24
+**Original Reference**: Leviticus 21:24 - So Moses spoke to Aaron, and to his sons, and to all the children of Israel.
+
+#### Ages 5-7
+So Moses spoke to Aaron, and to his sons, and to all the people of Israel.
+
+#### Ages 8-10
+So Moses spoke to Aaron, and to his sons, and to all the people of Israel.
+
+**Translation Notes**:
+Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+
+**Key Vocabulary**:
+- Aaron: Moses' brother and Israel's first high priest
+- Israel: God's covenant people descended from Jacob
+- Moses: The servant God used to lead Israel out of Egypt
+
+---
+
+## Chapter Summary
+Leviticus 21 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must...," moves through "He must take a wife in her virginity.," and closes with "So Moses spoke to Aaron, and to his sons, and to all the people of Israel.." Review this summary for fuller theological detail before approval.
+
+## Key Lessons for Children
+1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
+2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+
+## Memory Verses by Age
+
+### Ages 5-7
+and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean. - Leviticus 21:3
+
+### Ages 8-10
+and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean. - Leviticus 21:3
+
+## Discussion Questions by Age
+
+### Ages 5-7
+1. What happened in this chapter?
+2. What did God show about himself?
+
+### Ages 8-10
+1. What does this chapter teach about God, people, or covenant life?
+2. Which verse would need the most careful explanation for a younger child?
+
+## Prayer
+Lord, help us understand Leviticus 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
+
+<!-- Draft Resource Note -->
+This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
+<!-- End Draft Resource Note -->

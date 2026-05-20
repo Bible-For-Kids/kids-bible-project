@@ -1,0 +1,397 @@
+# Genesis Chapter 39
+
+## Book Overview
+Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 39 and should be reviewed before approval.
+
+## Important Keywords
+- blessed: Spoke good over someone or something
+- blessing: Good that comes from God
+- Egypt: The land where Israel had been enslaved
+- God: The one true Creator and Lord over all
+- Lord: God's covenant name used in many English Bibles
+
+## Verse-by-Verse Translation
+
+### Genesis 39:1
+**Original Reference**: Genesis 39:1 - Joseph was brought down to Egypt. Potiphar, an officer of Pharaoh's, the captain of the guard, an Egyptian, bought him from the hand of the Ishmaelites that had brought him down there.
+
+#### Ages 5-7
+Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought Joseph from the Ishmaelites who had brought him there.
+
+#### Ages 8-10
+Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had brought him there.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Egypt: The land where Israel had been enslaved
+- Pharaoh: The king of Egypt
+
+---
+
+### Genesis 39:2
+**Original Reference**: Genesis 39:2 - Yahweh was with Joseph, and he was a prosperous man. He was in the house of his master the Egyptian.
+
+#### Ages 5-7
+The Lord was with Joseph, and Joseph did well. He lived in the house of his Egyptian master.
+
+#### Ages 8-10
+The Lord was with Joseph, and he prospered while he lived in the house of his Egyptian master.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Genesis 39:3
+**Original Reference**: Genesis 39:3 - His master saw that Yahweh was with him, and that Yahweh made all that he did prosper in his hand.
+
+#### Ages 5-7
+Joseph's master saw that the Lord was with him and that the Lord made everything Joseph did succeed in his hands.
+
+#### Ages 8-10
+His master saw that the Lord was with Joseph and that the Lord made everything he did succeed.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Genesis 39:4
+**Original Reference**: Genesis 39:4 - Joseph found favor in his sight. He ministered to him, and Potiphar made him overseer over his house, and all that he had he put into his hand.
+
+#### Ages 5-7
+Joseph found favor in Potiphar's sight and served him. Potiphar put Joseph in charge of his house and placed everything he had under Joseph's care.
+
+#### Ages 8-10
+Joseph found favor in Potiphar's sight and served him. Potiphar made him overseer of his house and put everything he owned into Joseph's hand.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:5
+**Original Reference**: Genesis 39:5 - From the time that he made him overseer in his house, and over all that he had, Yahweh blessed the Egyptian's house for Joseph's sake. Yahweh's blessing was on all that he had, in the house and in the field.
+
+#### Ages 5-7
+From the time Potiphar put Joseph in charge of his house and all he owned, the Lord blessed the Egyptian's house because of Joseph. The Lord's blessing was on everything Potiphar had, both in the house and in the field.
+
+#### Ages 8-10
+From the time Potiphar made Joseph overseer of his house and all he owned, the Lord blessed the Egyptian's house for Joseph's sake. The Lord's blessing was on all he had, in the house and in the field.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- blessed: Spoke good over someone or something
+- blessing: Good that comes from God
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Genesis 39:6
+**Original Reference**: Genesis 39:6 - He left all that he had in Joseph's hand. He didn't concern himself with anything, except for the food which he ate. Joseph was well-built and handsome.
+
+#### Ages 5-7
+Potiphar left everything he had in Joseph's care. He did not worry about anything except the food he ate. Joseph was handsome and well favored.
+
+#### Ages 8-10
+Potiphar left all he had in Joseph's hand, and he paid attention to nothing except the food he ate. Joseph was handsome and well favored.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:7
+**Original Reference**: Genesis 39:7 - After these things, his master's wife set her eyes on Joseph; and she said, "Lie with me."
+
+#### Ages 5-7
+After these things, Potiphar's wife looked at Joseph and said, "Lie with me."
+
+#### Ages 8-10
+After these things, his master's wife looked at Joseph and said, "Lie with me."
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:8
+**Original Reference**: Genesis 39:8 - But he refused, and said to his master's wife, "Behold, my master doesn't know what is with me in the house, and he has put all that he has into my hand.
+
+#### Ages 5-7
+But Joseph refused. He said to his master's wife, "My master does not need to worry about anything in the house, and he has put everything he has into my hand.
+
+#### Ages 8-10
+But Joseph refused and said to his master's wife, "My master does not concern himself with what is in the house, and he has committed all he has to my hand.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:9
+**Original Reference**: Genesis 39:9 - No one is greater in this house than I am, and he has not kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and sin against God?"
+
+#### Ages 5-7
+No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then could I do this great wickedness and sin against God?"
+
+#### Ages 8-10
+No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then can I do this great wickedness and sin against God?"
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- God: The one true Creator and Lord over all
+- sin: Disobeying God and going against his good way
+
+---
+
+### Genesis 39:10
+**Original Reference**: Genesis 39:10 - As she spoke to Joseph day by day, he didn't listen to her, to lie by her, or to be with her.
+
+#### Ages 5-7
+She spoke to Joseph day after day, but he would not listen to her. He would not lie beside her or be with her.
+
+#### Ages 8-10
+She spoke to Joseph day after day, but he would not listen to her, lie beside her, or be with her.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:11
+**Original Reference**: Genesis 39:11 - About this time, he went into the house to do his work, and there were none of the men of the house inside.
+
+#### Ages 5-7
+One day Joseph went into the house to do his work, and none of the men of the house were inside.
+
+#### Ages 8-10
+About that time Joseph went into the house to do his work, and none of the men of the house were inside.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:12
+**Original Reference**: Genesis 39:12 - She caught him by his garment, saying, "Lie with me!" He left his garment in her hand, and ran outside.
+
+#### Ages 5-7
+She grabbed Joseph by his garment and said, "Lie with me." But Joseph left his garment in her hand, ran away, and went outside.
+
+#### Ages 8-10
+She caught him by his garment and said, "Lie with me." Joseph left his garment in her hand, fled, and went outside.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:13
+**Original Reference**: Genesis 39:13 - When she saw that he had left his garment in her hand, and had run outside,
+
+#### Ages 5-7
+When she saw that Joseph had left his garment in her hand and had run outside,
+
+#### Ages 8-10
+When she saw that he had left his garment in her hand and had fled outside,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:14
+**Original Reference**: Genesis 39:14 - she called to the men of her house, and spoke to them, saying, "Behold, he has brought a Hebrew in to us to mock us. He came in to me to lie with me, and I cried with a loud voice.
+
+#### Ages 5-7
+she called to the men of her house and said, "See, he has brought a Hebrew man among us to shame us. He came in to me to lie with me, and I cried out with a loud voice.
+
+#### Ages 8-10
+she called to the men of her house and said, "See, he has brought a Hebrew man to us to shame us. He came in to me to lie with me, and I cried out with a loud voice.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:15
+**Original Reference**: Genesis 39:15 - When he heard that I lifted up my voice and cried, he left his garment by me, and ran outside."
+
+#### Ages 5-7
+When he heard me lift up my voice and cry, he left his garment with me, ran away, and went outside."
+
+#### Ages 8-10
+When he heard me lift up my voice and cry, he left his garment with me, fled, and went outside."
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:16
+**Original Reference**: Genesis 39:16 - She laid up his garment by her, until his master came home.
+
+#### Ages 5-7
+She kept Joseph's garment beside her until his master came home.
+
+#### Ages 8-10
+She kept his garment beside her until his master came home.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:17
+**Original Reference**: Genesis 39:17 - She spoke to him according to these words, saying, "The Hebrew servant, whom you have brought to us, came in to me to mock me,
+
+#### Ages 5-7
+Then she told Potiphar the same story, saying, "The Hebrew servant you brought to us came in to me to shame me.
+
+#### Ages 8-10
+Then she spoke to him with the same words, saying, "The Hebrew servant you brought to us came in to me to shame me.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:18
+**Original Reference**: Genesis 39:18 - and as I lifted up my voice and cried, he left his garment by me, and ran outside."
+
+#### Ages 5-7
+When I lifted up my voice and cried, he left his garment with me and ran outside."
+
+#### Ages 8-10
+When I lifted up my voice and cried, he left his garment with me and fled outside."
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:19
+**Original Reference**: Genesis 39:19 - When his master heard the words of his wife, which she spoke to him, saying, "This is what your servant did to me," his wrath was kindled.
+
+#### Ages 5-7
+When Joseph's master heard the words his wife spoke, saying, "This is what your servant did to me," he became very angry.
+
+#### Ages 8-10
+When Joseph's master heard the words his wife spoke, saying, "This is what your servant did to me," his anger burned.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:20
+**Original Reference**: Genesis 39:20 - Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound, and he was there in custody.
+
+#### Ages 5-7
+Joseph's master took him and put him into the prison, the place where the king's prisoners were kept. Joseph stayed there in the prison.
+
+#### Ages 8-10
+Joseph's master took him and put him into the prison, the place where the king's prisoners were kept, and Joseph remained there in the prison.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:21
+**Original Reference**: Genesis 39:21 - But Yahweh was with Joseph, and showed kindness to him, and gave him favor in the sight of the keeper of the prison.
+
+#### Ages 5-7
+But the Lord was with Joseph and showed him mercy, giving him favor in the sight of the keeper of the prison.
+
+#### Ages 8-10
+But the Lord was with Joseph, showed him mercy, and gave him favor in the sight of the keeper of the prison.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+### Genesis 39:22
+**Original Reference**: Genesis 39:22 - The keeper of the prison committed to Joseph's hand all the prisoners who were in the prison. Whatever they did there, he was responsible for it.
+
+#### Ages 5-7
+The keeper of the prison put all the prisoners in Joseph's care. Whatever was done there, Joseph was the one who managed it.
+
+#### Ages 8-10
+The keeper of the prison placed all the prisoners in Joseph's hand, and whatever they did there, Joseph managed it.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 39:23
+**Original Reference**: Genesis 39:23 - The keeper of the prison didn't look after anything that was under his hand, because Yahweh was with him; and that which he did, Yahweh made it prosper.
+
+#### Ages 5-7
+The keeper of the prison did not worry about anything under Joseph's care, because the Lord was with Joseph. Whatever Joseph did, the Lord made it succeed.
+
+#### Ages 8-10
+The keeper of the prison did not need to watch anything under Joseph's hand, because the Lord was with him. Whatever Joseph did, the Lord made it succeed.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Lord: God's covenant name used in many English Bibles
+- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+---
+
+## Chapter Summary
+Genesis 39 is a draft resource chapter. The chapter opens with "Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the gua...," moves through "She caught him by his garment and said, "Lie with me." Joseph left his garment in her hand, fled,...," and closes with "The keeper of the prison did not need to watch anything under Joseph's hand, because the Lord was...." Review this summary for fuller theological detail before approval.
+
+## Key Lessons for Children
+1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
+2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+
+## Memory Verses by Age
+
+### Ages 5-7
+Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought Joseph from the Ishmaelites who had brought him there. - Genesis 39:1
+
+### Ages 8-10
+Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had brought him there. - Genesis 39:1
+
+## Discussion Questions by Age
+
+### Ages 5-7
+1. What happened in this chapter?
+2. What did God show about himself?
+
+### Ages 8-10
+1. What does this chapter teach about God, people, or covenant life?
+2. Which verse would need the most careful explanation for a younger child?
+
+## Prayer
+Lord, help us understand Genesis 39 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
+
+<!-- Draft Resource Note -->
+This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
+<!-- End Draft Resource Note -->

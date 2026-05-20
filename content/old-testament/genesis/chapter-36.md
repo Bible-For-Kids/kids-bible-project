@@ -1,0 +1,654 @@
+# Genesis Chapter 36
+
+## Book Overview
+Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 36 and should be reviewed before approval.
+
+## Important Keywords
+- Israel: God's covenant people descended from Jacob
+- Jacob: The man God also named Israel
+- wilderness: A wild, dry place away from towns and farms
+
+## Verse-by-Verse Translation
+
+### Genesis 36:1
+**Original Reference**: Genesis 36:1 - Now this is the history of the generations of Esau (that is, Edom).
+
+#### Ages 5-7
+These are the family records of Esau, who was also called Edom.
+
+#### Ages 8-10
+These are the family records of Esau, who is also called Edom.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:2
+**Original Reference**: Genesis 36:2 - Esau took his wives from the daughters of Canaan: Adah the daughter of Elon, the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon, the Hivite;
+
+#### Ages 5-7
+Esau married women from the daughters of Canaan: Adah, the daughter of Elon the Hittite, and Aholibamah, the daughter of Anah and granddaughter of Zibeon the Hivite.
+
+#### Ages 8-10
+Esau married women from the daughters of Canaan: Adah, daughter of Elon the Hittite, and Aholibamah, daughter of Anah and granddaughter of Zibeon the Hivite.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:3
+**Original Reference**: Genesis 36:3 - and Basemath, Ishmael's daughter, sister of Nebaioth.
+
+#### Ages 5-7
+He also married Bashemath, Ishmael's daughter and the sister of Nebajoth.
+
+#### Ages 8-10
+He also married Bashemath, Ishmael's daughter and Nebajoth's sister.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:4
+**Original Reference**: Genesis 36:4 - Adah bore to Esau Eliphaz. Basemath bore Reuel.
+
+#### Ages 5-7
+Adah had a son for Esau named Eliphaz, and Bashemath had a son named Reuel.
+
+#### Ages 8-10
+Adah bore Eliphaz to Esau, and Bashemath bore Reuel.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:5
+**Original Reference**: Genesis 36:5 - Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau, who were born to him in the land of Canaan.
+
+#### Ages 5-7
+Aholibamah had three sons for Esau: Jeush, Jaalam, and Korah. These were Esau's sons who were born to him in the land of Canaan.
+
+#### Ages 8-10
+Aholibamah bore Jeush, Jaalam, and Korah. These were Esau's sons, born to him in the land of Canaan.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:6
+**Original Reference**: Genesis 36:6 - Esau took his wives, his sons, his daughters, and all the members of his household, with his livestock, all his animals, and all his possessions, which he had gathered in the land of Canaan, and went into a land away from his brother Jacob.
+
+#### Ages 5-7
+Esau gathered his wives, his sons, his daughters, everyone in his household, his cattle, all his animals, and all the wealth he had gained in Canaan, and he moved away from his brother Jacob into another country.
+
+#### Ages 8-10
+Esau took his wives, his sons, his daughters, everyone in his household, his cattle, all his animals, and all the possessions he had gained in Canaan, and he moved to another country away from his brother Jacob.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Jacob: The man God also named Israel
+
+---
+
+### Genesis 36:7
+**Original Reference**: Genesis 36:7 - For their substance was too great for them to dwell together, and the land of their travels couldn't bear them because of their livestock.
+
+#### Ages 5-7
+Their families and flocks had grown so rich and so large that they could not live close together, because the land where they stayed could not support all their animals.
+
+#### Ages 8-10
+Their wealth and flocks were too great for them to live together, and the land where they stayed could not support all their livestock.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:8
+**Original Reference**: Genesis 36:8 - Esau lived in the hill country of Seir. Esau is Edom.
+
+#### Ages 5-7
+So Esau settled in the hill country of Seir. Esau was also called Edom.
+
+#### Ages 8-10
+So Esau lived in Mount Seir. Esau is Edom.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:9
+**Original Reference**: Genesis 36:9 - This is the history of the generations of Esau the father of the Edomites in the hill country of Seir:
+
+#### Ages 5-7
+These are the family records of Esau, the father of the Edomites, who lived in Mount Seir.
+
+#### Ages 8-10
+These are the family records of Esau, the father of the Edomites in Mount Seir.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:10
+**Original Reference**: Genesis 36:10 - these are the names of Esau's sons: Eliphaz, the son of Adah, the wife of Esau; and Reuel, the son of Basemath, the wife of Esau.
+
+#### Ages 5-7
+These are the names of Esau's sons: Eliphaz, the son of Esau's wife Adah, and Reuel, the son of Esau's wife Bashemath.
+
+#### Ages 8-10
+These are the names of Esau's sons: Eliphaz, son of Esau's wife Adah, and Reuel, son of Esau's wife Bashemath.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:11
+**Original Reference**: Genesis 36:11 - The sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
+
+#### Ages 5-7
+The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+
+#### Ages 8-10
+The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:12
+**Original Reference**: Genesis 36:12 - Timna was concubine to Eliphaz, Esau's son; and she bore to Eliphaz Amalek. These are the descendants of Adah, Esau's wife.
+
+#### Ages 5-7
+Timna was a concubine of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
+
+#### Ages 8-10
+Timna was a concubine of Esau's son Eliphaz, and she bore Amalek to Eliphaz. These were the descendants of Esau's wife Adah.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:13
+**Original Reference**: Genesis 36:13 - These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Basemath, Esau's wife.
+
+#### Ages 5-7
+The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the sons connected with Bashemath, Esau's wife.
+
+#### Ages 8-10
+The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Esau's wife Bashemath.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:14
+**Original Reference**: Genesis 36:14 - These were the sons of Oholibamah, the daughter of Anah, the daughter of Zibeon, Esau's wife: she bore to Esau Jeush, Jalam, and Korah.
+
+#### Ages 5-7
+These were the sons of Esau's wife Aholibamah, the daughter of Anah and granddaughter of Zibeon. She had Jeush, Jaalam, and Korah for Esau.
+
+#### Ages 8-10
+These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughter of Zibeon: she bore Jeush, Jaalam, and Korah to Esau.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:15
+**Original Reference**: Genesis 36:15 - These are the chiefs of the sons of Esau: the sons of Eliphaz the firstborn of Esau: chief Teman, chief Omar, chief Zepho, chief Kenaz,
+
+#### Ages 5-7
+These were the chiefs from Esau's sons. From Eliphaz, Esau's firstborn son, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+
+#### Ages 8-10
+These were the chiefs among Esau's sons: from Eliphaz, Esau's firstborn, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:16
+**Original Reference**: Genesis 36:16 - chief Korah, chief Gatam, chief Amalek. These are the chiefs who came of Eliphaz in the land of Edom. These are the sons of Adah.
+
+#### Ages 5-7
+Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
+
+#### Ages 8-10
+Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:17
+**Original Reference**: Genesis 36:17 - These are the sons of Reuel, Esau's son: chief Nahath, chief Zerah, chief Shammah, chief Mizzah. These are the chiefs who came of Reuel in the land of Edom. These are the sons of Basemath, Esau's wife.
+
+#### Ages 5-7
+These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
+
+#### Ages 8-10
+These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom and were descendants of Esau's wife Bashemath.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:18
+**Original Reference**: Genesis 36:18 - These are the sons of Oholibamah, Esau's wife: chief Jeush, chief Jalam, chief Korah. These are the chiefs who came of Oholibamah the daughter of Anah, Esau's wife.
+
+#### Ages 5-7
+These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, the daughter of Anah and wife of Esau.
+
+#### Ages 8-10
+These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, daughter of Anah and wife of Esau.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:19
+**Original Reference**: Genesis 36:19 - These are the sons of Esau (that is, Edom), and these are their chiefs.
+
+#### Ages 5-7
+These were the sons of Esau, who was also called Edom, and these were their chiefs.
+
+#### Ages 8-10
+These were the sons of Esau, who is Edom, and these were their chiefs.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:20
+**Original Reference**: Genesis 36:20 - These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,
+
+#### Ages 5-7
+These were the sons of Seir the Horite, the people who had lived in that land: Lotan, Shobal, Zibeon, Anah,
+
+#### Ages 8-10
+These were the sons of Seir the Horite, who lived in the land: Lotan, Shobal, Zibeon, Anah,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:21
+**Original Reference**: Genesis 36:21 - Dishon, Ezer, and Dishan. These are the chiefs who came of the Horites, the children of Seir in the land of Edom.
+
+#### Ages 5-7
+Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+
+#### Ages 8-10
+Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:22
+**Original Reference**: Genesis 36:22 - The children of Lotan were Hori and Heman. Lotan's sister was Timna.
+
+#### Ages 5-7
+The children of Lotan were Hori and Hemam, and Lotan's sister was Timna.
+
+#### Ages 8-10
+Lotan's children were Hori and Hemam, and Lotan's sister was Timna.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:23
+**Original Reference**: Genesis 36:23 - These are the children of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
+
+#### Ages 5-7
+The children of Shobal were Alvan, Manahath, Ebal, Shepho, and Onam.
+
+#### Ages 8-10
+Shobal's children were Alvan, Manahath, Ebal, Shepho, and Onam.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:24
+**Original Reference**: Genesis 36:24 - These are the children of Zibeon: Aiah and Anah. This is Anah who found the hot springs in the wilderness, as he fed the donkeys of Zibeon his father.
+
+#### Ages 5-7
+The children of Zibeon were Ajah and Anah. This was the Anah who found the mules in the wilderness while he was feeding the donkeys of his father Zibeon.
+
+#### Ages 8-10
+Zibeon's children were Ajah and Anah. This was the Anah who found the mules in the wilderness while feeding the donkeys of his father Zibeon.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- wilderness: A wild, dry place away from towns and farms
+
+---
+
+### Genesis 36:25
+**Original Reference**: Genesis 36:25 - These are the children of Anah: Dishon and Oholibamah, the daughter of Anah.
+
+#### Ages 5-7
+The children of Anah were Dishon and Aholibamah, the daughter of Anah.
+
+#### Ages 8-10
+Anah's children were Dishon and Aholibamah, the daughter of Anah.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:26
+**Original Reference**: Genesis 36:26 - These are the children of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+
+#### Ages 5-7
+The children of Dishon were Hemdan, Eshban, Ithran, and Cheran.
+
+#### Ages 8-10
+Dishon's children were Hemdan, Eshban, Ithran, and Cheran.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:27
+**Original Reference**: Genesis 36:27 - These are the children of Ezer: Bilhan, Zaavan, and Akan.
+
+#### Ages 5-7
+The children of Ezer were Bilhan, Zaavan, and Akan.
+
+#### Ages 8-10
+Ezer's children were Bilhan, Zaavan, and Akan.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:28
+**Original Reference**: Genesis 36:28 - These are the children of Dishan: Uz and Aran.
+
+#### Ages 5-7
+The children of Dishan were Uz and Aran.
+
+#### Ages 8-10
+Dishan's children were Uz and Aran.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:29
+**Original Reference**: Genesis 36:29 - These are the chiefs who came of the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+
+#### Ages 5-7
+These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+
+#### Ages 8-10
+These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:30
+**Original Reference**: Genesis 36:30 - chief Dishon, chief Ezer, and chief Dishan. These are the chiefs who came of the Horites, according to their chiefs in the land of Seir.
+
+#### Ages 5-7
+chief Dishon, chief Ezer, and chief Dishan. These were the chiefs who came from Hori, each in his place among the chiefs in the land of Seir.
+
+#### Ages 8-10
+chief Dishon, chief Ezer, and chief Dishan. These were the Horite chiefs according to their places in the land of Seir.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:31
+**Original Reference**: Genesis 36:31 - These are the kings who reigned in the land of Edom, before any king reigned over the children of Israel.
+
+#### Ages 5-7
+These were the kings who ruled in the land of Edom before any king ruled over the children of Israel.
+
+#### Ages 8-10
+These were the kings who ruled in the land of Edom before any king ruled over the children of Israel.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+**Key Vocabulary**:
+- Israel: God's covenant people descended from Jacob
+
+---
+
+### Genesis 36:32
+**Original Reference**: Genesis 36:32 - Bela, the son of Beor, reigned in Edom. The name of his city was Dinhabah.
+
+#### Ages 5-7
+Bela, the son of Beor, ruled in Edom, and the name of his city was Dinhabah.
+
+#### Ages 8-10
+Bela son of Beor ruled in Edom, and his city was named Dinhabah.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:33
+**Original Reference**: Genesis 36:33 - Bela died, and Jobab, the son of Zerah of Bozrah, reigned in his place.
+
+#### Ages 5-7
+When Bela died, Jobab, the son of Zerah from Bozrah, ruled in his place.
+
+#### Ages 8-10
+When Bela died, Jobab son of Zerah from Bozrah ruled in his place.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:34
+**Original Reference**: Genesis 36:34 - Jobab died, and Husham of the land of the Temanites reigned in his place.
+
+#### Ages 5-7
+When Jobab died, Husham from the land of Temani ruled in his place.
+
+#### Ages 8-10
+When Jobab died, Husham from the land of Temani ruled in his place.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:35
+**Original Reference**: Genesis 36:35 - Husham died, and Hadad, the son of Bedad, who struck Midian in the field of Moab, reigned in his place. The name of his city was Avith.
+
+#### Ages 5-7
+When Husham died, Hadad, the son of Bedad, ruled in his place. He had struck Midian in the field of Moab, and the name of his city was Avith.
+
+#### Ages 8-10
+When Husham died, Hadad son of Bedad ruled in his place. He struck Midian in the field of Moab, and his city was named Avith.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:36
+**Original Reference**: Genesis 36:36 - Hadad died, and Samlah of Masrekah reigned in his place.
+
+#### Ages 5-7
+When Hadad died, Samlah from Masrekah ruled in his place.
+
+#### Ages 8-10
+When Hadad died, Samlah from Masrekah ruled in his place.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:37
+**Original Reference**: Genesis 36:37 - Samlah died, and Shaul of Rehoboth by the river, reigned in his place.
+
+#### Ages 5-7
+When Samlah died, Saul from Rehoboth by the river ruled in his place.
+
+#### Ages 8-10
+When Samlah died, Saul from Rehoboth by the river ruled in his place.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:38
+**Original Reference**: Genesis 36:38 - Shaul died, and Baal Hanan the son of Achbor reigned in his place.
+
+#### Ages 5-7
+When Saul died, Baal-hanan, the son of Achbor, ruled in his place.
+
+#### Ages 8-10
+When Saul died, Baal-hanan son of Achbor ruled in his place.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:39
+**Original Reference**: Genesis 36:39 - Baal Hanan the son of Achbor died, and Hadar reigned in his place. The name of his city was Pau. His wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
+
+#### Ages 5-7
+When Baal-hanan, the son of Achbor, died, Hadar ruled in his place. The name of his city was Pau, and his wife's name was Mehetabel, the daughter of Matred and granddaughter of Mezahab.
+
+#### Ages 8-10
+When Baal-hanan son of Achbor died, Hadar ruled in his place. His city was named Pau, and his wife's name was Mehetabel, daughter of Matred and granddaughter of Mezahab.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:40
+**Original Reference**: Genesis 36:40 - These are the names of the chiefs who came from Esau, according to their families, after their places, and by their names: chief Timna, chief Alvah, chief Jetheth,
+
+#### Ages 5-7
+These are the names of the chiefs who came from Esau, listed by their families, their places, and their names: chief Timnah, chief Alvah, chief Jetheth,
+
+#### Ages 8-10
+These are the names of the chiefs who came from Esau, listed by their families, places, and names: chief Timnah, chief Alvah, chief Jetheth,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:41
+**Original Reference**: Genesis 36:41 - chief Oholibamah, chief Elah, chief Pinon,
+
+#### Ages 5-7
+chief Aholibamah, chief Elah, chief Pinon,
+
+#### Ages 8-10
+chief Aholibamah, chief Elah, chief Pinon,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:42
+**Original Reference**: Genesis 36:42 - chief Kenaz, chief Teman, chief Mibzar,
+
+#### Ages 5-7
+chief Kenaz, chief Teman, chief Mibzar,
+
+#### Ages 8-10
+chief Kenaz, chief Teman, chief Mibzar,
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+### Genesis 36:43
+**Original Reference**: Genesis 36:43 - chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.
+
+#### Ages 5-7
+chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their homes in the land they possessed. This was Esau, the father of the Edomites.
+
+#### Ages 8-10
+chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites.
+
+**Translation Notes**:
+Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+
+---
+
+## Chapter Summary
+Genesis 36 is a draft resource chapter. The chapter opens with "These are the family records of Esau, who is also called Edom.," moves through "Lotan's children were Hori and Hemam, and Lotan's sister was Timna.," and closes with "chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their settlements in t...." Review this summary for fuller theological detail before approval.
+
+## Key Lessons for Children
+1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
+2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+
+## Memory Verses by Age
+
+### Ages 5-7
+These are the family records of Esau, who was also called Edom. - Genesis 36:1
+
+### Ages 8-10
+These are the family records of Esau, who is also called Edom. - Genesis 36:1
+
+## Discussion Questions by Age
+
+### Ages 5-7
+1. What happened in this chapter?
+2. What did God show about himself?
+
+### Ages 8-10
+1. What does this chapter teach about God, people, or covenant life?
+2. Which verse would need the most careful explanation for a younger child?
+
+## Prayer
+Lord, help us understand Genesis 36 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
+
+<!-- Draft Resource Note -->
+This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
+<!-- End Draft Resource Note -->
