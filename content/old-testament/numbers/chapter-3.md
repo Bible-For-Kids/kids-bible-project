@@ -1,7 +1,7 @@
 # Numbers Chapter 3
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 3 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the chapter names Aaron's sons and sets apart the Levites to serve the priests and guard the holy tent.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -278,10 +278,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:15 - "Count the children of Levi by their fathers' houses, by their families. You shall count every male from a month old and upward."
 
 #### Ages 5-7
-"Count the descendants of Levi by their family houses, by their families. You must count every male from a month old and older."
+"Count the descendants of Levi by their family groups, by their families. You must count every male from a month old and older."
 
 #### Ages 8-10
-"Count the descendants of Levi by their family houses, by their families. You must count every male from a month old and older."
+"Count the descendants of Levi by their family groups, by their families. You must count every male from a month old and older."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -353,10 +353,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:20 - The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their fathers' houses.
 
 #### Ages 5-7
-The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family houses.
+The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family groups.
 
 #### Ages 8-10
-The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family houses.
+The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family groups.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -415,10 +415,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:24 - Eliasaph the son of Lael shall be the prince of the fathers' house of the Gershonites.
 
 #### Ages 5-7
-Eliasaph the son of Lael must be the leader of the family house of the Gershonites.
+Eliasaph the son of Lael must be the leader of the family group of the Gershonites.
 
 #### Ages 8-10
-Eliasaph the son of Lael must be the prince of the family house of the Gershonites.
+Eliasaph the son of Lael must be the prince of the family group of the Gershonites.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -512,10 +512,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:30 - The prince of the fathers' house of the families of the Kohathites shall be Elizaphan the son of Uzziel.
 
 #### Ages 5-7
-The leader of the family house of the families of the Kohathites must be Elizaphan the son of Uzziel.
+The leader of the family group of the families of the Kohathites must be Elizaphan the son of Uzziel.
 
 #### Ages 8-10
-The prince of the family house of the families of the Kohathites must be Elizaphan the son of Uzziel.
+The prince of the family group of the families of the Kohathites must be Elizaphan the son of Uzziel.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -591,10 +591,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:35 - The prince of the fathers' house of the families of Merari was Zuriel the son of Abihail. They shall encamp on the north side of the tabernacle.
 
 #### Ages 5-7
-The leader of the family house of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
+The leader of the family group of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
 
 #### Ages 8-10
-The prince of the family house of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
+The prince of the family group of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -812,10 +812,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:47 - you shall take five shekels apiece for each one; according to the shekel of the sanctuary you shall take them (the shekel is twenty gerahs);
 
 #### Ages 5-7
-you must take five silver pieces apiece for each one; according to the holy place weight you must take them (the silver piece is twenty small weight units);
+you must take five silver pieces apiece for each one; according to the weight used at the holy place you must take them (the silver piece is twenty small weight units);
 
 #### Ages 8-10
-you must take five silver pieces apiece for each one; according to the holy place weight you must take them (the silver piece is twenty small weight units);
+you must take five silver pieces apiece for each one; by the weight used at the holy place you must take them (the silver piece is twenty small weight units);
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -829,7 +829,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:48 - and you shall give the money, with which their remainder is redeemed, to Aaron and to his sons."
 
 #### Ages 5-7
-and you must give the money, with which their remainder is redeemed, to Aaron and to his sons."
+and you must give the money, with which their remainder is bought back, to Aaron and to his sons."
 
 #### Ages 8-10
 and you must give the money, with which their remainder is redeemed, to Aaron and to his sons."
@@ -846,7 +846,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:49 - Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
 
 #### Ages 5-7
-Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
+Moses took the redemption money from those who exceeded the number of those who were bought back by the Levites;
 
 #### Ages 8-10
 Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
@@ -864,10 +864,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 3:50 - from the firstborn of the children of Israel he took the money, one thousand three hundred sixty-five shekels, according to the shekel of the sanctuary;
 
 #### Ages 5-7
-from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the holy place weight;
+from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the weight used at the holy place;
 
 #### Ages 8-10
-from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the holy place weight;
+from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, by the weight used at the holy place;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -899,11 +899,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 3 is a draft resource chapter. The chapter opens with "Now this is the history of the generations of Aaron and Moses in the day that the Lord spoke with...," moves through "the hangings of the court, the screen for the door of the court which is by the tent and around t...," and closes with "and Moses gave the redemption money to Aaron and to his sons, according to the Lord's word, as th...." Review this summary for fuller theological detail before approval.
+The chapter names Aaron's sons and sets apart the Levites to serve the priests and guard the holy tent. The Levites are taken in place of Israel's firstborn, and the extra firstborn sons are redeemed with silver.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Service belongs to God**: The Levites receive holy work from the Lord, not from their own choosing.
+2. **God provides redemption**: The firstborn sons are counted and redeemed according to God's word.
 
 ## Memory Verses by Age
 
@@ -925,7 +925,3 @@ Now this is the history of the generations of Aaron and Moses in the day that th
 
 ## Prayer
 Lord, help us understand Numbers 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

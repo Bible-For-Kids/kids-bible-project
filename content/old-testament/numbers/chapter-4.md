@@ -1,7 +1,7 @@
 # Numbers Chapter 4
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 4 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives the Kohathites, Gershonites, and Merarites their work for carrying the holy tent and its furnishings.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -36,10 +36,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:2 - "Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers' houses,
 
 #### Ages 5-7
-"Take a census of the sons of Kohath from among the sons of Levi, by their families and family houses,
+"Count the sons of Kohath from among the sons of Levi, by their families and family groups,
 
 #### Ages 8-10
-"Take a census of the sons of Kohath from among the sons of Levi, by their families and family houses,
+"Count the sons of Kohath from among the sons of Levi, by their families and family groups,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -366,10 +366,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:22 - "Take a census of the sons of Gershon also, by their fathers' houses, by their families;
 
 #### Ages 5-7
-"Take a census of the sons of Gershon also, by their family houses, by their families;
+"Count the sons of Gershon also, by their family groups, by their families;
 
 #### Ages 8-10
-"Take a census of the sons of Gershon also, by their family houses, by their families;
+"Count the sons of Gershon also, by their family groups, by their families;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -479,10 +479,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:29 - "As for the sons of Merari, you shall count them by their families, by their fathers' houses;
 
 #### Ages 5-7
-"As for the sons of Merari, you must count them by their families and family houses;
+"As for the sons of Merari, you must count them by their families and family groups;
 
 #### Ages 8-10
-"As for the sons of Merari, you must count them by their families and family houses;
+"As for the sons of Merari, you must count them by their families and family groups;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -556,10 +556,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:34 - Moses and Aaron and the princes of the congregation counted the sons of the Kohathites by their families, and by their fathers' houses,
 
 #### Ages 5-7
-Moses and Aaron and the leaders of the whole group counted the sons of the Kohathites by their families, and by their family houses,
+Moses and Aaron and the leaders of the whole group counted the sons of the Kohathites by their families, and by their family groups,
 
 #### Ages 8-10
-Moses and Aaron and the princes of the community counted the sons of the Kohathites by their families, and by their family houses,
+Moses and Aaron and the princes of the community counted the sons of the Kohathites by their families, and by their family groups,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -622,10 +622,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:38 - Those who were counted of the sons of Gershon, by their families, and by their fathers' houses,
 
 #### Ages 5-7
-Those who were counted from the sons of Gershon, by their families, and by their family houses,
+Those who were counted from the sons of Gershon, by their families, and by their family groups,
 
 #### Ages 8-10
-Those who were counted from the sons of Gershon, by their families, and by their family houses,
+Those who were counted from the sons of Gershon, by their families, and by their family groups,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -650,10 +650,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:40 - even those who were counted of them, by their families, by their fathers' houses, were two thousand six hundred thirty.
 
 #### Ages 5-7
-even those counted from them, by their families and family houses, were two thousand six hundred thirty.
+even those counted from them, by their families and family groups, were two thousand six hundred thirty.
 
 #### Ages 8-10
-even those counted from them, by their families and family houses, were two thousand six hundred thirty.
+even those counted from them, by their families and family groups, were two thousand six hundred thirty.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -685,10 +685,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:42 - Those who were counted of the families of the sons of Merari, by their families, by their fathers' houses,
 
 #### Ages 5-7
-Those who were counted from the families of the sons of Merari, by their families and family houses,
+Those who were counted from the families of the sons of Merari, by their families and family groups,
 
 #### Ages 8-10
-Those who were counted from the families of the sons of Merari, by their families and family houses,
+Those who were counted from the families of the sons of Merari, by their families and family groups,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -747,10 +747,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 4:46 - All those who were counted of the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their fathers' houses,
 
 #### Ages 5-7
-All those counted from the Levites whom Moses and Aaron and the leaders of Israel counted, by their families and by their family houses,
+All those counted from the Levites whom Moses and Aaron and the leaders of Israel counted, by their families and by their family groups,
 
 #### Ages 8-10
-All those counted from the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their family houses,
+All those counted from the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their family groups,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -812,11 +812,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 4 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and to Aaron, saying,," moves through "they must carry the curtains of the tent and the Tent of Meeting, its covering, the covering of s...," and closes with "According to the command of the Lord they were counted by Moses, everyone according to his servic...." Review this summary for fuller theological detail before approval.
+The Lord gives the Kohathites, Gershonites, and Merarites their work for carrying the holy tent and its furnishings. Each family group receives a careful task so the holy things are moved with reverence.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Holy things are handled carefully**: The Lord gives exact instructions for the work near his tent.
+2. **Every servant has a place**: Different Levite families receive different duties from God.
 
 ## Memory Verses by Age
 
@@ -838,7 +838,3 @@ from thirty years old and older even until fifty years old, all who enter into t
 
 ## Prayer
 Lord, help us understand Numbers 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,
 
 ### Numbers 15:3
-and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a serious promise, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord: a burned offering, or a sacrifice, to accomplish a serious promise, or as a gift someone chooses to bring, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 ### Numbers 15:4
 then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil.
@@ -36,7 +36,7 @@ When you prepare a bull for a burned offering or for a sacrifice, to accomplish 
 then he must offer with the bull a grain offering of three tenth-measures of fine flour mixed with a half-measure of oil;
 
 ### Numbers 15:10
-and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
+and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, a pleasing smell to the Lord.
 
 ### Numbers 15:11
 Thus it must be done for each bull, for each male sheep, for each of the male lambs, or of the young goats.
@@ -45,10 +45,10 @@ Thus it must be done for each bull, for each male sheep, for each of the male la
 According to the number that you must prepare, so you must do to everyone according to their number.
 
 ### Numbers 15:13
-"All who are native-born must do these things in this way, when bringing an offering burned on the altar, of a pleasing smell to the Lord.
+"All who are native-born must do these things in this way, when bringing an offering burned on the altar, a pleasing smell to the Lord.
 
 ### Numbers 15:14
-If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, of a pleasing smell to the Lord, as you do, so he must do.
+If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, a pleasing smell to the Lord, as you do, so he must do.
 
 ### Numbers 15:15
 For the gathered people, there must be one rule for you and for the foreigner who lives as a foreigner, a rule forever for all your generations. As you are, so the foreigner must be before the Lord.
@@ -63,16 +63,16 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you come into the land where I bring you,
 
 ### Numbers 15:19
-then it must be that when you eat of the bread of the land, you must offer up an offering lifted before the Lord to the Lord.
+then when you eat the bread of the land, you must bring an offering lifted before the Lord.
 
 ### Numbers 15:20
-Of the first of your dough you must offer up a cake for an offering lifted before the Lord. As the offering lifted before the Lord of the threshing floor, so you must heave it.
+From the first of your dough, bring a cake as an offering lifted before the Lord. Lift it before the Lord just as you lift an offering from the grain harvest.
 
 ### Numbers 15:21
-Of the first of your dough, you must give to the Lord an offering lifted before the Lord for all your generations.
+From the first of your dough, give the Lord an offering lifted before him through all your generations.
 
 ### Numbers 15:22
-"When you err, and don't observe all these commands which the Lord has spoken to Moses-
+"When you err and do not keep all these commands that the Lord spoke to Moses,
 
 ### Numbers 15:23
 even all that the Lord has commanded you by Moses, from the day that the Lord gave command and onward for all your generations-
@@ -111,7 +111,7 @@ Those who found him gathering sticks brought him to Moses and Aaron, and to all 
 They put him in custody, because it had not been declared what should be done to him.
 
 ### Numbers 15:35
-The Lord said to Moses, "The man must surely be put to death. All the community must stone him with stones outside of the camp."
+The Lord said to Moses, "The man must be put to death. All the community must stone him with stones outside of the camp."
 
 ### Numbers 15:36
 All the community brought him outside of the camp, and stoned him to death with stones, as the Lord commanded Moses.

@@ -1,7 +1,7 @@
 # Numbers Chapter 6
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 6 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives rules for a Nazirite promise, when someone is specially set apart for him for a time.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -35,10 +35,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:2 - "Speak to the children of Israel, and tell them: 'When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to Yahweh,
 
 #### Ages 5-7
-"Speak to the people of Israel, and tell them: 'When either a man or a woman makes a special Nazirite promise, to separate himself to the Lord,
+"Speak to the people of Israel and tell them: When a man or woman makes a special Nazirite promise to be set apart for the Lord,
 
 #### Ages 8-10
-"Speak to the people of Israel, and tell them: 'When either a man or a woman makes a special Nazirite promise, to separate himself to the Lord,
+"Speak to the people of Israel and tell them: When a man or woman makes a special Nazirite vow to be set apart for the Lord,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -55,10 +55,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:3 - he shall separate himself from wine and strong drink. He shall drink no vinegar of wine, or vinegar of fermented drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried.
 
 #### Ages 5-7
-he must separate himself from wine and strong drink. He must drink no vinegar of wine, or vinegar of fermented drink, neither must he drink any juice of grapes, nor eat fresh grapes or dried.
+that person must stay away from wine and other drink that can make someone drunk. He must not drink vinegar made from wine or another drink that can make someone drunk, and he must not drink grape juice or eat grapes, fresh or dried.
 
 #### Ages 8-10
-he must separate himself from wine and strong drink. He must drink no vinegar of wine, or vinegar of fermented drink, neither must he drink any juice of grapes, nor eat fresh grapes or dried.
+that person must stay away from wine and other drink that can make someone drunk. He must not drink vinegar made from wine or another drink that can make someone drunk, and he must not drink grape juice or eat grapes, fresh or dried.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -69,10 +69,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:4 - All the days of his separation he shall eat nothing that is made of the grapevine, from the seeds even to the skins.
 
 #### Ages 5-7
-All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins.
+During all the days of his Nazirite promise, he must eat nothing from the grapevine, not even the seeds or skins.
 
 #### Ages 8-10
-All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins.
+During all the days of his Nazirite vow, he must eat nothing from the grapevine, not even the seeds or skins.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -83,10 +83,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:5 - " 'All the days of his vow of separation no razor shall come on his head, until the days are fulfilled in which he separates himself to Yahweh. He shall be holy. He shall let the locks of the hair of his head grow long.
 
 #### Ages 5-7
-"All the days of his serious promise of separation no razor will come on his head, until the days are fulfilled in which he separates himself to the Lord. He will be holy. He must let the locks of the hair of his head grow long.
+During all the days of his special promise, no razor must touch his head. Until the days he promised to the Lord are finished, he must be holy and let the hair on his head grow long.
 
 #### Ages 8-10
-"All the days of his serious promise of separation no razor will come on his head, until the days are fulfilled in which he separates himself to the Lord. He will be holy. He must let the locks of the hair of his head grow long.
+During all the days of his special vow, no razor must touch his head. Until the days he promised to the Lord are finished, he must be holy and let the hair on his head grow long.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -121,10 +121,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:7 - He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.
 
 #### Ages 5-7
-He must not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.
+He must not make himself not clean for worship for his father, mother, brother, or sister when they die, because the sign of his Nazirite promise to God is on his head.
 
 #### Ages 8-10
-He must not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.
+He must not make himself unclean for his father, mother, brother, or sister when they die, because the sign of his separation to God is on his head.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -138,7 +138,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:8 - All the days of his separation he is holy to Yahweh.
 
 #### Ages 5-7
-All the days of his separation he is holy to the Lord.
+All the days of his Nazirite promise he is holy to the Lord.
 
 #### Ages 8-10
 All the days of his separation he is holy to the Lord.
@@ -157,10 +157,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:9 - " 'If any man dies very suddenly beside him, and he defiles the head of his separation, then he shall shave his head in the day of his cleansing. On the seventh day he shall shave it.
 
 #### Ages 5-7
-"If any man dies very suddenly beside him, and his special separation becomes unclean, then he must shave his head on the day he is made clean. On the seventh day he must shave it.
+"If someone dies very suddenly beside him, his hair, the sign of his Nazirite promise, has been made not clean for worship. He must shave his head on the day he is made clean. On the seventh day, he must shave it.
 
 #### Ages 8-10
-"If any man dies very suddenly beside him, and his special separation becomes unclean, then he must shave his head on the day he is made clean. On the seventh day he must shave it.
+"If someone dies very suddenly beside him and his special separation becomes unclean, he must shave his head on the day he is made clean. On the seventh day, he must shave it.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -188,10 +188,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:11 - The priest shall offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead, and shall make his head holy that same day.
 
 #### Ages 5-7
-The priest must offer one for an offering for sin, and the other for a burned offering, and make atonement for him, to help make things right with God, because he sinned because of the dead body, and must make his head holy that same day.
+The priest must offer one bird as an offering for sin and the other as a burned offering. The priest must make atonement for him because of the dead body, and the man must make his head holy again that same day.
 
 #### Ages 8-10
-The priest must offer one for a sin offering, and the other for a burned offering, and make atonement for him, because he sinned because of the dead body, and must make his head holy that same day.
+The priest must offer one bird as a sin offering and the other as a burned offering. The priest must make atonement for him because of the dead body, and the man must make his head holy again that same day.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -209,10 +209,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:12 - He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled.
 
 #### Ages 5-7
-He must separate to the Lord the days of his separation, and must bring a male lamb a year old for an offering for guilt; but the former days will not count, because his separation was made unclean.
+He must begin again the days of his Nazirite promise to the Lord and bring a year-old male lamb as a guilt offering. The earlier days will not count, because his Nazirite promise was no longer clean for worship.
 
 #### Ages 8-10
-He must separate to the Lord the days of his separation, and must bring a male lamb a year old for a guilt offering; but the former days will not count, because his separation was made unclean.
+He must begin again the days of his separation to the Lord and bring a year-old male lamb as a guilt offering. The earlier days will not count, because his separation became unclean.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -229,7 +229,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:13 - " 'This is the law of the Nazirite: when the days of his separation are fulfilled, he shall be brought to the door of the Tent of Meeting,
 
 #### Ages 5-7
-"This is the law of the Nazirite: when the days of his separation are fulfilled, he must be brought to the door of the Tent of Meeting,
+"This is the law of the Nazirite: when the days of his Nazirite promise are fulfilled, he must be brought to the door of the Tent of Meeting,
 
 #### Ages 8-10
 "This is the law of the Nazirite: when the days of his separation are fulfilled, he must be brought to the door of the Tent of Meeting,
@@ -246,10 +246,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:14 - and he shall offer his offering to Yahweh: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,
 
 #### Ages 5-7
-and he must offer his offering to the Lord: one male lamb a year old with nothing wrong with it as a burned offering, one female lamb a year old with nothing wrong with it for an offering for sin, one male sheep with nothing wrong with it for peace offerings,
+He must bring his offering to the Lord: one year-old male lamb with nothing wrong with it as a burned offering, one year-old female lamb with nothing wrong with it as an offering for sin, and one male sheep with nothing wrong with it as a peace offering.
 
 #### Ages 8-10
-and he must offer his offering to the Lord: one male lamb a year old with nothing wrong with it as a burned offering, one female lamb a year old with nothing wrong with it for a sin offering, one male sheep with nothing wrong with it for peace offerings,
+He must bring his offering to the Lord: one year-old male lamb without defect as a burned offering, one year-old female lamb without defect as a sin offering, and one male sheep without defect as a peace offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -266,10 +266,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:15 - a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their meal offering and their drink offerings.
 
 #### Ages 5-7
-a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their grain gift and their drink gifts.
+He must also bring a basket of bread made without yeast: cakes of fine flour mixed with oil, and thin wafers spread with oil, along with their grain gift and drink gifts.
 
 #### Ages 8-10
-a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their grain offering and their drink offerings.
+He must also bring a basket of bread made without yeast: cakes of fine flour mixed with oil, and thin wafers spread with oil, along with their grain offering and drink offerings.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -304,7 +304,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:17 - He shall offer the ram for a sacrifice of peace offerings to Yahweh, with the basket of unleavened bread. The priest shall offer also its meal offering and its drink offering.
 
 #### Ages 5-7
-He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain gift and its drink gift.
+He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of bread made without yeast. The priest must offer also its grain gift and its drink gift.
 
 #### Ages 8-10
 He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
@@ -325,10 +325,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:18 - The Nazirite shall shave the head of his separation at the door of the Tent of Meeting, take the hair of the head of his separation, and put it on the fire which is under the sacrifice of peace offerings.
 
 #### Ages 5-7
-The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair he shaved from his separated head, and put it on the fire which is under the sacrifice of peace offerings.
+The Nazirite must shave the hair of his Nazirite promise at the door of the Tent of Meeting. Then he must take the hair shaved from his head and put it on the fire under the peace offering.
 
 #### Ages 8-10
-The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair he shaved from his separated head, and put it on the fire which is under the sacrifice of peace offerings.
+The Nazirite must shave the hair of his separation at the door of the Tent of Meeting. Then he must take the hair shaved from his head and put it on the fire under the peace offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -342,10 +342,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:19 - The priest shall take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and shall put them on the hands of the Nazirite after he has shaved the head of his separation;
 
 #### Ages 5-7
-The priest must take the boiled shoulder of the male sheep, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
+After the Nazirite has shaved the hair of his Nazirite promise, the priest must take the boiled shoulder of the male sheep, one cake without yeast from the basket, and one thin wafer without yeast, and put them in the Nazirite's hands.
 
 #### Ages 8-10
-The priest must take the boiled shoulder of the male sheep, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
+After the Nazirite has shaved the hair of his separation, the priest must take the boiled shoulder of the male sheep, one cake without yeast from the basket, and one thin wafer without yeast, and put them in the Nazirite's hands.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -380,10 +380,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 6:21 - " 'This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.' "
 
 #### Ages 5-7
-"This is the law of the Nazirite who makes a serious promise and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his serious promise which he makes, so he must do after the law of his separation.' "
+"This is the law for the Nazirite who makes a serious promise and brings his offering to the Lord for his Nazirite promise, besides anything else he can afford. He must do what he promised according to the law of his Nazirite promise.' "
 
 #### Ages 8-10
-"This is the law of the Nazirite who makes a serious promise and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his serious promise which he makes, so he must do after the law of his separation.' "
+"This is the law for the Nazirite who makes a vow and brings his offering to the Lord for his separation, besides anything else he can afford. He must do what he vowed according to the law of his separation.' "
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -506,19 +506,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 6 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "and he must offer his offering to the Lord: one male lamb a year old with nothing wrong with it a...," and closes with "So they must put my name on the people of Israel; and I will bless them.." Review this summary for fuller theological detail before approval.
+The Lord gives rules for a Nazirite promise, when someone is specially set apart for him for a time. Then the Lord gives Aaron and his sons words of blessing to place his name on Israel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God receives special devotion**: A Nazirite promise shows a life set apart for the Lord.
+2. **God blesses his people**: The priestly blessing asks the Lord to keep, shine on, and give peace to Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins. - Numbers 6:4
+During all the days of his Nazirite promise, he must eat nothing from the grapevine, not even the seeds or skins. - Numbers 6:4
 
 ### Ages 8-10
-All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins. - Numbers 6:4
+During all the days of his Nazirite vow, he must eat nothing from the grapevine, not even the seeds or skins. - Numbers 6:4
 
 ## Discussion Questions by Age
 
@@ -532,7 +532,3 @@ All the days of his separation he must eat nothing that is made of the grapevine
 
 ## Prayer
 Lord, help us understand Numbers 6 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

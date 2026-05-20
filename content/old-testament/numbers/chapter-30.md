@@ -1,7 +1,7 @@
 # Numbers Chapter 30
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 30 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses teaches Israel about serious promises made before the Lord.
 
 ## Important Keywords
 - Israel: God's covenant people descended from Jacob
@@ -74,10 +74,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 30:4 - and her father hears her vow and her pledge with which she has bound her soul, and her father says nothing to her, then all her vows shall stand, and every pledge with which she has bound her soul shall stand.
 
 #### Ages 5-7
-and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still count, and every binding promise with which she has bound herself must still count.
+and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still be kept, and every binding promise with which she has bound herself must still be kept.
 
 #### Ages 8-10
-and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still count, and every binding promise with which she has bound herself must still count.
+and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still be kept, and every binding promise with which she has bound herself must still be kept.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -91,10 +91,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 30:5 - But if her father forbids her in the day that he hears, none of her vows or of her pledges with which she has bound her soul, shall stand. Yahweh will forgive her, because her father has forbidden her.
 
 #### Ages 5-7
-But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still count. The Lord will forgive her, because her father has forbidden her.
+But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still be kept. The Lord will forgive her, because her father has forbidden her.
 
 #### Ages 8-10
-But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still count. The Lord will forgive her, because her father has forbidden her.
+But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still be kept. The Lord will forgive her, because her father has forbidden her.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -126,10 +126,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 30:7 - and her husband hears it, and says nothing to her in the day that he hears it; then her vows shall stand, and her pledges with which she has bound her soul shall stand.
 
 #### Ages 5-7
-and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still count, and her binding promises with which she has bound herself must still count.
+and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still be kept, and her binding promises with which she has bound herself must still be kept.
 
 #### Ages 8-10
-and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still count, and her binding promises with which she has bound herself must still count.
+and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still be kept, and her binding promises with which she has bound herself must still be kept.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -193,10 +193,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 30:11 - and her husband heard it, and held his peace at her and didn't disallow her, then all her vows shall stand, and every pledge with which she bound her soul shall stand.
 
 #### Ages 5-7
-and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still count, and every binding promise with which she bound herself must still count.
+and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still be kept, and every binding promise with which she bound herself must still be kept.
 
 #### Ages 8-10
-and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still count, and every binding promise with which she bound herself must still count.
+and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still be kept, and every binding promise with which she bound herself must still be kept.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -260,10 +260,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 30:15 - But if he makes them null and void after he has heard them, then he shall bear her iniquity."
 
 #### Ages 5-7
-But if he cancels them after he has heard them, then he must bear her sin."
+But if he cancels them after he has heard them, then he must carry her guilt."
 
 #### Ages 8-10
-But if he cancels them after he has heard them, then he must bear her sin."
+But if he cancels them after he has heard them, then he must carry her guilt."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -293,11 +293,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 30 is a draft resource chapter. The chapter opens with "Moses spoke to the heads of the tribes of the people of Israel, saying, "This is what the Lord ha...," moves through "But the serious promise of a widow, or of her who is divorced, everything with which she has boun...," and closes with "These are the rules which the Lord commanded Moses, between a man and his wife, between a father...." Review this summary for fuller theological detail before approval.
+Moses teaches Israel about serious promises made before the Lord. The chapter shows that words spoken to God matter, and it gives rules for how fathers or husbands may confirm or forbid vows in their households.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Words before God matter**: A promise to the Lord must not be treated lightly.
+2. **God gives order in households**: The vow laws protect responsibility within families.
 
 ## Memory Verses by Age
 
@@ -319,7 +319,3 @@ When a man makes a serious promise to the Lord, or swears an oath to bind himsel
 
 ## Prayer
 Lord, help us understand Numbers 30 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

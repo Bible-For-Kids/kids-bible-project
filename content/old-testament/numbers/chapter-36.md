@@ -1,7 +1,7 @@
 # Numbers Chapter 36
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 36 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the leaders of Manasseh ask how the inheritance of Zelophehad's daughters can stay with their tribe.
 
 ## Important Keywords
 - Israel: God's covenant people descended from Jacob
@@ -239,11 +239,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 36 is a draft resource chapter. The chapter opens with "The heads of the family households of the family of the descendants of Gilead, the son of Machir,...," moves through "So no inheritance of the people of Israel may move from tribe to tribe; for the people of Israel...," and closes with "These are the commands and rules that the Lord commanded through Moses to the people of Israel in...." Review this summary for fuller theological detail before approval.
+The leaders of Manasseh ask how the inheritance of Zelophehad's daughters can stay with their tribe. The Lord commands the daughters to marry within their father's tribe, so each tribe's inheritance remains in place.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God protects inheritance**: The land given to each tribe is guarded across generations.
+2. **God gives wise order**: The daughters obey the command and the inheritance remains with Manasseh.
 
 ## Memory Verses by Age
 
@@ -265,7 +265,3 @@ This is what the Lord commands about the daughters of Zelophehad, saying, 'Let t
 
 ## Prayer
 Lord, help us understand Numbers 36 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

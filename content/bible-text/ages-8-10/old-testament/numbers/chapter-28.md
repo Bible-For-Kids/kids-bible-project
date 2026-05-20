@@ -27,7 +27,7 @@ with one tenth-measure of fine flour for a grain offering, mixed with one fourth
 It is a continual burned offering which was appointed at Mount Sinai for a pleasing smell, an offering burned on the altar to the Lord.
 
 ### Numbers 28:7
-Its drink offering must be one fourth-measure for each lamb. You must pour out a drink offering of strong drink to the Lord in the holy place.
+Its drink offering must be one fourth-measure for each lamb. You must pour out a drink offering of drink that can make someone drunk to the Lord in the holy place.
 
 ### Numbers 28:8
 The other lamb you must offer at evening. As the grain offering of the morning, and as its drink offering, you must offer it, an offering burned on the altar, for a pleasing smell to the Lord.
@@ -78,7 +78,7 @@ and one male goat for a sin offering, to make atonement for you.
 You must offer these in addition to the burned offering of the morning, which is for a continual burned offering.
 
 ### Numbers 28:24
-In this way you must offer daily, for seven days, the food of the offering burned on the altar, of a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink offering.
+In this way you must offer daily, for seven days, the food of the offering burned on the altar, a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink offering.
 
 ### Numbers 28:25
 On the seventh day you must have a holy gathering. You must do no regular work.

@@ -46,7 +46,7 @@ const STORY_REVISIONS = {
   },
   'Leviticus 2:9': {
     '5-7': 'The priest must take from the grain gift the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing smell to the Lord.',
-    '8-10': 'The priest must take from the grain offering the memorial portion and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.',
+    '8-10': 'The priest must take from the grain offering the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.',
   },
   'Leviticus 2:10': {
     '5-7': 'The rest of the grain gift belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.',
@@ -74,7 +74,7 @@ const STORY_REVISIONS = {
   },
   'Leviticus 2:16': {
     '5-7': 'The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.',
-    '8-10': 'The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the memorial portion. It is an offering burned on the altar to the Lord.',
+    '8-10': 'The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.',
   },
   'Leviticus 5:1': {
     '5-7': 'If someone hears a public call to tell the truth, and he saw what happened or knows about it, he must speak up. If he stays quiet, he is guilty.',

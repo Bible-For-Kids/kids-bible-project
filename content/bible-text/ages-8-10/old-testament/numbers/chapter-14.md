@@ -114,10 +114,10 @@ After the number of the days in which you spied out the land, even forty days, f
 I, the Lord, have spoken. I will surely do this to all this evil community who are gathered together against me. In this wilderness they will be consumed, and there they will die."
 
 ### Numbers 14:36
-The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up an evil report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up an bad report against the land,
 
 ### Numbers 14:37
-even those men who brought up an evil report of the land, died by the terrible sickness before the Lord.
+even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
 
 ### Numbers 14:38
 But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those men who went to spy out the land.

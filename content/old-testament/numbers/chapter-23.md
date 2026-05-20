@@ -1,7 +1,7 @@
 # Numbers Chapter 23
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 23 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on balak offers sacrifices and waits for Balaam to curse Israel, but the Lord puts blessing in Balaam's mouth.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -359,10 +359,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 23:21 - He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel. Yahweh his God is with him. The shout of a king is among them.
 
 #### Ages 5-7
-He has not seen sin in Jacob. Neither has he seen perverseness in Israel. The Lord his God is with him. The shout of a king is among them.
+The Lord has not seen sin in Jacob or wrongdoing in Israel. The Lord their God is with them, and the shout of a king is among them.
 
 #### Ages 8-10
-He has not seen sin in Jacob. Neither has he seen perverseness in Israel. The Lord his God is with him. The shout of a king is among them.
+He has not seen sin in Jacob or perversity in Israel. The Lord his God is with him, and the shout of a king is among them.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -525,11 +525,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 23 is a draft resource chapter. The chapter opens with "Balaam said to Balak, "Build here seven altars for me, and prepare here seven bulls and seven mal...," moves through "The Lord met Balaam, and put a word in his mouth, and said, "Return to Balak, and say this.," and closes with "Balak did as Balaam had said, and offered up a bull and a male sheep on every altar.." Review this summary for fuller theological detail before approval.
+Balak offers sacrifices and waits for Balaam to curse Israel, but the Lord puts blessing in Balaam's mouth. Balaam declares that God is not a man who lies and that what God blesses cannot be reversed by Balak.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his word**: What the Lord has spoken will come to pass.
+2. **God blesses his people**: Balak cannot force a curse where God has given blessing.
 
 ## Memory Verses by Age
 
@@ -551,7 +551,3 @@ Balaam said to Balak, "Build here seven altars for me, and prepare here seven bu
 
 ## Prayer
 Lord, help us understand Numbers 23 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

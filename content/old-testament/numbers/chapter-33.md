@@ -1,7 +1,7 @@
 # Numbers Chapter 33
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 33 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses records Israel's journeys from Egypt to the plains of Moab, step by step.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -618,10 +618,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 33:40 - The Canaanite king of Arad, who lived in the South in the land of Canaan, heard of the coming of the children of Israel.
 
 #### Ages 5-7
-The Canaanite king of Arad, who lived in the South in the land of Canaan, heard of the coming of the people of Israel.
+The Canaanite king of Arad, who lived in the southern land in the land of Canaan, heard of the coming of the people of Israel.
 
 #### Ages 8-10
-The Canaanite king of Arad, who lived in the South in the land of Canaan, heard of the coming of the people of Israel.
+The Canaanite king of Arad, who lived in the southern land in the land of Canaan, heard of the coming of the people of Israel.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -864,11 +864,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 33 is a draft resource chapter. The chapter opens with "These are the travels of the people of Israel, when they went out of the land of Egypt by their a...," moves through "They traveled from Mithkah, and camped in Hashmonah.," and closes with "It must happen that as I thought to do to them, so I will do to you.." Review this summary for fuller theological detail before approval.
+Moses records Israel's journeys from Egypt to the plains of Moab, step by step. The Lord then commands Israel to drive out the inhabitants of Canaan, destroy their idols, and divide the land by lot.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God remembers the journey**: Each stage shows that Israel moved under the Lord's care.
+2. **The land must not keep its idols**: Israel must not settle in Canaan while clinging to false worship.
 
 ## Memory Verses by Age
 
@@ -890,7 +890,3 @@ These are the travels of the people of Israel, when they went out of the land of
 
 ## Prayer
 Lord, help us understand Numbers 33 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

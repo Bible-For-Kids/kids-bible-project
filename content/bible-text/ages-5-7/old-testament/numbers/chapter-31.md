@@ -15,16 +15,16 @@ The Lord spoke to Moses, saying,
 "Avenge the people of Israel on the Midianites. Afterward you must be gathered to your people in death."
 
 ### Numbers 31:3
-Moses spoke to the people, saying, "Arm men from among you for war, that they may go against Midian, to execute the Lord's vengeance on Midian.
+Moses told the people, "Choose men from among you and arm them for battle. They must go against Midian to carry out the Lord's vengeance on Midian.
 
 ### Numbers 31:4
-You must send one thousand out of every tribe, throughout all the tribes of Israel, to the war."
+You must send one thousand out of every tribe, throughout all the tribes of Israel, to the battle."
 
 ### Numbers 31:5
-So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war.
+So Israel gave one thousand men from each tribe, twelve thousand men armed for battle.
 
 ### Numbers 31:6
-Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the holy tent tools and the trumpets for the alarm in his hand.
+Moses sent them, one thousand of every tribe, to the battle with Phinehas the son of Eleazar the priest, to the battle, with the holy tent tools and the trumpets for the alarm in his hand.
 
 ### Numbers 31:7
 They fought against Midian, as the Lord commanded Moses. They killed every male.
@@ -36,7 +36,7 @@ They killed the kings of Midian with the rest of those who were killed: Evi, Rek
 The people of Israel took the women of Midian captive with their little ones; and all their animals, all their flocks, and all their goods, they took as plunder.
 
 ### Numbers 31:10
-All their cities in the places in which they lived, and all their encampments, they burned with fire.
+All their cities in the places in which they lived, and all their camps, they burned with fire.
 
 ### Numbers 31:11
 They took all the captives, and all the plunder, both people and animals.
@@ -48,22 +48,22 @@ They brought the captives and the plunder, to Moses, and to Eleazar the priest, 
 Moses and Eleazar the priest, with all the leaders of the whole group, went out to meet them outside of the camp.
 
 ### Numbers 31:14
-Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war.
+Moses was angry with the army officers, the captains of thousands and hundreds, who came back from the battle.
 
 ### Numbers 31:15
 Moses said to them, "Have you saved all the women alive?
 
 ### Numbers 31:16
-These caused the people of Israel, through the counsel of Balaam, to act unfaithfully against the Lord in the matter of Peor, and so the terrible sickness was among the whole group of the Lord.
+These women followed Balaam's counsel and led the people of Israel to act unfaithfully against the Lord at Peor. That is why the terrible sickness came among the Lord's whole group.
 
 ### Numbers 31:17
-Now therefore kill every male among the little ones, and kill every woman who has had sexual relations with a man.
+Now kill every male among the little ones, and kill every woman who has lived as a man's wife.
 
 ### Numbers 31:18
-But all the girls, who have not had sexual relations with a man, keep alive for yourselves.
+But keep alive for yourselves all the girls who have not lived as a man's wife.
 
 ### Numbers 31:19
-"Encamp outside of the camp for seven days. Whoever has killed any person, and whoever has touched any slain, purify yourselves on the third day and on the seventh day, you and your captives.
+"Stay outside the camp for seven days. Whoever killed anyone, and whoever touched someone who was killed, must purify himself on the third day and on the seventh day. Your captives must do the same.
 
 ### Numbers 31:20
 You must purify every garment, and all that is made of skin, and all work of goats' hair, and all things made of wood."
@@ -75,7 +75,7 @@ Eleazar the priest said to the men of war who went to the battle, "This is the r
 however the gold, and the silver, the bronze, the iron, the tin, and the lead,
 
 ### Numbers 31:23
-everything that may withstand the fire, you must make to go through the fire, and it will be clean; nevertheless it must be purified with the cleansing water. All that doesn't withstand the fire you must make to go through the water.
+Everything that can go through fire must pass through fire, and it will be clean. But it must also be purified with cleansing water. Everything that cannot go through fire must pass through water.
 
 ### Numbers 31:24
 You must wash your clothes on the seventh day, and you will be clean. Afterward you will come into the camp."
@@ -90,10 +90,10 @@ The Lord spoke to Moses, saying,
 and divide the plunder into two parts: between the men skilled in war, who went out to battle, and all the people.
 
 ### Numbers 31:28
-Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred; of the people, of the cattle, of the donkeys, and of the flocks.
+From the soldiers who went to battle, set aside a tribute for the Lord: one out of every five hundred people, cattle, donkeys, and sheep.
 
 ### Numbers 31:29
-Take it from their half, and give it to Eleazar the priest, for the Lord's lifted offering.
+Take it from their half, and give it to Eleazar the priest, for the Lord's offering lifted before the Lord.
 
 ### Numbers 31:30
 Of the people of Israel's half, you must take one out of every fifty, of the people, of the cattle, of the donkeys, and of the flocks, of all the animals, and give them to the Levites, who perform the duty of the Lord's tent."
@@ -111,7 +111,7 @@ seventy-two thousand head of cattle,
 sixty-one thousand donkeys,
 
 ### Numbers 31:35
-and thirty-two thousand people in all, of the women who had not had sexual relations with a man.
+There were thirty-two thousand girls who had not lived as a man's wife.
 
 ### Numbers 31:36
 The half, which was the portion of those who went out to war, was in number three hundred thirty-seven thousand five hundred sheep;
@@ -129,7 +129,7 @@ The donkeys were thirty thousand five hundred, of which the Lord's tribute was s
 The people were sixteen thousand, of whom the Lord's tribute was thirty-two people.
 
 ### Numbers 31:41
-Moses gave the tribute, which was the Lord's lifted offering, to Eleazar the priest, as the Lord commanded Moses.
+Moses gave the tribute, which was the Lord's offering lifted before the Lord, to Eleazar the priest, as the Lord commanded Moses.
 
 ### Numbers 31:42
 Of the people of Israel's half, which Moses divided off from the men who fought
@@ -153,7 +153,7 @@ even of the people of Israel's half, Moses took one out of every fifty, both peo
 The officers who were over the thousands of the army, the captains of thousands, and the captains of hundreds, came near to Moses.
 
 ### Numbers 31:49
-They said to Moses, "Your servants have taken the sum of the men of war who are under our command, and not one man of us is missing.
+They said to Moses, "Your servants have counted the soldiers under our command, and not one man of us is missing.
 
 ### Numbers 31:50
 We have brought the Lord's offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our people before the Lord."
@@ -162,10 +162,10 @@ We have brought the Lord's offering, what every man found: gold ornaments, armle
 Moses and Eleazar the priest took their gold, even all the worked jewelry.
 
 ### Numbers 31:52
-All the gold of the lifted offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
+All the gold of the offering lifted before the Lord that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
 
 ### Numbers 31:53
 The men of war had taken plunder, every man for himself.
 
 ### Numbers 31:54
-Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the people of Israel before the Lord.
+Moses and Eleazar the priest took the gold from the captains of thousands and hundreds and brought it into the Tent of Meeting as a reminder for the people of Israel before the Lord.

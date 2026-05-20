@@ -12,13 +12,13 @@ Numbers
 After the terrible sickness, the Lord spoke to Moses and to Eleazar the son of Aaron the priest, saying,
 
 ### Numbers 26:2
-"Take a census of all the people of Israel, from twenty years old and older, by their family houses, all who are able to go out to war in Israel."
+"Count all the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army."
 
 ### Numbers 26:3
 Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,
 
 ### Numbers 26:4
-"Take a census, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
+"Count, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
 
 ### Numbers 26:5
 Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;
@@ -39,7 +39,7 @@ The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram 
 and the earth opened its mouth, and swallowed them up together with Korah when that company died; at the time the fire devoured two hundred fifty men, and they became a sign.
 
 ### Numbers 26:11
-Notwithstanding, the sons of Korah didn't die.
+Even so, the sons of Korah didn't die.
 
 ### Numbers 26:12
 The sons of Simeon after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
@@ -171,7 +171,7 @@ The Lord spoke to Moses, saying,
 To the more you must give the more inheritance, and to the fewer you must give the less inheritance. To everyone according to those who were counted of him must his inheritance be given.
 
 ### Numbers 26:55
-Notwithstanding, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
 
 ### Numbers 26:56
 According to the lot must their inheritance be divided between the more and the fewer."
@@ -201,4 +201,4 @@ These are those who were counted by Moses and Eleazar the priest, who counted th
 But among these there was not a man of them who were counted by Moses and Aaron the priest, who counted the people of Israel in the wilderness of Sinai.
 
 ### Numbers 26:65
-For the Lord had said of them, "They must surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
+For the Lord had said of them, "They will surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.

@@ -169,7 +169,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 The priest must take from the grain gift the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing smell to the Lord.
 
 #### Ages 8-10
-The priest must take from the grain offering the memorial portion and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
+The priest must take from the grain offering the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -306,7 +306,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.
 
 #### Ages 8-10
-The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the memorial portion. It is an offering burned on the altar to the Lord.
+The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

@@ -45,7 +45,7 @@ one male goat for a sin offering, in addition to the sin offering of atonement, 
 "On the fifteenth day of the seventh month you must have a holy gathering. You must do no regular work. You must keep a feast to the Lord seven days.
 
 ### Numbers 29:13
-You must offer a burned offering, an offering burned on the altar, of a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
+You must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
 
 ### Numbers 29:14
 and their grain offering, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each male sheep of the two male sheep,
@@ -123,7 +123,7 @@ their grain offering and their drink offerings for the bull, for the male sheep,
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering, and its drink offering.
 
 ### Numbers 29:39
-"You must offer these to the Lord in your set feasts-in addition to your serious promises and your free will offerings-for your burned offerings, your meal offerings, your drink offerings, and your peace offerings.' "
+"You must offer these to the Lord in your set feasts, in addition to your serious promises and your gifts people choose to bring-for your burned offerings, your grain offerings, your drink offerings, and your peace offerings.' "
 
 ### Numbers 29:40
 Moses told the people of Israel according to all that the Lord commanded Moses.

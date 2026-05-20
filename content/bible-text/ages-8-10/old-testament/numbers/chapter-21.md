@@ -9,7 +9,7 @@ Numbers
 ## Verses
 
 ### Numbers 21:1
-The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
+The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
 ### Numbers 21:2
 Israel made a serious promise to the Lord, and said, "If you will indeed deliver this people into my hand, then I will completely destroy their cities."

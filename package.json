@@ -13,6 +13,7 @@
     "review:genesis": "node scripts/review-genesis-resources.js",
     "review:exodus": "node scripts/review-exodus-resources.js",
     "review:leviticus": "node scripts/review-leviticus-resources.js",
+    "review:numbers": "node scripts/review-numbers-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {

@@ -39,13 +39,13 @@ For when they went up to the valley of Eshcol, and saw the land, they discourage
 The Lord's anger burned in that day, and he swore, saying,
 
 ### Numbers 32:11
-Surely none of the men who came up out of Egypt, from twenty years old and older, must see the land which I swore to Abraham, to Isaac, and to Jacob; because they have not wholly followed me,
+Not one of the men who came up out of Egypt, from twenty years old and older, will see the land I swore to Abraham, Isaac, and Jacob, because they have not followed me completely,
 
 ### Numbers 32:12
 except Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun, because they have followed the Lord completely.
 
 ### Numbers 32:13
-The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in the Lord's sight was consumed.
+The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness for forty years, until that whole generation who had done evil in the Lord's sight had died.
 
 ### Numbers 32:14
 "you have risen up in your fathers' place, an increase of sinful men, to increase the fierce anger of the Lord toward Israel.
@@ -66,7 +66,7 @@ We will not return to our houses until the people of Israel have all received th
 For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has come to us on this side of the Jordan eastward."
 
 ### Numbers 32:20
-Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the war,
+Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the battle,
 
 ### Numbers 32:21
 and every one of your armed men will pass over the Jordan before the Lord until he has driven out his enemies from before him,

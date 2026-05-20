@@ -12,10 +12,10 @@ Numbers
 The Lord spoke to Moses, saying,
 
 ### Numbers 17:2
-"Speak to the people of Israel, and take rods from them, one for each family house, of all their leaders according to their family houses, twelve rods. Write each man's name on his rod.
+"Speak to the people of Israel, and take rods from them, one for each family group, of all their leaders according to their family groups, twelve rods. Write each man's name on his rod.
 
 ### Numbers 17:3
-You must write Aaron's name on Levi's rod. There must be one rod for each head of their family houses.
+You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups.
 
 ### Numbers 17:4
 You must lay them up in the Tent of Meeting before the covenant, where I meet with you.
@@ -24,7 +24,7 @@ You must lay them up in the Tent of Meeting before the covenant, where I meet wi
 It must happen that the rod of the man whom I will choose must bud. I will make the complaints of the people of Israel, which they bring against you, cease from me."
 
 ### Numbers 17:6
-Moses spoke to the people of Israel; and all their leaders gave him rods, for each leader one, according to their family houses, a total of twelve rods. Aaron's rod was among their rods.
+Moses spoke to the people of Israel; and all their leaders gave him rods, for each leader one, according to their family groups, a total of twelve rods. Aaron's rod was among their rods.
 
 ### Numbers 17:7
 Moses laid up the rods before the Lord in the Tent of the Testimony.

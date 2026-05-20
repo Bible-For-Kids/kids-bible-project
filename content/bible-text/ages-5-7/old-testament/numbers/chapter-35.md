@@ -39,10 +39,10 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you pass over the Jordan into the land of Canaan,
 
 ### Numbers 35:11
-then you must appoint for yourselves cities to be cities of refuge for you, that the person who killed someone who kills any person without meaning to may flee there.
+then choose cities to be safe places for you. If someone kills another person without meaning to, he may run there.
 
 ### Numbers 35:12
-The cities must be for your refuge from the avenger, that the person who killed someone not die until he stands before the whole group for judgment.
+These cities will be safe places from the relative who avenges the death, so the person who killed someone will not die before he stands before the whole group for judgment.
 
 ### Numbers 35:13
 The cities which you must give must be for you six cities of refuge.
@@ -51,61 +51,61 @@ The cities which you must give must be for you six cities of refuge.
 You must give three cities beyond the Jordan, and you must give three cities in the land of Canaan. They must be cities of refuge.
 
 ### Numbers 35:15
-For the people of Israel, and for the foreigner and for the foreigner living among them, must these six cities be for refuge, that everyone who kills any person without meaning to may flee there.
+These six safe cities will be for the people of Israel and for people from other nations who live among them. Anyone who kills someone without meaning to may run there.
 
 ### Numbers 35:16
-"But if he struck him with an instrument of iron, so that he died, he is a murderer. The murderer must surely be put to death.
+"But if he struck him with an instrument of iron, so that he died, he is a murderer. The murderer must be put to death.
 
 ### Numbers 35:17
-If he struck him with a stone in the hand, by which a man may die, and he died, he is a murderer. The murderer must surely be put to death.
+If he struck him with a stone in the hand, by which a man may die, and he died, he is a murderer. The murderer must be put to death.
 
 ### Numbers 35:18
-Or if he struck him with a weapon of wood in the hand, by which a man may die, and he died, he is a murderer. The murderer must surely be put to death.
+Or if he struck him with a weapon of wood in the hand, by which a man may die, and he died, he is a murderer. The murderer must be put to death.
 
 ### Numbers 35:19
-The relative who avenges the death must himself put the murderer to death. When he meets him, he must put him to death.
+The close relative who avenges the death must put the murderer to death when he meets him.
 
 ### Numbers 35:20
-If he shoved him out of hatred, or hurled something at him while lying in wait, so that he died,
+If he shoved someone out of hatred, or threw something at him while hiding and waiting, and the person died,
 
 ### Numbers 35:21
-or in hostility struck him with his hand, so that he died, whoever struck him must surely be put to death. He is a murderer. The relative who avenges the death must put the murderer to death when he meets him.
+or if he struck him with his hand in hatred and the person died, then the one who struck him must be put to death. He is a murderer. The close relative who avenges the death must put the murderer to death when he meets him.
 
 ### Numbers 35:22
-"But if he shoved him suddenly without hostility, or hurled on him anything without lying in wait,
+But if he shoved someone suddenly without hatred, or threw something without hiding and waiting,
 
 ### Numbers 35:23
-or with any stone, by which a man may die, without seeing him, threw it at him so that he died, and he was not his enemy and not seeking his harm,
+or if he dropped or threw a stone that could kill someone, but he did not see the person, and the person died, and he was not his enemy and was not trying to harm him,
 
 ### Numbers 35:24
-then the whole group must judge between the striker and the relative who avenges the death according to these commands.
+then the whole group must judge between the person who struck him and the relative who avenges the death, according to these rules.
 
 ### Numbers 35:25
-The whole group must deliver the person who killed someone out of the hand of the relative who avenges the death, and the whole group must restore him to his city of refuge, where he had fled. He must live there until the death of the high priest, who was anointed with the holy oil.
+The whole group must rescue the person who killed someone from the relative who avenges the death and send him back to the safe city where he had run. He must live there until the high priest dies, the priest who was set apart with holy oil.
 
 ### Numbers 35:26
-"But if the person who killed someone must at any time go beyond the border of his city of refuge where he flees,
+But if the person who killed someone goes outside the border of his safe city where he had run,
 
 ### Numbers 35:27
-and the relative who avenges the death finds him outside of the border of his city of refuge, and the relative who avenges the death kills the person who killed someone, he must not be guilty of blood,
+and the relative who avenges the death finds him outside the border of his safe city and kills him, that relative is not guilty of bloodshed,
 
 ### Numbers 35:28
-because he should have remained in his city of refuge until the death of the high priest. But after the death of the high priest, the person who killed someone must return into the land of his possession.
+because he should have stayed in his safe city until the high priest died. But after the high priest dies, the person who killed someone may return to the land he owns.
 
 ### Numbers 35:29
-"These things must be for a rule and command to you for all your generations in all your homes.
+"These things must be a rule for you through all your generations, in all the places where you live.
 
 ### Numbers 35:30
-"Whoever kills any person, the murderer must be slain based on the testimony of witnesses; but one witness must not testify alone against any person so that he dies.
+"If someone kills a person, the murderer must be put to death only when witnesses say what happened. One witness alone must not speak against a person so that he dies.
 
 ### Numbers 35:31
-"Moreover you must take no ransom for the life of a murderer who is guilty of death. He must surely be put to death.
+"Do not take money to spare the life of a murderer who is guilty of death. He must be put to death.
 
 ### Numbers 35:32
-"You must take no ransom for the person who has fled to his city of refuge, that he may come again to live in the land before the death of the priest.
+Do not take money from someone who has run to his safe city, so that he may return to the land before the priest dies.
 
 ### Numbers 35:33
-"So you must not pollute the land where you live; for blood pollutes the land. No atonement can be made for the land, for the blood that is shed in it, but by the blood of the person who shed it.
+"So do not make the land where you live not clean before God. When innocent blood is shed, the land becomes not clean before God. Nothing can make atonement for the land, nothing can make it right before God, except the blood of the one who shed it.
 
 ### Numbers 35:34
-You must not make unclean the land which you inhabit, where I live; for I, the Lord, live among the people of Israel.' "
+Do not make the land where you live not clean before God, because I live there too. I, the Lord, live among the people of Israel.' "

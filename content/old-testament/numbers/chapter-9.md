@@ -1,7 +1,7 @@
 # Numbers Chapter 9
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 9 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel keeps the Passover in the wilderness, and the Lord gives a gracious way for those who are unclean or far away to keep it later.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -109,7 +109,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 9:6 - There were certain men, who were unclean because of the dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.
 
 #### Ages 5-7
-There were certain men, who were unclean because of the dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.
+There were certain men, who were not clean for worship because of a dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.
 
 #### Ages 8-10
 There were certain men, who were unclean because of the dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.
@@ -128,7 +128,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 9:7 - Those men said to him, "We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of Yahweh in its appointed season among the children of Israel?"
 
 #### Ages 5-7
-Those men said to him, "We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of the Lord in its appointed season among the people of Israel?"
+Those men said to him, "We are not clean for worship because of a dead body of a man. Why are we kept back, that we may not offer the offering of the Lord in its appointed season among the people of Israel?"
 
 #### Ages 8-10
 Those men said to him, "We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of the Lord in its appointed season among the people of Israel?"
@@ -187,10 +187,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 9:10 - "Say to the children of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he shall still keep the Passover to Yahweh.
 
 #### Ages 5-7
-"Say to the people of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a travel far away, he must still keep the Passover to the Lord.
+"Say to the people of Israel, 'If any man of you or of your generations is not clean for worship because of a dead body, or is on a journey far away, he must still keep the Passover to the Lord.
 
 #### Ages 8-10
-"Say to the people of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a travel far away, he must still keep the Passover to the Lord.
+"Say to the people of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he must still keep the Passover to the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -207,7 +207,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 9:11 - In the second month, on the fourteenth day at evening they shall keep it; they shall eat it with unleavened bread and bitter herbs.
 
 #### Ages 5-7
-In the second month, on the fourteenth day at evening they must keep it; they must eat it with unleavened bread and bitter herbs.
+In the second month, on the fourteenth day at evening they must keep it; they must eat it with bread made without yeast and bitter herbs.
 
 #### Ages 8-10
 In the second month, on the fourteenth day at evening they must keep it; they must eat it with unleavened bread and bitter herbs.
@@ -238,10 +238,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 9:13 - But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn't offer the offering of Yahweh in its appointed season, that man shall bear his sin.
 
 #### Ages 5-7
-But the man who is clean, and is not on a travel, and fails to keep the Passover, that person must be removed from his people. Because he didn't offer the offering of the Lord in its appointed season, that man must bear his sin.
+But the man who is clean, and is not on a travel, and fails to keep the Passover, that person must be removed from his people. Because he didn't offer the offering of the Lord in its appointed season, that man must carry his guilt.
 
 #### Ages 8-10
-But the man who is clean, and is not on a travel, and fails to keep the Passover, that person must be removed from his people. Because he didn't offer the offering of the Lord in its appointed season, that man must bear his sin.
+But the man who is clean, and is not on a travel, and fails to keep the Passover, that person must be removed from his people. Because he didn't offer the offering of the Lord in its appointed season, that man must carry his guilt.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -438,11 +438,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 9 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses in the wilderness of Sinai, in the first month of the second year after t...," moves through "They must leave none of it until the morning, nor break a bone of it. According to all the rule o...," and closes with "At the command of the Lord they camped, and at the command of the Lord they traveled. They kept t...." Review this summary for fuller theological detail before approval.
+Israel keeps the Passover in the wilderness, and the Lord gives a gracious way for those who are unclean or far away to keep it later. The cloud over the holy tent shows when Israel should camp and when Israel should travel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God wants rescue remembered**: Passover keeps the story of deliverance before Israel.
+2. **God leads his people**: The cloud teaches Israel to move and stop at the Lord's command.
 
 ## Memory Verses by Age
 
@@ -464,7 +464,3 @@ Moses told the people of Israel that they should keep the Passover. - Numbers 9:
 
 ## Prayer
 Lord, help us understand Numbers 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

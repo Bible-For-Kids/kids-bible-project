@@ -1,7 +1,7 @@
 # Numbers Chapter 34
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 34 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord names the borders of the land Israel will inherit in Canaan and appoints leaders to help divide it among the tribes.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -219,10 +219,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 34:14 - for the tribe of the children of Reuben according to their fathers' houses, the tribe of the children of Gad according to their fathers' houses, and the half-tribe of Manasseh have received their inheritance.
 
 #### Ages 5-7
-for the tribe of Reuben according to their family houses, the tribe of Gad according to their family houses, and the half-tribe of Manasseh have received their inheritance.
+for the tribe of Reuben according to their family groups, the tribe of Gad according to their family groups, and the half-tribe of Manasseh have received their inheritance.
 
 #### Ages 8-10
-for the tribe of Reuben according to their family houses, the tribe of Gad according to their family houses, and the half-tribe of Manasseh have received their inheritance.
+for the tribe of Reuben according to their family groups, the tribe of Gad according to their family groups, and the half-tribe of Manasseh have received their inheritance.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -453,11 +453,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 34 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho ea...," and closes with "These are they whom the Lord commanded to divide the inheritance to the people of Israel in the l...." Review this summary for fuller theological detail before approval.
+The Lord names the borders of the land Israel will inherit in Canaan and appoints leaders to help divide it among the tribes. The promised land is not vague; God marks out real places for his people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God gives real promises**: The borders show that the inheritance is concrete.
+2. **God appoints trustworthy order**: Leaders are named to divide the land for the tribes.
 
 ## Memory Verses by Age
 
@@ -479,7 +479,3 @@ then your south quarter must be from the wilderness of Zin along by the side of 
 
 ## Prayer
 Lord, help us understand Numbers 34 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

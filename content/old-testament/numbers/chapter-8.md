@@ -1,7 +1,7 @@
 # Numbers Chapter 8
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 8 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on aaron lights the lamps, and the Levites are cleansed and offered before the Lord for service.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -72,10 +72,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:4 - This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which Yahweh had shown Moses.
 
 #### Ages 5-7
-This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which the Lord had shown Moses.
+The lampstand was made from hammered gold. From its base to its flower shapes, it was hammered work. It was made just as the Lord had shown Moses.
 
 #### Ages 8-10
-This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which the Lord had shown Moses.
+The lampstand was made from hammered gold. From its base to its flower shapes, it was hammered work. It was made according to the pattern the Lord had shown Moses.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -128,10 +128,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:7 - You shall do this to them, to cleanse them: sprinkle the water of cleansing on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves.
 
 #### Ages 5-7
-You must do this to them, to cleanse them: sprinkle the water of being made clean on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves.
+You must do this to make them clean for worship: sprinkle cleansing water on them, let them shave their whole bodies with a razor, let them wash their clothes, and let them cleanse themselves.
 
 #### Ages 8-10
-You must do this to them, to cleanse them: sprinkle the water of being made clean on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves.
+You must do this to cleanse them: sprinkle cleansing water on them, let them shave their whole bodies with a razor, let them wash their clothes, and let them cleanse themselves.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -142,10 +142,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:8 - Then let them take a young bull and its meal offering, fine flour mixed with oil; and another young bull you shall take for a sin offering.
 
 #### Ages 5-7
-Then let them take a young bull and its grain gift, fine flour mixed with oil; and another young bull you must take for an offering for sin.
+Then they must take a young bull with its grain gift of fine flour mixed with oil. You must take another young bull as an offering for sin.
 
 #### Ages 8-10
-Then let them take a young bull and its grain offering, fine flour mixed with oil; and another young bull you must take for a sin offering.
+Then they must take a young bull with its grain offering of fine flour mixed with oil. You must take another young bull as a sin offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -198,10 +198,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:11 - and Aaron shall offer the Levites before Yahweh for a wave offering on the behalf of the children of Israel, that it may be theirs to do the service of Yahweh.
 
 #### Ages 5-7
-and Aaron must offer the Levites before the Lord for a lifted offering on the behalf of the people of Israel, that it may be theirs to do the service of the Lord.
+Aaron must lift the Levites before the Lord as an offering from the people of Israel, so they may do the Lord's service.
 
 #### Ages 8-10
-and Aaron must offer the Levites before the Lord for an offering lifted before the Lord on the behalf of the people of Israel, that it may be theirs to do the service of the Lord.
+Aaron must lift the Levites before the Lord as an offering from the people of Israel, so they may do the Lord's service.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -219,10 +219,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:12 - "The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering and the other for a burnt offering to Yahweh, to make atonement for the Levites.
 
 #### Ages 5-7
-"The Levites must lay their hands on the leaders of the bulls, and you must offer the one for an offering for sin and the other for a burned offering to the Lord, to make atonement for the Levites.
+The Levites must lay their hands on the heads of the bulls. Then you must offer one bull as an offering for sin and the other as a burned offering to the Lord, to make atonement for the Levites.
 
 #### Ages 8-10
-"The Levites must lay their hands on the heads of the bulls, and you must offer the one for a sin offering and the other for a burned offering to the Lord, to make atonement for the Levites.
+The Levites must lay their hands on the heads of the bulls. Then you must offer one bull as a sin offering and the other as a burned offering to the Lord, to make atonement for the Levites.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -240,10 +240,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:13 - You shall set the Levites before Aaron and before his sons, and offer them as a wave offering to Yahweh.
 
 #### Ages 5-7
-You must set the Levites before Aaron and before his sons, and offer them as a lifted offering to the Lord.
+You must place the Levites before Aaron and his sons, and lift them before the Lord as an offering.
 
 #### Ages 8-10
-You must set the Levites before Aaron and before his sons, and offer them as an offering lifted before the Lord to the Lord.
+You must place the Levites before Aaron and his sons, and lift them before the Lord as an offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -279,10 +279,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:15 - "After that, the Levites shall go in to do the service of the Tent of Meeting. You shall cleanse them, and offer them as a wave offering.
 
 #### Ages 5-7
-"After that, the Levites must go in to do the service of the Tent of Meeting. You must cleanse them, and offer them as a lifted offering.
+After that, the Levites may go in to serve at the Tent of Meeting. You must cleanse them and lift them before the Lord as an offering.
 
 #### Ages 8-10
-"After that, the Levites must go in to do the service of the Tent of Meeting. You must cleanse them, and offer them as an offering lifted before the Lord.
+After that, the Levites may go in to serve at the Tent of Meeting. You must cleanse them and lift them before the Lord as an offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -298,10 +298,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:16 - For they are wholly given to me from among the children of Israel; instead of all who open the womb, even the firstborn of all the children of Israel, I have taken them to me.
 
 #### Ages 5-7
-For they are wholly given to me from among the people of Israel; instead of all who open the womb, even the firstborn of all the people of Israel, I have taken them to me.
+They are fully given to me from among the people of Israel. I have taken the Levites for myself instead of every firstborn son in Israel.
 
 #### Ages 8-10
-For they are wholly given to me from among the people of Israel; instead of all who open the womb, even the firstborn of all the people of Israel, I have taken them to me.
+They are fully given to me from among the people of Israel. I have taken the Levites for myself instead of every firstborn among the people of Israel.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -352,10 +352,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:19 - I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the Tent of Meeting, and to make atonement for the children of Israel, so that there will be no plague among the children of Israel when the children of Israel come near to the sanctuary."
 
 #### Ages 5-7
-I have given the Levites as a gift to Aaron and to his sons from among the people of Israel, to do the service of the people of Israel in the Tent of Meeting, and to make atonement for the people, helping make things right with God for Israel, so that there will be no terrible sickness among the people of Israel when the people of Israel come near to the holy place."
+I have given the Levites as a gift to Aaron and his sons from among the people of Israel. They will do the people's service at the Tent of Meeting and make atonement for Israel, so no terrible sickness will strike the people when they come near the holy place."
 
 #### Ages 8-10
-I have given the Levites as a gift to Aaron and to his sons from among the people of Israel, to do the service of the people of Israel in the Tent of Meeting, and to make atonement for the people of Israel, so that there will be no terrible sickness among the people of Israel when the people of Israel come near to the holy place."
+I have given the Levites as a gift to Aaron and his sons from among the people of Israel. They will do the people's service at the Tent of Meeting and make atonement for Israel, so no plague will strike the people when they come near the holy place."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -394,10 +394,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:21 - The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for a wave offering before Yahweh and Aaron made atonement for them to cleanse them.
 
 #### Ages 5-7
-The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for an offering lifted before the Lord and Aaron made atonement for them to cleanse them.
+The Levites cleansed themselves and washed their clothes. Aaron lifted them before the Lord as an offering, and Aaron made atonement for them to cleanse them.
 
 #### Ages 8-10
-The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for an offering lifted before the Lord and Aaron made atonement for them to cleanse them.
+The Levites cleansed themselves and washed their clothes. Aaron lifted them before the Lord as an offering, and Aaron made atonement for them to cleanse them.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -455,10 +455,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:24 - "This is what is assigned to the Levites: from twenty-five years old and upward they shall go in to wait on the service in the work of the Tent of Meeting;
 
 #### Ages 5-7
-"This is what is assigned to the Levites: from twenty-five years old and upward they must go in to wait on the service in the work of the Tent of Meeting;
+"This is what belongs to the Levites: from twenty-five years old and older, they must come to serve in the work of the Tent of Meeting.
 
 #### Ages 8-10
-"This is what is assigned to the Levites: from twenty-five years old and upward they must go in to wait on the service in the work of the Tent of Meeting;
+"This is what belongs to the Levites: from twenty-five years old and older, they must come to serve in the work of the Tent of Meeting.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -486,10 +486,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 8:26 - but shall assist their brothers in the Tent of Meeting, to perform the duty, and shall perform no service. This is how you shall have the Levites do their duties."
 
 #### Ages 5-7
-but must assist their brothers in the Tent of Meeting, to perform the duty, and must perform no service. This is how you must have the Levites do their duties."
+They may help their brothers at the Tent of Meeting and keep the duties, but they must not do the heavy service work. This is how you must have the Levites do their duties."
 
 #### Ages 8-10
-but must assist their brothers in the Tent of Meeting, to perform the duty, and must perform no service. This is how you must have the Levites do their duties."
+They may help their brothers at the Tent of Meeting and keep the duties, but they must not do the heavy service work. This is how you must have the Levites do their duties."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -500,11 +500,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 8 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Thus you must separate the Levites from among the people of Israel, and the Levites must be mine.," and closes with "but must assist their brothers in the Tent of Meeting, to perform the duty, and must perform no s...." Review this summary for fuller theological detail before approval.
+Aaron lights the lamps, and the Levites are cleansed and offered before the Lord for service. God says the Levites belong to him in place of Israel's firstborn and gives them work at the Tent of Meeting.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God gives light for worship**: The lamps burn where the Lord commands.
+2. **God prepares his servants**: The Levites are cleansed before they begin their holy work.
 
 ## Memory Verses by Age
 
@@ -526,7 +526,3 @@ Numbers 8 is a draft resource chapter. The chapter opens with "The Lord spoke to
 
 ## Prayer
 Lord, help us understand Numbers 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

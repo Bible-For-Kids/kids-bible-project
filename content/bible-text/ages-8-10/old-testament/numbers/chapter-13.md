@@ -57,7 +57,7 @@ Of the tribe of Gad, Geuel the son of Machi.
 These are the names of the men who Moses sent to spy out the land. Moses called Hoshea the son of Nun Joshua.
 
 ### Numbers 13:17
-Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, and go up into the hill country.
+Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the southern land, and go up into the hill country.
 
 ### Numbers 13:18
 See the land, what it is; and the people who live there, whether they are strong or weak, whether they are few or many;
@@ -72,7 +72,7 @@ and what the land is, whether it is fertile or poor, whether there is wood there
 So they went up, and spied out the land from the wilderness of Zin to Rehob, to the entrance of Hamath.
 
 ### Numbers 13:22
-They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
+They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
 
 ### Numbers 13:23
 They came to the valley of Eshcol, and cut down from there a branch with one cluster of grapes, and they bore it on a staff between two. They also brought some of the pomegranates and figs.
@@ -93,7 +93,7 @@ They told him, and said, "We came to the land where you sent us. Surely it flows
 However, the people who live in the land are strong, and the cities are fortified and very large. Moreover, we saw the descendants of Anak there.
 
 ### Numbers 13:29
-Amalek lives in the land of the South. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
+Amalek lives in the land of the southern land. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
 
 ### Numbers 13:30
 Caleb quieted the people before Moses, and said, "Let's go up at once, and possess it; for we are well able to overcome it!"
@@ -102,7 +102,7 @@ Caleb quieted the people before Moses, and said, "Let's go up at once, and posse
 But the men who went up with him said, "We aren't able to go up against the people; for they are stronger than we."
 
 ### Numbers 13:32
-They brought up an evil report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are men of great stature.
+They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
 
 ### Numbers 13:33
 There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight."

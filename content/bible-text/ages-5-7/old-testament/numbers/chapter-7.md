@@ -12,7 +12,7 @@ Numbers
 On the day that Moses had finished setting up the tent, and had anointed it and made it holy with all its furniture, and the altar with all its containers, and had anointed and made them holy;
 
 ### Numbers 7:2
-the leaders of Israel, the leaders of their family houses, offered. These were the leaders of the tribes. These are they who were over those who were counted;
+the leaders of Israel, the leaders of their family groups, offered. These were the leaders of the tribes. These are they who were over those who were counted;
 
 ### Numbers 7:3
 and they brought their offering before the Lord, six covered wagons and twelve oxen; a wagon for every two of the leaders, and for each one an ox. They presented them before the tent.
@@ -45,16 +45,16 @@ The Lord said to Moses, "They must offer their offering, each leader on his day,
 Whoever offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah,
 
 ### Numbers 7:13
-and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:14
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:15
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:16
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:17
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Nahshon the son of Amminadab.
@@ -63,16 +63,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the second day Nethanel the son of Zuar, leader of Issachar, gave his offering.
 
 ### Numbers 7:19
-He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:20
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:21
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:22
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:23
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, five male lambs a year old. This was the offering of Nethanel the son of Zuar.
@@ -81,16 +81,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the third day Eliab the son of Helon, leader of the descendants of Zebulun,
 
 ### Numbers 7:25
-gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:26
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:27
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:28
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:29
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Eliab the son of Helon.
@@ -99,16 +99,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the fourth day Elizur the son of Shedeur, leader of the descendants of Reuben,
 
 ### Numbers 7:31
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:32
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:33
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:34
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:35
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Elizur the son of Shedeur.
@@ -117,16 +117,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the fifth day Shelumiel the son of Zurishaddai, leader of the descendants of Simeon,
 
 ### Numbers 7:37
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:38
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:39
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:40
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:41
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old: this was the offering of Shelumiel the son of Zurishaddai.
@@ -135,16 +135,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the sixth day, Eliasaph the son of Deuel, leader of the descendants of Gad,
 
 ### Numbers 7:43
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:44
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:45
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:46
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:47
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Eliasaph the son of Deuel.
@@ -153,16 +153,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the seventh day Elishama the son of Ammihud, leader of the descendants of Ephraim,
 
 ### Numbers 7:49
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:50
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:51
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:52
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:53
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Elishama the son of Ammihud.
@@ -171,16 +171,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the eighth day Gamaliel the son of Pedahzur, leader of the descendants of Manasseh,
 
 ### Numbers 7:55
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:56
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:57
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:58
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:59
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Gamaliel the son of Pedahzur.
@@ -189,16 +189,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the ninth day Abidan the son of Gideoni, leader of the descendants of Benjamin,
 
 ### Numbers 7:61
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:62
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:63
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:64
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:65
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Abidan the son of Gideoni.
@@ -207,16 +207,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the tenth day Ahiezer the son of Ammishaddai, leader of the descendants of Dan,
 
 ### Numbers 7:67
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:68
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:69
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:70
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:71
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Ahiezer the son of Ammishaddai.
@@ -225,16 +225,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the eleventh day Pagiel the son of Ochran, leader of the descendants of Asher,
 
 ### Numbers 7:73
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:74
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:75
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:76
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:77
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Pagiel the son of Ochran.
@@ -243,16 +243,16 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 On the twelfth day Ahira the son of Enan, leader of the descendants of Naphtali,
 
 ### Numbers 7:79
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 ### Numbers 7:80
 one golden spoon of ten silver pieces, full of sweet-smelling incense;
 
 ### Numbers 7:81
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 ### Numbers 7:82
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 ### Numbers 7:83
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Ahira the son of Enan.
@@ -261,13 +261,13 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 This was the dedication offering of the altar, on the day when it was anointed, by the leaders of Israel: twelve silver platters, twelve silver bowls, twelve golden ladles;
 
 ### Numbers 7:85
-each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, according to the holy place weight;
+each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, according to the weight used at the holy place;
 
 ### Numbers 7:86
-the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, according to the holy place weight; all the gold of the ladles weighed one hundred twenty silver pieces;
+the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, according to the weight used at the holy place; all the gold of the ladles weighed one hundred twenty silver pieces;
 
 ### Numbers 7:87
-all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain gift; and twelve male goats for an offering for sin;
+all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain gift; and twelve male goats as an offering for sin;
 
 ### Numbers 7:88
 and all the cattle for the sacrifice of peace offerings: twenty-four bulls, sixty male sheep, sixty male goats, and sixty male lambs a year old. This was the dedication offering of the altar, after it was anointed.

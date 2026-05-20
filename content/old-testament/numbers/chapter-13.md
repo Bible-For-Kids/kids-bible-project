@@ -1,7 +1,7 @@
 # Numbers Chapter 13
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 13 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses sends twelve men to spy out Canaan, and they return with fruit from the land.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -258,10 +258,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:17 - Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, and go up into the hill country.
 
 #### Ages 5-7
-Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, and go up into the hill country.
+Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the southern land, and go up into the hill country.
 
 #### Ages 8-10
-Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, and go up into the hill country.
+Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the southern land, and go up into the hill country.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -334,10 +334,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:22 - They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the children of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
 
 #### Ages 5-7
-They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
+They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
 
 #### Ages 8-10
-They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
+They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -444,10 +444,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:29 - Amalek dwells in the land of the South. The Hittite, the Jebusite, and the Amorite dwell in the hill country. The Canaanite dwells by the sea, and along the side of the Jordan."
 
 #### Ages 5-7
-Amalek lives in the land of the South. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
+Amalek lives in the land of the southern land. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
 
 #### Ages 8-10
-Amalek lives in the land of the South. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
+Amalek lives in the land of the southern land. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -489,10 +489,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:32 - They brought up an evil report of the land which they had spied out to the children of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people who we saw in it are men of great stature.
 
 #### Ages 5-7
-They brought up an evil report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are men of great stature.
+They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
 
 #### Ages 8-10
-They brought up an evil report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are men of great stature.
+They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -518,11 +518,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 13 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, an...," and closes with "There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight...." Review this summary for fuller theological detail before approval.
+Moses sends twelve men to spy out Canaan, and they return with fruit from the land. Caleb urges courage, but most of the spies frighten the people with a bad report about the strong cities and tall people in the land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's promise must be trusted**: The land is good because the Lord promised it.
+2. **Fear can spread quickly**: The bad report turns the people's eyes away from God's power.
 
 ## Memory Verses by Age
 
@@ -544,7 +544,3 @@ Numbers 13 is a draft resource chapter. The chapter opens with "The Lord spoke t
 
 ## Prayer
 Lord, help us understand Numbers 13 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

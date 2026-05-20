@@ -12,7 +12,7 @@ Numbers
 The Lord spoke to Moses and to Aaron, saying,
 
 ### Numbers 4:2
-"Take a census of the sons of Kohath from among the sons of Levi, by their families and family houses,
+"Count the sons of Kohath from among the sons of Levi, by their families and family groups,
 
 ### Numbers 4:3
 from thirty years old and older even until fifty years old, all who enter into the service to do the work in the Tent of Meeting.
@@ -72,7 +72,7 @@ but they must not go in to see the holy place even for a moment, or else they di
 The Lord spoke to Moses, saying,
 
 ### Numbers 4:22
-"Take a census of the sons of Gershon also, by their family houses, by their families;
+"Count the sons of Gershon also, by their family groups, by their families;
 
 ### Numbers 4:23
 you must count them from thirty years old and older until fifty years old: all who enter in to wait on the service, to do the work in the Tent of Meeting.
@@ -93,7 +93,7 @@ At the command of Aaron and his sons must be all the service of the sons of the 
 This is the service of the families of the sons of the Gershonites in the Tent of Meeting. Their duty must be under the hand of Ithamar the son of Aaron the priest.
 
 ### Numbers 4:29
-"As for the sons of Merari, you must count them by their families and family houses;
+"As for the sons of Merari, you must count them by their families and family groups;
 
 ### Numbers 4:30
 you must count them from thirty years old and older even to fifty years old-everyone who enters on the service, to do the work of the Tent of Meeting.
@@ -108,7 +108,7 @@ the pillars of the court around it, their sockets, their pins, their cords, with
 This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest."
 
 ### Numbers 4:34
-Moses and Aaron and the leaders of the whole group counted the sons of the Kohathites by their families, and by their family houses,
+Moses and Aaron and the leaders of the whole group counted the sons of the Kohathites by their families, and by their family groups,
 
 ### Numbers 4:35
 from thirty years old and older even to fifty years old, everyone who entered into the service for work in the Tent of Meeting.
@@ -120,19 +120,19 @@ Those who were counted from them by their families were two thousand seven hundr
 These are those counted from the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted as the Lord commanded through Moses.
 
 ### Numbers 4:38
-Those who were counted from the sons of Gershon, by their families, and by their family houses,
+Those who were counted from the sons of Gershon, by their families, and by their family groups,
 
 ### Numbers 4:39
 from thirty years old and older even to fifty years old-everyone who entered into the service for work in the Tent of Meeting,
 
 ### Numbers 4:40
-even those counted from them, by their families and family houses, were two thousand six hundred thirty.
+even those counted from them, by their families and family groups, were two thousand six hundred thirty.
 
 ### Numbers 4:41
 These are those counted from the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the command of the Lord.
 
 ### Numbers 4:42
-Those who were counted from the families of the sons of Merari, by their families and family houses,
+Those who were counted from the families of the sons of Merari, by their families and family groups,
 
 ### Numbers 4:43
 from thirty years old and older even to fifty years old-everyone who entered into the service for work in the Tent of Meeting,
@@ -144,7 +144,7 @@ even those counted from them by their families, were three thousand two hundred.
 These are those counted from the families of the sons of Merari, whom Moses and Aaron counted as the Lord commanded through Moses.
 
 ### Numbers 4:46
-All those counted from the Levites whom Moses and Aaron and the leaders of Israel counted, by their families and by their family houses,
+All those counted from the Levites whom Moses and Aaron and the leaders of Israel counted, by their families and by their family groups,
 
 ### Numbers 4:47
 from thirty years old and older even to fifty years old, everyone who entered in to do the work of service and the work of bearing burdens in the Tent of Meeting,

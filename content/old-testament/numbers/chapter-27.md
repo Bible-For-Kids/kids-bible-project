@@ -1,7 +1,7 @@
 # Numbers Chapter 27
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 27 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the daughters of Zelophehad ask for their father's inheritance, and the Lord says they are right.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -120,10 +120,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 27:7 - "The daughters of Zelophehad speak right. You shall surely give them a possession of an inheritance among their father's brothers. You shall cause the inheritance of their father to pass to them.
 
 #### Ages 5-7
-"The daughters of Zelophehad speak right. You must surely give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
+"The daughters of Zelophehad speak right. You must give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
 
 #### Ages 8-10
-"The daughters of Zelophehad speak right. You must surely give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
+"The daughters of Zelophehad speak right. You must give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -364,10 +364,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 27:21 - He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Yahweh. At his word they shall go out, and at his word they shall come in, both he and all the children of Israel with him, even all the congregation."
 
 #### Ages 5-7
-He must still count before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the people."
+He must stand before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the people."
 
 #### Ages 8-10
-He must still count before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the community."
+He must stand before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the community."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -421,11 +421,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 27 is a draft resource chapter. The chapter opens with "Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the so...," moves through "The Lord said to Moses, "Go up into this mountain of Abarim, and see the land which I have given...," and closes with "He laid his hands on him and commissioned him, as the Lord spoke by Moses.." Review this summary for fuller theological detail before approval.
+The daughters of Zelophehad ask for their father's inheritance, and the Lord says they are right. Then Moses sees the land from the mountain and asks the Lord to appoint a shepherd for the people, so Joshua is commissioned before Israel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God hears just requests**: The daughters' case is answered by the Lord.
+2. **God provides leadership**: Joshua is appointed so Israel will not be like sheep without a shepherd.
 
 ## Memory Verses by Age
 
@@ -447,7 +447,3 @@ Moses brought their cause before the Lord. - Numbers 27:5
 
 ## Prayer
 Lord, help us understand Numbers 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

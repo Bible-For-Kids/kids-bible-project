@@ -33,7 +33,7 @@ If your grain offering is cooked in a pan, it must be made of fine flour with oi
 You must bring the grain offering made from these things to the Lord. It must be given to the priest, and he must bring it to the altar.
 
 ### Leviticus 2:9
-The priest must take from the grain offering the memorial portion and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
+The priest must take from the grain offering the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
 
 ### Leviticus 2:10
 The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
@@ -54,4 +54,4 @@ You must put salt on every grain offering. Do not leave out the salt of God's co
 You must put oil on it and lay sweet-smelling incense on it. It is a grain offering.
 
 ### Leviticus 2:16
-The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the memorial portion. It is an offering burned on the altar to the Lord.
+The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.

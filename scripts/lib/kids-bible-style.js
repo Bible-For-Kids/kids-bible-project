@@ -40,6 +40,14 @@ const hardBlockedTerms = [
     message: 'Use "leafy hyssop branch" so children can picture the plant.',
   },
   {
+    pattern: /\bfrankincense\b/i,
+    message: 'Use "sweet-smelling incense" instead of "frankincense".',
+  },
+  {
+    pattern: /\bmemorial portion\b/i,
+    message: 'Use child-readable wording such as "part burned before the Lord" instead of "memorial portion".',
+  },
+  {
     pattern: /\bvessel\b/i,
     message: 'Use "container", "bowl", or another concrete word instead of "vessel".',
   },
@@ -68,7 +76,7 @@ const hardBlockedTerms = [
     message: 'Use "people" instead of "persons" in child-facing Bible text.',
   },
   {
-    pattern: /\b(being made clean impurity|sweet sweet-smelling|sweet-smelling sweet-smelling|clean for worship for worship|disease skin-disease|piece of a piece|on the altar on the altar|offering of an offering|Holy Holy|person loathes|made holy (it|them)|make holy (it|them)|sweet-smelling incense pan|a incense pan|afflict your people|an basket measure|an priestly vest|a atonement cover|body uncovered is not uncovered)\b/i,
+    pattern: /\b(being made clean impurity|being made clean water|water of being made clean|sweet sweet-smelling|sweet-smelling sweet-smelling|clean for worship for worship|make not clean for worship the land|is no longer clean for worship|disease skin-disease|piece of a piece|on the altar on the altar|offering of an offering|Holy Holy|person loathes|made holy (it|them)|make holy (it|them)|sweet-smelling incense pan|a incense pan|afflict your people|an basket measure|an priestly vest|a atonement cover|body uncovered is not uncovered)\b/i,
     message: 'Fix generated phrasing so the verse reads naturally for children.',
   },
   {
@@ -172,7 +180,9 @@ function replaceRitualObjects(text) {
     .replace(/\bvessel\b/g, 'container')
     .replace(/\bveil\b/g, 'curtain')
     .replace(/\bmercy seat\b/g, 'atonement cover')
+    .replace(/\bcensers\b/g, 'incense pans')
     .replace(/\bcenser\b/g, 'incense pan')
+    .replace(/\bfrankincense\b/g, 'sweet-smelling incense')
     .replace(/\bincense\b/g, 'sweet-smelling incense')
     .replace(/\bsanctuary\b/g, 'holy place')
     .replace(/\bSanctuary\b/g, 'Holy Place')
@@ -387,11 +397,14 @@ function finalPolish(text) {
     .replace(/\bon all the containers, on the persons who were there\b/g, 'on all the containers, on the people who were there')
     .replace(/\bIf the priest comes in, and examine it\b/g, 'If the priest comes in and examines it')
     .replace(/\bfor use in water for being made clean impurity\b/g, 'to make cleansing water')
+    .replace(/\bthe water of being made clean\b/g, 'the cleansing water')
+    .replace(/\bwater of being made clean\b/g, 'cleansing water')
     .replace(/\bwater for being made clean impurity\b/g, 'cleansing water')
     .replace(/\bthe water for impurity\b/g, 'the cleansing water')
     .replace(/\bwater for impurity\b/g, 'cleansing water')
     .replace(/\bHis being unclean is yet on him\b/g, 'He is still unclean')
     .replace(/\bsweet sweet-smelling incense\b/g, 'sweet-smelling incense')
+    .replace(/\bsweet-smelling incense pans\b/g, 'incense pans')
     .replace(/\bsweet-smelling incense pan\b/g, 'incense pan')
     .replace(/\ba incense pan\b/g, 'an incense pan')
     .replace(/\bHoly Holy Place\b/g, 'Most Holy Place')

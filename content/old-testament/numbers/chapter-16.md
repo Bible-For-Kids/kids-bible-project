@@ -1,7 +1,7 @@
 # Numbers Chapter 16
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 16 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on korah, Dathan, Abiram, and their followers rebel against Moses and Aaron.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -30,10 +30,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:2 - They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown.
 
 #### Ages 5-7
-They rose up before Moses, with some of the people of Israel, two hundred fifty leaders of the whole group, called to the whole group, men of renown.
+They rose up against Moses with two hundred fifty well-known leaders from Israel, men chosen from the whole group.
 
 #### Ages 8-10
-They rose up before Moses, with some of the people of Israel, two hundred fifty princes of the community, called to the gathered people, men of renown.
+They rose up against Moses with two hundred fifty well-known leaders from Israel, men chosen from the community.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -48,10 +48,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:3 - They assembled themselves together against Moses and against Aaron, and said to them, "You take too much on yourself, since all the congregation are holy, everyone of them, and Yahweh is among them! Why do you lift yourselves up above Yahweh's assembly?"
 
 #### Ages 5-7
-They assembled themselves together against Moses and against Aaron, and said to them, "You take too much on yourself, since all the people are holy, every one of them, and the Lord is among them! Why do you lift yourselves up above the Lord's whole group?"
+They gathered together against Moses and Aaron and said, "You have gone too far! All the people are holy, every one of them, and the Lord is among them. Why do you lift yourselves above the Lord's whole group?"
 
 #### Ages 8-10
-They assembled themselves together against Moses and against Aaron, and said to them, "You take too much on yourself, since all the community are holy, every one of them, and the Lord is among them! Why do you lift yourselves up above the Lord's gathered people?"
+They gathered together against Moses and Aaron and said, "You have gone too far! All the people are holy, every one of them, and the Lord is among them. Why do you lift yourselves above the Lord's community?"
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -105,10 +105,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:6 - Do this: have Korah and all his company take censers,
 
 #### Ages 5-7
-Do this: have Korah and all his company take censers,
+Do this: Korah and all his company must take incense pans.
 
 #### Ages 8-10
-Do this: have Korah and all his company take censers,
+Do this: Korah and all his company must take incense pans.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -226,10 +226,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:13 - Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a prince over us?
 
 #### Ages 5-7
-Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a leader over us?
+Is it not enough that you brought us up from Egypt, a land they called full of milk and honey, to kill us in the wilderness? Must you also make yourself ruler over us?
 
 #### Ages 8-10
-Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a prince over us?
+Is it not enough that you brought us up from Egypt, a land they called full of milk and honey, to kill us in the wilderness? Must you also make yourself ruler over us?
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -243,10 +243,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:14 - Moreover you haven't brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won't come up."
 
 #### Ages 5-7
-Moreover you haven't brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won't come up."
+You have not brought us into a land flowing with milk and honey. You have not given us fields and vineyards. Are you trying to fool these men? We will not come up."
 
 #### Ages 8-10
-Moreover you haven't brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won't come up."
+You have not brought us into a land flowing with milk and honey. You have not given us fields and vineyards. Are you trying to blind these men to the truth? We will not come up."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -297,10 +297,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:17 - Each man take his censer and put incense on it, and each man bring before Yahweh his censer, two hundred fifty censers; you also, and Aaron, each with his censer."
 
 #### Ages 5-7
-Each man take his incense pan and put sweet-smelling incense on it, and each man bring before the Lord his incense pan, two hundred fifty censers; you also, and Aaron, each with his incense pan."
+Each man must take his incense pan, put sweet-smelling incense on it, and bring it before the Lord. There will be two hundred fifty incense pans, plus yours and Aaron's."
 
 #### Ages 8-10
-Each man take his incense pan and put sweet-smelling incense on it, and each man bring before the Lord his incense pan, two hundred fifty censers; you also, and Aaron, each with his incense pan."
+Each man must take his incense pan, put incense on it, and bring it before the Lord. There will be two hundred fifty incense pans, plus yours and Aaron's."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -372,10 +372,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:21 - "Separate yourselves from among this congregation, that I may consume them in a moment!"
 
 #### Ages 5-7
-"Separate yourselves from among this whole group, that I may consume them in a moment!"
+"Separate yourselves from this whole group, so I may destroy them in a moment!"
 
 #### Ages 8-10
-"Separate yourselves from among this community, that I may consume them in a moment!"
+"Separate yourselves from this community, so I may consume them in a moment!"
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -386,10 +386,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:22 - They fell on their faces, and said, "God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?"
 
 #### Ages 5-7
-They fell on their faces, and said, "God, the God of the spirits of all living beings, if one man sins, and will you be angry with all the people?"
+Moses and Aaron fell facedown and said, "God, you give life to every person. If one man sins, will you be angry with all the people?"
 
 #### Ages 8-10
-They fell on their faces, and said, "God, the God of the spirits of all living beings, if one man sins, and will you be angry with all the community?"
+Moses and Aaron fell facedown and said, "God, you are the God of the spirits of all living beings. If one man sins, will you be angry with all the people?"
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -455,10 +455,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:26 - He spoke to the congregation, saying, "Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their sins!"
 
 #### Ages 5-7
-He spoke to the whole group, saying, "Depart, please, from the tents of these wicked men, and touch nothing of theirs, or else you be consumed in all their sins!"
+Moses told the whole group, "Please move away from the tents of these wicked men. Do not touch anything that belongs to them, or you may be swept away with them in all their sins!"
 
 #### Ages 8-10
-He spoke to the community, saying, "Depart, please, from the tents of these wicked men, and touch nothing of theirs, or else you be consumed in all their sins!"
+Moses told the community, "Please move away from the tents of these wicked men. Do not touch anything that belongs to them, or you may be swept away with them in all their sins!"
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -520,10 +520,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:30 - But if Yahweh makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you shall understand that these men have despised Yahweh."
 
 #### Ages 5-7
-But if the Lord makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you will understand that these men have despised the Lord."
+But if the Lord does something new, if the ground opens its mouth and swallows them and everything that belongs to them, and they go down alive to the place of the dead, then you will know these men have despised the Lord."
 
 #### Ages 8-10
-But if the Lord makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you will understand that these men have despised the Lord."
+But if the Lord does something new, if the ground opens its mouth and swallows them and everything that belongs to them, and they go down alive to Sheol, then you will know these men have despised the Lord."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -566,10 +566,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:33 - So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly.
 
 #### Ages 5-7
-So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the whole group.
+They and everything that belonged to them went down alive to the place of the dead. The earth closed over them, and they died from among the whole group.
 
 #### Ages 8-10
-So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the gathered people.
+They and everything that belonged to them went down alive to Sheol. The earth closed over them, and they perished from among the community.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -597,10 +597,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:35 - Fire came out from Yahweh, and devoured the two hundred fifty men who offered the incense.
 
 #### Ages 5-7
-Fire came out from the Lord, and devoured the two hundred fifty men who offered the sweet-smelling incense.
+Fire came out from the Lord and burned up the two hundred fifty men who offered the sweet-smelling incense.
 
 #### Ages 8-10
-Fire came out from the Lord, and devoured the two hundred fifty men who offered the sweet-smelling incense.
+Fire came out from the Lord and consumed the two hundred fifty men who offered the sweet-smelling incense.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -634,10 +634,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:37 - "Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy,
 
 #### Ages 5-7
-"Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy,
+"Tell Eleazar son of Aaron the priest to pick up the incense pans from the burning place and scatter the fire away from the camp, because the pans are holy.
 
 #### Ages 8-10
-"Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy,
+"Tell Eleazar son of Aaron the priest to pick up the incense pans from the burning place and scatter the fire away from the camp, because the pans are holy.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -653,10 +653,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:38 - even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before Yahweh. Therefore they are holy. They shall be a sign to the children of Israel."
 
 #### Ages 5-7
-even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before the Lord. Therefore they are holy. They must be a sign to the people of Israel."
+The incense pans belonged to the men who sinned and lost their lives. Beat the pans into thin plates to cover the altar. They were offered before the Lord, so they are holy. They must be a sign to the people of Israel."
 
 #### Ages 8-10
-even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before the Lord. Therefore they are holy. They must be a sign to the people of Israel."
+The incense pans belonged to the men who sinned against their own lives. Beat the pans into thin plates to cover the altar. They were offered before the Lord, so they are holy. They must be a sign to the people of Israel."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -674,10 +674,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:39 - Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,
 
 #### Ages 5-7
-Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,
+Eleazar the priest took the bronze incense pans offered by the men who had been burned, and they hammered the pans into a covering for the altar.
 
 #### Ages 8-10
-Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,
+Eleazar the priest took the bronze incense pans offered by the men who had been burned, and they hammered the pans into a covering for the altar.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -692,10 +692,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:40 - to be a memorial to the children of Israel, to the end that no stranger who isn't of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah, and as his company; as Yahweh spoke to him by Moses.
 
 #### Ages 5-7
-to be a memorial to the people of Israel, so that no foreigner who isn't of the offspring of Aaron, would come near to burn sweet-smelling incense before the Lord, that he not be as Korah, and as his company; as the Lord spoke to him by Moses.
+This became a reminder to the people of Israel. No one who was not from Aaron's family was to come near to burn sweet-smelling incense before the Lord, or he might become like Korah and his company, just as the Lord spoke through Moses.
 
 #### Ages 8-10
-to be a memorial to the people of Israel, so that no foreigner who isn't of the offspring of Aaron, would come near to burn sweet-smelling incense before the Lord, that he not be as Korah, and as his company; as the Lord spoke to him by Moses.
+This became a reminder to the people of Israel. No one who was not from Aaron's family was to come near to burn sweet-smelling incense before the Lord, or he might become like Korah and his company, just as the Lord spoke through Moses.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -734,10 +734,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:42 - When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and Yahweh's glory appeared.
 
 #### Ages 5-7
-When the whole group was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. the cloud covered it, and the Lord's glory appeared.
+When the whole group gathered against Moses and Aaron, they looked toward the Tent of Meeting. The cloud covered it, and the Lord's glory appeared.
 
 #### Ages 8-10
-When the community was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. the cloud covered it, and the Lord's glory appeared.
+When the community gathered against Moses and Aaron, they looked toward the Tent of Meeting. The cloud covered it, and the Lord's glory appeared.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -791,10 +791,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:45 - "Get away from among this congregation, that I may consume them in a moment!" They fell on their faces.
 
 #### Ages 5-7
-"Get away from among this whole group, that I may consume them in a moment!" They fell on their faces.
+"Get away from this whole group, so I may destroy them in a moment!" Then Moses and Aaron fell facedown.
 
 #### Ages 8-10
-"Get away from among this community, that I may consume them in a moment!" They fell on their faces.
+"Get away from this community, so I may consume them in a moment!" Then Moses and Aaron fell facedown.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -805,10 +805,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:46 - Moses said to Aaron, "Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the congregation, and make atonement for them; for wrath has gone out from Yahweh! The plague has begun."
 
 #### Ages 5-7
-Moses said to Aaron, "Take your incense pan, put fire from the altar in it, lay sweet-smelling incense on it, carry it quickly to the whole group, and make atonement for them, to help make things right with God; for wrath has gone out from the Lord! The terrible sickness has begun."
+Moses said to Aaron, "Take your incense pan. Put fire from the altar in it, lay sweet-smelling incense on it, and carry it quickly to the whole group. Make atonement for them, to help make things right with God, because the Lord's anger has gone out. The terrible sickness has begun."
 
 #### Ages 8-10
-Moses said to Aaron, "Take your incense pan, put fire from the altar in it, lay sweet-smelling incense on it, carry it quickly to the community, and make atonement for them; for wrath has gone out from the Lord! The terrible sickness has begun."
+Moses said to Aaron, "Take your incense pan. Put fire from the altar in it, lay incense on it, and carry it quickly to the community. Make atonement for them, because wrath has gone out from the Lord. The plague has begun."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -845,10 +845,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 16:48 - He stood between the dead and the living; and the plague was stayed.
 
 #### Ages 5-7
-He stood between the dead and the living; and the terrible sickness was stayed.
+Aaron stood between the dead and the living, and the terrible sickness stopped.
 
 #### Ages 8-10
-He stood between the dead and the living; and the terrible sickness was stayed.
+Aaron stood between the dead and the living, and the plague stopped.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -888,11 +888,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 16 is a draft resource chapter. The chapter opens with "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons...," moves through "He spoke to the community, saying, "Depart, please, from the tents of these wicked men, and touch...," and closes with "Aaron returned to Moses to the door of the Tent of Meeting, and the terrible sickness was stopped.." Review this summary for fuller theological detail before approval.
+Korah, Dathan, Abiram, and their followers rebel against Moses and Aaron. The Lord judges the rebels, confirms Aaron's priestly place, and Aaron stands with incense between the living and the dead as the terrible sickness stops.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God appoints holy service**: No one may seize the priesthood for himself.
+2. **Intercession matters**: Aaron stands in the gap as judgment is stopped.
 
 ## Memory Verses by Age
 
@@ -914,7 +914,3 @@ Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and
 
 ## Prayer
 Lord, help us understand Numbers 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

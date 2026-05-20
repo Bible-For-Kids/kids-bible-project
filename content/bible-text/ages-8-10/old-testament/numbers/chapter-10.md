@@ -33,10 +33,10 @@ But when the gathered people are to gather, you must blow, but you must not soun
 "The sons of Aaron, the priests, must blow the trumpets. This will be a rule for you forever for all your generations.
 
 ### Numbers 10:9
-When you go to war in your land against the adversary who oppresses you, then you must sound an alarm with the trumpets. Then you will be remembered before the Lord your God, and you will be saved from your enemies.
+When you go to war in your land against an enemy who oppresses you, sound the alarm with the trumpets. Then the Lord your God will remember you and save you from your enemies.
 
 ### Numbers 10:10
-"Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you must blow the trumpets over your burned offerings, and over the sacrifices of your peace offerings; and they will be a memorial for you before your God. I am the Lord your God."
+"On your glad days, at your set feasts, and at the beginning of each month, blow the trumpets over your burned offerings and peace offerings. They will be a reminder for you before your God. I am the Lord your God."
 
 ### Numbers 10:11
 In the second year, in the second month, on the twentieth day of the month, the cloud was taken up from over the tent of the covenant.

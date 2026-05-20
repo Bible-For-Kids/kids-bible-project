@@ -72,7 +72,7 @@ God came to Balaam at night, and said to him, "If the men have come to call you,
 Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.
 
 ### Numbers 22:22
-God's anger burned because he went; and the Lord's angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
+God's anger burned because Balaam went. The Lord's angel stood in the road against him. Balaam was riding on his donkey, and his two servants were with him.
 
 ### Numbers 22:23
 The donkey saw the Lord's angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path.
@@ -102,10 +102,10 @@ The donkey said to Balaam, "Am I not your donkey, on which you have ridden all y
 Then the Lord opened the eyes of Balaam, and he saw the Lord's angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
 
 ### Numbers 22:32
-The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out as an adversary, because your way is perverse before me.
+The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out to stand against you, because your way is wrong before me.
 
 ### Numbers 22:33
-The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive."
+The donkey saw me and turned away from me these three times. If she had not turned away, I would have killed you by now and kept her alive."
 
 ### Numbers 22:34
 Balaam said to the Lord's angel, "I have sinned; for I didn't know that you stood in the way against me. Now therefore, if it displeases you, I will go back again."

@@ -21,7 +21,7 @@ and their grain gift, fine flour mixed with oil: three tenths for the bull, two 
 and one tenth for every lamb of the seven lambs;
 
 ### Numbers 29:5
-and one male goat for an offering for sin, to make atonement for you, to help make things right with God;
+and one male goat as an offering for sin, to make atonement for you, to help make things right with God;
 
 ### Numbers 29:6
 in addition to the burned offering of the new moon with its grain gift, and the continual burned offering with its grain gift, and their drink gifts, according to their command, for a pleasing smell, an offering burned on the altar to the Lord.
@@ -39,13 +39,13 @@ and their grain gift, fine flour mixed with oil: three tenths for the bull, two 
 one tenth for every lamb of the seven lambs;
 
 ### Numbers 29:11
-one male goat for an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts.
+one male goat as an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts.
 
 ### Numbers 29:12
 "On the fifteenth day of the seventh month you must have a holy gathering. You must do no regular work. You must keep a feast to the Lord seven days.
 
 ### Numbers 29:13
-You must offer a burned offering, an offering burned on the altar, of a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
+You must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
 
 ### Numbers 29:14
 and their grain gift, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each male sheep of the two male sheep,
@@ -54,7 +54,7 @@ and their grain gift, fine flour mixed with oil: three tenths for every bull of 
 and one tenth for every lamb of the fourteen lambs;
 
 ### Numbers 29:16
-and one male goat for an offering for sin, in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, its grain gift, and its drink gift.
 
 ### Numbers 29:17
 "On the second day you must offer twelve young bulls, two male sheep, and fourteen male lambs a year old with nothing wrong with them;
@@ -63,7 +63,7 @@ and one male goat for an offering for sin, in addition to the continual burned o
 and their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
 
 ### Numbers 29:19
-and one male goat for an offering for sin, in addition to the continual burned offering, with its grain gift and their drink gifts.
+and one male goat as an offering for sin, in addition to the continual burned offering, with its grain gift and their drink gifts.
 
 ### Numbers 29:20
 "On the third day: eleven bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
@@ -72,7 +72,7 @@ and one male goat for an offering for sin, in addition to the continual burned o
 and their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
 
 ### Numbers 29:22
-and one male goat for an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
 
 ### Numbers 29:23
 "On the fourth day ten bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
@@ -81,7 +81,7 @@ and one male goat for an offering for sin, in addition to the continual burned o
 their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
 
 ### Numbers 29:25
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
 
 ### Numbers 29:26
 "On the fifth day: nine bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
@@ -90,7 +90,7 @@ and one male goat for an offering for sin; in addition to the continual burned o
 and their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
 
 ### Numbers 29:28
-and one male goat for an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
 
 ### Numbers 29:29
 "On the sixth day: eight bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
@@ -99,7 +99,7 @@ and one male goat for an offering for sin, in addition to the continual burned o
 and their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
 
 ### Numbers 29:31
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and the drink gifts of it.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and the its drink gifts.
 
 ### Numbers 29:32
 "On the seventh day: seven bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
@@ -108,7 +108,7 @@ and one male goat for an offering for sin; in addition to the continual burned o
 and their grain gift and their drink gifts for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
 
 ### Numbers 29:34
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
 
 ### Numbers 29:35
 "On the eighth day you must have a solemn whole group. You must do no regular work;
@@ -120,10 +120,10 @@ but you must offer a burned offering, an offering burned on the altar, a pleasin
 their grain gift and their drink gifts for the bull, for the male sheep, and for the lambs, must be according to their number, after the command,
 
 ### Numbers 29:38
-and one male goat for an offering for sin, in addition to the continual burned offering, with its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, with its grain gift, and its drink gift.
 
 ### Numbers 29:39
-"You must offer these to the Lord in your set feasts-in addition to your serious promises and your free will offerings-for your burned offerings, your meal offerings, your drink gifts, and your peace offerings.' "
+"You must offer these to the Lord in your set feasts, in addition to your serious promises and your gifts people choose to bring-for your burned offerings, your grain gifts, your drink gifts, and your peace offerings.' "
 
 ### Numbers 29:40
 Moses told the people of Israel according to all that the Lord commanded Moses.

@@ -440,10 +440,10 @@ The Lord spoke to Moses.
 **Original Reference**: Exodus 30:34 - Yahweh said to Moses, "Take to yourself sweet spices, gum resin, onycha, and galbanum; sweet spices with pure frankincense. There shall be an equal weight of each.
 
 #### Ages 5-7
-The Lord said to Moses, "Take sweet-smelling spices: stacte, onycha, galbanum, and pure frankincense. Use the same amount of each."
+The Lord said to Moses, "Take sweet-smelling spices: stacte, onycha, galbanum, and pure sweet-smelling incense. Use the same amount of each."
 
 #### Ages 8-10
-The Lord said to Moses, "Take fragrant spices: stacte, onycha, galbanum, and pure frankincense, each in equal amounts."
+The Lord said to Moses, "Take fragrant spices: stacte, onycha, galbanum, and pure sweet-smelling incense, each in equal amounts."
 
 **Key Vocabulary**:
 - incense: Sweet-smelling smoke used in worship at the holy place

@@ -1,7 +1,7 @@
 # Numbers Chapter 32
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 32 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on reuben and Gad ask to settle east of the Jordan because they have many livestock.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -182,10 +182,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 32:11 - 'Surely none of the men who came up out of Egypt, from twenty years old and upward, shall see the land which I swore to Abraham, to Isaac, and to Jacob; because they have not wholly followed me,
 
 #### Ages 5-7
-Surely none of the men who came up out of Egypt, from twenty years old and older, must see the land which I swore to Abraham, to Isaac, and to Jacob; because they have not wholly followed me,
+Not one of the men who came up out of Egypt, from twenty years old and older, will see the land I swore to Abraham, Isaac, and Jacob, because they have not followed me completely,
 
 #### Ages 8-10
-Surely none of the men who came up out of Egypt, from twenty years old and older, must see the land which I swore to Abraham, to Isaac, and to Jacob; because they have not wholly followed me,
+Not one of the men who came up out of Egypt, from twenty years old and older, will see the land I swore to Abraham, Isaac, and Jacob, because they have not followed me completely,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -218,10 +218,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 32:13 - Yahweh's anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in Yahweh's sight was consumed.
 
 #### Ages 5-7
-The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in the Lord's sight was consumed.
+The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness for forty years, until that whole generation who had done evil in the Lord's sight had died.
 
 #### Ages 8-10
-The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in the Lord's sight was consumed.
+The Lord's anger burned against Israel, and he made them wander back and forth in the wilderness for forty years, until that whole generation who had done evil in the Lord's sight had died.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -337,10 +337,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 32:20 - Moses said to them: "If you will do this thing, if you will arm yourselves to go before Yahweh to the war,
 
 #### Ages 5-7
-Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the war,
+Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the battle,
 
 #### Ages 8-10
-Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the war,
+Moses said to them: "If you will do this thing, if you will arm yourselves to go before the Lord to the battle,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -707,11 +707,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 32 is a draft resource chapter. The chapter opens with "Now the descendants of Reuben and the descendants of Gad had a very great crowd of livestock. The...," moves through "and the land is subdued before the Lord; then afterward you must return, and be clear of obligati...," and closes with "Nobah went and took Kenath and its villages, and called it Nobah, after his own name.." Review this summary for fuller theological detail before approval.
+Reuben and Gad ask to settle east of the Jordan because they have many livestock. Moses warns them not to repeat the unbelief of the spies, and they promise to fight with the rest of Israel until the land is subdued.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's people must not abandon one another**: The eastern tribes must help their brothers enter the land.
+2. **Past unbelief is a warning**: Moses remembers the rebellion that led to forty years in the wilderness.
 
 ## Memory Verses by Age
 
@@ -733,7 +733,3 @@ Now the descendants of Reuben and the descendants of Gad had a very great crowd 
 
 ## Prayer
 Lord, help us understand Numbers 32 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

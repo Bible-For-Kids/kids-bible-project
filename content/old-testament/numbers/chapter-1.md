@@ -1,7 +1,7 @@
 # Numbers Chapter 1
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 1 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord tells Moses to count the men of Israel who are old enough to serve in the army, tribe by tribe and name by name.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -37,10 +37,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:2 - "Take a census of all the congregation of the children of Israel, by their families, by their fathers' houses, according to the number of the names, every male, one by one,
 
 #### Ages 5-7
-"Take a census of all the people of Israel, by their families and family houses, according to the number of the names, every male, one by one,
+"Count all the people of Israel, by their families and family groups, name by name, every male, one by one,
 
 #### Ages 8-10
-"Take a census of all the community of the people of Israel, by their families and family houses, according to the number of the names, every male, one by one,
+"Count all the community of the people of Israel, by their families and family groups, name by name, every male, one by one,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -54,10 +54,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:3 - from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall count them by their divisions.
 
 #### Ages 5-7
-from twenty years old and older, all who are able to go out to war in Israel. You and Aaron must count them by their groups.
+from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their groups.
 
 #### Ages 8-10
-from twenty years old and older, all who are able to go out to war in Israel. You and Aaron must count them by their divisions.
+from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their divisions.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -72,10 +72,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:4 - With you there shall be a man of every tribe, each one head of his fathers' house.
 
 #### Ages 5-7
-With you there will be a man of every tribe, each one a leader of his family house.
+With you there will be a man of every tribe, each one a leader of his family group.
 
 #### Ages 8-10
-With you there will be a man of every tribe, each one a leader of his family house.
+With you there will be a man of every tribe, each one a leader of his family group.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -86,10 +86,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:5 - These are the names of the men who shall stand with you: Of Reuben: Elizur the son of Shedeur.
 
 #### Ages 5-7
-These are the names of the men who must still count with you: Of Reuben: Elizur the son of Shedeur.
+These are the names of the men who must stand with you: Of Reuben: Elizur the son of Shedeur.
 
 #### Ages 8-10
-These are the names of the men who must still count with you: Of Reuben: Elizur the son of Shedeur.
+These are the names of the men who must stand with you: Of Reuben: Elizur the son of Shedeur.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -275,10 +275,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:18 - They assembled all the congregation together on the first day of the second month; and they declared their ancestry by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, one by one.
 
 #### Ages 5-7
-They assembled all the people together on the first day of the second month; and they declared their ancestry by their families and family houses, according to the number of the names, from twenty years old and older, one by one.
+They assembled all the people together on the first day of the second month; and they declared their ancestry by their families and family groups, name by name, from twenty years old and older, one by one.
 
 #### Ages 8-10
-They assembled all the community together on the first day of the second month; and they declared their ancestry by their families and family houses, according to the number of the names, from twenty years old and older, one by one.
+They assembled all the community together on the first day of the second month; and they declared their ancestry by their families and family groups, name by name, from twenty years old and older, one by one.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -309,10 +309,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:20 - The children of Reuben, Israel's firstborn, their generations, by their families, by their fathers' houses, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-The descendants of Reuben, Israel's firstborn, their generations, by their families and family houses, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+The descendants of Reuben, Israel's firstborn, their generations, by their families and family groups, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-The descendants of Reuben, Israel's firstborn, their generations, by their families and family houses, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+The descendants of Reuben, Israel's firstborn, their generations, by their families and family groups, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -340,10 +340,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:22 - Of the children of Simeon, their generations, by their families, by their fathers' houses, those who were counted of it, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Simeon, by their generations, by their families and family houses, those counted from them, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+Of the descendants of Simeon, by their family lines, by their families and family groups, those counted from them, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Simeon, by their generations, by their families and family houses, those counted from them, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+Of the descendants of Simeon, by their family lines, by their families and family groups, those counted from them, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -368,10 +368,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:24 - Of the children of Gad, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Gad, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Gad, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Gad, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Gad, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -396,10 +396,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:26 - Of the children of Judah, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Judah, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Judah, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Judah, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Judah, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -424,10 +424,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:28 - Of the children of Issachar, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Issachar, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Issachar, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Issachar, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Issachar, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -452,10 +452,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:30 - Of the children of Zebulun, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Zebulun, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Zebulun, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Zebulun, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Zebulun, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -480,10 +480,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:32 - Of the children of Joseph: of the children of Ephraim, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Joseph: of Ephraim, their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Joseph: of Ephraim, their generations, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Joseph: of Ephraim, their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Joseph: of Ephraim, their generations, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -508,10 +508,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:34 - Of the children of Manasseh, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Manasseh, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Manasseh, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Manasseh, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Manasseh, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -536,10 +536,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:36 - Of the children of Benjamin, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Benjamin, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Benjamin, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Benjamin, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Benjamin, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -564,10 +564,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:38 - Of the children of Dan, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Dan, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Dan, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Dan, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Dan, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -592,10 +592,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:40 - Of the children of Asher, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Asher, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Asher, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Asher, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Asher, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -620,10 +620,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:42 - Of the children of Naphtali, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:
 
 #### Ages 5-7
-Of the descendants of Naphtali, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Naphtali, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 #### Ages 8-10
-Of the descendants of Naphtali, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Naphtali, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -648,10 +648,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:44 - These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his fathers' house.
 
 #### Ages 5-7
-These are those who were counted, whom Moses and Aaron counted, and the twelve men who were leaders of Israel, each one for his family house.
+These are those who were counted, whom Moses and Aaron counted, and the twelve men who were leaders of Israel, each one for his family group.
 
 #### Ages 8-10
-These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his family house.
+These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his family group.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -667,10 +667,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:45 - So all those who were counted of the children of Israel by their fathers' houses, from twenty years old and upward, all who were able to go out to war in Israel—
 
 #### Ages 5-7
-So all those counted from the people of Israel by their family houses, from twenty years old and older, all who were able to go out to war in Israel-
+So all those counted from the people of Israel by their family groups, from twenty years old and older, all who were able to serve in Israel's army-
 
 #### Ages 8-10
-So all those counted from the people of Israel by their family houses, from twenty years old and older, all who were able to go out to war in Israel-
+So all those counted from the people of Israel by their family groups, from twenty years old and older, all who were able to serve in Israel's army-
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -734,10 +734,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 1:49 - "Only the tribe of Levi you shall not count, neither shall you take a census of them among the children of Israel;
 
 #### Ages 5-7
-"Only the tribe of Levi you must not count, neither must you take a census of them among the people of Israel;
+"Only the tribe of Levi you must not count, neither must you count of them among the people of Israel;
 
 #### Ages 8-10
-"Only the tribe of Levi you must not count, neither must you take a census of them among the people of Israel;
+"Only the tribe of Levi you must not count, neither must you count of them among the people of Israel;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -840,19 +840,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 1 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of t...," moves through "Of the descendants of Issachar, by their generations, by their families and family houses, accord...," and closes with "Thus the people of Israel did. According to all that the Lord commanded Moses, so they did.." Review this summary for fuller theological detail before approval.
+The Lord tells Moses to count the men of Israel who are old enough to serve in the army, tribe by tribe and name by name. The Levites are not counted with the army because God gives them the work of guarding and serving around the holy tent.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God knows his people by name**: The count shows ordered families and real people under God's care.
+2. **God guards worship**: The Levites are set apart so the Lord's holy tent is treated with reverence.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-from twenty years old and older, all who are able to go out to war in Israel. You and Aaron must count them by their groups. - Numbers 1:3
+from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their groups. - Numbers 1:3
 
 ### Ages 8-10
-from twenty years old and older, all who are able to go out to war in Israel. You and Aaron must count them by their divisions. - Numbers 1:3
+from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their divisions. - Numbers 1:3
 
 ## Discussion Questions by Age
 
@@ -866,7 +866,3 @@ from twenty years old and older, all who are able to go out to war in Israel. Yo
 
 ## Prayer
 Lord, help us understand Numbers 1 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

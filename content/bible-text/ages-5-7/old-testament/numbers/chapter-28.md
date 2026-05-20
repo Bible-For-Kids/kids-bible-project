@@ -21,19 +21,19 @@ You must tell them, 'This is the offering burned on the altar which you must off
 You must offer the one lamb in the morning, and you must offer the other lamb at evening,
 
 ### Numbers 28:5
-with one tenth-measure of fine flour for a grain gift, mixed with one fourth-measure of beaten oil.
+with a small measured amount of fine flour for a grain gift, mixed with one fourth-measure of beaten oil.
 
 ### Numbers 28:6
 It is a continual burned offering which was appointed at Mount Sinai for a pleasing smell, an offering burned on the altar to the Lord.
 
 ### Numbers 28:7
-Its drink gift must be one fourth-measure for each lamb. You must pour out a drink gift of strong drink to the Lord in the holy place.
+Its drink gift must be one fourth-measure for each lamb. You must pour out a drink gift of drink that can make someone drunk to the Lord in the holy place.
 
 ### Numbers 28:8
 The other lamb you must offer at evening. As the grain gift of the morning, and as its drink gift, you must offer it, an offering burned on the altar, for a pleasing smell to the Lord.
 
 ### Numbers 28:9
-"On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two tenth-measures of fine flour for a grain gift mixed with oil, and its drink gift:
+"On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two small measured amounts of fine flour for a grain gift mixed with oil, and its drink gift:
 
 ### Numbers 28:10
 this is the burned offering of every Sabbath, in addition to the continual burned offering and its drink gift.
@@ -42,7 +42,7 @@ this is the burned offering of every Sabbath, in addition to the continual burne
 "In the beginnings of your months, you must offer a burned offering to the Lord: two young bulls, one male sheep, seven male lambs a year old with nothing wrong with them,
 
 ### Numbers 28:12
-and three tenth-measures of fine flour for a grain gift mixed with oil, for each bull; and two tenths of fine flour for a grain gift mixed with oil, for the one male sheep;
+and three small measured amounts of fine flour for a grain gift mixed with oil, for each bull; and two tenths of fine flour for a grain gift mixed with oil, for the one male sheep;
 
 ### Numbers 28:13
 and one tenth of fine flour mixed with oil for a grain gift to every lamb, as a burned offering of a pleasing smell, an offering burned on the altar to the Lord.
@@ -51,7 +51,7 @@ and one tenth of fine flour mixed with oil for a grain gift to every lamb, as a 
 Their drink gifts must be a half-measure of wine for a bull, one third-measure for the male sheep, and one fourth-measure for a lamb. This is the burned offering of every month throughout the months of the year.
 
 ### Numbers 28:15
-Also, one male goat for an offering for sin to the Lord must be offered in addition to the continual burned offering and its drink gift.
+Also, one male goat as an offering for sin to the Lord must be offered in addition to the continual burned offering and its drink gift.
 
 ### Numbers 28:16
 "In the first month, on the fourteenth day of the month, is the Lord's Passover.
@@ -72,13 +72,13 @@ with their grain gift, fine flour mixed with oil. You must offer three tenths fo
 You must offer one tenth for every lamb of the seven lambs;
 
 ### Numbers 28:22
-and one male goat for an offering for sin, to make atonement for you, to help make things right with God.
+and one male goat as an offering for sin, to make atonement for you, to help make things right with God.
 
 ### Numbers 28:23
 You must offer these in addition to the burned offering of the morning, which is for a continual burned offering.
 
 ### Numbers 28:24
-In this way you must offer daily, for seven days, the food of the offering burned on the altar, of a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink gift.
+In this way you must offer daily, for seven days, the food of the offering burned on the altar, a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink gift.
 
 ### Numbers 28:25
 On the seventh day you must have a holy gathering. You must do no regular work.

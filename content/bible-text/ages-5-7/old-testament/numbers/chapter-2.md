@@ -12,7 +12,7 @@ Numbers
 The Lord spoke to Moses and to Aaron, saying,
 
 ### Numbers 2:2
-"The people of Israel must camp every man by his own banner, with the banners of their family houses. They must camp around the Tent of Meeting at a distance from it."
+"The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it."
 
 ### Numbers 2:3
 Those who camp on the east side toward the sunrise must be of the banner of the camp of Judah, according to their groups. The leader of the descendants of Judah must be Nahshon the son of Amminadab.
@@ -102,10 +102,10 @@ His group, and those counted from them, were fifty-three thousand four hundred.
 "All who were counted from the camp of Dan were one hundred fifty-seven thousand six hundred. They must set out last by their banners."
 
 ### Numbers 2:32
-These are those counted from the people of Israel by their family houses. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
+These are those counted from the people of Israel by their family groups. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
 
 ### Numbers 2:33
 But the Levites were not counted among the people of Israel, as the Lord commanded Moses.
 
 ### Numbers 2:34
-Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family houses.
+Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family groups.

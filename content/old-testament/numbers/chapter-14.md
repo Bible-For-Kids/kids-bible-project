@@ -1,7 +1,7 @@
 # Numbers Chapter 14
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 14 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel cries out, refuses to enter the land, and wants to turn back to Egypt.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -617,10 +617,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:36 - The men whom Moses sent to spy out the land, who returned and made all the congregation to murmur against him by bringing up an evil report against the land,
 
 #### Ages 5-7
-The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up an evil report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up an bad report against the land,
 
 #### Ages 8-10
-The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up an evil report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up an bad report against the land,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -635,10 +635,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:37 - even those men who brought up an evil report of the land, died by the plague before Yahweh.
 
 #### Ages 5-7
-even those men who brought up an evil report of the land, died by the terrible sickness before the Lord.
+even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
 
 #### Ages 8-10
-even those men who brought up an evil report of the land, died by the terrible sickness before the Lord.
+even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -791,11 +791,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 14 is a draft resource chapter. The chapter opens with "All the community lifted up their voice, and cried; and the people wept that night.," moves through "surely they will not see the land which I swore to their fathers, nor will any of those who despi...," and closes with "Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and...." Review this summary for fuller theological detail before approval.
+Israel cries out, refuses to enter the land, and wants to turn back to Egypt. Moses intercedes, the Lord pardons yet judges that generation to wander forty years, and the people fail again when they try to go up without the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Unbelief brings sorrow**: Israel loses the joy of entering the land because they refuse to trust the Lord.
+2. **God is merciful and just**: He pardons at Moses' prayer, yet his judgment still comes to pass.
 
 ## Memory Verses by Age
 
@@ -817,7 +817,3 @@ All the community lifted up their voice, and cried; and the people wept that nig
 
 ## Prayer
 Lord, help us understand Numbers 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

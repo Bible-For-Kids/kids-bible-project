@@ -12,64 +12,64 @@ Numbers
 The Lord spoke to Moses and to Aaron, saying,
 
 ### Numbers 19:2
-"This is the rule of the law which the Lord has commanded. Tell the people of Israel to bring you a red young cow without spot, in which is no defect, and which was never yoked.
+"This is the rule the Lord commanded: Tell the people of Israel to bring you a red young cow with nothing wrong with it, one that has never worn a yoke for work.
 
 ### Numbers 19:3
-You must give her to Eleazar the priest, and he must bring her outside of the camp, and one must kill her before his face.
+You must give her to Eleazar the priest. He must bring her outside the camp, and someone must kill her in front of him.
 
 ### Numbers 19:4
 Eleazar the priest must take some of her blood with his finger, and sprinkle her blood toward the front of the Tent of Meeting seven times.
 
 ### Numbers 19:5
-One must burn the young cow in his sight; her skin, and her meat, and her blood, with her dung, must he burn.
+The young cow must be burned while Eleazar watches. Its skin, meat, blood, and waste must all be burned.
 
 ### Numbers 19:6
 The priest must take a piece of cedar wood, a leafy hyssop branch, and red thread, and throw it into the middle of the burning of the young cow.
 
 ### Numbers 19:7
-Then the priest must wash his clothes, and he must bathe his body in water, and afterward he will come into the camp, and the priest will be unclean until the evening.
+Then the priest must wash his clothes and wash his body in water. Afterward he may come into the camp, but he will not be clean for worship until evening.
 
 ### Numbers 19:8
-Whoever burns her must wash his clothes in water, and bathe his body in water, and will be unclean until the evening.
+The person who burns the cow must wash his clothes in water and wash his body in water. He will not be clean for worship until evening.
 
 ### Numbers 19:9
-"A man who is clean must gather up the ashes of the young cow, and lay them up outside of the camp in a clean place; and it must be kept for the whole group of the people of Israel to make cleansing water. It is an offering for sin.
+A clean person must gather the ashes of the young cow and store them outside the camp in a clean place. They must be kept for the people of Israel to make cleansing water. It is an offering for sin.
 
 ### Numbers 19:10
-Whoever gathers the ashes of the young cow must wash his clothes, and be unclean until the evening. It will be a rule forever for the people of Israel and for the foreigner who lives among them.
+The person who gathers the ashes of the young cow must wash his clothes and will not be clean for worship until evening. This will be a lasting rule for the people of Israel and for the foreigner who lives among them.
 
 ### Numbers 19:11
-"Whoever touches the dead body of any man will be unclean seven days.
+"Whoever touches a dead body will not be clean for worship for seven days.
 
 ### Numbers 19:12
-He must purify himself with water on the third day, and on the seventh day he will be clean; but if he doesn't purify himself the third day, then the seventh day he must not be clean.
+He must purify himself with water on the third day, and on the seventh day he will be clean. But if he does not purify himself on the third day, he will not be clean on the seventh day.
 
 ### Numbers 19:13
-Whoever touches a dead person, the body of a man who has died, and doesn't purify himself, makes the Lord's tent unclean; and that person must be removed from Israel; because the cleansing water was not sprinkled on him, he will be unclean. He is still unclean.
+Whoever touches a dead person and does not purify himself makes the Lord's tent not clean for worship. That person must be removed from Israel. Because the cleansing water was not sprinkled on him, he is still not clean for worship.
 
 ### Numbers 19:14
-"This is the law when a man dies in a tent: everyone who comes into the tent, and everyone who is in the tent, will be unclean seven days.
+"This is the law when someone dies in a tent: everyone who comes into the tent, and everyone already in the tent, will not be clean for worship for seven days.
 
 ### Numbers 19:15
-Every open container, which has no covering bound on it, is unclean.
+Every open container without a cover tied on it will not be clean for worship.
 
 ### Numbers 19:16
-"Whoever in the open field touches someone killed with a sword, or a dead body, or a bone of a man, or a grave, will be unclean seven days.
+Whoever is outside and touches someone killed with a sword, a dead body, a human bone, or a grave will not be clean for worship for seven days.
 
 ### Numbers 19:17
-"For the unclean, they must take of the ashes of the burning of the offering for sin; and fresh flowing water must be poured on them in a container.
+"For the person who is not clean for worship, they must take some ashes from the burned offering for sin and pour fresh flowing water over them in a container.
 
 ### Numbers 19:18
 A clean person must take a leafy hyssop branch, dip it in the water, and sprinkle it on the tent, on all the containers, on the people who were there, and on the person who touched a bone, someone who was killed, someone who died, or a grave.
 
 ### Numbers 19:19
-The clean person must sprinkle on the unclean on the third day, and on the seventh day. On the seventh day, he must purify him. He must wash his clothes and bathe himself in water, and will be clean at evening.
+The clean person must sprinkle the water on the person not clean for worship on the third day and on the seventh day. On the seventh day, he must purify him. Then the person must wash his clothes, bathe in water, and be clean for worship in the evening.
 
 ### Numbers 19:20
-But the man who is unclean and does not purify himself, that person must be removed from among the whole group, because he has made the Lord's holy place unclean. The cleansing water has not been sprinkled on him. He is unclean.
+But if someone is not clean for worship and does not purify himself, that person must be removed from the whole group, because he has made the Lord's holy place not clean for worship. The cleansing water has not been sprinkled on him. He is not clean for worship.
 
 ### Numbers 19:21
-It will be a lasting rule for them. Whoever sprinkles the cleansing water must wash his clothes, and whoever touches the cleansing water will be unclean until evening.
+This will be a lasting rule for them. Whoever sprinkles the cleansing water must wash his clothes, and whoever touches the cleansing water will not be clean for worship until evening.
 
 ### Numbers 19:22
-"Whatever the unclean person touches will be unclean; and the person who touches it will be unclean until evening."
+Whatever the person who is not clean for worship touches will not be clean for worship, and whoever touches it will not be clean for worship until evening."

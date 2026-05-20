@@ -27,7 +27,7 @@ Moses brought their cause before the Lord.
 The Lord spoke to Moses, saying,
 
 ### Numbers 27:7
-"The daughters of Zelophehad speak right. You must surely give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
+"The daughters of Zelophehad speak right. You must give them a possession of an inheritance among their father's brothers. You must cause the inheritance of their father to pass to them.
 
 ### Numbers 27:8
 You must speak to the people of Israel, saying, 'If a man dies, and has no son, then you must cause his inheritance to pass to his daughter.
@@ -69,7 +69,7 @@ Set him before Eleazar the priest, and before all the community; and commission 
 You must give authority to him, that all the community of the people of Israel may obey.
 
 ### Numbers 27:21
-He must still count before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the community."
+He must stand before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the community."
 
 ### Numbers 27:22
 Moses did as the Lord commanded him. He took Joshua, and bring him before Eleazar the priest and before all the community.

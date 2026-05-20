@@ -51,7 +51,7 @@ for all the firstborn are mine. On the day that I struck down all the firstborn 
 The Lord spoke to Moses in the wilderness of Sinai, saying,
 
 ### Numbers 3:15
-"Count the descendants of Levi by their family houses, by their families. You must count every male from a month old and older."
+"Count the descendants of Levi by their family groups, by their families. You must count every male from a month old and older."
 
 ### Numbers 3:16
 Moses counted them according to the Lord's word, as he was commanded.
@@ -66,7 +66,7 @@ These are the names of the sons of Gershon by their families: Libni and Shimei.
 The sons of Kohath by their families: Amram, Izhar, Hebron, and Uzziel.
 
 ### Numbers 3:20
-The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family houses.
+The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family groups.
 
 ### Numbers 3:21
 Of Gershon was the family of the Libnites, and the family of the Shimeites. These are the families of the Gershonites.
@@ -78,7 +78,7 @@ Those who were counted from them, according to the number of all the males from 
 The families of the Gershonites must camp behind the tent westward.
 
 ### Numbers 3:24
-Eliasaph the son of Lael must be the leader of the family house of the Gershonites.
+Eliasaph the son of Lael must be the leader of the family group of the Gershonites.
 
 ### Numbers 3:25
 The duty of the sons of Gershon in the Tent of Meeting must be the tent, the tent, its covering, the screen for the door of the Tent of Meeting,
@@ -96,7 +96,7 @@ According to the number of all the males from a month old and older, there were 
 The families of the sons of Kohath must camp on the south side of the tent.
 
 ### Numbers 3:30
-The leader of the family house of the families of the Kohathites must be Elizaphan the son of Uzziel.
+The leader of the family group of the families of the Kohathites must be Elizaphan the son of Uzziel.
 
 ### Numbers 3:31
 Their duty must be the ark, the table, the lamp stand, the altars, the holy tent tools with which they minister, the screen, and all its service.
@@ -111,7 +111,7 @@ Of Merari was the family of the Mahlites and the family of the Mushites. These a
 Those who were counted from them, according to the number of all the males from a month old and older, were six thousand two hundred.
 
 ### Numbers 3:35
-The leader of the family house of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
+The leader of the family group of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
 
 ### Numbers 3:36
 The appointed duty of the sons of Merari must be the tent's boards, its bars, its pillars, its sockets, all its instruments, all its service,
@@ -147,16 +147,16 @@ The Lord spoke to Moses, saying,
 For the redemption of the two hundred seventy-three of the firstborn of the people of Israel who exceed the number of the Levites,
 
 ### Numbers 3:47
-you must take five silver pieces apiece for each one; according to the holy place weight you must take them (the silver piece is twenty small weight units);
+you must take five silver pieces apiece for each one; according to the weight used at the holy place you must take them (the silver piece is twenty small weight units);
 
 ### Numbers 3:48
-and you must give the money, with which their remainder is redeemed, to Aaron and to his sons."
+and you must give the money, with which their remainder is bought back, to Aaron and to his sons."
 
 ### Numbers 3:49
-Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
+Moses took the redemption money from those who exceeded the number of those who were bought back by the Levites;
 
 ### Numbers 3:50
-from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the holy place weight;
+from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the weight used at the holy place;
 
 ### Numbers 3:51
 and Moses gave the redemption money to Aaron and to his sons, according to the Lord's word, as the Lord commanded Moses.

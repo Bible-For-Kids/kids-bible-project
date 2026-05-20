@@ -18,7 +18,7 @@ The Lord spoke to Moses, saying,
 Aaron did so. He lit its lamps to light the area in front of the lamp stand, as the Lord commanded Moses.
 
 ### Numbers 8:4
-This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which the Lord had shown Moses.
+The lampstand was made from hammered gold. From its base to its flower shapes, it was hammered work. It was made just as the Lord had shown Moses.
 
 ### Numbers 8:5
 The Lord spoke to Moses, saying,
@@ -27,10 +27,10 @@ The Lord spoke to Moses, saying,
 "Take the Levites from among the people of Israel, and cleanse them.
 
 ### Numbers 8:7
-You must do this to them, to cleanse them: sprinkle the water of being made clean on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves.
+You must do this to make them clean for worship: sprinkle cleansing water on them, let them shave their whole bodies with a razor, let them wash their clothes, and let them cleanse themselves.
 
 ### Numbers 8:8
-Then let them take a young bull and its grain gift, fine flour mixed with oil; and another young bull you must take for an offering for sin.
+Then they must take a young bull with its grain gift of fine flour mixed with oil. You must take another young bull as an offering for sin.
 
 ### Numbers 8:9
 You must present the Levites before the Tent of Meeting. You must assemble the whole group of the people of Israel.
@@ -39,22 +39,22 @@ You must present the Levites before the Tent of Meeting. You must assemble the w
 You must present the Levites before the Lord. The people of Israel must lay their hands on the Levites,
 
 ### Numbers 8:11
-and Aaron must offer the Levites before the Lord for a lifted offering on the behalf of the people of Israel, that it may be theirs to do the service of the Lord.
+Aaron must lift the Levites before the Lord as an offering from the people of Israel, so they may do the Lord's service.
 
 ### Numbers 8:12
-"The Levites must lay their hands on the leaders of the bulls, and you must offer the one for an offering for sin and the other for a burned offering to the Lord, to make atonement for the Levites.
+The Levites must lay their hands on the heads of the bulls. Then you must offer one bull as an offering for sin and the other as a burned offering to the Lord, to make atonement for the Levites.
 
 ### Numbers 8:13
-You must set the Levites before Aaron and before his sons, and offer them as a lifted offering to the Lord.
+You must place the Levites before Aaron and his sons, and lift them before the Lord as an offering.
 
 ### Numbers 8:14
 Thus you must separate the Levites from among the people of Israel, and the Levites must be mine.
 
 ### Numbers 8:15
-"After that, the Levites must go in to do the service of the Tent of Meeting. You must cleanse them, and offer them as a lifted offering.
+After that, the Levites may go in to serve at the Tent of Meeting. You must cleanse them and lift them before the Lord as an offering.
 
 ### Numbers 8:16
-For they are wholly given to me from among the people of Israel; instead of all who open the womb, even the firstborn of all the people of Israel, I have taken them to me.
+They are fully given to me from among the people of Israel. I have taken the Levites for myself instead of every firstborn son in Israel.
 
 ### Numbers 8:17
 For all the firstborn among the people of Israel are mine, both people and animals. On the day that I struck all the firstborn in the land of Egypt, I made them holy for myself.
@@ -63,13 +63,13 @@ For all the firstborn among the people of Israel are mine, both people and anima
 I have taken the Levites instead of all the firstborn among the people of Israel.
 
 ### Numbers 8:19
-I have given the Levites as a gift to Aaron and to his sons from among the people of Israel, to do the service of the people of Israel in the Tent of Meeting, and to make atonement for the people, helping make things right with God for Israel, so that there will be no terrible sickness among the people of Israel when the people of Israel come near to the holy place."
+I have given the Levites as a gift to Aaron and his sons from among the people of Israel. They will do the people's service at the Tent of Meeting and make atonement for Israel, so no terrible sickness will strike the people when they come near the holy place."
 
 ### Numbers 8:20
 Moses, and Aaron, and all the people of Israel did so to the Levites. According to all that the Lord commanded Moses concerning the Levites, so the people of Israel did to them.
 
 ### Numbers 8:21
-The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for an offering lifted before the Lord and Aaron made atonement for them to cleanse them.
+The Levites cleansed themselves and washed their clothes. Aaron lifted them before the Lord as an offering, and Aaron made atonement for them to cleanse them.
 
 ### Numbers 8:22
 After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as the Lord had commanded Moses concerning the Levites, so they did to them.
@@ -78,10 +78,10 @@ After that, the Levites went in to do their service in the Tent of Meeting befor
 The Lord spoke to Moses, saying,
 
 ### Numbers 8:24
-"This is what is assigned to the Levites: from twenty-five years old and upward they must go in to wait on the service in the work of the Tent of Meeting;
+"This is what belongs to the Levites: from twenty-five years old and older, they must come to serve in the work of the Tent of Meeting.
 
 ### Numbers 8:25
 and from the age of fifty years they must retire from doing the work, and must serve no more,
 
 ### Numbers 8:26
-but must assist their brothers in the Tent of Meeting, to perform the duty, and must perform no service. This is how you must have the Levites do their duties."
+They may help their brothers at the Tent of Meeting and keep the duties, but they must not do the heavy service work. This is how you must have the Levites do their duties."

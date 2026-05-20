@@ -105,7 +105,7 @@ A wind from the Lord went out and brought quails from the sea, and let them fall
 The people rose up all that day, and all of that night, and all the next day, and gathered the quails. Whoever gathered least gathered a huge amount; and they spread them all out for themselves around the camp.
 
 ### Numbers 11:33
-While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very great terrible sickness.
+While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very terrible sickness.
 
 ### Numbers 11:34
 The name of that place was called Kibroth Hattaavah, because there they buried the people who craved.

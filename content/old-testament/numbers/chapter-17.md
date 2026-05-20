@@ -1,7 +1,7 @@
 # Numbers Chapter 17
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 17 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord tells each tribe to bring a staff, and Aaron's staff buds, blossoms, and produces almonds.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -35,10 +35,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 17:2 - "Speak to the children of Israel, and take rods from them, one for each fathers' house, of all their princes according to their fathers' houses, twelve rods. Write each man's name on his rod.
 
 #### Ages 5-7
-"Speak to the people of Israel, and take rods from them, one for each family house, of all their leaders according to their family houses, twelve rods. Write each man's name on his rod.
+"Speak to the people of Israel, and take rods from them, one for each family group, of all their leaders according to their family groups, twelve rods. Write each man's name on his rod.
 
 #### Ages 8-10
-"Speak to the people of Israel, and take rods from them, one for each family house, of all their princes according to their family houses, twelve rods. Write each man's name on his rod.
+"Speak to the people of Israel, and take rods from them, one for each family group, of all their princes according to their family groups, twelve rods. Write each man's name on his rod.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -52,10 +52,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 17:3 - You shall write Aaron's name on Levi's rod. There shall be one rod for each head of their fathers' houses.
 
 #### Ages 5-7
-You must write Aaron's name on Levi's rod. There must be one rod for each head of their family houses.
+You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups.
 
 #### Ages 8-10
-You must write Aaron's name on Levi's rod. There must be one rod for each head of their family houses.
+You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -103,10 +103,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 17:6 - Moses spoke to the children of Israel; and all their princes gave him rods, for each prince one, according to their fathers' houses, a total of twelve rods. Aaron's rod was among their rods.
 
 #### Ages 5-7
-Moses spoke to the people of Israel; and all their leaders gave him rods, for each leader one, according to their family houses, a total of twelve rods. Aaron's rod was among their rods.
+Moses spoke to the people of Israel; and all their leaders gave him rods, for each leader one, according to their family groups, a total of twelve rods. Aaron's rod was among their rods.
 
 #### Ages 8-10
-Moses spoke to the people of Israel; and all their princes gave him rods, for each prince one, according to their family houses, a total of twelve rods. Aaron's rod was among their rods.
+Moses spoke to the people of Israel; and all their princes gave him rods, for each prince one, according to their family groups, a total of twelve rods. Aaron's rod was among their rods.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -253,19 +253,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 17 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Moses laid up the rods before the Lord in the Tent of the Testimony.," and closes with "Everyone who keeps approaching the Lord's tent, dies! Will we all perish?." Review this summary for fuller theological detail before approval.
+The Lord tells each tribe to bring a staff, and Aaron's staff buds, blossoms, and produces almonds. This sign confirms that the Lord has chosen Aaron's family for priestly service and warns Israel to stop grumbling.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God confirms his choice**: Aaron's living staff shows the Lord's decision.
+2. **God warns to protect life**: The sign calls Israel away from grumbling that brings death.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-You must write Aaron's name on Levi's rod. There must be one rod for each head of their family houses. - Numbers 17:3
+You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups. - Numbers 17:3
 
 ### Ages 8-10
-You must write Aaron's name on Levi's rod. There must be one rod for each head of their family houses. - Numbers 17:3
+You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups. - Numbers 17:3
 
 ## Discussion Questions by Age
 
@@ -279,7 +279,3 @@ You must write Aaron's name on Levi's rod. There must be one rod for each head o
 
 ## Prayer
 Lord, help us understand Numbers 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

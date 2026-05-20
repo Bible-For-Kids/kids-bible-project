@@ -1,7 +1,7 @@
 # Numbers Chapter 12
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 12 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on miriam and Aaron speak against Moses, but the Lord defends Moses as his faithful servant.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -299,11 +299,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 12 is a draft resource chapter. The chapter opens with "Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had...," moves through "The Lord's anger burned against them; and he departed.," and closes with "Afterward the people traveled from Hazeroth, and camped in the wilderness of Paran.." Review this summary for fuller theological detail before approval.
+Miriam and Aaron speak against Moses, but the Lord defends Moses as his faithful servant. Miriam is struck with a serious skin disease, Moses prays for her, and the camp waits until she is restored.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God defends his servant**: Moses does not have to fight for his own honor.
+2. **God hears humble prayer**: Moses asks the Lord to heal Miriam after she has sinned.
 
 ## Memory Verses by Age
 
@@ -325,7 +325,3 @@ Miriam and Aaron spoke against Moses because of the Cushite woman whom he had ma
 
 ## Prayer
 Lord, help us understand Numbers 12 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

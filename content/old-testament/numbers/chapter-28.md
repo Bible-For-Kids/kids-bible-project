@@ -1,7 +1,7 @@
 # Numbers Chapter 28
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 28 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives Israel the regular offerings for each day, each Sabbath, each new month, Passover, and the Feast of Weeks.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -89,7 +89,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:5 - with one tenth of an ephah of fine flour for a meal offering, mixed with the fourth part of a hin of beaten oil.
 
 #### Ages 5-7
-with one tenth-measure of fine flour for a grain gift, mixed with one fourth-measure of beaten oil.
+with a small measured amount of fine flour for a grain gift, mixed with one fourth-measure of beaten oil.
 
 #### Ages 8-10
 with one tenth-measure of fine flour for a grain offering, mixed with one fourth-measure of beaten oil.
@@ -126,10 +126,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:7 - Its drink offering shall be the fourth part of a hin for each lamb. You shall pour out a drink offering of strong drink to Yahweh in the holy place.
 
 #### Ages 5-7
-Its drink gift must be one fourth-measure for each lamb. You must pour out a drink gift of strong drink to the Lord in the holy place.
+Its drink gift must be one fourth-measure for each lamb. You must pour out a drink gift of drink that can make someone drunk to the Lord in the holy place.
 
 #### Ages 8-10
-Its drink offering must be one fourth-measure for each lamb. You must pour out a drink offering of strong drink to the Lord in the holy place.
+Its drink offering must be one fourth-measure for each lamb. You must pour out a drink offering of drink that can make someone drunk to the Lord in the holy place.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -166,7 +166,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:9 - " 'On the Sabbath day, you shall offer two male lambs a year old without defect, and two tenths of an ephah of fine flour for a meal offering mixed with oil, and its drink offering:
 
 #### Ages 5-7
-"On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two tenth-measures of fine flour for a grain gift mixed with oil, and its drink gift:
+"On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two small measured amounts of fine flour for a grain gift mixed with oil, and its drink gift:
 
 #### Ages 8-10
 "On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two tenth-measures of fine flour for a grain offering mixed with oil, and its drink offering:
@@ -221,7 +221,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:12 - and three tenths of an ephah of fine flour for a meal offering mixed with oil, for each bull; and two tenth parts of fine flour for a meal offering mixed with oil, for the one ram;
 
 #### Ages 5-7
-and three tenth-measures of fine flour for a grain gift mixed with oil, for each bull; and two tenths of fine flour for a grain gift mixed with oil, for the one male sheep;
+and three small measured amounts of fine flour for a grain gift mixed with oil, for each bull; and two tenths of fine flour for a grain gift mixed with oil, for the one male sheep;
 
 #### Ages 8-10
 and three tenth-measures of fine flour for a grain offering mixed with oil, for each bull; and two tenths of fine flour for a grain offering mixed with oil, for the one male sheep;
@@ -275,7 +275,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:15 - Also, one male goat for a sin offering to Yahweh shall be offered in addition to the continual burnt offering and its drink offering.
 
 #### Ages 5-7
-Also, one male goat for an offering for sin to the Lord must be offered in addition to the continual burned offering and its drink gift.
+Also, one male goat as an offering for sin to the Lord must be offered in addition to the continual burned offering and its drink gift.
 
 #### Ages 8-10
 Also, one male goat for a sin offering to the Lord must be offered in addition to the continual burned offering and its drink offering.
@@ -396,7 +396,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:22 - and one male goat for a sin offering, to make atonement for you.
 
 #### Ages 5-7
-and one male goat for an offering for sin, to make atonement for you, to help make things right with God.
+and one male goat as an offering for sin, to make atonement for you, to help make things right with God.
 
 #### Ages 8-10
 and one male goat for a sin offering, to make atonement for you.
@@ -433,10 +433,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:24 - In this way you shall offer daily, for seven days, the food of the offering made by fire, of a pleasant aroma to Yahweh. It shall be offered in addition to the continual burnt offering and its drink offering.
 
 #### Ages 5-7
-In this way you must offer daily, for seven days, the food of the offering burned on the altar, of a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink gift.
+In this way you must offer daily, for seven days, the food of the offering burned on the altar, a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink gift.
 
 #### Ages 8-10
-In this way you must offer daily, for seven days, the food of the offering burned on the altar, of a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink offering.
+In this way you must offer daily, for seven days, the food of the offering burned on the altar, a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink offering.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -572,16 +572,16 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 28 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "In the first month, on the fourteenth day of the month, is the Lord's Passover.," and closes with "Besides the continual burned offering and its grain offering, you must offer them and their drink...." Review this summary for fuller theological detail before approval.
+The Lord gives Israel the regular offerings for each day, each Sabbath, each new month, Passover, and the Feast of Weeks. Israel's calendar is shaped by worship, remembrance, and offerings brought before the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Worship is steady**: Daily, weekly, monthly, and yearly offerings keep Israel before the Lord.
+2. **God orders Israel's time**: The feasts teach the people to remember him together.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-with one tenth-measure of fine flour for a grain gift, mixed with one fourth-measure of beaten oil. - Numbers 28:5
+with a small measured amount of fine flour for a grain gift, mixed with one fourth-measure of beaten oil. - Numbers 28:5
 
 ### Ages 8-10
 with one tenth-measure of fine flour for a grain offering, mixed with one fourth-measure of beaten oil. - Numbers 28:5
@@ -598,7 +598,3 @@ with one tenth-measure of fine flour for a grain offering, mixed with one fourth
 
 ## Prayer
 Lord, help us understand Numbers 28 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

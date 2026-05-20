@@ -108,7 +108,7 @@ The Lord spoke to Moses.
 "Whoever mixes oil like it, or puts any of it on someone who is not allowed to receive it, must be cut off from his people."
 
 ### Exodus 30:34
-The Lord said to Moses, "Take fragrant spices: stacte, onycha, galbanum, and pure frankincense, each in equal amounts."
+The Lord said to Moses, "Take fragrant spices: stacte, onycha, galbanum, and pure sweet-smelling incense, each in equal amounts."
 
 ### Exodus 30:35
 "Make it into sweet-smelling incense, a fragrant blend made by a perfumer, blended together, pure and holy."

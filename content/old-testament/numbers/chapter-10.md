@@ -1,7 +1,7 @@
 # Numbers Chapter 10
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 10 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives silver trumpets to gather the people, signal travel, sound alarm in war, and mark worship days.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -139,10 +139,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 10:9 - When you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets. Then you will be remembered before Yahweh your God, and you will be saved from your enemies.
 
 #### Ages 5-7
-When you go to war in your land against the adversary who oppresses you, then you must sound an alarm with the trumpets. Then you will be remembered before the Lord your God, and you will be saved from your enemies.
+When you go to war in your land against an enemy who presses hard against you, sound the alarm with the trumpets. Then the Lord your God will remember you and save you from your enemies.
 
 #### Ages 8-10
-When you go to war in your land against the adversary who oppresses you, then you must sound an alarm with the trumpets. Then you will be remembered before the Lord your God, and you will be saved from your enemies.
+When you go to war in your land against an enemy who oppresses you, sound the alarm with the trumpets. Then the Lord your God will remember you and save you from your enemies.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -158,10 +158,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 10:10 - "Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am Yahweh your God."
 
 #### Ages 5-7
-"Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you must blow the trumpets over your burned offerings, and over the sacrifices of your peace offerings; and they will be a memorial for you before your God. I am the Lord your God."
+"On your glad days, at your set feasts, and at the beginning of each month, blow the trumpets over your burned offerings and peace offerings. They will be a reminder for you before your God. I am the Lord your God."
 
 #### Ages 8-10
-"Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you must blow the trumpets over your burned offerings, and over the sacrifices of your peace offerings; and they will be a memorial for you before your God. I am the Lord your God."
+"On your glad days, at your set feasts, and at the beginning of each month, blow the trumpets over your burned offerings and peace offerings. They will be a reminder for you before your God. I am the Lord your God."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -595,11 +595,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 10 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Shelumiel the son of Zurishaddai was over the army of the tribe of Simeon.," and closes with "When it rested, he said, "Return, the Lord, to the ten thousands of the thousands of Israel.." Review this summary for fuller theological detail before approval.
+The Lord gives silver trumpets to gather the people, signal travel, sound alarm in war, and mark worship days. Then Israel leaves Sinai in ordered camps, with the ark going before them as Moses prays for the Lord to rise up and be with his people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God guides movement and worship**: The trumpets help Israel gather, travel, and remember the Lord.
+2. **God goes before his people**: The ark leads as Israel begins the next part of the wilderness journey.
 
 ## Memory Verses by Age
 
@@ -621,7 +621,3 @@ When they blow them, all the community must gather themselves to you at the door
 
 ## Prayer
 Lord, help us understand Numbers 10 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

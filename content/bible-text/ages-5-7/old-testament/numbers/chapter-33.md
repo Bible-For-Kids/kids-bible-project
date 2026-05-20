@@ -126,7 +126,7 @@ Aaron the priest went up into Mount Hor at the command of the Lord and died ther
 Aaron was one hundred twenty-three years old when he died in Mount Hor.
 
 ### Numbers 33:40
-The Canaanite king of Arad, who lived in the South in the land of Canaan, heard of the coming of the people of Israel.
+The Canaanite king of Arad, who lived in the southern land in the land of Canaan, heard of the coming of the people of Israel.
 
 ### Numbers 33:41
 They traveled from Mount Hor, and camped in Zalmonah.

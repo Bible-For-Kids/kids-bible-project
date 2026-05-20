@@ -1,7 +1,7 @@
 # Numbers Chapter 2
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 2 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord arranges Israel's camp around the Tent of Meeting, with each tribe under its banner and in its appointed place.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -36,10 +36,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 2:2 - "The children of Israel shall encamp every man by his own standard, with the banners of their fathers' houses. They shall encamp around the Tent of Meeting at a distance from it."
 
 #### Ages 5-7
-"The people of Israel must camp every man by his own banner, with the banners of their family houses. They must camp around the Tent of Meeting at a distance from it."
+"The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it."
 
 #### Ages 8-10
-"The people of Israel must camp every man by his own banner, with the banners of their family houses. They must camp around the Tent of Meeting at a distance from it."
+"The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -462,10 +462,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 2:32 - These are those who were counted of the children of Israel by their fathers' houses. All who were counted of the camps according to their armies were six hundred three thousand five hundred fifty.
 
 #### Ages 5-7
-These are those counted from the people of Israel by their family houses. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
+These are those counted from the people of Israel by their family groups. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
 
 #### Ages 8-10
-These are those counted from the people of Israel by their family houses. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
+These are those counted from the people of Israel by their family groups. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -500,10 +500,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 2:34 - Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers' houses.
 
 #### Ages 5-7
-Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family houses.
+Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family groups.
 
 #### Ages 8-10
-Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family houses.
+Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family groups.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -517,19 +517,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 2 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and to Aaron, saying,," moves through "On the west side must be the banner of the camp of Ephraim according to their divisions. The lead...," and closes with "Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by...." Review this summary for fuller theological detail before approval.
+The Lord arranges Israel's camp around the Tent of Meeting, with each tribe under its banner and in its appointed place. When Israel camps and when Israel travels, the Lord keeps his people ordered around his presence.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God gives order to his people**: The tribes do not arrange themselves however they want; they camp as the Lord commands.
+2. **God's presence is central**: The holy tent stands at the center of Israel's camp.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"The people of Israel must camp every man by his own banner, with the banners of their family houses. They must camp around the Tent of Meeting at a distance from it." - Numbers 2:2
+"The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it." - Numbers 2:2
 
 ### Ages 8-10
-"The people of Israel must camp every man by his own banner, with the banners of their family houses. They must camp around the Tent of Meeting at a distance from it." - Numbers 2:2
+"The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it." - Numbers 2:2
 
 ## Discussion Questions by Age
 
@@ -543,7 +543,3 @@ Numbers 2 is a draft resource chapter. The chapter opens with "The Lord spoke to
 
 ## Prayer
 Lord, help us understand Numbers 2 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

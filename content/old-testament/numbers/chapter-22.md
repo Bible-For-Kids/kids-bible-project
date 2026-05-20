@@ -1,7 +1,7 @@
 # Numbers Chapter 22
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 22 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on balak fears Israel and sends for Balaam to curse them, but God tells Balaam to speak only the word he gives.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -359,10 +359,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 22:22 - God's anger burned because he went; and Yahweh's angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
 
 #### Ages 5-7
-God's anger burned because he went; and the Lord's angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
+God's anger burned because Balaam went. The Lord's angel stood in the road against him. Balaam was riding on his donkey, and his two servants were with him.
 
 #### Ages 8-10
-God's anger burned because he went; and the Lord's angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.
+God's anger burned because Balaam went. The Lord's angel stood in the road against him. Balaam was riding on his donkey, and his two servants were with him.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -532,10 +532,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 22:32 - Yahweh's angel said to him, "Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me.
 
 #### Ages 5-7
-The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out as an adversary, because your way is perverse before me.
+The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out to stand against you, because your way is wrong before me.
 
 #### Ages 8-10
-The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out as an adversary, because your way is perverse before me.
+The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out to stand against you, because your way is wrong before me.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -550,10 +550,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 22:33 - The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive."
 
 #### Ages 5-7
-The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive."
+The donkey saw me and turned away from me these three times. If she had not turned away, I would have killed you by now and kept her alive."
 
 #### Ages 8-10
-The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive."
+The donkey saw me and turned away from me these three times. If she had not turned away, I would have killed you by now and kept her alive."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -684,11 +684,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 22 is a draft resource chapter. The chapter opens with "The people of Israel traveled, and camped in the plains of Moab beyond the Jordan at Jericho.," moves through "Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.," and closes with "In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw fr...." Review this summary for fuller theological detail before approval.
+Balak fears Israel and sends for Balaam to curse them, but God tells Balaam to speak only the word he gives. On the road, the Lord opens the donkey's mouth and Balaam's eyes, showing that Balaam is under God's rule.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God rules over curses and blessings**: Balaam cannot speak against the Lord's command.
+2. **God opens blind eyes**: The donkey sees the angel before Balaam does.
 
 ## Memory Verses by Age
 
@@ -710,7 +710,3 @@ The people of Israel traveled, and camped in the plains of Moab beyond the Jorda
 
 ## Prayer
 Lord, help us understand Numbers 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

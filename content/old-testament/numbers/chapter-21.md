@@ -1,7 +1,7 @@
 # Numbers Chapter 21
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 21 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel faces enemies, complains again, and suffers from fiery serpents.
 
 ## Important Keywords
 - desert: A dry wilderness place
@@ -16,10 +16,10 @@ Numbers follows Israel through the wilderness, showing the people counted, teste
 **Original Reference**: Numbers 21:1 - The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
 #### Ages 5-7
-The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
+The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
 #### Ages 8-10
-The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
+The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -593,19 +593,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 21 is a draft resource chapter. The chapter opens with "The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Ath...," moves through "the well, which the princes dug, which the nobles of the people dug, with the scepter, and with t...," and closes with "So they struck him, with his sons and all his people, until there were no survivors; and they pos...." Review this summary for fuller theological detail before approval.
+Israel faces enemies, complains again, and suffers from fiery serpents. When Moses prays, the Lord provides the bronze serpent for healing, then leads Israel onward and gives victory over Sihon and Og.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Sin needs rescue**: The people cannot heal themselves from the serpents.
+2. **God gives victory**: The Lord leads Israel through danger and defeats powerful kings.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive. - Numbers 21:1
+The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive. - Numbers 21:1
 
 ### Ages 8-10
-The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive. - Numbers 21:1
+The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive. - Numbers 21:1
 
 ## Discussion Questions by Age
 
@@ -619,7 +619,3 @@ The Canaanite, the king of Arad, who lived in the South, heard that Israel came 
 
 ## Prayer
 Lord, help us understand Numbers 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

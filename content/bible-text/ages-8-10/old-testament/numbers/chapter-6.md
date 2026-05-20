@@ -12,46 +12,46 @@ Numbers
 The Lord spoke to Moses, saying,
 
 ### Numbers 6:2
-"Speak to the people of Israel, and tell them: 'When either a man or a woman makes a special Nazirite promise, to separate himself to the Lord,
+"Speak to the people of Israel and tell them: When a man or woman makes a special Nazirite vow to be set apart for the Lord,
 
 ### Numbers 6:3
-he must separate himself from wine and strong drink. He must drink no vinegar of wine, or vinegar of fermented drink, neither must he drink any juice of grapes, nor eat fresh grapes or dried.
+that person must stay away from wine and other drink that can make someone drunk. He must not drink vinegar made from wine or another drink that can make someone drunk, and he must not drink grape juice or eat grapes, fresh or dried.
 
 ### Numbers 6:4
-All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins.
+During all the days of his Nazirite vow, he must eat nothing from the grapevine, not even the seeds or skins.
 
 ### Numbers 6:5
-"All the days of his serious promise of separation no razor will come on his head, until the days are fulfilled in which he separates himself to the Lord. He will be holy. He must let the locks of the hair of his head grow long.
+During all the days of his special vow, no razor must touch his head. Until the days he promised to the Lord are finished, he must be holy and let the hair on his head grow long.
 
 ### Numbers 6:6
 "All the days that he separates himself to the Lord he must not go near a dead body.
 
 ### Numbers 6:7
-He must not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.
+He must not make himself unclean for his father, mother, brother, or sister when they die, because the sign of his separation to God is on his head.
 
 ### Numbers 6:8
 All the days of his separation he is holy to the Lord.
 
 ### Numbers 6:9
-"If any man dies very suddenly beside him, and his special separation becomes unclean, then he must shave his head on the day he is made clean. On the seventh day he must shave it.
+"If someone dies very suddenly beside him and his special separation becomes unclean, he must shave his head on the day he is made clean. On the seventh day, he must shave it.
 
 ### Numbers 6:10
 On the eighth day he must bring two doves or two young pigeons to the priest, to the door of the Tent of Meeting.
 
 ### Numbers 6:11
-The priest must offer one for a sin offering, and the other for a burned offering, and make atonement for him, because he sinned because of the dead body, and must make his head holy that same day.
+The priest must offer one bird as a sin offering and the other as a burned offering. The priest must make atonement for him because of the dead body, and the man must make his head holy again that same day.
 
 ### Numbers 6:12
-He must separate to the Lord the days of his separation, and must bring a male lamb a year old for a guilt offering; but the former days will not count, because his separation was made unclean.
+He must begin again the days of his separation to the Lord and bring a year-old male lamb as a guilt offering. The earlier days will not count, because his separation became unclean.
 
 ### Numbers 6:13
 "This is the law of the Nazirite: when the days of his separation are fulfilled, he must be brought to the door of the Tent of Meeting,
 
 ### Numbers 6:14
-and he must offer his offering to the Lord: one male lamb a year old with nothing wrong with it as a burned offering, one female lamb a year old with nothing wrong with it for a sin offering, one male sheep with nothing wrong with it for peace offerings,
+He must bring his offering to the Lord: one year-old male lamb without defect as a burned offering, one year-old female lamb without defect as a sin offering, and one male sheep without defect as a peace offering.
 
 ### Numbers 6:15
-a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their grain offering and their drink offerings.
+He must also bring a basket of bread made without yeast: cakes of fine flour mixed with oil, and thin wafers spread with oil, along with their grain offering and drink offerings.
 
 ### Numbers 6:16
 The priest must present them before the Lord, and must offer his sin offering and his burned offering.
@@ -60,16 +60,16 @@ The priest must present them before the Lord, and must offer his sin offering an
 He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
 
 ### Numbers 6:18
-The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair he shaved from his separated head, and put it on the fire which is under the sacrifice of peace offerings.
+The Nazirite must shave the hair of his separation at the door of the Tent of Meeting. Then he must take the hair shaved from his head and put it on the fire under the peace offering.
 
 ### Numbers 6:19
-The priest must take the boiled shoulder of the male sheep, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
+After the Nazirite has shaved the hair of his separation, the priest must take the boiled shoulder of the male sheep, one cake without yeast from the basket, and one thin wafer without yeast, and put them in the Nazirite's hands.
 
 ### Numbers 6:20
 and the priest must lift them before the Lord as an offering. They are holy for the priest, together with the breast lifted before the Lord and the thigh that is offered. After that the Nazirite may drink wine.
 
 ### Numbers 6:21
-"This is the law of the Nazirite who makes a serious promise and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his serious promise which he makes, so he must do after the law of his separation.' "
+"This is the law for the Nazirite who makes a vow and brings his offering to the Lord for his separation, besides anything else he can afford. He must do what he vowed according to the law of his separation.' "
 
 ### Numbers 6:22
 The Lord spoke to Moses, saying,

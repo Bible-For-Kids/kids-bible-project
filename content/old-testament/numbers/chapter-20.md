@@ -1,7 +1,7 @@
 # Numbers Chapter 20
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 20 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on miriam dies, the people quarrel for water, and Moses strikes the rock instead of honoring the Lord as commanded.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -530,11 +530,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 20 is a draft resource chapter. The chapter opens with "The people of Israel, even the whole community, came into the wilderness of Zin in the first mont...," moves through "how our fathers went down into Egypt, and we lived in Egypt a long time. The Egyptians mistreated...," and closes with "When all the community saw that Aaron was dead, they wept for Aaron thirty days, even all the hou...." Review this summary for fuller theological detail before approval.
+Miriam dies, the people quarrel for water, and Moses strikes the rock instead of honoring the Lord as commanded. The Lord still gives water, but Moses and Aaron are told they will not bring the people into the land; later Aaron dies on Mount Hor.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God is holy**: Even Moses must honor the Lord in front of the people.
+2. **God still provides**: The Lord gives water to the thirsty people despite their quarrel.
 
 ## Memory Verses by Age
 
@@ -556,7 +556,3 @@ The people of Israel, even the whole community, came into the wilderness of Zin 
 
 ## Prayer
 Lord, help us understand Numbers 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

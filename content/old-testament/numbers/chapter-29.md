@@ -1,7 +1,7 @@
 # Numbers Chapter 29
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 29 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives the offerings for the seventh month, including the day of trumpet sound, the day of atonement, and the feast with many offerings over seven days.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -83,7 +83,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:5 - and one male goat for a sin offering, to make atonement for you;
 
 #### Ages 5-7
-and one male goat for an offering for sin, to make atonement for you, to help make things right with God;
+and one male goat as an offering for sin, to make atonement for you, to help make things right with God;
 
 #### Ages 8-10
 and one male goat for a sin offering, to make atonement for you;
@@ -191,7 +191,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:11 - one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burnt offering, and its meal offering, and their drink offerings.
 
 #### Ages 5-7
-one male goat for an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts.
+one male goat as an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts.
 
 #### Ages 8-10
 one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burned offering, and its grain offering, and their drink offerings.
@@ -229,10 +229,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:13 - You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect;
 
 #### Ages 5-7
-You must offer a burned offering, an offering burned on the altar, of a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
+You must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
 
 #### Ages 8-10
-You must offer a burned offering, an offering burned on the altar, of a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
+You must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -280,7 +280,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:16 - and one male goat for a sin offering, in addition to the continual burnt offering, its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin, in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, its grain offering, and its drink offering.
@@ -330,7 +330,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:19 - and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering and their drink offerings.
 
 #### Ages 5-7
-and one male goat for an offering for sin, in addition to the continual burned offering, with its grain gift and their drink gifts.
+and one male goat as an offering for sin, in addition to the continual burned offering, with its grain gift and their drink gifts.
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering and their drink offerings.
@@ -380,7 +380,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:22 - and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, and its grain offering, and its drink offering.
@@ -430,7 +430,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:25 - and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and its drink offering.
@@ -480,7 +480,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:28 - and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, and its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, and its grain offering, and its drink offering.
@@ -530,7 +530,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:31 - and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and the drink offerings of it.
 
 #### Ages 5-7
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and the drink gifts of it.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and the its drink gifts.
 
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and the drink offerings of it.
@@ -580,7 +580,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:34 - and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
+and one male goat as an offering for sin; in addition to the continual burned offering, its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and its drink offering.
@@ -650,7 +650,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:38 - and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering, and its drink offering.
 
 #### Ages 5-7
-and one male goat for an offering for sin, in addition to the continual burned offering, with its grain gift, and its drink gift.
+and one male goat as an offering for sin, in addition to the continual burned offering, with its grain gift, and its drink gift.
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering, and its drink offering.
@@ -668,10 +668,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:39 - " 'You shall offer these to Yahweh in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.' "
 
 #### Ages 5-7
-"You must offer these to the Lord in your set feasts-in addition to your serious promises and your free will offerings-for your burned offerings, your meal offerings, your drink gifts, and your peace offerings.' "
+"You must offer these to the Lord in your set feasts, in addition to your serious promises and your gifts people choose to bring-for your burned offerings, your grain gifts, your drink gifts, and your peace offerings.' "
 
 #### Ages 8-10
-"You must offer these to the Lord in your set feasts-in addition to your serious promises and your free will offerings-for your burned offerings, your meal offerings, your drink offerings, and your peace offerings.' "
+"You must offer these to the Lord in your set feasts, in addition to your serious promises and your gifts people choose to bring-for your burned offerings, your grain offerings, your drink offerings, and your peace offerings.' "
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -703,16 +703,16 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 29 is a draft resource chapter. The chapter opens with "In the seventh month, on the first day of the month, you must have a holy gathering; you must do...," moves through "and their grain offering and their drink offerings for the bulls, for the male sheep, and for the...," and closes with "Moses told the people of Israel according to all that the Lord commanded Moses.." Review this summary for fuller theological detail before approval.
+The Lord gives the offerings for the seventh month, including the day of trumpet sound, the day of atonement, and the feast with many offerings over seven days. The repeated offerings show worship that is costly, ordered, and centered on the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God is worshiped with reverence**: The offerings are carefully counted and brought as he commands.
+2. **God gives holy seasons**: The seventh month gathers Israel for worship, rest, and atonement.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-one male goat for an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts. - Numbers 29:11
+one male goat as an offering for sin, in addition to the offering for sin of atonement, and the continual burned offering, and its grain gift, and their drink gifts. - Numbers 29:11
 
 ### Ages 8-10
 one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burned offering, and its grain offering, and their drink offerings. - Numbers 29:11
@@ -729,7 +729,3 @@ one male goat for a sin offering, in addition to the sin offering of atonement, 
 
 ## Prayer
 Lord, help us understand Numbers 29 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -1,7 +1,7 @@
 # Numbers Chapter 31
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 31 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord commands judgment on Midian because of the sin at Peor.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -52,10 +52,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:3 - Moses spoke to the people, saying, "Arm men from among you for war, that they may go against Midian, to execute Yahweh's vengeance on Midian.
 
 #### Ages 5-7
-Moses spoke to the people, saying, "Arm men from among you for war, that they may go against Midian, to execute the Lord's vengeance on Midian.
+Moses told the people, "Choose men from among you and arm them for battle. They must go against Midian to carry out the Lord's vengeance on Midian.
 
 #### Ages 8-10
-Moses spoke to the people, saying, "Arm men from among you for war, that they may go against Midian, to execute the Lord's vengeance on Midian.
+Moses told the people, "Choose men from among you and arm them for battle. They must go against Midian to carry out the Lord's vengeance on Midian.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -71,10 +71,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:4 - You shall send one thousand out of every tribe, throughout all the tribes of Israel, to the war."
 
 #### Ages 5-7
-You must send one thousand out of every tribe, throughout all the tribes of Israel, to the war."
+You must send one thousand out of every tribe, throughout all the tribes of Israel, to the battle."
 
 #### Ages 8-10
-You must send one thousand out of every tribe, throughout all the tribes of Israel, to the war."
+You must send one thousand out of every tribe, throughout all the tribes of Israel, to the battle."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -88,10 +88,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:5 - So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war.
 
 #### Ages 5-7
-So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war.
+So Israel gave one thousand men from each tribe, twelve thousand men armed for battle.
 
 #### Ages 8-10
-So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war.
+So Israel gave one thousand men from each tribe, twelve thousand men armed for battle.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -105,10 +105,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:6 - Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the vessels of the sanctuary and the trumpets for the alarm in his hand.
 
 #### Ages 5-7
-Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the holy tent tools and the trumpets for the alarm in his hand.
+Moses sent them, one thousand of every tribe, to the battle with Phinehas the son of Eleazar the priest, to the battle, with the holy tent tools and the trumpets for the alarm in his hand.
 
 #### Ages 8-10
-Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the holy tent tools and the trumpets for the alarm in his hand.
+Moses sent them, one thousand of every tribe, to the battle with Phinehas the son of Eleazar the priest, to the battle, with the holy tent tools and the trumpets for the alarm in his hand.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -174,10 +174,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:10 - All their cities in the places in which they lived, and all their encampments, they burned with fire.
 
 #### Ages 5-7
-All their cities in the places in which they lived, and all their encampments, they burned with fire.
+All their cities in the places in which they lived, and all their camps, they burned with fire.
 
 #### Ages 8-10
-All their cities in the places in which they lived, and all their encampments, they burned with fire.
+All their cities in the places in which they lived, and all their camps, they burned with fire.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -239,10 +239,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:14 - Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war.
 
 #### Ages 5-7
-Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war.
+Moses was angry with the army officers, the captains of thousands and hundreds, who came back from the battle.
 
 #### Ages 8-10
-Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war.
+Moses was angry with the army officers, the captains of thousands and hundreds, who came back from the battle.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -273,10 +273,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:16 - Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and so the plague was among the congregation of Yahweh.
 
 #### Ages 5-7
-These caused the people of Israel, through the counsel of Balaam, to act unfaithfully against the Lord in the matter of Peor, and so the terrible sickness was among the whole group of the Lord.
+These women followed Balaam's counsel and led the people of Israel to act unfaithfully against the Lord at Peor. That is why the terrible sickness came among the Lord's whole group.
 
 #### Ages 8-10
-These caused the people of Israel, through the counsel of Balaam, to act unfaithfully against the Lord in the matter of Peor, and so the terrible sickness was among the community of the Lord.
+These women followed Balaam's counsel and led the people of Israel to act unfaithfully against the Lord at Peor. That is why the plague came among the Lord's community.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -292,10 +292,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:17 - Now therefore kill every male among the little ones, and kill every woman who has known man by lying with him.
 
 #### Ages 5-7
-Now therefore kill every male among the little ones, and kill every woman who has had sexual relations with a man.
+Now kill every male among the little ones, and kill every woman who has lived as a man's wife.
 
 #### Ages 8-10
-Now therefore kill every male among the little ones, and kill every woman who has had sexual relations with a man.
+Now kill every male among the little ones, and kill every woman who has had sexual relations with a man.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -306,10 +306,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:18 - But all the girls, who have not known man by lying with him, keep alive for yourselves.
 
 #### Ages 5-7
-But all the girls, who have not had sexual relations with a man, keep alive for yourselves.
+But keep alive for yourselves all the girls who have not lived as a man's wife.
 
 #### Ages 8-10
-But all the girls, who have not had sexual relations with a man, keep alive for yourselves.
+But keep alive for yourselves all the girls who have not had sexual relations with a man.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -320,10 +320,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:19 - "Encamp outside of the camp for seven days. Whoever has killed any person, and whoever has touched any slain, purify yourselves on the third day and on the seventh day, you and your captives.
 
 #### Ages 5-7
-"Encamp outside of the camp for seven days. Whoever has killed any person, and whoever has touched any slain, purify yourselves on the third day and on the seventh day, you and your captives.
+"Stay outside the camp for seven days. Whoever killed anyone, and whoever touched someone who was killed, must purify himself on the third day and on the seventh day. Your captives must do the same.
 
 #### Ages 8-10
-"Encamp outside of the camp for seven days. Whoever has killed any person, and whoever has touched any slain, purify yourselves on the third day and on the seventh day, you and your captives.
+"Stay outside the camp for seven days. Whoever killed anyone, and whoever touched someone who was killed, must purify himself on the third day and on the seventh day. Your captives must do the same.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -383,10 +383,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:23 - everything that may withstand the fire, you shall make to go through the fire, and it shall be clean; nevertheless it shall be purified with the water for impurity. All that doesn't withstand the fire you shall make to go through the water.
 
 #### Ages 5-7
-everything that may withstand the fire, you must make to go through the fire, and it will be clean; nevertheless it must be purified with the cleansing water. All that doesn't withstand the fire you must make to go through the water.
+Everything that can go through fire must pass through fire, and it will be clean. But it must also be purified with cleansing water. Everything that cannot go through fire must pass through water.
 
 #### Ages 8-10
-everything that may withstand the fire, you must make to go through the fire, and it will be clean; nevertheless it must be purified with the cleansing water. All that doesn't withstand the fire you must make to go through the water.
+Everything that can go through fire must pass through fire, and it will be clean. But it must also be purified with cleansing water. Everything that cannot go through fire must pass through water.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -461,10 +461,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:28 - Levy a tribute to Yahweh of the men of war who went out to battle: one soul of five hundred; of the persons, of the cattle, of the donkeys, and of the flocks.
 
 #### Ages 5-7
-Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred; of the people, of the cattle, of the donkeys, and of the flocks.
+From the soldiers who went to battle, set aside a tribute for the Lord: one out of every five hundred people, cattle, donkeys, and sheep.
 
 #### Ages 8-10
-Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred; of the people, of the cattle, of the donkeys, and of the flocks.
+From the soldiers who went to battle, set aside a tribute for the Lord: one out of every five hundred people, cattle, donkeys, and sheep.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -479,7 +479,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:29 - Take it from their half, and give it to Eleazar the priest, for Yahweh's wave offering.
 
 #### Ages 5-7
-Take it from their half, and give it to Eleazar the priest, for the Lord's lifted offering.
+Take it from their half, and give it to Eleazar the priest, for the Lord's offering lifted before the Lord.
 
 #### Ages 8-10
 Take it from their half, and give it to Eleazar the priest, for the Lord's offering lifted before the Lord.
@@ -582,10 +582,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:35 - and thirty-two thousand persons in all, of the women who had not known man by lying with him.
 
 #### Ages 5-7
-and thirty-two thousand people in all, of the women who had not had sexual relations with a man.
+There were thirty-two thousand girls who had not lived as a man's wife.
 
 #### Ages 8-10
-and thirty-two thousand people in all, of the women who had not had sexual relations with a man.
+There were thirty-two thousand girls who had not had sexual relations with a man.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -682,7 +682,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:41 - Moses gave the tribute, which was Yahweh's wave offering, to Eleazar the priest, as Yahweh commanded Moses.
 
 #### Ages 5-7
-Moses gave the tribute, which was the Lord's lifted offering, to Eleazar the priest, as the Lord commanded Moses.
+Moses gave the tribute, which was the Lord's offering lifted before the Lord, to Eleazar the priest, as the Lord commanded Moses.
 
 #### Ages 8-10
 Moses gave the tribute, which was the Lord's offering lifted before the Lord, to Eleazar the priest, as the Lord commanded Moses.
@@ -815,10 +815,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:49 - They said to Moses, "Your servants have taken the sum of the men of war who are under our command, and there lacks not one man of us.
 
 #### Ages 5-7
-They said to Moses, "Your servants have taken the sum of the men of war who are under our command, and not one man of us is missing.
+They said to Moses, "Your servants have counted the soldiers under our command, and not one man of us is missing.
 
 #### Ages 8-10
-They said to Moses, "Your servants have taken the sum of the men of war who are under our command, and not one man of us is missing.
+They said to Moses, "Your servants have counted the soldiers under our command, and not one man of us is missing.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -871,7 +871,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:52 - All the gold of the wave offering that they offered up to Yahweh, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels.
 
 #### Ages 5-7
-All the gold of the lifted offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
+All the gold of the offering lifted before the Lord that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
 
 #### Ages 8-10
 All the gold of the offering lifted before the Lord that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
@@ -904,10 +904,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 31:54 - Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before Yahweh.
 
 #### Ages 5-7
-Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the people of Israel before the Lord.
+Moses and Eleazar the priest took the gold from the captains of thousands and hundreds and brought it into the Tent of Meeting as a reminder for the people of Israel before the Lord.
 
 #### Ages 8-10
-Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the people of Israel before the Lord.
+Moses and Eleazar the priest took the gold from the captains of thousands and hundreds and brought it into the Tent of Meeting as a reminder for the people of Israel before the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -922,11 +922,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 31 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred;...," and closes with "Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brou...." Review this summary for fuller theological detail before approval.
+The Lord commands judgment on Midian because of the sin at Peor. Israel fights, Balaam is killed, the people and spoils are purified, and a portion from the battle is given to the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God judges sin that leads people away**: Midian had drawn Israel into rebellion at Peor.
+2. **Victory still belongs to the Lord**: Even the spoils of battle are counted and tribute is given to him.
 
 ## Memory Verses by Age
 
@@ -948,7 +948,3 @@ Numbers 31 is a draft resource chapter. The chapter opens with "The Lord spoke t
 
 ## Prayer
 Lord, help us understand Numbers 31 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

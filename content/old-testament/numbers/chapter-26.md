@@ -1,7 +1,7 @@
 # Numbers Chapter 26
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 26 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on after the terrible sickness, the Lord commands a second count of Israel.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -37,10 +37,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:2 - "Take a census of all the congregation of the children of Israel, from twenty years old and upward, by their fathers' houses, all who are able to go out to war in Israel."
 
 #### Ages 5-7
-"Take a census of all the people of Israel, from twenty years old and older, by their family houses, all who are able to go out to war in Israel."
+"Count all the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army."
 
 #### Ages 8-10
-"Take a census of all the community of the people of Israel, from twenty years old and older, by their family houses, all who are able to go out to war in Israel."
+"Count all the community of the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -72,10 +72,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:4 - "Take a census, from twenty years old and upward, as Yahweh commanded Moses and the children of Israel." These are those that came out of the land of Egypt.
 
 #### Ages 5-7
-"Take a census, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
+"Count, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
 
 #### Ages 8-10
-"Take a census, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
+"Count, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -186,10 +186,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:11 - Notwithstanding, the sons of Korah didn't die.
 
 #### Ages 5-7
-Notwithstanding, the sons of Korah didn't die.
+Even so, the sons of Korah didn't die.
 
 #### Ages 8-10
-Notwithstanding, the sons of Korah didn't die.
+Even so, the sons of Korah didn't die.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -810,10 +810,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:55 - Notwithstanding, the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit.
 
 #### Ages 5-7
-Notwithstanding, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
 
 #### Ages 8-10
-Notwithstanding, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -980,10 +980,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:65 - For Yahweh had said of them, "They shall surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
 
 #### Ages 5-7
-For the Lord had said of them, "They must surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
+For the Lord had said of them, "They will surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
 
 #### Ages 8-10
-For the Lord had said of them, "They must surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
+For the Lord had said of them, "They will surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -996,19 +996,19 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 26 is a draft resource chapter. The chapter opens with "After the terrible sickness, the Lord spoke to Moses and to Eleazar the son of Aaron the priest,...," moves through "Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zeloph...," and closes with "For the Lord had said of them, "They must surely die in the wilderness." There was not a man left...." Review this summary for fuller theological detail before approval.
+After the terrible sickness, the Lord commands a second count of Israel. The new generation is counted for inheritance in the land, and the chapter shows that the first wilderness generation has passed away except Caleb and Joshua.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God prepares the next generation**: The new count looks toward the land God promised.
+2. **God's warning came to pass**: The unbelieving generation did not enter the land.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Take a census of all the people of Israel, from twenty years old and older, by their family houses, all who are able to go out to war in Israel." - Numbers 26:2
+"Count all the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army." - Numbers 26:2
 
 ### Ages 8-10
-"Take a census of all the community of the people of Israel, from twenty years old and older, by their family houses, all who are able to go out to war in Israel." - Numbers 26:2
+"Count all the community of the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army." - Numbers 26:2
 
 ## Discussion Questions by Age
 
@@ -1022,7 +1022,3 @@ Numbers 26 is a draft resource chapter. The chapter opens with "After the terrib
 
 ## Prayer
 Lord, help us understand Numbers 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

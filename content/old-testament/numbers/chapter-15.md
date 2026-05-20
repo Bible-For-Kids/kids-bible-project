@@ -1,7 +1,7 @@
 # Numbers Chapter 15
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 15 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives offering laws for the day Israel enters the land, showing that his promise still stands after judgment.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -52,10 +52,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:3 - and will make an offering by fire to Yahweh—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to Yahweh, of the herd, or of the flock—
 
 #### Ages 5-7
-and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a serious promise, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord: a burned offering, or a sacrifice, to accomplish a serious promise, or as a gift someone chooses to bring, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 #### Ages 8-10
-and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a serious promise, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord: a burned offering, or a sacrifice, to accomplish a serious promise, or as a gift someone chooses to bring, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -73,7 +73,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:4 - then he who offers his offering shall offer to Yahweh a meal offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil.
 
 #### Ages 5-7
-then whoever offers his offering must offer to the Lord a grain gift of one tenth-measure of fine flour mixed with one fourth-measure of oil.
+then whoever offers his offering must offer to the Lord a grain gift of a small measured amount of fine flour mixed with one fourth-measure of oil.
 
 #### Ages 8-10
 then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil.
@@ -110,7 +110,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:6 - " 'For a ram, you shall prepare for a meal offering two tenths of an ephah of fine flour mixed with the third part of a hin of oil;
 
 #### Ages 5-7
-"For a male sheep, you must prepare for a grain gift two tenth-measures of fine flour mixed with one third-measure of oil;
+"For a male sheep, you must prepare for a grain gift two small measured amounts of fine flour mixed with one third-measure of oil;
 
 #### Ages 8-10
 "For a male sheep, you must prepare for a grain offering two tenth-measures of fine flour mixed with one third-measure of oil;
@@ -167,7 +167,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:9 - then he shall offer with the bull a meal offering of three tenths of an ephah of fine flour mixed with half a hin of oil;
 
 #### Ages 5-7
-then he must offer with the bull a grain gift of three tenth-measures of fine flour mixed with a half-measure of oil;
+then he must offer with the bull a grain gift of three small measured amounts of fine flour mixed with a half-measure of oil;
 
 #### Ages 8-10
 then he must offer with the bull a grain offering of three tenth-measures of fine flour mixed with a half-measure of oil;
@@ -184,10 +184,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:10 - and you shall offer for the drink offering half a hin of wine, for an offering made by fire, of a pleasant aroma to Yahweh.
 
 #### Ages 5-7
-and you must offer for the drink gift a half-measure of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
+and you must offer for the drink gift a half-measure of wine, for an offering burned on the altar, a pleasing smell to the Lord.
 
 #### Ages 8-10
-and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
+and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, a pleasing smell to the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -232,10 +232,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:13 - " 'All who are native-born shall do these things in this way, in offering an offering made by fire, of a pleasant aroma to Yahweh.
 
 #### Ages 5-7
-"All who are native-born must do these things in this way, when bringing an offering burned on the altar, of a pleasing smell to the Lord.
+"All who are native-born must do these things in this way, when bringing an offering burned on the altar, a pleasing smell to the Lord.
 
 #### Ages 8-10
-"All who are native-born must do these things in this way, when bringing an offering burned on the altar, of a pleasing smell to the Lord.
+"All who are native-born must do these things in this way, when bringing an offering burned on the altar, a pleasing smell to the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -252,10 +252,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:14 - If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a pleasant aroma to Yahweh, as you do, so he shall do.
 
 #### Ages 5-7
-If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, of a pleasing smell to the Lord, as you do, so he must do.
+If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, a pleasing smell to the Lord, as you do, so he must do.
 
 #### Ages 8-10
-If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, of a pleasing smell to the Lord, as you do, so he must do.
+If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, a pleasing smell to the Lord, as you do, so he must do.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -344,10 +344,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:19 - then it shall be that when you eat of the bread of the land, you shall offer up a wave offering to Yahweh.
 
 #### Ages 5-7
-then it must be that when you eat of the bread of the land, you must offer up a lifted offering to the Lord.
+then when you eat the bread of the land, you must bring an offering lifted before the Lord.
 
 #### Ages 8-10
-then it must be that when you eat of the bread of the land, you must offer up an offering lifted before the Lord to the Lord.
+then when you eat the bread of the land, you must bring an offering lifted before the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -363,10 +363,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:20 - Of the first of your dough you shall offer up a cake for a wave offering. As the wave offering of the threshing floor, so you shall heave it.
 
 #### Ages 5-7
-Of the first of your dough you must offer up a cake for a lifted offering. As the lifted offering of the threshing floor, so you must heave it.
+From the first of your dough, bring a cake as an offering lifted before the Lord. Lift it before the Lord just as you lift an offering from the grain harvest.
 
 #### Ages 8-10
-Of the first of your dough you must offer up a cake for an offering lifted before the Lord. As the offering lifted before the Lord of the threshing floor, so you must heave it.
+From the first of your dough, bring a cake as an offering lifted before the Lord. Lift it before the Lord just as you lift an offering from the grain harvest.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -381,10 +381,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:21 - Of the first of your dough, you shall give to Yahweh a wave offering throughout your generations.
 
 #### Ages 5-7
-Of the first of your dough, you must give to the Lord a lifted offering for all your generations.
+From the first of your dough, give the Lord an offering lifted before him through all your generations.
 
 #### Ages 8-10
-Of the first of your dough, you must give to the Lord an offering lifted before the Lord for all your generations.
+From the first of your dough, give the Lord an offering lifted before him through all your generations.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -400,10 +400,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:22 - " 'When you err, and don't observe all these commandments which Yahweh has spoken to Moses—
 
 #### Ages 5-7
-"When you err, and don't observe all these commands which the Lord has spoken to Moses-
+"When you make a mistake and do not keep all these commands that the Lord spoke to Moses,
 
 #### Ages 8-10
-"When you err, and don't observe all these commands which the Lord has spoken to Moses-
+"When you err and do not keep all these commands that the Lord spoke to Moses,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -439,7 +439,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:24 - then it shall be, if it was done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a pleasant aroma to Yahweh, with its meal offering and its drink offering, according to the ordinance, and one male goat for a sin offering.
 
 #### Ages 5-7
-then it must be, if it was done without meaning to, without the knowledge of the whole group, that all the people must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain gift and its drink gift, according to the command, and one male goat for an offering for sin.
+then it must be, if it was done without meaning to, without the knowledge of the whole group, that all the people must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain gift and its drink gift, according to the command, and one male goat as an offering for sin.
 
 #### Ages 8-10
 then it must be, if it was done without meaning to, without the knowledge of the community, that all the community must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain offering and its drink offering, according to the command, and one male goat for a sin offering.
@@ -498,7 +498,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:27 - " 'If a person sins unwittingly, then he shall offer a female goat a year old for a sin offering.
 
 #### Ages 5-7
-"If a person sins without meaning to, then he must offer a female goat a year old for an offering for sin.
+"If a person sins without meaning to, then he must offer a female goat a year old as an offering for sin.
 
 #### Ages 8-10
 "If a person sins without meaning to, then he must offer a female goat a year old for a sin offering.
@@ -644,10 +644,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:35 - Yahweh said to Moses, "The man shall surely be put to death. All the congregation shall stone him with stones outside of the camp."
 
 #### Ages 5-7
-The Lord said to Moses, "The man must surely be put to death. All the people must stone him with stones outside of the camp."
+The Lord said to Moses, "The man must be put to death. All the people must stone him with stones outside of the camp."
 
 #### Ages 8-10
-The Lord said to Moses, "The man must surely be put to death. All the community must stone him with stones outside of the camp."
+The Lord said to Moses, "The man must be put to death. All the community must stone him with stones outside of the camp."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -771,16 +771,16 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 15 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "Of the first of your dough, you must give to the Lord an offering lifted before the Lord for all...," and closes with "I am the Lord your God, who brought you out of the land of Egypt, to be your God: I am the Lord y...." Review this summary for fuller theological detail before approval.
+The Lord gives offering laws for the day Israel enters the land, showing that his promise still stands after judgment. He also teaches about sins done by mistake, serious defiance, Sabbath holiness, and tassels that help Israel remember his commands.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his promises**: Even after rebellion, the Lord still speaks about Israel entering the land.
+2. **God helps his people remember**: The tassels point Israel back to the Lord's commands.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-then whoever offers his offering must offer to the Lord a grain gift of one tenth-measure of fine flour mixed with one fourth-measure of oil. - Numbers 15:4
+then whoever offers his offering must offer to the Lord a grain gift of a small measured amount of fine flour mixed with one fourth-measure of oil. - Numbers 15:4
 
 ### Ages 8-10
 then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil. - Numbers 15:4
@@ -797,7 +797,3 @@ then whoever offers his offering must offer to the Lord a grain offering of one 
 
 ## Prayer
 Lord, help us understand Numbers 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -1,7 +1,7 @@
 # Numbers Chapter 11
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 11 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the people complain, the Lord judges, and Moses cries out under the weight of leading them.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -555,10 +555,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 11:33 - While the meat was still between their teeth, before it was chewed, Yahweh's anger burned against the people, and Yahweh struck the people with a very great plague.
 
 #### Ages 5-7
-While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very great terrible sickness.
+While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very terrible sickness.
 
 #### Ages 8-10
-While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very great terrible sickness.
+While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very terrible sickness.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -598,11 +598,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 11 is a draft resource chapter. The chapter opens with "The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; an...," moves through "Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for y...," and closes with "From Kibroth Hattaavah the people traveled to Hazeroth; and they stayed at Hazeroth.." Review this summary for fuller theological detail before approval.
+The people complain, the Lord judges, and Moses cries out under the weight of leading them. God gives the Spirit to seventy elders and sends quail, but he also judges the greedy craving that despised his provision.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Complaining against God is serious**: Israel's grumbling is not treated as a small thing.
+2. **God helps weak servants**: The Lord shares the burden of leadership by giving elders to help Moses.
 
 ## Memory Verses by Age
 
@@ -624,7 +624,3 @@ The people were complaining in the ears of the Lord. When the Lord heard it, his
 
 ## Prayer
 Lord, help us understand Numbers 11 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -69,7 +69,7 @@ God is not a man, that he should lie, nor a son of man, that he should repent. H
 I have received a command to bless. He has blessed, and I can't reverse it.
 
 ### Numbers 23:21
-He has not seen sin in Jacob. Neither has he seen perverseness in Israel. The Lord his God is with him. The shout of a king is among them.
+The Lord has not seen sin in Jacob or wrongdoing in Israel. The Lord their God is with them, and the shout of a king is among them.
 
 ### Numbers 23:22
 God brings them out of Egypt. He has as it were the strength of the wild ox.

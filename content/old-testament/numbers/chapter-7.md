@@ -1,7 +1,7 @@
 # Numbers Chapter 7
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 7 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on after the holy tent is set up, the leaders of Israel bring gifts for its service and offerings for the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -36,10 +36,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:2 - the princes of Israel, the heads of their fathers' houses, offered. These were the princes of the tribes. These are they who were over those who were counted;
 
 #### Ages 5-7
-the leaders of Israel, the leaders of their family houses, offered. These were the leaders of the tribes. These are they who were over those who were counted;
+the leaders of Israel, the leaders of their family groups, offered. These were the leaders of the tribes. These are they who were over those who were counted;
 
 #### Ages 8-10
-the princes of Israel, the heads of their family houses, offered. These were the princes of the tribes. These are they who were over those who were counted;
+the princes of Israel, the heads of their family groups, offered. These were the princes of the tribes. These are they who were over those who were counted;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -231,10 +231,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:13 - and his offering was: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -263,7 +263,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:15 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -280,7 +280,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:16 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -333,10 +333,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:19 - He offered for his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -365,7 +365,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:21 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -382,7 +382,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:22 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -432,10 +432,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:25 - gave his offering: one silver platter, the weight of which was a hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -464,7 +464,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:27 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -481,7 +481,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:28 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -531,10 +531,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:31 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -563,7 +563,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:33 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -580,7 +580,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:34 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -630,10 +630,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:37 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -662,7 +662,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:39 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -679,7 +679,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:40 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -729,10 +729,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:43 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -761,7 +761,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:45 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -778,7 +778,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:46 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -828,10 +828,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:49 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -860,7 +860,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:51 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -877,7 +877,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:52 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -927,10 +927,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:55 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -959,7 +959,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:57 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -976,7 +976,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:58 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -1026,10 +1026,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:61 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1058,7 +1058,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:63 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -1075,7 +1075,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:64 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -1125,10 +1125,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:67 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1157,7 +1157,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:69 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -1174,7 +1174,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:70 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -1224,10 +1224,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:73 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1256,7 +1256,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:75 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -1273,7 +1273,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:76 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -1323,10 +1323,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:79 - gave his offering: one silver platter, the weight of which was one hundred thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary; both of them full of fine flour mixed with oil for a meal offering;
 
 #### Ages 5-7
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain gift;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the weight used at the holy place; both of them full of fine flour mixed with oil for a grain gift;
 
 #### Ages 8-10
-gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, according to the holy place weight; both of them full of fine flour mixed with oil for a grain offering;
+gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1355,7 +1355,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:81 - one young bull, one ram, one male lamb a year old, for a burnt offering;
 
 #### Ages 5-7
-one young bull, one male sheep, one male lamb a year old, for a burned offering;
+one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
@@ -1372,7 +1372,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:82 - one male goat for a sin offering;
 
 #### Ages 5-7
-one male goat for an offering for sin;
+one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
@@ -1427,10 +1427,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:85 - each silver platter weighing one hundred thirty shekels, and each bowl seventy; all the silver of the vessels two thousand four hundred shekels, according to the shekel of the sanctuary;
 
 #### Ages 5-7
-each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, according to the holy place weight;
+each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, according to the weight used at the holy place;
 
 #### Ages 8-10
-each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, according to the holy place weight;
+each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, by the weight used at the holy place;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1444,10 +1444,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:86 - the twelve golden ladles, full of incense, weighing ten shekels apiece, according to the shekel of the sanctuary; all the gold of the ladles weighed one hundred twenty shekels;
 
 #### Ages 5-7
-the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, according to the holy place weight; all the gold of the ladles weighed one hundred twenty silver pieces;
+the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, according to the weight used at the holy place; all the gold of the ladles weighed one hundred twenty silver pieces;
 
 #### Ages 8-10
-the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, according to the holy place weight; all the gold of the ladles weighed one hundred twenty silver pieces;
+the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, by the weight used at the holy place; all the gold of the ladles weighed one hundred twenty silver pieces;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -1461,7 +1461,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 7:87 - all the cattle for the burnt offering twelve bulls, the rams twelve, the male lambs a year old twelve, and their meal offering; and twelve male goats for a sin offering;
 
 #### Ages 5-7
-all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain gift; and twelve male goats for an offering for sin;
+all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain gift; and twelve male goats as an offering for sin;
 
 #### Ages 8-10
 all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain offering; and twelve male goats for a sin offering;
@@ -1516,11 +1516,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 7 is a draft resource chapter. The chapter opens with "On the day that Moses had finished setting up the tent, and had anointed it and made it holy with...," moves through "one young bull, one male sheep, one male lamb a year old, for a burned offering;," and closes with "When Moses went into the Tent of Meeting to speak with the Lord, he heard his voice speaking to h...." Review this summary for fuller theological detail before approval.
+After the holy tent is set up, the leaders of Israel bring gifts for its service and offerings for the altar. Each tribe is named, each gift is counted, and Moses hears the Lord speaking from above the cover of the ark.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God receives worship from every tribe**: The repeated offerings show all Israel bringing gifts before the Lord.
+2. **God speaks to guide his people**: Moses hears the Lord's voice at the holy place.
 
 ## Memory Verses by Age
 
@@ -1542,7 +1542,3 @@ and they brought their offering before the Lord, six covered wagons and twelve o
 
 ## Prayer
 Lord, help us understand Numbers 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

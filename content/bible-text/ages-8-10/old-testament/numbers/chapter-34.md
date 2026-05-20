@@ -48,7 +48,7 @@ The border must go down to the Jordan, and end at the Salt Sea. This must be you
 Moses commanded the people of Israel, saying, "This is the land which you must inherit by lot, which the Lord has commanded to give to the nine tribes, and to the half-tribe;
 
 ### Numbers 34:14
-for the tribe of Reuben according to their family houses, the tribe of Gad according to their family houses, and the half-tribe of Manasseh have received their inheritance.
+for the tribe of Reuben according to their family groups, the tribe of Gad according to their family groups, and the half-tribe of Manasseh have received their inheritance.
 
 ### Numbers 34:15
 The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise."

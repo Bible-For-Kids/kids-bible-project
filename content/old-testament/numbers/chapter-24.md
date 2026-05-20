@@ -1,7 +1,7 @@
 # Numbers Chapter 24
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This resource chapter supports Numbers 24 and should be reviewed before approval.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Spirit of God comes on Balaam, and he blesses Israel again with words about their tents, strength, and future king.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -419,11 +419,11 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 ---
 
 ## Chapter Summary
-Numbers 24 is a draft resource chapter. The chapter opens with "When Balaam saw that it pleased the Lord to bless Israel, he didn't go, as at the other times, to...," moves through "If Balak would give me his house full of silver and gold, I can't go beyond the Lord's word, to d...," and closes with "Balaam rose up, and went and returned to his place; and Balak also went his way.." Review this summary for fuller theological detail before approval.
+The Spirit of God comes on Balaam, and he blesses Israel again with words about their tents, strength, and future king. Balaam also speaks of a star and scepter coming from Jacob, pointing to a ruler God will raise from Israel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God can use unlikely speakers**: Even Balaam must speak the Lord's blessing.
+2. **God promises a ruler**: The star and scepter point to hope from Jacob.
 
 ## Memory Verses by Age
 
@@ -445,7 +445,3 @@ When Balaam saw that it pleased the Lord to bless Israel, he didn't go, as at th
 
 ## Prayer
 Lord, help us understand Numbers 24 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

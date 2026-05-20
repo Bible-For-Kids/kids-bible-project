@@ -12,16 +12,16 @@ Numbers
 The Lord spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,
 
 ### Numbers 1:2
-"Take a census of all the people of Israel, by their families and family houses, according to the number of the names, every male, one by one,
+"Count all the people of Israel, by their families and family groups, name by name, every male, one by one,
 
 ### Numbers 1:3
-from twenty years old and older, all who are able to go out to war in Israel. You and Aaron must count them by their groups.
+from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their groups.
 
 ### Numbers 1:4
-With you there will be a man of every tribe, each one a leader of his family house.
+With you there will be a man of every tribe, each one a leader of his family group.
 
 ### Numbers 1:5
-These are the names of the men who must still count with you: Of Reuben: Elizur the son of Shedeur.
+These are the names of the men who must stand with you: Of Reuben: Elizur the son of Shedeur.
 
 ### Numbers 1:6
 Of Simeon: Shelumiel the son of Zurishaddai.
@@ -60,88 +60,88 @@ These were the ones called from the whole group, the leaders of the tribes of th
 Moses and Aaron took these men who were named.
 
 ### Numbers 1:18
-They assembled all the people together on the first day of the second month; and they declared their ancestry by their families and family houses, according to the number of the names, from twenty years old and older, one by one.
+They assembled all the people together on the first day of the second month; and they declared their ancestry by their families and family groups, name by name, from twenty years old and older, one by one.
 
 ### Numbers 1:19
 As the Lord commanded Moses, so he counted them in the wilderness of Sinai.
 
 ### Numbers 1:20
-The descendants of Reuben, Israel's firstborn, their generations, by their families and family houses, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+The descendants of Reuben, Israel's firstborn, their generations, by their families and family groups, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:21
 those counted from them, of the tribe of Reuben, were forty-six thousand five hundred.
 
 ### Numbers 1:22
-Of the descendants of Simeon, by their generations, by their families and family houses, those counted from them, according to the number of the names, one by one, every male from twenty years old and older, all who were able to go out to war:
+Of the descendants of Simeon, by their family lines, by their families and family groups, those counted from them, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:23
 those counted from them, of the tribe of Simeon, were fifty-nine thousand three hundred.
 
 ### Numbers 1:24
-Of the descendants of Gad, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Gad, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:25
 those counted from them, of the tribe of Gad, were forty-five thousand six hundred fifty.
 
 ### Numbers 1:26
-Of the descendants of Judah, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Judah, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:27
 those counted from them, of the tribe of Judah, were seventy-four thousand six hundred.
 
 ### Numbers 1:28
-Of the descendants of Issachar, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Issachar, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:29
 those counted from them, of the tribe of Issachar, were fifty-four thousand four hundred.
 
 ### Numbers 1:30
-Of the descendants of Zebulun, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Zebulun, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:31
 those counted from them, of the tribe of Zebulun, were fifty-seven thousand four hundred.
 
 ### Numbers 1:32
-Of the descendants of Joseph: of Ephraim, their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Joseph: of Ephraim, their generations, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:33
 those counted from them, of the tribe of Ephraim, were forty thousand five hundred.
 
 ### Numbers 1:34
-Of the descendants of Manasseh, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Manasseh, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:35
 those counted from them, of the tribe of Manasseh, were thirty-two thousand two hundred.
 
 ### Numbers 1:36
-Of the descendants of Benjamin, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Benjamin, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:37
 those counted from them, of the tribe of Benjamin, were thirty-five thousand four hundred.
 
 ### Numbers 1:38
-Of the descendants of Dan, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Dan, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:39
 those counted from them, of the tribe of Dan, were sixty-two thousand seven hundred.
 
 ### Numbers 1:40
-Of the descendants of Asher, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Asher, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:41
 those counted from them, of the tribe of Asher, were forty-one thousand five hundred.
 
 ### Numbers 1:42
-Of the descendants of Naphtali, by their generations, by their families and family houses, according to the number of the names, from twenty years old and older, all who were able to go out to war:
+Of the descendants of Naphtali, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
 
 ### Numbers 1:43
 those counted from them, of the tribe of Naphtali, were fifty-three thousand four hundred.
 
 ### Numbers 1:44
-These are those who were counted, whom Moses and Aaron counted, and the twelve men who were leaders of Israel, each one for his family house.
+These are those who were counted, whom Moses and Aaron counted, and the twelve men who were leaders of Israel, each one for his family group.
 
 ### Numbers 1:45
-So all those counted from the people of Israel by their family houses, from twenty years old and older, all who were able to go out to war in Israel-
+So all those counted from the people of Israel by their family groups, from twenty years old and older, all who were able to serve in Israel's army-
 
 ### Numbers 1:46
 all those who were counted were six hundred three thousand five hundred fifty.
@@ -153,7 +153,7 @@ But the Levites by their ancestral tribe were not counted among them.
 For the Lord spoke to Moses, saying,
 
 ### Numbers 1:49
-"Only the tribe of Levi you must not count, neither must you take a census of them among the people of Israel;
+"Only the tribe of Levi you must not count, neither must you count of them among the people of Israel;
 
 ### Numbers 1:50
 but appoint the Levites over the Tent of the Testimony, and over all its furnishings, and over all that belongs to it. They must carry the tent and all its furnishings; and they must take care of it, and must camp around it.
