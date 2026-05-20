@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Inter } from 'next/font/google'
 import { BookOpen } from 'lucide-react'
+import { getBibleCatalog } from '@/lib/bible-catalog'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -20,11 +21,13 @@ export const metadata: Metadata = {
   },
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+  const catalog = await getBibleCatalog()
+
   return (
     <html lang="en">
       <head>
@@ -48,18 +51,15 @@ export default function RootLayout({
                   <Link href="/bible" className="text-gray-700 transition-colors hover:text-blue-600">
                     Bible Reader
                   </Link>
-                  <Link href="/bible/genesis/1" className="text-gray-700 transition-colors hover:text-blue-600">
-                    Genesis
-                  </Link>
-                  <Link href="/bible/exodus/1" className="text-gray-700 transition-colors hover:text-blue-600">
-                    Exodus
-                  </Link>
-                  <Link href="/bible/leviticus/1" className="text-gray-700 transition-colors hover:text-blue-600">
-                    Leviticus
-                  </Link>
-                  <Link href="/bible/numbers/1" className="text-gray-700 transition-colors hover:text-blue-600">
-                    Numbers
-                  </Link>
+                  {catalog.map(book => (
+                    <Link
+                      key={book.slug}
+                      href={`/bible/${book.slug}/${book.chapters[0]}`}
+                      className="text-gray-700 transition-colors hover:text-blue-600"
+                    >
+                      {book.name}
+                    </Link>
+                  ))}
                 </nav>
               </div>
             </div>
@@ -84,26 +84,13 @@ export default function RootLayout({
                         Bible Reader
                       </Link>
                     </li>
-                    <li>
-                      <Link href="/bible/genesis/1" className="text-blue-600 hover:text-blue-800">
-                        Genesis
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/bible/exodus/1" className="text-blue-600 hover:text-blue-800">
-                        Exodus
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/bible/leviticus/1" className="text-blue-600 hover:text-blue-800">
-                        Leviticus
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/bible/numbers/1" className="text-blue-600 hover:text-blue-800">
-                        Numbers
-                      </Link>
-                    </li>
+                    {catalog.map(book => (
+                      <li key={book.slug}>
+                        <Link href={`/bible/${book.slug}/${book.chapters[0]}`} className="text-blue-600 hover:text-blue-800">
+                          {book.name}
+                        </Link>
+                      </li>
+                    ))}
                   </ul>
                 </div>
                 <div>
