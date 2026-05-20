@@ -95,6 +95,33 @@ const expectedVerseCounts = {
   [path.normalize('old-testament/exodus/chapter-38.md')]: 31,
   [path.normalize('old-testament/exodus/chapter-39.md')]: 43,
   [path.normalize('old-testament/exodus/chapter-40.md')]: 38,
+  [path.normalize('old-testament/leviticus/chapter-1.md')]: 17,
+  [path.normalize('old-testament/leviticus/chapter-2.md')]: 16,
+  [path.normalize('old-testament/leviticus/chapter-3.md')]: 17,
+  [path.normalize('old-testament/leviticus/chapter-4.md')]: 35,
+  [path.normalize('old-testament/leviticus/chapter-5.md')]: 19,
+  [path.normalize('old-testament/leviticus/chapter-6.md')]: 30,
+  [path.normalize('old-testament/leviticus/chapter-7.md')]: 38,
+  [path.normalize('old-testament/leviticus/chapter-8.md')]: 36,
+  [path.normalize('old-testament/leviticus/chapter-9.md')]: 24,
+  [path.normalize('old-testament/leviticus/chapter-10.md')]: 20,
+  [path.normalize('old-testament/leviticus/chapter-11.md')]: 47,
+  [path.normalize('old-testament/leviticus/chapter-12.md')]: 8,
+  [path.normalize('old-testament/leviticus/chapter-13.md')]: 59,
+  [path.normalize('old-testament/leviticus/chapter-14.md')]: 57,
+  [path.normalize('old-testament/leviticus/chapter-15.md')]: 33,
+  [path.normalize('old-testament/leviticus/chapter-16.md')]: 34,
+  [path.normalize('old-testament/leviticus/chapter-17.md')]: 16,
+  [path.normalize('old-testament/leviticus/chapter-18.md')]: 30,
+  [path.normalize('old-testament/leviticus/chapter-19.md')]: 37,
+  [path.normalize('old-testament/leviticus/chapter-20.md')]: 27,
+  [path.normalize('old-testament/leviticus/chapter-21.md')]: 24,
+  [path.normalize('old-testament/leviticus/chapter-22.md')]: 33,
+  [path.normalize('old-testament/leviticus/chapter-23.md')]: 44,
+  [path.normalize('old-testament/leviticus/chapter-24.md')]: 23,
+  [path.normalize('old-testament/leviticus/chapter-25.md')]: 55,
+  [path.normalize('old-testament/leviticus/chapter-26.md')]: 46,
+  [path.normalize('old-testament/leviticus/chapter-27.md')]: 34,
 };
 
 function validateStory(filePath, content) {
@@ -223,7 +250,7 @@ function validateBibleTextFile(filePath, content) {
 
   if (isAges5to7File(filePath)) {
     for (const verse of verses) {
-      if (verse.body.trim().length < 20) {
+      if (verse.body.trim().length < 20 && !isListFragmentVerse(verse.body)) {
         warnings.push(`${verse.reference}: Ages 5-7 text may be too brief for the richer story style`);
       }
     }
@@ -337,6 +364,11 @@ function isBibleTextFile(filePath) {
 function isAges5to7File(filePath) {
   const relativePath = path.normalize(path.relative(path.join(__dirname, '../content'), filePath));
   return relativePath.startsWith(path.normalize('bible-text/ages-5-7/'));
+}
+
+function isListFragmentVerse(text) {
+  const trimmed = text.trim();
+  return trimmed.endsWith(',') || /^[a-z]/.test(trimmed);
 }
 
 function resolveAgeTextPathForChapter(filePath, ageRange) {
