@@ -27,7 +27,7 @@ Pharaoh also said, "Look, the people of the land are now many, and you are makin
 That same day Pharaoh commanded the taskmasters over the people and their officers,
 
 ### Exodus 5:7
-"You shall no longer give the people straw to make bricks as before. Let them go and gather straw for themselves.
+"You will no longer give the people straw to make bricks as before. Let them go and gather straw for themselves.
 
 ### Exodus 5:8
 "But require from them the same number of bricks they made before. Do not reduce it, because they are idle. That is why they cry out, 'Let us go and sacrifice to our God.'
@@ -63,7 +63,7 @@ Pharaoh said, "You are idle, idle. That is why you say, 'Let us go and sacrifice
 "Now go and work. No straw will be given to you, but you must still produce the same number of bricks."
 
 ### Exodus 5:19
-The officers of the children of Israel saw that they were in trouble when they were told, "You shall not reduce your daily number of bricks."
+The officers of the children of Israel saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
 
 ### Exodus 5:20
 As they left Pharaoh, they met Moses and Aaron, who stood waiting for them.

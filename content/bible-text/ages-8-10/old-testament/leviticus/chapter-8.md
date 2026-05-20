@@ -27,13 +27,13 @@ Moses said to the community, "This is the thing which the Lord has commanded to 
 Moses brought Aaron and his sons, and washed them with water.
 
 ### Leviticus 8:7
-He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.
+He put the long shirt on Aaron, tied the waistband around him, put the robe on him, and put the priestly vest on him. Then he tied the woven belt of the vest around him to hold it in place.
 
 ### Leviticus 8:8
 He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
 
 ### Leviticus 8:9
-He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as the Lord commanded Moses.
+He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
 
 ### Leviticus 8:10
 Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
@@ -45,7 +45,7 @@ He sprinkled it on the altar seven times, and anointed the altar and all its con
 He poured some of the anointing oil on Aaron's head, and anointed him, to make him holy.
 
 ### Leviticus 8:13
-Moses brought Aaron's sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as the Lord commanded Moses.
+Moses brought Aaron's sons, dressed them in long shirts, tied waistbands on them, and put headbands on them, as the Lord commanded Moses.
 
 ### Leviticus 8:14
 He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering.

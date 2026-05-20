@@ -1,14 +1,14 @@
 # Exodus Chapter 8
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 8 and should be reviewed before approval.
+Exodus 8 continues the rescue-and-covenant story. The Lord sends frogs, gnats, and flies, showing Pharaoh and Egypt that the Lord rules over the land.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- plague: A severe sign of judgment God sent on Egypt
+- Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,9 @@ The Lord spoke to Moses and said, "Go to Pharaoh and tell him, 'This is what the
 #### Ages 8-10
 The Lord spoke to Moses: "Go to Pharaoh and say to him, 'This is what the Lord says: Let my people go, so they may serve me.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -41,8 +36,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'If you refuse to let them go, I will strike all your territory with frogs.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- plague: A severe sign of judgment God sent on Egypt
 
 ---
 
@@ -55,9 +50,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'The river will swarm with frogs. They will come into your house, your bedroom, your bed, the houses of your servants, on your people, and into your ovens and kneading bowls.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 8:4
@@ -68,9 +60,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "'The frogs will come up on you, on your people, and on all your servants.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -83,15 +72,9 @@ The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your rod over th
 #### Ages 8-10
 The Lord told Moses, "Say to Aaron, 'Stretch out your hand with your rod over the streams, rivers, and ponds, and make frogs come up on the land of Egypt.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -104,12 +87,8 @@ Aaron stretched his hand over the waters of Egypt, and frogs came up and covered
 #### Ages 8-10
 Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -122,11 +101,8 @@ The magicians did the same kind of thing with their magic arts and brought frogs
 #### Ages 8-10
 The magicians did the same kind of thing by their magic arts and brought frogs up on the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -139,15 +115,9 @@ Then Pharaoh called for Moses and Aaron and said, "Ask the Lord to take the frog
 #### Ages 8-10
 Then Pharaoh called for Moses and Aaron and said, "Plead with the Lord to take the frogs away from me and my people. I will let the people go, so they may sacrifice to the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- sacrifice: An offering given in worship
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -158,14 +128,11 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Moses said to Pharaoh, "You may choose the time. When should I pray for you, your servants, and your people, so the frogs will be destroyed from you and your houses and remain only in the river?"
 
 #### Ages 8-10
-Moses said to Pharaoh, "You may choose the time. When shall I plead for you, your servants, and your people, so the frogs will be destroyed from you and your houses and remain only in the river?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Moses said to Pharaoh, "You may choose the time. When will I plead for you, your servants, and your people, so the frogs will be destroyed from you and your houses and remain only in the river?"
 
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -178,15 +145,9 @@ Pharaoh said, "Tomorrow." Moses said, "It will be as you say, so you may know th
 #### Ages 8-10
 Pharaoh said, "Tomorrow." Moses said, "It will be according to your word, so that you may know there is no one like the Lord our God."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -199,9 +160,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The frogs will leave you, your houses, your servants, and your people. They will remain only in the river."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 8:12
@@ -213,15 +171,9 @@ Moses and Aaron left Pharaoh, and Moses cried out to the Lord about the frogs he
 #### Ages 8-10
 Moses and Aaron left Pharaoh, and Moses cried out to the Lord about the frogs he had brought against Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -234,13 +186,8 @@ The Lord did what Moses asked. The frogs died in the houses, villages, and field
 #### Ages 8-10
 The Lord did according to Moses' word. The frogs died in the houses, villages, and fields.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -253,9 +200,6 @@ The people gathered them into piles, and the land smelled bad.
 #### Ages 8-10
 They gathered them into piles, and the land stank.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 8:15
@@ -267,13 +211,8 @@ But when Pharaoh saw that there was relief, he made his heart hard and would not
 #### Ages 8-10
 But when Pharaoh saw there was relief, he hardened his heart and did not listen to them, just as the Lord had said.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -286,15 +225,9 @@ The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust o
 #### Ages 8-10
 The Lord said to Moses, "Tell Aaron, 'Stretch out your rod and strike the dust of the land, so it becomes lice throughout all the land of Egypt.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -307,12 +240,8 @@ They did so. Aaron stretched out his hand with his rod and struck the dust of th
 #### Ages 8-10
 They did so. Aaron stretched out his hand with his rod and struck the dust of the earth, and lice came on people and animals. All the dust of the land became lice throughout Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -325,9 +254,6 @@ The magicians tried with their magic arts to bring out lice, but they could not.
 #### Ages 8-10
 The magicians tried by their magic arts to bring out lice, but they could not. The lice were on people and animals.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 8:19
@@ -339,14 +265,8 @@ Then the magicians said to Pharaoh, "This is the finger of God." But Pharaoh's h
 #### Ages 8-10
 Then the magicians said to Pharaoh, "This is the finger of God." But Pharaoh's heart was hardened, and he did not listen to them, just as the Lord had said.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -359,14 +279,9 @@ The Lord said to Moses, "Get up early in the morning and stand before Pharaoh as
 #### Ages 8-10
 The Lord said to Moses, "Rise early in the morning and stand before Pharaoh as he comes out to the water. Say to him, 'This is what the Lord says: Let my people go, so they may serve me.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -379,8 +294,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'If you do not let my people go, I will send swarms of flies on you, your servants, your people, and into your houses. The houses of the Egyptians and the ground they stand on will be full of swarms.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -394,11 +309,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "'On that day I will set apart the land of Goshen, where my people live, so no swarms will be there. Then you will know that I am the Lord in the midst of the earth.'"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -411,9 +322,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'I will put a division between my people and your people. Tomorrow this sign will happen.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 8:24
@@ -425,14 +333,9 @@ The Lord did so. A heavy swarm came into Pharaoh's house, into his servants' hou
 #### Ages 8-10
 The Lord did so. A severe swarm came into Pharaoh's house, his servants' houses, and all the land of Egypt. The land was ruined because of the swarm.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -445,15 +348,9 @@ Pharaoh called for Moses and Aaron and said, "Go, sacrifice to your God here in 
 #### Ages 8-10
 Pharaoh called for Moses and Aaron and said, "Go, sacrifice to your God in the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- sacrifice: An offering given in worship
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -466,15 +363,9 @@ Moses said, "It would not be right to do that. The sacrifices we offer to the Lo
 #### Ages 8-10
 Moses said, "It is not right to do that, because the sacrifices we offer to the Lord our God would be offensive to the Egyptians. If we sacrificed what offends them before their eyes, would they not stone us?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Moses: The servant God used to lead Israel out of Egypt
-- sacrifice: An offering given in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -487,16 +378,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "We will go three days' journey into the wilderness and sacrifice to the Lord our God, as he commands us."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- sacrifice: An offering given in worship
-- wilderness: A wild, dry place away from towns and farms
-
 ---
 
 ### Exodus 8:28
@@ -508,15 +389,8 @@ Pharaoh said, "I will let you go, so you may sacrifice to the Lord your God in t
 #### Ages 8-10
 Pharaoh said, "I will let you go, so you may sacrifice to the Lord your God in the wilderness. Only do not go very far away. Plead for me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- sacrifice: An offering given in worship
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -529,15 +403,9 @@ Moses said, "When I leave you, I will pray to the Lord. Tomorrow the swarms will
 #### Ages 8-10
 Moses said, "When I leave you, I will plead with the Lord. Tomorrow the swarms will leave Pharaoh, his servants, and his people. But Pharaoh must not act deceitfully again by refusing to let the people go sacrifice to the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- sacrifice: An offering given in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -550,14 +418,9 @@ Moses left Pharaoh and prayed to the Lord.
 #### Ages 8-10
 Moses left Pharaoh and pleaded with the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -570,14 +433,9 @@ The Lord did what Moses asked and removed the swarms from Pharaoh, his servants,
 #### Ages 8-10
 The Lord did according to Moses' word and removed the swarms from Pharaoh, his servants, and his people. Not one remained.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -590,42 +448,36 @@ But Pharaoh made his heart hard this time also, and he would not let the people 
 #### Ages 8-10
 But Pharaoh hardened his heart this time also, and he would not let the people go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 8 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses: "Go to Pharaoh and say to him, 'This is what the Lord says: Let my peopl...," moves through "They did so. Aaron stretched out his hand with his rod and struck the dust of the earth, and lice...," and closes with "But Pharaoh hardened his heart this time also, and he would not let the people go.." Review this summary for fuller theological detail before approval.
+The Lord sends frogs, gnats, and flies, showing Pharaoh and Egypt that the Lord rules over the land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord spoke to Moses and said, "Go to Pharaoh and tell him, 'This is what the Lord says: Let my people go, so they may serve me.'" - Exodus 8:1
+"'On that day I will set apart the land of Goshen, where my people live, so no swarms will be there. Then you will know that I am the Lord in the middle of the earth.'" - Exodus 8:22
 
 ### Ages 8-10
-The Lord spoke to Moses: "Go to Pharaoh and say to him, 'This is what the Lord says: Let my people go, so they may serve me.'" - Exodus 8:1
+"'On that day I will set apart the land of Goshen, where my people live, so no swarms will be there. Then you will know that I am the Lord in the midst of the earth.'" - Exodus 8:22
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 8 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

@@ -9,7 +9,7 @@ Exodus
 ## Verses
 
 ### Exodus 27:1
-"Make the altar from acacia wood. It must be five cubits long, five cubits wide, square in shape, and three cubits high."
+"Make the altar from acacia wood. It must be five arm-lengths long, five arm-lengths wide, square in shape, and three arm-lengths high."
 
 ### Exodus 27:2
 "Make a horn on each of its four corners, all one piece with the altar, and cover the altar with bronze."
@@ -33,34 +33,34 @@ Exodus
 "Make the altar hollow, out of boards. They must make it just as you were shown on the mountain."
 
 ### Exodus 27:9
-"Make the courtyard of the tabernacle. On the south side, put curtains of finely twisted linen one hundred cubits long."
+"Make the courtyard of the tabernacle. On the south side, put curtains of finely twisted linen one hundred arm-lengths long."
 
 ### Exodus 27:10
 "Use twenty posts and twenty bronze bases for that side. The hooks and bands of the posts must be silver."
 
 ### Exodus 27:11
-"On the north side, put curtains one hundred cubits long, with twenty posts and twenty bronze bases. The hooks and bands of the posts must be silver."
+"On the north side, put curtains one hundred arm-lengths long, with twenty posts and twenty bronze bases. The hooks and bands of the posts must be silver."
 
 ### Exodus 27:12
-"On the west side of the courtyard, put curtains fifty cubits long, with ten posts and ten bases."
+"On the west side of the courtyard, put curtains fifty arm-lengths long, with ten posts and ten bases."
 
 ### Exodus 27:13
-"The east side of the courtyard, toward the sunrise, must also be fifty cubits wide."
+"The east side of the courtyard, toward the sunrise, must also be fifty arm-lengths wide."
 
 ### Exodus 27:14
-"On one side of the gate, put curtains fifteen cubits long, with three posts and three bases."
+"On one side of the gate, put curtains fifteen arm-lengths long, with three posts and three bases."
 
 ### Exodus 27:15
-"On the other side, put curtains fifteen cubits long, with three posts and three bases."
+"On the other side, put curtains fifteen arm-lengths long, with three posts and three bases."
 
 ### Exodus 27:16
-"For the gate of the courtyard, make a screen twenty cubits long from blue, purple, and scarlet yarn and finely twisted linen, embroidered by a needleworker. It must have four posts and four bases."
+"For the gate of the courtyard, make a screen twenty arm-lengths long from blue, purple, and red thread yarn and finely twisted linen, embroidered by a needleworker. It must have four posts and four bases."
 
 ### Exodus 27:17
 "All the posts around the courtyard must have silver bands, silver hooks, and bronze bases."
 
 ### Exodus 27:18
-"The courtyard must be one hundred cubits long, fifty cubits wide all around, and five cubits high, with curtains of finely twisted linen and bronze bases."
+"The courtyard must be one hundred arm-lengths long, fifty arm-lengths wide all around, and five arm-lengths high, with curtains of finely twisted linen and bronze bases."
 
 ### Exodus 27:19
 "All the tools used for serving in the tabernacle, and all the tent pegs for the tabernacle and courtyard, must be bronze."
@@ -69,4 +69,4 @@ Exodus
 "Command the Israelites to bring you pure oil from beaten olives for the light, so the lamp may burn continually."
 
 ### Exodus 27:21
-"In the tent of meeting, outside the veil in front of the testimony, Aaron and his sons must keep the lamp burning before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."
+"In the tent of meeting, outside the curtain in front of the testimony, Aaron and his sons must keep the lamp burning before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."

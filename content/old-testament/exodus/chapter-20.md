@@ -1,14 +1,14 @@
 # Exodus Chapter 20
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 20 and should be reviewed before approval.
+Exodus 20 continues the rescue-and-covenant story. God speaks the covenant words, beginning with his rescue from Egypt and giving Israel the Ten Commandments.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
+- law: God's instruction for his covenant people
+- covenant: A serious promise relationship God makes with his people
+- Sabbath: A day of holy rest
+- Moses: The servant God used to lead Israel out of Egypt
+- Sinai: The mountain where God spoke his covenant words to Israel
 
 ## Verse-by-Verse Translation
 
@@ -20,12 +20,6 @@ God spoke all these words.
 
 #### Ages 8-10
 God spoke all these words.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -39,13 +33,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "I am the Lord your God, who brought you out of Egypt, out of the house of slavery."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The commandments begin with rescue: the Lord first says who he is and what he has done.
 
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Deuteronomy 5:6
 
 ---
 
@@ -58,9 +49,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must have no other gods before me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:4
@@ -71,9 +59,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You must not make for yourself a carved image, or any likeness of what is in heaven above, on the earth below, or in the water under the earth."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -86,15 +71,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not bow down to them or serve them, because I, the Lord your God, am a jealous God. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 20:6
@@ -105,9 +81,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But I show faithful love to thousands of generations of those who love me and keep my commandments."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -120,14 +93,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not misuse the name of the Lord your God, because the Lord will not leave unpunished anyone who misuses his name."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 20:8
@@ -139,11 +104,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Remember the Sabbath day, to keep it holy."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- holy: Set apart for God
 - Sabbath: A day of holy rest
 
 ---
@@ -157,9 +118,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Six days you must labor and do all your work."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:10
@@ -171,14 +129,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But the seventh day is a Sabbath to the Lord your God. You must not do any work: not you, your son, your daughter, your male servant, your female servant, your livestock, or the visitor within your gates."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -192,14 +144,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "For in six days the Lord made the heavens, the earth, the sea, and everything in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This verse grounds Sabbath in creation. Preserve the link to Genesis 1-2.
 
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+**Cross-References**:
+- Genesis 2:2-3
 
 ---
 
@@ -212,14 +163,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Honor your father and your mother, so that your days may be long in the land the Lord your God is giving you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 20:13
@@ -231,22 +174,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not murder."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:14
 **Original Reference**: Exodus 20:14 - "You shall not commit adultery.
 
 #### Ages 5-7
-"You must not commit adultery."
+"You must not break marriage faithfulness."
 
 #### Ages 8-10
-"You must not commit adultery."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
 
 ---
 
@@ -259,22 +196,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not steal."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:16
 **Original Reference**: Exodus 20:16 - "You shall not give false testimony against your neighbor.
 
 #### Ages 5-7
-"You must not tell false witness against your neighbor."
+"You must not tell false testimony against your neighbor."
 
 #### Ages 8-10
 "You must not give false testimony against your neighbor."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -287,9 +218,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not covet your neighbor's house. You must not covet your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:18
@@ -300,9 +228,6 @@ All the people saw the thunder, lightning, trumpet sound, and smoking mountain. 
 
 #### Ages 8-10
 All the people saw the thunder, lightning, trumpet sound, and smoking mountain. When they saw it, they trembled and stood far away.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -315,11 +240,7 @@ They said to Moses, "You speak to us, and we will listen. But do not let God spe
 #### Ages 8-10
 They said to Moses, "You speak to us, and we will listen. But do not let God speak to us, or we may die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -333,13 +254,8 @@ Moses said to the people, "Do not be afraid. God has come to test you, so respec
 #### Ages 8-10
 Moses said to the people, "Do not be afraid, because God has come to test you, so that the fear of him may be before you and you may not sin."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
-- sin: Disobeying God and going against his good way
 
 ---
 
@@ -352,11 +268,7 @@ The people stood far away, while Moses came near the thick darkness where God wa
 #### Ages 8-10
 The people stood far away, while Moses came near the thick darkness where God was.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -370,14 +282,8 @@ The Lord said to Moses, "Say this to the people of Israel: You have seen that I 
 #### Ages 8-10
 The Lord said to Moses, "Say this to the Israelites: You have seen that I spoke with you from heaven."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -390,26 +296,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not make gods of silver to be with me, and you must not make gods of gold for yourselves."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 20:24
 **Original Reference**: Exodus 20:24 - You shall make an altar of earth for me, and shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I record my name I will come to you and I will bless you.
 
 #### Ages 5-7
-"Make an altar of earth for me, and sacrifice your burnt offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
+"Make an altar of earth for me, and sacrifice your burned offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
 
 #### Ages 8-10
-"Make an altar of earth for me, and sacrifice your burnt offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- sacrifice: An offering given in worship
+"Make an altar of earth for me, and sacrifice your burned offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
 
 ---
 
@@ -422,37 +318,26 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you make me an altar of stone, do not build it with cut stones. If you use your tool on it, you make it unfit."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-
 ---
 
 ### Exodus 20:26
 **Original Reference**: Exodus 20:26 - You shall not go up by steps to my altar, that your nakedness may not be exposed to it.'
 
 #### Ages 5-7
-"Do not go up to my altar by steps, so your nakedness is not uncovered on it."
+"Do not go up to my altar by steps, so your body stays covered there."
 
 #### Ages 8-10
-"Do not go up to my altar by steps, so your nakedness is not exposed on it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
+"Do not go up to my altar by steps, so your body stays covered there."
 
 ---
 
 ## Chapter Summary
-Exodus 20 is a draft resource chapter. The chapter opens with "God spoke all these words.," moves through "You must not commit adultery.," and closes with "Do not go up to my altar by steps, so your nakedness is not exposed on it.." Review this summary for fuller theological detail before approval.
+God speaks the covenant words, beginning with his rescue from Egypt and giving Israel the Ten Commandments.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
@@ -465,16 +350,12 @@ Exodus 20 is a draft resource chapter. The chapter opens with "God spoke all the
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 20 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

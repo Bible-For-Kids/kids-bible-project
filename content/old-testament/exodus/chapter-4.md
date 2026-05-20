@@ -1,14 +1,14 @@
 # Exodus Chapter 4
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 4 and should be reviewed before approval.
+Exodus 4 continues the rescue-and-covenant story. The Lord gives Moses signs, sends Aaron to help him, and Moses returns toward Egypt to speak God's words.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- sign: Something God gives or does to show his word is true
+- Pharaoh: The king of Egypt
 - Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,8 @@ Moses answered, "But they will not believe me or listen to me. They will say, 'T
 #### Ages 8-10
 Moses answered, "But they will not believe me or listen to my voice. They will say, 'The Lord has not appeared to you.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -40,13 +35,8 @@ The Lord said to him, "What is that in your hand?" Moses said, "A rod."
 #### Ages 8-10
 The Lord said to him, "What is that in your hand?" Moses said, "A rod."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -59,13 +49,8 @@ The Lord said, "Throw it on the ground." Moses threw it on the ground, and it be
 #### Ages 8-10
 The Lord said, "Throw it on the ground." Moses threw it on the ground, and it became a serpent. Moses ran from it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- serpent: The crafty creature that tempted the woman in Eden
 
 ---
 
@@ -78,13 +63,8 @@ The Lord said to Moses, "Reach out your hand and take it by the tail." Moses rea
 #### Ages 8-10
 The Lord said to Moses, "Reach out your hand and take it by the tail." Moses reached out and caught it, and it became a rod in his hand again.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -97,15 +77,6 @@ The Lord said, "This is so they may believe that the Lord God of their fathers, 
 #### Ages 8-10
 The Lord said, "This is so they may believe that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 4:6
@@ -117,13 +88,8 @@ The Lord also said to him, "Put your hand inside your robe." Moses put his hand 
 #### Ages 8-10
 The Lord also said to him, "Put your hand inside your robe." Moses put his hand inside his robe. When he took it out, his hand was diseased, white as snow.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -136,11 +102,7 @@ Then the Lord said, "Put your hand back inside your robe." Moses put his hand ba
 #### Ages 8-10
 Then the Lord said, "Put your hand back inside your robe." Moses put his hand back inside his robe. When he took it out, it was restored like the rest of his skin.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -154,11 +116,8 @@ The Lord said, "If they do not believe you or listen to the first sign, they may
 #### Ages 8-10
 The Lord said, "If they do not believe you or listen to the first sign, they may believe the second sign.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -171,8 +130,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If they do not believe even these two signs or listen to your voice, take water from the river and pour it on dry ground. The water you take from the river will become blood on the dry ground."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -185,13 +144,8 @@ Moses said to the Lord, "My Lord, I am not good at speaking. I was not before, a
 #### Ages 8-10
 Moses said to the Lord, "My Lord, I am not a good speaker. I was not before, and I am not now, even after you have spoken to your servant. I am slow in speech and slow with words."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -203,13 +157,6 @@ The Lord said to him, "Who made a person's mouth? Who makes a person unable to s
 
 #### Ages 8-10
 The Lord said to him, "Who made a person's mouth? Who makes a person unable to speak or hear, able to see or unable to see? Is it not I, the Lord?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -223,7 +170,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Now go. I will be with your mouth and teach you what to say."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -236,11 +183,7 @@ Moses said, "My Lord, please send someone else."
 #### Ages 8-10
 Moses said, "My Lord, please send someone else."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -254,14 +197,9 @@ Then the Lord became angry with Moses and said, "Is Aaron the Levite not your br
 #### Ages 8-10
 Then the Lord became angry with Moses and said, "Is not Aaron the Levite your brother? I know he can speak well. He is already coming to meet you, and when he sees you, he will be glad in his heart.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -272,10 +210,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "You will speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
 
 #### Ages 8-10
-"You shall speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"You will speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
 
 ---
 
@@ -288,12 +223,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He will speak to the people for you. He will be your spokesman, and you will be to him in God's place.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -306,8 +237,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Take this rod in your hand. With it you will do the signs."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -320,12 +251,7 @@ Moses went back to Jethro, his father-in-law, and said, "Please let me go back t
 #### Ages 8-10
 Moses went back to Jethro his father-in-law and said to him, "Please let me return to my relatives in Egypt and see whether they are still alive." Jethro said to Moses, "Go in peace."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -339,14 +265,8 @@ The Lord said to Moses in Midian, "Go back to Egypt, because all the men who wan
 #### Ages 8-10
 The Lord said to Moses in Midian, "Go back to Egypt, for all the men who wanted to kill you are dead."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -359,12 +279,7 @@ Moses took his wife and his sons, put them on a donkey, and went back toward Egy
 #### Ages 8-10
 Moses took his wife and his sons, placed them on a donkey, and returned to the land of Egypt. Moses took the rod of God in his hand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -378,15 +293,9 @@ The Lord said to Moses, "When you return to Egypt, do all the wonders before Pha
 #### Ages 8-10
 The Lord said to Moses, "When you go back to Egypt, see that you do all the wonders before Pharaoh that I have put in your hand. But I will harden his heart, and he will not let the people go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -397,16 +306,11 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "You must say to Pharaoh, 'This is what the Lord says: Israel is my son, my firstborn.
 
 #### Ages 8-10
-"You shall say to Pharaoh, 'This is what the Lord says: Israel is my son, my firstborn.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"You will say to Pharaoh, 'This is what the Lord says: Israel is my son, my firstborn.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -419,9 +323,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I say to you, let my son go, so he may serve me. If you refuse to let him go, I will kill your son, your firstborn.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 4:24
@@ -433,13 +334,8 @@ On the way, at a place where they stopped for the night, the Lord met Moses and 
 #### Ages 8-10
 On the way, at a lodging place, the Lord met Moses and sought to kill him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -451,9 +347,6 @@ Then Zipporah took a sharp stone and circumcised her son. She touched Moses' fee
 
 #### Ages 8-10
 Then Zipporah took a sharp stone, circumcised her son, and touched Moses' feet with it. She said, "Surely you are a husband of blood to me."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -469,11 +362,7 @@ So the Lord let Moses go. Then Zipporah said, "A husband of blood," because of t
 #### Ages 8-10
 So the Lord let him go. Then Zipporah said, "A husband of blood," because of the circumcision.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -487,15 +376,9 @@ The Lord said to Aaron, "Go into the wilderness to meet Moses." Aaron went, met 
 #### Ages 8-10
 The Lord said to Aaron, "Go into the wilderness to meet Moses." Aaron went, met him at the mountain of God, and kissed him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -508,14 +391,10 @@ Moses told Aaron all the words of the Lord, who had sent him. He also told Aaron
 #### Ages 8-10
 Moses told Aaron all the words of the Lord, who had sent him, and all the signs the Lord had commanded him to do.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -528,13 +407,10 @@ Moses and Aaron went and gathered all the elders of the children of Israel.
 #### Ages 8-10
 Moses and Aaron went and gathered all the elders of the children of Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -547,14 +423,10 @@ Aaron spoke all the words that the Lord had spoken to Moses, and he did the sign
 #### Ages 8-10
 Aaron spoke all the words that the Lord had spoken to Moses, and he did the signs in the sight of the people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -567,44 +439,36 @@ The people believed. When they heard that the Lord had visited the children of I
 #### Ages 8-10
 The people believed. When they heard that the Lord had visited the children of Israel and had seen their suffering, they bowed their heads and worshiped.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
 ## Chapter Summary
-Exodus 4 is a draft resource chapter. The chapter opens with "Moses answered, "But they will not believe me or listen to my voice. They will say, 'The Lord has...," moves through "He will speak to the people for you. He will be your spokesman, and you will be to him in God's p...," and closes with "The people believed. When they heard that the Lord had visited the children of Israel and had see...." Review this summary for fuller theological detail before approval.
+The Lord gives Moses signs, sends Aaron to help him, and Moses returns toward Egypt to speak God's words.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Moses answered, "But they will not believe me or listen to me. They will say, 'The Lord did not appear to you.'" - Exodus 4:1
+"Now go. I will be with your mouth and teach you what to say." - Exodus 4:12
 
 ### Ages 8-10
-Moses answered, "But they will not believe me or listen to my voice. They will say, 'The Lord has not appeared to you.'" - Exodus 4:1
+"Now go. I will be with your mouth and teach you what to say." - Exodus 4:12
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 4 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

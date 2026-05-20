@@ -1,14 +1,14 @@
 # Exodus Chapter 17
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 17 and should be reviewed before approval.
+Exodus 17 continues the rescue-and-covenant story. The Lord gives water from the rock and gives Israel victory while Moses holds up the staff of God.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
+- water: What the Lord provided for Israel in the dry wilderness
+- wilderness: A wild place away from settled towns
+- Moses: The servant God used to lead Israel out of Egypt
+- deliverance: Being rescued by God from danger or slavery
 - altar: A special place where offerings were given to the Lord
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,9 @@ All the people of Israel traveled from the wilderness of Sin, moving as the Lord
 #### Ages 8-10
 The whole community of Israel traveled from the wilderness of Sin, moving from place to place as the Lord commanded. They camped at Rephidim, but there was no water for the people to drink.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- water: What the Lord provided for Israel in the dry wilderness
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -42,13 +36,9 @@ The people argued with Moses and said, "Give us water to drink." Moses said, "Wh
 #### Ages 8-10
 The people argued with Moses and said, "Give us water to drink." Moses said to them, "Why are you arguing with me? Why are you testing the Lord?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+- water: What the Lord provided for Israel in the dry wilderness
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -61,11 +51,8 @@ The people were very thirsty there, and they grumbled against Moses. They said, 
 #### Ages 8-10
 The people were thirsty there, and they complained against Moses. They said, "Why did you bring us out of Egypt? Was it to make us, our children, and our livestock die of thirst?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- water: What the Lord provided for Israel in the dry wilderness
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -79,13 +66,8 @@ Moses cried out to the Lord, "What should I do with these people? They are almos
 #### Ages 8-10
 Moses cried out to the Lord, "What should I do with these people? They are almost ready to stone me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -98,14 +80,8 @@ The Lord said to Moses, "Go ahead of the people. Take some of Israel's elders wi
 #### Ages 8-10
 The Lord said to Moses, "Go ahead of the people. Take some of the elders of Israel with you, and take in your hand the staff with which you struck the river."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -119,10 +95,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "I will stand before you there on the rock at Horeb. Strike the rock, and water will come out of it for the people to drink." Moses did this in the sight of the elders of Israel.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- water: What the Lord provided for Israel in the dry wilderness
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -136,14 +112,8 @@ Moses named the place Massah and Meribah, because the people of Israel argued an
 #### Ages 8-10
 Moses named the place Massah and Meribah because the Israelites argued and because they tested the Lord by saying, "Is the Lord among us or not?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -156,12 +126,6 @@ Then Amalek came and fought against Israel at Rephidim.
 #### Ages 8-10
 Then Amalek came and fought against Israel at Rephidim.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 17:9
@@ -173,11 +137,7 @@ Moses said to Joshua, "Choose men for us and go fight Amalek. Tomorrow I will st
 #### Ages 8-10
 Moses said to Joshua, "Choose men for us and go fight Amalek. Tomorrow I will stand on top of the hill with the staff of God in my hand."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -191,11 +151,7 @@ Joshua did what Moses said and fought Amalek. Moses, Aaron, and Hur went up to t
 #### Ages 8-10
 Joshua did as Moses told him and fought Amalek. Moses, Aaron, and Hur went up to the top of the hill.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -209,11 +165,7 @@ When Moses held up his hand, Israel was winning. When he lowered his hand, Amale
 #### Ages 8-10
 Whenever Moses held up his hand, Israel gained the advantage. Whenever he lowered his hand, Amalek gained the advantage.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -227,11 +179,7 @@ Moses' hands grew tired, so Aaron and Hur took a stone and put it under him. He 
 #### Ages 8-10
 Moses' hands became heavy, so Aaron and Hur took a stone and put it under him, and he sat on it. They held up his hands, one on one side and one on the other, until sunset.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -245,9 +193,6 @@ Joshua defeated Amalek and his people with the sword.
 #### Ages 8-10
 Joshua defeated Amalek and his people with the sword.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 17:14
@@ -259,13 +204,8 @@ The Lord said to Moses, "Write this in a book so it will be remembered, and tell
 #### Ages 8-10
 The Lord said to Moses, "Write this in a book as a memorial, and make sure Joshua hears it: I will completely erase the memory of Amalek from under heaven."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -278,14 +218,9 @@ Moses built an altar and named it, "The Lord Is My Banner."
 #### Ages 8-10
 Moses built an altar and named it, "The Lord Is My Banner."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- altar: A special place where offerings were given to the Lord
 
 ---
 
@@ -298,43 +233,33 @@ He said, "Because a hand was lifted against the Lord's throne, the Lord will be 
 #### Ages 8-10
 He said, "Because a hand was raised against the Lord's throne, the Lord will have war with Amalek from generation to generation."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Exodus 17 is a draft resource chapter. The chapter opens with "The whole community of Israel traveled from the wilderness of Sin, moving from place to place as...," moves through "Moses said to Joshua, "Choose men for us and go fight Amalek. Tomorrow I will stand on top of the...," and closes with "He said, "Because a hand was raised against the Lord's throne, the Lord will have war with Amalek...." Review this summary for fuller theological detail before approval.
+The Lord gives water from the rock and gives Israel victory while Moses holds up the staff of God.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-All the people of Israel traveled from the wilderness of Sin, moving as the Lord commanded. They camped at Rephidim, but there was no water for the people to drink. - Exodus 17:1
+"I will stand before you there on the rock at Horeb. Strike the rock, and water will come out of it so the people may drink." Moses did this while the elders of Israel watched. - Exodus 17:6
 
 ### Ages 8-10
-The whole community of Israel traveled from the wilderness of Sin, moving from place to place as the Lord commanded. They camped at Rephidim, but there was no water for the people to drink. - Exodus 17:1
+"I will stand before you there on the rock at Horeb. Strike the rock, and water will come out of it for the people to drink." Moses did this in the sight of the elders of Israel. - Exodus 17:6
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 17 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

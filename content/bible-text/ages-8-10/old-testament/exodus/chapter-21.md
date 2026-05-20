@@ -102,13 +102,13 @@ These are the judgments Moses was to set before the people.
 "If the ox gores a son or a daughter, the same judgment applies."
 
 ### Exodus 21:32
-"If the ox gores a male or female servant, the owner must pay thirty shekels of silver to the servant's master, and the ox must be stoned."
+"If the ox gores a male or female servant, the owner must pay thirty silver pieces to the servant's master, and the ox must be stoned."
 
 ### Exodus 21:33
 "If a man opens a pit, or digs a pit and does not cover it, and an ox or donkey falls into it,"
 
 ### Exodus 21:34
-"the owner of the pit must make restitution. He must pay money to the animal's owner, and the dead animal will be his."
+"the owner of the pit must pay back what was lost. He must pay money to the animal's owner, and the dead animal will be his."
 
 ### Exodus 21:35
 "If one man's ox hurts another man's ox so that it dies, they must sell the living ox and divide the money. They must also divide the dead ox."

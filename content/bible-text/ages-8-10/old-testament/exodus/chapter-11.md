@@ -12,7 +12,7 @@ Exodus
 The Lord said to Moses, "I will bring one more plague on Pharaoh and on Egypt. Afterward he will let you go from here, and when he does, he will drive you out completely.
 
 ### Exodus 11:2
-Tell the people that every man and woman should ask their neighbors for articles of silver and gold."
+Tell the people that every man and woman should ask their neighbors for silver and gold items."
 
 ### Exodus 11:3
 The Lord gave the people favor in the eyes of the Egyptians. Moses himself was considered very great in Egypt by Pharaoh's servants and by the people.

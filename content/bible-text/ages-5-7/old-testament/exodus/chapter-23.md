@@ -51,7 +51,7 @@ Exodus
 "Three times each year you must keep a feast to me."
 
 ### Exodus 23:15
-"Keep the Feast of Unleavened Bread. For seven days you must eat bread without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt. No one must come before me empty-handed."
+"Keep the Feast of Bread Made Without Yeast. For seven days you must eat bread without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt. No one must come before me empty-handed."
 
 ### Exodus 23:16
 "Keep the Feast of Harvest with the first crops from what you planted in the field. Also keep the Feast of Gathering at the end of the year, when you gather in the fruit of your work from the field."

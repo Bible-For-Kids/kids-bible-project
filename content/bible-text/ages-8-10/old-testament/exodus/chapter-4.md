@@ -51,7 +51,7 @@ Moses said, "My Lord, please send someone else."
 Then the Lord became angry with Moses and said, "Is not Aaron the Levite your brother? I know he can speak well. He is already coming to meet you, and when he sees you, he will be glad in his heart.
 
 ### Exodus 4:15
-"You shall speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
+"You will speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you what to do.
 
 ### Exodus 4:16
 "He will speak to the people for you. He will be your spokesman, and you will be to him in God's place.
@@ -72,7 +72,7 @@ Moses took his wife and his sons, placed them on a donkey, and returned to the l
 The Lord said to Moses, "When you go back to Egypt, see that you do all the wonders before Pharaoh that I have put in your hand. But I will harden his heart, and he will not let the people go.
 
 ### Exodus 4:22
-"You shall say to Pharaoh, 'This is what the Lord says: Israel is my son, my firstborn.
+"You will say to Pharaoh, 'This is what the Lord says: Israel is my son, my firstborn.
 
 ### Exodus 4:23
 "I say to you, let my son go, so he may serve me. If you refuse to let him go, I will kill your son, your firstborn.'"

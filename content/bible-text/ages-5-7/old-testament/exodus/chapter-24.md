@@ -21,7 +21,7 @@ Moses came and told the people all the Lord's words and all the rules. All the p
 Moses wrote down all the words of the Lord. Early the next morning he built an altar at the foot of the mountain and set up twelve pillars for the twelve tribes of Israel.
 
 ### Exodus 24:5
-He sent young Israelite men, and they offered burnt offerings and peace offerings of oxen to the Lord.
+He sent young Israelite men, and they offered burned offerings and peace offerings of oxen to the Lord.
 
 ### Exodus 24:6
 Moses took half of the blood and put it in bowls, and he sprinkled the other half on the altar.

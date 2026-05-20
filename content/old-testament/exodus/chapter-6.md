@@ -1,14 +1,14 @@
 # Exodus Chapter 6
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 6 and should be reviewed before approval.
+Exodus 6 continues the rescue-and-covenant story. The Lord answers Moses with his covenant name, promises rescue, and traces the family line of Moses and Aaron.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- covenant: A serious promise relationship God makes
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- covenant: A serious promise relationship God makes with his people
+- promise: Words someone says and keeps
+- deliverance: Being rescued by God from danger or slavery
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,8 @@ Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. By a s
 #### Ages 8-10
 Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. Because of my strong hand, he will let them go; because of my strong hand, he will drive them out of his land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -41,14 +35,8 @@ God spoke to Moses and said, "I am the Lord."
 #### Ages 8-10
 God spoke to Moses and said to him, "I am the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -61,14 +49,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I appeared to Abraham, Isaac, and Jacob as God Almighty, but I was not known to them by my name Jehovah."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 6:4
@@ -80,11 +60,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I also established my covenant with them, to give them the land of Canaan, the land where they lived as foreigners."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -97,12 +74,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I have heard the groaning of the children of Israel, whom the Egyptians keep in slavery, and I have remembered my covenant."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Israel: God's covenant people descended from Jacob
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -114,15 +87,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Therefore tell the children of Israel, 'I am the Lord. I will bring you out from under the burdens of the Egyptians, rescue you from their slavery, and redeem you with an outstretched arm and great judgments.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -136,13 +100,11 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "'I will take you as my people, and I will be your God. You will know that I am the Lord your God, who brings you out from under the burdens of the Egyptians.'"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This covenant sentence joins rescue with relationship: the Lord will be their God and they will be his people.
 
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Leviticus 26:12
+- Revelation 21:3
 
 ---
 
@@ -155,13 +117,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'I will bring you into the land I swore to give to Abraham, Isaac, and Jacob, and I will give it to you as an inheritance. I am the Lord.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
 
 ---
 
@@ -174,11 +131,7 @@ Moses told the children of Israel these words, but their spirits were so crushed
 #### Ages 8-10
 Moses spoke this to the children of Israel, but they did not listen to him because their spirits were broken by cruel slavery.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -192,13 +145,8 @@ The Lord spoke to Moses again.
 #### Ages 8-10
 The Lord spoke to Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -211,14 +159,6 @@ He said, "Go and speak to Pharaoh king of Egypt. Tell him to let the children of
 #### Ages 8-10
 He said, "Go, speak to Pharaoh king of Egypt, so that he will let the children of Israel leave his land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Exodus 6:12
@@ -230,15 +170,8 @@ Moses said to the Lord, "The children of Israel have not listened to me. How wil
 #### Ages 8-10
 Moses said before the Lord, "The children of Israel have not listened to me. How will Pharaoh listen to me, since I am not a good speaker?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -251,15 +184,9 @@ The Lord spoke to Moses and Aaron and gave them a command for the children of Is
 #### Ages 8-10
 The Lord spoke to Moses and Aaron and gave them orders for the children of Israel and for Pharaoh king of Egypt, to bring the children of Israel out of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -272,12 +199,6 @@ These were the leaders of their fathers' families: Reuben, Israel's firstborn, h
 #### Ages 8-10
 These were the heads of their fathers' houses: the sons of Reuben, Israel's firstborn, were Hanoch, Pallu, Hezron, and Carmi. These were the families of Reuben.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 6:15
@@ -288,9 +209,6 @@ Simeon's sons were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother w
 
 #### Ages 8-10
 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the families of Simeon.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -303,9 +221,6 @@ These were the names of Levi's sons by their generations: Gershon, Kohath, and M
 #### Ages 8-10
 These were the names of Levi's sons according to their generations: Gershon, Kohath, and Merari. Levi lived 137 years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 6:17
@@ -316,9 +231,6 @@ Gershon's sons were Libni and Shimi, each with their families.
 
 #### Ages 8-10
 The sons of Gershon were Libni and Shimi, according to their families.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -331,9 +243,6 @@ Kohath's sons were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 #### Ages 8-10
 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 6:19
@@ -344,12 +253,6 @@ Merari's sons were Mahali and Mushi. These were the families of Levi by their ge
 
 #### Ages 8-10
 The sons of Merari were Mahali and Mushi. These were the families of Levi according to their generations.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Levites: The tribe set apart for service connected with worship
 
 ---
 
@@ -362,12 +265,9 @@ Amram married Jochebed, his father's sister, and she gave birth to Aaron and Mos
 #### Ages 8-10
 Amram married Jochebed, his father's sister, and she gave birth to Aaron and Moses. Amram lived 137 years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -380,9 +280,6 @@ Izhar's sons were Korah, Nepheg, and Zichri.
 #### Ages 8-10
 The sons of Izhar were Korah, Nepheg, and Zichri.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 6:22
@@ -393,9 +290,6 @@ Uzziel's sons were Mishael, Elzaphan, and Zithri.
 
 #### Ages 8-10
 The sons of Uzziel were Mishael, Elzaphan, and Zithri.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -408,11 +302,8 @@ Aaron married Elisheba, daughter of Amminadab and sister of Naashon. She gave bi
 #### Ages 8-10
 Aaron married Elisheba, daughter of Amminadab and sister of Naashon, and she gave birth to Nadab, Abihu, Eleazar, and Ithamar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -425,9 +316,6 @@ Korah's sons were Assir, Elkanah, and Abiasaph. These were the families of the K
 #### Ages 8-10
 The sons of Korah were Assir, Elkanah, and Abiasaph. These were the families of the Korahites.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 6:25
@@ -439,12 +327,8 @@ Eleazar, Aaron's son, married one of Putiel's daughters, and she gave birth to P
 #### Ages 8-10
 Eleazar, Aaron's son, married one of Putiel's daughters, and she gave birth to Phinehas. These were the heads of the fathers' houses of the Levites by their families.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Levites: The tribe set apart for service connected with worship
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -457,15 +341,9 @@ This was the same Aaron and Moses to whom the Lord said, "Bring the children of 
 #### Ages 8-10
 These are the Aaron and Moses to whom the Lord said, "Bring the children of Israel out of Egypt according to their groups."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -478,15 +356,9 @@ They were the ones who spoke to Pharaoh king of Egypt to bring the children of I
 #### Ages 8-10
 They were the ones who spoke to Pharaoh king of Egypt to bring the children of Israel out of Egypt. These are that Moses and Aaron.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -499,14 +371,8 @@ On the day when the Lord spoke to Moses in the land of Egypt,
 #### Ages 8-10
 On the day when the Lord spoke to Moses in the land of Egypt,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -519,15 +385,8 @@ the Lord said to Moses, "I am the Lord. Tell Pharaoh king of Egypt everything I 
 #### Ages 8-10
 the Lord said to Moses, "I am the Lord. Speak to Pharaoh king of Egypt everything that I say to you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -540,45 +399,36 @@ But Moses said to the Lord, "I do not speak well. How will Pharaoh listen to me?
 #### Ages 8-10
 Moses said before the Lord, "I am not a good speaker, so how will Pharaoh listen to me?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
 ## Chapter Summary
-Exodus 6 is a draft resource chapter. The chapter opens with "Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. Because of my strong ha...," moves through "These were the names of Levi's sons according to their generations: Gershon, Kohath, and Merari....," and closes with "Moses said before the Lord, "I am not a good speaker, so how will Pharaoh listen to me?." Review this summary for fuller theological detail before approval.
+The Lord answers Moses with his covenant name, promises rescue, and traces the family line of Moses and Aaron.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. By a strong hand he will let my people go, and by a strong hand he will drive them out of his land." - Exodus 6:1
+"'I will take you as my people, and I will be your God. You will know that I am the Lord your God, who brings you out from under Egypt's burdens.'" - Exodus 6:7
 
 ### Ages 8-10
-Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. Because of my strong hand, he will let them go; because of my strong hand, he will drive them out of his land." - Exodus 6:1
+"'I will take you as my people, and I will be your God. You will know that I am the Lord your God, who brings you out from under the burdens of the Egyptians.'" - Exodus 6:7
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 6 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 6 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

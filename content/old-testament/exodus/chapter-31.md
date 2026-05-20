@@ -1,14 +1,14 @@
 # Exodus Chapter 31
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 31 and should be reviewed before approval.
+Exodus 31 continues the rescue-and-covenant story. The Lord fills Bezalel and Oholiab with skill for the holy work and reminds Israel to keep the Sabbath.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- Sabbath: A day of holy rest
+- tabernacle: The holy tent where the Lord met with Israel
 - holy: Set apart for God
+- Moses: The servant God used to lead Israel out of Egypt
+- covenant: A serious promise relationship God makes with his people
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,8 @@ The Lord spoke to Moses.
 #### Ages 8-10
 The Lord spoke to Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -40,9 +35,6 @@ He said, "I have chosen Bezalel by name. He is the son of Uri, the son of Hur, f
 #### Ages 8-10
 He said, "See, I have called Bezalel by name. He is the son of Uri, the son of Hur, from the tribe of Judah."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 31:3
@@ -53,12 +45,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I have filled him with the Spirit of God, with wisdom, understanding, knowledge, and every kind of craftsmanship."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -71,9 +57,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He can design skillful work in gold, silver, and bronze."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 31:5
@@ -84,9 +67,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "He can cut stones for settings, carve wood, and work in every kind of craft."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -99,26 +79,21 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I have also appointed Aholiab son of Ahisamach, from the tribe of Dan, to work with him. I have put wisdom in the hearts of all the skilled workers, so they can make everything I have commanded you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 31:7
 **Original Reference**: Exodus 31:7 - the Tent of Meeting, the ark of the covenant, the mercy seat that is on it, all the furniture of the Tent,
 
 #### Ages 5-7
-"They will make the meeting tent, the ark of the testimony, the mercy seat on it, and all the things used in the tabernacle."
+"They will make the meeting tent, the ark of the testimony, the cover of the ark on it, and all the things used in the holy tent."
 
 #### Ages 8-10
-"They will make the meeting tent, the ark of the testimony, the mercy seat on it, and all the furnishings of the tabernacle."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"They will make the meeting tent, the ark of the testimony, the atonement cover on it, and all the furnishings of the tabernacle."
 
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
 - tabernacle: The holy tent where the Lord met with Israel
+- holy: Set apart for God
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -126,16 +101,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 31:8 - the table and its vessels, the pure lamp stand with all its vessels, the altar of incense,
 
 #### Ages 5-7
-"They will make the table and its things, the pure lampstand and all its things, and the altar for incense."
+"They will make the table and its things, the pure lampstand and all its things, and the altar for sweet-smelling incense."
 
 #### Ages 8-10
-"They will make the table and its utensils, the pure lampstand and all its utensils, and the altar of incense."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
+"They will make the table and its utensils, the pure lampstand and all its utensils, and the altar of sweet-smelling incense."
 
 ---
 
@@ -143,17 +112,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 31:9 - the altar of burnt offering with all its vessels, the basin and its base,
 
 #### Ages 5-7
-"They will make the altar for burnt offerings and all its things, and the washbasin with its stand."
+"They will make the altar for burned offerings and all its things, and the washbasin with its stand."
 
 #### Ages 8-10
-"They will make the altar of burnt offering and all its utensils, and the basin with its stand."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- offering: A gift brought to the Lord in worship
+"They will make the altar of burned offering and all its utensils, and the basin with its stand."
 
 ---
 
@@ -164,15 +126,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "They will make the special woven clothes, the holy clothes for Aaron the priest, and the clothes for his sons when they serve as priests."
 
 #### Ages 8-10
-"They will make the woven garments, the holy garments for Aaron the priest, and the garments for his sons to serve as priests."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"They will make the woven clothes, the holy clothes for Aaron the priest, and the clothes for his sons to serve as priests."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
-- priest: A worship leader who served at the holy place
 
 ---
 
@@ -180,13 +137,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 31:11 - the anointing oil, and the incense of sweet spices for the holy place: according to all that I have commanded you they shall do."
 
 #### Ages 5-7
-"They will make the anointing oil and the sweet-smelling incense for the holy place. They must do everything just as I commanded you."
+"They will make the special setting-apart oil and the sweet-smelling incense for the holy place. They must do everything just as I commanded you."
 
 #### Ages 8-10
-"They will make the anointing oil and the fragrant incense for the holy place. They must do everything just as I have commanded you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"They will make the special anointing oil and the sweet-smelling incense for the holy place. They must do everything just as I have commanded you."
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -202,13 +156,8 @@ The Lord spoke to Moses again.
 #### Ages 8-10
 The Lord spoke to Moses again.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -222,13 +171,11 @@ He said, "Speak to the people of Israel and tell them, 'You must keep my Sabbath
 He said, "Tell the people of Israel, 'You must keep my Sabbaths, because this is a sign between me and you throughout your generations, so you may know that I am the Lord who makes you holy.'"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
+- Sabbath: A day of holy rest
 - holy: Set apart for God
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -241,12 +188,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Keep the Sabbath, because it is holy for you. Whoever treats it as ordinary must be put to death. Whoever does any work on it must be cut off from his people.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- holy: Set apart for God
 - Sabbath: A day of holy rest
+- holy: Set apart for God
 
 ---
 
@@ -259,14 +203,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Work may be done for six days, but the seventh day is a Sabbath of complete rest, holy to the Lord. Whoever does any work on the Sabbath day must be put to death.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- holy: Set apart for God
 
 ---
 
@@ -279,13 +218,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'The people of Israel must keep the Sabbath, observing it throughout their generations as a lasting covenant.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Israel: God's covenant people descended from Jacob
 - Sabbath: A day of holy rest
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -298,14 +233,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'It is a sign forever between me and the people of Israel. In six days the Lord made heaven and earth, and on the seventh day he rested and was refreshed.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 31:18
@@ -317,45 +244,37 @@ When the Lord finished speaking with Moses on Mount Sinai, he gave him two table
 #### Ages 8-10
 When the Lord finished speaking with Moses on Mount Sinai, he gave him the two tablets of testimony, tablets of stone written by the finger of God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
 ## Chapter Summary
-Exodus 31 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses.," moves through "They will make the woven garments, the holy garments for Aaron the priest, and the garments for h...," and closes with "When the Lord finished speaking with Moses on Mount Sinai, he gave him the two tablets of testimo...." Review this summary for fuller theological detail before approval.
+The Lord fills Bezalel and Oholiab with skill for the holy work and reminds Israel to keep the Sabbath.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-He said, "I have chosen Bezalel by name. He is the son of Uri, the son of Hur, from the tribe of Judah." - Exodus 31:2
+He said, "Speak to the people of Israel and tell them, 'You must keep my Sabbaths. This will be a sign between me and you for all your generations, so you may know that I am the Lord who makes you holy.'" - Exodus 31:13
 
 ### Ages 8-10
-He said, "See, I have called Bezalel by name. He is the son of Uri, the son of Hur, from the tribe of Judah." - Exodus 31:2
+He said, "Tell the people of Israel, 'You must keep my Sabbaths, because this is a sign between me and you throughout your generations, so you may know that I am the Lord who makes you holy.'" - Exodus 31:13
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 31 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 31 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

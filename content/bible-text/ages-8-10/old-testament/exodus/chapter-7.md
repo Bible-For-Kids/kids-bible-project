@@ -12,7 +12,7 @@ Exodus
 The Lord said to Moses, "See, I have made you like God to Pharaoh, and Aaron your brother will be your prophet."
 
 ### Exodus 7:2
-"You shall speak everything I command you, and Aaron your brother shall speak to Pharaoh so that he sends the children of Israel out of his land."
+"You will speak everything I command you, and Aaron your brother will speak to Pharaoh so that he sends the children of Israel out of his land."
 
 ### Exodus 7:3
 "I will harden Pharaoh's heart and multiply my signs and wonders in the land of Egypt."

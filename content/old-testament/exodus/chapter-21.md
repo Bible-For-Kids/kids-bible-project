@@ -1,13 +1,14 @@
 # Exodus Chapter 21
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 21 and should be reviewed before approval.
+Exodus 21 continues the rescue-and-covenant story. The Lord gives case laws for servants, violence, injury, responsibility, and justice among his people.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
-- judgment: God's right decision about sin
-- Moses: The servant God used to lead Israel out of Egypt
+- law: God's instruction for his covenant people
+- justice: Doing what is right and fair according to God's ways
+- servant: Someone who serves or works for another person
+- neighbor: Another person God calls us to treat rightly
+- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -20,13 +21,6 @@ These are the rules God told Moses to place before the people.
 #### Ages 8-10
 These are the judgments Moses was to set before the people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Moses: The servant God used to lead Israel out of Egypt
-
 ---
 
 ### Exodus 21:2
@@ -38,8 +32,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you buy a Hebrew servant, he must serve six years. In the seventh year, he must go free without paying anything."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -52,9 +46,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If he came by himself, he must leave by himself. If he was married when he came, his wife must leave with him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:4
@@ -65,9 +56,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If his master gave him a wife, and she bore him sons or daughters, the wife and her children belong to her master, and the man must leave by himself."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -80,8 +68,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But if the servant plainly says, 'I love my master, my wife, and my children, and I do not want to go free,'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -94,11 +82,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "then his master must bring him before the judges. He must bring him to the door or doorpost, pierce his ear with an awl, and the servant will serve him permanently."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -111,8 +96,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man sells his daughter as a female servant, she must not leave as male servants do."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -125,9 +110,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If she does not please the master who chose her for himself, he must allow her to be redeemed. He has no right to sell her to a foreign people, because he has dealt faithlessly with her."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:9
@@ -138,9 +120,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If he chooses her for his son, he must treat her according to the rights of daughters."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -153,9 +132,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If he takes another wife, he must not reduce the first woman's food, clothing, or marriage rights."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:11
@@ -166,9 +142,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If he does not provide these three things for her, she may leave free without paying money."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -181,9 +154,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Whoever strikes a person so that the person dies must surely be put to death."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:13
@@ -194,12 +164,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But if the death was not planned, and God allowed it to happen, I will appoint a place where that person may flee."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -212,11 +176,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If someone schemes against his neighbor and kills him by deceit, take him even from my altar, so he may die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -229,9 +190,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Whoever strikes his father or his mother must surely be put to death."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:16
@@ -242,9 +200,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Whoever steals a person and sells him, or is found holding him, must surely be put to death."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -257,9 +212,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Whoever curses his father or his mother must surely be put to death."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:18
@@ -270,9 +222,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If men fight and one hits the other with a stone or with his fist, and the injured man does not die but must stay in bed,"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -285,9 +234,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "then if the injured man gets up and walks outside with his staff, the one who hit him will be cleared. Still, he must pay for the lost time and provide for his healing."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:20
@@ -299,8 +245,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man strikes his male or female servant with a rod, and the servant dies under his hand, he must surely be punished."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -313,8 +259,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But if the servant survives a day or two, the man will not be punished in that same way, because the servant was considered his property."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -326,9 +272,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If men fight and hurt a pregnant woman so that her child is born early, but no further harm follows, the guilty man must pay the fine set by the woman's husband and approved by the judges."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -342,7 +285,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If further harm follows, then the penalty must match the harm: life for life,"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -355,9 +298,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "eye for eye, tooth for tooth, hand for hand, foot for foot,"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:25
@@ -368,9 +308,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "burn for burn, wound for wound, and bruise for bruise."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -383,8 +320,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man strikes the eye of his male or female servant and destroys it, he must let the servant go free because of the eye."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -397,8 +334,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If he knocks out his male or female servant's tooth, he must let the servant go free because of the tooth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -411,9 +348,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. The owner is not punished."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:29
@@ -424,9 +358,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But if the ox had often gored before, and its owner had been warned but did not keep it restrained, and it kills a man or woman, the ox must be stoned, and its owner must also be put to death."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -439,9 +370,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a payment is required to spare the owner's life, he must pay whatever amount is set for him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:31
@@ -453,25 +381,19 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If the ox gores a son or a daughter, the same judgment applies."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- judgment: God's right decision about sin
-
 ---
 
 ### Exodus 21:32
 **Original Reference**: Exodus 21:32 - If the bull gores a male servant or a female servant, thirty shekels of silver shall be given to their master, and the ox shall be stoned.
 
 #### Ages 5-7
-"If the ox gores a male or female servant, the owner must give thirty shekels of silver to the servant's master, and the ox must be stoned."
+"If the ox gores a male or female servant, the owner must give thirty silver pieces to the servant's master, and the ox must be stoned."
 
 #### Ages 8-10
-"If the ox gores a male or female servant, the owner must pay thirty shekels of silver to the servant's master, and the ox must be stoned."
+"If the ox gores a male or female servant, the owner must pay thirty silver pieces to the servant's master, and the ox must be stoned."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- servant: Someone who serves or works for another person
 
 ---
 
@@ -484,9 +406,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man opens a pit, or digs a pit and does not cover it, and an ox or donkey falls into it,"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:34
@@ -496,10 +415,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "the owner of the pit must make it right. He must pay money to the animal's owner, and the dead animal will be his."
 
 #### Ages 8-10
-"the owner of the pit must make restitution. He must pay money to the animal's owner, and the dead animal will be his."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"the owner of the pit must pay back what was lost. He must pay money to the animal's owner, and the dead animal will be his."
 
 ---
 
@@ -512,9 +428,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If one man's ox hurts another man's ox so that it dies, they must sell the living ox and divide the money. They must also divide the dead ox."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 21:36
@@ -526,39 +439,33 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But if it was known that the ox had often gored before, and its owner did not keep it restrained, he must repay ox for ox, and the dead ox will be his."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Exodus 21 is a draft resource chapter. The chapter opens with "These are the judgments Moses was to set before the people.," moves through "then if the injured man gets up and walks outside with his staff, the one who hit him will be cle...," and closes with "But if it was known that the ox had often gored before, and its owner did not keep it restrained,...." Review this summary for fuller theological detail before approval.
+The Lord gives case laws for servants, violence, injury, responsibility, and justice among his people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-These are the rules God told Moses to place before the people. - Exodus 21:1
+"But if more harm follows, then the punishment must match the harm: life for life," - Exodus 21:23
 
 ### Ages 8-10
-These are the judgments Moses was to set before the people. - Exodus 21:1
+"If further harm follows, then the penalty must match the harm: life for life," - Exodus 21:23
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 21 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

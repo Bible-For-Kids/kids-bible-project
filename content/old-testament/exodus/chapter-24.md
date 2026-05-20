@@ -1,14 +1,14 @@
 # Exodus Chapter 24
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 24 and should be reviewed before approval.
+Exodus 24 continues the rescue-and-covenant story. Israel agrees to the covenant, Moses sprinkles covenant blood, and the leaders see God before Moses goes up the mountain.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- covenant: A serious promise relationship God makes with his people
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
+- Moses: The servant God used to lead Israel out of Egypt
+- Sinai: The mountain where God spoke his covenant words to Israel
+- worship: Honoring God with trust, praise, and obedience
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,9 @@ The Lord said to Moses, "Come up to the Lord, you and Aaron, Nadab, Abihu, and s
 #### Ages 8-10
 The Lord said to Moses, "Come up to the Lord, you and Aaron, Nadab, Abihu, and seventy of Israel's elders. Worship from a distance."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- worship: Honoring God with trust, praise, and obedience
 
 ---
 
@@ -42,13 +36,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Moses alone may come near the Lord. The others must not come near, and the people must not go up with him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -61,13 +50,8 @@ Moses came and told the people all the Lord's words and all the rules. All the p
 #### Ages 8-10
 Moses came and told the people all the words of the Lord and all the judgments. All the people answered with one voice, "We will do all the words the Lord has spoken."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -80,15 +64,8 @@ Moses wrote down all the words of the Lord. Early the next morning he built an a
 #### Ages 8-10
 Moses wrote down all the words of the Lord. He rose early in the morning, built an altar at the foot of the mountain, and set up twelve pillars for the twelve tribes of Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -96,18 +73,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 24:5 - He sent young men of the children of Israel, who offered burnt offerings and sacrificed peace offerings of cattle to Yahweh.
 
 #### Ages 5-7
-He sent young Israelite men, and they offered burnt offerings and peace offerings of oxen to the Lord.
+He sent young Israelite men, and they offered burned offerings and peace offerings of oxen to the Lord.
 
 #### Ages 8-10
-He sent young men of Israel, and they offered burnt offerings and sacrificed peace offerings of oxen to the Lord.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+He sent young men of Israel, and they offered burned offerings and sacrificed peace offerings of oxen to the Lord.
 
 ---
 
@@ -120,11 +89,8 @@ Moses took half of the blood and put it in bowls, and he sprinkled the other hal
 #### Ages 8-10
 Moses took half of the blood and put it in bowls, and he sprinkled the other half on the altar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -139,12 +105,10 @@ Then he took the book of the covenant and read it so the people could hear. They
 Then he took the book of the covenant and read it in the hearing of the people. They said, "We will do all that the Lord has spoken, and we will obey."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -158,13 +122,16 @@ Moses took the blood, sprinkled it on the people, and said, "This is the blood o
 Moses took the blood, sprinkled it on the people, and said, "This is the blood of the covenant that the Lord has made with you concerning all these words."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The blood of the covenant confirms the serious covenant relationship between the Lord and Israel.
 
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
+- covenant: A serious promise relationship God makes with his people
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+**Cross-References**:
+- Matthew 26:28
+- Hebrews 9:18-20
 
 ---
 
@@ -177,12 +144,7 @@ Then Moses, Aaron, Nadab, Abihu, and seventy of Israel's elders went up.
 #### Ages 8-10
 Then Moses, Aaron, Nadab, Abihu, and seventy of Israel's elders went up.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -196,13 +158,6 @@ They saw the God of Israel. Under his feet was something like a pavement of sapp
 #### Ages 8-10
 They saw the God of Israel. Under his feet was something like pavement made of sapphire stone, clear like the heavens.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 24:11
@@ -213,13 +168,6 @@ God did not harm the leaders of Israel. They saw God, and they ate and drank.
 
 #### Ages 8-10
 God did not lay his hand against the leaders of Israel. They saw God, and they ate and drank.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -232,14 +180,8 @@ The Lord said to Moses, "Come up to me on the mountain and stay there. I will gi
 #### Ages 8-10
 The Lord said to Moses, "Come up to me on the mountain and stay there. I will give you stone tablets with the law and commandments I have written, so you may teach them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -252,11 +194,7 @@ Moses got up with Joshua, his helper, and Moses went up the mountain of God.
 #### Ages 8-10
 Moses rose with Joshua, his assistant, and Moses went up the mountain of God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -270,11 +208,7 @@ Moses said to the elders, "Wait here for us until we come back to you. Aaron and
 #### Ages 8-10
 He said to the elders, "Wait here for us until we return to you. Aaron and Hur are with you. Whoever has a dispute may go to them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -287,9 +221,6 @@ Moses went up the mountain, and a cloud covered the mountain.
 
 #### Ages 8-10
 Moses went up the mountain, and the cloud covered the mountain.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -305,13 +236,9 @@ The glory of the Lord stayed on Mount Sinai, and the cloud covered it for six da
 #### Ages 8-10
 The glory of the Lord rested on Mount Sinai, and the cloud covered it for six days. On the seventh day, the Lord called to Moses from the middle of the cloud.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Sinai: The mountain where God spoke his covenant words to Israel
 
 ---
 
@@ -324,14 +251,6 @@ To the Israelites, the glory of the Lord looked like a blazing fire on top of th
 #### Ages 8-10
 To the Israelites, the appearance of the Lord's glory was like a consuming fire on top of the mountain.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 24:18
@@ -343,42 +262,36 @@ Moses went into the middle of the cloud and climbed higher up the mountain. Mose
 #### Ages 8-10
 Moses entered the middle of the cloud and went up the mountain. Moses was on the mountain forty days and forty nights.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 24 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "Come up to the Lord, you and Aaron, Nadab, Abihu, and seventy of Israel'...," moves through "They saw the God of Israel. Under his feet was something like pavement made of sapphire stone, cl...," and closes with "Moses entered the middle of the cloud and went up the mountain. Moses was on the mountain forty d...." Review this summary for fuller theological detail before approval.
+Israel agrees to the covenant, Moses sprinkles covenant blood, and the leaders see God before Moses goes up the mountain.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord said to Moses, "Come up to the Lord, you and Aaron, Nadab, Abihu, and seventy of Israel's elders. Worship from far away." - Exodus 24:1
+Then he took the book of the covenant and read it so the people could hear. They said, "We will do all that the Lord has spoken, and we will obey." - Exodus 24:7
 
 ### Ages 8-10
-The Lord said to Moses, "Come up to the Lord, you and Aaron, Nadab, Abihu, and seventy of Israel's elders. Worship from a distance." - Exodus 24:1
+Then he took the book of the covenant and read it in the hearing of the people. They said, "We will do all that the Lord has spoken, and we will obey." - Exodus 24:7
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 24 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 24 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

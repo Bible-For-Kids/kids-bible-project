@@ -1,14 +1,14 @@
 # Exodus Chapter 28
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 28 and should be reviewed before approval.
+Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and his sons as priests and describes the holy clothes they will wear in service.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- priest: A worship leader who served at the holy place
 - holy: Set apart for God
+- worship: Honoring God with trust, praise, and obedience
+- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,10 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 #### Ages 8-10
 "Bring your brother Aaron and his sons near to you from among the Israelites, so Aaron, Nadab, Abihu, Eleazar, and Ithamar may serve me as priests."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - priest: A worship leader who served at the holy place
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -39,13 +35,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Make holy clothes for your brother Aaron, clothes with glory and beauty."
 
 #### Ages 8-10
-"Make holy garments for your brother Aaron, for glory and beauty."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make holy clothes for your brother Aaron, for glory and beauty."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
 
 ---
@@ -57,13 +50,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Speak to the skilled people I have filled with wisdom. They must make Aaron's clothes to set him apart, so he may serve me as priest."
 
 #### Ages 8-10
-"Speak to all the skilled people whom I have filled with a spirit of wisdom. They must make Aaron's garments to set him apart, so he may serve me as priest."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Speak to all the skilled people whom I have filled with a spirit of wisdom. They must make Aaron's clothes to set him apart, so he may serve me as priest."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - priest: A worship leader who served at the holy place
 
 ---
@@ -72,18 +62,15 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:4 - These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest's office.
 
 #### Ages 5-7
-"These are the clothes they must make: a breastplate, an ephod, a robe, a woven tunic, a turban, and a sash. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
+"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
 
 #### Ages 8-10
-"These are the garments they must make: a breastplate, an ephod, a robe, a woven tunic, a turban, and a sash. They must make holy garments for Aaron your brother and for his sons, so they may serve me as priests."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- holy: Set apart for God
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - priest: A worship leader who served at the holy place
+- holy: Set apart for God
 
 ---
 
@@ -91,13 +78,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:5 - They shall use the gold, and the blue, and the purple, and the scarlet, and the fine linen.
 
 #### Ages 5-7
-"They must use gold, blue, purple, and scarlet yarn, and fine linen."
+"They must use gold, blue, purple, and red thread yarn, and fine linen."
 
 #### Ages 8-10
-"They must use gold, blue, purple, and scarlet yarn, and fine linen."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"They must use gold, blue, purple, and red thread yarn, and fine linen."
 
 ---
 
@@ -105,13 +89,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:6 - "They shall make the ephod of gold, blue, purple, scarlet, and fine twined linen, the work of the skillful workman.
 
 #### Ages 5-7
-"They must make the ephod with skilled work, using gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"They must make the priestly vest with skilled work, using gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 #### Ages 8-10
-"They must make the ephod from gold, blue, purple, and scarlet yarn, and finely twisted linen, with skilled work."
+"They must make the priestly vest from gold, blue, purple, and red thread yarn, and finely twisted linen, with skilled work."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -124,22 +108,19 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "It must have two shoulder pieces joined to its two edges, so it is held together."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:8
 **Original Reference**: Exodus 28:8 - The skillfully woven band, which is on it, shall be like its work and of the same piece; of gold, blue, purple, scarlet, and fine twined linen.
 
 #### Ages 5-7
-"The woven waistband on the ephod must be made like the ephod itself, from gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"The woven waistband on the priestly vest must be made like the priestly vest itself, from gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 #### Ages 8-10
-"The woven waistband on the ephod must be made like the ephod itself, from gold, blue, purple, and scarlet yarn, and finely twisted linen."
+"The woven waistband on the priestly vest must be made like the priestly vest itself, from gold, blue, purple, and red thread yarn, and finely twisted linen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -151,9 +132,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Take two onyx stones and engrave on them the names of the sons of Israel."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -169,9 +147,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Put six of their names on one stone and the other six names on the other stone, in the order of their births."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:11
@@ -183,9 +158,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Engrave the two stones with the names of the sons of Israel the way a gem cutter engraves a seal, and set them in gold settings."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -195,19 +167,15 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:12 - You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial.
 
 #### Ages 5-7
-"Put the two stones on the shoulder pieces of the ephod. They will be reminder stones for the Israelites. Aaron will carry their names before the Lord on his shoulders."
+"Put the two stones on the shoulder pieces of the priestly vest. They will be reminder stones for the Israelites. Aaron will carry their names before the Lord on his shoulders."
 
 #### Ages 8-10
-"Put the two stones on the shoulder pieces of the ephod as memorial stones for the Israelites. Aaron will carry their names before the Lord on his two shoulders as a reminder."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Put the two stones on the shoulder pieces of the priestly vest as memorial stones for the Israelites. Aaron will carry their names before the Lord on his two shoulders as a reminder."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- priest: A worship leader who served at the holy place
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -220,9 +188,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make gold settings,"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:14
@@ -234,25 +199,19 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "and make two chains of pure gold, braided like cords. Attach the braided chains to the settings."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:15
 **Original Reference**: Exodus 28:15 - "You shall make a breastplate of judgment, the work of the skillful workman; like the work of the ephod you shall make it; of gold, of blue, and purple, and scarlet, and fine twined linen, you shall make it.
 
 #### Ages 5-7
-"Make the breastplate of judgment with skilled work. Make it like the ephod, from gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 #### Ages 8-10
-"Make the breastplate of judgment with skilled work. Make it like the ephod, from gold, blue, purple, and scarlet yarn, and finely twisted linen."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and finely twisted linen."
 
 **Key Vocabulary**:
-- judgment: God's right decision about sin
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -265,9 +224,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "It must be square and folded double, a span long and a span wide."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:17
@@ -278,9 +234,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Set four rows of stones in it. The first row must be a ruby, a topaz, and a carbuncle."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -293,9 +246,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The second row must be an emerald, a sapphire, and a diamond."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:19
@@ -306,9 +256,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "The third row must be a jacinth, an agate, and an amethyst."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -321,9 +268,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The fourth row must be a beryl, an onyx, and a jasper. They must be mounted in gold settings."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:21
@@ -334,9 +278,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "The stones must have the names of the sons of Israel, twelve names for the twelve tribes. Each name must be engraved like a seal, one name on each stone."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -352,9 +293,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make braided chains of pure gold for the breastplate."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:23
@@ -365,9 +303,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Make two gold rings for the breastplate, and put the two rings on its two ends."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -380,22 +315,19 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Put the two braided gold chains through the two rings at the ends of the breastplate."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:25
 **Original Reference**: Exodus 28:25 - The other two ends of the two braided chains you shall put on the two settings, and put them on the shoulder straps of the ephod in its forepart.
 
 #### Ages 5-7
-"Fasten the other ends of the two chains to the two gold settings. Put them on the front of the ephod's shoulder pieces."
+"Fasten the other ends of the two chains to the two gold settings. Put them on the front of the priestly vest's shoulder pieces."
 
 #### Ages 8-10
-"Fasten the other ends of the two chains to the two settings, and put them on the front of the ephod's shoulder pieces."
+"Fasten the other ends of the two chains to the two settings, and put them on the front of the priestly vest's shoulder pieces."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -403,13 +335,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:26 - You shall make two rings of gold, and you shall put them on the two ends of the breastplate, on its edge, which is toward the side of the ephod inward.
 
 #### Ages 5-7
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the ephod."
+"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
 
 #### Ages 8-10
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the ephod."
+"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -417,13 +349,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:27 - You shall make two rings of gold, and shall put them on the two shoulder straps of the ephod underneath, in its forepart, close by its coupling, above the skillfully woven band of the ephod.
 
 #### Ages 5-7
-"Make two more gold rings and put them on the lower front of the ephod's shoulder pieces, near where it is joined, above the woven waistband."
+"Make two more gold rings and put them on the lower front of the priestly vest's shoulder pieces, near where it is joined, above the woven waistband."
 
 #### Ages 8-10
-"Make two more gold rings and put them on the lower front of the two shoulder pieces of the ephod, near the place where it is joined, above the woven waistband."
+"Make two more gold rings and put them on the lower front of the two shoulder pieces of the priestly vest, near the place where it is joined, above the woven waistband."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -431,13 +363,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:28 - They shall bind the breastplate by its rings to the rings of the ephod with a lace of blue, that it may be on the skillfully woven band of the ephod, and that the breastplate may not swing out from the ephod.
 
 #### Ages 5-7
-"Tie the breastplate by its rings to the rings of the ephod with a blue cord. Then the breastplate will stay above the waistband and will not come loose."
+"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord. Then the breastplate will stay above the waistband and will not come loose."
 
 #### Ages 8-10
-"Tie the breastplate by its rings to the rings of the ephod with a blue cord, so it stays above the woven waistband and does not come loose from the ephod."
+"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord, so it stays above the woven waistband and does not come loose from the priestly vest."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -451,14 +383,12 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment, as a continual reminder before the Lord."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
-- judgment: God's right decision about sin
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -471,15 +401,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Put the Urim and the Thummim in the breastplate of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will always carry the judgment of the Israelites over his heart before the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - Israel: God's covenant people descended from Jacob
-- judgment: God's right decision about sin
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -487,13 +411,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:31 - "You shall make the robe of the ephod all of blue.
 
 #### Ages 5-7
-"Make the robe of the ephod all blue."
+"Make the robe of the priestly vest all blue."
 
 #### Ages 8-10
-"Make the robe of the ephod entirely blue."
+"Make the robe of the priestly vest entirely blue."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -506,22 +430,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "It must have an opening for the head in the middle, with a woven collar around the opening like the opening of armor, so it will not tear."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:33
 **Original Reference**: Exodus 28:33 - On its hem you shall make pomegranates of blue, and of purple, and of scarlet, all around its hem; with bells of gold between and around them:
 
 #### Ages 5-7
-"Around the bottom hem, make pomegranates from blue, purple, and scarlet yarn. Put gold bells between them all around."
+"Around the bottom hem, make pomegranates from blue, purple, and red thread yarn. Put gold bells between them all around."
 
 #### Ages 8-10
-"Around the lower hem, make pomegranates of blue, purple, and scarlet yarn, with gold bells between them all around."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Around the lower hem, make pomegranates of blue, purple, and red thread yarn, with gold bells between them all around."
 
 ---
 
@@ -534,9 +452,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "There must be a gold bell and a pomegranate, then another gold bell and a pomegranate, all around the hem of the robe."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 28:35
@@ -548,14 +463,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Aaron must wear it when he serves. Its sound will be heard when he enters the Holy Place before the Lord and when he leaves, so he will not die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -568,13 +478,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make a plate of pure gold, and engrave on it like a seal: Holy to the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -582,13 +487,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:37 - You shall put it on a lace of blue, and it shall be on the sash. It shall be on the front of the sash.
 
 #### Ages 5-7
-"Fasten it to a blue cord and put it on the front of the turban."
+"Fasten it to a blue cord and put it on the front of the head wrap."
 
 #### Ages 8-10
-"Fasten it to a blue cord and place it on the front of the turban."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Fasten it to a blue cord and place it on the front of the head wrap."
 
 ---
 
@@ -601,15 +503,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "It will be on Aaron's forehead, and Aaron will bear any guilt connected with the holy gifts the Israelites set apart. It must always be on his forehead, so the gifts may be accepted before the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- guilt: The blame that comes from doing wrong
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -617,13 +514,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:39 - You shall weave the tunic with fine linen. You shall make a turban of fine linen. You shall make a sash, the work of the embroiderer.
 
 #### Ages 5-7
-"Weave the tunic from fine linen. Make the turban from fine linen, and make the sash with needlework."
+"Weave the long shirt from fine linen. Make the head wrap from fine linen, and make the waistband with needlework."
 
 #### Ages 8-10
-"Weave the tunic from fine linen. Make the turban from fine linen, and make the sash with embroidery."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Weave the long shirt from fine linen. Make the head wrap from fine linen, and make the waistband with embroidery."
 
 ---
 
@@ -631,16 +525,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:40 - "You shall make tunics for Aaron's sons. You shall make sashes for them. You shall make headbands for them, for glory and for beauty.
 
 #### Ages 5-7
-"Make tunics, sashes, and caps for Aaron's sons, for glory and beauty."
+"Make long shirts, waistbands, and caps for Aaron's sons, for glory and beauty."
 
 #### Ages 8-10
-"For Aaron's sons, make tunics, sashes, and caps for glory and beauty."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"For Aaron's sons, make long shirts, waistbands, and caps for glory and beauty."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -648,17 +539,15 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:41 - You shall put them on Aaron your brother, and on his sons with him, and shall anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest's office.
 
 #### Ages 5-7
-"Put these clothes on Aaron your brother and on his sons. Anoint them, ordain them, and set them apart, so they may serve me as priests."
+"Put these clothes on Aaron your brother and on his sons. Set them apart with oil, appoint them, and make them holy, so they may serve me as priests."
 
 #### Ages 8-10
-"Put these clothes on Aaron your brother and on his sons. Anoint them, ordain them, and set them apart, so they may serve me as priests."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Put these clothes on Aaron your brother and on his sons. Set them apart with oil, appoint them, and make them holy, so they may serve me as priests."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - priest: A worship leader who served at the holy place
+- holy: Set apart for God
 
 ---
 
@@ -666,13 +555,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 28:42 - You shall make them linen pants to cover their naked flesh. They shall reach from the waist even to the thighs.
 
 #### Ages 5-7
-"Make linen underclothes for them to cover their nakedness. They must reach from the waist to the thighs."
+"Make linen underclothes for them to cover their lower bodies. They must reach from the waist to the thighs."
 
 #### Ages 8-10
-"Make linen undergarments for them to cover their nakedness. They must reach from the waist to the thighs."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make linen undergarments for them to cover their lower bodies. They must reach from the waist to the thighs."
 
 ---
 
@@ -685,45 +571,37 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Aaron and his sons must wear them whenever they enter the tent of meeting or come near the altar to serve in the Holy Place, so they do not bring guilt on themselves and die. This is a lasting rule for Aaron and his descendants after him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- guilt: The blame that comes from doing wrong
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
 
 ---
 
 ## Chapter Summary
-Exodus 28 is a draft resource chapter. The chapter opens with "Bring your brother Aaron and his sons near to you from among the Israelites, so Aaron, Nadab, Abi...," moves through "Make braided chains of pure gold for the breastplate.," and closes with "Aaron and his sons must wear them whenever they enter the tent of meeting or come near the altar...." Review this summary for fuller theological detail before approval.
+The Lord sets apart Aaron and his sons as priests and describes the holy clothes they will wear in service.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Bring your brother Aaron and his sons close to you from among the Israelites," God said. "Aaron, Nadab, Abihu, Eleazar, and Ithamar will serve me as priests." - Exodus 28:1
+"When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment. This will be a steady reminder before the Lord." - Exodus 28:29
 
 ### Ages 8-10
-"Bring your brother Aaron and his sons near to you from among the Israelites, so Aaron, Nadab, Abihu, Eleazar, and Ithamar may serve me as priests." - Exodus 28:1
+"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment, as a continual reminder before the Lord." - Exodus 28:29
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 28 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 28 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

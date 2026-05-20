@@ -18,19 +18,19 @@ Exodus
 "Speak to the skilled people I have filled with wisdom. They must make Aaron's clothes to set him apart, so he may serve me as priest."
 
 ### Exodus 28:4
-"These are the clothes they must make: a breastplate, an ephod, a robe, a woven tunic, a turban, and a sash. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
+"These are the clothes they must make: a breastplate, an priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
 
 ### Exodus 28:5
-"They must use gold, blue, purple, and scarlet yarn, and fine linen."
+"They must use gold, blue, purple, and red thread yarn, and fine linen."
 
 ### Exodus 28:6
-"They must make the ephod with skilled work, using gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"They must make the priestly vest with skilled work, using gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 ### Exodus 28:7
 "It must have two shoulder pieces joined to its two edges, so it holds together."
 
 ### Exodus 28:8
-"The woven waistband on the ephod must be made like the ephod itself, from gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"The woven waistband on the priestly vest must be made like the priestly vest itself, from gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 ### Exodus 28:9
 "Take two onyx stones and carve on them the names of the sons of Israel."
@@ -42,7 +42,7 @@ Exodus
 "Carve the names of the sons of Israel on the two stones like a gem cutter carves a seal. Set the stones in gold settings."
 
 ### Exodus 28:12
-"Put the two stones on the shoulder pieces of the ephod. They will be reminder stones for the Israelites. Aaron will carry their names before the Lord on his shoulders."
+"Put the two stones on the shoulder pieces of the priestly vest. They will be reminder stones for the Israelites. Aaron will carry their names before the Lord on his shoulders."
 
 ### Exodus 28:13
 "Make gold settings,"
@@ -51,7 +51,7 @@ Exodus
 "and make two chains of pure gold, twisted like cords. Fasten the twisted chains to the settings."
 
 ### Exodus 28:15
-"Make the breastplate of judgment with skilled work. Make it like the ephod, from gold, blue, purple, and scarlet yarn, and fine twisted linen."
+"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 ### Exodus 28:16
 "It must be square and folded double, a span long and a span wide."
@@ -81,16 +81,16 @@ Exodus
 "Put the two twisted gold chains through the two rings at the ends of the breastplate."
 
 ### Exodus 28:25
-"Fasten the other ends of the two chains to the two gold settings. Put them on the front of the ephod's shoulder pieces."
+"Fasten the other ends of the two chains to the two gold settings. Put them on the front of the priestly vest's shoulder pieces."
 
 ### Exodus 28:26
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the ephod."
+"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
 
 ### Exodus 28:27
-"Make two more gold rings and put them on the lower front of the ephod's shoulder pieces, near where it is joined, above the woven waistband."
+"Make two more gold rings and put them on the lower front of the priestly vest's shoulder pieces, near where it is joined, above the woven waistband."
 
 ### Exodus 28:28
-"Tie the breastplate by its rings to the rings of the ephod with a blue cord. Then the breastplate will stay above the waistband and will not come loose."
+"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord. Then the breastplate will stay above the waistband and will not come loose."
 
 ### Exodus 28:29
 "When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment. This will be a steady reminder before the Lord."
@@ -99,13 +99,13 @@ Exodus
 "Put the Urim and the Thummim in the breastplate of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will carry the judgment of the Israelites over his heart before the Lord."
 
 ### Exodus 28:31
-"Make the robe of the ephod all blue."
+"Make the robe of the priestly vest all blue."
 
 ### Exodus 28:32
 "Make an opening for the head in the middle of the robe. Put a woven collar around the opening, like the opening in armor, so it will not tear."
 
 ### Exodus 28:33
-"Around the bottom hem, make pomegranates from blue, purple, and scarlet yarn. Put gold bells between them all around."
+"Around the bottom hem, make pomegranates from blue, purple, and red thread yarn. Put gold bells between them all around."
 
 ### Exodus 28:34
 "Put a gold bell and a pomegranate, then another gold bell and a pomegranate, all around the hem of the robe."
@@ -117,22 +117,22 @@ Exodus
 "Make a plate of pure gold. Carve these words on it like a seal: Holy to the Lord."
 
 ### Exodus 28:37
-"Fasten it to a blue cord and put it on the front of the turban."
+"Fasten it to a blue cord and put it on the front of the head wrap."
 
 ### Exodus 28:38
 "It must be on Aaron's forehead. Aaron will carry any guilt connected with the holy gifts the Israelites set apart. It must always be on his forehead, so the gifts may be accepted before the Lord."
 
 ### Exodus 28:39
-"Weave the tunic from fine linen. Make the turban from fine linen, and make the sash with needlework."
+"Weave the long shirt from fine linen. Make the head wrap from fine linen, and make the waistband with needlework."
 
 ### Exodus 28:40
-"Make tunics, sashes, and caps for Aaron's sons, for glory and beauty."
+"Make long shirts, waistbands, and caps for Aaron's sons, for glory and beauty."
 
 ### Exodus 28:41
-"Put these clothes on Aaron your brother and on his sons. Anoint them, ordain them, and set them apart, so they may serve me as priests."
+"Put these clothes on Aaron your brother and on his sons. Set them apart with oil, appoint them, and make them holy, so they may serve me as priests."
 
 ### Exodus 28:42
-"Make linen underclothes for them to cover their nakedness. They must reach from the waist to the thighs."
+"Make linen underclothes for them to cover their lower bodies. They must reach from the waist to the thighs."
 
 ### Exodus 28:43
 "Aaron and his sons must wear them when they enter the tent of meeting or come near the altar to serve in the Holy Place. Then they will not bring guilt on themselves and die. This is a lasting rule for Aaron and his descendants."

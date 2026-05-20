@@ -81,7 +81,7 @@ They could not see one another, and no one rose from his place for three days. B
 Pharaoh called to Moses and said, "Go, serve the Lord. Only let your flocks and herds stay behind. Your little ones may also go with you."
 
 ### Exodus 10:25
-Moses said, "You must also give us sacrifices and burnt offerings, so we may sacrifice to the Lord our God."
+Moses said, "You must also give us sacrifices and burned offerings, so we may sacrifice to the Lord our God."
 
 ### Exodus 10:26
 "Our livestock must also go with us. Not one hoof may be left behind, because we must take from them to serve the Lord our God. We do not know what we must use to serve the Lord until we arrive there."

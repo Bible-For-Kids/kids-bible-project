@@ -36,7 +36,7 @@ All the people answered together, "We will do everything the Lord has spoken." M
 The Lord said to Moses, "I will come to you in a thick cloud, so the people may hear when I speak with you and may always believe you." Moses told the Lord the words of the people.
 
 ### Exodus 19:10
-The Lord said to Moses, "Go to the people and consecrate them today and tomorrow. Have them wash their clothes."
+The Lord said to Moses, "Go to the people and set them apart today and tomorrow. Have them wash their clothes."
 
 ### Exodus 19:11
 "They must be ready for the third day, because on the third day the Lord will come down on Mount Sinai in the sight of all the people."
@@ -48,7 +48,7 @@ The Lord said to Moses, "Go to the people and consecrate them today and tomorrow
 "No hand may touch that person; the person must be stoned or shot through. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."
 
 ### Exodus 19:14
-Moses went down from the mountain to the people. He consecrated the people, and they washed their clothes.
+Moses went down from the mountain to the people. He set apart the people, and they washed their clothes.
 
 ### Exodus 19:15
 He said to the people, "Be ready for the third day. Do not come near your wives."
@@ -72,10 +72,10 @@ The Lord came down on Mount Sinai, to the top of the mountain. The Lord called M
 The Lord said to Moses, "Go down and warn the people, so they do not break through to look at the Lord and many of them fall."
 
 ### Exodus 19:22
-"Even the priests who come near the Lord must consecrate themselves, or the Lord may break out against them."
+"Even the priests who come near the Lord must prepare themselves as holy, or the Lord may break out against them."
 
 ### Exodus 19:23
-Moses said to the Lord, "The people cannot come up Mount Sinai, because you warned us, 'Set boundaries around the mountain and consecrate it.'"
+Moses said to the Lord, "The people cannot come up Mount Sinai, because you warned us, 'Set boundaries around the mountain and set apart it.'"
 
 ### Exodus 19:24
 The Lord said to him, "Go down, and then come up again, you and Aaron with you. But do not let the priests or the people break through to come up to the Lord, or he may break out against them."

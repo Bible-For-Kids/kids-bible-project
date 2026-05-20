@@ -54,13 +54,13 @@ When the dew lifted, thin flakes were on the surface of the wilderness, as fine 
 When the Israelites saw it, they asked one another, "What is it?" They did not know what it was. Moses said, "It is the bread the Lord has given you to eat."
 
 ### Exodus 16:16
-"This is what the Lord has commanded: Gather as much as each person needs to eat, an omer for each person in your tents."
+"This is what the Lord has commanded: Gather as much as each person needs to eat, an basket measure for each person in your tents."
 
 ### Exodus 16:17
 The Israelites did this. Some gathered more, and some gathered less.
 
 ### Exodus 16:18
-When they measured it by the omer, the person who gathered much had no extra, and the person who gathered little did not lack anything. Each had gathered what was needed to eat.
+When they measured it by the basket measure, the person who gathered much had no extra, and the person who gathered little did not lack anything. Each had gathered what was needed to eat.
 
 ### Exodus 16:19
 Moses said to them, "No one should leave any of it until morning."
@@ -72,7 +72,7 @@ Some did not listen to Moses. They kept part of it until morning, but it bred wo
 They gathered it morning by morning, each person according to what was needed. When the sun became hot, it melted.
 
 ### Exodus 16:22
-On the sixth day, they gathered twice as much bread, two omers for each person. All the leaders of the community came and reported it to Moses.
+On the sixth day, they gathered twice as much bread, two basket measures for each person. All the leaders of the community came and reported it to Moses.
 
 ### Exodus 16:23
 Moses said to them, "This is what the Lord has spoken: Tomorrow is a day of rest, a holy Sabbath to the Lord. Bake what you want to bake and boil what you want to boil. Keep whatever is left until morning."
@@ -102,10 +102,10 @@ So the people rested on the seventh day.
 The people of Israel named the food manna. It was white like coriander seed, and it tasted like wafers made with honey.
 
 ### Exodus 16:32
-Moses said, "This is what the Lord has commanded: Keep an omer of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord has commanded: Keep an basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 ### Exodus 16:33
-Moses told Aaron, "Take a jar, put an omer of manna in it, and place it before the Lord to be kept for future generations."
+Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for future generations."
 
 ### Exodus 16:34
 Aaron placed it before the Testimony to be kept, just as the Lord commanded Moses.
@@ -114,4 +114,4 @@ Aaron placed it before the Testimony to be kept, just as the Lord commanded Mose
 The Israelites ate manna for forty years, until they came to an inhabited land. They ate manna until they reached the border of Canaan.
 
 ### Exodus 16:36
-An omer was one-tenth of an ephah.
+An basket measure was one-tenth of a dry measure.

@@ -48,13 +48,13 @@ God spoke all these words.
 "You must not murder."
 
 ### Exodus 20:14
-"You must not commit adultery."
+"You must not break marriage faithfulness."
 
 ### Exodus 20:15
 "You must not steal."
 
 ### Exodus 20:16
-"You must not tell false witness against your neighbor."
+"You must not tell false testimony against your neighbor."
 
 ### Exodus 20:17
 "You must not want to take your neighbor's house. You must not want to take your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
@@ -78,10 +78,10 @@ The Lord said to Moses, "Say this to the people of Israel: You have seen that I 
 "You must not make gods of silver or gods of gold to be with me. Do not make them for yourselves."
 
 ### Exodus 20:24
-"Make an altar of earth for me, and sacrifice your burnt offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
+"Make an altar of earth for me, and sacrifice your burned offerings and peace offerings on it, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you."
 
 ### Exodus 20:25
 "If you make me an altar of stone, do not build it with cut stones. If you use your tool on it, you have made it unfit."
 
 ### Exodus 20:26
-"Do not go up to my altar by steps, so your nakedness is not uncovered on it."
+"Do not go up to my altar by steps, so your body stays covered there."

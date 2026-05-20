@@ -1,14 +1,14 @@
 # Exodus Chapter 10
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 10 and should be reviewed before approval.
+Exodus 10 continues the rescue-and-covenant story. Locusts and deep darkness cover Egypt, but Pharaoh still refuses to let all Israel go worship the Lord.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- plague: A severe sign of judgment God sent on Egypt
+- Pharaoh: The king of Egypt
+- darkness: The deep dark God sent over Egypt as a sign of judgment
+- worship: Honoring God with trust, praise, and obedience
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,8 @@ The Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart and the
 #### Ages 8-10
 The Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart and the hearts of his servants, so that I may show these signs of mine before him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -42,12 +36,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "I have done this so you may tell your son and your son's son what I have done in Egypt, and what signs I performed among them, so that you may know that I am the Lord."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -60,14 +52,7 @@ Moses and Aaron came in to Pharaoh and said, "This is what the Lord God of the H
 #### Ages 8-10
 Moses and Aaron came in to Pharaoh and said to him, "This is what the Lord God of the Hebrews says: How long will you refuse to humble yourself before me? Let my people go, so they may serve me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -81,9 +66,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you refuse to let my people go, tomorrow I will bring locusts into your territory."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 10:5
@@ -94,9 +76,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "They will cover the face of the earth so that no one can see the earth. They will eat what remains after the hail, and they will eat every tree that grows for you out of the field."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -109,12 +88,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They will fill your houses, the houses of all your servants, and the houses of all the Egyptians. Your fathers and your fathers' fathers have not seen anything like this since they have been on the earth until this day." Then Moses turned and went out from Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -127,15 +103,9 @@ Pharaoh's servants said to him, "How long will this man be a trap to us? Let the
 #### Ages 8-10
 Pharaoh's servants said to him, "How long will this man be a snare to us? Let the men go, so they may serve the Lord their God. Do you not yet understand that Egypt is destroyed?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -148,14 +118,7 @@ Moses and Aaron were brought back to Pharaoh. He said to them, "Go, serve the Lo
 #### Ages 8-10
 Moses and Aaron were brought back to Pharaoh, and he said to them, "Go, serve the Lord your God. But who will go?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -169,14 +132,6 @@ Moses said, "We will go with our young and our old, with our sons and daughters,
 #### Ages 8-10
 Moses said, "We will go with our young and our old, with our sons and our daughters, and with our flocks and herds, because we must hold a feast to the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 10:10
@@ -188,14 +143,8 @@ Pharaoh said to them, "Let the Lord be with you if I let you and your little one
 #### Ages 8-10
 Pharaoh said to them, "Let the Lord be with you if I let you and your little ones go. Look, evil is ahead of you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- evil: What is wrong and against God
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -208,15 +157,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "No. Let the men go now and serve the Lord, since that is what you asked for." Then they were driven out from Pharaoh's presence.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -229,14 +171,8 @@ The Lord said to Moses, "Stretch out your hand over the land of Egypt for the lo
 #### Ages 8-10
 The Lord said to Moses, "Stretch out your hand over the land of Egypt for the locusts, so they may come up on Egypt and eat every plant of the land, all that the hail has left."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -249,14 +185,8 @@ Moses stretched his rod over the land of Egypt, and the Lord brought an east win
 #### Ages 8-10
 Moses stretched out his rod over the land of Egypt, and the Lord brought an east wind on the land all that day and all night. When morning came, the east wind brought the locusts.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -269,11 +199,8 @@ The locusts came up over all the land of Egypt and settled in every part of Egyp
 #### Ages 8-10
 The locusts came up over all the land of Egypt and rested in every part of Egypt. They were very severe; before them there had never been locusts like them, and after them there would never be such.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -286,11 +213,8 @@ They covered the whole land until it looked dark. They ate every plant and all t
 #### Ages 8-10
 They covered the face of the whole land, so the land was darkened. They ate every plant of the land and all the fruit of the trees that the hail had left. No green thing remained on the trees or in the plants of the field throughout all the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -303,14 +227,7 @@ Then Pharaoh quickly called for Moses and Aaron and said, "I have sinned against
 #### Ages 8-10
 Then Pharaoh hurriedly called for Moses and Aaron and said, "I have sinned against the Lord your God and against you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -324,15 +241,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Now please forgive my sin only this once, and plead with the Lord your God to take this death away from me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 10:18
@@ -344,14 +252,8 @@ Moses left Pharaoh and prayed to the Lord.
 #### Ages 8-10
 Moses went out from Pharaoh and pleaded with the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -364,13 +266,8 @@ The Lord turned a very strong west wind, which lifted the locusts away and threw
 #### Ages 8-10
 The Lord turned a very strong west wind, which took up the locusts and drove them into the Red Sea. Not one locust remained in all the territory of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -383,14 +280,8 @@ But the Lord hardened Pharaoh's heart, so he would not let the children of Israe
 #### Ages 8-10
 But the Lord hardened Pharaoh's heart, so he would not let the children of Israel go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -403,14 +294,9 @@ The Lord said to Moses, "Stretch out your hand toward the sky, so darkness may c
 #### Ages 8-10
 The Lord said to Moses, "Stretch out your hand toward heaven, so there may be darkness over the land of Egypt, a darkness that can be felt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- darkness: The deep dark God sent over Egypt as a sign of judgment
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -423,12 +309,9 @@ Moses stretched his hand toward the sky, and thick darkness covered all the land
 #### Ages 8-10
 Moses stretched out his hand toward heaven, and thick darkness covered all the land of Egypt for three days.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Moses: The servant God used to lead Israel out of Egypt
+- darkness: The deep dark God sent over Egypt as a sign of judgment
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -441,12 +324,6 @@ The people could not see one another, and no one rose from his place for three d
 #### Ages 8-10
 They could not see one another, and no one rose from his place for three days. But all the children of Israel had light in their dwellings.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 10:24
@@ -458,14 +335,8 @@ Pharaoh called to Moses and said, "Go, serve the Lord. Only let your flocks and 
 #### Ages 8-10
 Pharaoh called to Moses and said, "Go, serve the Lord. Only let your flocks and herds stay behind. Your little ones may also go with you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -473,20 +344,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 10:25 - Moses said, "You must also give into our hand sacrifices and burnt offerings, that we may sacrifice to Yahweh our God.
 
 #### Ages 5-7
-Moses said, "You must also give us sacrifices and burnt offerings, so we may sacrifice to the Lord our God."
+Moses said, "You must also give us sacrifices and burned offerings, so we may sacrifice to the Lord our God."
 
 #### Ages 8-10
-Moses said, "You must also give us sacrifices and burnt offerings, so we may sacrifice to the Lord our God."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- sacrifice: An offering given in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+Moses said, "You must also give us sacrifices and burned offerings, so we may sacrifice to the Lord our God."
 
 ---
 
@@ -499,14 +360,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Our livestock must also go with us. Not one hoof may be left behind, because we must take from them to serve the Lord our God. We do not know what we must use to serve the Lord until we arrive there."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 10:27
@@ -518,13 +371,8 @@ But the Lord hardened Pharaoh's heart, and he would not let them go.
 #### Ages 8-10
 But the Lord hardened Pharaoh's heart, and he would not let them go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -537,11 +385,7 @@ Pharaoh said to Moses, "Get away from me. Be careful never to see my face again,
 #### Ages 8-10
 Pharaoh said to Moses, "Get away from me. Make sure you never see my face again, because on the day you see my face, you will die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -555,42 +399,33 @@ Moses said, "You have spoken rightly. I will not see your face again."
 #### Ages 8-10
 Moses said, "You have spoken rightly. I will not see your face again."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
-
 ---
 
 ## Chapter Summary
-Exodus 10 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart and the hearts of his se...," moves through "They covered the face of the whole land, so the land was darkened. They ate every plant of the la...," and closes with "Moses said, "You have spoken rightly. I will not see your face again.." Review this summary for fuller theological detail before approval.
+Locusts and deep darkness cover Egypt, but Pharaoh still refuses to let all Israel go worship the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart and the hearts of his servants, so I may show these signs before him." - Exodus 10:1
+"I have done this so you may tell your son and your son's son what I did in Egypt, and the signs I showed among them, so you may know that I am the Lord." - Exodus 10:2
 
 ### Ages 8-10
-The Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart and the hearts of his servants, so that I may show these signs of mine before him." - Exodus 10:1
+"I have done this so you may tell your son and your son's son what I have done in Egypt, and what signs I performed among them, so that you may know that I am the Lord." - Exodus 10:2
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 10 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 10 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

@@ -18,31 +18,31 @@ The Lord spoke to Moses and said,
 "This is the offering you will take from them: gold, silver, and bronze,"
 
 ### Exodus 25:4
-"blue, purple, and scarlet yarn, fine linen, and goats' hair,"
+"blue, purple, and red thread yarn, fine linen, and goats' hair,"
 
 ### Exodus 25:5
-"ram skins dyed red, fine leather, and acacia wood,"
+"male sheep skins dyed red, fine leather, and acacia wood,"
 
 ### Exodus 25:6
-"oil for the light, spices for anointing oil and sweet incense,"
+"oil for the light, spices for special setting-apart oil and sweet-smelling incense,"
 
 ### Exodus 25:7
-"onyx stones, and stones to set in the ephod and breastpiece."
+"onyx stones, and stones to set in the priestly vest and chest piece."
 
 ### Exodus 25:8
-"Let them make me a sanctuary, so I may live among them."
+"Let them make me a holy place, so I may live among them."
 
 ### Exodus 25:9
-"Make it exactly like the pattern I show you for the tabernacle and all its furniture."
+"Make it exactly like the pattern I show you for the holy tent and all its furniture."
 
 ### Exodus 25:10
-"They must make an ark of acacia wood. It must be two and a half cubits long, one and a half cubits wide, and one and a half cubits high."
+"They must make an ark of acacia wood. It must be two and a half arm-lengths long, one and a half arm-lengths wide, and one and a half arm-lengths high."
 
 ### Exodus 25:11
 "Cover it with pure gold, inside and outside, and make a gold rim around it."
 
 ### Exodus 25:12
-"Cast four gold rings for it and put them on its four feet, two rings on one side and two rings on the other side."
+"Make four gold rings for it and put them on its four feet, two rings on one side and two rings on the other side."
 
 ### Exodus 25:13
 "Make poles of acacia wood and cover them with gold."
@@ -57,31 +57,31 @@ The Lord spoke to Moses and said,
 "Put into the ark the testimony that I will give you."
 
 ### Exodus 25:17
-"Make a mercy seat of pure gold. It must be two and a half cubits long and one and a half cubits wide."
+"Make a cover of the ark of pure gold. It must be two and a half arm-lengths long and one and a half arm-lengths wide."
 
 ### Exodus 25:18
-"Make two cherubim of hammered gold, one for each end of the mercy seat."
+"Make two mighty heavenly guardians of hammered gold, one for each end of the cover of the ark."
 
 ### Exodus 25:19
-"Make one cherub on one end and one cherub on the other end. Make the cherubim as part of the mercy seat at its two ends."
+"Make one mighty heavenly guardian on one end and one mighty heavenly guardian on the other end. Make the mighty heavenly guardians as part of the cover of the ark at its two ends."
 
 ### Exodus 25:20
-"The cherubim must spread their wings upward, covering the mercy seat with their wings. They must face each other and look toward the mercy seat."
+"The mighty heavenly guardians must spread their wings upward, covering the cover of the ark with their wings. They must face each other and look toward the cover of the ark."
 
 ### Exodus 25:21
-"Place the mercy seat on top of the ark, and put into the ark the testimony I will give you."
+"Place the cover of the ark on top of the ark, and put into the ark the testimony I will give you."
 
 ### Exodus 25:22
-"There I will meet with you. From above the mercy seat, between the two cherubim on the ark of the testimony, I will speak with you about all my commands for the people of Israel."
+"There I will meet with you. From above the cover of the ark, between the two mighty heavenly guardians on the ark of the testimony, I will speak with you about all my commands for the people of Israel."
 
 ### Exodus 25:23
-"You must also make a table of acacia wood. It must be two cubits long, one cubit wide, and one and a half cubits high."
+"You must also make a table of acacia wood. It must be two arm-lengths long, one arm-length wide, and one and a half arm-lengths high."
 
 ### Exodus 25:24
 "Cover it with pure gold, and make a gold rim around it."
 
 ### Exodus 25:25
-"Make a border around it a handbreadth wide, and make a gold rim around the border."
+"Make a border around it a palm-width wide, and make a gold rim around the border."
 
 ### Exodus 25:26
 "Make four gold rings for the table and put the rings on the four corners, near its four legs."
@@ -123,7 +123,7 @@ The Lord spoke to Moses and said,
 "Its tongs and trays must be made of pure gold."
 
 ### Exodus 25:39
-"Use one talent of pure gold to make the lampstand and all these tools."
+"Use one large weight measure of pure gold to make the lampstand and all these tools."
 
 ### Exodus 25:40
 "Be sure to make everything by the pattern shown to you on the mountain."

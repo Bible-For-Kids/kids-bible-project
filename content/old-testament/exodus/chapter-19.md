@@ -1,14 +1,14 @@
 # Exodus Chapter 19
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 19 and should be reviewed before approval.
+Exodus 19 continues the rescue-and-covenant story. Israel camps at Sinai, and the Lord calls them to be his treasured people before he comes down on the mountain.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- covenant: A serious promise relationship God makes
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Sinai: The mountain where God spoke his covenant words to Israel
+- covenant: A serious promise relationship God makes with his people
 - holy: Set apart for God
+- Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,9 @@ In the third month after the people of Israel left Egypt, on that same day, they
 #### Ages 8-10
 In the third month after the Israelites left Egypt, on that very day, they came into the wilderness of Sinai.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Sinai: The mountain where God spoke his covenant words to Israel
 - Israel: God's covenant people descended from Jacob
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -40,12 +36,9 @@ They left Rephidim, came to the wilderness of Sinai, and camped there. Israel ca
 #### Ages 8-10
 They traveled from Rephidim, came to the wilderness of Sinai, and camped in the wilderness. Israel camped there in front of the mountain.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
+- Sinai: The mountain where God spoke his covenant words to Israel
 - Israel: God's covenant people descended from Jacob
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -58,15 +51,9 @@ Moses went up to God, and the Lord called to him from the mountain. He said, "Sa
 #### Ages 8-10
 Moses went up to God, and the Lord called to him from the mountain, saying, "This is what you must say to the house of Jacob and tell the Israelites."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -78,9 +65,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You have seen what I did to the Egyptians and how I carried you on eagles' wings and brought you to myself."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -94,10 +78,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Now if you carefully obey my voice and keep my covenant, you will be my treasured possession among all peoples, for all the earth is mine."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Israel is called treasured possession by covenant grace, not because they rescued themselves.
 
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
+- covenant: A serious promise relationship God makes with his people
+
+**Cross-References**:
+- 1 Peter 2:9
 
 ---
 
@@ -109,9 +96,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You will be to me a kingdom of priests and a holy nation. These are the words you must speak to the Israelites."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -128,13 +112,8 @@ Moses came and called the elders of the people. He told them all the words the L
 #### Ages 8-10
 Moses came, called the elders of the people, and placed before them all these words that the Lord had commanded him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -147,13 +126,8 @@ All the people answered together, "We will do everything the Lord has spoken." M
 #### Ages 8-10
 All the people answered together, "We will do everything the Lord has spoken." Moses brought the people's words back to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -166,13 +140,8 @@ The Lord said to Moses, "I will come to you in a thick cloud, so the people may 
 #### Ages 8-10
 The Lord said to Moses, "I will come to you in a thick cloud, so the people may hear when I speak with you and may always believe you." Moses told the Lord the words of the people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -183,15 +152,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 The Lord said to Moses, "Go to the people and make them ready today and tomorrow. Have them wash their clothes."
 
 #### Ages 8-10
-The Lord said to Moses, "Go to the people and consecrate them today and tomorrow. Have them wash their clothes."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The Lord said to Moses, "Go to the people and set them apart today and tomorrow. Have them wash their clothes."
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -204,12 +168,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They must be ready for the third day, because on the third day the Lord will come down on Mount Sinai in the sight of all the people."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Sinai: The mountain where God spoke his covenant words to Israel
 
 ---
 
@@ -222,9 +182,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Set boundaries for the people all around the mountain. Tell them, 'Be careful not to go up the mountain or touch its edge. Whoever touches the mountain must surely die.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 19:13
@@ -236,9 +193,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "No hand may touch that person; the person must be stoned or shot through. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 19:14
@@ -248,10 +202,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Moses went down from the mountain to the people. He made the people ready, and they washed their clothes.
 
 #### Ages 8-10
-Moses went down from the mountain to the people. He consecrated the people, and they washed their clothes.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Moses went down from the mountain to the people. He set apart the people, and they washed their clothes.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -267,9 +218,6 @@ He said to the people, "Be ready for the third day. Do not come near your wives.
 #### Ages 8-10
 He said to the people, "Be ready for the third day. Do not come near your wives."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 19:16
@@ -280,9 +228,6 @@ On the third day, in the morning, there was thunder and lightning. A thick cloud
 
 #### Ages 8-10
 On the morning of the third day, there was thunder and lightning, a thick cloud on the mountain, and a very loud trumpet blast. Everyone in the camp trembled.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -295,11 +240,7 @@ Moses brought the people out of the camp to meet with God, and they stood at the
 #### Ages 8-10
 Moses brought the people out of the camp to meet God, and they stood at the foot of the mountain.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -313,12 +254,8 @@ Mount Sinai was covered with smoke, because the Lord came down on it in fire. Sm
 #### Ages 8-10
 Mount Sinai was covered with smoke because the Lord came down on it in fire. Its smoke rose like smoke from a furnace, and the whole mountain shook violently.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Sinai: The mountain where God spoke his covenant words to Israel
 
 ---
 
@@ -331,11 +268,7 @@ The trumpet sound grew louder and louder. Moses spoke, and God answered him with
 #### Ages 8-10
 As the sound of the trumpet grew louder and louder, Moses spoke, and God answered him with a voice.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -349,13 +282,9 @@ The Lord came down on Mount Sinai, on the top of the mountain. The Lord called M
 #### Ages 8-10
 The Lord came down on Mount Sinai, to the top of the mountain. The Lord called Moses to the top of the mountain, and Moses went up.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+- Sinai: The mountain where God spoke his covenant words to Israel
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -368,13 +297,8 @@ The Lord said to Moses, "Go down and warn the people, so they do not break throu
 #### Ages 8-10
 The Lord said to Moses, "Go down and warn the people, so they do not break through to look at the Lord and many of them fall."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -385,15 +309,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Even the priests who come near the Lord must make themselves holy, or the Lord may break out against them."
 
 #### Ages 8-10
-"Even the priests who come near the Lord must consecrate themselves, or the Lord may break out against them."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Even the priests who come near the Lord must prepare themselves as holy, or the Lord may break out against them."
 
 **Key Vocabulary**:
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -404,16 +323,12 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Moses said to the Lord, "The people cannot come up Mount Sinai, because you warned us, 'Set a boundary around the mountain and make it holy.'"
 
 #### Ages 8-10
-Moses said to the Lord, "The people cannot come up Mount Sinai, because you warned us, 'Set boundaries around the mountain and consecrate it.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Moses said to the Lord, "The people cannot come up Mount Sinai, because you warned us, 'Set boundaries around the mountain and set apart it.'"
 
 **Key Vocabulary**:
+- Sinai: The mountain where God spoke his covenant words to Israel
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -426,14 +341,6 @@ The Lord said to him, "Go down. Then come up again, you and Aaron with you. But 
 #### Ages 8-10
 The Lord said to him, "Go down, and then come up again, you and Aaron with you. But do not let the priests or the people break through to come up to the Lord, or he may break out against them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 19:25
@@ -445,42 +352,36 @@ So Moses went down to the people and spoke to them.
 #### Ages 8-10
 So Moses went down to the people and spoke to them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 19 is a draft resource chapter. The chapter opens with "In the third month after the Israelites left Egypt, on that very day, they came into the wilderne...," moves through "No hand may touch that person; the person must be stoned or shot through. Whether animal or human...," and closes with "So Moses went down to the people and spoke to them.." Review this summary for fuller theological detail before approval.
+Israel camps at Sinai, and the Lord calls them to be his treasured people before he comes down on the mountain.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-In the third month after the people of Israel left Egypt, on that same day, they came into the wilderness of Sinai. - Exodus 19:1
+"Now, if you truly obey my voice and keep my covenant, you will be my special treasure among all peoples, because all the earth is mine." - Exodus 19:5
 
 ### Ages 8-10
-In the third month after the Israelites left Egypt, on that very day, they came into the wilderness of Sinai. - Exodus 19:1
+"Now if you carefully obey my voice and keep my covenant, you will be my treasured possession among all peoples, for all the earth is mine." - Exodus 19:5
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 19 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 19 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

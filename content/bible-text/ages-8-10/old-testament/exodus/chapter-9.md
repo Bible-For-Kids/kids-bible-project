@@ -90,7 +90,7 @@ Only in the land of Goshen, where the children of Israel were, there was no hail
 Pharaoh sent and called for Moses and Aaron and said to them, "I have sinned this time. The Lord is righteous, and I and my people are wicked."
 
 ### Exodus 9:28
-"Plead with the Lord, for there has been enough mighty thunder and hail. I will let you go, and you shall stay no longer."
+"Plead with the Lord, for there has been enough mighty thunder and hail. I will let you go, and you will stay no longer."
 
 ### Exodus 9:29
 Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to the Lord. The thunder will stop, and there will be no more hail, so that you may know the earth belongs to the Lord."

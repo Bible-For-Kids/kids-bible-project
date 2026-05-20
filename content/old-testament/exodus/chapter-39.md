@@ -1,14 +1,14 @@
 # Exodus Chapter 39
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 39 and should be reviewed before approval.
+Exodus 39 continues the rescue-and-covenant story. The workers make the priestly clothes and bring the finished tabernacle pieces to Moses, who blesses them.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- covenant: A serious promise relationship God makes
+- priest: A worship leader who served at the holy place
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- tabernacle: The holy tent where the Lord met with Israel
 - holy: Set apart for God
+- blessing: Goodness given by God
 
 ## Verse-by-Verse Translation
 
@@ -16,20 +16,14 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 **Original Reference**: Exodus 39:1 - Of the blue, purple, and scarlet, they made finely worked garments for ministering in the holy place, and made the holy garments for Aaron, as Yahweh commanded Moses.
 
 #### Ages 5-7
-From the blue, purple, and scarlet thread, they made woven clothes for serving in the holy place. They made the holy garments for Aaron, just as the Lord commanded Moses.
+From the blue, purple, and red thread, they made woven clothes for serving in the holy place. They made the holy clothes for Aaron, just as the Lord commanded Moses.
 
 #### Ages 8-10
-From the blue, purple, and scarlet thread, they made woven garments for serving in the holy place. They made Aaron's holy garments as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+From the blue, purple, and red thread, they made woven clothes for serving in the holy place. They made Aaron's holy clothes as the Lord commanded Moses.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -37,13 +31,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:2 - He made the ephod of gold, blue, purple, scarlet, and fine twined linen.
 
 #### Ages 5-7
-They made the ephod from gold, blue, purple, and scarlet thread, and finely twisted linen.
+They made the priestly vest from gold, blue, purple, and red thread, and finely twisted linen.
 
 #### Ages 8-10
-They made the ephod from gold, blue, purple, and scarlet thread, and finely twisted linen.
+They made the priestly vest from gold, blue, purple, and red thread, and finely twisted linen.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -51,13 +45,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:3 - They beat the gold into thin plates, and cut it into wires, to work it in with the blue, the purple, the scarlet, and the fine linen, the work of the skillful workman.
 
 #### Ages 5-7
-They hammered the gold into thin sheets and cut it into threads. Then they worked the gold into the blue, purple, and scarlet thread and the fine linen with careful skill.
+They hammered the gold into thin sheets and cut it into threads. Then they worked the gold into the blue, purple, and red thread and the fine linen with careful skill.
 
 #### Ages 8-10
-They hammered the gold into thin sheets and cut it into threads, then worked it into the blue, purple, and scarlet thread and the fine linen with skilled craftsmanship.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They hammered the gold into thin sheets and cut it into threads, then worked it into the blue, purple, and red thread and the fine linen with skilled craftsmanship.
 
 ---
 
@@ -65,13 +56,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:4 - They made shoulder straps for it, joined together. It was joined together at the two ends.
 
 #### Ages 5-7
-They made shoulder pieces for the ephod and joined it together at its two edges.
+They made shoulder pieces for the priestly vest and joined it together at its two edges.
 
 #### Ages 8-10
-They made shoulder pieces for the ephod and joined it together at its two edges.
+They made shoulder pieces for the priestly vest and joined it together at its two edges.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -79,18 +70,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:5 - The skillfully woven band that was on it, with which to fasten it on, was of the same piece, like its work: of gold, of blue, purple, scarlet, and fine twined linen, as Yahweh commanded Moses.
 
 #### Ages 5-7
-The woven waistband on the ephod was made the same way, from gold, blue, purple, and scarlet thread, and finely twisted linen, just as the Lord commanded Moses.
+The woven waistband on the priestly vest was made the same way, from gold, blue, purple, and red thread, and finely twisted linen, just as the Lord commanded Moses.
 
 #### Ages 8-10
-The woven waistband attached to the ephod was made in the same way: of gold, blue, purple, and scarlet thread, and finely twisted linen, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The woven waistband attached to the priestly vest was made in the same way: of gold, blue, purple, and red thread, and finely twisted linen, as the Lord commanded Moses.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -103,31 +89,19 @@ They prepared onyx stones set in gold settings. The names of Israel's sons were 
 #### Ages 8-10
 They prepared onyx stones set in gold settings, engraved like seals with the names of Israel's sons.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 39:7
 **Original Reference**: Exodus 39:7 - He put them on the shoulder straps of the ephod, to be stones of memorial for the children of Israel, as Yahweh commanded Moses.
 
 #### Ages 5-7
-They placed the stones on the shoulder pieces of the ephod as reminder stones for the children of Israel, just as the Lord commanded Moses.
+They placed the stones on the shoulder pieces of the priestly vest as reminder stones for the children of Israel, just as the Lord commanded Moses.
 
 #### Ages 8-10
-They placed the stones on the shoulder pieces of the ephod as memorial stones for the children of Israel, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They placed the stones on the shoulder pieces of the priestly vest as memorial stones for the children of Israel, as the Lord commanded Moses.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -135,13 +109,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:8 - He made the breastplate, the work of a skillful workman, like the work of the ephod: of gold, of blue, purple, scarlet, and fine twined linen.
 
 #### Ages 5-7
-They made the breastpiece with careful skill, like the ephod, from gold, blue, purple, and scarlet thread, and finely twisted linen.
+They made the chest piece with careful skill, like the priestly vest, from gold, blue, purple, and red thread, and finely twisted linen.
 
 #### Ages 8-10
-They made the breastpiece with skilled work, like the ephod, from gold, blue, purple, and scarlet thread, and finely twisted linen.
+They made the chest piece with skilled work, like the priestly vest, from gold, blue, purple, and red thread, and finely twisted linen.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -149,13 +123,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:9 - It was square. They made the breastplate double. Its length was a span, and its width a span, being double.
 
 #### Ages 5-7
-The breastpiece was square and folded double. It was one span long and one span wide.
+The chest piece was square and folded double. It was one span long and one span wide.
 
 #### Ages 8-10
-The breastpiece was square and folded double, one span long and one span wide.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The chest piece was square and folded double, one span long and one span wide.
 
 ---
 
@@ -168,9 +139,6 @@ They set four rows of stones in it. The first row was sardius, topaz, and carbun
 #### Ages 8-10
 They mounted four rows of stones on it. The first row was sardius, topaz, and carbuncle.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:11
@@ -181,9 +149,6 @@ The second row was emerald, sapphire, and diamond.
 
 #### Ages 8-10
 The second row was emerald, sapphire, and diamond.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -196,9 +161,6 @@ The third row was ligure, agate, and amethyst.
 #### Ages 8-10
 The third row was ligure, agate, and amethyst.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:13
@@ -209,9 +171,6 @@ The fourth row was beryl, onyx, and jasper. Each stone was set in gold.
 
 #### Ages 8-10
 The fourth row was beryl, onyx, and jasper. The stones were mounted in gold settings.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -224,25 +183,16 @@ There were twelve stones, one for each name of the sons of Israel. Each stone wa
 #### Ages 8-10
 The twelve stones matched the names of Israel's sons. Each was engraved like a seal, one name for each of the twelve tribes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 39:15
 **Original Reference**: Exodus 39:15 - They made on the breastplate chains like cords, of braided work of pure gold.
 
 #### Ages 5-7
-They made braided chains of pure gold for the breastpiece.
+They made braided chains of pure gold for the chest piece.
 
 #### Ages 8-10
-They made braided chains of pure gold for the breastpiece.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They made braided chains of pure gold for the chest piece.
 
 ---
 
@@ -250,13 +200,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:16 - They made two settings of gold, and two gold rings, and put the two rings on the two ends of the breastplate.
 
 #### Ages 5-7
-They made two gold settings and two gold rings, and put the rings on the two ends of the breastpiece.
+They made two gold settings and two gold rings, and put the rings on the two ends of the chest piece.
 
 #### Ages 8-10
-They made two gold settings and two gold rings, and put the rings on the two ends of the breastpiece.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They made two gold settings and two gold rings, and put the rings on the two ends of the chest piece.
 
 ---
 
@@ -264,13 +211,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:17 - They put the two braided chains of gold in the two rings at the ends of the breastplate.
 
 #### Ages 5-7
-They fastened the two braided gold chains to the two rings at the ends of the breastpiece.
+They fastened the two braided gold chains to the two rings at the ends of the chest piece.
 
 #### Ages 8-10
-They attached the two braided gold chains to the two rings at the ends of the breastpiece.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They attached the two braided gold chains to the two rings at the ends of the chest piece.
 
 ---
 
@@ -278,13 +222,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:18 - The other two ends of the two braided chains they put on the two settings, and put them on the shoulder straps of the ephod, in its front.
 
 #### Ages 5-7
-They fastened the other ends of the two chains to the two gold settings and attached them to the front of the ephod's shoulder pieces.
+They fastened the other ends of the two chains to the two gold settings and attached them to the front of the priestly vest's shoulder pieces.
 
 #### Ages 8-10
-They fastened the other ends of the chains to the two gold settings and attached them to the front of the ephod's shoulder pieces.
+They fastened the other ends of the chains to the two gold settings and attached them to the front of the priestly vest's shoulder pieces.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -292,13 +236,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:19 - They made two rings of gold, and put them on the two ends of the breastplate, on its edge, which was toward the side of the ephod inward.
 
 #### Ages 5-7
-They made two gold rings and put them on the two lower inside corners of the breastpiece, next to the ephod.
+They made two gold rings and put them on the two lower inside corners of the chest piece, next to the priestly vest.
 
 #### Ages 8-10
-They made two gold rings and put them on the two lower inside edges of the breastpiece, next to the ephod.
+They made two gold rings and put them on the two lower inside edges of the chest piece, next to the priestly vest.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -306,13 +250,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:20 - They made two more rings of gold, and put them on the two shoulder straps of the ephod underneath, in its front, close by its coupling, above the skillfully woven band of the ephod.
 
 #### Ages 5-7
-They made two more gold rings and put them on the lower front part of the ephod, near its joining place and above the woven waistband.
+They made two more gold rings and put them on the lower front part of the priestly vest, near its joining place and above the woven waistband.
 
 #### Ages 8-10
-They made two more gold rings and put them on the lower front part of the ephod, near the joining seam and above the woven waistband.
+They made two more gold rings and put them on the lower front part of the priestly vest, near the joining seam and above the woven waistband.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -320,18 +264,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:21 - They bound the breastplate by its rings to the rings of the ephod with a lace of blue, that it might be on the skillfully woven band of the ephod, and that the breastplate might not come loose from the ephod, as Yahweh commanded Moses.
 
 #### Ages 5-7
-They tied the breastpiece by its rings to the rings of the ephod with a blue cord. This held it above the woven waistband so it would not come loose, just as the Lord commanded Moses.
+They tied the chest piece by its rings to the rings of the priestly vest with a blue cord. This held it above the woven waistband so it would not come loose, just as the Lord commanded Moses.
 
 #### Ages 8-10
-They tied the breastpiece by its rings to the rings of the ephod with a blue cord, so it stayed above the woven waistband and did not come loose, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They tied the chest piece by its rings to the rings of the priestly vest with a blue cord, so it stayed above the woven waistband and did not come loose, as the Lord commanded Moses.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -339,13 +278,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:22 - He made the robe of the ephod of woven work, all of blue.
 
 #### Ages 5-7
-They made the robe for the ephod all of blue woven cloth.
+They made the robe for the priestly vest all of blue woven cloth.
 
 #### Ages 8-10
-They made the robe of the ephod entirely of woven blue cloth.
+They made the robe of the priestly vest entirely of woven blue cloth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- priest: A worship leader who served at the holy place
 
 ---
 
@@ -358,22 +297,16 @@ The robe had an opening in the middle, like the opening of armor, with a woven e
 #### Ages 8-10
 The robe had an opening in the middle, like the opening of armor, with a woven edge around it so it would not tear.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:24
 **Original Reference**: Exodus 39:24 - They made on the skirts of the robe pomegranates of blue, purple, scarlet, and twined linen.
 
 #### Ages 5-7
-Around the hem of the robe, they made pomegranates from blue, purple, and scarlet thread and twisted linen.
+Around the hem of the robe, they made pomegranates from blue, purple, and red thread and twisted linen.
 
 #### Ages 8-10
-They made pomegranates of blue, purple, and scarlet thread and twisted linen around the hem of the robe.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They made pomegranates of blue, purple, and red thread and twisted linen around the hem of the robe.
 
 ---
 
@@ -386,9 +319,6 @@ They made bells of pure gold and put the bells between the pomegranates all arou
 #### Ages 8-10
 They made bells of pure gold and placed them between the pomegranates all around the hem.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:26
@@ -400,30 +330,19 @@ A bell and a pomegranate, then a bell and a pomegranate, went all around the hem
 #### Ages 8-10
 A bell and a pomegranate, then a bell and a pomegranate, went all around the hem of the robe for serving, as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 39:27
 **Original Reference**: Exodus 39:27 - They made the tunics of fine linen of woven work for Aaron and for his sons,
 
 #### Ages 5-7
-They made woven tunics of fine linen for Aaron and his sons.
+They made woven long shirts of fine linen for Aaron and his sons.
 
 #### Ages 8-10
-They made woven tunics of fine linen for Aaron and his sons.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They made woven long shirts of fine linen for Aaron and his sons.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -431,13 +350,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:28 - the turban of fine linen, the linen headbands of fine linen, the linen trousers of fine twined linen,
 
 #### Ages 5-7
-They made the turban of fine linen, the linen caps, and the underclothes of finely twisted linen.
+They made the head wrap of fine linen, the linen caps, and the underclothes of finely twisted linen.
 
 #### Ages 8-10
-They made the turban of fine linen, the fine linen caps, and the underclothes of finely twisted linen.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They made the head wrap of fine linen, the fine linen caps, and the underclothes of finely twisted linen.
 
 ---
 
@@ -445,18 +361,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:29 - the sash of fine twined linen, blue, purple, and scarlet, the work of the embroiderer, as Yahweh commanded Moses.
 
 #### Ages 5-7
-They made the sash from finely twisted linen and blue, purple, and scarlet thread, with needlework, just as the Lord commanded Moses.
+They made the waistband from finely twisted linen and blue, purple, and red thread, with needlework, just as the Lord commanded Moses.
 
 #### Ages 8-10
-They made the sash of finely twisted linen with blue, purple, and scarlet thread, using needlework, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+They made the waistband of finely twisted linen with blue, purple, and red thread, using needlework, as the Lord commanded Moses.
 
 ---
 
@@ -469,13 +377,8 @@ They made the plate of the holy crown from pure gold and engraved on it like a s
 #### Ages 8-10
 They made the plate of the holy crown from pure gold and engraved on it like a seal: Holy to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -483,18 +386,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:31 - They tied to it a lace of blue, to fasten it on the turban above, as Yahweh commanded Moses.
 
 #### Ages 5-7
-They tied it with a blue cord to fasten it high on the turban, just as the Lord commanded Moses.
+They tied it with a blue cord to fasten it high on the head wrap, just as the Lord commanded Moses.
 
 #### Ages 8-10
-They fastened it high on the turban with a blue cord, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+They fastened it high on the head wrap with a blue cord, as the Lord commanded Moses.
 
 ---
 
@@ -502,20 +397,17 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:32 - Thus all the work of the tabernacle of the Tent of Meeting was finished. The children of Israel did according to all that Yahweh commanded Moses; so they did.
 
 #### Ages 5-7
-So all the work on the tabernacle, the tent of meeting, was finished. The Israelites did everything just as the Lord commanded Moses.
+So all the work on the holy tent, the tent of meeting, was finished. The Israelites did everything just as the Lord commanded Moses.
 
 #### Ages 8-10
 So all the work on the tabernacle, the tent of meeting, was completed. The Israelites did everything as the Lord commanded Moses.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - tabernacle: The holy tent where the Lord met with Israel
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- holy: Set apart for God
 
 ---
 
@@ -523,17 +415,14 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:33 - They brought the tabernacle to Moses: the tent, with all its furniture, its clasps, its boards, its bars, its pillars, its sockets,
 
 #### Ages 5-7
-They brought the tabernacle to Moses: the tent and all its pieces, its clasps, boards, bars, pillars, and bases.
+They brought the holy tent to Moses: the tent and all its pieces, its clasps, boards, bars, pillars, and bases.
 
 #### Ages 8-10
 They brought the tabernacle to Moses: the tent and all its furnishings, its clasps, boards, bars, pillars, and bases.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - tabernacle: The holy tent where the Lord met with Israel
+- holy: Set apart for God
 
 ---
 
@@ -541,13 +430,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:34 - the covering of rams' skins dyed red, the covering of sea cow hides, the veil of the screen,
 
 #### Ages 5-7
-They brought the covering of ram skins dyed red, the covering of durable hides, and the veil for covering.
+They brought the covering of male sheep skins dyed red, the covering of durable hides, and the curtain for covering.
 
 #### Ages 8-10
-They brought the covering of ram skins dyed red, the covering of durable hides, and the veil for covering.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They brought the covering of male sheep skins dyed red, the covering of durable hides, and the curtain for covering.
 
 ---
 
@@ -555,16 +441,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:35 - the ark of the covenant with its poles, the mercy seat,
 
 #### Ages 5-7
-They brought the ark of the testimony, its poles, and the mercy seat.
+They brought the ark of the testimony, its poles, and the cover of the ark.
 
 #### Ages 8-10
-They brought the ark of the testimony, its poles, and the mercy seat.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- covenant: A serious promise relationship God makes
+They brought the ark of the testimony, its poles, and the atonement cover.
 
 ---
 
@@ -577,9 +457,6 @@ They brought the table, all its utensils, and the showbread.
 #### Ages 8-10
 They brought the table, all its utensils, and the showbread.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:37
@@ -591,26 +468,20 @@ They brought the pure gold lampstand with its lamps ready to be set in order, al
 #### Ages 8-10
 They brought the pure gold lampstand with its lamps, the lamps to be arranged, all its utensils, and the oil for the light.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 39:38
 **Original Reference**: Exodus 39:38 - the golden altar, the anointing oil, the sweet incense, the screen for the door of the Tent,
 
 #### Ages 5-7
-They brought the gold altar, the anointing oil, the sweet incense, and the curtain for the tabernacle entrance.
+They brought the gold altar, the special setting-apart oil, the sweet-smelling incense, and the curtain for the holy tent entrance.
 
 #### Ages 8-10
-They brought the gold altar, the anointing oil, the fragrant incense, and the curtain for the tabernacle entrance.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They brought the gold altar, the special anointing oil, the sweet-smelling incense, and the curtain for the tabernacle entrance.
 
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
 - tabernacle: The holy tent where the Lord met with Israel
+- holy: Set apart for God
 
 ---
 
@@ -623,28 +494,20 @@ They brought the bronze altar with its bronze grating, its poles, all its tools,
 #### Ages 8-10
 They brought the bronze altar with its bronze grating, its poles, all its utensils, the basin, and its stand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-
 ---
 
 ### Exodus 39:40
 **Original Reference**: Exodus 39:40 - the hangings of the court, its pillars, its sockets, the screen for the gate of the court, its cords, its pins, and all the instruments of the service of the tabernacle, for the Tent of Meeting,
 
 #### Ages 5-7
-They brought the courtyard curtains, pillars, and bases, the curtain for the courtyard gate, its ropes and pegs, and all the tools for serving in the tabernacle, the tent of meeting.
+They brought the courtyard curtains, pillars, and bases, the curtain for the courtyard gate, its ropes and pegs, and all the tools for serving in the holy tent, the tent of meeting.
 
 #### Ages 8-10
 They brought the courtyard curtains, pillars, and bases, the curtain for the courtyard gate, its ropes and pegs, and all the equipment for service in the tabernacle, the tent of meeting.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
+- holy: Set apart for God
 
 ---
 
@@ -652,18 +515,15 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 39:41 - the finely worked garments for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office.
 
 #### Ages 5-7
-They brought the woven clothes for serving in the holy place, the holy garments for Aaron the priest, and the garments for his sons to serve as priests.
+They brought the woven clothes for serving in the holy place, the holy clothes for Aaron the priest, and the clothes for his sons to serve as priests.
 
 #### Ages 8-10
-They brought the woven garments for serving in the holy place, the holy garments for Aaron the priest, and the garments for his sons to serve as priests.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They brought the woven clothes for serving in the holy place, the holy clothes for Aaron the priest, and the clothes for his sons to serve as priests.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- holy: Set apart for God
 - priest: A worship leader who served at the holy place
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- holy: Set apart for God
 
 ---
 
@@ -676,15 +536,6 @@ The Israelites made all the work exactly as the Lord commanded Moses.
 #### Ages 8-10
 The Israelites did all the work exactly as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 39:43
@@ -696,45 +547,33 @@ Moses looked over all the work and saw that they had done it just as the Lord co
 #### Ages 8-10
 Moses inspected all the work and saw that they had done it just as the Lord commanded. Then Moses blessed them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Exodus 39 is a draft resource chapter. The chapter opens with "From the blue, purple, and scarlet thread, they made woven garments for serving in the holy place...," moves through "They made the robe of the ephod entirely of woven blue cloth.," and closes with "Moses inspected all the work and saw that they had done it just as the Lord commanded. Then Moses...." Review this summary for fuller theological detail before approval.
+The workers make the priestly clothes and bring the finished tabernacle pieces to Moses, who blesses them.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-From the blue, purple, and scarlet thread, they made woven clothes for serving in the holy place. They made the holy garments for Aaron, just as the Lord commanded Moses. - Exodus 39:1
+So all the work on the holy tent, the tent of meeting, was finished. The Israelites did everything just as the Lord commanded Moses. - Exodus 39:32
 
 ### Ages 8-10
-From the blue, purple, and scarlet thread, they made woven garments for serving in the holy place. They made Aaron's holy garments as the Lord commanded Moses. - Exodus 39:1
+So all the work on the tabernacle, the tent of meeting, was completed. The Israelites did everything as the Lord commanded Moses. - Exodus 39:32
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 39 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 39 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

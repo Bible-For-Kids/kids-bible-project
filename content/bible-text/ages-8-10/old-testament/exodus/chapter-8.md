@@ -33,7 +33,7 @@ The magicians did the same kind of thing by their magic arts and brought frogs u
 Then Pharaoh called for Moses and Aaron and said, "Plead with the Lord to take the frogs away from me and my people. I will let the people go, so they may sacrifice to the Lord."
 
 ### Exodus 8:9
-Moses said to Pharaoh, "You may choose the time. When shall I plead for you, your servants, and your people, so the frogs will be destroyed from you and your houses and remain only in the river?"
+Moses said to Pharaoh, "You may choose the time. When will I plead for you, your servants, and your people, so the frogs will be destroyed from you and your houses and remain only in the river?"
 
 ### Exodus 8:10
 Pharaoh said, "Tomorrow." Moses said, "It will be according to your word, so that you may know there is no one like the Lord our God."

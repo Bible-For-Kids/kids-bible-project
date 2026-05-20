@@ -102,7 +102,7 @@ These are the rules God told Moses to place before the people.
 "If the ox gores a son or a daughter, the same rule must be followed."
 
 ### Exodus 21:32
-"If the ox gores a male or female servant, the owner must give thirty shekels of silver to the servant's master, and the ox must be stoned."
+"If the ox gores a male or female servant, the owner must give thirty silver pieces to the servant's master, and the ox must be stoned."
 
 ### Exodus 21:33
 "If a man opens a pit, or digs a pit and does not cover it, and an ox or donkey falls into it,"

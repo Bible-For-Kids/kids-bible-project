@@ -1,14 +1,14 @@
 # Exodus Chapter 9
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 9 and should be reviewed before approval.
+Exodus 9 continues the rescue-and-covenant story. The Lord sends more plagues on livestock, skin sores, and hail, while also warning Egypt to seek shelter before judgment falls.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- plague: A severe sign of judgment God sent on Egypt
+- Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- judgment: God's right answer to evil and sin
+- mercy: God's kindness to people who need help and forgiveness
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,8 @@ Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the L
 #### Ages 8-10
 Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the Lord God of the Hebrews says: Let my people go, so they may serve me.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -42,9 +35,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'If you refuse to let them go and continue holding them,'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 9:3
@@ -55,13 +45,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "'the hand of the Lord will come on your livestock in the field: on the horses, donkeys, camels, oxen, and sheep. There will be a very severe disease.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -74,14 +57,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'The Lord will make a distinction between the livestock of Israel and the livestock of Egypt, and nothing that belongs to the children of Israel will die.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -94,13 +71,6 @@ The Lord set a time and said, "Tomorrow the Lord will do this in the land."
 #### Ages 8-10
 The Lord set a time, saying, "Tomorrow the Lord will do this thing in the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 9:6
@@ -112,14 +82,8 @@ The next day the Lord did it. The livestock of Egypt died, but not one of the li
 #### Ages 8-10
 The Lord did this the next day. All the livestock of Egypt died, but not one of the livestock of the children of Israel died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -132,11 +96,7 @@ Pharaoh sent someone to check, and not one of Israel's livestock was dead. But P
 #### Ages 8-10
 Pharaoh sent to check, and not one of the Israelites' livestock was dead. Yet Pharaoh's heart was hardened, and he did not let the people go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
 
 ---
@@ -150,15 +110,8 @@ The Lord said to Moses and Aaron, "Take handfuls of ashes from the furnace, and 
 #### Ages 8-10
 The Lord said to Moses and Aaron, "Take handfuls of ashes from a furnace, and let Moses sprinkle them toward heaven in Pharaoh's sight."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -171,11 +124,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They will become fine dust over all the land of Egypt and become boils breaking out with sores on people and animals throughout all the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -188,11 +138,7 @@ They took ashes from the furnace and stood before Pharaoh. Moses tossed them tow
 #### Ages 8-10
 They took ashes from the furnace and stood before Pharaoh. Moses sprinkled them toward heaven, and boils with sores broke out on people and animals.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -206,11 +152,8 @@ The magicians could not stand before Moses because of the boils, for the boils w
 #### Ages 8-10
 The magicians could not stand before Moses because of the boils, for the boils were on the magicians and on all the Egyptians.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -223,15 +166,8 @@ The Lord hardened Pharaoh's heart, and Pharaoh did not listen to Moses and Aaron
 #### Ages 8-10
 The Lord hardened Pharaoh's heart, and he did not listen to them, just as the Lord had spoken to Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -244,15 +180,8 @@ The Lord said to Moses, "Get up early in the morning, stand before Pharaoh, and 
 #### Ages 8-10
 The Lord said to Moses, "Rise early in the morning, stand before Pharaoh, and say to him, 'This is what the Lord God of the Hebrews says: Let my people go, so they may serve me.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -265,8 +194,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'This time I will send all my plagues against your heart, your servants, and your people, so that you may know there is no one like me in all the earth.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- plague: A severe sign of judgment God sent on Egypt
 
 ---
 
@@ -278,9 +207,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "'By now I could have stretched out my hand and struck you and your people with disease, and you would have been cut off from the earth.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -294,7 +220,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "'But for this reason I have raised you up: to show you my power, and so my name may be declared throughout all the earth.'"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -307,9 +233,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Are you still exalting yourself against my people by refusing to let them go?'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 9:18
@@ -321,11 +244,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Tomorrow about this time I will cause very severe hail to fall, such as has not been in Egypt since its foundation until now.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -338,12 +258,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Now send and gather your livestock and everything you have in the field. Every person and animal found in the field and not brought home will have the hail come down on them, and they will die.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-
 ---
 
 ### Exodus 9:20
@@ -355,13 +269,8 @@ Those among Pharaoh's servants who feared the word of the Lord hurried their ser
 #### Ages 8-10
 Whoever among Pharaoh's servants feared the word of the Lord made his servants and livestock flee into the houses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -374,13 +283,6 @@ But those who did not take the word of the Lord seriously left their servants an
 #### Ages 8-10
 Whoever did not regard the word of the Lord left his servants and livestock in the field.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 9:22
@@ -392,14 +294,8 @@ The Lord said to Moses, "Stretch your hand toward the sky, so hail may fall over
 #### Ages 8-10
 The Lord said to Moses, "Stretch out your hand toward heaven, so there may be hail in all the land of Egypt, on people, animals, and every plant of the field throughout Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -412,14 +308,8 @@ Moses stretched his rod toward the sky, and the Lord sent thunder and hail. Fire
 #### Ages 8-10
 Moses stretched out his rod toward heaven, and the Lord sent thunder and hail. Fire ran along the ground, and the Lord rained hail on the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -432,11 +322,8 @@ There was hail, with fire mixed in the hail, very heavy. Nothing like it had hap
 #### Ages 8-10
 There was hail, and fire mixed with the hail, very severe. There had been nothing like it in all the land of Egypt since it became a nation.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -449,11 +336,8 @@ The hail struck through all the land of Egypt. It struck everything in the field
 #### Ages 8-10
 The hail struck throughout all the land of Egypt everything that was in the field, both people and animals. The hail struck every plant of the field and broke every tree of the field.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -466,12 +350,6 @@ Only in the land of Goshen, where the children of Israel were, there was no hail
 #### Ages 8-10
 Only in the land of Goshen, where the children of Israel were, there was no hail.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 9:27
@@ -483,15 +361,8 @@ Pharaoh sent for Moses and Aaron and said, "This time I have sinned. The Lord is
 #### Ages 8-10
 Pharaoh sent and called for Moses and Aaron and said to them, "I have sinned this time. The Lord is righteous, and I and my people are wicked."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -502,14 +373,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Pray to the Lord. There has been enough mighty thunder and hail. I will let you go, and you will stay no longer."
 
 #### Ages 8-10
-"Plead with the Lord, for there has been enough mighty thunder and hail. I will let you go, and you shall stay no longer."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+"Plead with the Lord, for there has been enough mighty thunder and hail. I will let you go, and you will stay no longer."
 
 ---
 
@@ -522,14 +386,6 @@ Moses said to him, "As soon as I leave the city, I will spread out my hands to t
 #### Ages 8-10
 Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to the Lord. The thunder will stop, and there will be no more hail, so that you may know the earth belongs to the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 9:30
@@ -540,14 +396,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But as for you and your servants, I know that you still will not fear the Lord God."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -560,9 +408,6 @@ The flax and barley were struck, because the barley was in the head and the flax
 #### Ages 8-10
 The flax and barley were struck, because the barley was in the head and the flax was in bud.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 9:32
@@ -573,9 +418,6 @@ But the wheat and rye were not struck, because they had not grown up yet.
 
 #### Ages 8-10
 But the wheat and rye were not struck, because they had not grown up yet.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -588,14 +430,8 @@ Moses left Pharaoh and went out of the city. He spread out his hands to the Lord
 #### Ages 8-10
 Moses went out of the city from Pharaoh and spread out his hands to the Lord. The thunder and hail stopped, and the rain was no longer poured on the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -607,9 +443,6 @@ When Pharaoh saw that the rain, hail, and thunder had stopped, he sinned even mo
 
 #### Ages 8-10
 When Pharaoh saw that the rain, hail, and thunder had stopped, he sinned yet more and hardened his heart, he and his servants.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -625,46 +458,36 @@ Pharaoh's heart was hardened, and he would not let the children of Israel go, ju
 #### Ages 8-10
 Pharaoh's heart was hardened, and he would not let the children of Israel go, just as the Lord had spoken by Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
 ## Chapter Summary
-Exodus 9 is a draft resource chapter. The chapter opens with "Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the Lord God of the He...," moves through "'Tomorrow about this time I will cause very severe hail to fall, such as has not been in Egypt si...," and closes with "Pharaoh's heart was hardened, and he would not let the children of Israel go, just as the Lord ha...." Review this summary for fuller theological detail before approval.
+The Lord sends more plagues on livestock, skin sores, and hail, while also warning Egypt to seek shelter before judgment falls.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the Lord God of the Hebrews says: Let my people go, so they may serve me.'" - Exodus 9:1
+"'But I have kept you standing for this reason: to show you my power, and so my name may be told through all the earth.'" - Exodus 9:16
 
 ### Ages 8-10
-Then the Lord said to Moses, "Go in to Pharaoh and tell him, 'This is what the Lord God of the Hebrews says: Let my people go, so they may serve me.'" - Exodus 9:1
+"'But for this reason I have raised you up: to show you my power, and so my name may be declared throughout all the earth.'" - Exodus 9:16
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 9 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

@@ -54,7 +54,7 @@ When the dew was gone, thin flaky pieces were on the ground in the wilderness, l
 When the people saw it, they said to one another, "What is it?" They did not know what it was. Moses said, "This is the bread the Lord has given you to eat."
 
 ### Exodus 16:16
-"This is what the Lord commands: Each person should gather what they need to eat, one omer for each person in the tent."
+"This is what the Lord commands: Each person should gather what they need to eat, one basket measure for each person in the tent."
 
 ### Exodus 16:17
 The people of Israel did this. Some gathered more, and some gathered less.
@@ -72,7 +72,7 @@ But some people did not listen to Moses. They kept some until morning, and it gr
 Morning after morning, each person gathered what they needed. When the sun grew hot, the rest melted away.
 
 ### Exodus 16:22
-On the sixth day, they gathered twice as much bread, two omers for each person. The leaders came and told Moses.
+On the sixth day, they gathered twice as much bread, two basket measures for each person. The leaders came and told Moses.
 
 ### Exodus 16:23
 Moses said, "This is what the Lord has said: Tomorrow is a day of rest, a holy Sabbath to the Lord. Bake what you will bake and boil what you will boil. Keep what is left until morning."
@@ -102,10 +102,10 @@ So the people rested on the seventh day.
 The people of Israel called the food manna. It was white like coriander seed, and it tasted like wafers made with honey.
 
 ### Exodus 16:32
-Moses said, "This is what the Lord commands: Keep an omer of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord commands: Keep an basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 ### Exodus 16:33
-Moses told Aaron, "Take a jar, put an omer of manna in it, and place it before the Lord to be kept for your families after you."
+Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for your families after you."
 
 ### Exodus 16:34
 Aaron placed it before the Testimony to be kept, just as the Lord commanded Moses.
@@ -114,4 +114,4 @@ Aaron placed it before the Testimony to be kept, just as the Lord commanded Mose
 The people of Israel ate manna for forty years, until they came to a land where people lived. They ate manna until they reached the edge of Canaan.
 
 ### Exodus 16:36
-An omer was one-tenth of an ephah.
+An basket measure was one-tenth of a dry measure.

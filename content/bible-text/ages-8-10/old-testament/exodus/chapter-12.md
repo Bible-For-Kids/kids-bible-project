@@ -30,7 +30,7 @@ Keep it until the fourteenth day of the month. Then the whole assembly of Israel
 They are to take some of the blood and put it on the two side posts and the upper doorpost of the houses where they eat the lamb.
 
 ### Exodus 12:8
-That night they are to eat the meat roasted over fire, with unleavened bread and bitter herbs.
+That night they are to eat the meat roasted over fire, with bread made without yeast and bitter herbs.
 
 ### Exodus 12:9
 Do not eat it raw or boiled in water. It must be roasted over fire, with its head, legs, and inner parts.
@@ -51,28 +51,28 @@ The blood will be a sign for you on the houses where you are. When I see the blo
 This day will be a memorial for you. You must keep it as a feast to the Lord throughout your generations, as a lasting command.
 
 ### Exodus 12:15
-For seven days you must eat unleavened bread. On the first day, remove yeast from your houses. Whoever eats leavened bread from the first day through the seventh day will be cut off from Israel.
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Whoever eats bread made with yeast from the first day through the seventh day will be cut off from Israel.
 
 ### Exodus 12:16
 On the first day you will hold a holy gathering, and on the seventh day another holy gathering. No work is to be done on those days, except preparing the food each person needs.
 
 ### Exodus 12:17
-Keep the Feast of Unleavened Bread, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
 
 ### Exodus 12:18
-In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat unleavened bread.
+In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
 
 ### Exodus 12:19
-For seven days no yeast may be found in your houses. Whoever eats anything leavened will be cut off from the community of Israel, whether a foreigner or someone born in the land.
+For seven days no yeast may be found in your houses. Whoever eats anything made with yeast will be cut off from the community of Israel, whether a foreigner or someone born in the land.
 
 ### Exodus 12:20
-Eat nothing leavened. Wherever you live, you must eat unleavened bread."
+Eat nothing made with yeast. Wherever you live, you must eat bread made without yeast."
 
 ### Exodus 12:21
 Then Moses called all the elders of Israel and said to them, "Go and choose lambs for your families, and kill the Passover lamb.
 
 ### Exodus 12:22
-Take a bunch of hyssop, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
+Take a bunch of leafy hyssop branch, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
 
 ### Exodus 12:23
 The Lord will pass through to strike Egypt. When he sees the blood on the upper doorpost and the two side posts, the Lord will pass over the door and will not allow the destroyer to enter your houses.
@@ -108,10 +108,10 @@ Take your flocks and herds, as you have said, and go. Also bless me."
 The Egyptians urged the people to leave the land quickly, because they said, "We will all die."
 
 ### Exodus 12:34
-The people took their dough before it was leavened. They wrapped their kneading bowls in their clothes and carried them on their shoulders.
+The people took their dough before it had risen. They wrapped their kneading bowls in their clothes and carried them on their shoulders.
 
 ### Exodus 12:35
-The Israelites did what Moses had told them and asked the Egyptians for articles of silver and gold and for clothing.
+The Israelites did what Moses had told them and asked the Egyptians for silver and gold items and for clothing.
 
 ### Exodus 12:36
 The Lord gave the people favor in the eyes of the Egyptians, so the Egyptians gave them what they asked for. In this way they took wealth from Egypt.
@@ -123,7 +123,7 @@ The Israelites traveled from Rameses to Succoth. There were about six hundred th
 A mixed group of other people went up with them, along with many flocks and herds.
 
 ### Exodus 12:39
-They baked unleavened cakes from the dough they had brought out of Egypt. It had not risen because they had been driven out of Egypt and could not wait or prepare food for themselves.
+They baked cakes made without yeast from the dough they had brought out of Egypt. It had not risen because they had been driven out of Egypt and could not wait or prepare food for themselves.
 
 ### Exodus 12:40
 The Israelites had lived in Egypt for four hundred thirty years.

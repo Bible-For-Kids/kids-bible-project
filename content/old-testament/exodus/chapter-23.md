@@ -1,14 +1,14 @@
 # Exodus Chapter 23
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 23 and should be reviewed before approval.
+Exodus 23 continues the rescue-and-covenant story. The Lord commands justice, Sabbath rest, yearly feasts, and promises to guide Israel toward the land.
 
 ## Important Keywords
-- covenant: A serious promise relationship God makes
-- desert: A dry wilderness place
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
+- law: God's instruction for his covenant people
+- Sabbath: A day of holy rest
+- worship: Honoring God with trust, praise, and obedience
+- promise: Words someone says and keeps
+- angel: A messenger or servant from God
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 #### Ages 8-10
 "You must not spread a false report. Do not join a wicked person by becoming an unrighteous witness."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:2
@@ -35,11 +32,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not follow a crowd into evil. In a lawsuit, do not give testimony that follows the crowd and twists justice."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- evil: What is wrong and against God
+- law: God's instruction for his covenant people
 
 ---
 
@@ -52,8 +46,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not show favoritism to a poor person in his lawsuit."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- law: God's instruction for his covenant people
 
 ---
 
@@ -66,9 +60,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you meet your enemy's ox or donkey wandering away, you must return it to him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:5
@@ -79,9 +70,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If you see the donkey of someone who hates you lying under its load, do not leave it. You must help him with it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -94,8 +82,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not twist justice against a poor person in his lawsuit."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- law: God's instruction for his covenant people
 
 ---
 
@@ -108,9 +96,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Keep far away from a false charge. Do not put an innocent or righteous person to death, because I will not declare the wicked innocent."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:8
@@ -121,9 +106,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Do not take a bribe, because a bribe blinds those who see clearly and twists the words of righteous people."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -136,12 +118,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not oppress a foreigner. You know the heart of a foreigner, because you were foreigners in the land of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Exodus 23:10
@@ -152,9 +128,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "For six years you must sow your land and gather its produce."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -167,9 +140,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But in the seventh year, let it rest and lie still, so the poor among your people may eat. What they leave, the wild animals may eat. Do the same with your vineyard and olive grove."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:12
@@ -180,9 +150,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "For six days you must do your work, but on the seventh day you must rest, so your ox and donkey may rest, and the son of your female servant and the foreigner may be refreshed."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -195,9 +162,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Pay attention to everything I have said to you. Do not mention the names of other gods, and do not let them be heard from your mouth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:14
@@ -209,25 +173,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Three times each year you must hold a feast to me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:15
 **Original Reference**: Exodus 23:15 - You shall observe the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib (for in it you came out of Egypt), and no one shall appear before me empty.
 
 #### Ages 5-7
-"Keep the Feast of Unleavened Bread. For seven days you must eat bread without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt. No one must come before me empty-handed."
+"Keep the Feast of Bread Made Without Yeast. For seven days you must eat bread without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt. No one must come before me empty-handed."
 
 #### Ages 8-10
-"You must keep the Feast of Unleavened Bread. For seven days you must eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, because in that month you came out of Egypt. No one must appear before me empty-handed."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+"You must keep the Feast of Bread Made Without Yeast. For seven days you must eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib, because in that month you came out of Egypt. No one must appear before me empty-handed."
 
 ---
 
@@ -240,9 +195,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Keep the Feast of Harvest with the firstfruits of your labor, from what you sow in the field. Also keep the Feast of Gathering at the end of the year, when you gather the fruit of your labor from the field."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:17
@@ -254,14 +206,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Three times each year all your males must appear before the Lord God."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 23:18
@@ -271,13 +215,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Do not offer the blood of my sacrifice with bread that has yeast. Do not let the fat of my feast stay until morning."
 
 #### Ages 8-10
-"You must not offer the blood of my sacrifice with leavened bread. The fat of my feast must not remain until morning."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- sacrifice: An offering given in worship
+"You must not offer the blood of my sacrifice with bread made with yeast. The fat of my feast must not remain until morning."
 
 ---
 
@@ -289,14 +227,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Bring the first of the firstfruits of your land into the house of the Lord your God. Do not boil a young goat in its mother's milk."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -310,7 +240,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "I am sending an Angel before you to guard you on the way and to bring you to the place I have prepared."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
+
+**Key Vocabulary**:
+- angel: A messenger or servant from God
 
 ---
 
@@ -323,9 +256,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Pay careful attention to him and obey his voice. Do not rebel against him, because he will not pardon your rebellion, for my name is in him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:22
@@ -336,9 +266,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But if you carefully obey his voice and do all that I speak, then I will be an enemy to your enemies and oppose those who oppose you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -351,8 +278,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "My Angel will go before you and bring you to the Amorites, Hittites, Perizzites, Canaanites, Hivites, and Jebusites, and I will remove them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- angel: A messenger or servant from God
 
 ---
 
@@ -365,9 +292,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not bow down to their gods, serve them, or follow their practices. Instead, you must overthrow them and break their sacred pillars."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:25
@@ -378,14 +302,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You must serve the Lord your God, and he will bless your bread and water. I will remove sickness from among you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -398,9 +314,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "No one in your land will miscarry or be barren, and I will fulfill the number of your days."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:27
@@ -411,9 +324,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I will send fear of me ahead of you and throw into confusion all the people you meet. I will make all your enemies turn their backs to you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -426,9 +336,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will send hornets ahead of you, and they will drive the Hivites, Canaanites, and Hittites away from you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:29
@@ -439,9 +346,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I will not drive them out before you in one year, so the land does not become empty and wild animals multiply against you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -454,9 +358,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Little by little I will drive them out before you, until you grow in number and inherit the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 23:31
@@ -467,13 +368,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I will set your border from the Red Sea to the sea of the Philistines, and from the desert to the River. I will give the inhabitants of the land into your hand, and you will drive them out before you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- desert: A dry wilderness place
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -486,12 +380,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must make no covenant with them or with their gods."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-
 ---
 
 ### Exodus 23:33
@@ -503,42 +391,33 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They must not live in your land, or they will make you sin against me. If you serve their gods, it will surely become a trap for you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- sin: Disobeying God and going against his good way
-
 ---
 
 ## Chapter Summary
-Exodus 23 is a draft resource chapter. The chapter opens with "You must not spread a false report. Do not join a wicked person by becoming an unrighteous witness.," moves through "Three times each year all your males must appear before the Lord God.," and closes with "They must not live in your land, or they will make you sin against me. If you serve their gods, i...." Review this summary for fuller theological detail before approval.
+The Lord commands justice, Sabbath rest, yearly feasts, and promises to guide Israel toward the land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"You must not spread a false report. Do not join with a wicked person to be a dishonest witness." - Exodus 23:1
+"See, I am sending an Angel before you to guard you on the way and bring you to the place I have prepared." - Exodus 23:20
 
 ### Ages 8-10
-"You must not spread a false report. Do not join a wicked person by becoming an unrighteous witness." - Exodus 23:1
+"I am sending an Angel before you to guard you on the way and to bring you to the place I have prepared." - Exodus 23:20
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 23 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 23 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

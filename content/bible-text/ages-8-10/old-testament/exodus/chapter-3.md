@@ -72,4 +72,4 @@ God also said to Moses, "Tell the children of Israel, 'The Lord God of your fath
 "I will give this people favor in the sight of the Egyptians. When you go, you will not go empty-handed.
 
 ### Exodus 3:22
-"Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing. You will put them on your sons and daughters, and you will take the wealth of Egypt."
+"Every woman will ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing. You will put them on your sons and daughters, and you will take the wealth of Egypt."

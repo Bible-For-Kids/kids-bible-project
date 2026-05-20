@@ -57,7 +57,7 @@ Then the leaders of Edom will be amazed. The mighty men of Moab will tremble. Al
 Terror and dread will fall on them. By the greatness of your arm, they will be still as stone until your people pass by, Lord, until the people you purchased pass by.
 
 ### Exodus 15:17
-You will bring them in and plant them on the mountain of your inheritance, the place you made for your dwelling, Lord, the sanctuary your hands established.
+You will bring them in and plant them on the mountain of your inheritance, the place you made for your dwelling, Lord, the holy place your hands established.
 
 ### Exodus 15:18
 The Lord will reign forever and ever."

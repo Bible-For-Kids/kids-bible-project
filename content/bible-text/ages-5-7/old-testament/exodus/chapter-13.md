@@ -27,7 +27,7 @@ The Lord promised your fathers to give you the land of the Canaanites, Hittites,
 For seven days you must eat bread made without yeast. On the seventh day, there will be a feast to the Lord.
 
 ### Exodus 13:7
-Eat unleavened bread for seven days. No leavened bread and no yeast should be seen anywhere with you.
+Eat bread made without yeast for seven days. No bread made with yeast and no yeast should be seen anywhere with you.
 
 ### Exodus 13:8
 On that day, tell your child, 'We do this because of what the Lord did for me when I came out of Egypt.'

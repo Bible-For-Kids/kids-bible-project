@@ -42,7 +42,7 @@ Jethro said, "Blessed be the Lord, who rescued you from the Egyptians and from P
 "Now I know that the Lord is greater than all gods, because he rescued the people when the Egyptians acted arrogantly against them."
 
 ### Exodus 18:12
-Jethro, Moses' father-in-law, brought a burnt offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
+Jethro, Moses' father-in-law, brought a burned offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
 
 ### Exodus 18:13
 The next day Moses sat to judge the people, and the people stood around Moses from morning until evening.

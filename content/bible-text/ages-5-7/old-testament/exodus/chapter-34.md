@@ -60,7 +60,7 @@ The Lord said, "I am making a covenant. In front of all your people I will do wo
 "Do not make gods from melted metal for yourselves."
 
 ### Exodus 34:18
-"Keep the Feast of Unleavened Bread. For seven days eat bread made without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt."
+"Keep the Feast of Bread Made Without Yeast. For seven days eat bread made without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt."
 
 ### Exodus 34:19
 "Every firstborn male belongs to me, including the firstborn males from your cattle, whether oxen or sheep."
@@ -105,10 +105,10 @@ Moses called to them. Aaron and all the leaders of the people came back to him, 
 After that, all the people of Israel came near. Moses gave them all the commands the Lord had spoken to him on Mount Sinai.
 
 ### Exodus 34:33
-When Moses finished speaking with them, he put a veil over his face.
+When Moses finished speaking with them, he put a curtain over his face.
 
 ### Exodus 34:34
-But when Moses went in before the Lord to speak with him, he took the veil off until he came out. Then he came out and told the people of Israel what he had been commanded.
+But when Moses went in before the Lord to speak with him, he took the curtain off until he came out. Then he came out and told the people of Israel what he had been commanded.
 
 ### Exodus 34:35
-The people of Israel saw that Moses' face was shining. Then Moses put the veil over his face again until he went in to speak with the Lord.
+The people of Israel saw that Moses' face was shining. Then Moses put the curtain over his face again until he went in to speak with the Lord.

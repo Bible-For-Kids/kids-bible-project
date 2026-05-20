@@ -1,14 +1,14 @@
 # Exodus Chapter 11
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 11 and should be reviewed before approval.
+Exodus 11 continues the rescue-and-covenant story. The Lord announces the final plague on Egypt's firstborn and says Israel will be sent out with favor.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- plague: A severe sign of judgment God sent on Egypt
+- firstborn: The child born first in a family
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- deliverance: Being rescued by God from danger or slavery
+- Pharaoh: The king of Egypt
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,10 @@ The Lord told Moses, "I will bring one more trouble on Pharaoh and on Egypt. Aft
 #### Ages 8-10
 The Lord said to Moses, "I will bring one more plague on Pharaoh and on Egypt. Afterward he will let you go from here, and when he does, he will drive you out completely.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- plague: A severe sign of judgment God sent on Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -40,14 +35,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 The Lord told Moses to speak to the people. Each man and woman was to ask their Egyptian neighbors for silver and gold jewelry.
 
 #### Ages 8-10
-Tell the people that every man and woman should ask their neighbors for articles of silver and gold."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Tell the people that every man and woman should ask their neighbors for silver and gold items."
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -60,15 +51,9 @@ The Lord made the Egyptians look kindly on the Israelites. Moses was also greatl
 #### Ages 8-10
 The Lord gave the people favor in the eyes of the Egyptians. Moses himself was considered very great in Egypt by Pharaoh's servants and by the people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -81,15 +66,9 @@ Moses said to Pharaoh, "This is what the Lord says: About midnight I will go thr
 #### Ages 8-10
 Moses said, "This is what the Lord says: About midnight I will go through the middle of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -102,11 +81,9 @@ Every firstborn in Egypt will die, from Pharaoh's firstborn child who sits near 
 #### Ages 8-10
 Every firstborn in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne to the firstborn of the servant girl who works at the mill, and all the firstborn of the animals.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- firstborn: The child born first in a family
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
 
 ---
@@ -120,11 +97,8 @@ There will be loud crying all through Egypt, greater than any crying there has e
 #### Ages 8-10
 A great cry will rise throughout all Egypt, one like none before it and none that will ever be like it again.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -138,13 +112,10 @@ But among the Israelites, not even a dog will bark against a person or an animal
 But against any of the Israelites, not even a dog will growl at person or animal. Then you will know that the Lord makes a distinction between Egypt and Israel.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -157,11 +128,7 @@ All your servants will come down to me and bow before me. They will say, 'Go out
 #### Ages 8-10
 All these servants of yours will come down to me and bow before me, saying, 'Leave, you and all the people who follow you.' After that I will leave." Then Moses went out from Pharaoh in fierce anger.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
@@ -175,15 +142,9 @@ The Lord had told Moses, "Pharaoh will not listen to you, so that my wonders wil
 #### Ages 8-10
 The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -196,46 +157,36 @@ Moses and Aaron did all these wonders in front of Pharaoh. But the Lord hardened
 #### Ages 8-10
 Moses and Aaron performed all these wonders before Pharaoh, but the Lord hardened Pharaoh's heart, and Pharaoh would not let the Israelites leave his land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 11 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "I will bring one more plague on Pharaoh and on Egypt. Afterward he will...," moves through "A great cry will rise throughout all Egypt, one like none before it and none that will ever be li...," and closes with "Moses and Aaron performed all these wonders before Pharaoh, but the Lord hardened Pharaoh's heart...." Review this summary for fuller theological detail before approval.
+The Lord announces the final plague on Egypt's firstborn and says Israel will be sent out with favor.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord told Moses, "I will bring one more trouble on Pharaoh and on Egypt. After that, Pharaoh will let you go. When he lets you go, he will hurry you out completely." - Exodus 11:1
+But among the Israelites, not even a dog will bark against a person or an animal. Then you will know that the Lord makes a difference between Egypt and Israel. - Exodus 11:7
 
 ### Ages 8-10
-The Lord gave the people favor in the eyes of the Egyptians. Moses himself was considered very great in Egypt by Pharaoh's servants and by the people. - Exodus 11:3
+But against any of the Israelites, not even a dog will growl at person or animal. Then you will know that the Lord makes a distinction between Egypt and Israel. - Exodus 11:7
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 11 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 11 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

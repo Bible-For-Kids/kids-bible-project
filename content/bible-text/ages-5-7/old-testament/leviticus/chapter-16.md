@@ -18,7 +18,7 @@ and the Lord said to Moses, "Tell Aaron your brother not to come at just any tim
 "Aaron must come into the holy place with a young bull for an offering for sin, and a male sheep for a burned offering.
 
 ### Leviticus 16:4
-He must put on the holy linen tunic. He must have the linen trousers on his body, and must put on the linen sash, and he must be clothed with the linen turban. They are the holy clothes. He must bathe his body in water, and put them on.
+He must put on the holy linen long shirt. He must wear linen pants on his body, tie on the linen waistband, and put on the linen head wrap. These are the holy clothes. He must wash his body with water, and put them on.
 
 ### Leviticus 16:5
 He must take from the whole group of the people of Israel two male goats for an offering for sin, and one male sheep for a burned offering.

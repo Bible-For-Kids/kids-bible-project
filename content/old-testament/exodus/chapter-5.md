@@ -1,14 +1,14 @@
 # Exodus Chapter 5
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 5 and should be reviewed before approval.
+Exodus 5 continues the rescue-and-covenant story. Moses and Aaron speak to Pharaoh, but Pharaoh makes Israel's labor heavier, and the people groan under harsher slavery.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- desert: A dry wilderness place
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
+- Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
+- slavery: Being forced to serve without freedom
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
 
@@ -22,14 +22,12 @@ After this, Moses and Aaron went to Pharaoh and said, "This is what the Lord God
 Afterward Moses and Aaron went in and told Pharaoh, "This is what the Lord God of Israel says: Let my people go, so they may hold a feast to me in the wilderness."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
+- Pharaoh: The king of Egypt
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -42,14 +40,9 @@ Pharaoh said, "Who is the Lord, that I should obey his voice and let Israel go? 
 #### Ages 8-10
 Pharaoh said, "Who is the Lord, that I should obey his voice and let Israel go? I do not know the Lord, and I will not let Israel go."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -62,16 +55,6 @@ They said, "The God of the Hebrews has met with us. Please let us go three days'
 #### Ages 8-10
 They said, "The God of the Hebrews has met with us. Please let us go three days' journey into the desert and sacrifice to the Lord our God, so he does not strike us with disease or the sword."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- desert: A dry wilderness place
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- sacrifice: An offering given in worship
-- wilderness: A wild, dry place away from towns and farms
-
 ---
 
 ### Exodus 5:4
@@ -83,13 +66,9 @@ The king of Egypt said to them, "Moses and Aaron, why are you pulling the people
 #### Ages 8-10
 The king of Egypt said to them, "Moses and Aaron, why are you taking the people away from their work? Get back to your burdens."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
 - Moses: The servant God used to lead Israel out of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -101,9 +80,6 @@ Pharaoh also said, "Look, the people of the land are many now, and you are makin
 
 #### Ages 8-10
 Pharaoh also said, "Look, the people of the land are now many, and you are making them rest from their burdens."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -119,9 +95,6 @@ That same day Pharaoh gave orders to the taskmasters over the people and to thei
 #### Ages 8-10
 That same day Pharaoh commanded the taskmasters over the people and their officers,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
 
@@ -134,10 +107,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 He said, "Do not give the people straw for making bricks anymore. Let them go and gather straw for themselves.
 
 #### Ages 8-10
-"You shall no longer give the people straw to make bricks as before. Let them go and gather straw for themselves.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"You will no longer give the people straw to make bricks as before. Let them go and gather straw for themselves.
 
 ---
 
@@ -150,13 +120,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But require from them the same number of bricks they made before. Do not reduce it, because they are idle. That is why they cry out, 'Let us go and sacrifice to our God.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- sacrifice: An offering given in worship
-
 ---
 
 ### Exodus 5:9
@@ -168,9 +131,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make the work harder for the men, so they will labor at it and not pay attention to false words."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 5:10
@@ -181,9 +141,6 @@ The taskmasters and officers went out and told the people, "This is what Pharaoh
 
 #### Ages 8-10
 The taskmasters of the people and their officers went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -199,9 +156,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Go and get straw for yourselves wherever you can find it, but none of your work will be reduced."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 5:12
@@ -213,11 +167,8 @@ So the people spread out through all the land of Egypt to gather dry stalks inst
 #### Ages 8-10
 So the people scattered through all the land of Egypt to gather stubble instead of straw.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -230,9 +181,6 @@ The taskmasters pushed them hard and said, "Finish your daily work, just as you 
 #### Ages 8-10
 The taskmasters pressed them, saying, "Finish your daily work, just as when straw was provided."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 5:14
@@ -244,12 +192,9 @@ Pharaoh's taskmasters beat the Israelite officers they had put over the people. 
 #### Ages 8-10
 The officers of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten. The taskmasters asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -262,12 +207,9 @@ Then the Israelite officers went and cried out to Pharaoh, "Why are you treating
 #### Ages 8-10
 Then the officers of the children of Israel came and cried out to Pharaoh, "Why are you treating your servants this way?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -280,9 +222,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "No straw is given to your servants, yet they say to us, 'Make bricks.' Your servants are beaten, but the fault is with your own people."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 5:17
@@ -294,14 +233,8 @@ Pharaoh said, "You are idle, idle. That is why you say, 'Let us go and sacrifice
 #### Ages 8-10
 Pharaoh said, "You are idle, idle. That is why you say, 'Let us go and sacrifice to the Lord.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- sacrifice: An offering given in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -314,9 +247,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Now go and work. No straw will be given to you, but you must still produce the same number of bricks."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 5:19
@@ -326,10 +256,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 The Israelite officers saw that they were in trouble when they were told, "You must not make fewer bricks each day."
 
 #### Ages 8-10
-The officers of the children of Israel saw that they were in trouble when they were told, "You shall not reduce your daily number of bricks."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The officers of the children of Israel saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -345,13 +272,9 @@ As they left Pharaoh, they met Moses and Aaron, who were standing there waiting 
 #### Ages 8-10
 As they left Pharaoh, they met Moses and Aaron, who stood waiting for them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -364,15 +287,9 @@ They said to Moses and Aaron, "May the Lord look at you and judge, because you h
 #### Ages 8-10
 They said to Moses and Aaron, "May the Lord look at you and judge, because you have made Pharaoh and his servants hate us. You have put a sword in their hand to kill us."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -385,13 +302,8 @@ Moses went back to the Lord and said, "Lord, why have you brought trouble on thi
 #### Ages 8-10
 Moses returned to the Lord and said, "Lord, why have you brought trouble on this people? Why did you send me?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -404,21 +316,18 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Since I came to Pharaoh to speak in your name, he has done evil to this people, and you have not delivered your people at all."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- evil: What is wrong and against God
 - Pharaoh: The king of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 5 is a draft resource chapter. The chapter opens with "Afterward Moses and Aaron went in and told Pharaoh, "This is what the Lord God of Israel says: Le...," moves through "So the people scattered through all the land of Egypt to gather stubble instead of straw.," and closes with "Since I came to Pharaoh to speak in your name, he has done evil to this people, and you have not...." Review this summary for fuller theological detail before approval.
+Moses and Aaron speak to Pharaoh, but Pharaoh makes Israel's labor heavier, and the people groan under harsher slavery.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
@@ -431,16 +340,12 @@ Afterward Moses and Aaron went in and told Pharaoh, "This is what the Lord God o
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 5 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 5 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

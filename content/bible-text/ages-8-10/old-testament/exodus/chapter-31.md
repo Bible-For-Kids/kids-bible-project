@@ -27,19 +27,19 @@ He said, "See, I have called Bezalel by name. He is the son of Uri, the son of H
 "I have also appointed Aholiab son of Ahisamach, from the tribe of Dan, to work with him. I have put wisdom in the hearts of all the skilled workers, so they can make everything I have commanded you."
 
 ### Exodus 31:7
-"They will make the meeting tent, the ark of the testimony, the mercy seat on it, and all the furnishings of the tabernacle."
+"They will make the meeting tent, the ark of the testimony, the atonement cover on it, and all the furnishings of the tabernacle."
 
 ### Exodus 31:8
-"They will make the table and its utensils, the pure lampstand and all its utensils, and the altar of incense."
+"They will make the table and its utensils, the pure lampstand and all its utensils, and the altar of sweet-smelling incense."
 
 ### Exodus 31:9
-"They will make the altar of burnt offering and all its utensils, and the basin with its stand."
+"They will make the altar of burned offering and all its utensils, and the basin with its stand."
 
 ### Exodus 31:10
-"They will make the woven garments, the holy garments for Aaron the priest, and the garments for his sons to serve as priests."
+"They will make the woven clothes, the holy clothes for Aaron the priest, and the clothes for his sons to serve as priests."
 
 ### Exodus 31:11
-"They will make the anointing oil and the fragrant incense for the holy place. They must do everything just as I have commanded you."
+"They will make the special anointing oil and the sweet-smelling incense for the holy place. They must do everything just as I have commanded you."
 
 ### Exodus 31:12
 The Lord spoke to Moses again.

@@ -1,14 +1,14 @@
 # Exodus Chapter 27
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 27 and should be reviewed before approval.
+Exodus 27 continues the rescue-and-covenant story. The Lord gives instructions for the bronze altar, courtyard, and oil for the lamp that must burn before him.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
-- command: Something God tells someone to do
-- covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- tabernacle: The holy tent where the Lord met with Israel
+- offering: A gift brought to the Lord in worship
+- worship: Honoring God with trust, praise, and obedience
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ## Verse-by-Verse Translation
 
@@ -16,17 +16,13 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 **Original Reference**: Exodus 27:1 - "You shall make the altar of acacia wood, five cubits long, and five cubits wide. The altar shall be square. Its height shall be three cubits.
 
 #### Ages 5-7
-"Make the altar from acacia wood," God said. "It must be five cubits long, five cubits wide, square, and three cubits high."
+"Make the altar from acacia wood," God said. "It must be five arm-lengths long, five arm-lengths wide, square, and three arm-lengths high."
 
 #### Ages 8-10
-"Make the altar from acacia wood. It must be five cubits long, five cubits wide, square in shape, and three cubits high."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the altar from acacia wood. It must be five arm-lengths long, five arm-lengths wide, square in shape, and three arm-lengths high."
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -38,9 +34,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Make a horn on each of its four corners, all one piece with the altar, and cover the altar with bronze."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -56,9 +49,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make its pans for ashes, its shovels, bowls, meat forks, and firepans. Make all its utensils from bronze."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -72,9 +62,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Make a bronze grate of network for it, and make four bronze rings on the four corners of the grate."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -90,9 +77,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Put the grate under the ledge of the altar, so the net reaches halfway up the altar."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -106,9 +90,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Make poles for the altar from acacia wood, and cover them with bronze."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -124,9 +105,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Put the poles through the rings, so the poles are on the two sides of the altar when it is carried."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -141,9 +119,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make the altar hollow, out of boards. They must make it just as you were shown on the mountain."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -153,13 +128,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:9 - "You shall make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen one hundred cubits long for one side.
 
 #### Ages 5-7
-"Make the courtyard around the tabernacle. On the south side, hang fine twisted linen curtains one hundred cubits long."
+"Make the courtyard around the holy tent. On the south side, hang fine twisted linen curtains one hundred arm-lengths long."
 
 #### Ages 8-10
-"Make the courtyard of the tabernacle. On the south side, put curtains of finely twisted linen one hundred cubits long."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the courtyard of the tabernacle. On the south side, put curtains of finely twisted linen one hundred arm-lengths long."
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -175,22 +147,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Use twenty posts and twenty bronze bases for that side. The hooks and bands of the posts must be silver."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 27:11
 **Original Reference**: Exodus 27:11 - Likewise for the length of the north side, there shall be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.
 
 #### Ages 5-7
-"On the north side, hang curtains one hundred cubits long. Use twenty posts and twenty bronze bases, with silver hooks and silver bands."
+"On the north side, hang curtains one hundred arm-lengths long. Use twenty posts and twenty bronze bases, with silver hooks and silver bands."
 
 #### Ages 8-10
-"On the north side, put curtains one hundred cubits long, with twenty posts and twenty bronze bases. The hooks and bands of the posts must be silver."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"On the north side, put curtains one hundred arm-lengths long, with twenty posts and twenty bronze bases. The hooks and bands of the posts must be silver."
 
 ---
 
@@ -198,13 +164,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:12 - For the width of the court on the west side shall be hangings of fifty cubits; their pillars ten, and their sockets ten.
 
 #### Ages 5-7
-"On the west side of the courtyard, hang curtains fifty cubits long, with ten posts and ten bases."
+"On the west side of the courtyard, hang curtains fifty arm-lengths long, with ten posts and ten bases."
 
 #### Ages 8-10
-"On the west side of the courtyard, put curtains fifty cubits long, with ten posts and ten bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"On the west side of the courtyard, put curtains fifty arm-lengths long, with ten posts and ten bases."
 
 ---
 
@@ -212,13 +175,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:13 - The width of the court on the east side eastward shall be fifty cubits.
 
 #### Ages 5-7
-"The east side of the courtyard, where the sun rises, must be fifty cubits wide."
+"The east side of the courtyard, where the sun rises, must be fifty arm-lengths wide."
 
 #### Ages 8-10
-"The east side of the courtyard, toward the sunrise, must also be fifty cubits wide."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"The east side of the courtyard, toward the sunrise, must also be fifty arm-lengths wide."
 
 ---
 
@@ -226,13 +186,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:14 - The hangings for the one side of the gate shall be fifteen cubits; their pillars three, and their sockets three.
 
 #### Ages 5-7
-"On one side of the gate, hang curtains fifteen cubits long, with three posts and three bases."
+"On one side of the gate, hang curtains fifteen arm-lengths long, with three posts and three bases."
 
 #### Ages 8-10
-"On one side of the gate, put curtains fifteen cubits long, with three posts and three bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"On one side of the gate, put curtains fifteen arm-lengths long, with three posts and three bases."
 
 ---
 
@@ -240,13 +197,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:15 - For the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three.
 
 #### Ages 5-7
-"On the other side, hang curtains fifteen cubits long, with three posts and three bases."
+"On the other side, hang curtains fifteen arm-lengths long, with three posts and three bases."
 
 #### Ages 8-10
-"On the other side, put curtains fifteen cubits long, with three posts and three bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"On the other side, put curtains fifteen arm-lengths long, with three posts and three bases."
 
 ---
 
@@ -254,13 +208,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:16 - For the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four.
 
 #### Ages 5-7
-"For the courtyard gate, make a screen twenty cubits long. Use blue, purple, and scarlet yarn and fine twisted linen, with needlework on it. It must have four posts and four bases."
+"For the courtyard gate, make a screen twenty arm-lengths long. Use blue, purple, and red thread yarn and fine twisted linen, with needlework on it. It must have four posts and four bases."
 
 #### Ages 8-10
-"For the gate of the courtyard, make a screen twenty cubits long from blue, purple, and scarlet yarn and finely twisted linen, embroidered by a needleworker. It must have four posts and four bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"For the gate of the courtyard, make a screen twenty arm-lengths long from blue, purple, and red thread yarn and finely twisted linen, embroidered by a needleworker. It must have four posts and four bases."
 
 ---
 
@@ -273,22 +224,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "All the posts around the courtyard must have silver bands, silver hooks, and bronze bases."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 27:18
 **Original Reference**: Exodus 27:18 - The length of the court shall be one hundred cubits, and the width fifty throughout, and the height five cubits, of fine twined linen, and their sockets of bronze.
 
 #### Ages 5-7
-"The courtyard must be one hundred cubits long, fifty cubits wide all around, and five cubits high. Its curtains must be fine twisted linen, and its bases must be bronze."
+"The courtyard must be one hundred arm-lengths long, fifty arm-lengths wide all around, and five arm-lengths high. Its curtains must be fine twisted linen, and its bases must be bronze."
 
 #### Ages 8-10
-"The courtyard must be one hundred cubits long, fifty cubits wide all around, and five cubits high, with curtains of finely twisted linen and bronze bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"The courtyard must be one hundred arm-lengths long, fifty arm-lengths wide all around, and five arm-lengths high, with curtains of finely twisted linen and bronze bases."
 
 ---
 
@@ -296,13 +241,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:19 - All the instruments of the tabernacle in all its service, and all its pins, and all the pins of the court, shall be of bronze.
 
 #### Ages 5-7
-"All the tools used for serving in the tabernacle, and all the tent pegs for the tabernacle and courtyard, must be bronze."
+"All the tools used for serving in the holy tent, and all the tent pegs for the holy tent and courtyard, must be bronze."
 
 #### Ages 8-10
 "All the tools used for serving in the tabernacle, and all the tent pegs for the tabernacle and courtyard, must be bronze."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -319,11 +261,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Command the Israelites to bring you pure oil from beaten olives for the light, so the lamp may burn continually."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- Israel: God's covenant people descended from Jacob
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -331,51 +269,41 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 27:21 - In the Tent of Meeting, outside the veil which is before the covenant, Aaron and his sons shall keep it in order from evening to morning before Yahweh: it shall be a statute forever throughout their generations on the behalf of the children of Israel.
 
 #### Ages 5-7
-"In the tent of meeting, outside the veil in front of the testimony, Aaron and his sons must care for the lamp before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."
+"In the tent of meeting, outside the curtain in front of the testimony, Aaron and his sons must care for the lamp before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."
 
 #### Ages 8-10
-"In the tent of meeting, outside the veil in front of the testimony, Aaron and his sons must keep the lamp burning before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"In the tent of meeting, outside the curtain in front of the testimony, Aaron and his sons must keep the lamp burning before the Lord from evening until morning. This must be a lasting rule for the Israelites through their generations."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- covenant: A serious promise relationship God makes
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
 ## Chapter Summary
-Exodus 27 is a draft resource chapter. The chapter opens with "Make the altar from acacia wood. It must be five cubits long, five cubits wide, square in shape,...," moves through "On the north side, put curtains one hundred cubits long, with twenty posts and twenty bronze base...," and closes with "In the tent of meeting, outside the veil in front of the testimony, Aaron and his sons must keep...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions for the bronze altar, courtyard, and oil for the lamp that must burn before him.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Make the altar from acacia wood," God said. "It must be five cubits long, five cubits wide, square, and three cubits high." - Exodus 27:1
+"Tell the Israelites to bring pure oil from beaten olives for the light, so the lamp can keep burning." - Exodus 27:20
 
 ### Ages 8-10
-"Make the altar from acacia wood. It must be five cubits long, five cubits wide, square in shape, and three cubits high." - Exodus 27:1
+"Command the Israelites to bring you pure oil from beaten olives for the light, so the lamp may burn continually." - Exodus 27:20
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 27 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

@@ -1,14 +1,14 @@
 # Exodus Chapter 3
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 3 and should be reviewed before approval.
+Exodus 3 continues the rescue-and-covenant story. The Lord appears to Moses in the burning bush, names himself as the God of Abraham, Isaac, and Jacob, and sends Moses to bring Israel out.
 
 ## Important Keywords
-- desert: A dry wilderness place
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Moses: The servant God used to lead Israel out of Egypt
 - holy: Set apart for God
-- Israel: God's covenant people descended from Jacob
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- deliverance: Being rescued by God from danger or slavery
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,8 @@ Moses was taking care of the flock of Jethro, his father-in-law, the priest of M
 #### Ages 8-10
 Moses was caring for the flock of Jethro, his father-in-law, the priest of Midian. He led the flock to the far side of the desert and came to Horeb, the mountain of God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- desert: A dry wilderness place
-- God: The one true Creator and Lord over all
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
-- priest: A worship leader who served at the holy place
 
 ---
 
@@ -42,13 +35,8 @@ The angel of the Lord appeared to Moses in a flame of fire from the middle of a 
 #### Ages 8-10
 The angel of the Lord appeared to him in a flame of fire from the middle of a bush. Moses looked, and the bush burned with fire, but it was not consumed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -60,9 +48,6 @@ Moses said, "I will go closer and look at this amazing sight. Why is the bush no
 
 #### Ages 8-10
 Moses said, "I will turn aside and look at this great sight, and see why the bush is not burned up."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -78,14 +63,8 @@ When the Lord saw Moses turn aside to look, God called to him from the bush, "Mo
 #### Ages 8-10
 When the Lord saw that Moses turned aside to look, God called to him from the bush, "Moses, Moses!" Moses answered, "Here I am."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -99,10 +78,9 @@ God said, "Do not come closer. Take your sandals off your feet, because the plac
 God said, "Do not come closer. Take your sandals off your feet, for the place where you are standing is holy ground."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The holy ground belongs to God's presence, not to the bush itself.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - holy: Set apart for God
 
 ---
@@ -116,12 +94,7 @@ God also said, "I am the God of your father, the God of Abraham, the God of Isaa
 #### Ages 8-10
 He also said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." Moses hid his face because he was afraid to look at God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -135,13 +108,8 @@ The Lord said, "I have truly seen my people's suffering in Egypt. I have heard t
 #### Ages 8-10
 The Lord said, "I have surely seen the suffering of my people in Egypt. I have heard their cry because of their taskmasters, and I know their sorrows.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -154,8 +122,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I have come down to deliver them from the Egyptians and bring them out of that land into a good and spacious land, a land flowing with milk and honey, the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -168,11 +136,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Now the cry of the children of Israel has come to me. I have also seen how the Egyptians oppress them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -185,13 +150,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Come now, and I will send you to Pharaoh, so that you may bring my people, the children of Israel, out of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -204,15 +164,9 @@ Moses said to God, "Who am I to go to Pharaoh and bring the children of Israel o
 #### Ages 8-10
 Moses said to God, "Who am I, that I should go to Pharaoh and bring the children of Israel out of Egypt?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -225,12 +179,8 @@ God said, "I will surely be with you. This will be the sign that I have sent you
 #### Ages 8-10
 God said, "I will certainly be with you. This will be the sign for you that I have sent you: when you have brought the people out of Egypt, you will serve God on this mountain."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -243,12 +193,7 @@ Moses said to God, "When I go to the children of Israel and say, 'The God of you
 #### Ages 8-10
 Moses said to God, "When I come to the children of Israel and say, 'The God of your fathers has sent me to you,' and they ask, 'What is his name?' what should I say to them?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -263,12 +208,13 @@ God said to Moses, "I AM WHO I AM." Then God said, "Tell the children of Israel,
 God said to Moses, "I AM WHO I AM." He said, "Tell the children of Israel this: 'I AM has sent me to you.'"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This verse gives God's name as "I AM." Keep the mystery and authority of God's self-revelation.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
+
+**Cross-References**:
+- John 8:58
 
 ---
 
@@ -281,14 +227,7 @@ God also said to Moses, "Tell the children of Israel, 'The Lord God of your fath
 #### Ages 8-10
 God also said to Moses, "Tell the children of Israel, 'The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.' This is my name forever, and this is how I am to be remembered through all generations.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -302,15 +241,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Go and gather the elders of Israel together. Say to them, 'The Lord God of your fathers, the God of Abraham, Isaac, and Jacob, appeared to me and said, I have surely visited you and seen what is being done to you in Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -323,11 +255,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I have said that I will bring you up out of Egypt's suffering to the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites, to a land flowing with milk and honey.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -340,15 +269,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They will listen to your voice. Then you and the elders of Israel must go to the king of Egypt and say to him, 'The Lord God of the Hebrews has met with us. Now please let us go three days' journey into the wilderness, so we may sacrifice to the Lord our God.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- sacrifice: An offering given in worship
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -361,11 +283,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I know that the king of Egypt will not let you go unless he is compelled by a strong hand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -378,11 +297,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "So I will stretch out my hand and strike Egypt with all my wonders that I will do among them. After that, he will let you go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -395,8 +311,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will give this people favor in the sight of the Egyptians. When you go, you will not go empty-handed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -407,44 +323,38 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Each woman will ask her neighbor, and any woman staying in her house, for silver and gold jewelry and clothing. You will put them on your sons and daughters, and you will take the wealth of Egypt."
 
 #### Ages 8-10
-"Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing. You will put them on your sons and daughters, and you will take the wealth of Egypt."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Every woman will ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing. You will put them on your sons and daughters, and you will take the wealth of Egypt."
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
 ## Chapter Summary
-Exodus 3 is a draft resource chapter. The chapter opens with "Moses was caring for the flock of Jethro, his father-in-law, the priest of Midian. He led the flo...," moves through "God said, "I will certainly be with you. This will be the sign for you that I have sent you: when...," and closes with "Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry...." Review this summary for fuller theological detail before approval.
+The Lord appears to Moses in the burning bush, names himself as the God of Abraham, Isaac, and Jacob, and sends Moses to bring Israel out.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Moses was taking care of the flock of Jethro, his father-in-law, the priest of Midian. Moses led the flock to the far side of the desert and came to Horeb, the mountain of God. - Exodus 3:1
+God said to Moses, "I AM WHO I AM." Then God said, "Tell the children of Israel, 'I AM has sent me to you.'" - Exodus 3:14
 
 ### Ages 8-10
-Moses was caring for the flock of Jethro, his father-in-law, the priest of Midian. He led the flock to the far side of the desert and came to Horeb, the mountain of God. - Exodus 3:1
+God said to Moses, "I AM WHO I AM." He said, "Tell the children of Israel this: 'I AM has sent me to you.'" - Exodus 3:14
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 3 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

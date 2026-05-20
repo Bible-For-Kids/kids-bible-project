@@ -1,14 +1,14 @@
 # Exodus Chapter 22
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 22 and should be reviewed before approval.
+Exodus 22 continues the rescue-and-covenant story. The Lord gives laws about theft, care for property, justice, mercy for the poor, and holiness before him.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
+- law: God's instruction for his covenant people
+- justice: Doing what is right and fair according to God's ways
+- mercy: God's kindness to people who need help and forgiveness
 - holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
+- neighbor: Another person God calls us to treat rightly
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 #### Ages 8-10
 "If a man steals an ox or a sheep and kills it or sells it, he must repay five oxen for an ox and four sheep for a sheep."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:2
@@ -33,13 +30,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If a thief is found breaking in at night and is struck so that he dies, the one who struck him is not guilty of bloodshed."
 
 #### Ages 8-10
-"If a thief is found breaking in at night and is struck so that he dies, no bloodguilt is counted for him."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- guilt: The blame that comes from doing wrong
+"If a thief is found breaking in at night and is struck so that he dies, the person is not guilty of bloodshed."
 
 ---
 
@@ -50,10 +41,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "But if it happens after sunrise, the one who struck him is guilty of bloodshed. A thief must pay back what he stole. If he has nothing, he must be sold because of his theft."
 
 #### Ages 8-10
-"But if the sun has risen on him, bloodguilt is counted. A thief must make full restitution. If he has nothing, he must be sold because of his theft."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"But if the sun has risen on him, the person is guilty of bloodshed. A thief must pay back everything. If he has nothing, he must be sold because of his theft."
 
 ---
 
@@ -66,9 +54,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If the stolen animal is found alive with him, whether ox, donkey, or sheep, he must repay double."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:5
@@ -78,10 +63,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If a man lets his animal graze in a field or vineyard and it eats in another person's field, he must pay back from the best of his own field and vineyard."
 
 #### Ages 8-10
-"If a man lets his livestock graze in a field or vineyard and it feeds in another man's field, he must make restitution from the best of his own field and vineyard."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"If a man lets his livestock graze in a field or vineyard and it feeds in another man's field, he must pay back from the best of his own field and vineyard."
 
 ---
 
@@ -92,10 +74,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If fire spreads into thorns and burns stacks of grain, standing grain, or a field, the one who started the fire must surely pay for what was lost."
 
 #### Ages 8-10
-"If fire breaks out and catches in thorns so that stacked grain, standing grain, or a field is burned, the one who started the fire must surely make restitution."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"If fire breaks out and catches in thorns so that stacked grain, standing grain, or a field is burned, the one who started the fire must surely pay back what was lost."
 
 ---
 
@@ -108,8 +87,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man gives his neighbor money or goods to keep, and they are stolen from the neighbor's house, the thief, if found, must pay double."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -122,11 +101,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If the thief is not found, the owner of the house must be brought before the judges to determine whether he took his neighbor's goods."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -139,11 +115,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "In every case of dispute over an ox, donkey, sheep, clothing, or any lost thing that someone claims is his, both parties must come before the judges. The one the judges condemn must pay double to his neighbor."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -156,8 +129,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If a man gives his neighbor a donkey, ox, sheep, or any animal to keep, and it dies, is injured, or is driven away when no one sees,"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -170,12 +143,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "an oath before the Lord must be made between them. The neighbor must swear he did not take the owner's property, and the owner must accept it. The neighbor does not have to pay."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -186,10 +155,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "But if the animal was stolen from him, he must pay its owner."
 
 #### Ages 8-10
-"But if the animal was stolen from him, he must make restitution to its owner."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"But if the animal was stolen from him, he must pay the owner back."
 
 ---
 
@@ -202,9 +168,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If it was torn by wild animals, he must bring it as evidence. He does not have to repay what was torn."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:14
@@ -214,10 +177,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If a man borrows something from his neighbor, and it is hurt or dies while the owner is not with it, he must surely pay."
 
 #### Ages 8-10
-"If a man borrows something from his neighbor, and it is injured or dies while the owner is not with it, he must surely make restitution."
+"If a man borrows something from his neighbor, and it is injured or dies while the owner is not with it, he must surely pay back what was lost."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -230,9 +193,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If the owner is with it, he does not have to pay. If it was hired, the hiring payment covers it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:16
@@ -243,9 +203,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If a man persuades a young woman who is not promised in marriage and lies with her, he must pay the bride-price and marry her."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -258,9 +215,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If her father firmly refuses to give her to him, the man must still pay money equal to the bride-price for young women."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:18
@@ -271,9 +225,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You must not allow a sorceress to live."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -286,9 +237,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Whoever lies with an animal must surely be put to death."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:20
@@ -299,14 +247,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Whoever sacrifices to any god except the Lord alone must be devoted to destruction."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -320,10 +260,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "You must not mistreat or oppress a foreigner, because you were foreigners in the land of Egypt."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -336,9 +273,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not afflict any widow or fatherless child."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:23
@@ -349,9 +283,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If you afflict them at all, and they cry out to me, I will surely hear their cry."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -364,9 +295,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "My anger will burn, and I will let the sword come against you. Your wives will become widows, and your children will become fatherless."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:25
@@ -378,9 +306,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you lend money to any of my poor people near you, do not act as a moneylender toward him. Do not charge him interest."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:26
@@ -390,13 +315,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "If you take your neighbor's coat as a promise to pay, give it back before the sun goes down."
 
 #### Ages 8-10
-"If you take your neighbor's cloak as a pledge, return it to him before the sun goes down."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"If you take your neighbor's cloak as a promise item, return it to him before the sun goes down."
 
 **Key Vocabulary**:
-- promise: Words someone says and keeps
+- neighbor: Another person God calls us to treat rightly
 
 ---
 
@@ -409,9 +331,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "That cloak may be his only covering for his body. What else will he sleep in? When he cries to me, I will hear, because I am gracious."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:28
@@ -422,12 +341,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You must not revile God or curse a ruler of your people."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -440,9 +353,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not delay giving the first of your ripe harvest and your pressed produce. You must give me the firstborn of your sons."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 22:30
@@ -453,9 +363,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Do the same with your oxen and sheep. Let the firstborn stay with its mother seven days, and on the eighth day give it to me."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -468,42 +375,36 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must be holy people to me. Do not eat meat from an animal torn by beasts in the field. Throw it to the dogs."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
 ---
 
 ## Chapter Summary
-Exodus 22 is a draft resource chapter. The chapter opens with "If a man steals an ox or a sheep and kills it or sells it, he must repay five oxen for an ox and...," moves through "If a man persuades a young woman who is not promised in marriage and lies with her, he must pay t...," and closes with "You must be holy people to me. Do not eat meat from an animal torn by beasts in the field. Throw...." Review this summary for fuller theological detail before approval.
+The Lord gives laws about theft, care for property, justice, mercy for the poor, and holiness before him.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"If a man steals an ox or a sheep and kills it or sells it, he must give back five oxen for one ox and four sheep for one sheep." - Exodus 22:1
+"You must not mistreat or crush a foreigner, because you were foreigners in the land of Egypt." - Exodus 22:21
 
 ### Ages 8-10
-"If a man steals an ox or a sheep and kills it or sells it, he must repay five oxen for an ox and four sheep for a sheep." - Exodus 22:1
+"You must not mistreat or oppress a foreigner, because you were foreigners in the land of Egypt." - Exodus 22:21
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 22 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

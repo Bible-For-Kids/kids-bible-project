@@ -1,14 +1,14 @@
 # Exodus Chapter 1
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 1 and should be reviewed before approval.
+Exodus 1 continues the rescue-and-covenant story. Israel grows in Egypt, Pharaoh fears them, and the Hebrew midwives fear God more than the king.
 
 ## Important Keywords
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Pharaoh: The king of Egypt
+- slavery: Being forced to serve without freedom
+- deliverance: Being rescued by God from danger or slavery
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,9 @@ These are the names of Israel's sons who came into Egypt with Jacob. Each son ca
 #### Ages 8-10
 These are the names of Israel's sons who came into Egypt with Jacob. Each man came with his own household.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
 
 ---
 
@@ -40,9 +36,6 @@ Their names were Reuben, Simeon, Levi, and Judah.
 #### Ages 8-10
 They were Reuben, Simeon, Levi, and Judah;
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 1:3
@@ -53,9 +46,6 @@ There were also Issachar, Zebulun, and Benjamin.
 
 #### Ages 8-10
 Issachar, Zebulun, and Benjamin;
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -68,9 +58,6 @@ And there were Dan, Naphtali, Gad, and Asher.
 #### Ages 8-10
 Dan, Naphtali, Gad, and Asher.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 1:5
@@ -82,12 +69,8 @@ Altogether, seventy people from Jacob's family came to Egypt. Joseph was already
 #### Ages 8-10
 All the people who came from Jacob's family were seventy in number. Joseph was already in Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -100,9 +83,6 @@ After some time, Joseph died. His brothers died too, and so did all the people o
 #### Ages 8-10
 Joseph died, and so did all his brothers and all that generation.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 1:7
@@ -114,11 +94,12 @@ But the children of Israel had many children. Their families grew and grew until
 #### Ages 8-10
 But the children of Israel had many children. They grew greatly in number and became very strong, and the land was filled with them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
+
+**Cross-References**:
+- Genesis 46:3
+- Genesis 12:2
 
 ---
 
@@ -131,11 +112,8 @@ Then a new king began to rule Egypt. This king did not know Joseph.
 #### Ages 8-10
 Then a new king came to power in Egypt, one who did not know Joseph.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -147,9 +125,6 @@ The king said to his people, "Look, the people of Israel are more numerous and s
 
 #### Ages 8-10
 He said to his people, "Look, the people of Israel are more numerous and stronger than we are.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -165,9 +140,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Come, we must deal carefully with them. If they keep multiplying, then in time of war they may join our enemies, fight against us, and leave the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 1:11
@@ -179,10 +151,9 @@ So the Egyptians put harsh bosses over the Israelites and made them work very ha
 #### Ages 8-10
 So the Egyptians put taskmasters over them to make their lives hard with heavy work. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
 
 ---
@@ -196,10 +167,8 @@ But the harder the Egyptians treated them, the more the Israelites grew in numbe
 #### Ages 8-10
 But the more the Egyptians afflicted them, the more the Israelites multiplied and spread. The Egyptians became afraid of the children of Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Israel: God's covenant people descended from Jacob
 
 ---
@@ -213,10 +182,8 @@ So the Egyptians forced the children of Israel to work even harder.
 #### Ages 8-10
 So the Egyptians made the children of Israel serve with harsh labor.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Israel: God's covenant people descended from Jacob
 
 ---
@@ -230,8 +197,9 @@ They made the Israelites' lives bitter with heavy work. They worked with mortar 
 #### Ages 8-10
 They made their lives bitter with hard work in mortar, brick, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -244,11 +212,8 @@ The king of Egypt spoke to two Hebrew midwives. Their names were Shiphrah and Pu
 #### Ages 8-10
 The king of Egypt spoke to the Hebrew midwives. One was named Shiphrah, and the other was named Puah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -260,9 +225,6 @@ He told them, "When you help the Hebrew women have babies, look at each baby. If
 
 #### Ages 8-10
 He said, "When you help the Hebrew women give birth, watch the babies. If the baby is a son, kill him. If the baby is a daughter, let her live."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -276,12 +238,10 @@ But the midwives feared God. They did not obey the king's cruel command. They le
 But the midwives feared God. They did not do what the king of Egypt commanded. They let the baby boys live.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the midwives' fear of God clear: they refuse Pharaoh's cruel command and preserve life.
 
 **Key Vocabulary**:
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -294,11 +254,8 @@ Then the king of Egypt called the midwives and asked, "Why did you do this? Why 
 #### Ages 8-10
 So the king of Egypt called for the midwives and said to them, "Why have you done this? Why have you let the boys live?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 
 ---
 
@@ -311,10 +268,8 @@ The midwives told Pharaoh, "The Hebrew women are not like the Egyptian women. Th
 #### Ages 8-10
 The midwives answered Pharaoh, "The Hebrew women are not like Egyptian women. They are strong and give birth before the midwife comes to them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
+- Egypt: The land where Israel was enslaved before the Lord rescued them
 - Pharaoh: The king of Egypt
 
 ---
@@ -328,12 +283,6 @@ So God was good to the midwives. The people kept growing in number and became ve
 #### Ages 8-10
 So God was good to the midwives. The people kept multiplying and grew very strong.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Exodus 1:21
@@ -344,12 +293,6 @@ Because the midwives feared God, he gave them families of their own.
 
 #### Ages 8-10
 Because the midwives feared God, he gave them families of their own.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -362,43 +305,36 @@ Then Pharaoh gave a cruel command to all his people: "Every Hebrew baby boy must
 #### Ages 8-10
 Then Pharaoh commanded all his people, "Every son born to the Hebrews must be thrown into the river, but every daughter may live."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- command: Something God tells someone to do
 - Pharaoh: The king of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 1 is a draft resource chapter. The chapter opens with "These are the names of Israel's sons who came into Egypt with Jacob. Each man came with his own h...," moves through "But the more the Egyptians afflicted them, the more the Israelites multiplied and spread. The Egy...," and closes with "Then Pharaoh commanded all his people, "Every son born to the Hebrews must be thrown into the riv...." Review this summary for fuller theological detail before approval.
+Israel grows in Egypt, Pharaoh fears them, and the Hebrew midwives fear God more than the king.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-These are the names of Israel's sons who came into Egypt with Jacob. Each son came with his family and household. - Exodus 1:1
+But the midwives feared God. They did not obey the king's cruel command. They let the baby boys live. - Exodus 1:17
 
 ### Ages 8-10
-These are the names of Israel's sons who came into Egypt with Jacob. Each man came with his own household. - Exodus 1:1
+But the midwives feared God. They did not do what the king of Egypt commanded. They let the baby boys live. - Exodus 1:17
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 1 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 1 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

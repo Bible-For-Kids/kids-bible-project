@@ -1,14 +1,14 @@
 # Exodus Chapter 12
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 12 and should be reviewed before approval.
+Exodus 12 continues the rescue-and-covenant story. The Lord gives the Passover, strikes Egypt's firstborn, and brings Israel out of Egypt after many years.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- holy: Set apart for God
-- Israel: God's covenant people descended from Jacob
+- Passover: The meal and day remembering how God rescued Israel from Egypt
+- lamb: The young sheep used in the Passover meal
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
+- firstborn: The child born first in a family
+- deliverance: Being rescued by God from danger or slavery
 
 ## Verse-by-Verse Translation
 
@@ -21,16 +21,6 @@ The Lord spoke to Moses and Aaron in the land of Egypt.
 #### Ages 8-10
 The Lord spoke to Moses and Aaron in the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 12:2
@@ -41,9 +31,6 @@ He said, "This month will be the beginning of months for you. It will be the fir
 
 #### Ages 8-10
 He said, "This month will be the beginning of months for you. It will be the first month of your year.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -56,11 +43,8 @@ Tell all the people of Israel that on the tenth day of this month, each family i
 #### Ages 8-10
 Tell the whole community of Israel that on the tenth day of this month, each man is to take a lamb for his family, one lamb for each household.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- lamb: The young sheep used in the Passover meal
 
 ---
 
@@ -73,8 +57,8 @@ If a family is too small for a whole lamb, they must share with the nearest neig
 #### Ages 8-10
 If a household is too small for a lamb, that family and the nearest neighbor are to share one, counting the people and how much each person will eat.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- lamb: The young sheep used in the Passover meal
 
 ---
 
@@ -87,8 +71,8 @@ The lamb must be a healthy one-year-old male. It may come from the sheep or from
 #### Ages 8-10
 Your lamb must be a male in its first year, without any defect. You may take it from the sheep or from the goats.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- lamb: The young sheep used in the Passover meal
 
 ---
 
@@ -101,11 +85,8 @@ Keep it until the fourteenth day of the month. Then all the people of Israel wil
 #### Ages 8-10
 Keep it until the fourteenth day of the month. Then the whole assembly of Israel is to kill their lambs at evening.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- lamb: The young sheep used in the Passover meal
 
 ---
 
@@ -118,8 +99,9 @@ They must take some of the blood and put it on the two side posts and the top of
 #### Ages 8-10
 They are to take some of the blood and put it on the two side posts and the upper doorpost of the houses where they eat the lamb.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- lamb: The young sheep used in the Passover meal
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -130,10 +112,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 That night they must eat the meat roasted over fire, with flat bread made without yeast and with bitter herbs.
 
 #### Ages 8-10
-That night they are to eat the meat roasted over fire, with unleavened bread and bitter herbs.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+That night they are to eat the meat roasted over fire, with bread made without yeast and bitter herbs.
 
 ---
 
@@ -146,9 +125,6 @@ Do not eat it raw or boiled in water. Roast it over fire, with its head, legs, a
 #### Ages 8-10
 Do not eat it raw or boiled in water. It must be roasted over fire, with its head, legs, and inner parts.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:10
@@ -159,9 +135,6 @@ Do not leave any of it until morning. Whatever is left in the morning must be bu
 
 #### Ages 8-10
 Do not leave any of it until morning. Whatever is left until morning must be burned in the fire.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -174,13 +147,8 @@ Eat it dressed and ready to travel, with your sandals on your feet and your staf
 #### Ages 8-10
 Eat it with your belt fastened, your sandals on your feet, and your staff in your hand. Eat it in a hurry. It is the Lord's Passover.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Passover: The meal and day remembering how God rescued Israel from Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -193,14 +161,8 @@ That night I will pass through Egypt and strike every firstborn in the land, bot
 #### Ages 8-10
 That night I will pass through the land of Egypt and strike every firstborn in Egypt, both people and animals. I will execute judgment against all the gods of Egypt. I am the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- judgment: God's right decision about sin
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- firstborn: The child born first in a family
 
 ---
 
@@ -214,10 +176,14 @@ The blood will be a sign on the houses where you are. When I see the blood, I wi
 The blood will be a sign for you on the houses where you are. When I see the blood, I will pass over you, and the plague will not destroy you when I strike Egypt.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The blood marks the houses for Passover. Keep the connection between the sign and the Lord passing over.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
+
+**Cross-References**:
+- 1 Corinthians 5:7
+- Hebrews 11:28
 
 ---
 
@@ -230,14 +196,6 @@ This day will help you remember what I have done. You must keep it as a feast to
 #### Ages 8-10
 This day will be a memorial for you. You must keep it as a feast to the Lord throughout your generations, as a lasting command.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 12:15
@@ -247,13 +205,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off from Israel.
 
 #### Ages 8-10
-For seven days you must eat unleavened bread. On the first day, remove yeast from your houses. Whoever eats leavened bread from the first day through the seventh day will be cut off from Israel.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Whoever eats bread made with yeast from the first day through the seventh day will be cut off from Israel.
 
 ---
 
@@ -266,29 +218,16 @@ On the first day you will gather for worship, and on the seventh day you will ga
 #### Ages 8-10
 On the first day you will hold a holy gathering, and on the seventh day another holy gathering. No work is to be done on those days, except preparing the food each person needs.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- holy: Set apart for God
-
 ---
 
 ### Exodus 12:17
 **Original Reference**: Exodus 12:17 - You shall observe the feast of unleavened bread; for in this same day I have brought your armies out of the land of Egypt. Therefore you shall observe this day throughout your generations by an ordinance forever.
 
 #### Ages 5-7
-Keep the Feast of Unleavened Bread, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
 
 #### Ages 8-10
-Keep the Feast of Unleavened Bread, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day throughout your generations as a lasting command.
 
 ---
 
@@ -299,10 +238,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
 
 #### Ages 8-10
-In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat unleavened bread.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
 
 ---
 
@@ -313,13 +249,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.
 
 #### Ages 8-10
-For seven days no yeast may be found in your houses. Whoever eats anything leavened will be cut off from the community of Israel, whether a foreigner or someone born in the land.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+For seven days no yeast may be found in your houses. Whoever eats anything made with yeast will be cut off from the community of Israel, whether a foreigner or someone born in the land.
 
 ---
 
@@ -330,10 +260,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Do not eat anything made with yeast. Wherever you live, eat bread made without yeast."
 
 #### Ages 8-10
-Eat nothing leavened. Wherever you live, you must eat unleavened bread."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Eat nothing made with yeast. Wherever you live, you must eat bread made without yeast."
 
 ---
 
@@ -346,13 +273,9 @@ Then Moses called all the elders of Israel and said, "Go and choose lambs for yo
 #### Ages 8-10
 Then Moses called all the elders of Israel and said to them, "Go and choose lambs for your families, and kill the Passover lamb.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Moses: The servant God used to lead Israel out of Egypt
 - Passover: The meal and day remembering how God rescued Israel from Egypt
+- lamb: The young sheep used in the Passover meal
 
 ---
 
@@ -360,13 +283,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 12:22 - You shall take a bunch of hyssop, and dip it in the blood that is in the basin, and strike the lintel and the two door posts with the blood that is in the basin. None of you shall go out of the door of his house until the morning.
 
 #### Ages 5-7
-Take a bunch of hyssop, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
+Take a bunch of leafy hyssop branch, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
 
 #### Ages 8-10
-Take a bunch of hyssop, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
+Take a bunch of leafy hyssop branch, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -379,13 +302,8 @@ The Lord will pass through to strike Egypt. When he sees the blood on the top an
 #### Ages 8-10
 The Lord will pass through to strike Egypt. When he sees the blood on the upper doorpost and the two side posts, the Lord will pass over the door and will not allow the destroyer to enter your houses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -398,12 +316,6 @@ You and your children must keep this command as a lasting rule.
 #### Ages 8-10
 You and your children must observe this command as a lasting rule.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-
 ---
 
 ### Exodus 12:25
@@ -414,13 +326,6 @@ When you come into the land the Lord promised to give you, you must keep this se
 
 #### Ages 8-10
 When you come into the land the Lord will give you, just as he promised, you must keep this service.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -433,9 +338,6 @@ When your children ask, 'What does this service mean?'
 #### Ages 8-10
 When your children ask you, 'What does this service mean?'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:27
@@ -447,15 +349,8 @@ you will say, 'It is the Passover sacrifice to the Lord. In Egypt, he passed ove
 #### Ages 8-10
 you will say, 'It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt when he struck Egypt and rescued our houses.'" Then the people bowed their heads and worshiped.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Passover: The meal and day remembering how God rescued Israel from Egypt
-- sacrifice: An offering given in worship
 
 ---
 
@@ -468,16 +363,6 @@ The Israelites went and did exactly what the Lord had commanded Moses and Aaron.
 #### Ages 8-10
 The Israelites went and did exactly as the Lord had commanded Moses and Aaron.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 12:29
@@ -489,14 +374,8 @@ At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn 
 #### Ages 8-10
 At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dungeon, and every firstborn of the livestock.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- firstborn: The child born first in a family
 
 ---
 
@@ -509,13 +388,6 @@ Pharaoh got up in the night, along with his servants and all the Egyptians. Ther
 #### Ages 8-10
 Pharaoh got up in the night, along with all his servants and all the Egyptians. A great cry rose in Egypt, because there was death in every house.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Exodus 12:31
@@ -526,16 +398,6 @@ During the night, Pharaoh called for Moses and Aaron. He said, "Get up and leave
 
 #### Ages 8-10
 During the night Pharaoh called for Moses and Aaron and said, "Get up and leave my people, both you and the Israelites. Go serve the Lord, as you have said.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -548,9 +410,6 @@ Take your flocks and herds, as you asked, and go. And bless me also."
 #### Ages 8-10
 Take your flocks and herds, as you have said, and go. Also bless me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:33
@@ -562,9 +421,6 @@ The Egyptians urged the people to leave the land quickly. They said, "We will al
 #### Ages 8-10
 The Egyptians urged the people to leave the land quickly, because they said, "We will all die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:34
@@ -574,10 +430,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 So the people took their dough before yeast had been added. They wrapped their kneading bowls in their clothes and carried them on their shoulders.
 
 #### Ages 8-10
-The people took their dough before it was leavened. They wrapped their kneading bowls in their clothes and carried them on their shoulders.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The people took their dough before it had risen. They wrapped their kneading bowls in their clothes and carried them on their shoulders.
 
 ---
 
@@ -588,14 +441,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 The Israelites did what Moses had told them. They asked the Egyptians for silver, gold, and clothing.
 
 #### Ages 8-10
-The Israelites did what Moses had told them and asked the Egyptians for articles of silver and gold and for clothing.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Moses: The servant God used to lead Israel out of Egypt
+The Israelites did what Moses had told them and asked the Egyptians for silver and gold items and for clothing.
 
 ---
 
@@ -608,14 +454,6 @@ The Lord made the Egyptians look kindly on the people, and they gave them what t
 #### Ages 8-10
 The Lord gave the people favor in the eyes of the Egyptians, so the Egyptians gave them what they asked for. In this way they took wealth from Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 12:37
@@ -626,12 +464,6 @@ The Israelites traveled from Rameses to Succoth. There were about six hundred th
 
 #### Ages 8-10
 The Israelites traveled from Rameses to Succoth. There were about six hundred thousand men on foot, besides women and children.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -644,9 +476,6 @@ Many other people went with them too, along with large flocks and herds.
 #### Ages 8-10
 A mixed group of other people went up with them, along with many flocks and herds.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:39
@@ -656,13 +485,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 They baked flat cakes from the dough they had brought out of Egypt. It had no yeast because they had been hurried out and had no time to prepare other food.
 
 #### Ages 8-10
-They baked unleavened cakes from the dough they had brought out of Egypt. It had not risen because they had been driven out of Egypt and could not wait or prepare food for themselves.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+They baked cakes made without yeast from the dough they had brought out of Egypt. It had not risen because they had been driven out of Egypt and could not wait or prepare food for themselves.
 
 ---
 
@@ -675,13 +498,6 @@ The Israelites had lived in Egypt for four hundred thirty years.
 #### Ages 8-10
 The Israelites had lived in Egypt for four hundred thirty years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Exodus 12:41
@@ -692,14 +508,6 @@ At the end of those four hundred thirty years, on that very day, all the Lord's 
 
 #### Ages 8-10
 At the end of four hundred thirty years, on that exact day, all the Lord's people went out from the land of Egypt.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -712,15 +520,6 @@ That was a night to be remembered for the Lord, because he brought them out of E
 #### Ages 8-10
 That night is to be carefully remembered for the Lord, because he brought them out of Egypt. All the Israelites are to remember it throughout their generations.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 12:43
@@ -732,15 +531,8 @@ The Lord said to Moses and Aaron, "These are the rules for the Passover: No fore
 #### Ages 8-10
 The Lord said to Moses and Aaron, "This is the rule for the Passover: No foreigner may eat it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Passover: The meal and day remembering how God rescued Israel from Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -753,9 +545,6 @@ But a servant bought with money may eat it after he has been circumcised.
 #### Ages 8-10
 But every servant bought with money may eat it after he has been circumcised.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:45
@@ -766,9 +555,6 @@ A visitor or a hired worker may not eat it.
 
 #### Ages 8-10
 A temporary resident or hired worker may not eat it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -781,9 +567,6 @@ It must be eaten inside one house. Do not carry any of the meat outside the hous
 #### Ages 8-10
 It must be eaten in one house. Do not carry any of the meat outside the house, and do not break any of its bones.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 12:47
@@ -794,12 +577,6 @@ All the people of Israel must keep it.
 
 #### Ages 8-10
 The whole community of Israel must keep it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -812,13 +589,8 @@ If a foreigner living with you wants to keep the Passover to the Lord, all the m
 #### Ages 8-10
 If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. No uncircumcised person may eat it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Passover: The meal and day remembering how God rescued Israel from Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -831,12 +603,6 @@ The same law is for the person born in the land and for the foreigner living amo
 #### Ages 8-10
 The same law applies to the person born in the land and to the foreigner living among you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- law: God's instruction for his people
-
 ---
 
 ### Exodus 12:50
@@ -847,16 +613,6 @@ All the Israelites did just as the Lord commanded Moses and Aaron.
 
 #### Ages 8-10
 All the Israelites did just as the Lord commanded Moses and Aaron.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -869,45 +625,33 @@ On that very day, the Lord brought the Israelites out of Egypt by their groups.
 #### Ages 8-10
 On that very day, the Lord brought the Israelites out of the land of Egypt by their groups.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Exodus 12 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and Aaron in the land of Egypt.," moves through "When your children ask you, 'What does this service mean?'," and closes with "On that very day, the Lord brought the Israelites out of the land of Egypt by their groups.." Review this summary for fuller theological detail before approval.
+The Lord gives the Passover, strikes Egypt's firstborn, and brings Israel out of Egypt after many years.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord spoke to Moses and Aaron in the land of Egypt. - Exodus 12:1
+The blood will be a sign on the houses where you are. When I see the blood, I will pass over you. This plague will not destroy you when I strike Egypt. - Exodus 12:13
 
 ### Ages 8-10
-The Lord spoke to Moses and Aaron in the land of Egypt. - Exodus 12:1
+The blood will be a sign for you on the houses where you are. When I see the blood, I will pass over you, and the plague will not destroy you when I strike Egypt. - Exodus 12:13
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 12 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 12 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

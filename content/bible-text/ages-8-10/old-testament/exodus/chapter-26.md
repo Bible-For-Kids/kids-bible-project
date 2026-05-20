@@ -9,10 +9,10 @@ Exodus
 ## Verses
 
 ### Exodus 26:1
-"Make the tabernacle with ten curtains of finely twisted linen, using blue, purple, and scarlet yarn. Have skilled workers weave cherubim into them."
+"Make the tabernacle with ten curtains of finely twisted linen, using blue, purple, and red thread yarn. Have skilled workers weave cherubim into them."
 
 ### Exodus 26:2
-"Each curtain must be twenty-eight cubits long and four cubits wide. All the curtains must be the same size."
+"Each curtain must be twenty-eight arm-lengths long and four arm-lengths wide. All the curtains must be the same size."
 
 ### Exodus 26:3
 "Join five curtains together as one set, and join the other five curtains together as another set."
@@ -30,7 +30,7 @@ Exodus
 "Make eleven curtains of goat hair to be a covering over the tabernacle."
 
 ### Exodus 26:8
-"Each goat-hair curtain must be thirty cubits long and four cubits wide. All eleven curtains must be the same size."
+"Each goat-hair curtain must be thirty arm-lengths long and four arm-lengths wide. All eleven curtains must be the same size."
 
 ### Exodus 26:9
 "Join five curtains by themselves and six curtains by themselves. Fold the sixth curtain double at the front of the tent."
@@ -45,16 +45,16 @@ Exodus
 "The extra part that remains from the tent curtains, the half curtain left over, must hang down over the back of the tabernacle."
 
 ### Exodus 26:13
-"The extra cubit on each side of the tent curtains must hang down over both sides of the tabernacle to cover it."
+"The extra arm-length on each side of the tent curtains must hang down over both sides of the tabernacle to cover it."
 
 ### Exodus 26:14
-"Make a covering for the tent from ram skins dyed red, and make another covering above it from badger skins."
+"Make a covering for the tent from male sheep skins dyed red, and make another covering above it from badger skins."
 
 ### Exodus 26:15
 "Make upright frames for the tabernacle from acacia wood."
 
 ### Exodus 26:16
-"Each frame must be ten cubits long and one and a half cubits wide."
+"Each frame must be ten arm-lengths long and one and a half arm-lengths wide."
 
 ### Exodus 26:17
 "Each frame must have two pegs set side by side. Make all the tabernacle frames this way."
@@ -99,22 +99,22 @@ Exodus
 "Set up the tabernacle according to the pattern that was shown to you on the mountain."
 
 ### Exodus 26:31
-"Make a veil from blue, purple, and scarlet yarn and finely twisted linen. Have skilled workers weave cherubim into it."
+"Make a curtain from blue, purple, and red thread yarn and finely twisted linen. Have skilled workers weave cherubim into it."
 
 ### Exodus 26:32
-"Hang the veil on four acacia-wood posts covered with gold. Their hooks must be gold, and they must stand on four silver bases."
+"Hang the curtain on four acacia-wood posts covered with gold. Their hooks must be gold, and they must stand on four silver bases."
 
 ### Exodus 26:33
-"Hang the veil under the clasps. Bring the ark of the testimony inside the veil. The veil will separate the Holy Place from the Most Holy Place."
+"Hang the curtain under the clasps. Bring the ark of the testimony inside the curtain. The curtain will separate the Holy Place from the Most Holy Place."
 
 ### Exodus 26:34
-"Put the mercy seat on the ark of the testimony in the Most Holy Place."
+"Put the atonement cover on the ark of the testimony in the Most Holy Place."
 
 ### Exodus 26:35
-"Place the table outside the veil. Put the lampstand across from the table on the south side of the tabernacle, and put the table on the north side."
+"Place the table outside the curtain. Put the lampstand across from the table on the south side of the tabernacle, and put the table on the north side."
 
 ### Exodus 26:36
-"Make a screen for the entrance of the tent from blue, purple, and scarlet yarn and finely twisted linen, embroidered by a needleworker."
+"Make a screen for the entrance of the tent from blue, purple, and red thread yarn and finely twisted linen, embroidered by a needleworker."
 
 ### Exodus 26:37
-"Make five acacia-wood posts for the screen and cover them with gold. Their hooks must be gold, and you must cast five bronze bases for them."
+"Make five acacia-wood posts for the screen and cover them with gold. Their hooks must be gold, and you must make five bronze bases for them."

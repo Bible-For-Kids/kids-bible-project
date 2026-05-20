@@ -1,14 +1,14 @@
 # Exodus Chapter 14
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 14 and should be reviewed before approval.
+Exodus 14 continues the rescue-and-covenant story. Pharaoh chases Israel to the sea, the Lord opens a dry path through the waters, and Israel sees his great rescue.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
+- Pharaoh: The king of Egypt
+- deliverance: Being rescued by God from danger or slavery
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
+- wilderness: A wild place away from settled towns
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,8 @@ The Lord spoke to Moses.
 #### Ages 8-10
 The Lord spoke to Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -39,9 +34,6 @@ He said, "Tell the Israelites to turn back and camp by the sea, in front of Pi-h
 
 #### Ages 8-10
 He said, "Tell the Israelites to turn back and camp before Pi-hahiroth, between Migdol and the sea, across from Baal-zephon. Camp there by the sea.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -57,13 +49,10 @@ Pharaoh will say, 'The Israelites are trapped in the land. The wilderness has cl
 #### Ages 8-10
 Pharaoh will say about the Israelites, 'They are wandering in confusion, and the wilderness has trapped them.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
-- wilderness: A wild, dry place away from towns and farms
+- Israel: God's covenant people descended from Jacob
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -76,13 +65,9 @@ I will harden Pharaoh's heart, and he will chase after them. Then I will be hono
 #### Ages 8-10
 I will harden Pharaoh's heart so he will pursue them. Then I will be honored over Pharaoh and all his army, and the Egyptians will know that I am the Lord." So the Israelites did so.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -95,13 +80,9 @@ When the king of Egypt was told that the people had fled, Pharaoh and his servan
 #### Ages 8-10
 When the king of Egypt was told that the people had fled, Pharaoh and his servants changed their minds about them. They said, "What have we done? We have let Israel go from serving us."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -113,9 +94,6 @@ So Pharaoh got his chariot ready and took his people with him.
 
 #### Ages 8-10
 So Pharaoh made his chariot ready and took his people with him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -131,12 +109,6 @@ He took six hundred of his best chariots, along with all the other chariots of E
 #### Ages 8-10
 He took six hundred chosen chariots and all the other chariots of Egypt, with officers over all of them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Exodus 14:8
@@ -148,15 +120,9 @@ The Lord hardened the heart of Pharaoh king of Egypt, and Pharaoh chased the Isr
 #### Ages 8-10
 The Lord hardened the heart of Pharaoh king of Egypt, and he pursued the Israelites. The Israelites had gone out boldly.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -169,11 +135,9 @@ The Egyptians chased them with all Pharaoh's horses, chariots, riders, and army.
 #### Ages 8-10
 The Egyptians pursued them with all Pharaoh's horses, chariots, horsemen, and army. They overtook them while they were camped by the sea, beside Pi-hahiroth, across from Baal-zephon.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -186,14 +150,9 @@ When Pharaoh came near, the Israelites looked up and saw the Egyptians marching 
 #### Ages 8-10
 As Pharaoh came near, the Israelites looked up and saw the Egyptians marching after them. They were terrified and cried out to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -206,13 +165,9 @@ They said to Moses, "Were there no graves in Egypt? Did you bring us into the wi
 #### Ages 8-10
 They said to Moses, "Were there no graves in Egypt, so you brought us away to die in the wilderness? Why have you treated us this way by bringing us out of Egypt?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -225,12 +180,8 @@ Didn't we tell you in Egypt, 'Leave us alone so we can serve the Egyptians'? It 
 #### Ages 8-10
 Isn't this what we told you in Egypt: 'Leave us alone so we can serve the Egyptians'? It would have been better for us to serve the Egyptians than to die in the wilderness."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -243,13 +194,8 @@ Moses said to the people, "Do not be afraid. Stand still and see the Lord save y
 #### Ages 8-10
 Moses said to the people, "Do not be afraid. Stand firm and see the salvation the Lord will give you today. The Egyptians you see today, you will never see again.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -263,11 +209,10 @@ The Lord will fight for you. You only need to be quiet."
 The Lord will fight for you, and you must be still."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The Lord is the rescuer. Israel is told to stand firm and see his salvation.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Psalm 46:10
 
 ---
 
@@ -280,14 +225,9 @@ The Lord said to Moses, "Why are you crying out to me? Tell the Israelites to mo
 #### Ages 8-10
 The Lord said to Moses, "Why are you crying out to me? Tell the Israelites to move forward.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -299,9 +239,6 @@ Lift up your staff and stretch your hand over the sea. Divide it, so the Israeli
 
 #### Ages 8-10
 Lift up your staff, stretch out your hand over the sea, and divide it. The Israelites will go through the middle of the sea on dry ground.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -317,9 +254,6 @@ I will harden the hearts of the Egyptians, and they will follow them. I will be 
 #### Ages 8-10
 I will harden the hearts of the Egyptians so they will follow them. I will be honored over Pharaoh and all his army, over his chariots and horsemen.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
 
@@ -334,13 +268,8 @@ The Egyptians will know that I am the Lord when I am honored over Pharaoh, his c
 #### Ages 8-10
 The Egyptians will know that I am the Lord when I am honored over Pharaoh, his chariots, and his horsemen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -353,11 +282,7 @@ The angel of God, who had been traveling in front of Israel's camp, moved behind
 #### Ages 8-10
 The angel of God, who had been going before Israel's camp, moved and went behind them. The pillar of cloud also moved from in front of them and stood behind them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Israel: God's covenant people descended from Jacob
 
 ---
@@ -371,11 +296,7 @@ The cloud came between the Egyptian camp and the Israelite camp. It brought dark
 #### Ages 8-10
 It came between the Egyptian camp and the Israelite camp. The cloud brought darkness to one side and gave light to the other, so neither group came near the other all night.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Israel: God's covenant people descended from Jacob
 
 ---
@@ -389,13 +310,8 @@ Moses stretched his hand over the sea. All night the Lord pushed the sea back wi
 #### Ages 8-10
 Moses stretched out his hand over the sea, and the Lord drove the sea back with a strong east wind all night. He made the sea into dry land, and the waters were divided.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -407,9 +323,6 @@ The Israelites went into the middle of the sea on dry ground. The water stood li
 
 #### Ages 8-10
 The Israelites went into the middle of the sea on dry ground, with the waters like a wall on their right and on their left.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -425,9 +338,6 @@ The Egyptians followed them into the middle of the sea with all Pharaoh's horses
 #### Ages 8-10
 The Egyptians pursued them, and all Pharaoh's horses, chariots, and horsemen followed them into the middle of the sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
 
@@ -442,13 +352,6 @@ Near morning, the Lord looked down from the pillar of fire and cloud at the Egyp
 #### Ages 8-10
 During the morning watch, the Lord looked down on the Egyptian army from the pillar of fire and cloud, and he threw the army into confusion.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 14:25
@@ -460,14 +363,8 @@ He made their chariot wheels come off, so the chariots were hard to drive. The E
 #### Ages 8-10
 He jammed their chariot wheels so they drove with difficulty. The Egyptians said, "Let us flee from Israel, because the Lord is fighting for them against Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -480,13 +377,8 @@ Then the Lord said to Moses, "Stretch your hand over the sea so the waters will 
 #### Ages 8-10
 Then the Lord said to Moses, "Stretch out your hand over the sea so the waters may come back over the Egyptians, their chariots, and their horsemen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -499,13 +391,8 @@ Moses stretched his hand over the sea. At morning, the sea returned to its place
 #### Ages 8-10
 Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal place. The Egyptians fled toward it, and the Lord overthrew them in the middle of the sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -518,12 +405,9 @@ The waters returned and covered the chariots, the riders, and all Pharaoh's army
 #### Ages 8-10
 The waters returned and covered the chariots, the horsemen, and all Pharaoh's army that had followed them into the sea. Not one of them remained.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -535,9 +419,6 @@ But the Israelites walked on dry ground through the middle of the sea, with wate
 
 #### Ages 8-10
 But the Israelites walked on dry ground through the middle of the sea, with the waters like a wall on their right and on their left.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -553,13 +434,8 @@ That day the Lord saved Israel from the power of the Egyptians. Israel saw the E
 #### Ages 8-10
 That day the Lord saved Israel from the power of the Egyptians, and Israel saw the Egyptians dead on the seashore.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -572,46 +448,37 @@ Israel saw the great power the Lord used against Egypt. The people feared the Lo
 #### Ages 8-10
 Israel saw the great power the Lord used against the Egyptians. The people feared the Lord, and they believed in the Lord and in his servant Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Israel: God's covenant people descended from Jacob
 
 ---
 
 ## Chapter Summary
-Exodus 14 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses.," moves through "Lift up your staff, stretch out your hand over the sea, and divide it. The Israelites will go thr...," and closes with "Israel saw the great power the Lord used against the Egyptians. The people feared the Lord, and t...." Review this summary for fuller theological detail before approval.
+Pharaoh chases Israel to the sea, the Lord opens a dry path through the waters, and Israel sees his great rescue.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Pharaoh will say, 'The Israelites are trapped in the land. The wilderness has closed them in.' - Exodus 14:3
+The Lord will fight for you. You only need to be quiet." - Exodus 14:14
 
 ### Ages 8-10
-Pharaoh will say about the Israelites, 'They are wandering in confusion, and the wilderness has trapped them.' - Exodus 14:3
+The Lord will fight for you, and you must be still." - Exodus 14:14
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 14 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

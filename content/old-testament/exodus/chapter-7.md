@@ -1,14 +1,14 @@
 # Exodus Chapter 7
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 7 and should be reviewed before approval.
+Exodus 7 continues the rescue-and-covenant story. Moses and Aaron stand before Pharaoh, Aaron's staff becomes a serpent, and the first plague turns Egypt's water to blood.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- Pharaoh: The king of Egypt
+- plague: A severe sign of judgment God sent on Egypt
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ## Verse-by-Verse Translation
 
@@ -21,15 +21,10 @@ The Lord said to Moses, "See, I have made you like God before Pharaoh, and your 
 #### Ages 8-10
 The Lord said to Moses, "See, I have made you like God to Pharaoh, and Aaron your brother will be your prophet."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -40,16 +35,11 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "You must say everything I command you, and Aaron your brother must speak to Pharaoh, so he will send the children of Israel out of his land."
 
 #### Ages 8-10
-"You shall speak everything I command you, and Aaron your brother shall speak to Pharaoh so that he sends the children of Israel out of his land."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"You will speak everything I command you, and Aaron your brother will speak to Pharaoh so that he sends the children of Israel out of his land."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -62,11 +52,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will harden Pharaoh's heart and multiply my signs and wonders in the land of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Pharaoh: The king of Egypt
 
 ---
@@ -80,12 +66,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Pharaoh will not listen to you, so I will lay my hand on Egypt and bring out my armies, my people the children of Israel, from Egypt by great judgments."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
 - Pharaoh: The king of Egypt
 
 ---
@@ -100,13 +81,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "The Egyptians will know that I am the Lord when I stretch out my hand over Egypt and bring the children of Israel out from among them."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+The plagues reveal the Lord to Egypt; do not present them as random disasters.
 
 ---
 
@@ -119,14 +94,9 @@ Moses and Aaron did just as the Lord commanded them.
 #### Ages 8-10
 Moses and Aaron did exactly as the Lord commanded them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -139,13 +109,10 @@ Moses was eighty years old, and Aaron was eighty-three years old, when they spok
 #### Ages 8-10
 Moses was eighty years old, and Aaron was eighty-three years old, when they spoke to Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -158,14 +125,9 @@ The Lord spoke to Moses and Aaron.
 #### Ages 8-10
 The Lord spoke to Moses and Aaron.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -178,13 +140,9 @@ He said, "When Pharaoh says, 'Show a miracle,' tell Aaron, 'Take your rod and th
 #### Ages 8-10
 He said, "When Pharaoh says to you, 'Show a miracle,' tell Aaron, 'Take your rod and throw it down before Pharaoh,' and it will become a serpent."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Pharaoh: The king of Egypt
-- serpent: The crafty creature that tempted the woman in Eden
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -197,15 +155,10 @@ Moses and Aaron went in to Pharaoh and did what the Lord commanded. Aaron threw 
 #### Ages 8-10
 Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw down his rod before Pharaoh and his servants, and it became a serpent.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- serpent: The crafty creature that tempted the woman in Eden
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -218,11 +171,7 @@ Then Pharaoh called for his wise men and sorcerers, and the magicians of Egypt d
 #### Ages 8-10
 Then Pharaoh called the wise men and sorcerers, and the magicians of Egypt also did similar things by their magic arts.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Pharaoh: The king of Egypt
 
 ---
@@ -236,11 +185,8 @@ Each man threw down his rod, and the rods became serpents, but Aaron's rod swall
 #### Ages 8-10
 Each man threw down his rod, and the rods became serpents, but Aaron's rod swallowed their rods.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -253,13 +199,8 @@ Pharaoh's heart grew hard, and he would not listen to them, just as the Lord had
 #### Ages 8-10
 Pharaoh's heart was hardened, and he did not listen to them, just as the Lord had said.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -272,14 +213,9 @@ The Lord said to Moses, "Pharaoh's heart is hard. He refuses to let the people g
 #### Ages 8-10
 The Lord said to Moses, "Pharaoh's heart is hardened; he refuses to let the people go."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -292,12 +228,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Go to Pharaoh in the morning as he goes out to the water. Stand on the riverbank to meet him, and take in your hand the rod that turned into a serpent."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
-- serpent: The crafty creature that tempted the woman in Eden
 
 ---
 
@@ -310,15 +242,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Say to him, 'The Lord God of the Hebrews has sent me to you, saying, Let my people go, so they may serve me in the wilderness. Until now you have not listened.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 7:17
@@ -330,12 +253,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'This is what the Lord says: By this you will know that I am the Lord. With the rod in my hand I will strike the waters in the river, and they will turn to blood.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -348,9 +267,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'The fish in the river will die, the river will stink, and the Egyptians will be unable to drink its water.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 7:19
@@ -362,15 +278,10 @@ The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over Eg
 #### Ages 8-10
 The Lord told Moses, "Say to Aaron, 'Take your rod and stretch your hand over the waters of Egypt, over their streams, rivers, ponds, and pools, so they become blood. There will be blood throughout Egypt, in containers of wood and stone.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -383,15 +294,11 @@ Moses and Aaron did as the Lord commanded. Aaron lifted the rod and struck the r
 #### Ages 8-10
 Moses and Aaron did as the Lord commanded. Aaron lifted the rod and struck the river water in the sight of Pharaoh and his servants, and all the river water turned to blood.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -404,11 +311,8 @@ The fish in the river died, the river smelled bad, and the Egyptians could not d
 #### Ages 8-10
 The fish in the river died, the river stank, and the Egyptians could not drink from it. Blood was throughout all the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- blood: A sign of life, and in Passover a sign marking the houses God would pass over
 
 ---
 
@@ -421,15 +325,10 @@ The Egyptian magicians did the same kind of thing with their magic arts, and Pha
 #### Ages 8-10
 The Egyptian magicians did similar things with their magic arts, and Pharaoh's heart was hardened. He did not listen to Moses and Aaron, just as the Lord had said.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Pharaoh: The king of Egypt
+- Moses: The servant God used to lead Israel out of Egypt
+- Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
 
 ---
 
@@ -441,9 +340,6 @@ Pharaoh turned and went into his house, and he did not take even this to heart.
 
 #### Ages 8-10
 Pharaoh turned and went into his house, and he did not take even this sign to heart.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -459,9 +355,6 @@ All the Egyptians dug around the river for drinking water, because they could no
 #### Ages 8-10
 All the Egyptians dug around the river for water to drink, because they could not drink the river water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 7:25
@@ -473,43 +366,33 @@ Seven days passed after the Lord struck the river.
 #### Ages 8-10
 Seven days passed after the Lord struck the river.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Exodus 7 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "See, I have made you like God to Pharaoh, and Aaron your brother will be...," moves through "Pharaoh's heart was hardened, and he did not listen to them, just as the Lord had said.," and closes with "Seven days passed after the Lord struck the river.." Review this summary for fuller theological detail before approval.
+Moses and Aaron stand before Pharaoh, Aaron's staff becomes a serpent, and the first plague turns Egypt's water to blood.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord said to Moses, "See, I have made you like God before Pharaoh, and your brother Aaron will speak for you." - Exodus 7:1
+"The Egyptians will know that I am the Lord when I stretch out my hand over Egypt and bring the children of Israel out from among them." - Exodus 7:5
 
 ### Ages 8-10
-The Lord said to Moses, "See, I have made you like God to Pharaoh, and Aaron your brother will be your prophet." - Exodus 7:1
+"The Egyptians will know that I am the Lord when I stretch out my hand over Egypt and bring the children of Israel out from among them." - Exodus 7:5
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 7 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

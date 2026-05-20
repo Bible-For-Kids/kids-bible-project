@@ -1,14 +1,14 @@
 # Exodus Chapter 34
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 34 and should be reviewed before approval.
+Exodus 34 continues the rescue-and-covenant story. The Lord renews the covenant, proclaims his name and mercy, and Moses comes down with a shining face.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- command: Something God tells someone to do
-- covenant: A serious promise relationship God makes
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- covenant: A serious promise relationship God makes with his people
+- mercy: God's kindness to people who need help and forgiveness
+- Moses: The servant God used to lead Israel out of Egypt
+- glory: The shining greatness of who God is
+- worship: Honoring God with trust, praise, and obedience
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,8 @@ The Lord said to Moses, "Cut two stone tablets like the first ones. I will write
 #### Ages 8-10
 The Lord said to Moses, "Cut two stone tablets like the first ones. I will write on these tablets the words that were on the first tablets, which you broke."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -40,9 +35,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Be ready in the morning. Come up Mount Sinai in the morning and present yourself to me there on the top of the mountain."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 34:3
@@ -53,9 +45,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "No one may come up with you, and no one may be seen anywhere on the mountain. The flocks and herds must not feed in front of that mountain."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -68,13 +57,8 @@ So Moses cut two stone tablets like the first ones. He got up early in the morni
 #### Ages 8-10
 So Moses cut two stone tablets like the first ones. He rose early in the morning and went up Mount Sinai, as the Lord had commanded him, carrying the two stone tablets in his hands.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -87,13 +71,8 @@ The Lord came down in the cloud, stood with Moses there, and spoke the name of t
 #### Ages 8-10
 The Lord came down in the cloud, stood with Moses there, and proclaimed the name of the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -107,13 +86,13 @@ The Lord passed in front of Moses and said, "The Lord, the Lord God, is merciful
 The Lord passed before Moses and proclaimed, "The Lord, the Lord God, is merciful and gracious, slow to anger, and rich in goodness and truth."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a major statement of the Lord's character: merciful, gracious, slow to anger, and full of faithful love.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+**Cross-References**:
+- Psalm 103:8
 
 ---
 
@@ -126,12 +105,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He keeps mercy for thousands, forgiving guilt, rebellion, and sin. Yet he will not leave the guilty unpunished, and the results of sin can reach children and grandchildren, to the third and fourth generation."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- guilt: The blame that comes from doing wrong
-- sin: Disobeying God and going against his good way
+- mercy: God's kindness to people who need help and forgiveness
 
 ---
 
@@ -144,11 +119,9 @@ Moses quickly bowed his head down to the ground and worshiped.
 #### Ages 8-10
 Moses quickly bowed his head toward the ground and worshiped.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
+- worship: Honoring God with trust, praise, and obedience
 
 ---
 
@@ -161,14 +134,6 @@ He said, "Lord, if I have found favor with you, please go among us. These are st
 #### Ages 8-10
 He said, "Lord, if I have found favor with you, please let the Lord go among us. These are stubborn people, but forgive our guilt and our sin, and take us as your inheritance."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- guilt: The blame that comes from doing wrong
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-
 ---
 
 ### Exodus 34:10
@@ -180,13 +145,8 @@ The Lord said, "I am making a covenant. In front of all your people I will do wo
 #### Ages 8-10
 The Lord said, "I am making a covenant. Before all your people I will do wonders that have never been done in all the earth or in any nation. All the people among whom you live will see the work of the Lord, because what I am doing with you is awesome."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -199,12 +159,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Observe what I command you today. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-
 ---
 
 ### Exodus 34:12
@@ -216,11 +170,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Be careful not to make a covenant with the people who live in the land where you are going, or it will become a trap among you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
+- covenant: A serious promise relationship God makes with his people
 
 ---
 
@@ -233,9 +184,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Instead, tear down their altars, break their sacred pillars, and cut down their carved poles."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 34:14
@@ -247,13 +195,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You must not worship any other god, because the Lord, whose name is Jealous, is a jealous God."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- worship: Honoring God with trust, praise, and obedience
 
 ---
 
@@ -266,12 +209,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not make a covenant with the people of the land. If they worship their gods and sacrifice to them, one of them may invite you, and you may eat from his sacrifice."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- sacrifice: An offering given in worship
+- covenant: A serious promise relationship God makes with his people
+- worship: Honoring God with trust, praise, and obedience
 
 ---
 
@@ -284,8 +224,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You might take their daughters as wives for your sons, and their daughters may worship their gods and cause your sons to worship those gods too."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- worship: Honoring God with trust, praise, and obedience
 
 ---
 
@@ -298,25 +238,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not make gods of melted metal for yourselves."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 34:18
 **Original Reference**: Exodus 34:18 - "You shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib; for in the month Abib you came out of Egypt.
 
 #### Ages 5-7
-"Keep the Feast of Unleavened Bread. For seven days eat bread made without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt."
+"Keep the Feast of Bread Made Without Yeast. For seven days eat bread made without yeast, as I commanded you, at the set time in the month of Abib, because in that month you came out of Egypt."
 
 #### Ages 8-10
-"Keep the Feast of Unleavened Bread. For seven days you must eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib, because in the month of Abib you came out of Egypt."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+"Keep the Feast of Bread Made Without Yeast. For seven days you must eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib, because in the month of Abib you came out of Egypt."
 
 ---
 
@@ -329,9 +260,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Every firstborn male belongs to me, including every firstborn male among your livestock, whether ox or sheep."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 34:20
@@ -342,9 +270,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Redeem the firstborn donkey with a lamb. If you do not redeem it, break its neck. Redeem all your firstborn sons. No one may appear before me empty-handed."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -357,9 +282,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Work for six days, but on the seventh day you must rest. Even in plowing time and harvest time, you must rest."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 34:22
@@ -370,9 +292,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the end of the year."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -385,15 +304,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Three times each year all your males must appear before the Lord God, the God of Israel."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 34:24
@@ -404,14 +314,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I will drive out the nations before you and enlarge your borders. No one will desire your land when you go up three times each year to appear before the Lord your God."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -424,13 +326,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Do not offer the blood of my sacrifice with anything made with yeast. Do not let the sacrifice of the Passover Feast remain until morning."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Passover: The meal and day remembering how God rescued Israel from Egypt
-- sacrifice: An offering given in worship
-
 ---
 
 ### Exodus 34:26
@@ -441,14 +336,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Bring the first of the firstfruits of your land to the house of the Lord your God. Do not boil a young goat in its mother's milk."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -461,15 +348,9 @@ The Lord said to Moses, "Write these words, because with these words I have made
 #### Ages 8-10
 The Lord said to Moses, "Write these words, because according to these words I have made a covenant with you and with Israel."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
+- covenant: A serious promise relationship God makes with his people
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -482,14 +363,9 @@ Moses was there with the Lord forty days and forty nights. He did not eat bread 
 #### Ages 8-10
 Moses was there with the Lord forty days and forty nights. He did not eat bread or drink water. He wrote on the tablets the words of the covenant, the Ten Commandments.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
+- covenant: A serious promise relationship God makes with his people
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -502,12 +378,8 @@ When Moses came down from Mount Sinai, he had the two tablets of testimony in hi
 #### Ages 8-10
 When Moses came down from Mount Sinai with the two tablets of testimony in his hands, he did not know that the skin of his face shone because he had been speaking with the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
+- covenant: A serious promise relationship God makes with his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -521,12 +393,7 @@ Aaron and all the people of Israel saw Moses, and his face was shining. They wer
 #### Ages 8-10
 Aaron and all the people of Israel saw Moses, and the skin of his face was shining. They were afraid to come near him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -540,11 +407,7 @@ Moses called to them. Aaron and all the leaders of the people came back to him, 
 #### Ages 8-10
 Moses called to them, and Aaron and all the leaders of the community returned to him. Moses spoke with them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -558,14 +421,8 @@ After that, all the people of Israel came near. Moses gave them all the commands
 #### Ages 8-10
 Afterward all the people of Israel came near, and Moses gave them all the commands the Lord had spoken with him on Mount Sinai.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -573,13 +430,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 34:33 - When Moses was done speaking with them, he put a veil on his face.
 
 #### Ages 5-7
-When Moses finished speaking with them, he put a veil over his face.
+When Moses finished speaking with them, he put a curtain over his face.
 
 #### Ages 8-10
-When Moses finished speaking with them, he put a veil over his face.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+When Moses finished speaking with them, he put a curtain over his face.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -590,19 +444,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 34:34 - But when Moses went in before Yahweh to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded.
 
 #### Ages 5-7
-But when Moses went in before the Lord to speak with him, he took the veil off until he came out. Then he came out and told the people of Israel what he had been commanded.
+But when Moses went in before the Lord to speak with him, he took the curtain off until he came out. Then he came out and told the people of Israel what he had been commanded.
 
 #### Ages 8-10
-But when Moses went in before the Lord to speak with him, he took the veil off until he came out. Then he came out and told the people of Israel what he had been commanded.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+But when Moses went in before the Lord to speak with him, he took the curtain off until he came out. Then he came out and told the people of Israel what he had been commanded.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -610,49 +458,41 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 34:35 - The children of Israel saw Moses' face, that the skin of Moses' face shone; so Moses put the veil on his face again, until he went in to speak with him.
 
 #### Ages 5-7
-The people of Israel saw that Moses' face was shining. Then Moses put the veil over his face again until he went in to speak with the Lord.
+The people of Israel saw that Moses' face was shining. Then Moses put the curtain over his face again until he went in to speak with the Lord.
 
 #### Ages 8-10
-The people of Israel saw that the skin of Moses' face shone. Then Moses put the veil over his face again until he went in to speak with the Lord.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The people of Israel saw that the skin of Moses' face shone. Then Moses put the curtain over his face again until he went in to speak with the Lord.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 34 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "Cut two stone tablets like the first ones. I will write on these tablets...," moves through "Keep the Feast of Unleavened Bread. For seven days you must eat bread made without yeast, as I co...," and closes with "The people of Israel saw that the skin of Moses' face shone. Then Moses put the veil over his fac...." Review this summary for fuller theological detail before approval.
+The Lord renews the covenant, proclaims his name and mercy, and Moses comes down with a shining face.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Idols cannot replace the Lord**: The golden calf shows how serious false worship is.
+2. **Mercy is needed after sin**: Moses pleads for the people, and the Lord reveals his mercy and justice.
+3. **God's presence is precious**: Moses asks for the Lord himself to go with his people.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord said to Moses, "Cut two stone tablets like the first ones. I will write on these tablets the words that were on the first tablets, the ones you broke." - Exodus 34:1
+The Lord passed in front of Moses and said, "The Lord, the Lord God, is merciful and gracious, slow to anger, and full of goodness and truth." - Exodus 34:6
 
 ### Ages 8-10
-The Lord said to Moses, "Cut two stone tablets like the first ones. I will write on these tablets the words that were on the first tablets, which you broke." - Exodus 34:1
+The Lord passed before Moses and proclaimed, "The Lord, the Lord God, is merciful and gracious, slow to anger, and rich in goodness and truth." - Exodus 34:6
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 34 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 34 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

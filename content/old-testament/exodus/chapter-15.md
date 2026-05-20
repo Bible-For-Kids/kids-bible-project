@@ -1,14 +1,14 @@
 # Exodus Chapter 15
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 15 and should be reviewed before approval.
+Exodus 15 continues the rescue-and-covenant story. Moses and Israel sing to the Lord after the sea rescue, then the Lord provides water in the wilderness.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- holy: Set apart for God
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
+- worship: Honoring God with trust, praise, and obedience
+- deliverance: Being rescued by God from danger or slavery
+- Moses: The servant God used to lead Israel out of Egypt
+- wilderness: A wild place away from settled towns
+- water: What the Lord provided for Israel in the dry wilderness
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,8 @@ Then Moses and the Israelites sang this song to the Lord: "I will sing to the Lo
 #### Ages 8-10
 Then Moses and the Israelites sang this song to the Lord: "I will sing to the Lord, for he has triumphed gloriously. He has thrown the horse and its rider into the sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -42,11 +36,7 @@ The Lord is my strength and my song, and he has saved me. He is my God, and I wi
 The Lord is my strength and my song, and he has become my salvation. He is my God, and I will praise him; my father's God, and I will exalt him.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -59,13 +49,6 @@ The Lord is a warrior. The Lord is his name.
 #### Ages 8-10
 The Lord is a warrior. The Lord is his name.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:4
@@ -76,12 +59,6 @@ He threw Pharaoh's chariots and army into the sea. Pharaoh's best officers sank 
 
 #### Ages 8-10
 He has thrown Pharaoh's chariots and army into the sea. Pharaoh's chosen officers were drowned in the Red Sea.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -94,8 +71,8 @@ The deep waters covered them. They sank down like a stone.
 #### Ages 8-10
 The deep waters covered them. They sank to the bottom like a stone.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -108,13 +85,6 @@ Your right hand, Lord, is glorious in power. Your right hand, Lord, crushed the 
 #### Ages 8-10
 Your right hand, Lord, is glorious in power. Your right hand, Lord, shattered the enemy.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:7
@@ -125,9 +95,6 @@ In your great majesty, you threw down those who rose against you. You sent out y
 
 #### Ages 8-10
 In your great majesty, you overthrew those who rose against you. You sent out your wrath, and it consumed them like dry straw.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -140,8 +107,8 @@ At the blast of your breath, the waters piled up. The waves stood like a heap, a
 #### Ages 8-10
 At the blast of your breath, the waters were gathered together. The floods stood upright like a heap, and the depths became firm in the heart of the sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -154,9 +121,6 @@ The enemy said, 'I will chase them. I will catch them. I will divide what they h
 #### Ages 8-10
 The enemy said, 'I will pursue. I will overtake. I will divide the plunder. My desire will be satisfied against them. I will draw my sword, and my hand will destroy them.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 15:10
@@ -168,8 +132,8 @@ But you blew with your wind, and the sea covered them. They sank like lead in th
 #### Ages 8-10
 You blew with your wind, and the sea covered them. They sank like lead in the mighty waters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -182,13 +146,6 @@ Who is like you among the gods, Lord? Who is like you, glorious in holiness, awe
 #### Ages 8-10
 Who is like you among the gods, Lord? Who is like you, glorious in holiness, awesome in praise, doing wonders?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:12
@@ -199,9 +156,6 @@ You stretched out your right hand, and the earth swallowed them.
 
 #### Ages 8-10
 You stretched out your right hand, and the earth swallowed them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -214,12 +168,6 @@ In your mercy, you led the people you rescued. In your strength, you guided them
 #### Ages 8-10
 In your faithful mercy, you have led the people you redeemed. In your strength, you have guided them toward your holy dwelling.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- holy: Set apart for God
-
 ---
 
 ### Exodus 15:14
@@ -230,9 +178,6 @@ The peoples will hear and tremble. Fear will come over the people of Philistia.
 
 #### Ages 8-10
 The peoples will hear and tremble. Anguish will seize the people of Philistia.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -245,9 +190,6 @@ The leaders of Edom will be amazed. The strong men of Moab will tremble. The peo
 #### Ages 8-10
 Then the leaders of Edom will be amazed. The mighty men of Moab will tremble. All the people of Canaan will melt away in fear.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 15:16
@@ -259,13 +201,6 @@ Terror and dread will fall on them. Because of your great arm, they will be stil
 #### Ages 8-10
 Terror and dread will fall on them. By the greatness of your arm, they will be still as stone until your people pass by, Lord, until the people you purchased pass by.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:17
@@ -275,15 +210,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 You will bring them in and plant them on the mountain that belongs to you, the place you made for your home, Lord, the holy place your hands established.
 
 #### Ages 8-10
-You will bring them in and plant them on the mountain of your inheritance, the place you made for your dwelling, Lord, the sanctuary your hands established.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+You will bring them in and plant them on the mountain of your inheritance, the place you made for your dwelling, Lord, the holy place your hands established.
 
 ---
 
@@ -296,13 +223,6 @@ The Lord will reign forever and ever."
 #### Ages 8-10
 The Lord will reign forever and ever."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:19
@@ -314,14 +234,8 @@ Pharaoh's horses, chariots, and riders went into the sea, and the Lord brought t
 #### Ages 8-10
 When Pharaoh's horses, chariots, and horsemen went into the sea, the Lord brought the waters of the sea back over them. But the Israelites walked on dry ground through the middle of the sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -334,12 +248,6 @@ Miriam the prophetess, Aaron's sister, took a tambourine in her hand. All the wo
 #### Ages 8-10
 Miriam the prophetess, Aaron's sister, took a tambourine in her hand, and all the women followed her with tambourines and dancing.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-
 ---
 
 ### Exodus 15:21
@@ -350,13 +258,6 @@ Miriam sang back to them, "Sing to the Lord, because he has won a wonderful vict
 
 #### Ages 8-10
 Miriam answered them, "Sing to the Lord, for he has triumphed gloriously. He has thrown the horse and its rider into the sea."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -369,13 +270,10 @@ Then Moses led Israel away from the Red Sea. They went into the wilderness of Sh
 #### Ages 8-10
 Then Moses led Israel from the Red Sea, and they went into the wilderness of Shur. They traveled three days in the wilderness and found no water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -388,8 +286,8 @@ When they came to Marah, they could not drink the water there because it was bit
 #### Ages 8-10
 When they came to Marah, they could not drink the water there because it was bitter. That is why the place was called Marah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -401,9 +299,6 @@ The people grumbled against Moses and asked, "What will we drink?"
 
 #### Ages 8-10
 The people complained against Moses and asked, "What are we going to drink?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -419,13 +314,9 @@ Moses cried out to the Lord. The Lord showed him a tree, and Moses threw it into
 #### Ages 8-10
 Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became sweet. There the Lord gave them a statute and an ordinance, and there he tested them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
@@ -438,14 +329,6 @@ The Lord said, "If you carefully listen to the voice of the Lord your God, do wh
 #### Ages 8-10
 The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 15:27
@@ -457,17 +340,18 @@ Then they came to Elim, where there were twelve springs of water and seventy pal
 #### Ages 8-10
 Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- water: What the Lord provided for Israel in the dry wilderness
 
 ---
 
 ## Chapter Summary
-Exodus 15 is a draft resource chapter. The chapter opens with "Then Moses and the Israelites sang this song to the Lord: "I will sing to the Lord, for he has tr...," moves through "The peoples will hear and tremble. Anguish will seize the people of Philistia.," and closes with "Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they...." Review this summary for fuller theological detail before approval.
+Moses and Israel sing to the Lord after the sea rescue, then the Lord provides water in the wilderness.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord rescues**: Exodus shows that the Lord sees suffering, keeps his covenant, and saves his people.
+2. **The Lord judges evil**: Pharaoh's hardness and Egypt's oppression are answered by God's righteous power.
+3. **The Lord makes himself known**: The signs and wonders show Israel and Egypt who the Lord is.
 
 ## Memory Verses by Age
 
@@ -480,16 +364,12 @@ The Lord is my strength and my song, and he has become my salvation. He is my Go
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 15 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

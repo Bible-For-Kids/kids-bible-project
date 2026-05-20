@@ -1,13 +1,13 @@
 # Exodus Chapter 16
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 16 and should be reviewed before approval.
+Exodus 16 continues the rescue-and-covenant story. Israel grumbles for food, and the Lord gives quail and manna while teaching Sabbath rest.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- holy: Set apart for God
+- manna: The bread-like food God gave Israel in the wilderness
+- wilderness: A wild place away from settled towns
+- Sabbath: A day of holy rest
+- provision: God giving what his people need
 - Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
@@ -21,14 +21,9 @@ All the people of Israel left Elim and came to the wilderness of Sin, between El
 #### Ages 8-10
 The whole community of Israel left Elim and came to the wilderness of Sin, between Elim and Sinai, on the fifteenth day of the second month after leaving Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- wilderness: A wild place away from settled towns
 - Israel: God's covenant people descended from Jacob
-- sin: Disobeying God and going against his good way
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -41,14 +36,9 @@ In the wilderness, the whole group of Israel grumbled against Moses and Aaron.
 #### Ages 8-10
 There in the wilderness, the whole community of Israel complained against Moses and Aaron.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- wilderness: A wild place away from settled towns
 - Israel: God's covenant people descended from Jacob
-- Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -61,15 +51,9 @@ They said, "If only we had died by the Lord's hand in Egypt, where we sat by pot
 #### Ages 8-10
 The Israelites said to them, "If only the Lord had let us die in Egypt, where we sat by pots of meat and ate all the bread we wanted. You brought us into this wilderness to kill this whole assembly with hunger."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- wilderness: A wild place away from settled towns
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -82,15 +66,6 @@ Then the Lord said to Moses, "I will rain bread from heaven for you. The people 
 #### Ages 8-10
 Then the Lord said to Moses, "I will rain bread from heaven for you. The people must go out each day and gather that day's portion, so I may test whether they will follow my law."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 16:5
@@ -101,9 +76,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "On the sixth day, they must prepare what they bring in, and it will be twice as much as they gather on the other days."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -116,15 +88,8 @@ Moses and Aaron said to all Israel, "At evening you will know that the Lord brou
 #### Ages 8-10
 Moses and Aaron said to all Israel, "This evening you will know that the Lord brought you out of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Egypt: The land where Israel had been enslaved
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -137,13 +102,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "In the morning you will see the Lord's glory, because he has heard your complaints against him. Who are we that you should complain against us?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 16:8
@@ -154,14 +112,6 @@ Moses said, "The Lord will give you meat to eat in the evening and bread to fill
 
 #### Ages 8-10
 Moses said, "The Lord will give you meat to eat in the evening and bread to satisfy you in the morning, because he has heard your complaints against him. Your complaints are not really against us, but against the Lord."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -174,15 +124,8 @@ Moses told Aaron, "Say to all the people of Israel, 'Come near before the Lord, 
 #### Ages 8-10
 Moses told Aaron, "Say to the whole community of Israel, 'Come near before the Lord, because he has heard your complaints.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -195,15 +138,9 @@ As Aaron spoke to all the people, they looked toward the wilderness, and the glo
 #### Ages 8-10
 While Aaron spoke to the whole community of Israel, they looked toward the wilderness, and the glory of the Lord appeared in the cloud.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
+- wilderness: A wild place away from settled towns
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -216,14 +153,6 @@ The Lord spoke to Moses.
 #### Ages 8-10
 The Lord spoke to Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 16:12
@@ -235,14 +164,8 @@ He said, "I have heard the grumbling of the people of Israel. Tell them, 'At eve
 #### Ages 8-10
 He said, "I have heard the complaints of the Israelites. Tell them, 'At evening you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -255,9 +178,6 @@ That evening quail came and covered the camp. In the morning, dew lay all around
 #### Ages 8-10
 That evening quail came and covered the camp, and in the morning dew lay around the camp.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 16:14
@@ -269,11 +189,8 @@ When the dew was gone, thin flaky pieces were on the ground in the wilderness, l
 #### Ages 8-10
 When the dew lifted, thin flakes were on the surface of the wilderness, as fine as frost on the ground.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -287,13 +204,13 @@ When the people saw it, they said to one another, "What is it?" They did not kno
 When the Israelites saw it, they asked one another, "What is it?" They did not know what it was. Moses said, "It is the bread the Lord has given you to eat."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Manna means "What is it?" Keep the wonder of God providing food in the wilderness.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+**Cross-References**:
+- John 6:31-35
 
 ---
 
@@ -301,17 +218,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 16:16 - "This is the thing which Yahweh has commanded: 'Gather of it everyone according to his eating; an omer a head, according to the number of your persons, you shall take it, every man for those who are in his tent.' "
 
 #### Ages 5-7
-"This is what the Lord commands: Each person should gather what they need to eat, one omer for each person in the tent."
+"This is what the Lord commands: Each person should gather what they need to eat, one basket measure for each person in the tent."
 
 #### Ages 8-10
-"This is what the Lord has commanded: Gather as much as each person needs to eat, an omer for each person in your tents."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+"This is what the Lord has commanded: Gather as much as each person needs to eat, an basket measure for each person in your tents."
 
 ---
 
@@ -323,9 +233,6 @@ The people of Israel did this. Some gathered more, and some gathered less.
 
 #### Ages 8-10
 The Israelites did this. Some gathered more, and some gathered less.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -339,10 +246,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 When they measured it, the one who gathered much had nothing left over, and the one who gathered little had enough. Each person had gathered what they needed to eat.
 
 #### Ages 8-10
-When they measured it by the omer, the person who gathered much had no extra, and the person who gathered little did not lack anything. Each had gathered what was needed to eat.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+When they measured it by the basket measure, the person who gathered much had no extra, and the person who gathered little did not lack anything. Each had gathered what was needed to eat.
 
 ---
 
@@ -355,12 +259,6 @@ Moses said, "Do not leave any of it until morning."
 #### Ages 8-10
 Moses said to them, "No one should leave any of it until morning."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
-
 ---
 
 ### Exodus 16:20
@@ -371,12 +269,6 @@ But some people did not listen to Moses. They kept some until morning, and it gr
 
 #### Ages 8-10
 Some did not listen to Moses. They kept part of it until morning, but it bred worms and smelled bad, and Moses was angry with them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -389,25 +281,16 @@ Morning after morning, each person gathered what they needed. When the sun grew 
 #### Ages 8-10
 They gathered it morning by morning, each person according to what was needed. When the sun became hot, it melted.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 16:22
 **Original Reference**: Exodus 16:22 - On the sixth day, they gathered twice as much bread, two omers for each one; and all the rulers of the congregation came and told Moses.
 
 #### Ages 5-7
-On the sixth day, they gathered twice as much bread, two omers for each person. The leaders came and told Moses.
+On the sixth day, they gathered twice as much bread, two basket measures for each person. The leaders came and told Moses.
 
 #### Ages 8-10
-On the sixth day, they gathered twice as much bread, two omers for each person. All the leaders of the community came and reported it to Moses.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
+On the sixth day, they gathered twice as much bread, two basket measures for each person. All the leaders of the community came and reported it to Moses.
 
 ---
 
@@ -420,15 +303,8 @@ Moses said, "This is what the Lord has said: Tomorrow is a day of rest, a holy S
 #### Ages 8-10
 Moses said to them, "This is what the Lord has spoken: Tomorrow is a day of rest, a holy Sabbath to the Lord. Bake what you want to bake and boil what you want to boil. Keep whatever is left until morning."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -441,12 +317,6 @@ They kept it until morning, as Moses commanded, and it did not smell bad or grow
 #### Ages 8-10
 They kept it until morning as Moses commanded, and it did not smell bad or grow worms.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Moses: The servant God used to lead Israel out of Egypt
-
 ---
 
 ### Exodus 16:25
@@ -458,14 +328,8 @@ Moses said, "Eat it today, because today is a Sabbath to the Lord. Today you wil
 #### Ages 8-10
 Moses said, "Eat it today, because today is a Sabbath to the Lord. Today you will not find it in the field."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -477,9 +341,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "For six days you will gather it, but on the seventh day, the Sabbath, there will be none."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Sabbath: A day of holy rest
@@ -495,9 +356,6 @@ On the seventh day, some people went out to gather, but they found nothing.
 #### Ages 8-10
 On the seventh day, some of the people went out to gather, but they found nothing.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 16:28
@@ -508,14 +366,6 @@ The Lord said to Moses, "How long will you refuse to keep my commandments and my
 
 #### Ages 8-10
 The Lord said to Moses, "How long will you refuse to keep my commandments and my laws?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -528,13 +378,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Understand that the Lord has given you the Sabbath. That is why, on the sixth day, he gives you bread for two days. Each of you must stay where you are; no one should go out on the seventh day."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -547,9 +392,6 @@ So the people rested on the seventh day.
 #### Ages 8-10
 So the people rested on the seventh day.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 16:31
@@ -561,12 +403,9 @@ The people of Israel called the food manna. It was white like coriander seed, an
 #### Ages 8-10
 The people of Israel named the food manna. It was white like coriander seed, and it tasted like wafers made with honey.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - manna: The bread-like food God gave Israel in the wilderness
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -574,20 +413,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 16:32 - Moses said, "This is the thing which Yahweh has commanded, 'Let an omer-full of it be kept throughout your generations, that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.' "
 
 #### Ages 5-7
-Moses said, "This is what the Lord commands: Keep an omer of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
+Moses said, "This is what the Lord commands: Keep an basket measure of it for your families after you, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 #### Ages 8-10
-Moses said, "This is what the Lord has commanded: Keep an omer of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Moses said, "This is what the Lord has commanded: Keep an basket measure of it for future generations, so they may see the bread I fed you in the wilderness when I brought you out of Egypt."
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -595,20 +427,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 16:33 - Moses said to Aaron, "Take a pot, and put an omer-full of manna in it, and lay it up before Yahweh, to be kept throughout your generations."
 
 #### Ages 5-7
-Moses told Aaron, "Take a jar, put an omer of manna in it, and place it before the Lord to be kept for your families after you."
+Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for your families after you."
 
 #### Ages 8-10
-Moses told Aaron, "Take a jar, put an omer of manna in it, and place it before the Lord to be kept for future generations."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Moses told Aaron, "Take a jar, put an basket measure of manna in it, and place it before the Lord to be kept for future generations."
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
 - manna: The bread-like food God gave Israel in the wilderness
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -621,15 +446,6 @@ Aaron placed it before the Testimony to be kept, just as the Lord commanded Mose
 #### Ages 8-10
 Aaron placed it before the Testimony to be kept, just as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 16:35
@@ -641,12 +457,9 @@ The people of Israel ate manna for forty years, until they came to a land where 
 #### Ages 8-10
 The Israelites ate manna for forty years, until they came to an inhabited land. They ate manna until they reached the border of Canaan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - manna: The bread-like food God gave Israel in the wilderness
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -654,44 +467,38 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 16:36 - Now an omer is one tenth of an ephah.
 
 #### Ages 5-7
-An omer was one-tenth of an ephah.
+An basket measure was one-tenth of a dry measure.
 
 #### Ages 8-10
-An omer was one-tenth of an ephah.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+An basket measure was one-tenth of a dry measure.
 
 ---
 
 ## Chapter Summary
-Exodus 16 is a draft resource chapter. The chapter opens with "The whole community of Israel left Elim and came to the wilderness of Sin, between Elim and Sinai...," moves through "Moses said to them, "No one should leave any of it until morning.," and closes with "An omer was one-tenth of an ephah.." Review this summary for fuller theological detail before approval.
+Israel grumbles for food, and the Lord gives quail and manna while teaching Sabbath rest.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-All the people of Israel left Elim and came to the wilderness of Sin, between Elim and Sinai, on the fifteenth day of the second month after they left Egypt. - Exodus 16:1
+When the people saw it, they said to one another, "What is it?" They did not know what it was. Moses said, "This is the bread the Lord has given you to eat." - Exodus 16:15
 
 ### Ages 8-10
-The whole community of Israel left Elim and came to the wilderness of Sin, between Elim and Sinai, on the fifteenth day of the second month after leaving Egypt. - Exodus 16:1
+When the Israelites saw it, they asked one another, "What is it?" They did not know what it was. Moses said, "It is the bread the Lord has given you to eat." - Exodus 16:15
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 16 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

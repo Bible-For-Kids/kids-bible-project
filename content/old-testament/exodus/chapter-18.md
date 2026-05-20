@@ -1,13 +1,13 @@
 # Exodus Chapter 18
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 18 and should be reviewed before approval.
+Exodus 18 continues the rescue-and-covenant story. Jethro rejoices in the Lord's rescue and advises Moses to appoint helpers for judging the people.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- blessed: Spoke good over someone or something
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Moses: The servant God used to lead Israel out of Egypt
+- priest: A worship leader who served at the holy place
+- deliverance: Being rescued by God from danger or slavery
+- wisdom: Knowing and choosing what is right in God's sight
 - Israel: God's covenant people descended from Jacob
 
 ## Verse-by-Verse Translation
@@ -21,15 +21,10 @@ Jethro, the priest of Midian and Moses' father-in-law, heard all that God had do
 #### Ages 8-10
 Jethro, priest of Midian and Moses' father-in-law, heard about everything God had done for Moses and for Israel, God's people, and how the Lord had brought Israel out of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Moses: The servant God used to lead Israel out of Egypt
+- priest: A worship leader who served at the holy place
 - Israel: God's covenant people descended from Jacob
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -42,11 +37,7 @@ Jethro had taken care of Zipporah, Moses' wife, after Moses had sent her back.
 #### Ages 8-10
 Jethro, Moses' father-in-law, had taken in Zipporah, Moses' wife, after Moses had sent her back.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -59,9 +50,6 @@ He also had Moses' two sons. One son was named Gershom, because Moses had said, 
 
 #### Ages 8-10
 He also had her two sons. One was named Gershom, because Moses had said, "I have been a foreigner in another land."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -77,13 +65,8 @@ The other son was named Eliezer, because Moses had said, "The God of my father h
 #### Ages 8-10
 The other was named Eliezer, because Moses had said, "The God of my father was my help and rescued me from Pharaoh's sword."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
 - Moses: The servant God used to lead Israel out of Egypt
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -96,14 +79,8 @@ Jethro came to Moses in the wilderness, bringing Moses' wife and sons to the mou
 #### Ages 8-10
 Jethro, Moses' father-in-law, came with Moses' wife and sons into the wilderness, where Moses was camped at the mountain of God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
-- wilderness: A wild, dry place away from towns and farms
 
 ---
 
@@ -116,11 +93,7 @@ Jethro sent word to Moses, "I, your father-in-law Jethro, am coming to you with 
 #### Ages 8-10
 He sent word to Moses, "I, your father-in-law Jethro, am coming to you with your wife and her two sons."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -134,11 +107,7 @@ Moses went out to meet his father-in-law. He bowed down and kissed him. They ask
 #### Ages 8-10
 Moses went out to meet his father-in-law, bowed down, and kissed him. They asked about each other's well-being, and then they went into the tent.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -152,15 +121,9 @@ Moses told his father-in-law everything the Lord had done to Pharaoh and Egypt f
 #### Ages 8-10
 Moses told his father-in-law all that the Lord had done to Pharaoh and Egypt for Israel's sake, all the hardship they had faced on the way, and how the Lord had rescued them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -173,14 +136,8 @@ Jethro was glad for all the good the Lord had done for Israel, because the Lord 
 #### Ages 8-10
 Jethro rejoiced over all the good the Lord had done for Israel, because he had rescued them from the power of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 - Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -192,16 +149,6 @@ Jethro said, "Blessed be the Lord, who rescued you from Egypt and from Pharaoh, 
 
 #### Ages 8-10
 Jethro said, "Blessed be the Lord, who rescued you from the Egyptians and from Pharaoh, and who rescued the people from Egypt's power."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -215,11 +162,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Now I know that the Lord is greater than all gods, because he rescued the people when the Egyptians acted arrogantly against them."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 ---
 
@@ -227,20 +170,14 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 18:12 - Jethro, Moses' father-in-law, took a burnt offering and sacrifices for God. Aaron came with all the elders of Israel, to eat bread with Moses' father-in-law before God.
 
 #### Ages 5-7
-Jethro brought a burnt offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
+Jethro brought a burned offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
 
 #### Ages 8-10
-Jethro, Moses' father-in-law, brought a burnt offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Jethro, Moses' father-in-law, brought a burned offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses' father-in-law before God.
 
 **Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -252,9 +189,6 @@ The next day Moses sat to judge the people. The people stood around Moses from m
 
 #### Ages 8-10
 The next day Moses sat to judge the people, and the people stood around Moses from morning until evening.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -270,11 +204,7 @@ When Moses' father-in-law saw all that Moses was doing for the people, he said, 
 #### Ages 8-10
 When Moses' father-in-law saw everything Moses was doing for the people, he said, "What are you doing for the people? Why do you sit alone while all the people stand around you from morning until evening?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -288,12 +218,7 @@ Moses said to his father-in-law, "Because the people come to me to ask God what 
 #### Ages 8-10
 Moses said to his father-in-law, "Because the people come to me to ask God for decisions."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -307,12 +232,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "When they have a dispute, they come to me. I judge between one person and another, and I teach them God's statutes and laws."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Exodus 18:17
@@ -324,11 +243,7 @@ Moses' father-in-law said to him, "What you are doing is not good."
 #### Ages 8-10
 Moses' father-in-law said to him, "What you are doing is not good."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -342,9 +257,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You will surely wear yourself out, both you and these people with you. This work is too heavy for you. You cannot do it by yourself."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 18:19
@@ -355,12 +267,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Now listen to my advice, and may God be with you. You should represent the people before God and bring their cases to God."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -373,9 +279,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Teach them the statutes and laws, and show them the way they should walk and the work they should do."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 18:21
@@ -386,12 +289,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Choose capable men from all the people, men who respect God, men of truth who hate dishonest gain. Appoint them as leaders over thousands, hundreds, fifties, and tens."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -404,9 +301,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Let them judge the people at all times. Every hard case they can bring to you, but every smaller case they can judge themselves. This will make the load lighter for you, because they will share it with you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 18:23
@@ -417,12 +311,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If you do this, and God commands you to do it, you will be able to endure, and all these people will go to their place in peace."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -435,11 +323,7 @@ Moses listened to his father-in-law and did everything he said.
 #### Ages 8-10
 Moses listened to his father-in-law and did everything he had said.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -453,12 +337,9 @@ Moses chose able men from all Israel and made them leaders over the people, over
 #### Ages 8-10
 Moses chose capable men from all Israel and made them heads over the people, leaders over thousands, hundreds, fifties, and tens.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -470,9 +351,6 @@ They judged the people at all times. They brought the hard cases to Moses, but t
 
 #### Ages 8-10
 They judged the people at all times. The hard cases they brought to Moses, but every smaller case they judged themselves.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -488,43 +366,36 @@ Then Moses let his father-in-law leave, and Jethro went back to his own land.
 #### Ages 8-10
 Then Moses let his father-in-law depart, and Jethro went back to his own land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- law: God's instruction for his people
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
 ## Chapter Summary
-Exodus 18 is a draft resource chapter. The chapter opens with "Jethro, priest of Midian and Moses' father-in-law, heard about everything God had done for Moses...," moves through "When Moses' father-in-law saw everything Moses was doing for the people, he said, "What are you d...," and closes with "Then Moses let his father-in-law depart, and Jethro went back to his own land.." Review this summary for fuller theological detail before approval.
+Jethro rejoices in the Lord's rescue and advises Moses to appoint helpers for judging the people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Rescued people learn God's ways**: The Lord gives commands after rescue so his people know how to live with him and one another.
+2. **God is holy**: Sinai teaches that God is near to his people and must be honored with reverence.
+3. **Covenant words matter**: Israel hears, answers, and is called to keep the words God has spoken.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Jethro, the priest of Midian and Moses' father-in-law, heard all that God had done for Moses and for Israel, God's people. He heard that the Lord had brought Israel out of Egypt. - Exodus 18:1
+"Now I know that the Lord is greater than all gods, because he rescued the people when the Egyptians acted proudly against them." - Exodus 18:11
 
 ### Ages 8-10
-Jethro, priest of Midian and Moses' father-in-law, heard about everything God had done for Moses and for Israel, God's people, and how the Lord had brought Israel out of Egypt. - Exodus 18:1
+"Now I know that the Lord is greater than all gods, because he rescued the people when the Egyptians acted arrogantly against them." - Exodus 18:11
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 18 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 18 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

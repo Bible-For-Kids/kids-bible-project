@@ -1,14 +1,14 @@
 # Exodus Chapter 35
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 35 and should be reviewed before approval.
+Exodus 35 continues the rescue-and-covenant story. Moses calls Israel to Sabbath rest and invites willing gifts and skilled work for the tabernacle.
 
 ## Important Keywords
-- Aaron: Moses' brother and Israel's first high priest
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
-- holy: Set apart for God
-- Israel: God's covenant people descended from Jacob
+- Sabbath: A day of holy rest
+- offering: A gift brought to the Lord in worship
+- tabernacle: The holy tent where the Lord met with Israel
+- worship: Honoring God with trust, praise, and obedience
+- Moses: The servant God used to lead Israel out of Egypt
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,8 @@ Moses gathered all the people of Israel together. He said to them, "These are th
 #### Ages 8-10
 Moses gathered the whole community of Israel and said to them, "These are the words the Lord has commanded you to do."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -41,14 +35,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Work may be done for six days, but the seventh day must be holy for you, a Sabbath of complete rest to the Lord. Whoever works on it must be put to death."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
 - Sabbath: A day of holy rest
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -60,9 +48,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Do not light a fire in any of your homes on the Sabbath day."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - Sabbath: A day of holy rest
@@ -78,14 +63,8 @@ Moses spoke to all the people of Israel and said, "This is what the Lord command
 #### Ages 8-10
 Moses spoke to the whole community of Israel and said, "This is what the Lord commanded."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -98,13 +77,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Take an offering for the Lord from among you. Everyone with a willing heart may bring the Lord's offering: gold, silver, and bronze."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -112,13 +86,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:6 - blue, purple, scarlet, fine linen, goats' hair,
 
 #### Ages 5-7
-"Bring blue, purple, and scarlet thread, fine linen, and goats' hair."
+"Bring blue, purple, and red thread, fine linen, and goats' hair."
 
 #### Ages 8-10
-"Bring blue, purple, and scarlet thread, fine linen, and goats' hair."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Bring blue, purple, and red thread, fine linen, and goats' hair."
 
 ---
 
@@ -126,13 +97,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:7 - rams' skins dyed red, sea cow hides, acacia wood,
 
 #### Ages 5-7
-"Bring ram skins dyed red, fine leather, and acacia wood."
+"Bring male sheep skins dyed red, fine leather, and acacia wood."
 
 #### Ages 8-10
-"Bring ram skins dyed red, fine leather, and acacia wood."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Bring male sheep skins dyed red, fine leather, and acacia wood."
 
 ---
 
@@ -140,13 +108,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:8 - oil for the light, spices for the anointing oil and for the sweet incense,
 
 #### Ages 5-7
-"Bring oil for the light, and spices for the anointing oil and the sweet-smelling incense."
+"Bring oil for the light, and spices for the special setting-apart oil and the sweet-smelling incense."
 
 #### Ages 8-10
-"Bring oil for the light, and spices for the anointing oil and for the fragrant incense."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Bring oil for the light, and spices for the special anointing oil and for the sweet-smelling incense."
 
 ---
 
@@ -154,13 +119,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:9 - onyx stones, and stones to be set for the ephod and for the breastplate.
 
 #### Ages 5-7
-"Bring onyx stones and other stones to set in the ephod and the breastpiece."
+"Bring onyx stones and other stones to set in the priestly vest and the chest piece."
 
 #### Ages 8-10
-"Bring onyx stones and other stones to set in the ephod and the breastpiece."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Bring onyx stones and other stones to set in the priestly vest and the chest piece."
 
 ---
 
@@ -173,26 +135,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Let every skilled worker among you come and make everything the Lord has commanded."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Exodus 35:11
 **Original Reference**: Exodus 35:11 - the tabernacle, its outer covering, its roof, its clasps, its boards, its bars, its pillars, and its sockets;
 
 #### Ages 5-7
-"Make the tabernacle, its tent, its covering, its hooks, boards, bars, posts, and bases."
+"Make the holy tent, its tent, its covering, its hooks, boards, bars, posts, and bases."
 
 #### Ages 8-10
 "Make the tabernacle, its tent, its covering, its hooks, boards, bars, pillars, and bases."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -203,13 +155,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:12 - the ark, and its poles, the mercy seat, the veil of the screen;
 
 #### Ages 5-7
-"Make the ark, its poles, the mercy seat, and the veil that covers it."
+"Make the ark, its poles, the cover of the ark, and the curtain that covers it."
 
 #### Ages 8-10
-"Make the ark and its poles, with the mercy seat and the covering veil."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the ark and its poles, with the atonement cover and the covering curtain."
 
 ---
 
@@ -222,9 +171,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make the table, its poles, all its utensils, and the bread of the presence."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 35:14
@@ -236,25 +182,18 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make the lampstand for light, its utensils, its lamps, and the oil for the light."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 35:15
 **Original Reference**: Exodus 35:15 - and the altar of incense with its poles, the anointing oil, the sweet incense, the screen for the door, at the door of the tabernacle;
 
 #### Ages 5-7
-"Make the incense altar and its poles, the anointing oil, the sweet incense, and the curtain for the entrance of the tabernacle."
+"Make the sweet-smelling incense altar and its poles, the special setting-apart oil, the sweet-smelling incense, and the curtain for the entrance of the holy tent."
 
 #### Ages 8-10
-"Make the incense altar and its poles, the anointing oil, the fragrant incense, and the curtain for the entrance of the tabernacle."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the sweet-smelling incense altar and its poles, the special anointing oil, the sweet-smelling incense, and the curtain for the entrance of the tabernacle."
 
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
 - tabernacle: The holy tent where the Lord met with Israel
 
 ---
@@ -263,16 +202,12 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:16 - the altar of burnt offering, with its grating of bronze, its poles, and all its vessels, the basin and its base;
 
 #### Ages 5-7
-"Make the altar for burnt offerings, its bronze grate, its poles, all its tools, and the washbasin with its stand."
+"Make the altar for burned offerings, its bronze grate, its poles, all its tools, and the washbasin with its stand."
 
 #### Ages 8-10
-"Make the altar of burnt offering with its bronze grate, its poles, and all its utensils, and the basin with its stand."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"Make the altar of burned offering with its bronze grate, its poles, and all its utensils, and the basin with its stand."
 
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
 
 ---
@@ -286,22 +221,16 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make the curtains of the courtyard, its pillars and bases, and the curtain for the courtyard gate."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 35:18
 **Original Reference**: Exodus 35:18 - the pins of the tabernacle, the pins of the court, and their cords;
 
 #### Ages 5-7
-"Make the tent pegs for the tabernacle and the courtyard, and make their ropes."
+"Make the tent pegs for the holy tent and the courtyard, and make their ropes."
 
 #### Ages 8-10
 "Make the tent pegs for the tabernacle and the courtyard, and their ropes."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -315,15 +244,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Make the woven clothes for serving in the holy place, the holy clothes for Aaron the priest, and the clothes for his sons when they serve as priests."
 
 #### Ages 8-10
-"Make the woven garments for serving in the holy place, the holy garments for Aaron the priest, and the garments for his sons to serve as priests."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Aaron: Moses' brother and Israel's first high priest
-- holy: Set apart for God
-- priest: A worship leader who served at the holy place
+"Make the woven clothes for serving in the holy place, the holy clothes for Aaron the priest, and the clothes for his sons to serve as priests."
 
 ---
 
@@ -336,11 +257,7 @@ Then all the people of Israel left Moses.
 #### Ages 8-10
 Then the whole community of Israel left Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
 
 ---
@@ -352,16 +269,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Everyone whose heart was stirred and whose spirit was willing came and brought the Lord's offering. They brought gifts for the work on the meeting tent, for all its service, and for the holy clothes.
 
 #### Ages 8-10
-Everyone whose heart was stirred and whose spirit was willing came and brought the Lord's offering for the work on the meeting tent, for all its service, and for the holy garments.
+Everyone whose heart was stirred and whose spirit was willing came and brought the Lord's offering for the work on the meeting tent, for all its service, and for the holy clothes.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
 
 **Key Vocabulary**:
-- holy: Set apart for God
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -374,13 +288,8 @@ Men and women came, everyone with a willing heart. They brought brooches, earrin
 #### Ages 8-10
 Men and women came, all who were willing-hearted. They brought brooches, earrings, rings, necklaces, and all kinds of gold jewelry. Everyone who offered gold gave it to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -388,13 +297,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:23 - Everyone with whom was found blue, purple, scarlet, fine linen, goats' hair, rams' skins dyed red, and sea cow hides, brought them.
 
 #### Ages 5-7
-Everyone who had blue, purple, or scarlet thread, fine linen, goats' hair, ram skins dyed red, or fine leather brought them.
+Everyone who had blue, purple, or red thread, fine linen, goats' hair, male sheep skins dyed red, or fine leather brought them.
 
 #### Ages 8-10
-Everyone who had blue, purple, or scarlet thread, fine linen, goats' hair, ram skins dyed red, or fine leather brought them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Everyone who had blue, purple, or red thread, fine linen, goats' hair, male sheep skins dyed red, or fine leather brought them.
 
 ---
 
@@ -407,13 +313,8 @@ Everyone who could give silver or bronze brought the Lord's offering. Everyone w
 #### Ages 8-10
 Everyone who could offer silver or bronze brought the Lord's offering, and everyone who had acacia wood for any part of the work brought it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -421,13 +322,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:25 - All the women who were wise-hearted spun with their hands, and brought that which they had spun: the blue, the purple, the scarlet, and the fine linen.
 
 #### Ages 5-7
-All the skilled women spun thread with their hands. They brought what they had spun: blue, purple, and scarlet thread, and fine linen.
+All the skilled women spun thread with their hands. They brought what they had spun: blue, purple, and red thread, and fine linen.
 
 #### Ages 8-10
-All the skilled women spun thread with their hands and brought what they had spun: blue, purple, and scarlet thread, and fine linen.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+All the skilled women spun thread with their hands and brought what they had spun: blue, purple, and red thread, and fine linen.
 
 ---
 
@@ -440,22 +338,16 @@ All the women whose hearts stirred them with skill spun the goats' hair.
 #### Ages 8-10
 All the women whose hearts stirred them with skill spun the goats' hair.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 35:27
 **Original Reference**: Exodus 35:27 - The rulers brought the onyx stones and the stones to be set for the ephod and for the breastplate;
 
 #### Ages 5-7
-The leaders brought onyx stones and other stones to set in the ephod and the breastpiece.
+The leaders brought onyx stones and other stones to set in the priestly vest and the chest piece.
 
 #### Ages 8-10
-The leaders brought onyx stones and other stones to set in the ephod and the breastpiece.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The leaders brought onyx stones and other stones to set in the priestly vest and the chest piece.
 
 ---
 
@@ -463,13 +355,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 35:28 - with the spice and the oil for the light, for the anointing oil, and for the sweet incense.
 
 #### Ages 5-7
-They also brought spices and oil for the light, for the anointing oil, and for the sweet-smelling incense.
+They also brought spices and oil for the light, for the special setting-apart oil, and for the sweet-smelling incense.
 
 #### Ages 8-10
-They brought spices and oil for the light, for the anointing oil, and for the fragrant incense.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They brought spices and oil for the light, for the special anointing oil, and for the sweet-smelling incense.
 
 ---
 
@@ -482,15 +371,9 @@ The people of Israel brought a willing offering to the Lord. Every man and woman
 #### Ages 8-10
 The people of Israel brought a willing offering to the Lord. Every man and woman whose heart moved them to bring something gave for all the work the Lord had commanded through Moses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
-- Moses: The servant God used to lead Israel out of Egypt
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Moses: The servant God used to lead Israel out of Egypt
 
 ---
 
@@ -503,14 +386,8 @@ Moses said to the people of Israel, "See, the Lord has chosen Bezalel by name. H
 #### Ages 8-10
 Moses said to the people of Israel, "See, the Lord has called Bezalel by name. He is the son of Uri, the son of Hur, from the tribe of Judah."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -523,13 +400,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The Lord has filled him with the Spirit of God, with wisdom, understanding, knowledge, and every kind of craftsmanship."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Exodus 35:32
@@ -540,9 +410,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "He can design skillful work in gold, silver, and bronze."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -555,9 +422,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He can cut stones for settings, carve wood, and make every kind of skillful work."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 35:34
@@ -569,56 +433,44 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The Lord has put in his heart the ability to teach, both him and Aholiab son of Ahisamach, from the tribe of Dan."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Exodus 35:35
 **Original Reference**: Exodus 35:35 - He has filled them with wisdom of heart to work all kinds of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.
 
 #### Ages 5-7
-"He has filled them with skill to do every kind of work: engraving, designing, embroidering with blue, purple, and scarlet thread and fine linen, weaving, and planning beautiful work."
+"He has filled them with skill to do every kind of work: engraving, designing, embroidering with blue, purple, and red thread and fine linen, weaving, and planning beautiful work."
 
 #### Ages 8-10
-"He has filled them with skill to do every kind of work: engraving, designing, embroidering with blue, purple, and scarlet thread and fine linen, weaving, and planning skillful work."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+"He has filled them with skill to do every kind of work: engraving, designing, embroidering with blue, purple, and red thread and fine linen, weaving, and planning skillful work."
 
 ---
 
 ## Chapter Summary
-Exodus 35 is a draft resource chapter. The chapter opens with "Moses gathered the whole community of Israel and said to them, "These are the words the Lord has...," moves through "Make the tent pegs for the tabernacle and the courtyard, and their ropes.," and closes with "He has filled them with skill to do every kind of work: engraving, designing, embroidering with b...." Review this summary for fuller theological detail before approval.
+Moses calls Israel to Sabbath rest and invites willing gifts and skilled work for the tabernacle.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Moses gathered all the people of Israel together. He said to them, "These are the words the Lord has commanded you to do." - Exodus 35:1
+Everyone whose heart was stirred and whose spirit was willing came and brought the Lord's offering. They brought gifts for the work on the meeting tent, for all its service, and for the holy clothes. - Exodus 35:21
 
 ### Ages 8-10
-Moses gathered the whole community of Israel and said to them, "These are the words the Lord has commanded you to do." - Exodus 35:1
+Everyone whose heart was stirred and whose spirit was willing came and brought the Lord's offering for the work on the meeting tent, for all its service, and for the holy clothes. - Exodus 35:21
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 35 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 35 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

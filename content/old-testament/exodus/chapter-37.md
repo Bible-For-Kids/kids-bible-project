@@ -1,12 +1,14 @@
 # Exodus Chapter 37
 
 ## Book Overview
-Exodus tells how the Lord rescued Israel from Egypt, brought them through the wilderness, and taught them to live as his covenant people. This resource chapter supports Exodus 37 and should be reviewed before approval.
+Exodus 37 continues the rescue-and-covenant story. Bezalel makes the ark, atonement cover, table, lampstand, incense altar, oil, and incense for the holy tent.
 
 ## Important Keywords
+- ark: The gold-covered chest in the holy tent that held the testimony
+- tabernacle: The holy tent where the Lord met with Israel
 - altar: A special place where offerings were given to the Lord
-- cherubim: Mighty heavenly servants of God
-- holy: Set apart for God
+- incense: Sweet-smelling smoke used in worship at the holy place
+- worship: Honoring God with trust, praise, and obedience
 
 ## Verse-by-Verse Translation
 
@@ -14,13 +16,16 @@ Exodus tells how the Lord rescued Israel from Egypt, brought them through the wi
 **Original Reference**: Exodus 37:1 - Bezalel made the ark of acacia wood. Its length was two and a half cubits, and its width a cubit and a half, and a cubit and a half its height.
 
 #### Ages 5-7
-Bezalel made the ark from acacia wood. It was two and a half cubits long, one and a half cubits wide, and one and a half cubits high.
+Bezalel made the ark from acacia wood. It was two and a half arm-lengths long, one and a half arm-lengths wide, and one and a half arm-lengths high.
 
 #### Ages 8-10
-Bezalel made the ark from acacia wood. It was two and a half cubits long, one and a half cubits wide, and one and a half cubits high.
+Bezalel made the ark from acacia wood. It was two and a half arm-lengths long, one and a half arm-lengths wide, and one and a half arm-lengths high.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
+
+**Key Vocabulary**:
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -33,22 +38,16 @@ He covered it inside and outside with pure gold, and he made a gold border aroun
 #### Ages 8-10
 He covered it with pure gold inside and outside, and made a gold border around it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:3
 **Original Reference**: Exodus 37:3 - He cast four rings of gold for it, in its four feet—two rings on its one side, and two rings on its other side.
 
 #### Ages 5-7
-He cast four gold rings for its four feet, two rings on one side and two rings on the other side.
+He make four gold rings for its four feet, two rings on one side and two rings on the other side.
 
 #### Ages 8-10
-He cast four gold rings for its four feet, with two rings on one side and two rings on the other side.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He make four gold rings for its four feet, with two rings on one side and two rings on the other side.
 
 ---
 
@@ -61,9 +60,6 @@ He made poles from acacia wood and covered them with gold.
 #### Ages 8-10
 He made poles of acacia wood and covered them with gold.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:5
@@ -75,8 +71,8 @@ He put the poles through the rings on the sides of the ark so the ark could be c
 #### Ages 8-10
 He put the poles into the rings on the sides of the ark so it could be carried.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -84,13 +80,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:6 - He made a mercy seat of pure gold. Its length was two and a half cubits, and a cubit and a half its width.
 
 #### Ages 5-7
-He made the mercy seat from pure gold. It was two and a half cubits long and one and a half cubits wide.
+He made the cover of the ark from pure gold. It was two and a half arm-lengths long and one and a half arm-lengths wide.
 
 #### Ages 8-10
-He made the mercy seat from pure gold. It was two and a half cubits long and one and a half cubits wide.
+He made the atonement cover from pure gold. It was two and a half arm-lengths long and one and a half arm-lengths wide.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -98,16 +94,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:7 - He made two cherubim of gold. He made them of beaten work, at the two ends of the mercy seat:
 
 #### Ages 5-7
-He made two cherubim of hammered gold at the two ends of the mercy seat.
+He made two mighty heavenly guardians of hammered gold at the two ends of the cover of the ark.
 
 #### Ages 8-10
-He made two cherubim of hammered gold at the two ends of the mercy seat.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He made two cherubim of hammered gold at the two ends of the atonement cover.
 
 **Key Vocabulary**:
-- cherubim: Mighty heavenly servants of God
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -115,16 +108,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:8 - one cherub at the one end, and one cherub at the other end. He made the cherubim of one piece with the mercy seat at its two ends.
 
 #### Ages 5-7
-One cherub was on one end, and the other cherub was on the other end. The cherubim were made as one piece with the mercy seat.
+One mighty heavenly guardian was on one end, and the other mighty heavenly guardian was on the other end. The mighty heavenly guardians were made as one piece with the cover of the ark.
 
 #### Ages 8-10
-One cherub was at one end and one cherub at the other. The cherubim were made as one piece with the mercy seat.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+One cherub was at one end and one cherub at the other. The cherubim were made as one piece with the atonement cover.
 
 **Key Vocabulary**:
-- cherubim: Mighty heavenly servants of God
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -132,16 +122,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:9 - The cherubim spread out their wings above, covering the mercy seat with their wings, with their faces toward one another. The faces of the cherubim were toward the mercy seat.
 
 #### Ages 5-7
-The cherubim spread their wings upward, covering the mercy seat with their wings. Their faces looked toward each other and down toward the mercy seat.
+The mighty heavenly guardians spread their wings upward, covering the cover of the ark with their wings. Their faces looked toward each other and down toward the cover of the ark.
 
 #### Ages 8-10
-The cherubim spread their wings upward, covering the mercy seat with their wings. They faced each other, looking toward the mercy seat.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The cherubim spread their wings upward, covering the atonement cover with their wings. They faced each other, looking toward the atonement cover.
 
 **Key Vocabulary**:
-- cherubim: Mighty heavenly servants of God
+- ark: The gold-covered chest in the holy tent that held the testimony
 
 ---
 
@@ -149,13 +136,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:10 - He made the table of acacia wood. Its length was two cubits, and its width was a cubit, and its height was a cubit and a half.
 
 #### Ages 5-7
-He made the table from acacia wood. It was two cubits long, one cubit wide, and one and a half cubits high.
+He made the table from acacia wood. It was two arm-lengths long, one arm-length wide, and one and a half arm-lengths high.
 
 #### Ages 8-10
-He made the table from acacia wood. It was two cubits long, one cubit wide, and one and a half cubits high.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He made the table from acacia wood. It was two arm-lengths long, one arm-length wide, and one and a half arm-lengths high.
 
 ---
 
@@ -168,22 +152,16 @@ He covered it with pure gold and made a gold border around it.
 #### Ages 8-10
 He covered it with pure gold and made a gold border around it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:12
 **Original Reference**: Exodus 37:12 - He made a border of a hand's width around it, and made a golden molding on its border around it.
 
 #### Ages 5-7
-He made a rim a handbreadth wide around the table, with a gold border around the rim.
+He made a rim a palm-width wide around the table, with a gold border around the rim.
 
 #### Ages 8-10
-He made a rim around it one handbreadth wide, with a gold border around the rim.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He made a rim around it one palm-width wide, with a gold border around the rim.
 
 ---
 
@@ -191,13 +169,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:13 - He cast four rings of gold for it, and put the rings in the four corners that were on its four feet.
 
 #### Ages 5-7
-He cast four gold rings and put them on the four corners by the table's four legs.
+He make four gold rings and put them on the four corners by the table's four legs.
 
 #### Ages 8-10
-He cast four gold rings and put them on the four corners by the four legs.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He make four gold rings and put them on the four corners by the four legs.
 
 ---
 
@@ -210,9 +185,6 @@ The rings were close to the rim, and they held the poles used to carry the table
 #### Ages 8-10
 The rings were close to the rim, serving as holders for the poles used to carry the table.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:15
@@ -223,9 +195,6 @@ He made the poles from acacia wood and covered them with gold, so the table coul
 
 #### Ages 8-10
 He made the poles of acacia wood and covered them with gold for carrying the table.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -238,9 +207,6 @@ He made the table's dishes, spoons, bowls, and jars for pouring offerings from p
 #### Ages 8-10
 He made the table's dishes, spoons, bowls, and jars for pouring offerings from pure gold.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:17
@@ -251,9 +217,6 @@ He made the lampstand from pure hammered gold. Its base, stem, cups, buds, and f
 
 #### Ages 8-10
 He made the lampstand from pure hammered gold. Its base, stem, cups, buds, and flowers were all one piece.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -266,9 +229,6 @@ Six branches came out from its sides, three branches from one side and three fro
 #### Ages 8-10
 Six branches came out from its sides, three from one side and three from the other.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:19
@@ -279,9 +239,6 @@ On one branch were three cups shaped like almond flowers, with a bud and a flowe
 
 #### Ages 8-10
 Each branch had three cups shaped like almond flowers, with a bud and a flower. This pattern was used on all six branches.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -294,9 +251,6 @@ On the lampstand itself were four cups shaped like almond flowers, with buds and
 #### Ages 8-10
 The lampstand itself had four cups shaped like almond flowers, with buds and flowers.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:21
@@ -307,9 +261,6 @@ There was one bud under each pair of branches, making three buds for the six bra
 
 #### Ages 8-10
 There was one bud under each pair of branches, for the three pairs of branches coming out of the lampstand.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -322,9 +273,6 @@ The buds and branches were all one piece with the lampstand, hammered from pure 
 #### Ages 8-10
 The buds and branches were one piece with the lampstand, all hammered from pure gold.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:23
@@ -336,22 +284,16 @@ He made its seven lamps, its tongs, and its trays from pure gold.
 #### Ages 8-10
 He made its seven lamps, tongs, and trays from pure gold.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:24
 **Original Reference**: Exodus 37:24 - He made it of a talent of pure gold, with all its vessels.
 
 #### Ages 5-7
-He used one talent of pure gold to make the lampstand and all its tools.
+He used one large weight measure of pure gold to make the lampstand and all its tools.
 
 #### Ages 8-10
-He used one talent of pure gold to make the lampstand and all its utensils.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He used one large weight measure of pure gold to make the lampstand and all its utensils.
 
 ---
 
@@ -359,16 +301,14 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Exodus 37:25 - He made the altar of incense of acacia wood. It was square: its length was a cubit, and its width a cubit. Its height was two cubits. Its horns were of one piece with it.
 
 #### Ages 5-7
-He made the incense altar from acacia wood. It was one cubit long, one cubit wide, square in shape, and two cubits high. Its horns were made as one piece with it.
+He made the sweet-smelling incense altar from acacia wood. It was one arm-length long, one arm-length wide, square in shape, and two arm-lengths high. Its horns were made as one piece with it.
 
 #### Ages 8-10
-He made the incense altar from acacia wood. It was one cubit long, one cubit wide, square, and two cubits high. Its horns were one piece with it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He made the sweet-smelling incense altar from acacia wood. It was one arm-length long, one arm-length wide, square, and two arm-lengths high. Its horns were one piece with it.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
+- incense: Sweet-smelling smoke used in worship at the holy place
 
 ---
 
@@ -381,9 +321,6 @@ He covered the top, sides, and horns with pure gold, and he made a gold border a
 #### Ages 8-10
 He covered its top, sides, and horns with pure gold, and made a gold border around it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:27
@@ -394,9 +331,6 @@ He made two gold rings under the border on two opposite sides. These rings held 
 
 #### Ages 8-10
 He made two gold rings under the border on opposite sides to hold the poles for carrying it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -412,56 +346,47 @@ He made the poles from acacia wood and covered them with gold.
 #### Ages 8-10
 He made the poles of acacia wood and covered them with gold.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Exodus 37:29
 **Original Reference**: Exodus 37:29 - He made the holy anointing oil and the pure incense of sweet spices, after the art of the perfumer.
 
 #### Ages 5-7
-He also made the holy anointing oil and the pure, sweet-smelling incense, mixed like the work of a skilled perfume maker.
+He also made the holy special setting-apart oil and the pure, sweet-smelling incense, mixed like the work of a skilled perfume maker.
 
 #### Ages 8-10
-He made the holy anointing oil and the pure fragrant incense, blended like the work of a skilled perfumer.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+He made the holy anointing oil and the pure sweet-smelling incense, blended like the work of a skilled perfumer.
 
 **Key Vocabulary**:
-- holy: Set apart for God
+- incense: Sweet-smelling smoke used in worship at the holy place
 
 ---
 
 ## Chapter Summary
-Exodus 37 is a draft resource chapter. The chapter opens with "Bezalel made the ark from acacia wood. It was two and a half cubits long, one and a half cubits w...," moves through "He made the poles of acacia wood and covered them with gold for carrying the table.," and closes with "He made the holy anointing oil and the pure fragrant incense, blended like the work of a skilled...." Review this summary for fuller theological detail before approval.
+Bezalel makes the ark, atonement cover, table, lampstand, incense altar, oil, and incense for the holy tent.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God provides a way to dwell with his people**: The holy tent details show that worship and nearness to God happen by his command.
+2. **Willing gifts can serve holy work**: The people bring materials and skills for the tabernacle.
+3. **God's glory leads his people**: Exodus ends with the Lord filling the tabernacle and guiding Israel.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Bezalel made the ark from acacia wood. It was two and a half cubits long, one and a half cubits wide, and one and a half cubits high. - Exodus 37:1
+Bezalel made the ark from acacia wood. It was two and a half arm-lengths long, one and a half arm-lengths wide, and one and a half arm-lengths high. - Exodus 37:1
 
 ### Ages 8-10
-Bezalel made the ark from acacia wood. It was two and a half cubits long, one and a half cubits wide, and one and a half cubits high. - Exodus 37:1
+Bezalel made the ark from acacia wood. It was two and a half arm-lengths long, one and a half arm-lengths wide, and one and a half arm-lengths high. - Exodus 37:1
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord say, show, or do in this chapter?
+2. What picture did the chapter help you see?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter show rescue, covenant, worship, or God's presence?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Exodus 37 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Exodus 37 truthfully. Teach us to remember your rescue, honor your covenant words, and worship you with humble hearts. Amen.

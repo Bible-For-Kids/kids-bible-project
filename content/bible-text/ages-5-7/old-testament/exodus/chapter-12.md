@@ -57,7 +57,7 @@ For seven days you must eat bread made without yeast. On the first day, remove y
 On the first day you will gather for worship, and on the seventh day you will gather again. Do no work on those days, except preparing the food each person needs.
 
 ### Exodus 12:17
-Keep the Feast of Unleavened Bread, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
+Keep the Feast of Bread Made Without Yeast, because on this very day I brought your groups out of Egypt. Keep this day through all your families as a lasting rule.
 
 ### Exodus 12:18
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
@@ -72,7 +72,7 @@ Do not eat anything made with yeast. Wherever you live, eat bread made without y
 Then Moses called all the elders of Israel and said, "Go and choose lambs for your families, and kill the Passover lamb.
 
 ### Exodus 12:22
-Take a bunch of hyssop, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
+Take a bunch of leafy hyssop branch, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
 
 ### Exodus 12:23
 The Lord will pass through to strike Egypt. When he sees the blood on the top and sides of the doorframe, the Lord will pass over that door and will not let the destroyer enter your houses.

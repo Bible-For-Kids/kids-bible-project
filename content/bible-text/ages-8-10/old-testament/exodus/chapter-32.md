@@ -24,7 +24,7 @@ Aaron took the gold from them, shaped it with an engraving tool, and made it int
 When Aaron saw it, he built an altar in front of it. Aaron announced, "Tomorrow will be a feast to the Lord."
 
 ### Exodus 32:6
-The people rose early the next day, offered burnt offerings, and brought peace offerings. Then they sat down to eat and drink, and got up to celebrate.
+The people rose early the next day, offered burned offerings, and brought peace offerings. Then they sat down to eat and drink, and got up to celebrate.
 
 ### Exodus 32:7
 The Lord said to Moses, "Go down, because your people, whom you brought out of Egypt, have corrupted themselves."

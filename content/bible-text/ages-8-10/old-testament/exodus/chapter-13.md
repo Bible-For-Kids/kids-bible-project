@@ -15,7 +15,7 @@ The Lord spoke to Moses.
 He said, "Set apart for me every firstborn. Whatever is firstborn among the Israelites, both human and animal, belongs to me."
 
 ### Exodus 13:3
-Moses said to the people, "Remember this day when you came out of Egypt, out of the house of slavery. The Lord brought you out from this place by his strong hand, so no leavened bread may be eaten.
+Moses said to the people, "Remember this day when you came out of Egypt, out of the house of slavery. The Lord brought you out from this place by his strong hand, so no bread made with yeast may be eaten.
 
 ### Exodus 13:4
 You are leaving today, in the month of Abib.
@@ -24,10 +24,10 @@ You are leaving today, in the month of Abib.
 When the Lord brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites, the land he swore to your fathers to give you, a land flowing with milk and honey, you must keep this service in this month.
 
 ### Exodus 13:6
-For seven days you must eat unleavened bread, and on the seventh day there will be a feast to the Lord.
+For seven days you must eat bread made without yeast, and on the seventh day there will be a feast to the Lord.
 
 ### Exodus 13:7
-Unleavened bread must be eaten for seven days. No leavened bread and no yeast should be seen anywhere among you.
+Bread made without yeast must be eaten for seven days. No bread made with yeast and no yeast should be seen anywhere among you.
 
 ### Exodus 13:8
 On that day you must tell your child, 'This is because of what the Lord did for me when I came out of Egypt.'

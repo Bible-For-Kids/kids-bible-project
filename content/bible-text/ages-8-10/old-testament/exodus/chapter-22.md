@@ -12,19 +12,19 @@ Exodus
 "If a man steals an ox or a sheep and kills it or sells it, he must repay five oxen for an ox and four sheep for a sheep."
 
 ### Exodus 22:2
-"If a thief is found breaking in at night and is struck so that he dies, no bloodguilt is counted for him."
+"If a thief is found breaking in at night and is struck so that he dies, the person is not guilty of bloodshed."
 
 ### Exodus 22:3
-"But if the sun has risen on him, bloodguilt is counted. A thief must make full restitution. If he has nothing, he must be sold because of his theft."
+"But if the sun has risen on him, the person is guilty of bloodshed. A thief must pay back everything. If he has nothing, he must be sold because of his theft."
 
 ### Exodus 22:4
 "If the stolen animal is found alive with him, whether ox, donkey, or sheep, he must repay double."
 
 ### Exodus 22:5
-"If a man lets his livestock graze in a field or vineyard and it feeds in another man's field, he must make restitution from the best of his own field and vineyard."
+"If a man lets his livestock graze in a field or vineyard and it feeds in another man's field, he must pay back from the best of his own field and vineyard."
 
 ### Exodus 22:6
-"If fire breaks out and catches in thorns so that stacked grain, standing grain, or a field is burned, the one who started the fire must surely make restitution."
+"If fire breaks out and catches in thorns so that stacked grain, standing grain, or a field is burned, the one who started the fire must surely pay back what was lost."
 
 ### Exodus 22:7
 "If a man gives his neighbor money or goods to keep, and they are stolen from the neighbor's house, the thief, if found, must pay double."
@@ -42,13 +42,13 @@ Exodus
 "an oath before the Lord must be made between them. The neighbor must swear he did not take the owner's property, and the owner must accept it. The neighbor does not have to pay."
 
 ### Exodus 22:12
-"But if the animal was stolen from him, he must make restitution to its owner."
+"But if the animal was stolen from him, he must pay the owner back."
 
 ### Exodus 22:13
 "If it was torn by wild animals, he must bring it as evidence. He does not have to repay what was torn."
 
 ### Exodus 22:14
-"If a man borrows something from his neighbor, and it is injured or dies while the owner is not with it, he must surely make restitution."
+"If a man borrows something from his neighbor, and it is injured or dies while the owner is not with it, he must surely pay back what was lost."
 
 ### Exodus 22:15
 "If the owner is with it, he does not have to pay. If it was hired, the hiring payment covers it."
@@ -84,7 +84,7 @@ Exodus
 "If you lend money to any of my poor people near you, do not act as a moneylender toward him. Do not charge him interest."
 
 ### Exodus 22:26
-"If you take your neighbor's cloak as a pledge, return it to him before the sun goes down."
+"If you take your neighbor's cloak as a promise item, return it to him before the sun goes down."
 
 ### Exodus 22:27
 "That cloak may be his only covering for his body. What else will he sleep in? When he cries to me, I will hear, because I am gracious."
