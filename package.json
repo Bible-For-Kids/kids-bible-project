@@ -2,9 +2,11 @@
   "name": "kids-bible-project",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:pages": "next build",
     "start": "next start",
     "lint": "next lint",
     "validate:content": "node scripts/validate-content.js"

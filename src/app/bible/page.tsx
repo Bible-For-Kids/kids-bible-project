@@ -1,16 +1,8 @@
 import Link from 'next/link'
 import { BookOpen, ChevronRight, Library, Users } from 'lucide-react'
 import { getBibleCatalog } from '@/lib/bible-catalog'
-import type { AgeRange } from '@/lib/bible-catalog'
 
-interface BibleIndexPageProps {
-  searchParams?: {
-    age?: string
-  }
-}
-
-export default async function BibleIndexPage({ searchParams }: BibleIndexPageProps) {
-  const selectedAge: AgeRange = searchParams?.age === '8-10' ? '8-10' : '5-7'
+export default async function BibleIndexPage() {
   const catalog = await getBibleCatalog()
   const chapterCount = catalog.reduce((total, book) => total + book.chapters.length, 0)
 
@@ -28,29 +20,8 @@ export default async function BibleIndexPage({ searchParams }: BibleIndexPagePro
               <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">Children&apos;s Bible Version</p>
             </div>
 
-            <div className="flex w-full flex-col gap-2 sm:w-auto">
-              <div className="inline-flex rounded-lg border border-slate-200 bg-slate-100 p-1">
-                <Link
-                  href="/bible?age=5-7"
-                  className={`flex-1 rounded-md px-4 py-2 text-center text-sm font-semibold transition-colors ${
-                    selectedAge === '5-7'
-                      ? 'bg-white text-blue-700 shadow-sm'
-                      : 'text-slate-600 hover:text-slate-950'
-                  }`}
-                >
-                  Ages 5-7
-                </Link>
-                <Link
-                  href="/bible?age=8-10"
-                  className={`flex-1 rounded-md px-4 py-2 text-center text-sm font-semibold transition-colors ${
-                    selectedAge === '8-10'
-                      ? 'bg-white text-blue-700 shadow-sm'
-                      : 'text-slate-600 hover:text-slate-950'
-                  }`}
-                >
-                  Ages 8-10
-                </Link>
-              </div>
+            <div className="inline-flex rounded-lg border border-slate-200 bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700">
+              Ages 5-7 and 8-10
             </div>
           </div>
 
@@ -74,7 +45,7 @@ export default async function BibleIndexPage({ searchParams }: BibleIndexPagePro
                 <Users className="h-5 w-5 text-blue-700" />
                 <span className="text-sm font-semibold">Reading Level</span>
               </div>
-              <p className="mt-2 text-2xl font-bold text-slate-950">{selectedAge}</p>
+              <p className="mt-2 text-2xl font-bold text-slate-950">2 levels</p>
             </div>
           </div>
         </div>
@@ -93,7 +64,7 @@ export default async function BibleIndexPage({ searchParams }: BibleIndexPagePro
                     </p>
                   </div>
                   <Link
-                    href={`/bible/${book.slug}/${book.chapters[0]}?age=${selectedAge}`}
+                    href={`/bible/${book.slug}/${book.chapters[0]}`}
                     className="inline-flex items-center gap-2 text-sm font-semibold text-blue-700 hover:text-blue-900"
                   >
                     Start reading
@@ -105,7 +76,7 @@ export default async function BibleIndexPage({ searchParams }: BibleIndexPagePro
                   {book.chapters.map(chapter => (
                     <Link
                       key={`${book.slug}-${chapter}`}
-                      href={`/bible/${book.slug}/${chapter}?age=${selectedAge}`}
+                      href={`/bible/${book.slug}/${chapter}`}
                       className="flex aspect-square items-center justify-center rounded-md border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-800 transition-colors hover:border-blue-300 hover:bg-blue-50 hover:text-blue-800"
                     >
                       {chapter}
