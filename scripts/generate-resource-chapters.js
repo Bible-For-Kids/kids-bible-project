@@ -7,7 +7,7 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges'];
+const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth'];
 
 const BOOK_NAMES = {
   genesis: 'Genesis',
@@ -17,6 +17,7 @@ const BOOK_NAMES = {
   deuteronomy: 'Deuteronomy',
   joshua: 'Joshua',
   judges: 'Judges',
+  ruth: 'Ruth',
 };
 
 const BOOK_OVERVIEWS = {
@@ -34,6 +35,8 @@ const BOOK_OVERVIEWS = {
     'Joshua tells how the Lord brought Israel into the promised land, gave them victories, divided the land, and called them to serve him faithfully.',
   judges:
     'Judges shows Israel turning from the Lord again and again, and the Lord raising rescuers while exposing how badly his people needed faithful covenant leadership.',
+  ruth:
+    'Ruth tells how the Lord cared for Naomi and Ruth through loyal love, ordinary work, Boaz\'s kindness, and the family line that would lead to King David.',
 };
 
 const CHAPTER_SUMMARIES = {
@@ -79,6 +82,10 @@ const VOCABULARY = {
   Gideon: 'A judge the Lord used to rescue Israel from Midian',
   judge: 'A leader God raised up to rescue and guide Israel',
   Samson: 'A judge given great strength, whom God used against the Philistines',
+  Boaz: 'The man from Bethlehem who showed covenant kindness to Ruth and Naomi',
+  Naomi: 'Ruth\'s mother-in-law, who returned to Bethlehem after great loss',
+  redeemer: 'A close relative who could protect family land and raise up a family line',
+  Ruth: 'The Moabite woman who clung to Naomi and trusted the Lord',
   law: 'God\'s instruction for his people',
   Levites: 'The tribe set apart for service connected with worship',
   Lord: 'God\'s covenant name used in many English Bibles',
@@ -356,6 +363,9 @@ function getTranslationNote(bookSlug, chapterNumber, verseNumber) {
   }
   if (bookSlug === 'judges') {
     return 'Preserve the cycle of Israel\'s sin, suffering, crying out, and the Lord raising a rescuer. Keep violent or adult details truthful but restrained and child-readable.';
+  }
+  if (bookSlug === 'ruth') {
+    return 'Preserve Ruth\'s covenant loyalty, Naomi\'s sorrow, Boaz\'s righteous kindness, and the family-redeemer customs. Explain harvest and marriage customs in child-readable story language.';
   }
   return 'Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.';
 }
