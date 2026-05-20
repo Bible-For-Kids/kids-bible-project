@@ -1,6 +1,6 @@
 const path = require('path')
 
-const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth'])
+const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel'])
 
 const hardBlockedTerms = [
   {

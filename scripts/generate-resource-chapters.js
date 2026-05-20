@@ -7,7 +7,7 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth'];
+const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel'];
 
 const BOOK_NAMES = {
   genesis: 'Genesis',
@@ -18,6 +18,7 @@ const BOOK_NAMES = {
   joshua: 'Joshua',
   judges: 'Judges',
   ruth: 'Ruth',
+  '1-samuel': '1 Samuel',
 };
 
 const BOOK_OVERVIEWS = {
@@ -37,6 +38,8 @@ const BOOK_OVERVIEWS = {
     'Judges shows Israel turning from the Lord again and again, and the Lord raising rescuers while exposing how badly his people needed faithful covenant leadership.',
   ruth:
     'Ruth tells how the Lord cared for Naomi and Ruth through loyal love, ordinary work, Boaz\'s kindness, and the family line that would lead to King David.',
+  '1-samuel':
+    '1 Samuel tells how the Lord answered Hannah, called Samuel, judged corrupt leadership, gave Israel a king, rejected Saul for disobedience, and began raising up David.',
 };
 
 const CHAPTER_SUMMARIES = {
@@ -86,6 +89,13 @@ const VOCABULARY = {
   Naomi: 'Ruth\'s mother-in-law, who returned to Bethlehem after great loss',
   redeemer: 'A close relative who could protect family land and raise up a family line',
   Ruth: 'The Moabite woman who clung to Naomi and trusted the Lord',
+  David: 'The shepherd the Lord chose to become king after Saul',
+  Eli: 'The priest who served at Shiloh when Samuel was a child',
+  Hannah: 'Samuel\'s mother, who prayed to the Lord in deep sorrow',
+  Jonathan: 'Saul\'s son and David\'s faithful friend',
+  Samuel: 'The prophet and judge whom the Lord called as a boy',
+  Saul: 'Israel\'s first king, who later disobeyed the Lord',
+  Shiloh: 'The place where the tabernacle stood in Samuel\'s early days',
   law: 'God\'s instruction for his people',
   Levites: 'The tribe set apart for service connected with worship',
   Lord: 'God\'s covenant name used in many English Bibles',
@@ -366,6 +376,9 @@ function getTranslationNote(bookSlug, chapterNumber, verseNumber) {
   }
   if (bookSlug === 'ruth') {
     return 'Preserve Ruth\'s covenant loyalty, Naomi\'s sorrow, Boaz\'s righteous kindness, and the family-redeemer customs. Explain harvest and marriage customs in child-readable story language.';
+  }
+  if (bookSlug === '1-samuel') {
+    return 'Preserve the Lord\'s word through Samuel, the seriousness of covenant leadership, Saul\'s disobedience, David\'s calling, and the real danger in the story. Keep violence and adult details restrained and child-readable.';
   }
   return 'Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.';
 }

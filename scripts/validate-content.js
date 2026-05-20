@@ -149,6 +149,11 @@ const expectedVerseCounts = {
     25, 20, 20, 31, 13, 31, 30, 48, 25,
   ]),
   ...chapterCounts('old-testament/ruth', [22, 23, 18, 22]),
+  ...chapterCounts('old-testament/1-samuel', [
+    28, 36, 21, 22, 12, 21, 17, 22, 27, 27, 15, 25,
+    23, 52, 35, 23, 58, 30, 24, 42, 15, 23, 29, 22,
+    44, 25, 12, 25, 11, 31, 13,
+  ]),
 };
 
 const theologicalGuardrails = [

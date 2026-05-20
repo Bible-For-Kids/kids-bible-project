@@ -21,6 +21,8 @@
     "review:judges": "node scripts/review-judges-resources.js",
     "import:ruth": "node scripts/import-ruth.js",
     "review:ruth": "node scripts/review-ruth-resources.js",
+    "import:1-samuel": "node scripts/import-1-samuel.js",
+    "review:1-samuel": "node scripts/review-1-samuel-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {
