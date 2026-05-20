@@ -122,10 +122,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 24:7 - You shall put pure frankincense on each row, that it may be to the bread for a memorial, even an offering made by fire to Yahweh.
 
 #### Ages 5-7
-You must put pure frankincense on each row, that it may be to the bread for a memorial, even an offering burned on the altar to the Lord.
+You must put pure sweet-smelling incense on each row, that it may be to the bread as a reminder offering, even an offering burned on the altar to the Lord.
 
 #### Ages 8-10
-You must put pure frankincense on each row, that it may be to the bread for a memorial, even an offering burned on the altar to the Lord.
+You must put pure sweet-smelling incense on each row, that it may be to the bread as a reminder offering, even an offering burned on the altar to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -163,10 +163,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 24:9 - It shall be for Aaron and his sons. They shall eat it in a holy place; for it is most holy to him of the offerings of Yahweh made by fire by a perpetual statute."
 
 #### Ages 5-7
-It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings of the Lord made by fire by a lasting rule."
+It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings burned for the Lord by a lasting rule."
 
 #### Ages 8-10
-It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings of the Lord made by fire by a lasting rule."
+It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings burned for the Lord by a lasting rule."
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -272,10 +272,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 24:15 - You shall speak to the children of Israel, saying, 'Whoever curses his God shall bear his sin.
 
 #### Ages 5-7
-You must speak to the people of Israel, saying, 'Whoever curses his God must bear his guilt.
+You must speak to the people of Israel, saying, 'Whoever curses his God carries his guilt.
 
 #### Ages 8-10
-You must speak to the people of Israel, saying, 'Whoever curses his God must bear his guilt.
+You must speak to the people of Israel, saying, 'Whoever curses his God carries his guilt.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

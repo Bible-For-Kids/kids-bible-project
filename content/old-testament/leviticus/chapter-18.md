@@ -109,7 +109,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:6 - " 'None of you shall approach any close relatives, to uncover their nakedness: I am Yahweh.
 
 #### Ages 5-7
-"None of you must approach any close relatives, to have sexual relations with them: I am the Lord.
+"None of you must approach any close relatives, to act as only a husband and wife should with them: I am the Lord.
 
 #### Ages 8-10
 "None of you must approach any close relatives, to have sexual relations with them: I am the Lord.
@@ -127,7 +127,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:7 - " 'You shall not uncover the nakedness of your father, nor the nakedness of your mother: she is your mother. You shall not uncover her nakedness.
 
 #### Ages 5-7
-"You must not have sexual relations with your father, or with your mother: she is your mother. You must not have sexual relations with her.
+"You must not act as only a husband and wife should with your father, or with your mother: she is your mother. You must not act as only a husband and wife should with her.
 
 #### Ages 8-10
 "You must not have sexual relations with your father, or with your mother: she is your mother. You must not have sexual relations with her.
@@ -141,7 +141,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:8 - " 'You shall not uncover the nakedness of your father's wife. It is your father's nakedness.
 
 #### Ages 5-7
-"You must not have sexual relations with your father's wife. This would dishonor your father.
+"You must not act as only a husband and wife should with your father's wife. This would dishonor your father.
 
 #### Ages 8-10
 "You must not have sexual relations with your father's wife. This would dishonor your father.
@@ -155,7 +155,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:9 - " 'You shall not uncover the nakedness of your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad.
 
 #### Ages 5-7
-"You must not have sexual relations with your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad.
+"You must not act as only a husband and wife should with your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad.
 
 #### Ages 8-10
 "You must not have sexual relations with your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad.
@@ -169,7 +169,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:10 - " 'You shall not uncover the nakedness of your son's daughter, or of your daughter's daughter, even their nakedness; for theirs is your own nakedness.
 
 #### Ages 5-7
-"You must not have sexual relations with your son's daughter, or of your daughter's daughter, for they are your own close family.
+"You must not act as only a husband and wife should with your son's daughter, or of your daughter's daughter, for they are your own close family.
 
 #### Ages 8-10
 "You must not have sexual relations with your son's daughter, or of your daughter's daughter, for they are your own close family.
@@ -183,7 +183,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:11 - " 'You shall not uncover the nakedness of your father's wife's daughter, conceived by your father, since she is your sister.
 
 #### Ages 5-7
-"You must not have sexual relations with your father's wife's daughter, conceived by your father, since she is your sister.
+"You must not act as only a husband and wife should with your father's wife's daughter, conceived by your father, since she is your sister.
 
 #### Ages 8-10
 "You must not have sexual relations with your father's wife's daughter, conceived by your father, since she is your sister.
@@ -197,7 +197,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:12 - " 'You shall not uncover the nakedness of your father's sister. She is your father's near kinswoman.
 
 #### Ages 5-7
-"You must not have sexual relations with your father's sister. She is your father's close female relative.
+"You must not act as only a husband and wife should with your father's sister. She is your father's close female relative.
 
 #### Ages 8-10
 "You must not have sexual relations with your father's sister. She is your father's close female relative.
@@ -211,7 +211,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:13 - " 'You shall not uncover the nakedness of your mother's sister, for she is your mother's near kinswoman.
 
 #### Ages 5-7
-"You must not have sexual relations with your mother's sister, for she is your mother's close female relative.
+"You must not act as only a husband and wife should with your mother's sister, for she is your mother's close female relative.
 
 #### Ages 8-10
 "You must not have sexual relations with your mother's sister, for she is your mother's close female relative.
@@ -225,7 +225,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:14 - " 'You shall not uncover the nakedness of your father's brother. You shall not approach his wife. She is your aunt.
 
 #### Ages 5-7
-"You must not have sexual relations with your father's brother. You must not approach his wife. She is your aunt.
+"You must not act as only a husband and wife should with your father's brother. You must not approach his wife. She is your aunt.
 
 #### Ages 8-10
 "You must not have sexual relations with your father's brother. You must not approach his wife. She is your aunt.
@@ -239,7 +239,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:15 - " 'You shall not uncover the nakedness of your daughter-in-law. She is your son's wife. You shall not uncover her nakedness.
 
 #### Ages 5-7
-"You must not have sexual relations with your daughter-in-law. She is your son's wife. You must not have sexual relations with her.
+"You must not act as only a husband and wife should with your daughter-in-law. She is your son's wife. You must not act as only a husband and wife should with her.
 
 #### Ages 8-10
 "You must not have sexual relations with your daughter-in-law. She is your son's wife. You must not have sexual relations with her.
@@ -256,7 +256,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:16 - " 'You shall not uncover the nakedness of your brother's wife. It is your brother's nakedness.
 
 #### Ages 5-7
-"You must not have sexual relations with your brother's wife. This would dishonor your brother.
+"You must not act as only a husband and wife should with your brother's wife. This would dishonor your brother.
 
 #### Ages 8-10
 "You must not have sexual relations with your brother's wife. This would dishonor your brother.
@@ -270,7 +270,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:17 - " 'You shall not uncover the nakedness of a woman and her daughter. You shall not take her son's daughter, or her daughter's daughter, to uncover her nakedness. They are near kinswomen. It is wickedness.
 
 #### Ages 5-7
-"You must not have sexual relations with a woman and her daughter. You must not take her son's daughter, or her daughter's daughter, to have sexual relations with her. They are close female relatives. It is wickedness.
+"You must not act as only a husband and wife should with a woman and her daughter. You must not take her son's daughter, or her daughter's daughter, to act as only a husband and wife should with her. They are close female relatives. It is wickedness.
 
 #### Ages 8-10
 "You must not have sexual relations with a woman and her daughter. You must not take her son's daughter, or her daughter's daughter, to have sexual relations with her. They are close female relatives. It is wickedness.
@@ -284,7 +284,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:18 - " 'You shall not take a wife in addition to her sister, to be a rival, to uncover her nakedness, while her sister is still alive.
 
 #### Ages 5-7
-"You must not take a wife in addition to her sister, to be a rival, to have sexual relations with her, while her sister is still alive.
+"You must not take a wife in addition to her sister, to be a rival, to act as only a husband and wife should with her, while her sister is still alive.
 
 #### Ages 8-10
 "You must not take a wife in addition to her sister, to be a rival, to have sexual relations with her, while her sister is still alive.
@@ -298,10 +298,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:19 - " 'You shall not approach a woman to uncover her nakedness, as long as she is impure by her uncleanness.
 
 #### Ages 5-7
-"You must not approach a woman to have sexual relations with her, as long as she is impure by her being unclean.
+"You must not come near a woman to act as only a husband and wife should while she is not clean because of her monthly bleeding.
 
 #### Ages 8-10
-"You must not approach a woman to have sexual relations with her, as long as she is impure by her being unclean.
+"You must not come near a woman to have sexual relations with her while she is unclean because of her monthly period.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -312,10 +312,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:20 - " 'You shall not lie carnally with your neighbor's wife, and defile yourself with her.
 
 #### Ages 5-7
-"You must not have sexual relations with your neighbor's wife, and make yourself unclean with her.
+"You must not act as only a husband and wife should with your neighbor's wife, because that would make you not clean for worship with her.
 
 #### Ages 8-10
-"You must not have sexual relations with your neighbor's wife, and make yourself unclean with her.
+"You must not have sexual relations with your neighbor's wife, because that would make you unclean with her.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -346,7 +346,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:22 - " 'You shall not lie with a man as with a woman. That is detestable.
 
 #### Ages 5-7
-"You must not have sexual relations with a man as with a woman. That is detestable.
+"You must not act as only a husband and wife should with a man as with a woman. That is detestable.
 
 #### Ages 8-10
 "You must not have sexual relations with a man as with a woman. That is detestable.
@@ -360,10 +360,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:23 - " 'You shall not lie with any animal to defile yourself with it. No woman may give herself to an animal, to lie down with it: it is a perversion.
 
 #### Ages 5-7
-"You must not have sexual relations with any animal to make yourself unclean with it. No woman may give herself to an animal, to lie down with it: it is a perversion.
+"You must not act as only a husband and wife should with any animal, because that would make you not clean for worship. No woman may go to an animal to act in that way. It is a perversion.
 
 #### Ages 8-10
-"You must not have sexual relations with any animal to make yourself unclean with it. No woman may give herself to an animal, to lie down with it: it is a perversion.
+"You must not have sexual relations with any animal, because that would make you unclean. No woman may go to an animal to have sexual relations with it. It is a perversion.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -374,10 +374,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:24 - " 'Don't defile yourselves in any of these things; for in all these the nations which I am casting out before you were defiled.
 
 #### Ages 5-7
-"Don't make yourselves unclean in any of these things; for in all these the nations which I am casting out before you were made unclean.
+"Do not do any of these things, because they make people not clean for worship. The nations I am driving out before you did these things and became not clean for worship.
 
 #### Ages 8-10
-"Don't make yourselves unclean in any of these things; for in all these the nations which I am casting out before you were made unclean.
+"Do not make yourselves unclean in any of these things. The nations I am driving out before you did these things and became unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -388,10 +388,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:25 - The land was defiled. Therefore I punished its iniquity, and the land vomited out her inhabitants.
 
 #### Ages 5-7
-The land was made unclean. Therefore I punished its sin, and the land vomited out its people.
+Even the land became not clean because of their sin. So I punished its sin, and the land vomited out its people.
 
 #### Ages 8-10
-The land was made unclean. Therefore I punished its sin, and the land vomited out its people.
+Even the land became unclean because of their sin. So I punished its sin, and the land vomited out its people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -419,10 +419,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:27 - (for the men of the land that were before you had done all these abominations, and the land became defiled),
 
 #### Ages 5-7
-(for the men of the land that were before you had done all these detestable things, and the land became unclean),
+The people who lived in the land before you did all these detestable things, and the land became not clean.
 
 #### Ages 8-10
-(for the men of the land that were before you had done all these detestable things, and the land became unclean),
+The people who lived in the land before you did all these detestable things, and the land became unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -433,10 +433,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:28 - that the land not vomit you out also, when you defile it, as it vomited out the nation that was before you.
 
 #### Ages 5-7
-that the land not vomit you out also, when you make it unclean, as it vomited out the nation that was before you.
+If you make the land not clean, it may vomit you out too, just as it vomited out the nation before you.
 
 #### Ages 8-10
-that the land not vomit you out also, when you make it unclean, as it vomited out the nation that was before you.
+If you make the land unclean, it may vomit you out too, just as it vomited out the nation before you.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -461,10 +461,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:30 - Therefore you shall keep my requirements, that you do not practice any of these abominable customs which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.' "
 
 #### Ages 5-7
-Therefore you must keep my requirements, that you do not practice any of these detestable customs which were practiced before you, and that you do not make yourselves unclean with them. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not let them make you not clean for worship. I am the Lord your God.' "
 
 #### Ages 8-10
-Therefore you must keep my requirements, that you do not practice any of these detestable customs which were practiced before you, and that you do not make yourselves unclean with them. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

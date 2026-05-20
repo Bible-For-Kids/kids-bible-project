@@ -67,7 +67,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:4 - " 'Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn't have a parted hoof, is unclean to you.
 
 #### Ages 5-7
-"But among those animals, you must not eat these, even if they chew the cud or have a split hoof: the camel, because it chews the cud but doesn't have a divided hoof, is unclean to you.
+"But among those animals, you must not eat these, even if they chew the cud or have a split hoof: the camel, because it chews the cud but doesn't have a divided hoof, is not clean for worship for you.
 
 #### Ages 8-10
 "But among those animals, you must not eat these, even if they chew the cud or have a split hoof: the camel, because it chews the cud but doesn't have a divided hoof, is unclean to you.
@@ -81,7 +81,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:5 - The hyrax, because it chews the cud but doesn't have a parted hoof, is unclean to you.
 
 #### Ages 5-7
-The hyrax, because it chews the cud but doesn't have a divided hoof, is unclean to you.
+The hyrax, because it chews the cud but doesn't have a divided hoof, is not clean for worship for you.
 
 #### Ages 8-10
 The hyrax, because it chews the cud but doesn't have a divided hoof, is unclean to you.
@@ -95,7 +95,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:6 - The hare, because it chews the cud but doesn't have a parted hoof, is unclean to you.
 
 #### Ages 5-7
-The hare, because it chews the cud but doesn't have a divided hoof, is unclean to you.
+The hare, because it chews the cud but doesn't have a divided hoof, is not clean for worship for you.
 
 #### Ages 8-10
 The hare, because it chews the cud but doesn't have a divided hoof, is unclean to you.
@@ -109,7 +109,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:7 - The pig, because it has a split hoof, and is cloven-footed, but doesn't chew the cud, is unclean to you.
 
 #### Ages 5-7
-The pig, because it has a split hoof divided in two, but doesn't chew the cud, is unclean to you.
+The pig, because it has a split hoof divided in two, but doesn't chew the cud, is not clean for worship for you.
 
 #### Ages 8-10
 The pig, because it has a split hoof divided in two, but doesn't chew the cud, is unclean to you.
@@ -123,7 +123,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:8 - You shall not eat their meat. You shall not touch their carcasses. They are unclean to you.
 
 #### Ages 5-7
-You must not eat their meat. You must not touch their dead bodies. They are unclean to you.
+You must not eat their meat. You must not touch their dead bodies. They are not clean for worship for you.
 
 #### Ages 8-10
 You must not eat their meat. You must not touch their dead bodies. They are unclean to you.
@@ -350,7 +350,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:24 - " 'By these you will become unclean: whoever touches their carcass shall be unclean until the evening.
 
 #### Ages 5-7
-"By these you will become unclean: whoever touches their dead body will be unclean until the evening.
+"By these you will not be clean for worship: whoever touches their dead body will not be clean for worship until the evening.
 
 #### Ages 8-10
 "By these you will become unclean: whoever touches their dead body will be unclean until the evening.
@@ -364,7 +364,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:25 - Whoever carries any part of their carcass shall wash his clothes, and be unclean until the evening.
 
 #### Ages 5-7
-Whoever carries any part of their dead body must wash his clothes, and be unclean until the evening.
+Whoever carries any part of their dead body must wash his clothes, and not be clean for worship until the evening.
 
 #### Ages 8-10
 Whoever carries any part of their dead body must wash his clothes, and be unclean until the evening.
@@ -378,7 +378,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:26 - " 'Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is unclean to you. Everyone who touches them shall be unclean.
 
 #### Ages 5-7
-"Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is unclean to you. Everyone who touches them will be unclean.
+"Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is not clean for worship for you. Everyone who touches them will not be clean for worship.
 
 #### Ages 8-10
 "Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is unclean to you. Everyone who touches them will be unclean.
@@ -392,7 +392,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:27 - Whatever goes on its paws, among all animals that go on all fours, they are unclean to you. Whoever touches their carcass shall be unclean until the evening.
 
 #### Ages 5-7
-Whatever goes on its paws, among all animals that walk on four legs, they are unclean to you. Whoever touches their dead body will be unclean until the evening.
+Whatever goes on its paws, among all animals that walk on four legs, they are not clean for worship for you. Whoever touches their dead body will not be clean for worship until the evening.
 
 #### Ages 8-10
 Whatever goes on its paws, among all animals that walk on four legs, they are unclean to you. Whoever touches their dead body will be unclean until the evening.
@@ -406,7 +406,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:28 - He who carries their carcass shall wash his clothes, and be unclean until the evening. They are unclean to you.
 
 #### Ages 5-7
-Whoever carries their dead body must wash his clothes, and be unclean until the evening. They are unclean to you.
+Whoever carries their dead body must wash his clothes, and not be clean for worship until the evening. They are not clean for worship for you.
 
 #### Ages 8-10
 Whoever carries their dead body must wash his clothes, and be unclean until the evening. They are unclean to you.
@@ -420,7 +420,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:29 - " 'These are they which are unclean to you among the creeping things that creep on the earth: the weasel, the rat, any kind of great lizard,
 
 #### Ages 5-7
-"These are the ones that are unclean to you among the small crawling things that crawl on the earth: the weasel, the rat, any kind of great lizard,
+"These are the ones that are not clean for worship for you among the small crawling things that crawl on the earth: the weasel, the rat, any kind of great lizard,
 
 #### Ages 8-10
 "These are the ones that are unclean to you among the small crawling things that crawl on the earth: the weasel, the rat, any kind of great lizard,
@@ -448,7 +448,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:31 - These are they which are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until the evening.
 
 #### Ages 5-7
-These are the ones that are unclean to you among all that crawl. Whoever touches them when they are dead will be unclean until the evening.
+These are the ones that are not clean for worship for you among all that crawl. Whoever touches them when they are dead will not be clean for worship until the evening.
 
 #### Ages 8-10
 These are the ones that are unclean to you among all that crawl. Whoever touches them when they are dead will be unclean until the evening.
@@ -462,7 +462,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:32 - Anything they fall on when they are dead shall be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.
 
 #### Ages 5-7
-Anything they fall on when they are dead will be unclean; whether it is any container of wood, or clothing, or skin, or sack, whatever container it is, with which any work is done, it must be put into water, and it will be unclean until the evening. Then it will be clean.
+Anything they fall on when they are dead will not be clean for worship; whether it is any container of wood, or clothing, or skin, or sack, whatever container it is, with which any work is done, it must be put into water, and it will not be clean for worship until the evening. Then it will be clean for worship.
 
 #### Ages 8-10
 Anything they fall on when they are dead will be unclean; whether it is any container of wood, or clothing, or skin, or sack, whatever container it is, with which any work is done, it must be put into water, and it will be unclean until the evening. Then it will be clean.
@@ -476,7 +476,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:33 - Every earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it.
 
 #### Ages 5-7
-Every clay bowl into which any of them falls and all that is in it will be unclean. You must break it.
+Every clay bowl into which any of them falls and all that is in it will not be clean for worship. You must break it.
 
 #### Ages 8-10
 Every clay bowl into which any of them falls and all that is in it will be unclean. You must break it.
@@ -490,7 +490,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:34 - All food which may be eaten which is soaked in water shall be unclean. All drink that may be drunk in every such vessel shall be unclean.
 
 #### Ages 5-7
-Any food that could be eaten, if it is soaked in water, will be unclean. All drink that may be drunk in every such container will be unclean.
+Any food that could be eaten, if it is soaked in water, will not be clean for worship. All drink that may be drunk in every such container will not be clean for worship.
 
 #### Ages 8-10
 Any food that could be eaten, if it is soaked in water, will be unclean. All drink that may be drunk in every such container will be unclean.
@@ -504,7 +504,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:35 - Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces. They are unclean, and shall be unclean to you.
 
 #### Ages 5-7
-Everything that part of their dead body falls on will be unclean; whether oven, or range for pots, it must be broken in pieces. They are unclean, and will be unclean to you.
+Everything that part of their dead body falls on will not be clean for worship; whether oven, or range for pots, it must be broken in pieces. They are not clean for worship, and will not be clean for worship to you.
 
 #### Ages 8-10
 Everything that part of their dead body falls on will be unclean; whether oven, or range for pots, it must be broken in pieces. They are unclean, and will be unclean to you.
@@ -518,7 +518,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:36 - Nevertheless a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean.
 
 #### Ages 5-7
-Nevertheless a spring or a cistern in which water is gathered will be clean, but that which touches their dead body will be unclean.
+Nevertheless a spring or a cistern in which water is gathered will be clean for worship, but that which touches their dead body will not be clean for worship.
 
 #### Ages 8-10
 Nevertheless a spring or a cistern in which water is gathered will be clean, but that which touches their dead body will be unclean.
@@ -532,7 +532,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:37 - If part of their carcass falls on any sowing seed which is to be sown, it is clean.
 
 #### Ages 5-7
-If part of their dead body falls on seed meant to be planted, it is clean.
+If part of their dead body falls on seed meant to be planted, it is clean for worship.
 
 #### Ages 8-10
 If part of their dead body falls on seed meant to be planted, it is clean.
@@ -546,7 +546,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:38 - But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.
 
 #### Ages 5-7
-But if water has been put on the seed, and part of their dead body falls on it, it is unclean to you.
+But if water has been put on the seed, and part of their dead body falls on it, it is not clean for worship for you.
 
 #### Ages 8-10
 But if water has been put on the seed, and part of their dead body falls on it, it is unclean to you.
@@ -560,7 +560,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:39 - " 'If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening.
 
 #### Ages 5-7
-"If any animal of which you may eat dies, whoever touches its dead body will be unclean until the evening.
+"If any animal of which you may eat dies, whoever touches its dead body will not be clean for worship until the evening.
 
 #### Ages 8-10
 "If any animal of which you may eat dies, whoever touches its dead body will be unclean until the evening.
@@ -574,7 +574,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:40 - He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.
 
 #### Ages 5-7
-Whoever eats of its dead body must wash his clothes, and be unclean until the evening. Whoever also carries its dead body must wash his clothes, and be unclean until the evening.
+Whoever eats of its dead body must wash his clothes, and not be clean for worship until the evening. Whoever also carries its dead body must wash his clothes, and not be clean for worship until the evening.
 
 #### Ages 8-10
 Whoever eats of its dead body must wash his clothes, and be unclean until the evening. Whoever also carries its dead body must wash his clothes, and be unclean until the evening.
@@ -616,10 +616,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:43 - You shall not make yourselves abominable with any creeping thing that creeps. You shall not make yourselves unclean with them, that you should be defiled by them.
 
 #### Ages 5-7
-You must not make yourselves detestable with any small crawling thing that crawls. You must not make yourselves unclean with them, that you should be made unclean by them.
+You must not make yourselves detestable with any small crawling thing that crawls. Do not let those creatures make you not clean for worship.
 
 #### Ages 8-10
-You must not make yourselves detestable with any small crawling thing that crawls. You must not make yourselves unclean with them, that you should be made unclean by them.
+You must not make yourselves detestable with any small crawling thing that crawls. Do not make yourselves unclean with them.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -630,10 +630,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:44 - For I am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy. You shall not defile yourselves with any kind of creeping thing that moves on the earth.
 
 #### Ages 5-7
-For I am the Lord your God. Keep yourselves holy, and be holy; for I am holy. You must not make yourselves unclean with any kind of small crawling thing that moves on the earth.
+For I am the Lord your God. Keep yourselves holy, and be holy, because I am holy. Do not let any small crawling thing on the earth make you not clean for worship.
 
 #### Ages 8-10
-For I am the Lord your God. Keep yourselves holy, and be holy; for I am holy. You must not make yourselves unclean with any kind of small crawling thing that moves on the earth.
+For I am the Lord your God. Keep yourselves holy, and be holy, because I am holy. Do not make yourselves unclean with any small crawling thing on the earth.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -688,7 +688,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:47 - to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.' "
 
 #### Ages 5-7
-to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.' "
+to make a distinction between what is not clean for worship and what is clean for worship, and between the living thing that may be eaten and the living thing that may not be eaten.' "
 
 #### Ages 8-10
 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.' "

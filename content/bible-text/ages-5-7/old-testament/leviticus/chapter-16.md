@@ -42,10 +42,10 @@ But the goat on which the lot fell for the scapegoat must be presented alive bef
 "Aaron must present the bull of the offering for sin, which is for himself, and must make atonement for himself and for his house, and must kill the bull of the offering for sin which is for himself.
 
 ### Leviticus 16:12
-He must take an incense pan full of coals of fire from off the altar before the Lord, and two handfuls of sweet-smelling incense beaten small, and bring it within the curtain.
+He must take an incense pan full of fiery coals from the altar before the Lord. He must also take two handfuls of finely crushed sweet-smelling incense and bring them inside the curtain.
 
 ### Leviticus 16:13
-He must put the sweet-smelling incense on the fire before the Lord, that the cloud of the sweet-smelling incense may cover the atonement cover that is on the covenant, so that he will not die.
+He must put the sweet-smelling incense on the fire before the Lord. The cloud of incense must cover the atonement cover over the covenant chest, so that he will not die.
 
 ### Leviticus 16:14
 He must take some of the blood of the bull, and sprinkle it with his finger on the atonement cover on the east; and before the atonement cover he must sprinkle some of the blood with his finger seven times.
@@ -54,7 +54,7 @@ He must take some of the blood of the bull, and sprinkle it with his finger on t
 "Then he must kill the goat of the offering for sin that is for the people, and bring his blood within the curtain, and do with his blood as he did with the blood of the bull, and sprinkle it on the atonement cover and before the atonement cover.
 
 ### Leviticus 16:16
-He must make atonement for the Holy Place, because the people of Israel were unclean, and because of their wrongs, even all their sins; and so he must do for the Tent of Meeting that lives with them in the middle of their being unclean.
+He must make atonement for the Holy Place because the people of Israel were not clean for worship, and because of all their wrongs and sins. He must do the same for the Tent of Meeting, which stands among them.
 
 ### Leviticus 16:17
 No one must be in the Tent of Meeting when he enters to make atonement in the Holy Place, until he comes out, and has made atonement for himself and for his household, and for all the people of Israel.
@@ -63,7 +63,7 @@ No one must be in the Tent of Meeting when he enters to make atonement in the Ho
 "He must go out to the altar that is before the Lord and make atonement for it, and must take some of the bull's blood, and some of the goat's blood, and put it around on the horns of the altar.
 
 ### Leviticus 16:19
-He must sprinkle some of the blood on it with his finger seven times, and make it clean, and make it holy from the people's being unclean.
+He must sprinkle some of the blood on the altar with his finger seven times. In this way he must make it clean and holy from what was not clean for worship among the people.
 
 ### Leviticus 16:20
 "When he has finished atoning for the Holy Place, the Tent of Meeting, and the altar, he must present the live goat.
@@ -96,7 +96,7 @@ Whoever burns them must wash his clothes, and bathe his body in water, and after
 "It must be a rule to you forever: in the seventh month, on the tenth day of the month, you must humble yourselves, and must do no kind of work, whether native-born or a foreigner who lives among you;
 
 ### Leviticus 16:30
-for on this day must atonement be made for you, to cleanse you. You will be clean from all your sins before the Lord.
+for on this day must atonement be made for you, to cleanse you. You will be clean for worship from all your sins before the Lord.
 
 ### Leviticus 16:31
 It is a Sabbath of solemn rest to you, and you must humble yourselves. It is a lasting rule.

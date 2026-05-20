@@ -12,6 +12,7 @@
     "generate:resources": "node scripts/generate-resource-chapters.js",
     "review:genesis": "node scripts/review-genesis-resources.js",
     "review:exodus": "node scripts/review-exodus-resources.js",
+    "review:leviticus": "node scripts/review-leviticus-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {

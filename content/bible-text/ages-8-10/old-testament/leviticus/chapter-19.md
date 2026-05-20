@@ -30,7 +30,7 @@ It must be eaten the same day you offer it, and on the next day. If anything rem
 If it is eaten at all on the third day, it is a detestable thing. It will not be accepted;
 
 ### Leviticus 19:8
-but everyone who eats it must bear his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
+but everyone who eats it carries his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
 
 ### Leviticus 19:9
 "When you reap the harvest of your land, you must not wholly reap the corners of your field, neither must you gather the gleanings of your harvest.
@@ -99,7 +99,7 @@ In the fifth year you must eat its fruit, that it may yield its increase to you.
 "You must keep my Sabbaths, and reverence my holy place; I am the Lord.
 
 ### Leviticus 19:31
-"Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be made unclean by them. I am the Lord your God.
+"Do not turn to mediums or wizards. Do not seek them out, to be made unclean by them. I am the Lord your God.
 
 ### Leviticus 19:32
 "You must rise up before the gray head and honor the face of the elderly; and you must fear your God. I am the Lord.

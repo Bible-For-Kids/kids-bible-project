@@ -9,73 +9,73 @@ Leviticus
 ## Verses
 
 ### Leviticus 21:1
-The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must not make himself unclean for the dead among his people,
+The Lord said to Moses, "Speak to the priests, Aaron's sons, and say to them, 'A priest must not make himself unclean by touching a dead person among his people,
 
 ### Leviticus 21:2
 except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,
 
 ### Leviticus 21:3
-and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean.
+or for his unmarried sister who is close to him and has never had a husband. For her, he may make himself unclean.
 
 ### Leviticus 21:4
-He must not make himself unclean, being a chief man among his people, to dishonor himself.
+As a leader among his people, he must not make himself unclean in a way that dishonors himself.
 
 ### Leviticus 21:5
 "They must not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.
 
 ### Leviticus 21:6
-They will be holy to their God, and not dishonor the name of their God, for they offer the offerings of the Lord made by fire, the bread of their God. Therefore they will be holy.
+They must be holy to their God and must not dishonor God's name. They bring the Lord's offerings burned on the altar, the food offerings of their God, so they must be holy.
 
 ### Leviticus 21:7
 "They must not marry a woman who is living in sexual sin or has been dishonored. A priest must not marry a woman divorced from her husband; for he is holy to his God.
 
 ### Leviticus 21:8
-Therefore you must make him holy, for he offers the bread of your God. He will be holy to you, for I the Lord, who make holy you, am holy.
+You must treat the priest as holy, because he offers the food of your God. He must be holy to you, because I, the Lord who makes you holy, am holy.
 
 ### Leviticus 21:9
-"The daughter of any priest, if she profanes herself through sexual sin, she profanes her father. She must be burned with fire.
+"If a priest's daughter dishonors herself through sexual sin, she dishonors her father. She must be burned with fire.
 
 ### Leviticus 21:10
 "Whoever is the high priest among his brothers, upon whose head the anointing oil is poured, and who is set apart to put on the garments, must not let the hair of his head hang loose, or tear his clothes.
 
 ### Leviticus 21:11
-He must not go in to any dead body, or make himself unclean for his father or for his mother.
+He must not go near any dead body or make himself unclean, not even for his father or mother.
 
 ### Leviticus 21:12
-He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+He must not leave the holy place or dishonor the holy place of his God, because the special anointing oil of his God is on him. I am the Lord.
 
 ### Leviticus 21:13
-"He must take a wife in her virginity.
+"He must marry a virgin from his own people.
 
 ### Leviticus 21:14
-He must not marry a widow, or one divorced, or a woman who has been made unclean, or a woman living in sexual sin. He must take a virgin of his own people as a wife.
+He must not marry a widow, a divorced woman, a woman who has been dishonored, or a woman living in sexual sin. He must marry a virgin from his own people.
 
 ### Leviticus 21:15
-He must not dishonor his children among his people, for I am the Lord who makes holy him.' "
+He must not dishonor his children among his people, because I am the Lord who makes him holy.' "
 
 ### Leviticus 21:16
 The Lord spoke to Moses, saying,
 
 ### Leviticus 21:17
-"Say to Aaron, 'None of your children for all their generations who has a blemish may approach to offer the bread of his God.
+"Say to Aaron, 'In every generation, none of your descendants who has a serious physical condition may come near to offer the food of his God.
 
 ### Leviticus 21:18
-For whatever man he is that has a blemish, he must not draw near: a blind man, or a lame, or whoever has a flat nose, or any deformity,
+A man with a serious physical condition must not come near: a blind man, a lame man, a man with a face shaped differently, or a man with another body difference,
 
 ### Leviticus 21:19
 or a man who has an injured foot, or an injured hand,
 
 ### Leviticus 21:20
-or hunchbacked, or a dwarf, or one who has a blemish in his eye, or an itching disease, or scabs, or who has damaged testicles.
+or a man with a bent back, a very short body, an eye problem, an itching disease, scabs, or damaged male body parts.
 
 ### Leviticus 21:21
-No man of the children of Aaron the priest who has a blemish must come near to offer the offerings of the Lord made by fire. Since he has a blemish, he must not come near to offer the bread of his God.
+No descendant of Aaron the priest who has a serious physical condition may come near to offer the Lord's offerings burned on the altar. Since he has that condition, he must not come near to offer the food of his God.
 
 ### Leviticus 21:22
-He must eat the bread of his God, both of the most holy, and of the holy.
+He may still eat the food of his God, both the most holy food and the holy food.
 
 ### Leviticus 21:23
-He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+But he must not come near the curtain or the altar, because of his physical condition, so that he does not dishonor my holy places. I am the Lord who makes them holy.' "
 
 ### Leviticus 21:24
 So Moses spoke to Aaron, and to his sons, and to all the people of Israel.

@@ -72,7 +72,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 17:4 - and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to Yahweh before Yahweh's tabernacle: blood shall be imputed to that man. He has shed blood. That man shall be cut off from among his people.
 
 #### Ages 5-7
-and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's tabernacle: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
+and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's holy tent: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
 
 #### Ages 8-10
 and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's tabernacle: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
@@ -274,7 +274,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 17:15 - " 'Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, shall wash his clothes, and bathe himself in water, and be unclean until the evening. Then he shall be clean.
 
 #### Ages 5-7
-"Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and be unclean until the evening. Then he will be clean.
+"Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and not be clean for worship until the evening. Then he will be clean for worship.
 
 #### Ages 8-10
 "Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and be unclean until the evening. Then he will be clean.
@@ -288,10 +288,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 17:16 - But if he doesn't wash them, or bathe his flesh, then he shall bear his iniquity.' "
 
 #### Ages 5-7
-But if he doesn't wash them, or bathe his body, then he must bear his guilt.' "
+But if he doesn't wash them, or bathe his body, then he carries his guilt.' "
 
 #### Ages 8-10
-But if he doesn't wash them, or bathe his body, then he must bear his guilt.' "
+But if he doesn't wash them, or bathe his body, then he carries his guilt.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

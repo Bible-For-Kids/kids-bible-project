@@ -16,10 +16,10 @@ Leviticus gives Israel worship laws, holiness laws, and priestly instructions fo
 **Original Reference**: Leviticus 2:1 - " 'When anyone offers an offering of a meal offering to Yahweh, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it.
 
 #### Ages 5-7
-"When anyone brings a grain gift to the Lord, his offering must be of fine flour. He must pour oil on it, and put frankincense on it.
+"When someone brings a grain gift to the Lord, the gift must be fine flour. He must pour oil on it and put sweet-smelling incense on it.
 
 #### Ages 8-10
-"When anyone brings a grain offering to the Lord, his offering must be of fine flour. He must pour oil on it, and put frankincense on it.
+"When someone brings a grain offering to the Lord, the offering must be fine flour. He must pour oil on it and put sweet-smelling incense on it.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -35,10 +35,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:2 - He shall bring it to Aaron's sons, the priests. He shall take his handful of its fine flour, and of its oil, with all its frankincense, and the priest shall burn its memorial on the altar, an offering made by fire, of a pleasant aroma to Yahweh.
 
 #### Ages 5-7
-He must bring it to Aaron's sons, the priests. He must take his handful of its fine flour, and of its oil, with all its frankincense, and the priest must burn its memorial on the altar, an offering burned on the altar, of a pleasing smell to the Lord.
+He must bring it to Aaron's sons, the priests. The priest must take a handful of the flour and oil, with all the sweet-smelling incense, and burn that part on the altar. It is an offering burned on the altar, a pleasing smell to the Lord.
 
 #### Ages 8-10
-He must bring it to Aaron's sons, the priests. He must take his handful of its fine flour, and of its oil, with all its frankincense, and the priest must burn its memorial on the altar, an offering burned on the altar, of a pleasant aroma to the Lord.
+He must bring it to Aaron's sons, the priests. The priest must take a handful of the flour and oil, with all the sweet-smelling incense, and burn that part on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -56,10 +56,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:3 - That which is left of the meal offering shall be Aaron's and his sons'. It is a most holy part of the offerings of Yahweh made by fire.
 
 #### Ages 5-7
-That which is left of the grain gift must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire.
+The rest of the grain gift belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
 
 #### Ages 8-10
-That which is left of the grain offering must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire.
+The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -77,10 +77,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:4 - " 'When you offer an offering of a meal offering baked in the oven, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil.
 
 #### Ages 5-7
-"When you offer a grain gift baked in the oven, it must be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil.
+"If you bring a grain gift baked in an oven, it must be made of fine flour mixed with oil and no yeast. It may be flat cakes or thin wafers spread with oil.
 
 #### Ages 8-10
-"When you offer a grain offering baked in the oven, it must be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil.
+"If you bring a grain offering baked in an oven, it must be made of fine flour mixed with oil and no yeast. It may be flat cakes or thin wafers spread with oil.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -94,10 +94,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:5 - If your offering is a meal offering made on a griddle, it shall be of unleavened fine flour, mixed with oil.
 
 #### Ages 5-7
-If your offering is a grain gift made on a griddle, it must be of unleavened fine flour, mixed with oil.
+If your grain gift is cooked on a griddle, it must be made of fine flour mixed with oil and no yeast.
 
 #### Ages 8-10
-If your offering is a grain offering made on a griddle, it must be of unleavened fine flour, mixed with oil.
+If your grain offering is cooked on a griddle, it must be made of fine flour mixed with oil and no yeast.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -111,10 +111,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:6 - You shall cut it in pieces, and pour oil on it. It is a meal offering.
 
 #### Ages 5-7
-You must cut it in pieces, and pour oil on it. It is a grain gift.
+You must break it into pieces and pour oil on it. It is a grain gift.
 
 #### Ages 8-10
-You must cut it in pieces, and pour oil on it. It is a grain offering.
+You must break it into pieces and pour oil on it. It is a grain offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -128,10 +128,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:7 - If your offering is a meal offering of the pan, it shall be made of fine flour with oil.
 
 #### Ages 5-7
-If your offering is a grain gift of the pan, it must be made of fine flour with oil.
+If your grain gift is cooked in a pan, it must be made of fine flour with oil.
 
 #### Ages 8-10
-If your offering is a grain offering of the pan, it must be made of fine flour with oil.
+If your grain offering is cooked in a pan, it must be made of fine flour with oil.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -145,10 +145,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:8 - You shall bring the meal offering that is made of these things to Yahweh. It shall be presented to the priest, and he shall bring it to the altar.
 
 #### Ages 5-7
-You must bring the grain gift that is made of these things to the Lord. It must be presented to the priest, and he must bring it to the altar.
+You must bring the grain gift made from these things to the Lord. It must be given to the priest, and he must bring it to the altar.
 
 #### Ages 8-10
-You must bring the grain offering that is made of these things to the Lord. It must be presented to the priest, and he must bring it to the altar.
+You must bring the grain offering made from these things to the Lord. It must be given to the priest, and he must bring it to the altar.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -166,10 +166,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:9 - The priest shall take from the meal offering its memorial, and shall burn it on the altar, an offering made by fire, of a pleasant aroma to Yahweh.
 
 #### Ages 5-7
-The priest must take from the grain gift its memorial, and must burn it on the altar, an offering burned on the altar, of a pleasing smell to the Lord.
+The priest must take from the grain gift the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing smell to the Lord.
 
 #### Ages 8-10
-The priest must take from the grain offering its memorial, and must burn it on the altar, an offering burned on the altar, of a pleasant aroma to the Lord.
+The priest must take from the grain offering the memorial portion and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -187,10 +187,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:10 - That which is left of the meal offering shall be Aaron's and his sons'. It is a most holy part of the offerings of Yahweh made by fire.
 
 #### Ages 5-7
-That which is left of the grain gift must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire.
+The rest of the grain gift belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
 
 #### Ages 8-10
-That which is left of the grain offering must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire.
+The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -208,10 +208,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:11 - " 'No meal offering which you shall offer to Yahweh shall be made with yeast; for you shall burn no yeast, nor any honey, as an offering made by fire to Yahweh.
 
 #### Ages 5-7
-"No grain gift which you must offer to the Lord must be made with yeast; for you must burn no yeast, nor any honey, as an offering burned on the altar to the Lord.
+"No grain gift you bring to the Lord may be made with yeast. You must not burn any yeast or honey as an offering burned on the altar to the Lord.
 
 #### Ages 8-10
-"No grain offering which you must offer to the Lord must be made with yeast; for you must burn no yeast, nor any honey, as an offering burned on the altar to the Lord.
+"No grain offering you bring to the Lord may be made with yeast. You must not burn any yeast or honey as an offering burned on the altar to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -228,10 +228,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:12 - As an offering of first fruits you shall offer them to Yahweh, but they shall not rise up as a pleasant aroma on the altar.
 
 #### Ages 5-7
-As an offering of first fruits you must offer them to the Lord, but they must not rise up as a pleasing smell on the altar.
+You may bring yeast and honey to the Lord as a firstfruits gift, but they must not be burned on the altar as a pleasing smell.
 
 #### Ages 8-10
-As an offering of first fruits you must offer them to the Lord, but they must not rise up as a pleasant aroma on the altar.
+You may bring yeast and honey to the Lord as a firstfruits offering, but they must not be burned on the altar as a pleasing aroma.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -248,10 +248,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:13 - Every offering of your meal offering you shall season with salt. You shall not allow the salt of the covenant of your God to be lacking from your meal offering. With all your offerings you shall offer salt.
 
 #### Ages 5-7
-Every offering of your grain gift you must season with salt. You must not allow the salt of the covenant of your God to be lacking from your grain gift. With all your offerings you must offer salt.
+You must put salt on every grain gift. Do not leave out the salt of God's covenant from your grain gift. Bring salt with all your offerings.
 
 #### Ages 8-10
-Every offering of your grain offering you must season with salt. You must not allow the salt of the covenant of your God to be lacking from your grain offering. With all your offerings you must offer salt.
+You must put salt on every grain offering. Do not leave out the salt of God's covenant from your grain offering. Bring salt with all your offerings.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -267,10 +267,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:14 - " 'If you offer a meal offering of first fruits to Yahweh, you shall offer for the meal offering of your first fruits fresh heads of grain parched with fire and crushed.
 
 #### Ages 5-7
-"If you offer a grain gift of first fruits to the Lord, you must offer for the grain gift of your first fruits fresh heads of grain parched with fire and crushed.
+"If you bring a grain gift of firstfruits to the Lord, bring fresh heads of grain roasted by fire and crushed.
 
 #### Ages 8-10
-"If you offer a grain offering of first fruits to the Lord, you must offer for the grain offering of your first fruits fresh heads of grain parched with fire and crushed.
+"If you bring a grain offering of firstfruits to the Lord, bring fresh heads of grain roasted by fire and crushed.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -286,10 +286,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:15 - You shall put oil on it and lay frankincense on it. It is a meal offering.
 
 #### Ages 5-7
-You must put oil on it and lay frankincense on it. It is a grain gift.
+You must put oil on it and lay sweet-smelling incense on it. It is a grain gift.
 
 #### Ages 8-10
-You must put oil on it and lay frankincense on it. It is a grain offering.
+You must put oil on it and lay sweet-smelling incense on it. It is a grain offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -303,10 +303,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 2:16 - The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to Yahweh.
 
 #### Ages 5-7
-The priest must burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering burned on the altar to the Lord.
+The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.
 
 #### Ages 8-10
-The priest must burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering burned on the altar to the Lord.
+The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the memorial portion. It is an offering burned on the altar to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

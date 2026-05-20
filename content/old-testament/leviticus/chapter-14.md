@@ -53,7 +53,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:3 - and the priest shall go out of the camp. The priest shall examine him. Behold, if the plague of leprosy is healed in the leper,
 
 #### Ages 5-7
-and the priest must go out of the camp. The priest must examine him. If the serious mark on the skin is healed in the person with the serious skin disease,
+and the priest must go out of the camp. The priest must examine him. If the serious skin-disease mark is healed in the person with the serious skin disease,
 
 #### Ages 8-10
 and the priest must go out of the camp. The priest must examine him. If the serious mark on the skin is healed in the person with the serious skin disease,
@@ -70,10 +70,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:4 - then the priest shall command them to take for him who is to be cleansed two living clean birds, cedar wood, scarlet, and hyssop.
 
 #### Ages 5-7
-then the priest must tell them to bring these things for the person being made clean: two live birds that were clean for worship, a piece of cedar wood, red thread, and a leafy hyssop branch.
+then the priest must tell them to bring these things for the person being made clean for worship: two live birds that were clean for worship, a piece of cedar wood, red thread, and a leafy hyssop branch.
 
 #### Ages 8-10
-then the priest must tell them to bring these things for the person being made clean: two live birds that were clean for worship, a piece of cedar wood, red thread, and a leafy hyssop branch.
+then the priest must tell them to bring these things for the person being made clean: two live birds that were clean, a piece of cedar wood, red thread, and a leafy hyssop branch.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -106,10 +106,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:6 - As for the living bird, he shall take it, the cedar wood, the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water.
 
 #### Ages 5-7
-As for the living bird, he must take it, the piece of cedar wood, the red thread, and the leafy hyssop branch, and must dip them and the living bird in the blood of the bird that was killed over the fresh flowing water.
+The priest must take the living bird, the cedar wood, the red thread, and the leafy hyssop branch. He must dip them, along with the living bird, into the blood of the bird killed over the fresh flowing water.
 
 #### Ages 8-10
-As for the living bird, he must take it, the piece of cedar wood, the red thread, and the leafy hyssop branch, and must dip them and the living bird in the blood of the bird that was killed over the fresh flowing water.
+The priest must take the living bird, the cedar wood, the red thread, and the leafy hyssop branch. He must dip them, along with the living bird, into the blood of the bird killed over the fresh flowing water.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -120,7 +120,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:7 - He shall sprinkle on him who is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird go into the open field.
 
 #### Ages 5-7
-He must sprinkle on the person who is being made clean from the serious disease seven times, and must say he is clean, and must let the living bird go into the open field.
+He must sprinkle on the person who is being made clean from the serious disease seven times, and must say he is clean for worship, and must let the living bird go into the open field.
 
 #### Ages 8-10
 He must sprinkle on the person who is being made clean from the serious disease seven times, and must say he is clean, and must let the living bird go into the open field.
@@ -134,7 +134,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:8 - "He who is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water; and he shall be clean. After that he shall come into the camp, but shall dwell outside his tent seven days.
 
 #### Ages 5-7
-"Whoever is being made clean must wash his clothes, and shave off all his hair, and bathe himself in water; and he will be clean. After that he must come into the camp, but must stay outside his tent seven days.
+"Whoever is being made clean must wash his clothes, and shave off all his hair, and bathe himself in water; and he will be clean for worship. After that he must come into the camp, but must stay outside his tent seven days.
 
 #### Ages 8-10
 "Whoever is being made clean must wash his clothes, and shave off all his hair, and bathe himself in water; and he will be clean. After that he must come into the camp, but must stay outside his tent seven days.
@@ -148,7 +148,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:9 - It shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off. He shall wash his clothes, and he shall bathe his body in water. Then he shall be clean.
 
 #### Ages 5-7
-It must be on the seventh day, that he must shave all his hair off his head and his beard and his eyebrows, even all his hair he must shave off. He must wash his clothes, and he must bathe his body in water. Then he will be clean.
+It must be on the seventh day, that he must shave all his hair off his head and his beard and his eyebrows, even all his hair he must shave off. He must wash his clothes, and he must bathe his body in water. Then he will be clean for worship.
 
 #### Ages 8-10
 It must be on the seventh day, that he must shave all his hair off his head and his beard and his eyebrows, even all his hair he must shave off. He must wash his clothes, and he must bathe his body in water. Then he will be clean.
@@ -198,7 +198,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:12 - "The priest shall take one of the male lambs, and offer him for a trespass offering, with the log of oil, and wave them for a wave offering before Yahweh.
 
 #### Ages 5-7
-"The priest must take one of the male lambs, and offer it as an offering for guilt, with the small measure of oil, and lift them before the Lord as an offering.
+"The priest must take one of the male lambs, and offer it as a guilt offering, with the small measure of oil, and lift them before the Lord as an offering.
 
 #### Ages 8-10
 "The priest must take one of the male lambs, and offer it as a guilt offering, with the small measure of oil, and lift them before the Lord as an offering.
@@ -219,7 +219,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:13 - He shall kill the male lamb in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary; for as the sin offering is the priest's, so is the trespass offering. It is most holy.
 
 #### Ages 5-7
-He must kill the male lamb in the place where they kill the offering for sin and the burned offering, in the holy place; for as the offering for sin is the priest's, so is the offering for guilt. It is most holy.
+He must kill the male lamb in the place where they kill the offering for sin and the burned offering, in the holy place; for as the offering for sin is the priest's, so is the guilt offering. It is most holy.
 
 #### Ages 8-10
 He must kill the male lamb in the place where they kill the sin offering and the burned offering, in the holy place; for as the sin offering is the priest's, so is the guilt offering. It is most holy.
@@ -240,7 +240,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:14 - The priest shall take some of the blood of the trespass offering, and the priest shall put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot.
 
 #### Ages 5-7
-The priest must take some of the blood of the offering for guilt, and the priest must put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
+The priest must take some of the blood of the guilt offering, and the priest must put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
 
 #### Ages 8-10
 The priest must take some of the blood of the guilt offering, and the priest must put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
@@ -295,7 +295,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:17 - The priest shall put some of the rest of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot, upon the blood of the trespass offering.
 
 #### Ages 5-7
-The priest must put some of the rest of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, over the blood of the offering for guilt.
+The priest must put some of the rest of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, over the blood of the guilt offering.
 
 #### Ages 8-10
 The priest must put some of the rest of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, over the blood of the guilt offering.
@@ -335,10 +335,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:19 - "The priest shall offer the sin offering, and make atonement for him who is to be cleansed because of his uncleanness. Afterward he shall kill the burnt offering;
 
 #### Ages 5-7
-"The priest must offer the offering for sin, and make atonement for him, to help make things right with God, as he is being made clean because of his being unclean. Afterward he must kill the burned offering;
+The priest must offer the offering for sin and make atonement for the man as he is being made clean. Afterward, the priest must kill the burned offering.
 
 #### Ages 8-10
-"The priest must offer the sin offering, and make atonement for the person being made clean because of his being unclean. Afterward he must kill the burned offering;
+The priest must offer the sin offering and make atonement for the person being made clean. Afterward, the priest must kill the burned offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -356,7 +356,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:20 - then the priest shall offer the burnt offering and the meal offering on the altar. The priest shall make atonement for him, and he shall be clean.
 
 #### Ages 5-7
-then the priest must offer the burned offering and the grain gift on the altar. The priest must make atonement for him, to help make things right with God, and he will be clean.
+then the priest must offer the burned offering and the grain gift on the altar. The priest must make atonement for him, to help make things right with God, and he will be clean for worship.
 
 #### Ages 8-10
 then the priest must offer the burned offering and the grain offering on the altar. The priest must make atonement for him, and he will be clean.
@@ -377,7 +377,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:21 - "If he is poor, and can't afford so much, then he shall take one male lamb for a trespass offering to be waved, to make atonement for him, and one tenth of an ephah of fine flour mixed with oil for a meal offering, and a log of oil;
 
 #### Ages 5-7
-"If he is poor, and can't afford so much, then he must take one male lamb for an offering for guilt to be lifted before the Lord, to make atonement for him, to help make things right with God, and one tenth-measure of fine flour mixed with oil for a grain gift, and a small measure of oil;
+"If he is poor, and can't afford so much, then he must take one male lamb for a guilt offering to be lifted before the Lord, to make atonement for him, to help make things right with God, and a small measured amount of fine flour mixed with oil for a grain gift, and a small measure of oil;
 
 #### Ages 8-10
 "If he is poor, and can't afford so much, then he must take one male lamb for a guilt offering to be lifted before the Lord, to make atonement for him, and one tenth-measure of fine flour mixed with oil for a grain offering, and a small measure of oil;
@@ -435,7 +435,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:24 - The priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before Yahweh.
 
 #### Ages 5-7
-The priest must take the lamb of the offering for guilt, and the small measure of oil, and the priest must lift them before the Lord as an offering.
+The priest must take the lamb of the guilt offering, and the small measure of oil, and the priest must lift them before the Lord as an offering.
 
 #### Ages 8-10
 The priest must take the lamb of the guilt offering, and the small measure of oil, and the priest must lift them before the Lord as an offering.
@@ -456,7 +456,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:25 - He shall kill the lamb of the trespass offering. The priest shall take some of the blood of the trespass offering and put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot.
 
 #### Ages 5-7
-He must kill the lamb of the offering for guilt. The priest must take some of the blood of the offering for guilt and put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
+He must kill the lamb of the guilt offering. The priest must take some of the blood of the guilt offering and put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
 
 #### Ages 8-10
 He must kill the lamb of the guilt offering. The priest must take some of the blood of the guilt offering and put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
@@ -511,7 +511,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:28 - Then the priest shall put some of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the trespass offering.
 
 #### Ages 5-7
-Then the priest must put some of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the offering for guilt.
+Then the priest must put some of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering.
 
 #### Ages 8-10
 Then the priest must put some of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering.
@@ -565,10 +565,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:31 - of the kind he is able to afford, the one for a sin offering, and the other for a burnt offering, with the meal offering. The priest shall make atonement for him who is to be cleansed before Yahweh."
 
 #### Ages 5-7
-of the kind he is able to afford, the one for an offering for sin, and the other for a burned offering, with the grain gift. The priest must make atonement for him, to help make things right with God, as he is being made clean before the Lord."
+He must offer what the man can afford: one bird for an offering for sin, and the other for a burned offering, along with the grain gift. The priest must make atonement before the Lord for the person being made clean."
 
 #### Ages 8-10
-of the kind he is able to afford, the one for a sin offering, and the other for a burned offering, with the grain offering. The priest must make atonement before the Lord for the person being made clean."
+He must offer what the man can afford: one bird for a sin offering, and the other for a burned offering, along with the grain offering. The priest must make atonement before the Lord for the person being made clean."
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -586,7 +586,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:32 - This is the law for him in whom is the plague of leprosy, who is not able to afford the sacrifice for his cleansing.
 
 #### Ages 5-7
-This is the law for him in whom is the serious mark on the skin, who is not able to afford the sacrifice to be made clean.
+This is the law for him in whom is the serious skin-disease mark, who is not able to afford the sacrifice to be made clean.
 
 #### Ages 8-10
 This is the law for him in whom is the serious mark on the skin, who is not able to afford the sacrifice to be made clean.
@@ -638,7 +638,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:35 - then he who owns the house shall come and tell the priest, saying, 'There seems to me to be some sort of plague in the house.'
 
 #### Ages 5-7
-then whoever owns the house must come and tell the priest, saying, 'There seems to me to be some sort of mark of disease in the house.
+then whoever owns the house must come and tell the priest, saying, 'There seems to me to be some sort of disease mark in the house.
 
 #### Ages 8-10
 then whoever owns the house must come and tell the priest, saying, 'There seems to me to be some sort of mark of disease in the house.
@@ -655,10 +655,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:36 - The priest shall command that they empty the house, before the priest goes in to examine the plague, that all that is in the house not be made unclean. Afterward the priest shall go in to inspect the house.
 
 #### Ages 5-7
-The priest must tell them to empty the house, before the priest goes in to examine the mark of disease, that all that is in the house not be made unclean. Afterward the priest must go in to inspect the house.
+Before the priest goes in to look at the mark, he must tell them to empty the house. Then the things in the house will not be counted as not clean for worship. After that, the priest must go in and inspect the house.
 
 #### Ages 8-10
-The priest must tell them to empty the house, before the priest goes in to examine the mark of disease, that all that is in the house not be made unclean. Afterward the priest must go in to inspect the house.
+Before the priest goes in to examine the mark, he must tell them to empty the house. Then the things in the house will not become unclean. After that, the priest must go in and inspect the house.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -673,7 +673,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:37 - He shall examine the plague; and behold, if the plague is in the walls of the house with hollow streaks, greenish or reddish, and it appears to be deeper than the wall,
 
 #### Ages 5-7
-He must examine the mark of disease; and if the mark of disease is in the walls of the house with sunken streaks, greenish or reddish, and it appears to be deeper than the wall,
+He must examine the disease mark; and if the disease mark is in the walls of the house with sunken streaks, greenish or reddish, and it appears to be deeper than the wall,
 
 #### Ages 8-10
 He must examine the mark of disease; and if the mark of disease is in the walls of the house with sunken streaks, greenish or reddish, and it appears to be deeper than the wall,
@@ -704,7 +704,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:39 - The priest shall come again on the seventh day, and look. If the plague has spread in the walls of the house,
 
 #### Ages 5-7
-The priest must come again on the seventh day, and look. If the mark of disease has spread in the walls of the house,
+The priest must come again on the seventh day, and look. If the disease mark has spread in the walls of the house,
 
 #### Ages 8-10
 The priest must come again on the seventh day, and look. If the mark of disease has spread in the walls of the house,
@@ -721,10 +721,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:40 - then the priest shall command that they take out the stones in which is the plague, and cast them into an unclean place outside of the city.
 
 #### Ages 5-7
-then the priest must tell them to take out the stones in which is the mark of disease, and throw them into an unclean place outside of the city.
+then the priest must tell them to take out the stones with the mark and throw them into a place outside the city for things not clean for worship.
 
 #### Ages 8-10
-then the priest must tell them to take out the stones in which is the mark of disease, and throw them into an unclean place outside of the city.
+then the priest must tell them to take out the stones with the mark and throw them into an unclean place outside the city.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -739,10 +739,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:41 - He shall cause the inside of the house to be scraped all over. They shall pour out the mortar that they scraped off outside of the city into an unclean place.
 
 #### Ages 5-7
-He must cause the inside of the house to be scraped all over. They must pour out the mortar that they scraped off outside of the city into an unclean place.
+The inside of the house must be scraped all over. The scraped-off plaster must be poured out in a place outside the city for things not clean for worship.
 
 #### Ages 8-10
-He must cause the inside of the house to be scraped all over. They must pour out the mortar that they scraped off outside of the city into an unclean place.
+The inside of the house must be scraped all over. The scraped-off plaster must be poured out in an unclean place outside the city.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -767,7 +767,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:43 - "If the plague comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered,
 
 #### Ages 5-7
-"If the mark of disease comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered,
+"If the disease mark comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered,
 
 #### Ages 8-10
 "If the mark of disease comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered,
@@ -781,7 +781,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:44 - then the priest shall come in and look; and behold, if the plague has spread in the house, it is a destructive mildew in the house. It is unclean.
 
 #### Ages 5-7
-then the priest must come in and look; and if the mark of disease has spread in the house, it is a destructive mildew in the house. It is unclean.
+then the priest must come in and look; and if the disease mark has spread in the house, it is a destructive mildew in the house. It is not clean for worship.
 
 #### Ages 8-10
 then the priest must come in and look; and if the mark of disease has spread in the house, it is a destructive mildew in the house. It is unclean.
@@ -798,10 +798,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:45 - He shall break down the house, its stones, and its timber, and all the house's mortar. He shall carry them out of the city into an unclean place.
 
 #### Ages 5-7
-He must break down the house, its stones, and its timber, and all the house's mortar. He must carry them out of the city into an unclean place.
+The house must be torn down. Its stones, wood, and plaster must be carried out of the city to a place for things not clean for worship.
 
 #### Ages 8-10
-He must break down the house, its stones, and its timber, and all the house's mortar. He must carry them out of the city into an unclean place.
+The house must be torn down. Its stones, wood, and plaster must be carried out of the city to an unclean place.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -812,7 +812,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:46 - "Moreover he who goes into the house while it is shut up shall be unclean until the evening.
 
 #### Ages 5-7
-"Moreover whoever goes into the house while it is shut up will be unclean until the evening.
+"Moreover whoever goes into the house while it is shut up will not be clean for worship until the evening.
 
 #### Ages 8-10
 "Moreover whoever goes into the house while it is shut up will be unclean until the evening.
@@ -840,7 +840,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:48 - "If the priest shall come in, and examine it, and behold, the plague hasn't spread in the house, after the house was plastered, then the priest shall pronounce the house clean, because the plague is healed.
 
 #### Ages 5-7
-"If the priest comes in and examines it, and the mark of disease hasn't spread in the house, after the house was plastered, then the priest must say the house is clean, because the mark of disease is healed.
+"If the priest comes in and examines it, and the disease mark hasn't spread in the house, after the house was plastered, then the priest must say the house is clean for worship, because the disease mark is healed.
 
 #### Ages 8-10
 "If the priest comes in and examines it, and the mark of disease hasn't spread in the house, after the house was plastered, then the priest must say the house is clean, because the mark of disease is healed.
@@ -885,10 +885,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:51 - He shall take the cedar wood, the hyssop, the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times.
 
 #### Ages 5-7
-He must take the piece of cedar wood, the leafy hyssop branch, the red thread, and the living bird, and dip them in the blood of the bird that was killed, and in the fresh flowing water, and sprinkle the house seven times.
+He must take the cedar wood, the leafy hyssop branch, the red thread, and the living bird. He must dip them in the blood of the bird that was killed and in the fresh flowing water, and then sprinkle the house seven times.
 
 #### Ages 8-10
-He must take the piece of cedar wood, the leafy hyssop branch, the red thread, and the living bird, and dip them in the blood of the bird that was killed, and in the fresh flowing water, and sprinkle the house seven times.
+He must take the cedar wood, the leafy hyssop branch, the red thread, and the living bird. He must dip them in the blood of the bird that was killed and in the fresh flowing water, and then sprinkle the house seven times.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -899,10 +899,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:52 - He shall cleanse the house with the blood of the bird, and with the running water, with the living bird, with the cedar wood, with the hyssop, and with the scarlet;
 
 #### Ages 5-7
-He must make the house clean with the blood of the bird, and with the fresh flowing water, with the living bird, with the piece of cedar wood, with the leafy hyssop branch, and with the red thread;
+He must make the house clean with the bird's blood, the fresh flowing water, the living bird, the cedar wood, the leafy hyssop branch, and the red thread.
 
 #### Ages 8-10
-He must make the house clean with the blood of the bird, and with the fresh flowing water, with the living bird, with the piece of cedar wood, with the leafy hyssop branch, and with the red thread;
+He must make the house clean with the bird's blood, the fresh flowing water, the living bird, the cedar wood, the leafy hyssop branch, and the red thread.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -913,10 +913,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:53 - but he shall let the living bird go out of the city into the open field. So shall he make atonement for the house; and it shall be clean."
 
 #### Ages 5-7
-but he must let the living bird go out of the city into the open field. So must he make atonement for the house; and it will be clean."
+Then he must let the living bird go out of the city into the open field. In this way he must make atonement for the house, and it will be clean for worship."
 
 #### Ages 8-10
-but he must let the living bird go out of the city into the open field. So must he make atonement for the house; and it will be clean."
+Then he must let the living bird go out of the city into the open field. In this way he must make atonement for the house, and it will be clean."
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -930,7 +930,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:54 - This is the law for any plague of leprosy, and for an itch,
 
 #### Ages 5-7
-This is the law for any serious mark on the skin, and for an itch,
+This is the law for any serious skin-disease mark, and for an itch,
 
 #### Ages 8-10
 This is the law for any serious mark on the skin, and for an itch,
@@ -947,7 +947,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:55 - and for the destructive mildew of a garment, and for a house,
 
 #### Ages 5-7
-and for the destructive mildew of a garment, and for a house,
+and for the destructive mildew of a piece of clothing, and for a house,
 
 #### Ages 8-10
 and for the destructive mildew of a garment, and for a house,
@@ -975,7 +975,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 14:57 - to teach when it is unclean, and when it is clean. This is the law of leprosy.
 
 #### Ages 5-7
-to teach when it is unclean, and when it is clean. This is the law of serious disease.
+to teach when it is not clean for worship, and when it is clean for worship. This is the law of serious disease.
 
 #### Ages 8-10
 to teach when it is unclean, and when it is clean. This is the law of serious disease.

@@ -52,7 +52,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:3 - I also will set my face against that person, and will cut him off from among his people, because he has given of his offspring to Molech, to defile my sanctuary, and to profane my holy name.
 
 #### Ages 5-7
-I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place unclean, and to dishonor my holy name.
+I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place not clean for worship, and to dishonor my holy name.
 
 #### Ages 8-10
 I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place unclean, and to dishonor my holy name.
@@ -167,7 +167,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:10 - " 'The man who commits adultery with another man's wife, even he who commits adultery with his neighbor's wife, the adulterer and the adulteress shall surely be put to death.
 
 #### Ages 5-7
-"The man who commits adultery with another man's wife, even whoever commits adultery with his neighbor's wife, the adulterer and the adulteress must surely be put to death.
+"The man who takes another man's wife as if she were his own wife, even whoever takes his neighbor's wife as if she were his own wife, the man and the woman must surely be put to death.
 
 #### Ages 8-10
 "The man who commits adultery with another man's wife, even whoever commits adultery with his neighbor's wife, the adulterer and the adulteress must surely be put to death.
@@ -181,7 +181,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:11 - " 'The man who lies with his father's wife has uncovered his father's nakedness. Both of them shall surely be put to death. Their blood shall be upon themselves.
 
 #### Ages 5-7
-"The man who has sexual relations with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
+"The man who acts as only a husband and wife should with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
 
 #### Ages 8-10
 "The man who has sexual relations with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
@@ -195,7 +195,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:12 - " 'If a man lies with his daughter-in-law, both of them shall surely be put to death. They have committed a perversion. Their blood shall be upon themselves.
 
 #### Ages 5-7
-"If a man has sexual relations with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
+"If a man acts as only a husband and wife should with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
 
 #### Ages 8-10
 "If a man has sexual relations with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
@@ -212,7 +212,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:13 - " 'If a man lies with a male, as with a woman, both of them have committed an abomination. They shall surely be put to death. Their blood shall be upon themselves.
 
 #### Ages 5-7
-"If a man has sexual relations with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
+"If a man acts as only a husband and wife should with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
 
 #### Ages 8-10
 "If a man has sexual relations with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
@@ -240,7 +240,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:15 - " 'If a man lies with an animal, he shall surely be put to death; and you shall kill the animal.
 
 #### Ages 5-7
-"If a man has sexual relations with an animal, he must surely be put to death; and you must kill the animal.
+"If a man acts as only a husband and wife should with an animal, he must surely be put to death; and you must kill the animal.
 
 #### Ages 8-10
 "If a man has sexual relations with an animal, he must surely be put to death; and you must kill the animal.
@@ -254,7 +254,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:16 - " 'If a woman approaches any animal and lies with it, you shall kill the woman and the animal. They shall surely be put to death. Their blood shall be upon them.
 
 #### Ages 5-7
-"If a woman approaches any animal and has sexual relations with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
+"If a woman approaches any animal and acts as only a husband and wife should with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
 
 #### Ages 8-10
 "If a woman approaches any animal and has sexual relations with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
@@ -268,10 +268,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:17 - " 'If a man takes his sister—his father's daughter, or his mother's daughter—and sees her nakedness, and she sees his nakedness, it is a shameful thing. They shall be cut off in the sight of the children of their people. He has uncovered his sister's nakedness. He shall bear his iniquity.
 
 #### Ages 5-7
-"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He must bear his guilt.
+"If a man takes his sister-his father's daughter, or his mother's daughter-and acts as only a husband and wife should with her, it is a shameful thing. They must be removed in the sight of their people. He has acted as only a husband and wife should with his sister. He carries his guilt.
 
 #### Ages 8-10
-"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He must bear his guilt.
+"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He carries his guilt.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -285,7 +285,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:18 - " 'If a man lies with a woman having her monthly period, and uncovers her nakedness, he has made her fountain naked, and she has uncovered the fountain of her blood. Both of them shall be cut off from among their people.
 
 #### Ages 5-7
-"If a man has sexual relations with a woman having her monthly period, and has sexual relations with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
+"If a man acts as only a husband and wife should with a woman having her monthly period, and acts as only a husband and wife should with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
 
 #### Ages 8-10
 "If a man has sexual relations with a woman having her monthly period, and has sexual relations with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
@@ -299,10 +299,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:19 - " 'You shall not uncover the nakedness of your mother's sister, nor of your father's sister, for he has made his close relative naked. They shall bear their iniquity.
 
 #### Ages 5-7
-"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They must bear their guilt.
+"You must not act as only a husband and wife should with your mother's sister or your father's sister. This would dishonor a close relative. They carry their guilt.
 
 #### Ages 8-10
-"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They must bear their guilt.
+"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They carry their guilt.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -316,10 +316,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:20 - If a man lies with his uncle's wife, he has uncovered his uncle's nakedness. They shall bear their sin. They shall die childless.
 
 #### Ages 5-7
-If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They must bear their guilt. They must die childless.
+If a man acts as only a husband and wife should with his uncle's wife, he has dishonored his uncle. They carry their guilt. They must die childless.
 
 #### Ages 8-10
-If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They must bear their guilt. They must die childless.
+If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They carry their guilt. They must die childless.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -395,10 +395,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:25 - " 'You shall therefore make a distinction between the clean animal and the unclean, and between the unclean fowl and the clean. You shall not make yourselves abominable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you.
 
 #### Ages 5-7
-"You must therefore make a distinction between the clean animal and the unclean, and between the unclean bird and the clean. You must not make yourselves detestable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you.
+"You must therefore know the difference between animals clean for worship and animals not clean for worship, and between birds not clean for worship and birds clean for worship. You must not make yourselves detestable by eating any animal, bird, or crawling thing that I have separated from you as not clean for worship.
 
 #### Ages 8-10
-"You must therefore make a distinction between the clean animal and the unclean, and between the unclean bird and the clean. You must not make yourselves detestable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you.
+"You must therefore know the difference between clean animals and unclean animals, and between unclean birds and clean birds. You must not make yourselves detestable by eating any animal, bird, or crawling thing that I have separated from you as unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

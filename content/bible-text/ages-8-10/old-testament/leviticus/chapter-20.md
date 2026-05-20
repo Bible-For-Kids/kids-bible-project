@@ -57,16 +57,16 @@ You must keep my rules, and do them. I am the Lord who makes holy you.
 "If a woman approaches any animal and has sexual relations with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
 
 ### Leviticus 20:17
-"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He must bear his guilt.
+"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He carries his guilt.
 
 ### Leviticus 20:18
 "If a man has sexual relations with a woman having her monthly period, and has sexual relations with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
 
 ### Leviticus 20:19
-"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They must bear their guilt.
+"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They carry their guilt.
 
 ### Leviticus 20:20
-If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They must bear their guilt. They must die childless.
+If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They carry their guilt. They must die childless.
 
 ### Leviticus 20:21
 "If a man takes his brother's wife, it is an impurity. He has dishonored his brother. They must be childless.
@@ -81,7 +81,7 @@ You must not walk in the customs of the nation which I am casting out before you
 But I have said to you, "You must inherit their land, and I will give it to you to possess it, a land flowing with milk and honey." I am the Lord your God, who has separated you from the peoples.
 
 ### Leviticus 20:25
-"You must therefore make a distinction between the clean animal and the unclean, and between the unclean bird and the clean. You must not make yourselves detestable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you.
+"You must therefore know the difference between clean animals and unclean animals, and between unclean birds and clean birds. You must not make yourselves detestable by eating any animal, bird, or crawling thing that I have separated from you as unclean.
 
 ### Leviticus 20:26
 You will be holy to me, for I, the Lord, am holy, and have set you apart from the peoples, that you should be mine.

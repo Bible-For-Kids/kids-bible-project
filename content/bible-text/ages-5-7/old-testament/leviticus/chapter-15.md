@@ -12,97 +12,97 @@ Leviticus
 The Lord spoke to Moses and to Aaron, saying,
 
 ### Leviticus 15:2
-"Speak to the people of Israel, and tell them, 'When any man has a discharge from his body, because of his discharge he is unclean.
+"Speak to the people of Israel and tell them, 'When a man has an unusual flow from his body, that flow makes him not clean for worship.
 
 ### Leviticus 15:3
-This must be his being unclean in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his being unclean.
+This is the rule about that body flow: whether the flow keeps coming or has stopped, it still makes him not clean for worship.
 
 ### Leviticus 15:4
-"Every bed on which whoever has the discharge lies will be unclean; and everything he sits on will be unclean.
+Every bed the man with the flow lies on will not be clean for worship, and everything he sits on will not be clean for worship.
 
 ### Leviticus 15:5
-Whoever touches his bed must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever touches his bed must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:6
-Whoever sits on anything on which the man who has the discharge sat must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever sits on anything the man with the flow sat on must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:7
-"Whoever touches the body of the person who has the discharge must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever touches the body of the man with the flow must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:8
-"If whoever has the discharge spits on the person who is clean, then he must wash his clothes, and bathe himself in water, and be unclean until the evening.
+If the man with the flow spits on someone who is clean for worship, that person must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:9
-"Whatever saddle whoever has the discharge rides on will be unclean.
+Any saddle the man with the flow rides on will not be clean for worship.
 
 ### Leviticus 15:10
-Whoever touches anything that was under him will be unclean until the evening. Whoever carries those things must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever touches anything that was under him will not be clean for worship until evening. Whoever carries those things must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:11
-"Whomever whoever has the discharge touches, without having rinsed his hands in water, he must wash his clothes, and bathe himself in water, and be unclean until the evening.
+If the man with the flow touches someone without first rinsing his hands in water, that person must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:12
-"The clay bowl, which whoever has the discharge touches, must be broken; and every container of wood must be rinsed in water.
+If the man with the flow touches a clay bowl, it must be broken. If he touches a wooden container, it must be rinsed with water.
 
 ### Leviticus 15:13
-"When the person who has a discharge is cleansed of his discharge, then he must count to himself seven days to be made clean, and wash his clothes; and he must bathe his body in fresh flowing water, and will be clean.
+When the man is clean from his flow, he must count seven days. Then he must wash his clothes and wash his body in fresh flowing water, and he will be clean for worship.
 
 ### Leviticus 15:14
 "On the eighth day he must take two doves, or two young pigeons, and come before the Lord to the door of the Tent of Meeting, and give them to the priest.
 
 ### Leviticus 15:15
-The priest must offer them, the one for an offering for sin, and the other for a burned offering. The priest must make atonement for him, to help make things right with God before the Lord for his discharge.
+The priest must offer one bird as an offering for sin and the other as a burned offering. The priest must make atonement for him before the Lord because of his flow.
 
 ### Leviticus 15:16
-"If any man has an emission of fluid from his body, then he must bathe all his flesh in water, and be unclean until the evening.
+"If fluid comes from a man's body, he must wash his whole body in water and not be clean for worship until evening.
 
 ### Leviticus 15:17
-Every garment and every skin which the fluid from his body is on must be washed with water, and be unclean until the evening.
+Any clothing or leather that the fluid touches must be washed with water and will not be clean for worship until evening.
 
 ### Leviticus 15:18
-If a man has sexual relations with a woman and there is an emission of fluid from his body, they must both bathe themselves in water, and be unclean until the evening.
+If a man and a woman come together in the way husbands and wives do, and fluid comes from him, they must both wash themselves in water and not be clean for worship until evening.
 
 ### Leviticus 15:19
-"If a woman has a discharge, and her discharge in her flesh is blood, she must be in her impurity seven days. Whoever touches her will be unclean until the evening.
+"When a woman has her monthly bleeding, she will not be clean for worship for seven days. Whoever touches her will not be clean for worship until evening.
 
 ### Leviticus 15:20
-"Everything that she lies on in her impurity will be unclean. Everything also that she sits on will be unclean.
+Everything she lies on during that time will not be clean for worship, and everything she sits on will not be clean for worship.
 
 ### Leviticus 15:21
-Whoever touches her bed must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever touches her bed must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:22
-Whoever touches anything that she sits on must wash his clothes, and bathe himself in water, and be unclean until the evening.
+Whoever touches anything she sat on must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:23
-If it is on the bed, or on anything she sits on, when he touches it, he will be unclean until the evening.
+If someone touches anything on the bed or on the seat where she sat, he will not be clean for worship until evening.
 
 ### Leviticus 15:24
-"If any man has sexual relations with her, and her monthly flow is on him, he will be unclean seven days; and every bed he lies on will be unclean.
+If a man comes together with her in the way husbands and wives do during her monthly bleeding, he will not be clean for worship for seven days. Every bed he lies on will not be clean for worship.
 
 ### Leviticus 15:25
-"If a woman has a discharge of her blood many days not in the time of her period, or if she has a discharge beyond the time of her period, all the days of the discharge of her being unclean must be as in the days of her period. She is unclean.
+"If a woman has bleeding for many days when it is not her monthly time, or if her bleeding lasts longer than her monthly time, she will not be clean for worship for all those days, just as during her period.
 
 ### Leviticus 15:26
-Every bed she lies on all the days of her discharge must be to her as the bed of her period. Everything she sits on will be unclean, like her period.
+Every bed she lies on during those days will be like the bed of her period, and everything she sits on will not be clean for worship.
 
 ### Leviticus 15:27
-Whoever touches these things will be unclean, and must wash his clothes and bathe himself in water, and be unclean until the evening.
+Whoever touches those things will not be clean for worship. He must wash his clothes, wash his body in water, and not be clean for worship until evening.
 
 ### Leviticus 15:28
-"But if she is cleansed of her discharge, then she must count to herself seven days, and after that she will be clean.
+When she is clean from her flow, she must count seven days. After that she will be clean for worship.
 
 ### Leviticus 15:29
 On the eighth day she must take two doves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting.
 
 ### Leviticus 15:30
-The priest must offer the one for an offering for sin, and the other for a burned offering; and the priest must make atonement for her, to help make things right with God before the Lord because of her unclean discharge.
+The priest must offer one bird as an offering for sin and the other as a burned offering. The priest must make atonement for her before the Lord because of her flow.
 
 ### Leviticus 15:31
-"Thus you must separate the people of Israel from their being unclean, so they will not die in their being unclean when they make unclean my tabernacle that is among them.' "
+"In this way you must keep the people of Israel away from what is not clean for worship, so they do not die by bringing it near my holy tent among them.' "
 
 ### Leviticus 15:32
-This is the law of the person who has a discharge, and of the person who has an emission of fluid from his body, so that he is unclean by it;
+This is the law for a man with an unusual flow from his body, and for a man when fluid comes from his body and makes him not clean for worship;
 
 ### Leviticus 15:33
-and of the woman who has her period, and of a man or woman who has a discharge, and of the person who has sexual relations with the woman who is unclean.
+and for a woman during her period, and for any man or woman with a flow, and for a man who comes together with a woman who is not clean for worship.

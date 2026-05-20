@@ -81,10 +81,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:5 - or any thing about which he has sworn falsely: he shall restore it in full, and shall add a fifth part more to it. He shall return it to him to whom it belongs in the day of his being found guilty.
 
 #### Ages 5-7
-or any thing about which he has sworn falsely: he must restore it in full, and must add a fifth part more to it. He must return it to him to whom it belongs in the day of his being found guilty.
+or any thing about which he has sworn falsely: he must restore it in full, and must add one fifth more more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 #### Ages 8-10
-or any thing about which he has sworn falsely: he must restore it in full, and must add a fifth part more to it. He must return it to him to whom it belongs in the day of his being found guilty.
+or any thing about which he has sworn falsely: he must restore it in full, and must add one fifth more more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -95,10 +95,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:6 - He shall bring his trespass offering to Yahweh: a ram without defect from the flock, according to your estimation, for a trespass offering, to the priest.
 
 #### Ages 5-7
-He must bring his offering for guilt to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation, for an offering for guilt, to the priest.
+He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to its value, for a guilt offering, to the priest.
 
 #### Ages 8-10
-He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation, for a guilt offering, to the priest.
+He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to its value, for a guilt offering, to the priest.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -177,7 +177,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:10 - The priest shall put on his linen garment, and he shall put on his linen trousers upon his body; and he shall remove the ashes from where the fire has consumed the burnt offering on the altar, and he shall put them beside the altar.
 
 #### Ages 5-7
-The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
+The priest must put on his linen piece of clothing, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
 
 #### Ages 8-10
 The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
@@ -267,10 +267,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:15 - He shall take from there his handful of the fine flour of the meal offering, and of its oil, and all the frankincense which is on the meal offering, and shall burn it on the altar for a pleasant aroma, as its memorial portion, to Yahweh.
 
 #### Ages 5-7
-He must take from there his handful of the fine flour of the grain gift, and of its oil, and all the frankincense which is on the grain gift, and must burn it on the altar for a pleasing smell, as its memorial portion, to the Lord.
+He must take from there his handful of the fine flour of the grain gift, and of its oil, and all the sweet-smelling incense which is on the grain gift, and must burn it on the altar for a pleasing smell, as its part burned before the Lord, to the Lord.
 
 #### Ages 8-10
-He must take from there his handful of the fine flour of the grain offering, and of its oil, and all the frankincense which is on the grain offering, and must burn it on the altar for a pleasant aroma, as its memorial portion, to the Lord.
+He must take from there his handful of the fine flour of the grain offering, and of its oil, and all the sweet-smelling incense which is on the grain offering, and must burn it on the altar for a pleasant aroma, as its part burned before the Lord, to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -305,7 +305,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:17 - It shall not be baked with yeast. I have given it as their portion of my offerings made by fire. It is most holy, as are the sin offering and the trespass offering.
 
 #### Ages 5-7
-It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the offering for sin and the offering for guilt.
+It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the offering for sin and the guilt offering.
 
 #### Ages 8-10
 It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the sin offering and the guilt offering.
@@ -326,10 +326,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:18 - Every male among the children of Aaron shall eat of it, as their portion forever throughout your generations, from the offerings of Yahweh made by fire. Whoever touches them shall be holy.' "
 
 #### Ages 5-7
-Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings of the Lord made by fire. Whoever touches them will be holy.' "
+Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings burned for the Lord. Whoever touches them will be holy.' "
 
 #### Ages 8-10
-Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings of the Lord made by fire. Whoever touches them will be holy.' "
+Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings burned for the Lord. Whoever touches them will be holy.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -365,7 +365,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:20 - "This is the offering of Aaron and of his sons, which they shall offer to Yahweh in the day when he is anointed: one tenth of an ephah of fine flour for a meal offering perpetually, half of it in the morning, and half of it in the evening.
 
 #### Ages 5-7
-"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth-measure of fine flour for a grain gift continually, half of it in the morning, and half of it in the evening.
+"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: a small measured amount of fine flour for a grain gift continually, half of it in the morning, and half of it in the evening.
 
 #### Ages 8-10
 "This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth-measure of fine flour for a grain offering continually, half of it in the morning, and half of it in the evening.
@@ -500,7 +500,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:27 - Whatever shall touch its flesh shall be holy. When there is any of its blood sprinkled on a garment, you shall wash that on which it was sprinkled in a holy place.
 
 #### Ages 5-7
-Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a garment, you must wash that on which it was sprinkled in a holy place.
+Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a piece of clothing, you must wash that on which it was sprinkled in a holy place.
 
 #### Ages 8-10
 Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a garment, you must wash that on which it was sprinkled in a holy place.

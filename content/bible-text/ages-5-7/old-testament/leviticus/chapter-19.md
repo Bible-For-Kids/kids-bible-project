@@ -30,7 +30,7 @@ It must be eaten the same day you offer it, and on the next day. If anything rem
 If it is eaten at all on the third day, it is a detestable thing. It will not be accepted;
 
 ### Leviticus 19:8
-but everyone who eats it must bear his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
+but everyone who eats it carries his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
 
 ### Leviticus 19:9
 "When you reap the harvest of your land, you must not wholly reap the corners of your field, neither must you gather the gleanings of your harvest.
@@ -63,16 +63,16 @@ You must not glean your vineyard, neither must you gather the fallen grapes of y
 "You must not take vengeance, nor bear any grudge against the children of your people; but you must love your neighbor as yourself. I am the Lord.
 
 ### Leviticus 19:19
-"You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a garment made of two kinds of material.
+"You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a piece of clothing made of two kinds of material.
 
 ### Leviticus 19:20
 "If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they must be punished. They must not be put to death, because she was not free.
 
 ### Leviticus 19:21
-He must bring his offering for guilt to the Lord, to the door of the Tent of Meeting, even a male sheep for an offering for guilt.
+He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a male sheep for a guilt offering.
 
 ### Leviticus 19:22
-The priest must make atonement for him, to help make things right with God with the male sheep of the offering for guilt before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
+The priest must make atonement for him, to help make things right with God with the male sheep of the guilt offering before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
 
 ### Leviticus 19:23
 "When you come into the land, and have planted all kinds of trees for food, then you must count their fruit as forbidden. For three years it must be forbidden to you. It must not be eaten.
@@ -99,7 +99,7 @@ In the fifth year you must eat its fruit, that it may yield its increase to you.
 "You must keep my Sabbaths, and reverence my holy place; I am the Lord.
 
 ### Leviticus 19:31
-"Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be made unclean by them. I am the Lord your God.
+"Do not turn to people who try to talk to spirits or seek out people who use magic. Do not let them make you not clean for worship. I am the Lord your God.
 
 ### Leviticus 19:32
 "You must rise up before the gray head and honor the face of the elderly; and you must fear your God. I am the Lord.

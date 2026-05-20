@@ -16,7 +16,7 @@ Leviticus gives Israel worship laws, holiness laws, and priestly instructions fo
 **Original Reference**: Leviticus 7:1 - " 'This is the law of the trespass offering: It is most holy.
 
 #### Ages 5-7
-"This is the law of the offering for guilt: It is most holy.
+"This is the law of the guilt offering: It is most holy.
 
 #### Ages 8-10
 "This is the law of the guilt offering: It is most holy.
@@ -36,7 +36,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:2 - In the place where they kill the burnt offering, he shall kill the trespass offering; and its blood he shall sprinkle around on the altar.
 
 #### Ages 5-7
-In the place where they kill the burned offering, he must kill the offering for guilt; and its blood he must sprinkle around on the altar.
+In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar.
 
 #### Ages 8-10
 In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar.
@@ -83,7 +83,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:5 - and the priest shall burn them on the altar for an offering made by fire to Yahweh: it is a trespass offering.
 
 #### Ages 5-7
-and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is an offering for guilt.
+and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is a guilt offering.
 
 #### Ages 8-10
 and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is a guilt offering.
@@ -121,7 +121,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:7 - " 'As is the sin offering, so is the trespass offering; there is one law for them. The priest who makes atonement with them shall have it.
 
 #### Ages 5-7
-"As is the offering for sin, so is the offering for guilt; there is one law for them. The priest who makes atonement with them must have it.
+"As is the offering for sin, so is the guilt offering; there is one law for them. The priest who makes atonement with them must have it.
 
 #### Ages 8-10
 "As is the sin offering, so is the guilt offering; there is one law for them. The priest who makes atonement with them must have it.
@@ -289,7 +289,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:16 - " 'But if the sacrifice of his offering is a vow, or a free will offering, it shall be eaten on the day that he offers his sacrifice. On the next day what remains of it shall be eaten,
 
 #### Ages 5-7
-"But if the sacrifice of his offering is a vow, or a free will offering, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
+"But if the sacrifice of his offering is a special promise, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
 
 #### Ages 8-10
 "But if the sacrifice of his offering is a vow, or a free will offering, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
@@ -342,7 +342,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:19 - " 'The meat that touches any unclean thing shall not be eaten. It shall be burned with fire. As for the meat, everyone who is clean may eat it;
 
 #### Ages 5-7
-"The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
+"The meat that touches any thing not clean for worship must not be eaten. It must be burned with fire. As for the meat, everyone who is clean for worship may eat it;
 
 #### Ages 8-10
 "The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
@@ -356,10 +356,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:20 - but the soul who eats of the meat of the sacrifice of peace offerings that belongs to Yahweh, having his uncleanness on him, that soul shall be cut off from his people.
 
 #### Ages 5-7
-but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his being unclean on him, that person must be removed from his people.
+But if someone is not clean for worship and still eats meat from the Lord's peace offering, that person must be removed from his people.
 
 #### Ages 8-10
-but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his being unclean on him, that person must be removed from his people.
+But if someone is unclean and still eats meat from the Lord's peace offering, that person must be removed from his people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -375,10 +375,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:21 - When anyone touches any unclean thing, the uncleanness of man, or an unclean animal, or any unclean abomination, and eats some of the meat of the sacrifice of peace offerings which belong to Yahweh, that soul shall be cut off from his people.' "
 
 #### Ages 5-7
-When anyone touches any unclean thing, a person's being unclean, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
+If someone touches anything not clean for worship, whether from a person, an animal, or something God calls detestable, and then eats meat from the Lord's peace offering, that person must be removed from his people.' "
 
 #### Ages 8-10
-When anyone touches any unclean thing, a person's being unclean, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
+If someone touches anything unclean, whether from a person, an animal, or something God calls detestable, and then eats meat from the Lord's peace offering, that person must be removed from his people.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -533,10 +533,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:30 - With his own hands he shall bring the offerings of Yahweh made by fire. He shall bring the fat with the breast, that the breast may be waved for a wave offering before Yahweh.
 
 #### Ages 5-7
-With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
+With his own hands he must bring the offerings burned for the Lord. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
 #### Ages 8-10
-With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
+With his own hands he must bring the offerings burned for the Lord. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -626,10 +626,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:35 - This is the consecrated portion of Aaron, and the consecrated portion of his sons, out of the offerings of Yahweh made by fire, in the day when he presented them to minister to Yahweh in the priest's office;
 
 #### Ages 5-7
-This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
+This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings burned for the Lord, in the day when he presented them to minister to the Lord in the priest's office;
 
 #### Ages 8-10
-This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
+This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings burned for the Lord, in the day when he presented them to minister to the Lord in the priest's office;
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -665,7 +665,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:37 - This is the law of the burnt offering, the meal offering, the sin offering, the trespass offering, the consecration, and the sacrifice of peace offerings
 
 #### Ages 5-7
-This is the law of the burned offering, the grain gift, the offering for sin, the offering for guilt, the setting apart, and the sacrifice of peace offerings
+This is the law of the burned offering, the grain gift, the offering for sin, the guilt offering, the setting apart, and the sacrifice of peace offerings
 
 #### Ages 8-10
 This is the law of the burned offering, the grain offering, the sin offering, the guilt offering, the setting apart, and the sacrifice of peace offerings

@@ -27,13 +27,13 @@ He must keep in order the lamps on the pure gold lamp stand before the Lord cont
 You must set them in two rows, six on a row, on the pure gold table before the Lord.
 
 ### Leviticus 24:7
-You must put pure frankincense on each row, that it may be to the bread for a memorial, even an offering burned on the altar to the Lord.
+You must put pure sweet-smelling incense on each row, that it may be to the bread as a reminder offering, even an offering burned on the altar to the Lord.
 
 ### Leviticus 24:8
 Every Sabbath day he must set it in order before the Lord continually. It is an everlasting covenant on the behalf of the people of Israel.
 
 ### Leviticus 24:9
-It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings of the Lord made by fire by a lasting rule."
+It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings burned for the Lord by a lasting rule."
 
 ### Leviticus 24:10
 The son of an Israelite woman, whose father was an Egyptian, went out among the people of Israel; and the son of the Israelite woman and a man of Israel strove together in the camp.
@@ -51,7 +51,7 @@ The Lord spoke to Moses, saying,
 "Bring the person who cursed out of the camp; and let all who heard him place their hands on his head, and let all the people stone him.
 
 ### Leviticus 24:15
-You must speak to the people of Israel, saying, 'Whoever curses his God must bear his guilt.
+You must speak to the people of Israel, saying, 'Whoever curses his God carries his guilt.
 
 ### Leviticus 24:16
 Whoever blasphemes the Lord's name, he must surely be put to death. All the whole group must certainly stone him. The foreigner as well as the native-born must be put to death when he blasphemes the Name.

@@ -77,10 +77,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:4 - He shall put on the holy linen tunic. He shall have the linen trousers on his body, and shall put on the linen sash, and he shall be clothed with the linen turban. They are the holy garments. He shall bathe his body in water, and put them on.
 
 #### Ages 5-7
-He must put on the holy linen tunic. He must have the linen trousers on his body, and must put on the linen sash, and he must be clothed with the linen turban. They are the holy clothes. He must bathe his body in water, and put them on.
+He must put on the holy linen long shirt. He must wear linen pants on his body, tie on the linen waistband, and put on the linen head wrap. These are the holy clothes. He must wash his body with water, and put them on.
 
 #### Ages 8-10
-He must put on the holy linen tunic. He must have the linen trousers on his body, and must put on the linen sash, and he must be clothed with the linen turban. They are the holy garments. He must bathe his body in water, and put them on.
+He must put on the holy linen long shirt. He must wear linen pants on his body, tie on the linen waistband, and put on the linen head wrap. These are the holy clothes. He must wash his body with water, and put them on.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -232,10 +232,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:12 - He shall take a censer full of coals of fire from off the altar before Yahweh, and two handfuls of sweet incense beaten small, and bring it within the veil.
 
 #### Ages 5-7
-He must take an incense pan full of coals of fire from off the altar before the Lord, and two handfuls of sweet-smelling incense beaten small, and bring it within the curtain.
+He must take an incense pan full of fiery coals from the altar before the Lord. He must also take two handfuls of finely crushed sweet-smelling incense and bring them inside the curtain.
 
 #### Ages 8-10
-He must take an incense pan full of coals of fire from off the altar before the Lord, and two handfuls of sweet-smelling incense beaten small, and bring it within the curtain.
+He must take an incense pan full of fiery coals from the altar before the Lord. He must also take two handfuls of finely crushed sweet-smelling incense and bring them inside the curtain.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -251,10 +251,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:13 - He shall put the incense on the fire before Yahweh, that the cloud of the incense may cover the mercy seat that is on the covenant, so that he will not die.
 
 #### Ages 5-7
-He must put the sweet-smelling incense on the fire before the Lord, that the cloud of the sweet-smelling incense may cover the atonement cover that is on the covenant, so that he will not die.
+He must put the sweet-smelling incense on the fire before the Lord. The cloud of incense must cover the atonement cover over the covenant chest, so that he will not die.
 
 #### Ages 8-10
-He must put the sweet-smelling incense on the fire before the Lord, that the cloud of the sweet-smelling incense may cover the atonement cover that is on the covenant, so that he will not die.
+He must put the sweet-smelling incense on the fire before the Lord. The cloud of incense must cover the atonement cover over the covenant chest, so that he will not die.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -307,10 +307,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:16 - He shall make atonement for the Holy Place, because of the uncleanness of the children of Israel, and because of their transgressions, even all their sins; and so he shall do for the Tent of Meeting that dwells with them in the middle of their uncleanness.
 
 #### Ages 5-7
-He must make atonement for the Holy Place, because the people of Israel were unclean, and because of their wrongs, even all their sins; and so he must do for the Tent of Meeting that lives with them in the middle of their being unclean.
+He must make atonement for the Holy Place because the people of Israel were not clean for worship, and because of all their wrongs and sins. He must do the same for the Tent of Meeting, which stands among them.
 
 #### Ages 8-10
-He must make atonement for the Holy Place, because the people of Israel were unclean, and because of their wrongs, even all their sins; and so he must do for the Tent of Meeting that lives with them in the middle of their being unclean.
+He must make atonement for the Holy Place because the people of Israel were unclean, and because of all their wrongs and sins. He must do the same for the Tent of Meeting, which stands with them among their uncleanness.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -365,10 +365,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:19 - He shall sprinkle some of the blood on it with his finger seven times, and cleanse it, and make it holy from the uncleanness of the children of Israel.
 
 #### Ages 5-7
-He must sprinkle some of the blood on it with his finger seven times, and make it clean, and make it holy from the people's being unclean.
+He must sprinkle some of the blood on the altar with his finger seven times. In this way he must make it clean and holy from what was not clean for worship among the people.
 
 #### Ages 8-10
-He must sprinkle some of the blood on it with his finger seven times, and make it clean, and make it holy from the people's being unclean.
+He must sprinkle some of the blood on the altar with his finger seven times. In this way he must make it clean and holy from the uncleanness of the people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -555,7 +555,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:30 - for on this day shall atonement be made for you, to cleanse you. You shall be clean from all your sins before Yahweh.
 
 #### Ages 5-7
-for on this day must atonement be made for you, to cleanse you. You will be clean from all your sins before the Lord.
+for on this day must atonement be made for you, to cleanse you. You will be clean for worship from all your sins before the Lord.
 
 #### Ages 8-10
 for on this day must atonement be made for you, to cleanse you. You will be clean from all your sins before the Lord.

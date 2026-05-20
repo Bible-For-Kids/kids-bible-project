@@ -56,10 +56,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:3 - "Tell them, 'If anyone of all your offspring throughout your generations approaches the holy things which the children of Israel make holy to Yahweh, having his uncleanness on him, that soul shall be cut off from before me. I am Yahweh.
 
 #### Ages 5-7
-"Tell them, 'If anyone of all your children for all your generations approaches the holy things which the people of Israel make holy to the Lord, having his being unclean on him, that person must be removed from before me. I am the Lord.
+"Tell them, 'If any of your descendants, now or in future generations, comes near the holy things of the Lord while he is not clean for worship, that person must be removed from before me. I am the Lord.
 
 #### Ages 8-10
-"Tell them, 'If anyone of all your children for all your generations approaches the holy things which the people of Israel make holy to the Lord, having his being unclean on him, that person must be removed from before me. I am the Lord.
+"Tell them, 'If any of your descendants, now or in future generations, comes near the holy things of the Lord while he is unclean, that person must be removed from before me. I am the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -76,10 +76,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:4 - " 'Whoever of the offspring of Aaron is a leper or has a discharge shall not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a seminal emission,
 
 #### Ages 5-7
-"Whoever of the children of Aaron is a person with a serious disease or has a discharge must not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a fluid from his body,
+"If any of Aaron's descendants has a serious skin disease or an unusual flow from his body, he must not eat the holy things until he is clean for worship. The same is true if he touches something not clean for worship because of a dead body, or touches a man who has fluid from his body,
 
 #### Ages 8-10
-"Whoever of the children of Aaron is a person with a serious disease or has a discharge must not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a fluid from his body,
+"If any of Aaron's descendants has a serious skin disease or a discharge, he must not eat the holy things until he is clean. The same is true if he touches something made unclean by a dead body, or touches a man who has semen from his body,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -94,10 +94,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:5 - or whoever touches any creeping thing whereby he may be made unclean, or a man from whom he may become unclean, whatever uncleanness he has—
 
 #### Ages 5-7
-or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever being unclean he has-
+or if he touches a small crawling thing that makes him not clean for worship, or touches a person whose condition can make him not clean for worship.
 
 #### Ages 8-10
-or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever being unclean he has-
+or if he touches a small crawling thing that makes him unclean, or touches a person whose uncleanness can make him unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -108,7 +108,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:6 - the person that touches any such shall be unclean until the evening, and shall not eat of the holy things unless he bathes his body in water.
 
 #### Ages 5-7
-the person that touches any such will be unclean until the evening, and must not eat of the holy things unless he bathes his body in water.
+the person that touches any such will not be clean for worship until the evening, and must not eat of the holy things unless he bathes his body in water.
 
 #### Ages 8-10
 the person that touches any such will be unclean until the evening, and must not eat of the holy things unless he bathes his body in water.
@@ -125,7 +125,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:7 - When the sun is down, he shall be clean; and afterward he shall eat of the holy things, because it is his bread.
 
 #### Ages 5-7
-When the sun is down, he will be clean; and afterward he must eat of the holy things, because it is his bread.
+When the sun is down, he will be clean for worship; and afterward he must eat of the holy things, because it is his bread.
 
 #### Ages 8-10
 When the sun is down, he will be clean; and afterward he must eat of the holy things, because it is his bread.
@@ -142,10 +142,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:8 - He shall not eat that which dies of itself or is torn by animals, defiling himself by it. I am Yahweh.
 
 #### Ages 5-7
-He must not eat that which dies of itself or is torn by animals, making himself unclean by it. I am the Lord.
+He must not eat an animal that died by itself or was torn by wild animals, because that would make him not clean for worship. I am the Lord.
 
 #### Ages 8-10
-He must not eat that which dies of itself or is torn by animals, making himself unclean by it. I am the Lord.
+He must not eat an animal that died by itself or was torn by wild animals, because that would make him unclean. I am the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -251,10 +251,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:14 - " 'If a man eats something holy unwittingly, then he shall add the fifth part of its value to it, and shall give the holy thing to the priest.
 
 #### Ages 5-7
-"If a man eats something holy without knowing it, then he must add the fifth part of its value to it, and must give the holy thing to the priest.
+"If a man eats something holy without knowing it, then he must add one fifth more of its value to it, and must give the holy thing to the priest.
 
 #### Ages 8-10
-"If a man eats something holy without knowing it, then he must add the fifth part of its value to it, and must give the holy thing to the priest.
+"If a man eats something holy without knowing it, then he must add one fifth more of its value to it, and must give the holy thing to the priest.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -329,10 +329,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:18 - "Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, 'Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to Yahweh for a burnt offering:
 
 #### Ages 5-7
-"Speak to Aaron, and to his sons, and to all the people of Israel, and say to them, 'Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to the Lord for a burned offering:
+"Speak to Aaron, his sons, and all the people of Israel. Say to them, 'If any Israelite or foreigner living in Israel brings a burned offering to the Lord, whether it is for a special promise or a gift he chooses to bring,
 
 #### Ages 8-10
-"Speak to Aaron, and to his sons, and to all the people of Israel, and say to them, 'Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to the Lord for a burned offering:
+"Speak to Aaron, his sons, and all the people of Israel. Say to them, 'If any Israelite or foreigner living in Israel brings a burned offering to the Lord, whether it is for a vow or a freewill gift,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -364,10 +364,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:20 - But you shall not offer whatever has a defect, for it shall not be acceptable for you.
 
 #### Ages 5-7
-But you must not offer whatever has a blemish, for it must not be acceptable for you.
+You must not offer an animal that has something wrong with it, because it will not be accepted for you.
 
 #### Ages 8-10
-But you must not offer whatever has a blemish, for it must not be acceptable for you.
+You must not offer an animal that has a defect, because it will not be accepted for you.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -378,10 +378,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:21 - Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a free will offering of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect.
 
 #### Ages 5-7
-Whoever offers a sacrifice of peace offerings to the Lord to accomplish a vow, or for a free will offering of the herd or of the flock, it must be perfect to be accepted. It must have no blemish.
+If someone brings a peace offering to the Lord to keep a special promise or as a gift he chooses to bring from the herd or flock, the animal must be whole and healthy to be accepted. It must have nothing wrong with it.
 
 #### Ages 8-10
-Whoever offers a sacrifice of peace offerings to the Lord to accomplish a vow, or for a free will offering of the herd or of the flock, it must be perfect to be accepted. It must have no blemish.
+If someone brings a peace offering to the Lord to keep a vow or as a freewill gift from the herd or flock, the animal must be whole and healthy to be accepted. It must have no defect.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -398,10 +398,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:22 - You shall not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to Yahweh, nor make an offering by fire of them on the altar to Yahweh.
 
 #### Ages 5-7
-You must not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to the Lord, nor make an offering by fire of them on the altar to the Lord.
+You must not offer the Lord an animal that is blind, injured, crippled, has sores, or has a skin disease. You must not put any such animal on the altar as an offering burned to the Lord.
 
 #### Ages 8-10
-You must not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to the Lord, nor make an offering by fire of them on the altar to the Lord.
+You must not offer the Lord an animal that is blind, injured, crippled, has sores, or has a skin disease. You must not put any such animal on the altar as an offering burned to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -418,10 +418,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:23 - Either a bull or a lamb that has any deformity or lacking in his parts, that you may offer for a free will offering; but for a vow it shall not be accepted.
 
 #### Ages 5-7
-Either a bull or a lamb that has any deformity or lacking in his parts, that you may offer for a free will offering; but for a vow it must not be accepted.
+You may bring a bull or lamb with one body part too long or too short as a gift you choose to bring, but it will not be accepted for a special promise.
 
 #### Ages 8-10
-Either a bull or a lamb that has any deformity or lacking in his parts, that you may offer for a free will offering; but for a vow it must not be accepted.
+You may bring a bull or lamb with one body part too long or too short as a freewill gift, but it will not be accepted for a vow.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -435,10 +435,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:24 - You must not offer to Yahweh that which has its testicles bruised, crushed, broken, or cut. You must not do this in your land.
 
 #### Ages 5-7
-You must not offer to the Lord that which has its testicles bruised, crushed, broken, or cut. You must not do this in your land.
+You must not offer the Lord an animal whose male body parts are bruised, crushed, torn, or cut. You must not do this in your land.
 
 #### Ages 8-10
-You must not offer to the Lord that which has its testicles bruised, crushed, broken, or cut. You must not do this in your land.
+You must not offer the Lord an animal whose male body parts are bruised, crushed, torn, or cut. You must not do this in your land.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -453,10 +453,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:25 - You must not offer any of these as the bread of your God from the hand of a foreigner, because their corruption is in them. There is a defect in them. They shall not be accepted for you.' "
 
 #### Ages 5-7
-You must not offer any of these as the bread of your God from the hand of a foreigner, because their corruption is in them. There is a blemish in them. They must not be accepted for you.' "
+You must not accept any such animal from a foreigner to offer as the food of your God. Because something is wrong with the animal, it will not be accepted for you.' "
 
 #### Ages 8-10
-You must not offer any of these as the bread of your God from the hand of a foreigner, because their corruption is in them. There is a blemish in them. They must not be accepted for you.' "
+You must not accept any such animal from a foreigner to offer as the food of your God. Because it has a defect, it will not be accepted for you.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -489,10 +489,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:27 - "When a bull, a sheep, or a goat is born, it shall remain seven days with its mother. From the eighth day on it shall be accepted for the offering of an offering made by fire to Yahweh.
 
 #### Ages 5-7
-"When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering of an offering burned on the altar to the Lord.
+"When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering burned on the altar to the Lord.
 
 #### Ages 8-10
-"When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering of an offering burned on the altar to the Lord.
+"When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering burned on the altar to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -509,7 +509,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 22:28 - Whether it is a cow or ewe, you shall not kill it and its young both in one day.
 
 #### Ages 5-7
-Whether it is a cow or ewe, you must not kill it and its young both in one day.
+Whether it is a cow or female sheep, you must not kill it and its young both in one day.
 
 #### Ages 8-10
 Whether it is a cow or ewe, you must not kill it and its young both in one day.

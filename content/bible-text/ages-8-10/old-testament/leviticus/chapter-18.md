@@ -63,10 +63,10 @@ You must therefore keep my rules and my commands. If a man does them, he will li
 "You must not take a wife in addition to her sister, to be a rival, to have sexual relations with her, while her sister is still alive.
 
 ### Leviticus 18:19
-"You must not approach a woman to have sexual relations with her, as long as she is impure by her being unclean.
+"You must not come near a woman to have sexual relations with her while she is unclean because of her monthly period.
 
 ### Leviticus 18:20
-"You must not have sexual relations with your neighbor's wife, and make yourself unclean with her.
+"You must not have sexual relations with your neighbor's wife, because that would make you unclean with her.
 
 ### Leviticus 18:21
 "You must not give any of your children as a sacrifice to Molech. You must not dishonor the name of your God. I am the Lord.
@@ -75,25 +75,25 @@ You must therefore keep my rules and my commands. If a man does them, he will li
 "You must not have sexual relations with a man as with a woman. That is detestable.
 
 ### Leviticus 18:23
-"You must not have sexual relations with any animal to make yourself unclean with it. No woman may give herself to an animal, to lie down with it: it is a perversion.
+"You must not have sexual relations with any animal, because that would make you unclean. No woman may go to an animal to have sexual relations with it. It is a perversion.
 
 ### Leviticus 18:24
-"Don't make yourselves unclean in any of these things; for in all these the nations which I am casting out before you were made unclean.
+"Do not make yourselves unclean in any of these things. The nations I am driving out before you did these things and became unclean.
 
 ### Leviticus 18:25
-The land was made unclean. Therefore I punished its sin, and the land vomited out its people.
+Even the land became unclean because of their sin. So I punished its sin, and the land vomited out its people.
 
 ### Leviticus 18:26
 You therefore must keep my rules and my commands, and must not do any of these detestable things; neither the native-born, nor the foreigner who lives among you
 
 ### Leviticus 18:27
-(for the men of the land that were before you had done all these detestable things, and the land became unclean),
+The people who lived in the land before you did all these detestable things, and the land became unclean.
 
 ### Leviticus 18:28
-that the land not vomit you out also, when you make it unclean, as it vomited out the nation that was before you.
+If you make the land unclean, it may vomit you out too, just as it vomited out the nation before you.
 
 ### Leviticus 18:29
 "For whoever does any of these detestable things, even the people who do them must be removed from among their people.
 
 ### Leviticus 18:30
-Therefore you must keep my requirements, that you do not practice any of these detestable customs which were practiced before you, and that you do not make yourselves unclean with them. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "

@@ -124,10 +124,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 8:7 - He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.
 
 #### Ages 5-7
-He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.
+He put the long shirt on Aaron, tied the waistband around him, put the robe on him, and put the priestly vest on him. Then he tied the woven belt of the vest around him to hold it in place.
 
 #### Ages 8-10
-He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.
+He put the long shirt on Aaron, tied the waistband around him, put the robe on him, and put the priestly vest on him. Then he tied the woven belt of the vest around him to hold it in place.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -152,10 +152,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 8:9 - He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as Yahweh commanded Moses.
 
 #### Ages 5-7
-He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as the Lord commanded Moses.
+He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
 
 #### Ages 8-10
-He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as the Lord commanded Moses.
+He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -172,7 +172,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 8:10 - Moses took the anointing oil, and anointed the tabernacle and all that was in it, and sanctified them.
 
 #### Ages 5-7
-Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
+Moses took the anointing oil, and anointed the holy tent and all that was in it, and made them holy.
 
 #### Ages 8-10
 Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
@@ -227,10 +227,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 8:13 - Moses brought Aaron's sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as Yahweh commanded Moses.
 
 #### Ages 5-7
-Moses brought Aaron's sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as the Lord commanded Moses.
+Moses brought Aaron's sons, dressed them in long shirts, tied waistbands on them, and put headbands on them, as the Lord commanded Moses.
 
 #### Ages 8-10
-Moses brought Aaron's sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as the Lord commanded Moses.
+Moses brought Aaron's sons, dressed them in long shirts, tied waistbands on them, and put headbands on them, as the Lord commanded Moses.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

@@ -36,16 +36,16 @@ Then the Lord said to Aaron,
 "You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This must be a lasting rule for all your generations.
 
 ### Leviticus 10:10
-You are to make a distinction between the holy and the common, and between the unclean and the clean.
+You are to make a distinction between the holy and the common, and between what is not clean for worship and what is clean for worship.
 
 ### Leviticus 10:11
 You are to teach the people of Israel all the rules which the Lord has spoken to them by Moses."
 
 ### Leviticus 10:12
-Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain gift that remains of the offerings of the Lord made by fire, and eat it without yeast beside the altar; for it is most holy;
+Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain gift that remains of the offerings burned for the Lord, and eat it without yeast beside the altar; for it is most holy;
 
 ### Leviticus 10:13
-and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings of the Lord made by fire; for so I am commanded.
+and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings burned for the Lord; for so I am commanded.
 
 ### Leviticus 10:14
 The breast lifted before the Lord and the contributed thigh you must eat in a clean place, you, and your sons, and your daughters with you: for they are given as your portion, and your sons' portion, out of the sacrifices of the peace offerings of the people of Israel.

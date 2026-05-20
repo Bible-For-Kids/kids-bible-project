@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, saying, 'If anyone sins unintentionally, in any of the things which the Lord has commanded not to be done, and does any one of them,
 
 ### Leviticus 4:3
-if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull with nothing wrong with it to the Lord for an offering for sin.
+if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin he committed a young bull with nothing wrong with it to the Lord for an offering for sin.
 
 ### Leviticus 4:4
 He must bring the bull to the door of the Tent of Meeting before the Lord; and he must place his hand on the head of the bull, and kill the bull before the Lord.
@@ -90,7 +90,7 @@ All its fat he must burn on the altar, like the fat of the sacrifice of peace of
 "If anyone of the common people sins without knowing it, in doing any of the things which the Lord has commanded not to be done, and is guilty,
 
 ### Leviticus 4:28
-if his sin which he has sinned is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin which he has sinned.
+if his sin he committed is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin he committed.
 
 ### Leviticus 4:29
 He must place his hand on the head of the offering for sin, and kill the offering for sin in the place of burned offering.
@@ -111,4 +111,4 @@ He must place his hand on the head of the offering for sin, and kill it for an o
 The priest must take some of the blood of the offering for sin with his finger, and put it on the horns of the altar of burned offering; and all the rest of its blood he must pour out at the base of the altar.
 
 ### Leviticus 4:35
-He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings of the Lord made by fire. The priest must make atonement for him, to help make things right with God concerning his sin that he has sinned, and he will be forgiven.
+He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings burned for the Lord. The priest must make atonement for him, to help make things right with God concerning his sin, and he will be forgiven.

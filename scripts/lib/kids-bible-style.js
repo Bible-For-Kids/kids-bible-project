@@ -68,7 +68,7 @@ const hardBlockedTerms = [
     message: 'Use "people" instead of "persons" in child-facing Bible text.',
   },
   {
-    pattern: /\b(being made clean impurity|sweet sweet-smelling|Holy Holy|person loathes|made holy (it|them)|make holy (it|them)|sweet-smelling incense pan|a incense pan|afflict your people|an basket measure|an priestly vest|a atonement cover|body uncovered is not uncovered)\b/i,
+    pattern: /\b(being made clean impurity|sweet sweet-smelling|sweet-smelling sweet-smelling|clean for worship for worship|disease skin-disease|piece of a piece|on the altar on the altar|offering of an offering|Holy Holy|person loathes|made holy (it|them)|make holy (it|them)|sweet-smelling incense pan|a incense pan|afflict your people|an basket measure|an priestly vest|a atonement cover|body uncovered is not uncovered)\b/i,
     message: 'Fix generated phrasing so the verse reads naturally for children.',
   },
   {

@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a vow, according to your valuation,
 
 ### Leviticus 27:3
-your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight.
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place.
 
 ### Leviticus 27:4
 If she is a female, then your valuation must be thirty silver pieces.
@@ -45,13 +45,13 @@ If it is any unclean animal, of which they do not offer as an offering to the Lo
 and the priest must evaluate it, whether it is good or bad. As the priest evaluates it, so it must be.
 
 ### Leviticus 27:13
-But if he will indeed redeem it, then he must add the fifth part of it to its valuation.
+But if he will indeed redeem it, then he must add one fifth more of it to its valuation.
 
 ### Leviticus 27:14
 "When a man dedicates his house to be holy to the Lord, then the priest must evaluate it, whether it is good or bad. As the priest evaluates it, so it must stand.
 
 ### Leviticus 27:15
-If whoever dedicates it will redeem his house, then he must add the fifth part of the money of your valuation to it, and it must be his.
+If whoever dedicates it will redeem his house, then he must add one fifth more of the money of your valuation to it, and it must be his.
 
 ### Leviticus 27:16
 "If a man dedicates to the Lord part of the field of his possession, then your valuation must be according to the seed for it. The sowing of a large measure of barley must be valued at fifty silver pieces.
@@ -63,7 +63,7 @@ If he dedicates his field from the Year of Jubilee, according to your valuation 
 But if he dedicates his field after the Jubilee, then the priest must count to him the money according to the years that remain to the Year of Jubilee; and an abatement must be made from your valuation.
 
 ### Leviticus 27:19
-If whoever dedicated the field will indeed redeem it, then he must add the fifth part of the money of your valuation to it, and it must remain his.
+If whoever dedicated the field will indeed redeem it, then he must add one fifth more of the money of your valuation to it, and it must remain his.
 
 ### Leviticus 27:20
 If he will not redeem the field, or if he has sold the field to another man, it must not be redeemed any more;
@@ -81,13 +81,13 @@ then the priest must count to him the worth of your valuation up to the Year of 
 In the Year of Jubilee the field must return to him from whom it was bought, even to him to whom the possession of the land belongs.
 
 ### Leviticus 27:25
-All your valuations must be according to the holy place weight: twenty small weight units to the silver piece.
+All your valuations must be by the weight used at the holy place: twenty small weight units to the silver piece.
 
 ### Leviticus 27:26
 "However the firstborn among animals, which belongs to the Lord as a firstborn, no man may dedicate, whether an ox or a sheep. It is the Lord's.
 
 ### Leviticus 27:27
-If it is an unclean animal, then he must buy it back according to your valuation, and must add to it the fifth part of it; or if it isn't redeemed, then it must be sold according to your valuation.
+If it is an unclean animal, then he must buy it back according to your valuation, and must add to it one fifth more of it; or if it isn't redeemed, then it must be sold according to your valuation.
 
 ### Leviticus 27:28
 "Notwithstanding, no devoted thing that a man devotes to the Lord of all that he has, whether of man or animal, or of the field of his possession, must be sold or redeemed. Everything that is permanently devoted is most holy to the Lord.
@@ -99,7 +99,7 @@ If it is an unclean animal, then he must buy it back according to your valuation
 "All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is the Lord's. It is holy to the Lord.
 
 ### Leviticus 27:31
-If a man redeems anything of his tithe, he must add a fifth part to it.
+If a man redeems anything of his tithe, he must add one fifth more to it.
 
 ### Leviticus 27:32
 All the tithe of the herds or the flocks, whatever passes under the rod, the tenth will be holy to the Lord.

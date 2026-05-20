@@ -21,10 +21,10 @@ or has found that which was lost, and lied about it, and swearing to a lie-in an
 then it must be, if he has sinned, and is guilty, he must restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found,
 
 ### Leviticus 6:5
-or any thing about which he has sworn falsely: he must restore it in full, and must add a fifth part more to it. He must return it to him to whom it belongs in the day of his being found guilty.
+or any thing about which he has sworn falsely: he must restore it in full, and must add one fifth more more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 ### Leviticus 6:6
-He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation, for a guilt offering, to the priest.
+He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to its value, for a guilt offering, to the priest.
 
 ### Leviticus 6:7
 The priest must make atonement for him before the Lord, and he will be forgiven concerning whatever he does to become guilty."
@@ -51,7 +51,7 @@ Fire must be kept burning on the altar continually; it must not go out.
 "This is the law of the grain offering: the sons of Aaron must offer it before the Lord, before the altar.
 
 ### Leviticus 6:15
-He must take from there his handful of the fine flour of the grain offering, and of its oil, and all the frankincense which is on the grain offering, and must burn it on the altar for a pleasant aroma, as its memorial portion, to the Lord.
+He must take from there his handful of the fine flour of the grain offering, and of its oil, and all the sweet-smelling incense which is on the grain offering, and must burn it on the altar for a pleasant aroma, as its part burned before the Lord, to the Lord.
 
 ### Leviticus 6:16
 That which is left of it Aaron and his sons must eat. It must be eaten without yeast in a holy place. They must eat it in the court of the Tent of Meeting.
@@ -60,7 +60,7 @@ That which is left of it Aaron and his sons must eat. It must be eaten without y
 It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the sin offering and the guilt offering.
 
 ### Leviticus 6:18
-Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings of the Lord made by fire. Whoever touches them will be holy.' "
+Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings burned for the Lord. Whoever touches them will be holy.' "
 
 ### Leviticus 6:19
 The Lord spoke to Moses, saying,

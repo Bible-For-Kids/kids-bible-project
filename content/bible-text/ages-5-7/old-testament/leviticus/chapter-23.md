@@ -120,7 +120,7 @@ Seven days you must offer an offering burned on the altar to the Lord. On the ei
 "These are the appointed feasts of the Lord which you must proclaim to be holy gatherings, to offer an offering burned on the altar to the Lord, a burned offering, a grain gift, a sacrifice, and drink gifts, each on its own day-
 
 ### Leviticus 23:38
-in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to the Lord.
+in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your special promises, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
 ### Leviticus 23:39
 "So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a solemn rest, and on the eighth day there must be a solemn rest.

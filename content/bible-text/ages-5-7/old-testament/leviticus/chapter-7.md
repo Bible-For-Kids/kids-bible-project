@@ -9,10 +9,10 @@ Leviticus
 ## Verses
 
 ### Leviticus 7:1
-"This is the law of the offering for guilt: It is most holy.
+"This is the law of the guilt offering: It is most holy.
 
 ### Leviticus 7:2
-In the place where they kill the burned offering, he must kill the offering for guilt; and its blood he must sprinkle around on the altar.
+In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar.
 
 ### Leviticus 7:3
 He must offer all of its fat: the fat tail, and the fat that covers the inner parts,
@@ -21,13 +21,13 @@ He must offer all of its fat: the fat tail, and the fat that covers the inner pa
 and he must take away the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys;
 
 ### Leviticus 7:5
-and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is an offering for guilt.
+and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is a guilt offering.
 
 ### Leviticus 7:6
 Every male among the priests may eat of it. It must be eaten in a holy place. It is most holy.
 
 ### Leviticus 7:7
-"As is the offering for sin, so is the offering for guilt; there is one law for them. The priest who makes atonement with them must have it.
+"As is the offering for sin, so is the guilt offering; there is one law for them. The priest who makes atonement with them must have it.
 
 ### Leviticus 7:8
 The priest who offers any man's burned offering must have for himself the skin of the burned offering which he has offered.
@@ -54,7 +54,7 @@ Of it he must offer one out of each offering for a special offering to the Lord.
 The flesh of the sacrifice of his peace offerings for thanksgiving must be eaten on the day of his offering. He must not leave any of it until the morning.
 
 ### Leviticus 7:16
-"But if the sacrifice of his offering is a vow, or a free will offering, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
+"But if the sacrifice of his offering is a special promise, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
 
 ### Leviticus 7:17
 but what remains of the meat of the sacrifice on the third day must be burned with fire.
@@ -63,13 +63,13 @@ but what remains of the meat of the sacrifice on the third day must be burned wi
 If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a detestable thing, and the person who eats any of it will bear his sin.
 
 ### Leviticus 7:19
-"The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
+"The meat that touches any thing not clean for worship must not be eaten. It must be burned with fire. As for the meat, everyone who is clean for worship may eat it;
 
 ### Leviticus 7:20
-but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his being unclean on him, that person must be removed from his people.
+But if someone is not clean for worship and still eats meat from the Lord's peace offering, that person must be removed from his people.
 
 ### Leviticus 7:21
-When anyone touches any unclean thing, a person's being unclean, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
+If someone touches anything not clean for worship, whether from a person, an animal, or something God calls detestable, and then eats meat from the Lord's peace offering, that person must be removed from his people.' "
 
 ### Leviticus 7:22
 The Lord spoke to Moses, saying,
@@ -96,7 +96,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, saying, 'Whoever offers the sacrifice of his peace offerings to the Lord must bring his offering to the Lord out of the sacrifice of his peace offerings.
 
 ### Leviticus 7:30
-With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
+With his own hands he must bring the offerings burned for the Lord. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
 ### Leviticus 7:31
 The priest must burn the fat on the altar, but the breast must be Aaron's and his sons'.
@@ -111,13 +111,13 @@ He among the sons of Aaron who offers the blood of the peace offerings, and the 
 For the breast lifted before the Lord and the contributed thigh I have taken from the people of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the people of Israel.' "
 
 ### Leviticus 7:35
-This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
+This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings burned for the Lord, in the day when he presented them to minister to the Lord in the priest's office;
 
 ### Leviticus 7:36
 which the Lord commanded to be given them of the people of Israel, in the day that he anointed them. It is their portion forever for all their generations.
 
 ### Leviticus 7:37
-This is the law of the burned offering, the grain gift, the offering for sin, the offering for guilt, the setting apart, and the sacrifice of peace offerings
+This is the law of the burned offering, the grain gift, the offering for sin, the guilt offering, the setting apart, and the sacrifice of peace offerings
 
 ### Leviticus 7:38
 which the Lord commanded Moses in Mount Sinai in the day that he commanded the people of Israel to offer their offerings to the Lord, in the wilderness of Sinai.

@@ -16,10 +16,10 @@ Leviticus gives Israel worship laws, holiness laws, and priestly instructions fo
 **Original Reference**: Leviticus 21:1 - Yahweh said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest shall not defile himself for the dead among his people,
 
 #### Ages 5-7
-The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must not make himself unclean for the dead among his people,
+The Lord said to Moses, "Speak to the priests, Aaron's sons, and say to them, 'A priest must not touch a dead person among his people in a way that makes him not clean for worship,
 
 #### Ages 8-10
-The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must not make himself unclean for the dead among his people,
+The Lord said to Moses, "Speak to the priests, Aaron's sons, and say to them, 'A priest must not make himself unclean by touching a dead person among his people,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -51,10 +51,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:3 - and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.
 
 #### Ages 5-7
-and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean.
+or for his unmarried sister who is close to him and has never had a husband. For her, he may do what makes him not clean for worship.
 
 #### Ages 8-10
-and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean.
+or for his unmarried sister who is close to him and has never had a husband. For her, he may make himself unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -65,10 +65,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:4 - He shall not defile himself, being a chief man among his people, to profane himself.
 
 #### Ages 5-7
-He must not make himself unclean, being a chief man among his people, to dishonor himself.
+As a leader among his people, he must not do this for others in a way that dishonors himself.
 
 #### Ages 8-10
-He must not make himself unclean, being a chief man among his people, to dishonor himself.
+As a leader among his people, he must not make himself unclean in a way that dishonors himself.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -93,10 +93,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:6 - They shall be holy to their God, and not profane the name of their God, for they offer the offerings of Yahweh made by fire, the bread of their God. Therefore they shall be holy.
 
 #### Ages 5-7
-They will be holy to their God, and not dishonor the name of their God, for they offer the offerings of the Lord made by fire, the bread of their God. Therefore they will be holy.
+They must be holy to their God and must not dishonor God's name. They bring the Lord's offerings burned on the altar, the food offerings of their God, so they must be holy.
 
 #### Ages 8-10
-They will be holy to their God, and not dishonor the name of their God, for they offer the offerings of the Lord made by fire, the bread of their God. Therefore they will be holy.
+They must be holy to their God and must not dishonor God's name. They bring the Lord's offerings burned on the altar, the food offerings of their God, so they must be holy.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -133,10 +133,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:8 - Therefore you shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I Yahweh, who sanctify you, am holy.
 
 #### Ages 5-7
-Therefore you must make him holy, for he offers the bread of your God. He will be holy to you, for I the Lord, who make holy you, am holy.
+You must treat the priest as holy, because he offers the food of your God. He must be holy to you, because I, the Lord who makes you holy, am holy.
 
 #### Ages 8-10
-Therefore you must make him holy, for he offers the bread of your God. He will be holy to you, for I the Lord, who make holy you, am holy.
+You must treat the priest as holy, because he offers the food of your God. He must be holy to you, because I, the Lord who makes you holy, am holy.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -153,10 +153,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:9 - " 'The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire.
 
 #### Ages 5-7
-"The daughter of any priest, if she profanes herself through sexual sin, she profanes her father. She must be burned with fire.
+"If a priest's daughter dishonors herself through sexual sin, she dishonors her father. She must be burned with fire.
 
 #### Ages 8-10
-"The daughter of any priest, if she profanes herself through sexual sin, she profanes her father. She must be burned with fire.
+"If a priest's daughter dishonors herself through sexual sin, she dishonors her father. She must be burned with fire.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -188,10 +188,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:11 - He must not go in to any dead body, or defile himself for his father or for his mother.
 
 #### Ages 5-7
-He must not go in to any dead body, or make himself unclean for his father or for his mother.
+He must not go near any dead body in a way that makes him not clean for worship, not even for his father or mother.
 
 #### Ages 8-10
-He must not go in to any dead body, or make himself unclean for his father or for his mother.
+He must not go near any dead body or make himself unclean, not even for his father or mother.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -202,10 +202,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:12 - He shall not go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am Yahweh.
 
 #### Ages 5-7
-He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+He must not leave the holy place or dishonor the holy place of his God, because the special anointing oil of his God is on him. I am the Lord.
 
 #### Ages 8-10
-He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+He must not leave the holy place or dishonor the holy place of his God, because the special anointing oil of his God is on him. I am the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -222,10 +222,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:13 - " 'He shall take a wife in her virginity.
 
 #### Ages 5-7
-"He must take a wife in her virginity.
+"He must marry a woman who has never been married.
 
 #### Ages 8-10
-"He must take a wife in her virginity.
+"He must marry a virgin from his own people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -236,10 +236,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:14 - He shall not marry a widow, or one divorced, or a woman who has been defiled, or a prostitute. He shall take a virgin of his own people as a wife.
 
 #### Ages 5-7
-He must not marry a widow, or one divorced, or a woman who has been made unclean, or a woman living in sexual sin. He must take a virgin of his own people as a wife.
+He must not marry a widow, a divorced woman, a woman who has been dishonored, or a woman living in sexual sin. He must marry a woman from his own people who has never been married.
 
 #### Ages 8-10
-He must not marry a widow, or one divorced, or a woman who has been made unclean, or a woman living in sexual sin. He must take a virgin of his own people as a wife.
+He must not marry a widow, a divorced woman, a woman who has been dishonored, or a woman living in sexual sin. He must marry a virgin from his own people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -253,10 +253,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:15 - He shall not profane his offspring among his people, for I am Yahweh who sanctifies him.' "
 
 #### Ages 5-7
-He must not dishonor his children among his people, for I am the Lord who makes holy him.' "
+He must not dishonor his children among his people, because I am the Lord who makes him holy.' "
 
 #### Ages 8-10
-He must not dishonor his children among his people, for I am the Lord who makes holy him.' "
+He must not dishonor his children among his people, because I am the Lord who makes him holy.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -291,10 +291,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:17 - "Say to Aaron, 'None of your offspring throughout their generations who has a defect may approach to offer the bread of his God.
 
 #### Ages 5-7
-"Say to Aaron, 'None of your children for all their generations who has a blemish may approach to offer the bread of his God.
+"Say to Aaron, 'In every generation, none of your descendants who has a serious physical condition may come near to offer the food of his God.
 
 #### Ages 8-10
-"Say to Aaron, 'None of your children for all their generations who has a blemish may approach to offer the bread of his God.
+"Say to Aaron, 'In every generation, none of your descendants who has a serious physical condition may come near to offer the food of his God.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -309,10 +309,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:18 - For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity,
 
 #### Ages 5-7
-For whatever man he is that has a blemish, he must not draw near: a blind man, or a lame, or whoever has a flat nose, or any deformity,
+A man with a serious physical condition must not come near: a blind man, a man who cannot walk well, a man with a face shaped differently, or a man with another body difference,
 
 #### Ages 8-10
-For whatever man he is that has a blemish, he must not draw near: a blind man, or a lame, or whoever has a flat nose, or any deformity,
+A man with a serious physical condition must not come near: a blind man, a lame man, a man with a face shaped differently, or a man with another body difference,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -337,10 +337,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:20 - or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles.
 
 #### Ages 5-7
-or hunchbacked, or a dwarf, or one who has a blemish in his eye, or an itching disease, or scabs, or who has damaged testicles.
+or a man with a bent back, a very short body, an eye problem, an itching disease, scabs, or damaged male body parts.
 
 #### Ages 8-10
-or hunchbacked, or a dwarf, or one who has a blemish in his eye, or an itching disease, or scabs, or who has damaged testicles.
+or a man with a bent back, a very short body, an eye problem, an itching disease, scabs, or damaged male body parts.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -351,10 +351,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:21 - No man of the offspring of Aaron the priest who has a defect shall come near to offer the offerings of Yahweh made by fire. Since he has a defect, he shall not come near to offer the bread of his God.
 
 #### Ages 5-7
-No man of the children of Aaron the priest who has a blemish must come near to offer the offerings of the Lord made by fire. Since he has a blemish, he must not come near to offer the bread of his God.
+No descendant of Aaron the priest who has a serious physical condition may come near to offer the Lord's offerings burned on the altar. Since he has that condition, he must not come near to offer the food of his God.
 
 #### Ages 8-10
-No man of the children of Aaron the priest who has a blemish must come near to offer the offerings of the Lord made by fire. Since he has a blemish, he must not come near to offer the bread of his God.
+No descendant of Aaron the priest who has a serious physical condition may come near to offer the Lord's offerings burned on the altar. Since he has that condition, he must not come near to offer the food of his God.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -372,10 +372,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:22 - He shall eat the bread of his God, both of the most holy, and of the holy.
 
 #### Ages 5-7
-He must eat the bread of his God, both of the most holy, and of the holy.
+He may still eat the food of his God, both the most holy food and the holy food.
 
 #### Ages 8-10
-He must eat the bread of his God, both of the most holy, and of the holy.
+He may still eat the food of his God, both the most holy food and the holy food.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -390,10 +390,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 21:23 - He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am Yahweh who sanctifies them.' "
 
 #### Ages 5-7
-He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+But he must not come near the curtain or the altar, because of his physical condition, so that he does not dishonor my holy places. I am the Lord who makes them holy.' "
 
 #### Ages 8-10
-He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+But he must not come near the curtain or the altar, because of his physical condition, so that he does not dishonor my holy places. I am the Lord who makes them holy.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

@@ -36,7 +36,7 @@ He placed the breastplate on him. He put the Urim and Thummim in the breastplate
 He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
 
 ### Leviticus 8:10
-Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
+Moses took the anointing oil, and anointed the holy tent and all that was in it, and made them holy.
 
 ### Leviticus 8:11
 He sprinkled it on the altar seven times, and anointed the altar and all its containers, and the basin and its base, to make them holy.

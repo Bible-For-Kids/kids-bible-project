@@ -21,10 +21,10 @@ or has found that which was lost, and lied about it, and swearing to a lie-in an
 then it must be, if he has sinned, and is guilty, he must restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found,
 
 ### Leviticus 6:5
-or any thing about which he has sworn falsely: he must restore it in full, and must add a fifth part more to it. He must return it to him to whom it belongs in the day of his being found guilty.
+or any thing about which he has sworn falsely: he must restore it in full, and must add one fifth more more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 ### Leviticus 6:6
-He must bring his offering for guilt to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation, for an offering for guilt, to the priest.
+He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to its value, for a guilt offering, to the priest.
 
 ### Leviticus 6:7
 The priest must make atonement for him, to help make things right with God before the Lord, and he will be forgiven concerning whatever he does to become guilty."
@@ -36,7 +36,7 @@ The Lord spoke to Moses, saying,
 "Command Aaron and his sons, saying, 'This is the law of the burned offering: the burned offering must be on the hearth on the altar all night until the morning; and the fire of the altar must be kept burning on it.
 
 ### Leviticus 6:10
-The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
+The priest must put on his linen piece of clothing, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
 
 ### Leviticus 6:11
 He must take off his clothes, and put on other clothes, and carry the ashes outside the camp to a clean place.
@@ -51,22 +51,22 @@ Fire must be kept burning on the altar continually; it must not go out.
 "This is the law of the grain gift: the sons of Aaron must offer it before the Lord, before the altar.
 
 ### Leviticus 6:15
-He must take from there his handful of the fine flour of the grain gift, and of its oil, and all the frankincense which is on the grain gift, and must burn it on the altar for a pleasing smell, as its memorial portion, to the Lord.
+He must take from there his handful of the fine flour of the grain gift, and of its oil, and all the sweet-smelling incense which is on the grain gift, and must burn it on the altar for a pleasing smell, as its part burned before the Lord, to the Lord.
 
 ### Leviticus 6:16
 That which is left of it Aaron and his sons must eat. It must be eaten without yeast in a holy place. They must eat it in the court of the Tent of Meeting.
 
 ### Leviticus 6:17
-It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the offering for sin and the offering for guilt.
+It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the offering for sin and the guilt offering.
 
 ### Leviticus 6:18
-Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings of the Lord made by fire. Whoever touches them will be holy.' "
+Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings burned for the Lord. Whoever touches them will be holy.' "
 
 ### Leviticus 6:19
 The Lord spoke to Moses, saying,
 
 ### Leviticus 6:20
-"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth-measure of fine flour for a grain gift continually, half of it in the morning, and half of it in the evening.
+"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: a small measured amount of fine flour for a grain gift continually, half of it in the morning, and half of it in the evening.
 
 ### Leviticus 6:21
 It must be made with oil in a griddle. When it is soaked, you must bring it in. You must offer the grain gift in baked pieces for a pleasing smell to the Lord.
@@ -87,7 +87,7 @@ The Lord spoke to Moses, saying,
 The priest who offers it for sin must eat it. It must be eaten in a holy place, in the court of the Tent of Meeting.
 
 ### Leviticus 6:27
-Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a garment, you must wash that on which it was sprinkled in a holy place.
+Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a piece of clothing, you must wash that on which it was sprinkled in a holy place.
 
 ### Leviticus 6:28
 But the clay bowl in which it is boiled must be broken; and if it is boiled in a bronze container, it must be scoured, and rinsed in water.

@@ -19,7 +19,7 @@ Leviticus gives Israel worship laws, holiness laws, and priestly instructions fo
 If someone hears a public call to tell the truth, and he saw what happened or knows about it, he must speak up. If he stays quiet, he is guilty.
 
 #### Ages 8-10
-If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he bears his guilt.
+If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he carries guilt.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -33,10 +33,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:2 - " 'Or if anyone touches any unclean thing, whether it is the carcass of an unclean animal, or the carcass of unclean livestock, or the carcass of unclean creeping things, and it is hidden from him, and he is unclean, then he shall be guilty.
 
 #### Ages 5-7
-"Or if anyone touches any unclean thing, whether it is the dead body of an unclean animal, or the dead body of unclean animals, or the dead body of unclean small crawling things, and it is hidden from him, and he is unclean, then he must be guilty.
+Or if someone touches something not clean for worship, such as the dead body of an animal, a farm animal, or a small crawling thing that is not clean for worship, and he did not realize it at first, he is guilty when he finds out.
 
 #### Ages 8-10
-"Or if anyone touches any unclean thing, whether it is the dead body of an unclean animal, or the dead body of unclean livestock, or the dead body of unclean small crawling things, and it is hidden from him, and he is unclean, then he must be guilty.
+Or if someone touches something unclean, such as the dead body of an unclean animal, livestock, or small crawling thing, and he did not realize it at first, he is guilty when he finds out.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -47,10 +47,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:3 - " 'Or if he touches the uncleanness of man, whatever his uncleanness is with which he is unclean, and it is hidden from him; when he knows of it, then he shall be guilty.
 
 #### Ages 5-7
-"Or if he touches a person's being unclean, whatever his being unclean is with which he is unclean, and it is hidden from him; when he knows of it, then he must be guilty.
+Or if someone touches anything from a person that makes him not clean for worship, even if he did not know it at first, he is guilty when he finds out.
 
 #### Ages 8-10
-"Or if he touches a person's being unclean, whatever his being unclean is with which he is unclean, and it is hidden from him; when he knows of it, then he must be guilty.
+Or if someone touches human uncleanness, whatever kind of uncleanness it is, and he did not know it at first, he is guilty when he finds out.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -61,10 +61,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:4 - " 'Or if anyone swears rashly with his lips to do evil or to do good—whatever it is that a man might utter rashly with an oath, and it is hidden from him—when he knows of it, then he will be guilty of one of these.
 
 #### Ages 5-7
-"Or if anyone swears rashly with his lips to do evil or to do good-whatever it is that a man might utter rashly with an oath, and it is hidden from him-when he knows of it, then he will be guilty of one of these.
+Or if someone makes a careless promise out loud, whether to do something bad or something good, and he did not understand what he had done at first, he is guilty when he finds out.
 
 #### Ages 8-10
-"Or if anyone swears rashly with his lips to do evil or to do good-whatever it is that a man might utter rashly with an oath, and it is hidden from him-when he knows of it, then he will be guilty of one of these.
+Or if someone makes a careless oath with his lips, whether to do evil or good, and he did not understand what he had done at first, he is guilty when he finds out.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -78,10 +78,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:5 - It shall be, when he is guilty of one of these, he shall confess that in which he has sinned;
 
 #### Ages 5-7
-It must be, when he is guilty of one of these, he must confess that in which he has sinned;
+When he is guilty in one of these ways, he must tell the truth about the sin he did.
 
 #### Ages 8-10
-It must be, when he is guilty of one of these, he must confess that in which he has sinned;
+When he is guilty in one of these ways, he must confess the sin he has committed.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -92,10 +92,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:6 - and he shall bring his trespass offering to Yahweh for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.
 
 #### Ages 5-7
-and he must bring his offering for guilt to the Lord for his sin which he has sinned: a female from the flock, a lamb or a goat, for an offering for sin; and the priest must make atonement for him, to help make things right with God concerning his sin.
+Then he must bring the Lord a guilt offering for the sin he did: a female lamb or goat from the flock as an offering for sin. The priest must make atonement for him before the Lord.
 
 #### Ages 8-10
-and he must bring his guilt offering to the Lord for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest must make atonement for him concerning his sin.
+Then he must bring his guilt offering to the Lord for the sin he committed: a female lamb or goat from the flock as a sin offering. The priest must make atonement for him concerning his sin.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -113,10 +113,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:7 - " 'If he can't afford a lamb, then he shall bring his trespass offering for that in which he has sinned, two turtledoves, or two young pigeons, to Yahweh; one for a sin offering, and the other for a burnt offering.
 
 #### Ages 5-7
-"If he can't afford a lamb, then he must bring his offering for guilt for that in which he has sinned, two doves, or two young pigeons, to the Lord; one for an offering for sin, and the other for a burned offering.
+If he cannot afford a lamb, he must bring the Lord two doves or two young pigeons as his guilt offering for the sin he did. One bird is for an offering for sin, and the other is for a burned offering.
 
 #### Ages 8-10
-"If he can't afford a lamb, then he must bring his guilt offering for that in which he has sinned, two doves, or two young pigeons, to the Lord; one for a sin offering, and the other for a burned offering.
+If he cannot afford a lamb, he must bring the Lord two doves or two young pigeons as his guilt offering for the sin he committed. One bird is for a sin offering, and the other is for a burned offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -134,10 +134,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:8 - He shall bring them to the priest, who shall first offer the one which is for the sin offering. He shall wring off its head from its neck, but shall not sever it completely.
 
 #### Ages 5-7
-He must bring them to the priest, who must first offer the one which is for the offering for sin. He must wring off its head from its neck, but must not sever it completely.
+He must bring them to the priest. First the priest must offer the bird for the offering for sin. He must remove its head at the neck, but not pull it completely away.
 
 #### Ages 8-10
-He must bring them to the priest, who must first offer the one which is for the sin offering. He must wring off its head from its neck, but must not sever it completely.
+He must bring them to the priest. First the priest must offer the bird for the sin offering. He must remove its head at the neck, but not separate it completely.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -153,10 +153,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:9 - He shall sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood shall be drained out at the base of the altar. It is a sin offering.
 
 #### Ages 5-7
-He must sprinkle some of the blood of the offering for sin on the side of the altar; and the rest of the blood must be drained out at the base of the altar. It is an offering for sin.
+The priest must sprinkle some of the blood from the offering for sin on the side of the altar. The rest of the blood must be poured out at the base of the altar. It is an offering for sin.
 
 #### Ages 8-10
-He must sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood must be drained out at the base of the altar. It is a sin offering.
+The priest must sprinkle some of the blood from the sin offering on the side of the altar. The rest of the blood must be poured out at the base of the altar. It is a sin offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -172,10 +172,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:10 - He shall offer the second for a burnt offering, according to the ordinance; and the priest shall make atonement for him concerning his sin which he has sinned, and he shall be forgiven.
 
 #### Ages 5-7
-He must offer the second for a burned offering, according to the rule; and the priest must make atonement for him, to help make things right with God concerning his sin which he has sinned, and he will be forgiven.
+Then the priest must offer the second bird as a burned offering, in the way God commanded. The priest must make atonement for him before the Lord for the sin he did, and he will be forgiven.
 
 #### Ages 8-10
-He must offer the second for a burned offering, according to the rule; and the priest must make atonement for him concerning his sin which he has sinned, and he will be forgiven.
+Then the priest must offer the second bird as a burned offering, according to the rule. The priest must make atonement for him concerning the sin he committed, and he will be forgiven.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -193,10 +193,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:11 - " 'But if he can't afford two turtledoves or two young pigeons, then he shall bring as his offering for that in which he has sinned, one tenth of an ephah of fine flour for a sin offering. He shall put no oil on it, and he shall not put any frankincense on it, for it is a sin offering.
 
 #### Ages 5-7
-"But if he can't afford two doves or two young pigeons, then he must bring as his offering for that in which he has sinned, one tenth-measure of fine flour for an offering for sin. He must put no oil on it, and he must not put any frankincense on it, for it is an offering for sin.
+If he cannot afford two doves or two young pigeons, he must bring a small measured amount of fine flour as his offering for the sin he did. He must not put oil or sweet-smelling incense on it, because it is an offering for sin.
 
 #### Ages 8-10
-"But if he can't afford two doves or two young pigeons, then he must bring as his offering for that in which he has sinned, one tenth-measure of fine flour for a sin offering. He must put no oil on it, and he must not put any frankincense on it, for it is a sin offering.
+If he cannot afford two doves or two young pigeons, he must bring a tenth-measure of fine flour as his offering for the sin he committed. He must not put oil or sweet-smelling incense on it, because it is a sin offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -211,10 +211,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:12 - He shall bring it to the priest, and the priest shall take his handful of it as the memorial portion, and burn it on the altar, on the offerings of Yahweh made by fire. It is a sin offering.
 
 #### Ages 5-7
-He must bring it to the priest, and the priest must take his handful of it as the memorial portion, and burn it on the altar, on the offerings of the Lord made by fire. It is an offering for sin.
+He must bring it to the priest. The priest must take a handful as the part burned before the Lord and burn it on the altar with the offerings burned to the Lord. It is an offering for sin.
 
 #### Ages 8-10
-He must bring it to the priest, and the priest must take his handful of it as the memorial portion, and burn it on the altar, on the offerings of the Lord made by fire. It is a sin offering.
+He must bring it to the priest. The priest must take a handful as the part burned before the Lord and burn it on the altar with the offerings burned to the Lord. It is a sin offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -232,10 +232,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:13 - The priest shall make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest shall be the priest's, as the meal offering.' "
 
 #### Ages 5-7
-The priest must make atonement for him, to help make things right with God concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest must be the priest's, as the grain gift.' "
+The priest must make atonement for him before the Lord for any of these sins, and he will be forgiven. The rest of the flour belongs to the priest, like the grain gift.
 
 #### Ages 8-10
-The priest must make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest must be the priest's, as the grain offering.' "
+The priest must make atonement for him concerning any of these sins, and he will be forgiven. The rest belongs to the priest, like the grain offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -272,10 +272,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:15 - "If anyone commits a trespass, and sins unwittingly regarding Yahweh's holy things, then he shall bring his trespass offering to Yahweh: a ram without defect from the flock, according to your estimation in silver by shekels, according to the shekel of the sanctuary, for a trespass offering.
 
 #### Ages 5-7
-"If anyone acts unfaithfully, and sins without knowing it regarding the Lord's holy things, then he must bring his offering for guilt to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation in silver by silver pieces, according to the holy place weight, for an offering for guilt.
+If someone acts unfaithfully and sins without knowing it in the Lord's holy things, he must bring the Lord a guilt offering: a male sheep from the flock with nothing wrong with it. Its value must be counted in silver by the weight used at the holy place.
 
 #### Ages 8-10
-"If anyone acts unfaithfully, and sins without knowing it regarding the Lord's holy things, then he must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation in silver by silver pieces, according to the holy place weight, for a guilt offering.
+If someone acts unfaithfully and sins without knowing it regarding the Lord's holy things, he must bring the Lord a guilt offering: a male sheep from the flock with nothing wrong with it, valued in silver by the holy-place weight.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -293,10 +293,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:16 - He shall make restitution for that which he has done wrong regarding the holy thing, and shall add a fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of the trespass offering, and he will be forgiven.
 
 #### Ages 5-7
-He must make restitution for that which he has done wrong regarding the holy thing, and must add a fifth part to it, and give it to the priest; and the priest must make atonement for him, to help make things right with God with the male sheep of the offering for guilt, and he will be forgiven.
+He must pay back what he did wrong with the holy thing and add one fifth more. He must give it to the priest. The priest must make atonement for him before the Lord with the male sheep of the guilt offering, and he will be forgiven.
 
 #### Ages 8-10
-He must make restitution for that which he has done wrong regarding the holy thing, and must add a fifth part to it, and give it to the priest; and the priest must make atonement for him with the male sheep of the guilt offering, and he will be forgiven.
+He must pay back what he did wrong regarding the holy thing and add one fifth more. He must give it to the priest. The priest must make atonement for him with the male sheep of the guilt offering, and he will be forgiven.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -314,10 +314,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:17 - "If anyone sins, doing any of the things which Yahweh has commanded not to be done, though he didn't know it, he is still guilty, and shall bear his iniquity.
 
 #### Ages 5-7
-"If anyone sins, doing any of the things which the Lord has commanded not to be done, though he didn't know it, he is still guilty, and must bear his guilt.
+If someone sins by doing anything the Lord commanded not to be done, even if he did not know it at first, he is still guilty and carries his guilt.
 
 #### Ages 8-10
-"If anyone sins, doing any of the things which the Lord has commanded not to be done, though he didn't know it, he is still guilty, and must bear his guilt.
+If someone sins by doing anything the Lord commanded not to be done, even if he did not know it at first, he is still guilty and carries his guilt.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -333,10 +333,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:18 - He shall bring a ram without defect from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn't know it, and he will be forgiven.
 
 #### Ages 5-7
-He must bring a male sheep with nothing wrong with it from the flock, according to your estimation, for an offering for guilt, to the priest; and the priest must make atonement for him, to help make things right with God concerning the thing in which he sinned and didn't know it, and he will be forgiven.
+He must bring the priest a male sheep from the flock with nothing wrong with it as a guilt offering, according to its value. The priest must make atonement for him before the Lord for the sin he did without knowing it, and he will be forgiven.
 
 #### Ages 8-10
-He must bring a male sheep with nothing wrong with it from the flock, according to your estimation, for a guilt offering, to the priest; and the priest must make atonement for him concerning the thing in which he sinned and didn't know it, and he will be forgiven.
+He must bring the priest a male sheep from the flock with nothing wrong with it as a guilt offering, according to its value. The priest must make atonement for him concerning the sin he committed without knowing it, and he will be forgiven.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -354,10 +354,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 5:19 - It is a trespass offering. He is certainly guilty before Yahweh."
 
 #### Ages 5-7
-It is an offering for guilt. He is certainly guilty before the Lord."
+It is a guilt offering. He truly is guilty before the Lord.
 
 #### Ages 8-10
-It is a guilt offering. He is certainly guilty before the Lord."
+It is a guilt offering. He is certainly guilty before the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

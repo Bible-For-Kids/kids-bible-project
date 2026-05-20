@@ -9,58 +9,58 @@ Leviticus
 ## Verses
 
 ### Leviticus 5:1
-If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he bears his guilt.
+If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he carries guilt.
 
 ### Leviticus 5:2
-"Or if anyone touches any unclean thing, whether it is the dead body of an unclean animal, or the dead body of unclean livestock, or the dead body of unclean small crawling things, and it is hidden from him, and he is unclean, then he must be guilty.
+Or if someone touches something unclean, such as the dead body of an unclean animal, livestock, or small crawling thing, and he did not realize it at first, he is guilty when he finds out.
 
 ### Leviticus 5:3
-"Or if he touches a person's being unclean, whatever his being unclean is with which he is unclean, and it is hidden from him; when he knows of it, then he must be guilty.
+Or if someone touches human uncleanness, whatever kind of uncleanness it is, and he did not know it at first, he is guilty when he finds out.
 
 ### Leviticus 5:4
-"Or if anyone swears rashly with his lips to do evil or to do good-whatever it is that a man might utter rashly with an oath, and it is hidden from him-when he knows of it, then he will be guilty of one of these.
+Or if someone makes a careless oath with his lips, whether to do evil or good, and he did not understand what he had done at first, he is guilty when he finds out.
 
 ### Leviticus 5:5
-It must be, when he is guilty of one of these, he must confess that in which he has sinned;
+When he is guilty in one of these ways, he must confess the sin he has committed.
 
 ### Leviticus 5:6
-and he must bring his guilt offering to the Lord for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest must make atonement for him concerning his sin.
+Then he must bring his guilt offering to the Lord for the sin he committed: a female lamb or goat from the flock as a sin offering. The priest must make atonement for him concerning his sin.
 
 ### Leviticus 5:7
-"If he can't afford a lamb, then he must bring his guilt offering for that in which he has sinned, two doves, or two young pigeons, to the Lord; one for a sin offering, and the other for a burned offering.
+If he cannot afford a lamb, he must bring the Lord two doves or two young pigeons as his guilt offering for the sin he committed. One bird is for a sin offering, and the other is for a burned offering.
 
 ### Leviticus 5:8
-He must bring them to the priest, who must first offer the one which is for the sin offering. He must wring off its head from its neck, but must not sever it completely.
+He must bring them to the priest. First the priest must offer the bird for the sin offering. He must remove its head at the neck, but not separate it completely.
 
 ### Leviticus 5:9
-He must sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood must be drained out at the base of the altar. It is a sin offering.
+The priest must sprinkle some of the blood from the sin offering on the side of the altar. The rest of the blood must be poured out at the base of the altar. It is a sin offering.
 
 ### Leviticus 5:10
-He must offer the second for a burned offering, according to the rule; and the priest must make atonement for him concerning his sin which he has sinned, and he will be forgiven.
+Then the priest must offer the second bird as a burned offering, according to the rule. The priest must make atonement for him concerning the sin he committed, and he will be forgiven.
 
 ### Leviticus 5:11
-"But if he can't afford two doves or two young pigeons, then he must bring as his offering for that in which he has sinned, one tenth-measure of fine flour for a sin offering. He must put no oil on it, and he must not put any frankincense on it, for it is a sin offering.
+If he cannot afford two doves or two young pigeons, he must bring a tenth-measure of fine flour as his offering for the sin he committed. He must not put oil or sweet-smelling incense on it, because it is a sin offering.
 
 ### Leviticus 5:12
-He must bring it to the priest, and the priest must take his handful of it as the memorial portion, and burn it on the altar, on the offerings of the Lord made by fire. It is a sin offering.
+He must bring it to the priest. The priest must take a handful as the part burned before the Lord and burn it on the altar with the offerings burned to the Lord. It is a sin offering.
 
 ### Leviticus 5:13
-The priest must make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest must be the priest's, as the grain offering.' "
+The priest must make atonement for him concerning any of these sins, and he will be forgiven. The rest belongs to the priest, like the grain offering.
 
 ### Leviticus 5:14
 The Lord spoke to Moses, saying,
 
 ### Leviticus 5:15
-"If anyone acts unfaithfully, and sins without knowing it regarding the Lord's holy things, then he must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation in silver by silver pieces, according to the holy place weight, for a guilt offering.
+If someone acts unfaithfully and sins without knowing it regarding the Lord's holy things, he must bring the Lord a guilt offering: a male sheep from the flock with nothing wrong with it, valued in silver by the holy-place weight.
 
 ### Leviticus 5:16
-He must make restitution for that which he has done wrong regarding the holy thing, and must add a fifth part to it, and give it to the priest; and the priest must make atonement for him with the male sheep of the guilt offering, and he will be forgiven.
+He must pay back what he did wrong regarding the holy thing and add one fifth more. He must give it to the priest. The priest must make atonement for him with the male sheep of the guilt offering, and he will be forgiven.
 
 ### Leviticus 5:17
-"If anyone sins, doing any of the things which the Lord has commanded not to be done, though he didn't know it, he is still guilty, and must bear his guilt.
+If someone sins by doing anything the Lord commanded not to be done, even if he did not know it at first, he is still guilty and carries his guilt.
 
 ### Leviticus 5:18
-He must bring a male sheep with nothing wrong with it from the flock, according to your estimation, for a guilt offering, to the priest; and the priest must make atonement for him concerning the thing in which he sinned and didn't know it, and he will be forgiven.
+He must bring the priest a male sheep from the flock with nothing wrong with it as a guilt offering, according to its value. The priest must make atonement for him concerning the sin he committed without knowing it, and he will be forgiven.
 
 ### Leviticus 5:19
-It is a guilt offering. He is certainly guilty before the Lord."
+It is a guilt offering. He is certainly guilty before the Lord.

@@ -710,7 +710,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:38 - in addition to the Sabbaths of Yahweh, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to Yahweh.
 
 #### Ages 5-7
-in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to the Lord.
+in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your special promises, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
 #### Ages 8-10
 in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to the Lord.

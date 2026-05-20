@@ -445,10 +445,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 25:29 - " 'If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he shall have the right of redemption.
 
 #### Ages 5-7
-"If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
+"If a man sells a home house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
 
 #### Ages 8-10
-"If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
+"If a man sells a home house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

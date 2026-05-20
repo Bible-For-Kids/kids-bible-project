@@ -135,10 +135,10 @@ Whoever eats of its dead body must wash his clothes, and be unclean until the ev
 Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a detestable thing.
 
 ### Leviticus 11:43
-You must not make yourselves detestable with any small crawling thing that crawls. You must not make yourselves unclean with them, that you should be made unclean by them.
+You must not make yourselves detestable with any small crawling thing that crawls. Do not make yourselves unclean with them.
 
 ### Leviticus 11:44
-For I am the Lord your God. Keep yourselves holy, and be holy; for I am holy. You must not make yourselves unclean with any kind of small crawling thing that moves on the earth.
+For I am the Lord your God. Keep yourselves holy, and be holy, because I am holy. Do not make yourselves unclean with any small crawling thing on the earth.
 
 ### Leviticus 11:45
 For I am the Lord who brought you up out of the land of Egypt, to be your God. You must therefore be holy, for I am holy.

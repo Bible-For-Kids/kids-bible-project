@@ -93,7 +93,7 @@ then let him count the years since its sale, and restore the surplus to the man 
 But if he isn't able to get it back for himself, then what he has sold must remain in the hand of the person who has bought it until the Year of Jubilee. In the Jubilee it must be released, and he must return to his property.
 
 ### Leviticus 25:29
-"If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
+"If a man sells a home house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
 
 ### Leviticus 25:30
 If it isn't redeemed within the space of a full year, then the house that is in the walled city must be made sure forever to the person who bought it, for all his generations. It must not be released in the Jubilee.

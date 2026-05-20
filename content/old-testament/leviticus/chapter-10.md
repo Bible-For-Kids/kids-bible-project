@@ -183,7 +183,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 10:10 - You are to make a distinction between the holy and the common, and between the unclean and the clean.
 
 #### Ages 5-7
-You are to make a distinction between the holy and the common, and between the unclean and the clean.
+You are to make a distinction between the holy and the common, and between what is not clean for worship and what is clean for worship.
 
 #### Ages 8-10
 You are to make a distinction between the holy and the common, and between the unclean and the clean.
@@ -220,10 +220,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 10:12 - Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the meal offering that remains of the offerings of Yahweh made by fire, and eat it without yeast beside the altar; for it is most holy;
 
 #### Ages 5-7
-Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain gift that remains of the offerings of the Lord made by fire, and eat it without yeast beside the altar; for it is most holy;
+Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain gift that remains of the offerings burned for the Lord, and eat it without yeast beside the altar; for it is most holy;
 
 #### Ages 8-10
-Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain offering that remains of the offerings of the Lord made by fire, and eat it without yeast beside the altar; for it is most holy;
+Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, "Take the grain offering that remains of the offerings burned for the Lord, and eat it without yeast beside the altar; for it is most holy;
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -241,10 +241,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 10:13 - and you shall eat it in a holy place, because it is your portion, and your sons' portion, of the offerings of Yahweh made by fire; for so I am commanded.
 
 #### Ages 5-7
-and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings of the Lord made by fire; for so I am commanded.
+and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings burned for the Lord; for so I am commanded.
 
 #### Ages 8-10
-and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings of the Lord made by fire; for so I am commanded.
+and you must eat it in a holy place, because it is your portion, and your sons' portion, of the offerings burned for the Lord; for so I am commanded.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

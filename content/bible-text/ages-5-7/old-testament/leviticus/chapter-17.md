@@ -18,7 +18,7 @@ The Lord spoke to Moses, saying,
 Whatever man there is of the house of Israel who kills a bull, or lamb, or goat in the camp, or who kills it outside the camp,
 
 ### Leviticus 17:4
-and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's tabernacle: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
+and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's holy tent: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
 
 ### Leviticus 17:5
 This is so that the people of Israel may bring their sacrifices, which they sacrifice in the open field, that they may bring them to the Lord, to the door of the Tent of Meeting, to the priest, and sacrifice them for sacrifices of peace offerings to the Lord.
@@ -51,7 +51,7 @@ Therefore I have said to the people of Israel, "No person among you may eat bloo
 For as to the life of every living body, its blood is with its life. Therefore I said to the people of Israel, "You must not eat the blood of any living body; for the life of every living body is its blood. Whoever eats it must be removed."
 
 ### Leviticus 17:15
-"Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and be unclean until the evening. Then he will be clean.
+"Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and not be clean for worship until the evening. Then he will be clean for worship.
 
 ### Leviticus 17:16
-But if he doesn't wash them, or bathe his body, then he must bear his guilt.' "
+But if he doesn't wash them, or bathe his body, then he carries his guilt.' "

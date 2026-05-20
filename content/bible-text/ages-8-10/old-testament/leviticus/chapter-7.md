@@ -66,10 +66,10 @@ If any of the meat of the sacrifice of his peace offerings is eaten on the third
 "The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
 
 ### Leviticus 7:20
-but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his being unclean on him, that person must be removed from his people.
+But if someone is unclean and still eats meat from the Lord's peace offering, that person must be removed from his people.
 
 ### Leviticus 7:21
-When anyone touches any unclean thing, a person's being unclean, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
+If someone touches anything unclean, whether from a person, an animal, or something God calls detestable, and then eats meat from the Lord's peace offering, that person must be removed from his people.' "
 
 ### Leviticus 7:22
 The Lord spoke to Moses, saying,
@@ -96,7 +96,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, saying, 'Whoever offers the sacrifice of his peace offerings to the Lord must bring his offering to the Lord out of the sacrifice of his peace offerings.
 
 ### Leviticus 7:30
-With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
+With his own hands he must bring the offerings burned for the Lord. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
 ### Leviticus 7:31
 The priest must burn the fat on the altar, but the breast must be Aaron's and his sons'.
@@ -111,7 +111,7 @@ He among the sons of Aaron who offers the blood of the peace offerings, and the 
 For the breast lifted before the Lord and the contributed thigh I have taken from the people of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the people of Israel.' "
 
 ### Leviticus 7:35
-This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
+This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings burned for the Lord, in the day when he presented them to minister to the Lord in the priest's office;
 
 ### Leviticus 7:36
 which the Lord commanded to be given them of the people of Israel, in the day that he anointed them. It is their portion forever for all their generations.

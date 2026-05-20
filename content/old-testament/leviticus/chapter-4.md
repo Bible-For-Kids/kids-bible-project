@@ -54,10 +54,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 4:3 - if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to Yahweh for a sin offering.
 
 #### Ages 5-7
-if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull with nothing wrong with it to the Lord for an offering for sin.
+if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin he committed a young bull with nothing wrong with it to the Lord for an offering for sin.
 
 #### Ages 8-10
-if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull with nothing wrong with it to the Lord for a sin offering.
+if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin he committed a young bull with nothing wrong with it to the Lord for a sin offering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -514,10 +514,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 4:28 - if his sin which he has sinned is made known to him, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned.
 
 #### Ages 5-7
-if his sin which he has sinned is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin which he has sinned.
+if his sin he committed is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin he committed.
 
 #### Ages 8-10
-if his sin which he has sinned is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin which he has sinned.
+if his sin he committed is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin he committed.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -646,10 +646,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 4:35 - He shall remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest shall burn them on the altar, on the offerings of Yahweh made by fire. The priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.
 
 #### Ages 5-7
-He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings of the Lord made by fire. The priest must make atonement for him, to help make things right with God concerning his sin that he has sinned, and he will be forgiven.
+He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings burned for the Lord. The priest must make atonement for him, to help make things right with God concerning his sin, and he will be forgiven.
 
 #### Ages 8-10
-He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings of the Lord made by fire. The priest must make atonement for him concerning his sin that he has sinned, and he will be forgiven.
+He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings burned for the Lord. The priest must make atonement for him concerning his sin, and he will be forgiven.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

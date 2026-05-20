@@ -12,7 +12,7 @@ Leviticus
 The Lord spoke to Moses, saying,
 
 ### Leviticus 12:2
-"Speak to the people of Israel, saying, 'If a woman conceives, and bears a male child, then she will be unclean seven days; as in the days of her monthly period she will be unclean.
+"Speak to the people of Israel, saying, 'If a woman conceives, and bears a male child, then she will not be clean for worship seven days; as in the days of her monthly period she will not be clean for worship.
 
 ### Leviticus 12:3
 In the eighth day the flesh of his foreskin must be circumcised.
@@ -21,7 +21,7 @@ In the eighth day the flesh of his foreskin must be circumcised.
 She must continue in the blood of purification thirty-three days. She must not touch any holy thing, nor come into the holy place, until the days of her purifying are completed.
 
 ### Leviticus 12:5
-But if she bears a female child, then she will be unclean two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
+But if she bears a female child, then she will not be clean for worship two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
 
 ### Leviticus 12:6
 "When the days of her purification are completed for a son or for a daughter, she must bring to the priest at the door of the Tent of Meeting, a year old lamb for a burned offering, and a young pigeon or a dove, for an offering for sin.
@@ -30,4 +30,4 @@ But if she bears a female child, then she will be unclean two weeks, as in her p
 He must offer it before the Lord, and make atonement for her, to help make things right with God; then she must be cleansed from the fountain of her blood. " 'This is the law for the woman who bears, whether a male or a female.
 
 ### Leviticus 12:8
-If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for an offering for sin. The priest must make atonement for her, to help make things right with God, and she will be clean.' "
+If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for an offering for sin. The priest must make atonement for her, to help make things right with God, and she will be clean for worship.' "

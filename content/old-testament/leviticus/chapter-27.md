@@ -35,7 +35,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:2 - "Speak to the children of Israel, and say to them, 'When a man consecrates a person to Yahweh in a vow, according to your valuation,
 
 #### Ages 5-7
-"Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a vow, according to your valuation,
+"Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a special promise, according to your valuation,
 
 #### Ages 8-10
 "Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a vow, according to your valuation,
@@ -54,10 +54,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:3 - your valuation of a male from twenty years old to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.
 
 #### Ages 5-7
-your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight.
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place.
 
 #### Ages 8-10
-your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight.
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -181,7 +181,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:11 - If it is any unclean animal, of which they do not offer as an offering to Yahweh, then he shall set the animal before the priest;
 
 #### Ages 5-7
-If it is any unclean animal, of which they do not offer as an offering to the Lord, then he must set the animal before the priest;
+If it is any animal not clean for worship, of which they do not offer as an offering to the Lord, then he must set the animal before the priest;
 
 #### Ages 8-10
 If it is any unclean animal, of which they do not offer as an offering to the Lord, then he must set the animal before the priest;
@@ -218,10 +218,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:13 - But if he will indeed redeem it, then he shall add the fifth part of it to its valuation.
 
 #### Ages 5-7
-But if he will indeed redeem it, then he must add the fifth part of it to its valuation.
+But if he will indeed redeem it, then he must add one fifth more of it to its valuation.
 
 #### Ages 8-10
-But if he will indeed redeem it, then he must add the fifth part of it to its valuation.
+But if he will indeed redeem it, then he must add one fifth more of it to its valuation.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -252,10 +252,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:15 - If he who dedicates it will redeem his house, then he shall add the fifth part of the money of your valuation to it, and it shall be his.
 
 #### Ages 5-7
-If whoever dedicates it will redeem his house, then he must add the fifth part of the money of your valuation to it, and it must be his.
+If whoever dedicates it will redeem his house, then he must add one fifth more of the money of your valuation to it, and it must be his.
 
 #### Ages 8-10
-If whoever dedicates it will redeem his house, then he must add the fifth part of the money of your valuation to it, and it must be his.
+If whoever dedicates it will redeem his house, then he must add one fifth more of the money of your valuation to it, and it must be his.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -315,10 +315,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:19 - If he who dedicated the field will indeed redeem it, then he shall add the fifth part of the money of your valuation to it, and it shall remain his.
 
 #### Ages 5-7
-If whoever dedicated the field will indeed redeem it, then he must add the fifth part of the money of your valuation to it, and it must remain his.
+If whoever dedicated the field will indeed redeem it, then he must add one fifth more of the money of your valuation to it, and it must remain his.
 
 #### Ages 8-10
-If whoever dedicated the field will indeed redeem it, then he must add the fifth part of the money of your valuation to it, and it must remain his.
+If whoever dedicated the field will indeed redeem it, then he must add one fifth more of the money of your valuation to it, and it must remain his.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -414,10 +414,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:25 - All your valuations shall be according to the shekel of the sanctuary: twenty gerahs to the shekel.
 
 #### Ages 5-7
-All your valuations must be according to the holy place weight: twenty small weight units to the silver piece.
+All your valuations must be by the weight used at the holy place: twenty small weight units to the silver piece.
 
 #### Ages 8-10
-All your valuations must be according to the holy place weight: twenty small weight units to the silver piece.
+All your valuations must be by the weight used at the holy place: twenty small weight units to the silver piece.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -449,10 +449,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:27 - If it is an unclean animal, then he shall buy it back according to your valuation, and shall add to it the fifth part of it; or if it isn't redeemed, then it shall be sold according to your valuation.
 
 #### Ages 5-7
-If it is an unclean animal, then he must buy it back according to your valuation, and must add to it the fifth part of it; or if it isn't redeemed, then it must be sold according to your valuation.
+If it is an animal not clean for worship, then he must buy it back according to your valuation, and must add to it one fifth more of it; or if it isn't redeemed, then it must be sold according to your valuation.
 
 #### Ages 8-10
-If it is an unclean animal, then he must buy it back according to your valuation, and must add to it the fifth part of it; or if it isn't redeemed, then it must be sold according to your valuation.
+If it is an unclean animal, then he must buy it back according to your valuation, and must add to it one fifth more of it; or if it isn't redeemed, then it must be sold according to your valuation.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -515,10 +515,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 27:31 - If a man redeems anything of his tithe, he shall add a fifth part to it.
 
 #### Ages 5-7
-If a man redeems anything of his tithe, he must add a fifth part to it.
+If a man redeems anything of his tithe, he must add one fifth more to it.
 
 #### Ages 8-10
-If a man redeems anything of his tithe, he must add a fifth part to it.
+If a man redeems anything of his tithe, he must add one fifth more to it.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.

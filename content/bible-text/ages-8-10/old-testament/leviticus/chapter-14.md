@@ -18,13 +18,13 @@ The Lord spoke to Moses, saying,
 and the priest must go out of the camp. The priest must examine him. If the serious mark on the skin is healed in the person with the serious skin disease,
 
 ### Leviticus 14:4
-then the priest must tell them to bring these things for the person being made clean: two live birds that were clean for worship, a piece of cedar wood, red thread, and a leafy hyssop branch.
+then the priest must tell them to bring these things for the person being made clean: two live birds that were clean, a piece of cedar wood, red thread, and a leafy hyssop branch.
 
 ### Leviticus 14:5
 The priest must tell them to kill one of the birds in a clay bowl held over fresh flowing water.
 
 ### Leviticus 14:6
-As for the living bird, he must take it, the piece of cedar wood, the red thread, and the leafy hyssop branch, and must dip them and the living bird in the blood of the bird that was killed over the fresh flowing water.
+The priest must take the living bird, the cedar wood, the red thread, and the leafy hyssop branch. He must dip them, along with the living bird, into the blood of the bird killed over the fresh flowing water.
 
 ### Leviticus 14:7
 He must sprinkle on the person who is being made clean from the serious disease seven times, and must say he is clean, and must let the living bird go into the open field.
@@ -63,7 +63,7 @@ The priest must put some of the rest of the oil that is in his hand on the tip o
 The rest of the oil that is in the priest's hand he must put on the head of the person who is being made clean, and the priest must make atonement for him before the Lord.
 
 ### Leviticus 14:19
-"The priest must offer the sin offering, and make atonement for the person being made clean because of his being unclean. Afterward he must kill the burned offering;
+The priest must offer the sin offering and make atonement for the person being made clean. Afterward, the priest must kill the burned offering.
 
 ### Leviticus 14:20
 then the priest must offer the burned offering and the grain offering on the altar. The priest must make atonement for him, and he will be clean.
@@ -99,7 +99,7 @@ The rest of the oil that is in the priest's hand he must put on the head of the 
 He must offer one of the doves, or of the young pigeons, whichever he is able to afford,
 
 ### Leviticus 14:31
-of the kind he is able to afford, the one for a sin offering, and the other for a burned offering, with the grain offering. The priest must make atonement before the Lord for the person being made clean."
+He must offer what the man can afford: one bird for a sin offering, and the other for a burned offering, along with the grain offering. The priest must make atonement before the Lord for the person being made clean."
 
 ### Leviticus 14:32
 This is the law for him in whom is the serious mark on the skin, who is not able to afford the sacrifice to be made clean.
@@ -114,7 +114,7 @@ The Lord spoke to Moses and to Aaron, saying,
 then whoever owns the house must come and tell the priest, saying, 'There seems to me to be some sort of mark of disease in the house.
 
 ### Leviticus 14:36
-The priest must tell them to empty the house, before the priest goes in to examine the mark of disease, that all that is in the house not be made unclean. Afterward the priest must go in to inspect the house.
+Before the priest goes in to examine the mark, he must tell them to empty the house. Then the things in the house will not become unclean. After that, the priest must go in and inspect the house.
 
 ### Leviticus 14:37
 He must examine the mark of disease; and if the mark of disease is in the walls of the house with sunken streaks, greenish or reddish, and it appears to be deeper than the wall,
@@ -126,10 +126,10 @@ then the priest must go out of the house to the door of the house, and close the
 The priest must come again on the seventh day, and look. If the mark of disease has spread in the walls of the house,
 
 ### Leviticus 14:40
-then the priest must tell them to take out the stones in which is the mark of disease, and throw them into an unclean place outside of the city.
+then the priest must tell them to take out the stones with the mark and throw them into an unclean place outside the city.
 
 ### Leviticus 14:41
-He must cause the inside of the house to be scraped all over. They must pour out the mortar that they scraped off outside of the city into an unclean place.
+The inside of the house must be scraped all over. The scraped-off plaster must be poured out in an unclean place outside the city.
 
 ### Leviticus 14:42
 They must take other stones, and put them in the place of those stones; and he must take other mortar, and must repair the house with fresh plaster.
@@ -141,7 +141,7 @@ They must take other stones, and put them in the place of those stones; and he m
 then the priest must come in and look; and if the mark of disease has spread in the house, it is a destructive mildew in the house. It is unclean.
 
 ### Leviticus 14:45
-He must break down the house, its stones, and its timber, and all the house's mortar. He must carry them out of the city into an unclean place.
+The house must be torn down. Its stones, wood, and plaster must be carried out of the city to an unclean place.
 
 ### Leviticus 14:46
 "Moreover whoever goes into the house while it is shut up will be unclean until the evening.
@@ -159,13 +159,13 @@ To make the house clean he must take two birds, a piece of cedar wood, red threa
 He must kill one of the birds in a clay bowl held over fresh flowing water.
 
 ### Leviticus 14:51
-He must take the piece of cedar wood, the leafy hyssop branch, the red thread, and the living bird, and dip them in the blood of the bird that was killed, and in the fresh flowing water, and sprinkle the house seven times.
+He must take the cedar wood, the leafy hyssop branch, the red thread, and the living bird. He must dip them in the blood of the bird that was killed and in the fresh flowing water, and then sprinkle the house seven times.
 
 ### Leviticus 14:52
-He must make the house clean with the blood of the bird, and with the fresh flowing water, with the living bird, with the piece of cedar wood, with the leafy hyssop branch, and with the red thread;
+He must make the house clean with the bird's blood, the fresh flowing water, the living bird, the cedar wood, the leafy hyssop branch, and the red thread.
 
 ### Leviticus 14:53
-but he must let the living bird go out of the city into the open field. So must he make atonement for the house; and it will be clean."
+Then he must let the living bird go out of the city into the open field. In this way he must make atonement for the house, and it will be clean."
 
 ### Leviticus 14:54
 This is the law for any serious mark on the skin, and for an itch,

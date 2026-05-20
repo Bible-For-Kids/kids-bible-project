@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Moreover, you must tell the people of Israel, 'Any one of the people of Israel, or of the foreigners who live in Israel, who gives any of his children to Molech must surely be put to death. The people of the land must stone that person with stones.
 
 ### Leviticus 20:3
-I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place unclean, and to dishonor my holy name.
+I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place not clean for worship, and to dishonor my holy name.
 
 ### Leviticus 20:4
 If the people of the land all hide their eyes from that person when he gives of his children to Molech, and don't put him to death,
@@ -36,37 +36,37 @@ You must keep my rules, and do them. I am the Lord who makes holy you.
 "For everyone who curses his father or his mother must surely be put to death. He has cursed his father or his mother. He is responsible for his own death.
 
 ### Leviticus 20:10
-"The man who commits adultery with another man's wife, even whoever commits adultery with his neighbor's wife, the adulterer and the adulteress must surely be put to death.
+"The man who takes another man's wife as if she were his own wife, even whoever takes his neighbor's wife as if she were his own wife, the man and the woman must surely be put to death.
 
 ### Leviticus 20:11
-"The man who has sexual relations with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
+"The man who acts as only a husband and wife should with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
 
 ### Leviticus 20:12
-"If a man has sexual relations with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
+"If a man acts as only a husband and wife should with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
 
 ### Leviticus 20:13
-"If a man has sexual relations with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
+"If a man acts as only a husband and wife should with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
 
 ### Leviticus 20:14
 "If a man takes a wife and her mother, it is wickedness. They must be burned with fire, both he and they, that there may be no wickedness among you.
 
 ### Leviticus 20:15
-"If a man has sexual relations with an animal, he must surely be put to death; and you must kill the animal.
+"If a man acts as only a husband and wife should with an animal, he must surely be put to death; and you must kill the animal.
 
 ### Leviticus 20:16
-"If a woman approaches any animal and has sexual relations with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
+"If a woman approaches any animal and acts as only a husband and wife should with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
 
 ### Leviticus 20:17
-"If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He must bear his guilt.
+"If a man takes his sister-his father's daughter, or his mother's daughter-and acts as only a husband and wife should with her, it is a shameful thing. They must be removed in the sight of their people. He has acted as only a husband and wife should with his sister. He carries his guilt.
 
 ### Leviticus 20:18
-"If a man has sexual relations with a woman having her monthly period, and has sexual relations with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
+"If a man acts as only a husband and wife should with a woman having her monthly period, and acts as only a husband and wife should with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
 
 ### Leviticus 20:19
-"You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They must bear their guilt.
+"You must not act as only a husband and wife should with your mother's sister or your father's sister. This would dishonor a close relative. They carry their guilt.
 
 ### Leviticus 20:20
-If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They must bear their guilt. They must die childless.
+If a man acts as only a husband and wife should with his uncle's wife, he has dishonored his uncle. They carry their guilt. They must die childless.
 
 ### Leviticus 20:21
 "If a man takes his brother's wife, it is an impurity. He has dishonored his brother. They must be childless.
@@ -81,7 +81,7 @@ You must not walk in the customs of the nation which I am casting out before you
 But I have said to you, "You must inherit their land, and I will give it to you to possess it, a land flowing with milk and honey." I am the Lord your God, who has separated you from the peoples.
 
 ### Leviticus 20:25
-"You must therefore make a distinction between the clean animal and the unclean, and between the unclean bird and the clean. You must not make yourselves detestable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you.
+"You must therefore know the difference between animals clean for worship and animals not clean for worship, and between birds not clean for worship and birds clean for worship. You must not make yourselves detestable by eating any animal, bird, or crawling thing that I have separated from you as not clean for worship.
 
 ### Leviticus 20:26
 You will be holy to me, for I, the Lord, am holy, and have set you apart from the peoples, that you should be mine.

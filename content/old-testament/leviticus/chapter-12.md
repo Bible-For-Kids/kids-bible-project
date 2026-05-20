@@ -35,7 +35,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 12:2 - "Speak to the children of Israel, saying, 'If a woman conceives, and bears a male child, then she shall be unclean seven days; as in the days of her monthly period she shall be unclean.
 
 #### Ages 5-7
-"Speak to the people of Israel, saying, 'If a woman conceives, and bears a male child, then she will be unclean seven days; as in the days of her monthly period she will be unclean.
+"Speak to the people of Israel, saying, 'If a woman conceives, and bears a male child, then she will not be clean for worship seven days; as in the days of her monthly period she will not be clean for worship.
 
 #### Ages 8-10
 "Speak to the people of Israel, saying, 'If a woman conceives, and bears a male child, then she will be unclean seven days; as in the days of her monthly period she will be unclean.
@@ -83,7 +83,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 12:5 - But if she bears a female child, then she shall be unclean two weeks, as in her period; and she shall continue in the blood of purification sixty-six days.
 
 #### Ages 5-7
-But if she bears a female child, then she will be unclean two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
+But if she bears a female child, then she will not be clean for worship two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
 
 #### Ages 8-10
 But if she bears a female child, then she will be unclean two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
@@ -137,7 +137,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 12:8 - If she cannot afford a lamb, then she shall take two turtledoves or two young pigeons: the one for a burnt offering, and the other for a sin offering. The priest shall make atonement for her, and she shall be clean.' "
 
 #### Ages 5-7
-If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for an offering for sin. The priest must make atonement for her, to help make things right with God, and she will be clean.' "
+If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for an offering for sin. The priest must make atonement for her, to help make things right with God, and she will be clean for worship.' "
 
 #### Ages 8-10
 If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for a sin offering. The priest must make atonement for her, and she will be clean.' "

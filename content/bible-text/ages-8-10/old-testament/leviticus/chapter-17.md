@@ -54,4 +54,4 @@ For as to the life of every living body, its blood is with its life. Therefore I
 "Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and be unclean until the evening. Then he will be clean.
 
 ### Leviticus 17:16
-But if he doesn't wash them, or bathe his body, then he must bear his guilt.' "
+But if he doesn't wash them, or bathe his body, then he carries his guilt.' "

@@ -141,10 +141,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:8 - but everyone who eats it shall bear his iniquity, because he has profaned the holy thing of Yahweh, and that soul shall be cut off from his people.
 
 #### Ages 5-7
-but everyone who eats it must bear his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
+but everyone who eats it carries his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
 
 #### Ages 8-10
-but everyone who eats it must bear his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
+but everyone who eats it carries his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -330,7 +330,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:19 - " 'You shall keep my statutes. " 'You shall not cross-breed different kinds of animals. " 'You shall not sow your field with two kinds of seed; " 'Don't wear a garment made of two kinds of material.
 
 #### Ages 5-7
-"You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a garment made of two kinds of material.
+"You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a piece of clothing made of two kinds of material.
 
 #### Ages 8-10
 "You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a garment made of two kinds of material.
@@ -358,7 +358,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:21 - He shall bring his trespass offering to Yahweh, to the door of the Tent of Meeting, even a ram for a trespass offering.
 
 #### Ages 5-7
-He must bring his offering for guilt to the Lord, to the door of the Tent of Meeting, even a male sheep for an offering for guilt.
+He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a male sheep for a guilt offering.
 
 #### Ages 8-10
 He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a male sheep for a guilt offering.
@@ -378,7 +378,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:22 - The priest shall make atonement for him with the ram of the trespass offering before Yahweh for his sin which he has committed; and the sin which he has committed shall be forgiven him.
 
 #### Ages 5-7
-The priest must make atonement for him, to help make things right with God with the male sheep of the offering for guilt before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
+The priest must make atonement for him, to help make things right with God with the male sheep of the guilt offering before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
 
 #### Ages 8-10
 The priest must make atonement for him with the male sheep of the guilt offering before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
@@ -533,10 +533,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:31 - " 'Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be defiled by them. I am Yahweh your God.
 
 #### Ages 5-7
-"Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be made unclean by them. I am the Lord your God.
+"Do not turn to people who try to talk to spirits or seek out people who use magic. Do not let them make you not clean for worship. I am the Lord your God.
 
 #### Ages 8-10
-"Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be made unclean by them. I am the Lord your God.
+"Do not turn to mediums or wizards. Do not seek them out, to be made unclean by them. I am the Lord your God.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
