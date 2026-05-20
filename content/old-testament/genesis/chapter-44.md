@@ -16,10 +16,10 @@ Genesis 44 continues the covenant family story. Joseph tests his brothers with t
 **Original Reference**: Genesis 44:1 - He commanded the steward of his house, saying, "Fill the men's sacks with food, as much as they can carry, and put each man's money in his sack's mouth.
 
 #### Ages 5-7
-Joseph commanded the steward of his house, "Fill the men's sacks with as much food as they can carry, and put each man's money in the mouth of his sack.
+Joseph commanded the manager of his house, "Fill the men's sacks with as much food as they can carry, and put each man's money in the mouth of his sack.
 
 #### Ages 8-10
-Joseph commanded the steward of his house, "Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack.
+Joseph commanded the manager of his house, "Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack.
 
 ---
 
@@ -27,10 +27,10 @@ Joseph commanded the steward of his house, "Fill the men's sacks with food, as m
 **Original Reference**: Genesis 44:2 - Put my cup, the silver cup, in the sack's mouth of the youngest, with his grain money." He did according to the word that Joseph had spoken.
 
 #### Ages 5-7
-"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The steward did just as Joseph said.
+"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The manager did just as Joseph said.
 
 #### Ages 8-10
-"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The steward did according to Joseph's word.
+"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The manager did just as Joseph said.
 
 ---
 
@@ -49,10 +49,10 @@ As soon as morning dawned, the men were sent away with their donkeys.
 **Original Reference**: Genesis 44:4 - When they had gone out of the city, and were not yet far off, Joseph said to his steward, "Up, follow after the men. When you overtake them, ask them, 'Why have you rewarded evil for good?
 
 #### Ages 5-7
-They had only gone a short distance from the city when Joseph said to his steward, "Get up. Follow the men. When you catch them, say, 'Why have you repaid good with evil?
+They had only gone a short distance from the city when Joseph said to his manager, "Get up. Follow the men. When you catch them, say, 'Why have you repaid good with evil?
 
 #### Ages 8-10
-They had gone only a short distance from the city when Joseph said to his steward, "Arise, follow the men. When you overtake them, say, 'Why have you repaid good with evil?
+They had gone only a short distance from the city when Joseph said to his manager, "Get up, follow the men. When you catch them, say, 'Why have you repaid good with evil?
 
 ---
 
@@ -60,10 +60,10 @@ They had gone only a short distance from the city when Joseph said to his stewar
 **Original Reference**: Genesis 44:5 - Isn't this that from which my lord drinks, and by which he indeed divines? You have done evil in so doing.' "
 
 #### Ages 5-7
-"'Is this not the cup my lord drinks from and uses for divining? You have done evil by doing this.'"
+"'Is this not the cup my lord drinks from and uses to learn hidden things? You have done evil by doing this.'"
 
 #### Ages 8-10
-"'Is this not the cup my lord drinks from and uses for divining? You have done evil in doing this.'"
+"'Is this not the cup my lord drinks from and uses to learn hidden things? You have done evil by doing this.'"
 
 ---
 
@@ -71,10 +71,10 @@ They had gone only a short distance from the city when Joseph said to his stewar
 **Original Reference**: Genesis 44:6 - He overtook them, and he spoke these words to them.
 
 #### Ages 5-7
-The steward caught up with them and spoke these words to them.
+The manager caught up with them and spoke these words to them.
 
 #### Ages 8-10
-The steward overtook them and spoke these words to them.
+The manager caught up with them and spoke these words to them.
 
 ---
 
@@ -82,10 +82,10 @@ The steward overtook them and spoke these words to them.
 **Original Reference**: Genesis 44:7 - They said to him, "Why does my lord speak such words as these? Far be it from your servants that they should do such a thing!
 
 #### Ages 5-7
-They said to him, "Why does my lord say such things? Far be it from your servants to do something like this.
+They said to him, "Why does my lord say such things? We would never do something like this.
 
 #### Ages 8-10
-They said to him, "Why does my lord speak such words? Far be it from your servants to do such a thing.
+They said to him, "Why does my lord speak such words? We would never do such a thing.
 
 ---
 
@@ -96,7 +96,7 @@ They said to him, "Why does my lord speak such words? Far be it from your servan
 "Look, we brought back to you from the land of Canaan the money we found in our sacks. Why would we steal silver or gold from your lord's house?
 
 #### Ages 8-10
-"Look, we brought back to you from the land of Canaan the money we found in the mouths of our sacks. Why then would we steal silver or gold from your lord's house?
+"Look, we brought back to you from the land of Canaan the money we found in our sacks. Why then would we steal silver or gold from your lord's house?
 
 ---
 
@@ -115,7 +115,7 @@ They said to him, "Why does my lord speak such words? Far be it from your servan
 **Original Reference**: Genesis 44:10 - He said, "Now also let it be according to your words. He with whom it is found will be my slave; and you will be blameless."
 
 #### Ages 5-7
-The steward said, "Let it be as you say, but only the man who has the cup will be my slave. The rest of you will be innocent."
+The manager said, "Let it be as you say, but only the man who has the cup will be my slave. The rest of you will be innocent."
 
 #### Ages 8-10
 He said, "Now let it be according to your words, but only the one with whom it is found shall be my slave. The rest of you will be innocent."
@@ -137,10 +137,10 @@ Each man quickly lowered his sack to the ground, and each man opened his sack.
 **Original Reference**: Genesis 44:12 - He searched, beginning with the oldest, and ending at the youngest. The cup was found in Benjamin's sack.
 
 #### Ages 5-7
-The steward searched, beginning with the oldest and ending with the youngest. The cup was found in Benjamin's sack.
+The manager searched, beginning with the oldest and ending with the youngest. The cup was found in Benjamin's sack.
 
 #### Ages 8-10
-The steward searched, beginning with the oldest and ending with the youngest. The cup was found in Benjamin's sack.
+The manager searched, beginning with the oldest and ending with the youngest. The cup was found in Benjamin's sack.
 
 ---
 
@@ -173,10 +173,10 @@ Judah and his brothers came to Joseph's house, where Joseph was still present, a
 **Original Reference**: Genesis 44:15 - Joseph said to them, "What deed is this that you have done? Don't you know that such a man as I can indeed do divination?"
 
 #### Ages 5-7
-Joseph said to them, "What have you done? Did you not know that a man like me can surely divine?"
+Joseph said to them, "What have you done? Did you not know that a man like me can surely learn hidden things?"
 
 #### Ages 8-10
-Joseph said to them, "What deed is this that you have done? Did you not know that a man like me can certainly divine?"
+Joseph said to them, "What deed is this that you have done? Did you not know that a man like me can certainly learn hidden things?"
 
 ---
 
@@ -198,10 +198,10 @@ Judah said, "What can we say to my lord? What can we speak? How can we clear our
 **Original Reference**: Genesis 44:17 - He said, "Far be it from me that I should do so. The man in whose hand the cup is found, he will be my slave; but as for you, go up in peace to your father."
 
 #### Ages 5-7
-Joseph said, "Far be it from me to do that. Only the man in whose hand the cup was found shall be my slave. The rest of you may go up in peace to your father."
+Joseph said, "I would never do that. Only the man in whose hand the cup was found shall be my slave. The rest of you may go up in peace to your father."
 
 #### Ages 8-10
-Joseph said, "Far be it from me to do that. The man in whose hand the cup was found shall be my slave, but the rest of you may go up in peace to your father."
+Joseph said, "I would never do that. The man in whose hand the cup was found shall be my slave, but the rest of you may go up in peace to your father."
 
 ---
 
@@ -209,10 +209,10 @@ Joseph said, "Far be it from me to do that. The man in whose hand the cup was fo
 **Original Reference**: Genesis 44:18 - Then Judah came near to him, and said, "Oh, my lord, please let your servant speak a word in my lord's ears, and don't let your anger burn against your servant; for you are even as Pharaoh.
 
 #### Ages 5-7
-Then Judah came near to Joseph and said, "Please, my lord, let your servant speak a word in my lord's ears. Do not be angry with your servant, for you are like Pharaoh himself.
+Then Judah came near to Joseph and said, "Please, my lord, let your servant speak to you. Do not be angry with your servant, for you are like Pharaoh himself.
 
 #### Ages 8-10
-Then Judah came near to him and said, "Please, my lord, let your servant speak a word in my lord's ears, and do not let your anger burn against your servant, for you are like Pharaoh.
+Then Judah came near to him and said, "Please, my lord, let your servant speak to you, and do not let your anger burn against your servant, for you are like Pharaoh.
 
 **Key Vocabulary**:
 - Judah: Jacob's son whose family line receives an important ruler promise
@@ -311,10 +311,10 @@ Then Judah came near to him and said, "Please, my lord, let your servant speak a
 **Original Reference**: Genesis 44:27 - Your servant, my father, said to us, 'You know that my wife bore me two sons.
 
 #### Ages 5-7
-"Your servant my father said to us, 'You know that my wife bore me two sons.
+"Your servant my father said to us, 'You know that my wife had two sons for me.
 
 #### Ages 8-10
-"Your servant my father said to us, 'You know that my wife bore me two sons.
+"Your servant my father said to us, 'You know that my wife had two sons for me.
 
 ---
 
@@ -333,10 +333,10 @@ Then Judah came near to him and said, "Please, my lord, let your servant speak a
 **Original Reference**: Genesis 44:29 - If you take this one also from me, and harm happens to him, you will bring down my gray hairs with sorrow to Sheol.'
 
 #### Ages 5-7
-"'If you take this one from me also, and harm happens to him, you will bring my gray hair down to the grave in sorrow.'
+"'If you take this one from me also, and harm happens to him, I will die in sorrow as an old man.'
 
 #### Ages 8-10
-"'If you take this one from me also, and harm happens to him, you will bring my gray hair down to the grave in sorrow.'
+"'If you take this one from me also, and harm happens to him, I will die in sorrow as an old man.'
 
 ---
 
@@ -355,10 +355,10 @@ Then Judah came near to him and said, "Please, my lord, let your servant speak a
 **Original Reference**: Genesis 44:31 - it will happen, when he sees that the boy is no more, that he will die. Your servants will bring down the gray hairs of your servant, our father, with sorrow to Sheol.
 
 #### Ages 5-7
-"When he sees that the boy is not with us, he will die. Your servants would bring the gray hair of your servant our father down to the grave in sorrow.
+"When he sees that the boy is not with us, he will die. Your servants would make our old father die in sorrow.
 
 #### Ages 8-10
-"when he sees that the boy is not with us, he will die. Your servants will bring the gray hair of your servant our father down to the grave in sorrow.
+"when he sees that the boy is not with us, he will die. Your servants would make our old father die in sorrow.
 
 ---
 
@@ -366,10 +366,10 @@ Then Judah came near to him and said, "Please, my lord, let your servant speak a
 **Original Reference**: Genesis 44:32 - For your servant became collateral for the boy to my father, saying, 'If I don't bring him to you, then I will bear the blame to my father forever.'
 
 #### Ages 5-7
-"Your servant promised to be responsible for the boy to my father. I said, 'If I do not bring him back to you, then I will bear the blame before my father forever.'
+"Your servant promised to be responsible for the boy to my father. I said, 'If I do not bring him back to you, then I will carry the blame before my father forever.'
 
 #### Ages 8-10
-"Your servant became responsible for the boy to my father, saying, 'If I do not bring him back to you, then I will bear the blame before my father forever.'
+"Your servant became responsible for the boy to my father, saying, 'If I do not bring him back to you, then I will carry the blame before my father forever.'
 
 ---
 
@@ -394,7 +394,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 "How can I go back to my father if the boy is not with me? I could not bear to see the sorrow that would come upon my father."
 
 #### Ages 8-10
-"For how can I go up to my father if the boy is not with me? I could not bear to see the evil that would come upon my father."
+"For how can I go up to my father if the boy is not with me? I could not bear to see the sorrow that would come upon my father."
 
 ---
 

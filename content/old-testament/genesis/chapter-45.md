@@ -63,7 +63,7 @@ Joseph said to his brothers, "Please come near to me." They came near, and he sa
 "Now do not be upset or angry with yourselves because you sold me here. God sent me ahead of you to save life.
 
 #### Ages 8-10
-"Now do not be grieved or angry with yourselves because you sold me here, for God sent me before you to preserve life.
+"Now do not be grieved or angry with yourselves because you sold me here, for God sent me ahead of you to save life.
 
 **Translation Notes**:
 Joseph does not excuse the brothers' sin, but he sees God's saving purpose over it.
@@ -91,10 +91,14 @@ Joseph does not excuse the brothers' sin, but he sees God's saving purpose over 
 **Original Reference**: Genesis 45:7 - God sent me before you to preserve for you a remnant in the earth, and to save you alive by a great deliverance.
 
 #### Ages 5-7
-"God sent me ahead of you to preserve a remnant for you on the earth and to keep you alive by a great deliverance.
+"God sent me ahead of you to keep your family alive on the earth and to rescue you in a great way.
 
 #### Ages 8-10
-"God sent me before you to preserve a remnant for you on the earth and to keep you alive by a great deliverance.
+"God sent me ahead of you to keep your family alive on the earth and to rescue you in a great way.
+
+**Key Vocabulary**:
+- family: People joined by parents, children, marriage, or covenant promise
+- rescue: Being saved from danger
 
 ---
 
@@ -102,10 +106,10 @@ Joseph does not excuse the brothers' sin, but he sees God's saving purpose over 
 **Original Reference**: Genesis 45:8 - So now it wasn't you who sent me here, but God, and he has made me a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
 
 #### Ages 5-7
-"So it was not you who sent me here, but God. He has made me like a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
+"So it was not you who sent me here, but God. He has made me like a father and adviser to Pharaoh, ruler over all his house, and ruler over all the land of Egypt.
 
 #### Ages 8-10
-"So it was not you who sent me here, but God. He has made me like a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
+"So it was not you who sent me here, but God. He has made me like a father and adviser to Pharaoh, ruler over all his house, and ruler over all the land of Egypt.
 
 ---
 
@@ -113,10 +117,10 @@ Joseph does not excuse the brothers' sin, but he sees God's saving purpose over 
 **Original Reference**: Genesis 45:9 - Hurry, and go up to my father, and tell him, 'This is what your son Joseph says, "God has made me lord of all Egypt. Come down to me. Don't wait.
 
 #### Ages 5-7
-"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me lord over all Egypt. Come down to me. Do not delay.
+"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me ruler over all Egypt. Come down to me. Do not delay.
 
 #### Ages 8-10
-"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me lord of all Egypt. Come down to me. Do not delay.
+"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me ruler over all Egypt. Come down to me. Do not delay.
 
 ---
 
@@ -160,7 +164,7 @@ Joseph does not excuse the brothers' sin, but he sees God's saving purpose over 
 **Original Reference**: Genesis 45:13 - You shall tell my father of all my glory in Egypt, and of all that you have seen. You shall hurry and bring my father down here."
 
 #### Ages 5-7
-"Tell my father about all my glory in Egypt and about everything you have seen. Hurry and bring my father down here."
+"Tell my father about all the honor I have in Egypt and about everything you have seen. Hurry and bring my father down here."
 
 #### Ages 8-10
 "Tell my father about all my honor in Egypt and about all you have seen. Hurry and bring my father down here."
@@ -240,7 +244,7 @@ Pharaoh said to Joseph, "Tell your brothers, 'Do this: load your animals and go 
 "'Do not worry about your belongings, because the best of all the land of Egypt is yours.'"
 
 #### Ages 8-10
-"'Do not worry about your possessions, because the best of all the land of Egypt is yours.'"
+"'Do not worry about the things you own, because the best of all the land of Egypt is yours.'"
 
 ---
 
@@ -346,7 +350,7 @@ Joseph reveals himself, forgives his brothers, and explains that God sent him ah
 "Now do not be upset or angry with yourselves because you sold me here. God sent me ahead of you to save life. - Genesis 45:5
 
 ### Ages 8-10
-"Now do not be grieved or angry with yourselves because you sold me here, for God sent me before you to preserve life. - Genesis 45:5
+"Now do not be grieved or angry with yourselves because you sold me here, for God sent me ahead of you to save life. - Genesis 45:5
 
 ## Discussion Questions by Age
 

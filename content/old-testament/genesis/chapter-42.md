@@ -131,10 +131,10 @@ Joseph recognized his brothers, but they did not recognize him.
 **Original Reference**: Genesis 42:9 - Joseph remembered the dreams which he dreamed about them, and said to them, "You are spies! You have come to see the nakedness of the land."
 
 #### Ages 5-7
-Joseph remembered the dreams he had dreamed about them. He said, "You are spies. You have come to see where the land is weak."
+Joseph remembered the dreams he had dreamed about them. He said, "You are spies, secret watchers from another land. You have come to see where the land is weak."
 
 #### Ages 8-10
-Joseph remembered the dreams he had dreamed about them. He said to them, "You are spies. You have come to see the weakness of the land."
+Joseph remembered the dreams he had dreamed about them. He said to them, "You are spies, secret watchers from another land. You have come to see the weakness of the land."
 
 ---
 
@@ -274,7 +274,7 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us."
 
 #### Ages 8-10
-They said to one another, "We are truly guilty concerning our brother. We saw the distress of his soul when he begged us, but we would not listen. That is why this distress has come upon us."
+They said to one another, "We are truly guilty because of our brother. We saw how distressed he was when he begged us, but we would not listen. That is why this trouble has come upon us."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -288,10 +288,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 42:22 - Reuben answered them, saying, "Didn't I tell you, saying, 'Don't sin against the child,' and you wouldn't listen? Therefore also, behold, his blood is required."
 
 #### Ages 5-7
-Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now his blood is being required."
+Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now we are being held responsible for what happened to him."
 
 #### Ages 8-10
-Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now his blood is being required."
+Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now we are being held responsible for what happened to him."
 
 ---
 
@@ -299,10 +299,10 @@ Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you
 **Original Reference**: Genesis 42:23 - They didn't know that Joseph understood them; for there was an interpreter between them.
 
 #### Ages 5-7
-They did not know that Joseph understood them, because he had been speaking to them through an interpreter.
+They did not know that Joseph understood them, because he had been speaking to them through someone who translated their words.
 
 #### Ages 8-10
-They did not know Joseph understood them, because he had been using an interpreter.
+They did not know Joseph understood them, because he had been using someone who translated their words.
 
 ---
 
@@ -310,10 +310,10 @@ They did not know Joseph understood them, because he had been using an interpret
 **Original Reference**: Genesis 42:24 - He turned himself away from them, and wept. Then he returned to them, and spoke to them, and took Simeon from among them, and bound him before their eyes.
 
 #### Ages 5-7
-Joseph turned away from them and wept. Then he came back and spoke to them. He took Simeon from them and had him bound before their eyes.
+Joseph turned away from them and wept. Then he came back and spoke to them. He took Simeon from them and had him tied up before their eyes.
 
 #### Ages 8-10
-Joseph turned away from them and wept. Then he returned and spoke to them. He took Simeon from them and bound him before their eyes.
+Joseph turned away from them and wept. Then he returned and spoke to them. He took Simeon from them and had him tied up before their eyes.
 
 ---
 
@@ -463,7 +463,7 @@ As they emptied their sacks, each man's bundle of money was in his sack. When th
 Jacob their father said to them, "You have taken my children from me. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
 
 #### Ages 8-10
-Jacob their father said to them, "You have bereaved me of my children. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
+Jacob their father said to them, "You have taken my children from me. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
 
 ---
 
@@ -482,10 +482,10 @@ Reuben said to his father, "You may put my two sons to death if I do not bring B
 **Original Reference**: Genesis 42:38 - He said, "My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol."
 
 #### Ages 5-7
-But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm comes to him on the journey, you would bring my gray hair down to the grave in sorrow."
+But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm comes to him on the journey, I would die in sorrow as an old man."
 
 #### Ages 8-10
-But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm happens to him on the journey, you would bring my gray hair down to the grave in sorrow."
+But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm happens to him on the journey, I would die in sorrow as an old man."
 
 ---
 
@@ -503,7 +503,7 @@ Joseph's brothers come to Egypt for grain, do not recognize him, and are tested 
 They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us." - Genesis 42:21
 
 ### Ages 8-10
-They said to one another, "We are truly guilty concerning our brother. We saw the distress of his soul when he begged us, but we would not listen. That is why this distress has come upon us." - Genesis 42:21
+They said to one another, "We are truly guilty because of our brother. We saw how distressed he was when he begged us, but we would not listen. That is why this trouble has come upon us." - Genesis 42:21
 
 ## Discussion Questions by Age
 

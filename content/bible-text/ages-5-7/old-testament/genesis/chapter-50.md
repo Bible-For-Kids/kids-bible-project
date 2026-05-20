@@ -12,19 +12,19 @@ Genesis
 Joseph fell on his father's face, wept over him, and kissed him.
 
 ### Genesis 50:2
-Joseph commanded the physicians who served him to prepare his father's body for burial in the Egyptian way. So the physicians prepared Israel's body.
+Joseph commanded the doctors who served him to prepare his father's body for burial in the Egyptian way. So the doctors prepared Israel's body.
 
 ### Genesis 50:3
 Forty days were needed for this, because that was the full time for preparing a body. The Egyptians mourned for Jacob seventy days.
 
 ### Genesis 50:4
-When the days of mourning were past, Joseph spoke to Pharaoh's household and said, "If I have found favor in your eyes, please speak to Pharaoh for me.
+When the days of mourning were past, Joseph spoke to Pharaoh's household and said, "If you are pleased with me, please speak to Pharaoh for me.
 
 ### Genesis 50:5
-"My father made me swear, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
+"My father made me promise, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
 
 ### Genesis 50:6
-Pharaoh said, "Go up and bury your father, just as he made you swear."
+Pharaoh said, "Go up and bury your father, just as he made you promise."
 
 ### Genesis 50:7
 So Joseph went up to bury his father. With him went all Pharaoh's servants, the elders of Pharaoh's house, and all the elders of the land of Egypt.
@@ -33,10 +33,10 @@ So Joseph went up to bury his father. With him went all Pharaoh's servants, the 
 All Joseph's household, his brothers, and his father's household went too. Only their little ones, their flocks, and their herds stayed in the land of Goshen.
 
 ### Genesis 50:9
-Chariots and horsemen also went with him. It was a very great company.
+Royal chariots and horsemen also went with him. It was a very great company.
 
 ### Genesis 50:10
-They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very deep mourning, and Joseph made a seven-day mourning for his father.
+They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very deep mourning, and Joseph mourned for his father seven days.
 
 ### Genesis 50:11
 When the Canaanites who lived in the land saw the mourning at the threshing floor of Atad, they said, "This is a deep mourning of the Egyptians." That is why the place was called Abel-mizraim, beyond the Jordan.
@@ -78,10 +78,10 @@ Joseph lived in Egypt, he and his father's household. Joseph lived one hundred t
 Joseph saw Ephraim's children to the third generation. The children of Machir, Manasseh's son, were also brought up on Joseph's knees.
 
 ### Genesis 50:24
-Joseph said to his brothers, "I am dying, but God will surely visit you. He will bring you up out of this land to the land he promised with an oath to Abraham, Isaac, and Jacob."
+Joseph said to his brothers, "I am dying, but God will surely come to help you. He will bring you up out of this land to the land he promised with a serious promise to Abraham, Isaac, and Jacob."
 
 ### Genesis 50:25
-Joseph made the children of Israel swear, saying, "God will surely visit you, and you shall carry my bones up from here."
+Joseph made the children of Israel promise, saying, "God will surely come to help you, and you shall carry my bones up from here."
 
 ### Genesis 50:26
 Joseph died when he was one hundred ten years old. They prepared his body for burial in the Egyptian way, and he was placed in a coffin in Egypt.

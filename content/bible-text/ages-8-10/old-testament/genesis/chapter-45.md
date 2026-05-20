@@ -21,19 +21,19 @@ Joseph said to his brothers, "I am Joseph. Is my father still alive?" His brothe
 Joseph said to his brothers, "Please come near to me." They came near, and he said, "I am Joseph your brother, whom you sold into Egypt.
 
 ### Genesis 45:5
-"Now do not be grieved or angry with yourselves because you sold me here, for God sent me before you to preserve life.
+"Now do not be grieved or angry with yourselves because you sold me here, for God sent me ahead of you to save life.
 
 ### Genesis 45:6
 "The famine has been in the land for two years, and there are still five years in which there will be no plowing or harvest.
 
 ### Genesis 45:7
-"God sent me before you to preserve a remnant for you on the earth and to keep you alive by a great deliverance.
+"God sent me ahead of you to keep your family alive on the earth and to rescue you in a great way.
 
 ### Genesis 45:8
-"So it was not you who sent me here, but God. He has made me like a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
+"So it was not you who sent me here, but God. He has made me like a father and adviser to Pharaoh, ruler over all his house, and ruler over all the land of Egypt.
 
 ### Genesis 45:9
-"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me lord of all Egypt. Come down to me. Do not delay.
+"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me ruler over all Egypt. Come down to me. Do not delay.
 
 ### Genesis 45:10
 "'You shall live in the land of Goshen, and you will be near me, you and your children and grandchildren, your flocks, your herds, and all you have.
@@ -66,7 +66,7 @@ Pharaoh said to Joseph, "Tell your brothers, 'Do this: load your animals and go 
 "You are also commanded to tell them, 'Take wagons from the land of Egypt for your little ones and your wives. Bring your father and come.
 
 ### Genesis 45:20
-"'Do not worry about your possessions, because the best of all the land of Egypt is yours.'"
+"'Do not worry about the things you own, because the best of all the land of Egypt is yours.'"
 
 ### Genesis 45:21
 The sons of Israel did so. Joseph gave them wagons according to Pharaoh's command, and he gave them food for the journey.

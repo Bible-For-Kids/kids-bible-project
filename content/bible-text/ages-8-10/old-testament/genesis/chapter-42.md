@@ -33,7 +33,7 @@ Joseph saw his brothers and recognized them, but he treated them like strangers 
 Joseph recognized his brothers, but they did not recognize him.
 
 ### Genesis 42:9
-Joseph remembered the dreams he had dreamed about them. He said to them, "You are spies. You have come to see the weakness of the land."
+Joseph remembered the dreams he had dreamed about them. He said to them, "You are spies, secret watchers from another land. You have come to see the weakness of the land."
 
 ### Genesis 42:10
 They said to him, "No, my lord. Your servants have come to buy food.
@@ -69,16 +69,16 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 "Bring your youngest brother to me, so your words will be confirmed and you will not die." So they did so.
 
 ### Genesis 42:21
-They said to one another, "We are truly guilty concerning our brother. We saw the distress of his soul when he begged us, but we would not listen. That is why this distress has come upon us."
+They said to one another, "We are truly guilty because of our brother. We saw how distressed he was when he begged us, but we would not listen. That is why this trouble has come upon us."
 
 ### Genesis 42:22
-Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now his blood is being required."
+Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now we are being held responsible for what happened to him."
 
 ### Genesis 42:23
-They did not know Joseph understood them, because he had been using an interpreter.
+They did not know Joseph understood them, because he had been using someone who translated their words.
 
 ### Genesis 42:24
-Joseph turned away from them and wept. Then he returned and spoke to them. He took Simeon from them and bound him before their eyes.
+Joseph turned away from them and wept. Then he returned and spoke to them. He took Simeon from them and had him tied up before their eyes.
 
 ### Genesis 42:25
 Joseph commanded that their bags be filled with grain, that each man's money be returned to his sack, and that they be given food for the journey. This was done for them.
@@ -114,10 +114,10 @@ They said, "The man who is lord of the land spoke harshly to us and treated us a
 As they emptied their sacks, each man's bundle of money was in his sack. When they and their father saw the bundles of money, they were afraid.
 
 ### Genesis 42:36
-Jacob their father said to them, "You have bereaved me of my children. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
+Jacob their father said to them, "You have taken my children from me. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
 
 ### Genesis 42:37
 Reuben said to his father, "You may put my two sons to death if I do not bring Benjamin back to you. Put him in my hand, and I will bring him back."
 
 ### Genesis 42:38
-But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm happens to him on the journey, you would bring my gray hair down to the grave in sorrow."
+But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm happens to him on the journey, I would die in sorrow as an old man."

@@ -39,7 +39,7 @@ Jacob said to Pharaoh, "The days of the years of my journey are one hundred thir
 Jacob blessed Pharaoh and went out from Pharaoh's presence.
 
 ### Genesis 47:11
-Joseph settled his father and his brothers in Egypt. He gave them a possession in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+Joseph settled his father and his brothers in Egypt. He gave them a place to live in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
 ### Genesis 47:12
 Joseph provided food for his father, his brothers, and all his father's household, according to the number of their little ones.
@@ -81,22 +81,22 @@ Joseph said to the people, "See, I have bought you and your land today for Phara
 "At harvest time, you shall give one fifth to Pharaoh. Four fifths will be yours for seed for the field, and for food for you, your households, and your little ones."
 
 ### Genesis 47:25
-They said, "You have saved our lives. Let us find favor in my lord's sight, and we will be Pharaoh's servants."
+They said, "You have saved our lives. Please be pleased with us, my lord, and we will be Pharaoh's servants."
 
 ### Genesis 47:26
 Joseph made it a law over the land of Egypt, lasting to this day, that Pharaoh should have one fifth. Only the land of the priests did not become Pharaoh's.
 
 ### Genesis 47:27
-Israel lived in the land of Egypt, in the land of Goshen. They gained possessions there, had children, and grew into many people.
+Israel lived in the land of Egypt, in the land of Goshen. They gained things they owned there, had children, and grew into many people.
 
 ### Genesis 47:28
 Jacob lived in the land of Egypt seventeen years. The years of Jacob's life were one hundred forty-seven years.
 
 ### Genesis 47:29
-When the time came near for Israel to die, he called his son Joseph and said, "If I have found favor in your eyes, please put your hand under my thigh. Deal kindly and faithfully with me. Please do not bury me in Egypt.
+When the time came near for Israel to die, he called his son Joseph and said, "If you are pleased with me, please put your hand under my thigh and make me a serious promise, as people did then. Deal kindly and faithfully with me. Please do not bury me in Egypt.
 
 ### Genesis 47:30
-"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
+"When I die and rest with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
 
 ### Genesis 47:31
-Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at the head of his bed.
+Israel said, "Promise me." Joseph promised him. Then Israel bowed in worship at the head of his bed.

@@ -9,7 +9,7 @@ const BOOK_NAME = 'Genesis';
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const CHAPTERS = Array.from({ length: 47 }, (_, index) => index + 3);
+const CHAPTERS = Array.from({ length: 48 }, (_, index) => index + 3);
 
 const VOCABULARY = {
   adoption: 'Being received and counted as part of a family',
@@ -348,6 +348,7 @@ const CHAPTER_TOPICS = {
   47: ['Joseph settles his family in Goshen, manages Egypt during famine, and Jacob makes Joseph swear to bury him with his fathers.', ['Goshen', 'famine', 'stewardship', 'oath', 'burial'], 30],
   48: ['Jacob blesses Joseph\'s sons, placing Ephraim before Manasseh, and gives them a place among his own sons.', ['blessing', 'adoption', 'Ephraim', 'Manasseh', 'faith'], 15],
   49: ['Jacob gathers his sons, speaks blessings and warnings over the tribes of Israel, and gives burial instructions before his death.', ['blessing', 'tribe', 'Judah', 'Joseph', 'burial'], 18],
+  50: ['Jacob is buried in Canaan, Joseph comforts his fearful brothers with forgiveness, and Joseph dies trusting God to bring Israel back to the promised land.', ['burial', 'forgiveness', 'providence', 'promise', 'faith'], 20],
 };
 
 const SPECIAL_NOTES = {

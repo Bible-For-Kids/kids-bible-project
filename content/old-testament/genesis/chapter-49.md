@@ -41,7 +41,7 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 "Reuben, you are my firstborn, my strength, and the first sign of my power, first in honor and first in might.
 
 #### Ages 8-10
-"Reuben, you are my firstborn, my strength, and the beginning of my power, first in dignity and first in strength.
+"Reuben, you are my firstborn, my strength, and the first sign of my power, first in honor and first in strength.
 
 ---
 
@@ -49,10 +49,10 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 **Original Reference**: Genesis 49:4 - Boiling over like water, you shall not excel; because you went up to your father's bed, then defiled it. He went up to my couch.
 
 #### Ages 5-7
-"But you are unstable like water, so you shall not be first, because you went up to your father's bed and dishonored it.
+"But you are unsteady like water, so you shall not be first, because you went up to your father's bed and dishonored it.
 
 #### Ages 8-10
-"Unstable like water, you shall not excel, because you went up to your father's bed and dishonored it.
+"Unsteady like water, you shall not be first, because you went up to your father's bed and dishonored it.
 
 ---
 
@@ -71,10 +71,10 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 **Original Reference**: Genesis 49:6 - My soul, don't come into their council. My glory, don't be united to their assembly; for in their anger they killed men. In their self-will they hamstrung cattle.
 
 #### Ages 5-7
-"Let my soul not join their secret plans. Let my honor not be joined to their gathering, because in their anger they killed men, and in their self-will they crippled oxen.
+"Let my soul not join their secret plans. Let my honor not be joined to their gathering, because in their anger they killed men, and because they did what they wanted, they crippled oxen.
 
 #### Ages 8-10
-"Let my soul not enter their council. Let my honor not join their assembly, for in their anger they killed men, and in their self-will they crippled oxen.
+"Let my soul not enter their secret plans. Let my honor not join their gathering, for in their anger they killed men, and because they did what they wanted, they crippled oxen.
 
 ---
 
@@ -110,7 +110,7 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 "Judah is a young lion. My son, you have gone up from the prey. He crouches and lies down like a lion. Who would dare wake him?
 
 #### Ages 8-10
-"Judah is a lion's cub. From the prey, my son, you have gone up. He crouches and lies down like a lion. Who will rouse him?
+"Judah is a lion's cub. From the prey, my son, you have gone up. He crouches and lies down like a lion. Who would dare wake him?
 
 **Key Vocabulary**:
 - Judah: Jacob's son whose family line receives an important ruler promise
@@ -121,10 +121,10 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 **Original Reference**: Genesis 49:10 - The scepter will not depart from Judah, nor the ruler's staff from between his feet, until he comes to whom it belongs. To him will the obedience of the peoples be.
 
 #### Ages 5-7
-"The scepter will not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes. The obedience of the peoples will belong to him.
+"The royal scepter will not depart from Judah, nor the ruler's staff from between his feet, until the one it belongs to comes. The obedience of the peoples will belong to him.
 
 #### Ages 8-10
-"The scepter will not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes. To him will be the obedience of the peoples.
+"The royal scepter will not depart from Judah, nor the ruler's staff from between his feet, until the one it belongs to comes. To him will be the obedience of the peoples.
 
 **Translation Notes**:
 Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into generic leadership.
@@ -141,10 +141,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:11 - Binding his foal to the vine, his donkey's colt to the choice vine; he has washed his garments in wine, his robes in the blood of grapes.
 
 #### Ages 5-7
-"He ties his young donkey to the vine, and his donkey's colt to the best vine. He washes his clothes in wine and his robe in the blood of grapes.
+"He ties his young donkey to the vine, and his donkey's colt to the best vine. Wine will be so plentiful it is pictured like water for washing clothes.
 
 #### Ages 8-10
-"He ties his donkey to the vine, and his donkey's colt to the choice vine. He washes his clothes in wine and his robe in the blood of grapes.
+"He ties his donkey to the vine, and his donkey's colt to the choice vine. Wine will be so plentiful it is pictured like water for washing clothes.
 
 ---
 
@@ -152,10 +152,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:12 - His eyes will be red with wine, his teeth white with milk.
 
 #### Ages 5-7
-"His eyes are red with wine, and his teeth are white with milk.
+"His eyes are bright with wine, and his teeth are white with milk.
 
 #### Ages 8-10
-"His eyes are red with wine, and his teeth are white with milk.
+"His eyes are bright with wine, and his teeth are white with milk.
 
 ---
 
@@ -174,10 +174,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:14 - "Issachar is a strong donkey, lying down between the saddlebags.
 
 #### Ages 5-7
-"Issachar is a strong donkey lying down between the saddlebags.
+"Issachar is like a strong donkey lying down between the saddlebags.
 
 #### Ages 8-10
-"Issachar is a strong donkey lying down between the saddlebags.
+"Issachar is like a strong donkey lying down between the saddlebags.
 
 ---
 
@@ -188,7 +188,7 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 "He saw that rest was good and that the land was pleasant, so he bent his shoulder to carry a load and became a servant at forced labor.
 
 #### Ages 8-10
-"He saw that rest was good and that the land was pleasant, so he bent his shoulder to bear burdens and became a servant at forced labor.
+"He saw that rest was good and that the land was pleasant, so he bent his shoulder to carry heavy loads and became a servant at forced labor.
 
 ---
 
@@ -210,10 +210,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:17 - Dan will be a serpent on the trail, an adder in the path, that bites the horse's heels, so that his rider falls backward.
 
 #### Ages 5-7
-"Dan will be a serpent by the road, a snake by the path, that bites the horse's heels so its rider falls backward.
+"Dan will be like a serpent by the road, a snake by the path, that bites the horse's heels so its rider falls backward.
 
 #### Ages 8-10
-"Dan will be a serpent by the road, a snake by the path, that bites the horse's heels so its rider falls backward.
+"Dan will be like a serpent by the road, a snake by the path, that bites the horse's heels so its rider falls backward.
 
 ---
 
@@ -235,10 +235,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:19 - "A troop will press on Gad, but he will press on their heel.
 
 #### Ages 5-7
-"Raiders will raid Gad, but he will raid at their heels.
+"Raiders will attack Gad, but Gad will attack back at their heels.
 
 #### Ages 8-10
-"Raiders will raid Gad, but he will raid at their heels.
+"Raiders will attack Gad, but Gad will attack back at their heels.
 
 ---
 
@@ -246,10 +246,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:20 - "Asher's food will be rich. He will produce royal dainties.
 
 #### Ages 5-7
-"Asher's food will be rich, and he will provide royal delights.
+"Asher's food will be rich, and he will provide food fit for a king.
 
 #### Ages 8-10
-"Asher's food will be rich, and he will provide royal delicacies.
+"Asher's food will be rich, and he will provide food fit for a king.
 
 ---
 
@@ -282,7 +282,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:23 - The archers have severely grieved him, shot at him, and persecuted him:
 
 #### Ages 5-7
-"Archers attacked him bitterly, shot at him, and hated him.
+"Archers attacked him bitterly, shooting at him and hating him.
 
 #### Ages 8-10
 "Archers attacked him bitterly, shot at him, and hated him.
@@ -304,10 +304,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:25 - even by the God of your father, who will help you, by the Almighty, who will bless you, with blessings of heaven above, blessings of the deep that lies below, blessings of the breasts, and of the womb.
 
 #### Ages 5-7
-"by the God of your father, who will help you, and by the Almighty, who will bless you with blessings from heaven above, blessings from the deep below, and blessings of the breasts and womb.
+"by the God of your father, who will help you, and by the Almighty, who will bless you with blessings from heaven above, blessings from the deep waters below, and blessings for mothers and children.
 
 #### Ages 8-10
-"by the God of your father, who will help you, and by the Almighty, who will bless you with blessings from heaven above, blessings from the deep below, and blessings of the breasts and womb.
+"by the God of your father, who will help you, and by the Almighty, who will bless you with blessings from heaven above, blessings from the deep waters below, and blessings for mothers and children.
 
 **Key Vocabulary**:
 - blessing: Good spoken or given by God
@@ -333,10 +333,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:27 - "Benjamin is a ravenous wolf. In the morning he will devour the prey. At evening he will divide the plunder."
 
 #### Ages 5-7
-"Benjamin is a hungry wolf. In the morning he eats the prey, and in the evening he divides the spoil."
+"Benjamin is like a hungry wolf. In the morning he eats the prey, and in the evening he divides what was taken."
 
 #### Ages 8-10
-"Benjamin is a ravenous wolf. In the morning he devours the prey, and in the evening he divides the spoil."
+"Benjamin is like a hungry wolf. In the morning he eats the prey, and in the evening he divides what was taken."
 
 ---
 
@@ -359,10 +359,10 @@ All these are the twelve tribes of Israel. This is what their father said to the
 **Original Reference**: Genesis 49:29 - He instructed them, and said to them, "I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
 
 #### Ages 5-7
-Then Jacob commanded them, "I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,
+Then Jacob commanded them, "I am about to die and be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,
 
 #### Ages 8-10
-Then Jacob commanded them, "I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,
+Then Jacob commanded them, "I am about to die and be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,
 
 ---
 

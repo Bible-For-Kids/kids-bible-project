@@ -53,10 +53,10 @@ Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan 
 **Original Reference**: Genesis 48:4 - and said to me, 'Behold, I will make you fruitful, and multiply you, and I will make of you a company of peoples, and will give this land to your offspring after you for an everlasting possession.'
 
 #### Ages 5-7
-"He said to me, 'I will make you fruitful and multiply you. I will make you into a company of peoples, and I will give this land to your children after you as an everlasting possession.'
+"He said to me, 'I will give you many children and make your family into many peoples, and I will give this land to your children after you as their land forever.'
 
 #### Ages 8-10
-"He said to me, 'I will make you fruitful and multiply you. I will make you into a company of peoples, and I will give this land to your offspring after you as an everlasting possession.'
+"He said to me, 'I will give you many children and make your family into many peoples, and I will give this land to your children after you as their land forever.'
 
 ---
 
@@ -79,10 +79,10 @@ Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan 
 **Original Reference**: Genesis 48:6 - Your offspring, whom you become the father of after them, will be yours. They will be called after the name of their brothers in their inheritance.
 
 #### Ages 5-7
-"Any children born to you after them shall be yours. They will be called by the names of their brothers in their inheritance.
+"Any children born to you after them shall be yours. They will receive their family share under the names of their brothers.
 
 #### Ages 8-10
-"Any children born to you after them shall be yours. In their inheritance, they will be called by the names of their brothers.
+"Any children born to you after them shall be yours. They will receive their family share under the names of their brothers.
 
 ---
 
@@ -137,7 +137,7 @@ Israel's eyes were dim because of age, so he could not see well. Joseph brought 
 Israel said to Joseph, "I did not think I would see your face again, and now God has let me see your children too."
 
 #### Ages 8-10
-Israel said to Joseph, "I did not expect to see your face again, and now God has also shown me your offspring."
+Israel said to Joseph, "I did not expect to see your face again, and now God has also shown me your children."
 
 ---
 
@@ -189,7 +189,7 @@ But Israel stretched out his right hand and put it on Ephraim's head, though Eph
 Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life to this day,
 
 #### Ages 8-10
-Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has shepherded me all my life to this day,
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me like a shepherd all my life to this day,
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -200,10 +200,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 48:16 - the angel who has redeemed me from all evil, bless the lads, and let my name be named on them, and the name of my fathers Abraham and Isaac. Let them grow into a multitude upon the earth."
 
 #### Ages 5-7
-"the Angel who has redeemed me from all evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into a great multitude on the earth."
+"the Angel who has rescued me from every evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into a great many people on the earth."
 
 #### Ages 8-10
-"the Angel who has redeemed me from all evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into a multitude on the earth."
+"the Angel who has rescued me from every evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into many people on the earth."
 
 ---
 
@@ -237,10 +237,10 @@ Joseph said to his father, "Not so, my father. This one is the firstborn. Put yo
 **Original Reference**: Genesis 48:19 - His father refused, and said, "I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his offspring will become a multitude of nations."
 
 #### Ages 5-7
-But his father refused and said, "I know, my son, I know. Manasseh also will become a people, and he also will be great. Even so, his younger brother will be greater than he is, and his children will become a multitude of nations."
+But his father refused and said, "I know, my son, I know. Manasseh also will become a people, and he also will be great. Even so, his younger brother will be greater than he is, and his children will become many nations."
 
 #### Ages 8-10
-But his father refused and said, "I know, my son, I know. Manasseh also will become a people, and he also will be great. Nevertheless, his younger brother will be greater than he, and his offspring will become a multitude of nations."
+But his father refused and said, "I know, my son, I know. Manasseh also will become a people, and he also will be great. Even so, his younger brother will be greater than he is, and his children will become many nations."
 
 **Key Vocabulary**:
 - Manasseh: Joseph's older son whom Jacob blessed after Ephraim
@@ -277,10 +277,10 @@ Then Israel said to Joseph, "Look, I am dying, but God will be with you and brin
 **Original Reference**: Genesis 48:22 - Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow."
 
 #### Ages 5-7
-"I have given you one portion more than your brothers, which I took from the Amorite with my sword and my bow."
+"I have given you one share more than your brothers, which I took from the Amorite with my sword and my bow."
 
 #### Ages 8-10
-"I have given you one portion more than your brothers, which I took from the Amorite with my sword and my bow."
+"I have given you one share more than your brothers, which I took from the Amorite with my sword and my bow."
 
 ---
 
@@ -298,7 +298,7 @@ Jacob blesses Joseph's sons, placing Ephraim before Manasseh, and gives them a p
 Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life to this day, - Genesis 48:15
 
 ### Ages 8-10
-Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has shepherded me all my life to this day, - Genesis 48:15
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me like a shepherd all my life to this day, - Genesis 48:15
 
 ## Discussion Questions by Age
 

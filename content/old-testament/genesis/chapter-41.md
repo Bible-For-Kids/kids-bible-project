@@ -80,7 +80,7 @@ He slept and dreamed a second time. Seven full, good heads of grain grew on one 
 After them, seven thin heads of grain grew up, dried out by the hot east wind.
 
 #### Ages 8-10
-After them, seven thin heads of grain grew up, scorched by the east wind.
+After them, seven thin heads of grain grew up, dried out by the hot east wind.
 
 ---
 
@@ -105,7 +105,7 @@ The thin heads swallowed the seven full, good heads. Then Pharaoh woke and saw t
 In the morning, Pharaoh's heart was troubled. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
 
 #### Ages 8-10
-In the morning, Pharaoh's spirit was troubled. He called all the magicians and wise men of Egypt and told them his dreams, but no one could interpret them for him.
+In the morning, Pharaoh's heart was troubled. He called all the magicians and wise men of Egypt and told them his dreams, but no one could explain what they meant.
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -117,10 +117,10 @@ In the morning, Pharaoh's spirit was troubled. He called all the magicians and w
 **Original Reference**: Genesis 41:9 - Then the chief cup bearer spoke to Pharaoh, saying, "I remember my faults today.
 
 #### Ages 5-7
-Then the chief cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
+Then the head cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
 
 #### Ages 8-10
-Then the chief cupbearer said to Pharaoh, "Today I remember my faults.
+Then the head cupbearer said to Pharaoh, "Today I remember my wrongs.
 
 ---
 
@@ -128,10 +128,10 @@ Then the chief cupbearer said to Pharaoh, "Today I remember my faults.
 **Original Reference**: Genesis 41:10 - Pharaoh was angry with his servants, and put me in custody in the house of the captain of the guard, with the chief baker.
 
 #### Ages 5-7
-"Pharaoh was once angry with his servants and put me and the chief baker in prison in the house of the captain of the guard.
+"Pharaoh was once angry with his servants and put me and the head baker in prison in the house of the captain of the guard.
 
 #### Ages 8-10
-"Pharaoh was once angry with his servants and put me and the chief baker in custody in the house of the captain of the guard.
+"Pharaoh was once angry with his servants and put me and the head baker under guard in the house of the captain of the guard.
 
 ---
 
@@ -156,7 +156,7 @@ Then the chief cupbearer said to Pharaoh, "Today I remember my faults.
 "A young Hebrew man was there with us, a servant of the captain of the guard. We told him our dreams, and he told each of us what our dream meant.
 
 #### Ages 8-10
-"A young Hebrew man was there with us, a servant of the captain of the guard. We told him our dreams, and he interpreted each one.
+"A young Hebrew man was there with us, a servant of the captain of the guard. We told him our dreams, and he told each of us what our dream meant.
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -170,7 +170,7 @@ Then the chief cupbearer said to Pharaoh, "Today I remember my faults.
 "Everything happened just as he said. I was given my place back, and the baker was hanged."
 
 #### Ages 8-10
-"It happened just as he interpreted. I was restored to my position, and the baker was hanged."
+"It happened just as he said. I was restored to my position, and the baker was hanged."
 
 ---
 
@@ -192,7 +192,7 @@ Pharaoh sent for Joseph, and they quickly brought him out of the prison. Joseph 
 Pharaoh said to Joseph, "I had a dream, and no one can explain it. I have heard that when you hear a dream, you can tell what it means."
 
 #### Ages 8-10
-Pharaoh said to Joseph, "I have dreamed a dream, and no one can interpret it. I have heard that when you hear a dream, you can interpret it."
+Pharaoh said to Joseph, "I have dreamed a dream, and no one can explain it. I have heard that when you hear a dream, you can tell what it means."
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -206,7 +206,7 @@ Pharaoh said to Joseph, "I have dreamed a dream, and no one can interpret it. I 
 Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer of peace."
 
 #### Ages 8-10
-Joseph answered Pharaoh, "It is not in me. God will give Pharaoh an answer of peace."
+Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer of peace."
 
 ---
 
@@ -289,10 +289,10 @@ Pharaoh said to Joseph, "In my dream, I stood on the bank of the river.
 **Original Reference**: Genesis 41:23 - and behold, seven heads of grain, withered, thin, and blasted with the east wind, sprung up after them.
 
 #### Ages 5-7
-"After them, seven dry, thin heads of grain grew up, scorched by the hot east wind.
+"After them, seven dry, thin heads of grain grew up, dried out by the hot east wind.
 
 #### Ages 8-10
-"After them, seven dry, thin heads of grain grew up, scorched by the east wind.
+"After them, seven dry, thin heads of grain grew up, dried out by the hot east wind.
 
 ---
 
@@ -339,10 +339,10 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one. God has shown Pharaoh what he
 **Original Reference**: Genesis 41:27 - The seven thin and ugly cattle that came up after them are seven years, and also the seven empty heads of grain blasted with the east wind; they will be seven years of famine.
 
 #### Ages 5-7
-"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain scorched by the east wind are seven years of famine.
+"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain dried out by the hot east wind are seven years of famine.
 
 #### Ages 8-10
-"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain scorched by the east wind are seven years of famine.
+"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain dried out by the hot east wind are seven years of famine.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food
@@ -381,7 +381,7 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one. God has shown Pharaoh what he
 "After them, seven years of famine will come. All the plenty in Egypt will be forgotten, and the famine will eat up the land.
 
 #### Ages 8-10
-"After them, seven years of famine will arise. All the plenty in Egypt will be forgotten, and the famine will consume the land.
+"After them, seven years of famine will come. All the plenty in Egypt will be forgotten, and the famine will eat up the land.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food
@@ -424,7 +424,7 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one. God has shown Pharaoh what he
 "Now Pharaoh should look for a wise and understanding man and put him over the land of Egypt.
 
 #### Ages 8-10
-"Now Pharaoh should choose a discerning and wise man and set him over the land of Egypt.
+"Now Pharaoh should choose a wise and understanding man and set him over the land of Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -463,7 +463,7 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one. God has shown Pharaoh what he
 "That food will be saved for the land during the seven years of famine in Egypt, so the land will not be destroyed by hunger."
 
 #### Ages 8-10
-"That food will be a reserve for the land during the seven years of famine in Egypt, so the land will not perish in the famine."
+"That food will be saved for the land during the seven years of famine in Egypt, so the land will not be destroyed by hunger."
 
 **Key Vocabulary**:
 - famine: A time when there is very little food
@@ -503,7 +503,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as wise and understanding as you.
 
 #### Ages 8-10
-Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as discerning and wise as you.
+Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as wise and understanding as you.
 
 ---
 
@@ -536,10 +536,10 @@ Pharaoh said to Joseph, "See, I have set you over all the land of Egypt."
 **Original Reference**: Genesis 41:42 - Pharaoh took off his signet ring from his hand, and put it on Joseph's hand, and arrayed him in robes of fine linen, and put a gold chain about his neck.
 
 #### Ages 5-7
-Pharaoh took his signet ring from his hand and put it on Joseph's hand. He dressed Joseph in fine linen and placed a gold chain around his neck.
+Pharaoh took his seal ring from his hand and put it on Joseph's hand. He dressed Joseph in fine linen clothes and placed a gold chain around his neck.
 
 #### Ages 8-10
-Pharaoh took his signet ring from his hand and put it on Joseph's hand. He clothed Joseph in fine linen and put a gold chain around his neck.
+Pharaoh took his seal ring from his hand and put it on Joseph's hand. He clothed Joseph in fine linen clothes and put a gold chain around his neck.
 
 ---
 
@@ -547,10 +547,10 @@ Pharaoh took his signet ring from his hand and put it on Joseph's hand. He cloth
 **Original Reference**: Genesis 41:43 - He made him ride in the second chariot which he had. They cried before him, "Bow the knee!" He set him over all the land of Egypt.
 
 #### Ages 5-7
-He had Joseph ride in the second chariot, and people cried out before him, "Bow the knee!" So Pharaoh put Joseph over all the land of Egypt.
+He had Joseph ride in the second royal chariot, and people cried out before him, "Bow down!" So Pharaoh put Joseph over all the land of Egypt.
 
 #### Ages 8-10
-He had Joseph ride in his second chariot, and people called out before him, "Bow the knee!" So Joseph was set over all the land of Egypt.
+He had Joseph ride in his second royal chariot, and people called out before him, "Bow down!" So Joseph was set over all the land of Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -606,7 +606,7 @@ Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph l
 During the seven years of plenty, the land brought out food by handfuls.
 
 #### Ages 8-10
-During the seven plentiful years, the land produced abundantly.
+During the seven plentiful years, the land produced more and more food.
 
 ---
 
@@ -639,10 +639,10 @@ Joseph stored grain like the sand of the sea, so much that he stopped counting i
 **Original Reference**: Genesis 41:50 - To Joseph were born two sons before the year of famine came, whom Asenath, the daughter of Potiphera priest of On, bore to him.
 
 #### Ages 5-7
-Before the years of famine came, Joseph had two sons. Asenath, the daughter of Potiphera priest of On, bore them to him.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
 
 #### Ages 8-10
-Before the years of famine came, Joseph had two sons. Asenath, the daughter of Potiphera priest of On, bore them to him.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food

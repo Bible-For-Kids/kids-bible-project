@@ -33,10 +33,10 @@ The thin heads of grain swallowed up the seven full, good heads. Then Pharaoh wo
 In the morning, Pharaoh's heart was troubled. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
 
 ### Genesis 41:9
-Then the chief cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
+Then the head cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
 
 ### Genesis 41:10
-"Pharaoh was once angry with his servants and put me and the chief baker in prison in the house of the captain of the guard.
+"Pharaoh was once angry with his servants and put me and the head baker in prison in the house of the captain of the guard.
 
 ### Genesis 41:11
 "One night we both had dreams, and each dream had its own meaning.
@@ -75,7 +75,7 @@ Then Pharaoh said to Joseph, "In my dream, I stood on the bank of the river.
 "Then I dreamed again. I saw seven full, good heads of grain growing on one stalk.
 
 ### Genesis 41:23
-"After them, seven dry, thin heads of grain grew up, scorched by the hot east wind.
+"After them, seven dry, thin heads of grain grew up, dried out by the hot east wind.
 
 ### Genesis 41:24
 "The thin heads swallowed up the seven good heads. I told this to the magicians, but no one could explain it to me."
@@ -87,7 +87,7 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one dream. God has shown Pharaoh w
 "The seven good cows are seven years, and the seven good heads of grain are seven years. The dreams mean the same thing.
 
 ### Genesis 41:27
-"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain scorched by the east wind are seven years of famine.
+"The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain dried out by the hot east wind are seven years of famine.
 
 ### Genesis 41:28
 "This is what I told Pharaoh: God has shown Pharaoh what he is about to do.
@@ -132,10 +132,10 @@ Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one 
 Pharaoh said to Joseph, "See, I have put you over all the land of Egypt."
 
 ### Genesis 41:42
-Pharaoh took his signet ring from his hand and put it on Joseph's hand. He dressed Joseph in fine linen and placed a gold chain around his neck.
+Pharaoh took his seal ring from his hand and put it on Joseph's hand. He dressed Joseph in fine linen clothes and placed a gold chain around his neck.
 
 ### Genesis 41:43
-He had Joseph ride in the second chariot, and people cried out before him, "Bow the knee!" So Pharaoh put Joseph over all the land of Egypt.
+He had Joseph ride in the second royal chariot, and people cried out before him, "Bow down!" So Pharaoh put Joseph over all the land of Egypt.
 
 ### Genesis 41:44
 Pharaoh said to Joseph, "I am Pharaoh, but without your word no one in all Egypt shall lift a hand or foot."
@@ -156,7 +156,7 @@ Joseph gathered all the food from those seven good years in Egypt and stored it 
 Joseph stored up grain like the sand of the sea, so much that he stopped counting it because it could not be measured.
 
 ### Genesis 41:50
-Before the years of famine came, Joseph had two sons. Asenath, the daughter of Potiphera priest of On, bore them to him.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
 
 ### Genesis 41:51
 Joseph named the firstborn Manasseh, saying, "God has made me forget all my trouble and all my father's house."

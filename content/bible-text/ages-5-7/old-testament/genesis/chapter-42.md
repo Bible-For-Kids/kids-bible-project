@@ -33,7 +33,7 @@ Joseph saw his brothers and knew who they were, but he acted like a stranger to 
 Joseph recognized his brothers, but they did not recognize him.
 
 ### Genesis 42:9
-Joseph remembered the dreams he had dreamed about them. He said, "You are spies. You have come to see where the land is weak."
+Joseph remembered the dreams he had dreamed about them. He said, "You are spies, secret watchers from another land. You have come to see where the land is weak."
 
 ### Genesis 42:10
 They said to him, "No, my lord. Your servants have come to buy food.
@@ -72,13 +72,13 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us."
 
 ### Genesis 42:22
-Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now his blood is being required."
+Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now we are being held responsible for what happened to him."
 
 ### Genesis 42:23
-They did not know that Joseph understood them, because he had been speaking to them through an interpreter.
+They did not know that Joseph understood them, because he had been speaking to them through someone who translated their words.
 
 ### Genesis 42:24
-Joseph turned away from them and wept. Then he came back and spoke to them. He took Simeon from them and had him bound before their eyes.
+Joseph turned away from them and wept. Then he came back and spoke to them. He took Simeon from them and had him tied up before their eyes.
 
 ### Genesis 42:25
 Joseph commanded his servants to fill their bags with grain, to put each man's money back in his sack, and to give them food for the journey. This was done for them.
@@ -120,4 +120,4 @@ Jacob their father said to them, "You have taken my children from me. Joseph is 
 Reuben spoke to his father and said, "You may put my two sons to death if I do not bring Benjamin back to you. Put him in my care, and I will bring him back."
 
 ### Genesis 42:38
-But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm comes to him on the journey, you would bring my gray hair down to the grave in sorrow."
+But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm comes to him on the journey, I would die in sorrow as an old man."

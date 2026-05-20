@@ -19,7 +19,7 @@ Genesis 46 continues the covenant family story. God tells Jacob not to fear goin
 Israel set out with everything he had. He came to Beersheba and offered sacrifices to the God of his father Isaac.
 
 #### Ages 8-10
-Israel journeyed with all that he had. He came to Beersheba and offered sacrifices to the God of his father Isaac.
+Israel set out with all that he had. He came to Beersheba and offered sacrifices to the God of his father Isaac.
 
 ---
 
@@ -56,10 +56,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 46:4 - I will go down with you into Egypt. I will also surely bring you up again. Joseph's hand will close your eyes."
 
 #### Ages 5-7
-"I will go down with you into Egypt, and I will surely bring you up again. Joseph's hand will close your eyes."
+"I will go down with you into Egypt, and I will surely bring you up again. Joseph will be with you when you die and will close your eyes."
 
 #### Ages 8-10
-"I will go down with you into Egypt, and I will surely bring you up again. Joseph's hand will close your eyes."
+"I will go down with you into Egypt, and I will surely bring you up again. Joseph will be with you when you die and will close your eyes."
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -84,7 +84,7 @@ Then Jacob arose from Beersheba. The sons of Israel carried Jacob their father, 
 They took their animals and the goods they had gained in the land of Canaan. Jacob and all his family came into Egypt.
 
 #### Ages 8-10
-They took their livestock and the goods they had gained in the land of Canaan. Jacob and all his offspring came into Egypt.
+They took their livestock and the goods they had gained in the land of Canaan. Jacob and all his family came into Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -99,7 +99,7 @@ They took their livestock and the goods they had gained in the land of Canaan. J
 Jacob brought his sons and grandsons, his daughters and granddaughters, and all his family with him into Egypt.
 
 #### Ages 8-10
-He brought his sons and grandsons, his daughters and granddaughters, and all his offspring with him into Egypt.
+He brought his sons and grandsons, his daughters and granddaughters, and all his family with him into Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -158,10 +158,10 @@ The sons of Levi were Gershon, Kohath, and Merari.
 **Original Reference**: Genesis 46:12 - The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez were Hezron and Hamul.
 
 #### Ages 5-7
-The sons of Judah were Er, Onan, Shelah, Pharez, and Zarah. Er and Onan died in the land of Canaan. The sons of Pharez were Hezron and Hamul.
+The sons of Judah were Er, Onan, Shelah, Perez, and Zerah. Er and Onan died in the land of Canaan. The sons of Perez were Hezron and Hamul.
 
 #### Ages 8-10
-The sons of Judah were Er, Onan, Shelah, Pharez, and Zarah. Er and Onan died in the land of Canaan. The sons of Pharez were Hezron and Hamul.
+The sons of Judah were Er, Onan, Shelah, Perez, and Zerah. Er and Onan died in the land of Canaan. The sons of Perez were Hezron and Hamul.
 
 ---
 
@@ -191,10 +191,10 @@ The sons of Zebulun were Sered, Elon, and Jahleel.
 **Original Reference**: Genesis 46:15 - These are the sons of Leah, whom she bore to Jacob in Paddan Aram, with his daughter Dinah. All the souls of his sons and his daughters were thirty-three.
 
 #### Ages 5-7
-These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three people.
+These were the sons Leah had for Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three people.
 
 #### Ages 8-10
-These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. His sons and daughters from Leah's line numbered thirty-three people.
+These were the sons Leah had for Jacob in Padan-aram, along with his daughter Dinah. His sons and daughters from Leah's line numbered thirty-three people.
 
 ---
 
@@ -224,10 +224,10 @@ The sons of Asher were Jimnah, Ishuah, Isui, Beriah, and their sister Serah. The
 **Original Reference**: Genesis 46:18 - These are the sons of Zilpah, whom Laban gave to Leah, his daughter, and these she bore to Jacob, even sixteen souls.
 
 #### Ages 5-7
-These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen people to Jacob.
+These were the children of Zilpah, whom Laban gave to his daughter Leah. She had these sixteen people for Jacob.
 
 #### Ages 8-10
-These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen people to Jacob.
+These were the children of Zilpah, whom Laban gave to his daughter Leah. She had these sixteen people for Jacob.
 
 ---
 
@@ -249,7 +249,7 @@ The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
 In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera priest of On.
 
 #### Ages 8-10
-To Joseph in Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera priest of On, bore to him.
+In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera priest of On.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -304,10 +304,10 @@ The sons of Naphtali were Jahzeel, Guni, Jezer, and Shillem.
 **Original Reference**: Genesis 46:25 - These are the sons of Bilhah, whom Laban gave to Rachel, his daughter, and these she bore to Jacob: all the souls were seven.
 
 #### Ages 5-7
-These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven people to Jacob.
+These were the children of Bilhah, whom Laban gave to his daughter Rachel. She had these seven people for Jacob.
 
 #### Ages 8-10
-These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven people to Jacob.
+These were the children of Bilhah, whom Laban gave to his daughter Rachel. She had these seven people for Jacob.
 
 ---
 
@@ -318,7 +318,7 @@ These were the children of Bilhah, whom Laban gave to his daughter Rachel. She b
 All the people who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six people.
 
 #### Ages 8-10
-All the people who came with Jacob into Egypt, who came from his own body, not counting the wives of Jacob's sons, were sixty-six people.
+All the people who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six people.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -355,10 +355,10 @@ Jacob sent Judah ahead to Joseph to show the way before him to Goshen. Then they
 **Original Reference**: Genesis 46:29 - Joseph prepared his chariot, and went up to meet Israel, his father, in Goshen. He presented himself to him, and fell on his neck, and wept on his neck a good while.
 
 #### Ages 5-7
-Joseph made ready his chariot and went up to Goshen to meet Israel his father. When Joseph saw him, he threw his arms around his father's neck and wept there for a long time.
+Joseph made ready his royal chariot and went up to Goshen to meet Israel his father. When Joseph saw him, he threw his arms around his father's neck and wept there for a long time.
 
 #### Ages 8-10
-Joseph prepared his chariot and went up to Goshen to meet Israel his father. When he appeared before him, he fell on his father's neck and wept there a long time.
+Joseph prepared his royal chariot and went up to Goshen to meet Israel his father. When he appeared before him, he threw his arms around his father's neck and wept there a long time.
 
 ---
 
@@ -366,10 +366,10 @@ Joseph prepared his chariot and went up to Goshen to meet Israel his father. Whe
 **Original Reference**: Genesis 46:30 - Israel said to Joseph, "Now let me die, since I have seen your face, that you are still alive."
 
 #### Ages 5-7
-Israel said to Joseph, "Now let me die, since I have seen your face and know you are still alive."
+Israel said to Joseph, "Now I can die in peace, since I have seen your face and know you are still alive."
 
 #### Ages 8-10
-Israel said to Joseph, "Now let me die, since I have seen your face and know that you are still alive."
+Israel said to Joseph, "Now I can die in peace, since I have seen your face and know that you are still alive."
 
 ---
 
@@ -402,7 +402,7 @@ Joseph said to his brothers and to his father's household, "I will go up and tel
 "When Pharaoh calls you and asks, 'What is your work?'
 
 #### Ages 8-10
-"When Pharaoh calls you and asks, 'What is your occupation?'
+"When Pharaoh calls you and asks, 'What is your work?'
 
 ---
 
@@ -410,10 +410,10 @@ Joseph said to his brothers and to his father's household, "I will go up and tel
 **Original Reference**: Genesis 46:34 - that you shall say, 'Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:' that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians."
 
 #### Ages 5-7
-"you shall say, 'Your servants have cared for cattle from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because every shepherd is detestable to the Egyptians."
+"you shall say, 'Your servants have cared for cattle from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."
 
 #### Ages 8-10
-"you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because every shepherd is detestable to the Egyptians."
+"you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived

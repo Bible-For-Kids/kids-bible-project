@@ -44,7 +44,7 @@ Joseph took five of his brothers and presented them before Pharaoh.
 Pharaoh asked his brothers, "What is your work?" They answered Pharaoh, "Your servants are shepherds, both we and our fathers."
 
 #### Ages 8-10
-Pharaoh asked his brothers, "What is your occupation?" They said to Pharaoh, "Your servants are shepherds, both we and our fathers."
+Pharaoh asked his brothers, "What is your work?" They said to Pharaoh, "Your servants are shepherds, both we and our fathers."
 
 ---
 
@@ -136,10 +136,10 @@ Jacob blessed Pharaoh and went out from Pharaoh's presence.
 **Original Reference**: Genesis 47:11 - Joseph placed his father and his brothers, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
 #### Ages 5-7
-Joseph settled his father and his brothers in Egypt. He gave them a possession in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+Joseph settled his father and his brothers in Egypt. He gave them a place to live in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
 #### Ages 8-10
-Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+Joseph settled his father and his brothers and gave them a place to live in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
 ---
 
@@ -230,7 +230,7 @@ When that year ended, they came to him the next year and said, "We will not hide
 "Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will serve Pharaoh. Give us seed, so we may live and not die, and so the land will not become empty."
 
 #### Ages 8-10
-"Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will serve Pharaoh. Give us seed, so we may live and not die, and so the land will not become desolate."
+"Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will serve Pharaoh. Give us seed, so we may live and not die, and so the land will not become empty."
 
 ---
 
@@ -241,7 +241,7 @@ When that year ended, they came to him the next year and said, "We will not hide
 So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his field, because the famine was severe on them. The land became Pharaoh's.
 
 #### Ages 8-10
-So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his field, because the famine was severe upon them. The land became Pharaoh's.
+So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his field, because the famine was severe on them. The land became Pharaoh's.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food
@@ -277,7 +277,7 @@ Only the land of the priests he did not buy, because the priests had a portion f
 Joseph said to the people, "See, I have bought you and your land today for Pharaoh. Here is seed for you, and you shall plant the land.
 
 #### Ages 8-10
-Joseph said to the people, "See, I have bought you and your land today for Pharaoh. Here is seed for you, and you shall sow the land.
+Joseph said to the people, "See, I have bought you and your land today for Pharaoh. Here is seed for you, and you shall plant the land.
 
 ---
 
@@ -296,10 +296,10 @@ Joseph said to the people, "See, I have bought you and your land today for Phara
 **Original Reference**: Genesis 47:25 - They said, "You have saved our lives! Let us find favor in the sight of my lord, and we will be Pharaoh's servants."
 
 #### Ages 5-7
-They said, "You have saved our lives. Let us find favor in my lord's sight, and we will be Pharaoh's servants."
+They said, "You have saved our lives. Please be pleased with us, my lord, and we will be Pharaoh's servants."
 
 #### Ages 8-10
-They said, "You have saved our lives. Let us find favor in my lord's sight, and we will be Pharaoh's servants."
+They said, "You have saved our lives. Please be pleased with us, my lord, and we will be Pharaoh's servants."
 
 ---
 
@@ -318,10 +318,10 @@ Joseph made it a law over the land of Egypt, lasting to this day, that Pharaoh s
 **Original Reference**: Genesis 47:27 - Israel lived in the land of Egypt, in the land of Goshen; and they got themselves possessions therein, and were fruitful, and multiplied exceedingly.
 
 #### Ages 5-7
-Israel lived in the land of Egypt, in the land of Goshen. They gained possessions there, had children, and grew into many people.
+Israel lived in the land of Egypt, in the land of Goshen. They gained things they owned there, had children, and grew into many people.
 
 #### Ages 8-10
-Israel lived in the land of Egypt, in the land of Goshen. They gained possessions there, were fruitful, and multiplied greatly.
+Israel lived in the land of Egypt, in the land of Goshen. They gained things they owned there, had children, and grew into many people.
 
 **Key Vocabulary**:
 - Goshen: The region in Egypt where Joseph settled Jacob's family
@@ -343,10 +343,10 @@ Jacob lived in the land of Egypt seventeen years. The years of Jacob's life were
 **Original Reference**: Genesis 47:29 - The time came near that Israel must die, and he called his son Joseph, and said to him, "If now I have found favor in your sight, please put your hand under my thigh, and deal kindly and truly with me. Please don't bury me in Egypt,
 
 #### Ages 5-7
-When the time came near for Israel to die, he called his son Joseph and said, "If I have found favor in your eyes, please put your hand under my thigh. Deal kindly and faithfully with me. Please do not bury me in Egypt.
+When the time came near for Israel to die, he called his son Joseph and said, "If you are pleased with me, please put your hand under my thigh and make me a serious promise, as people did then. Deal kindly and faithfully with me. Please do not bury me in Egypt.
 
 #### Ages 8-10
-When the time came near for Israel to die, he called his son Joseph and said, "If I have found favor in your eyes, please put your hand under my thigh. Deal kindly and faithfully with me. Please do not bury me in Egypt.
+When the time came near for Israel to die, he called his son Joseph and said, "If you are pleased with me, please put your hand under my thigh and make me a serious promise, as people did then. Deal kindly and faithfully with me. Please do not bury me in Egypt.
 
 ---
 
@@ -354,10 +354,10 @@ When the time came near for Israel to die, he called his son Joseph and said, "I
 **Original Reference**: Genesis 47:30 - but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in their burying place." Joseph said, "I will do as you have said."
 
 #### Ages 5-7
-"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
+"When I die and rest with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
 
 #### Ages 8-10
-"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
+"When I die and rest with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -371,10 +371,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 47:31 - Israel said, "Swear to me," and he swore to him. Then Israel bowed himself on the bed's head.
 
 #### Ages 5-7
-Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at the head of his bed.
+Israel said, "Promise me." Joseph promised him. Then Israel bowed in worship at the head of his bed.
 
 #### Ages 8-10
-Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at the head of his bed.
+Israel said, "Promise me." Joseph promised him. Then Israel bowed in worship at the head of his bed.
 
 ---
 
@@ -389,10 +389,10 @@ Joseph settles his family in Goshen, manages Egypt during famine, and Jacob make
 ## Memory Verses by Age
 
 ### Ages 5-7
-"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
+"When I die and rest with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
 
 ### Ages 8-10
-"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
+"When I die and rest with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
 
 ## Discussion Questions by Age
 

@@ -1,14 +1,14 @@
 # Genesis Chapter 50
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 50 and should be reviewed before approval.
+Genesis 50 continues the covenant family story. Jacob is buried in Canaan, Joseph comforts his fearful brothers with forgiveness, and Joseph dies trusting God to bring Israel back to the promised land.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- burial: Placing someone who has died in a grave or tomb
+- forgiveness: Letting go of guilt because mercy has been given
+- providence: God ruling and caring even through events people cannot see clearly
+- promise: Words someone says and keeps
+- faith: Trust in God and in what he has spoken
 
 ## Verse-by-Verse Translation
 
@@ -21,25 +21,19 @@ Joseph fell on his father's face, wept over him, and kissed him.
 #### Ages 8-10
 Joseph fell on his father's face, wept over him, and kissed him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:2
 **Original Reference**: Genesis 50:2 - Joseph commanded his servants, the physicians, to embalm his father; and the physicians embalmed Israel.
 
 #### Ages 5-7
-Joseph commanded the physicians who served him to prepare his father's body for burial in the Egyptian way. So the physicians prepared Israel's body.
+Joseph commanded the doctors who served him to prepare his father's body for burial in the Egyptian way. So the doctors prepared Israel's body.
 
 #### Ages 8-10
-Joseph commanded the physicians who served him to embalm his father. So the physicians embalmed Israel.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph commanded the doctors who served him to prepare his father's body for burial in the Egyptian way. So the doctors prepared Israel's body.
 
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -50,14 +44,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Forty days were needed for this, because that was the full time for preparing a body. The Egyptians mourned for Jacob seventy days.
 
 #### Ages 8-10
-Forty days were required for him, because that is the time needed for embalming. The Egyptians mourned for him seventy days.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+Forty days were required for this, because that was the time needed to prepare a body. The Egyptians mourned for him seventy days.
 
 ---
 
@@ -65,16 +52,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 50:4 - When the days of weeping for him were past, Joseph spoke to Pharaoh's staff, saying, "If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
 
 #### Ages 5-7
-When the days of mourning were past, Joseph spoke to Pharaoh's household and said, "If I have found favor in your eyes, please speak to Pharaoh for me.
+When the days of mourning were past, Joseph spoke to Pharaoh's household and said, "If you are pleased with me, please speak to Pharaoh for me.
 
 #### Ages 8-10
-When the days of mourning for him had passed, Joseph spoke to Pharaoh's household and said, "If I have found favor in your eyes, please speak in Pharaoh's hearing.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
+When the days of mourning for him had passed, Joseph spoke to Pharaoh's household and said, "If you are pleased with me, please speak in Pharaoh's hearing.
 
 ---
 
@@ -82,13 +63,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 50:5 - 'My father made me swear, saying, "Behold, I am dying. Bury me in my grave which I have dug for myself in the land of Canaan." Now therefore, please let me go up and bury my father, and I will come again.' "
 
 #### Ages 5-7
-"My father made me swear, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
+"My father made me promise, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
 
 #### Ages 8-10
-"My father made me swear, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
+"My father made me promise, saying, 'I am dying. Bury me in my grave that I dug for myself in the land of Canaan.' Now please let me go up and bury my father, and then I will return."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 ---
 
@@ -96,16 +77,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 50:6 - Pharaoh said, "Go up, and bury your father, just like he made you swear."
 
 #### Ages 5-7
-Pharaoh said, "Go up and bury your father, just as he made you swear."
+Pharaoh said, "Go up and bury your father, just as he made you promise."
 
 #### Ages 8-10
-Pharaoh said, "Go up and bury your father, as he made you swear."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Pharaoh said, "Go up and bury your father, as he made you promise."
 
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- promise: Words someone says and keeps
 
 ---
 
@@ -118,13 +96,6 @@ So Joseph went up to bury his father. With him went all Pharaoh's servants, the 
 #### Ages 8-10
 So Joseph went up to bury his father. With him went all Pharaoh's servants, the elders of Pharaoh's household, and all the elders of the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 50:8
@@ -136,22 +107,16 @@ All Joseph's household, his brothers, and his father's household went too. Only 
 #### Ages 8-10
 All Joseph's household, his brothers, and his father's household also went. Only their little ones, their flocks, and their herds remained in the land of Goshen.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:9
 **Original Reference**: Genesis 50:9 - There went up with him both chariots and horsemen. It was a very great company.
 
 #### Ages 5-7
-Chariots and horsemen also went with him. It was a very great company.
+Royal chariots and horsemen also went with him. It was a very great company.
 
 #### Ages 8-10
-Both chariots and horsemen went up with him. It was a very great company.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Both royal chariots and horsemen went up with him. It was a very great company.
 
 ---
 
@@ -159,13 +124,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 50:10 - They came to the threshing floor of Atad, which is beyond the Jordan, and there they lamented with a very great and severe lamentation. He mourned for his father seven days.
 
 #### Ages 5-7
-They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very deep mourning, and Joseph made a seven-day mourning for his father.
+They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very deep mourning, and Joseph mourned for his father seven days.
 
 #### Ages 8-10
-They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very solemn mourning, and Joseph observed seven days of mourning for his father.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+They came to the threshing floor of Atad, beyond the Jordan. There they mourned with a great and very deep mourning, and Joseph mourned for his father seven days.
 
 ---
 
@@ -176,10 +138,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 When the Canaanites who lived in the land saw the mourning at the threshing floor of Atad, they said, "This is a deep mourning of the Egyptians." That is why the place was called Abel-mizraim, beyond the Jordan.
 
 #### Ages 8-10
-When the Canaanites living in the land saw the mourning at the threshing floor of Atad, they said, "This is a solemn mourning of the Egyptians." Therefore the place was called Abel-mizraim, beyond the Jordan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+When the Canaanites living in the land saw the mourning at the threshing floor of Atad, they said, "This is a deep mourning of the Egyptians." Therefore the place was called Abel-mizraim, beyond the Jordan.
 
 ---
 
@@ -192,12 +151,6 @@ Jacob's sons did for him just as he had commanded them.
 #### Ages 8-10
 Jacob's sons did for him as he had commanded them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 50:13
@@ -209,8 +162,8 @@ His sons carried him to the land of Canaan and buried him in the cave in the fie
 #### Ages 8-10
 His sons carried him to the land of Canaan and buried him in the cave in the field of Machpelah, east of Mamre, which Abraham had bought with the field from Ephron the Hittite as a burial place.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -223,12 +176,6 @@ After Joseph buried his father, he returned to Egypt with his brothers and all w
 #### Ages 8-10
 After Joseph buried his father, he returned to Egypt, he and his brothers and all who had gone up with him to bury his father.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 50:15
@@ -238,13 +185,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 When Joseph's brothers saw that their father was dead, they said, "What if Joseph hates us and pays us back for all the evil we did to him?"
 
 #### Ages 8-10
-When Joseph's brothers saw that their father was dead, they said, "What if Joseph hates us and fully repays us for all the evil we did to him?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
+When Joseph's brothers saw that their father was dead, they said, "What if Joseph hates us and pays us back for all the evil we did to him?"
 
 ---
 
@@ -257,9 +198,6 @@ So they sent a message to Joseph, saying, "Before your father died, he commanded
 #### Ages 8-10
 So they sent a message to Joseph, saying, "Before your father died, he commanded us,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:17
@@ -269,15 +207,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "'Say this to Joseph: Please forgive the wrong of your brothers and their sin, because they did evil to you.' Now please forgive the wrong of the servants of the God of your father." Joseph wept when they spoke to him.
 
 #### Ages 8-10
-"'Say this to Joseph: Please forgive the wrongdoing of your brothers and their sin, because they did evil to you.' Now please forgive the wrongdoing of the servants of the God of your father." Joseph wept when they spoke to him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- sin: Disobeying God and going against his good way
+"'Say this to Joseph: Please forgive the wrong of your brothers and their sin, because they did evil to you.' Now please forgive the wrong of the servants of the God of your father." Joseph wept when they spoke to him.
 
 ---
 
@@ -290,9 +220,6 @@ His brothers also came and fell down before him. They said, "Look, we are your s
 #### Ages 8-10
 His brothers also came and fell down before him. They said, "Look, we are your servants."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:19
@@ -303,12 +230,6 @@ Joseph said to them, "Do not be afraid. Am I in the place of God?
 
 #### Ages 8-10
 Joseph said to them, "Do not be afraid. Am I in the place of God?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -322,11 +243,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "You meant evil against me, but God meant it for good, to bring about what is happening today and keep many people alive.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -339,9 +256,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "So do not be afraid. I will provide for you and your little ones." He comforted them and spoke kindly to them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:22
@@ -352,12 +266,6 @@ Joseph lived in Egypt, he and his father's household. Joseph lived one hundred t
 
 #### Ages 8-10
 Joseph lived in Egypt, he and his father's household. Joseph lived one hundred ten years.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -370,26 +278,19 @@ Joseph saw Ephraim's children to the third generation. The children of Machir, M
 #### Ages 8-10
 Joseph saw Ephraim's children to the third generation. The children of Machir, the son of Manasseh, were also brought up on Joseph's knees.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 50:24
 **Original Reference**: Genesis 50:24 - Joseph said to his brothers, "I am dying, but God will surely visit you, and bring you up out of this land to the land which he swore to Abraham, to Isaac, and to Jacob."
 
 #### Ages 5-7
-Joseph said to his brothers, "I am dying, but God will surely visit you. He will bring you up out of this land to the land he promised with an oath to Abraham, Isaac, and Jacob."
+Joseph said to his brothers, "I am dying, but God will surely come to help you. He will bring you up out of this land to the land he promised with a serious promise to Abraham, Isaac, and Jacob."
 
 #### Ages 8-10
-Joseph said to his brothers, "I am dying, but God will surely visit you and bring you up out of this land to the land he swore to Abraham, Isaac, and Jacob."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph said to his brothers, "I am dying, but God will surely come to help you and bring you up out of this land to the land he promised to Abraham, Isaac, and Jacob."
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- promise: Words someone says and keeps
 
 ---
 
@@ -397,17 +298,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 50:25 - Joseph took an oath from the children of Israel, saying, "God will surely visit you, and you shall carry up my bones from here."
 
 #### Ages 5-7
-Joseph made the children of Israel swear, saying, "God will surely visit you, and you shall carry my bones up from here."
+Joseph made the children of Israel promise, saying, "God will surely come to help you, and you shall carry my bones up from here."
 
 #### Ages 8-10
-Joseph made the children of Israel swear, saying, "God will surely visit you, and you shall carry my bones up from here."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph made the children of Israel promise, saying, "God will surely come to help you, and you shall carry my bones up from here."
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- promise: Words someone says and keeps
 
 ---
 
@@ -418,44 +315,38 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 Joseph died when he was one hundred ten years old. They prepared his body for burial in the Egyptian way, and he was placed in a coffin in Egypt.
 
 #### Ages 8-10
-Joseph died, being one hundred ten years old. They embalmed him, and he was placed in a coffin in Egypt.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph died when he was one hundred ten years old. They prepared his body for burial in the Egyptian way, and he was placed in a coffin in Egypt.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
 ## Chapter Summary
-Genesis 50 is a draft resource chapter. The chapter opens with "Joseph fell on his father's face, wept over him, and kissed him.," moves through "After Joseph buried his father, he returned to Egypt, he and his brothers and all who had gone up...," and closes with "Joseph died, being one hundred ten years old. They embalmed him, and he was placed in a coffin in...." Review this summary for fuller theological detail before approval.
+Jacob is buried in Canaan, Joseph comforts his fearful brothers with forgiveness, and Joseph dies trusting God to bring Israel back to the promised land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Joseph fell on his father's face, wept over him, and kissed him. - Genesis 50:1
+"You meant evil against me, but God meant it for good, to bring about what is happening today and keep many people alive. - Genesis 50:20
 
 ### Ages 8-10
-Joseph fell on his father's face, wept over him, and kissed him. - Genesis 50:1
+"You meant evil against me, but God meant it for good, to bring about what is happening today and keep many people alive. - Genesis 50:20
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 50 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 50 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

@@ -27,13 +27,13 @@ Joseph said to his brothers, "Please come near to me." They came near. He said, 
 "The famine has been in the land for two years, and there will still be five more years with no plowing or harvest.
 
 ### Genesis 45:7
-"God sent me ahead of you to preserve a remnant for you on the earth and to keep you alive by a great deliverance.
+"God sent me ahead of you to keep your family alive on the earth and to rescue you in a great way.
 
 ### Genesis 45:8
-"So it was not you who sent me here, but God. He has made me like a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
+"So it was not you who sent me here, but God. He has made me like a father and adviser to Pharaoh, ruler over all his house, and ruler over all the land of Egypt.
 
 ### Genesis 45:9
-"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me lord over all Egypt. Come down to me. Do not delay.
+"Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me ruler over all Egypt. Come down to me. Do not delay.
 
 ### Genesis 45:10
 "'You shall live in the land of Goshen, and you will be near me, you and your children and grandchildren, your flocks, your herds, and all you have.
@@ -45,7 +45,7 @@ Joseph said to his brothers, "Please come near to me." They came near. He said, 
 "Your eyes see, and the eyes of my brother Benjamin see, that it is my mouth speaking to you.
 
 ### Genesis 45:13
-"Tell my father about all my glory in Egypt and about everything you have seen. Hurry and bring my father down here."
+"Tell my father about all the honor I have in Egypt and about everything you have seen. Hurry and bring my father down here."
 
 ### Genesis 45:14
 Then Joseph threw his arms around his brother Benjamin's neck and wept, and Benjamin wept on Joseph's neck.

@@ -41,7 +41,7 @@ When Jacob's family had eaten the grain they had brought from Egypt, their fathe
 Judah said to him, "The man warned us strongly, 'You shall not see my face unless your brother is with you.'
 
 #### Ages 8-10
-Judah said to him, "The man solemnly warned us, saying, 'You shall not see my face unless your brother is with you.'
+Judah said to him, "The man strongly warned us, saying, 'You shall not see my face unless your brother is with you.'
 
 ---
 
@@ -96,7 +96,7 @@ They said, "The man asked directly about us and our family. He asked, 'Is your f
 Judah said to Israel his father, "Send the boy with me, and we will get up and go. Then we, you, and our little ones may live and not die.
 
 #### Ages 8-10
-Judah said to Israel his father, "Send the boy with me, and we will arise and go, so we may live and not die, both we and you and our little ones.
+Judah said to Israel his father, "Send the boy with me, and we will get up and go, so we may live and not die, both we and you and our little ones.
 
 ---
 
@@ -104,10 +104,10 @@ Judah said to Israel his father, "Send the boy with me, and we will arise and go
 **Original Reference**: Genesis 43:9 - I'll be collateral for him. From my hand will you require him. If I don't bring him to you, and set him before you, then let me bear the blame forever;
 
 #### Ages 5-7
-"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then I will bear the blame forever.
+"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then I will carry the blame forever.
 
 #### Ages 8-10
-"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then let me bear the blame forever.
+"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then let me carry the blame forever.
 
 ---
 
@@ -140,7 +140,7 @@ Their father Israel said to them, "If it must be so, then do this. Take some of 
 "Take twice as much money with you, and take back the money that was returned in the mouths of your sacks. Perhaps it was a mistake.
 
 #### Ages 8-10
-"Take double the money with you, and return the money that was put back in the mouths of your sacks. Perhaps it was an oversight.
+"Take twice as much money with you, and return the money that was put back in the mouths of your sacks. Perhaps it was a mistake.
 
 ---
 
@@ -151,7 +151,7 @@ Their father Israel said to them, "If it must be so, then do this. Take some of 
 "Take your brother also. Get up, and go back to the man.
 
 #### Ages 8-10
-"Take your brother also. Arise, and go back to the man.
+"Take your brother also. Get up, and go back to the man.
 
 ---
 
@@ -159,10 +159,10 @@ Their father Israel said to them, "If it must be so, then do this. Take some of 
 **Original Reference**: Genesis 43:14 - May God Almighty give you mercy before the man, that he may release to you your other brother and Benjamin. If I am bereaved of my children, I am bereaved."
 
 #### Ages 5-7
-"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved."
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I lose my sons, then I lose them."
 
 #### Ages 8-10
-"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved."
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I lose my sons, then I lose them."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -180,7 +180,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 The men took the gift, twice as much money, and Benjamin. They got up, went down to Egypt, and stood before Joseph.
 
 #### Ages 8-10
-The men took the gift, double the money, and Benjamin. They arose, went down to Egypt, and stood before Joseph.
+The men took the gift, twice as much money, and Benjamin. They got up, went down to Egypt, and stood before Joseph.
 
 **Key Vocabulary**:
 - Benjamin: Jacob's youngest son, born to Rachel
@@ -191,10 +191,10 @@ The men took the gift, double the money, and Benjamin. They arose, went down to 
 **Original Reference**: Genesis 43:16 - When Joseph saw Benjamin with them, he said to the steward of his house, "Bring the men into the house, and butcher an animal, and prepare; for the men will dine with me at noon."
 
 #### Ages 5-7
-When Joseph saw Benjamin with them, he said to the steward of his house, "Bring these men into the house. Kill an animal and prepare it, because these men will eat with me at noon."
+When Joseph saw Benjamin with them, he said to the manager of his house, "Bring these men into the house. Kill an animal and prepare it, because these men will eat with me at noon."
 
 #### Ages 8-10
-When Joseph saw Benjamin with them, he said to the steward of his house, "Bring the men into the house. Slaughter an animal and prepare it, because these men will dine with me at noon."
+When Joseph saw Benjamin with them, he said to the manager of his house, "Bring the men into the house. Kill an animal and prepare it, because these men will eat with me at noon."
 
 **Key Vocabulary**:
 - Benjamin: Jacob's youngest son, born to Rachel
@@ -205,10 +205,10 @@ When Joseph saw Benjamin with them, he said to the steward of his house, "Bring 
 **Original Reference**: Genesis 43:17 - The man did as Joseph commanded, and the man brought the men to Joseph's house.
 
 #### Ages 5-7
-The steward did as Joseph said and brought the men into Joseph's house.
+The manager did as Joseph said and brought the men into Joseph's house.
 
 #### Ages 8-10
-The steward did as Joseph commanded and brought the men into Joseph's house.
+The manager did as Joseph commanded and brought the men into Joseph's house.
 
 ---
 
@@ -219,7 +219,7 @@ The steward did as Joseph commanded and brought the men into Joseph's house.
 The men were afraid because they were brought into Joseph's house. They said, "We have been brought in because of the money that was returned in our sacks the first time. He may accuse us, attack us, make us slaves, and take our donkeys."
 
 #### Ages 8-10
-The men were afraid because they were brought into Joseph's house. They said, "We have been brought in because of the money returned in our sacks the first time. He may accuse us, overpower us, make us slaves, and take our donkeys."
+The men were afraid because they were brought into Joseph's house. They said, "We have been brought in because of the money returned in our sacks the first time. He may accuse us, attack us, make us slaves, and take our donkeys."
 
 ---
 
@@ -227,10 +227,10 @@ The men were afraid because they were brought into Joseph's house. They said, "W
 **Original Reference**: Genesis 43:19 - They came near to the steward of Joseph's house, and they spoke to him at the door of the house,
 
 #### Ages 5-7
-So they came near to the steward of Joseph's house and spoke with him at the door.
+So they came near to the manager of Joseph's house and spoke with him at the door.
 
 #### Ages 8-10
-They came near to the steward of Joseph's house and spoke with him at the door.
+They came near to the manager of Joseph's house and spoke with him at the door.
 
 ---
 
@@ -252,7 +252,7 @@ They said, "Please, my lord, we came down the first time to buy food.
 "When we came to the place where we stayed for the night, we opened our sacks, and each man's money was in the mouth of his sack. It was all there by weight, so we have brought it back in our hands.
 
 #### Ages 8-10
-"When we came to the lodging place, we opened our sacks, and each man's money was in the mouth of his sack, our money in full weight. We have brought it back in our hands.
+"When we came to the place where we stayed for the night, we opened our sacks, and each man's money was in the mouth of his sack. It was all there by weight, so we have brought it back in our hands.
 
 ---
 
@@ -271,10 +271,10 @@ They said, "Please, my lord, we came down the first time to buy food.
 **Original Reference**: Genesis 43:23 - He said, "Peace be to you. Don't be afraid. Your God, and the God of your father, has given you treasure in your sacks. I received your money." He brought Simeon out to them.
 
 #### Ages 5-7
-The steward said, "Peace be to you. Do not be afraid. Your God, the God of your father, gave you treasure in your sacks. I received your money." Then he brought Simeon out to them.
+The manager said, "Peace be to you. Do not be afraid. Your God, the God of your father, gave you treasure in your sacks. I received your money." Then he brought Simeon out to them.
 
 #### Ages 8-10
-The steward said, "Peace to you. Do not be afraid. Your God, the God of your father, gave you treasure in your sacks. I received your money." Then he brought Simeon out to them.
+The manager said, "Peace to you. Do not be afraid. Your God, the God of your father, gave you treasure in your sacks. I received your money." Then he brought Simeon out to them.
 
 ---
 
@@ -282,10 +282,10 @@ The steward said, "Peace to you. Do not be afraid. Your God, the God of your fat
 **Original Reference**: Genesis 43:24 - The man brought the men into Joseph's house, and gave them water, and they washed their feet. He gave their donkeys fodder.
 
 #### Ages 5-7
-The steward brought the men into Joseph's house. He gave them water, and they washed their feet. He also gave feed to their donkeys.
+The manager brought the men into Joseph's house. He gave them water, and they washed their feet. He also gave feed to their donkeys.
 
 #### Ages 8-10
-The steward brought the men into Joseph's house, gave them water, and they washed their feet. He also gave feed to their donkeys.
+The manager brought the men into Joseph's house, gave them water, and they washed their feet. He also gave feed to their donkeys.
 
 ---
 
@@ -293,10 +293,10 @@ The steward brought the men into Joseph's house, gave them water, and they washe
 **Original Reference**: Genesis 43:25 - They prepared the present for Joseph's coming at noon, for they heard that they should eat bread there.
 
 #### Ages 5-7
-They prepared their gift for Joseph's coming at noon, because they heard they would eat bread there.
+They prepared their gift for Joseph's coming at noon, because they heard they would eat a meal there.
 
 #### Ages 8-10
-They prepared their gift for Joseph's arrival at noon, because they heard they would eat there.
+They prepared their gift for Joseph's arrival at noon, because they heard they would eat a meal there.
 
 ---
 
@@ -318,7 +318,7 @@ When Joseph came home, they brought him the gift they had with them into the hou
 Joseph asked if they were well. Then he said, "Is your father well, the old man you told me about? Is he still alive?"
 
 #### Ages 8-10
-Joseph asked about their welfare and said, "Is your father well, the old man you told me about? Is he still alive?"
+Joseph asked if they were well and said, "Is your father well, the old man you told me about? Is he still alive?"
 
 ---
 
@@ -354,7 +354,7 @@ Joseph lifted his eyes and saw his brother Benjamin, his mother's son. He said, 
 Joseph hurried out because his heart was deeply moved for his brother. He looked for a place to cry, went into his room, and wept there.
 
 #### Ages 8-10
-Joseph hurried out, because his compassion for his brother was stirred. He looked for a place to weep, went into his room, and wept there.
+Joseph hurried out, because his heart was deeply moved for his brother. He looked for a place to weep, went into his room, and wept there.
 
 ---
 
@@ -365,7 +365,7 @@ Joseph hurried out, because his compassion for his brother was stirred. He looke
 Then Joseph washed his face, came out, held himself steady, and said, "Serve the food."
 
 #### Ages 8-10
-Then he washed his face, came out, controlled himself, and said, "Serve the food."
+Then he washed his face, came out, held himself steady, and said, "Serve the food."
 
 ---
 
@@ -384,10 +384,10 @@ They served Joseph by himself, the brothers by themselves, and the Egyptians eat
 **Original Reference**: Genesis 43:33 - They sat before him, the firstborn according to his birthright, and the youngest according to his youth, and the men marveled with one another.
 
 #### Ages 5-7
-The brothers sat before Joseph, from the firstborn according to his age to the youngest according to his youth. The men looked at one another in amazement.
+The brothers sat before Joseph, from the oldest to the youngest. The men looked at one another in amazement.
 
 #### Ages 8-10
-The brothers were seated before Joseph, the firstborn according to his birthright and the youngest according to his youth. The men looked at one another in amazement.
+The brothers were seated before Joseph, from the oldest to the youngest. The men looked at one another in amazement.
 
 ---
 
@@ -395,10 +395,10 @@ The brothers were seated before Joseph, the firstborn according to his birthrigh
 **Original Reference**: Genesis 43:34 - He sent portions to them from before him, but Benjamin's portion was five times as much as any of theirs. They drank, and were merry with him.
 
 #### Ages 5-7
-Joseph sent portions to them from his own table, but Benjamin's portion was five times larger than any of theirs. They ate and drank with Joseph and were merry.
+Joseph sent servings to them from his own table, but Benjamin's serving was five times larger than any of theirs. They ate and drank with Joseph and were joyful.
 
 #### Ages 8-10
-Portions were sent to them from Joseph's table, but Benjamin's portion was five times larger than any of theirs. They drank and were merry with him.
+Servings were sent to them from Joseph's table, but Benjamin's serving was five times larger than any of theirs. They drank and were joyful with him.
 
 **Key Vocabulary**:
 - Benjamin: Jacob's youngest son, born to Rachel
@@ -416,10 +416,10 @@ Jacob finally sends Benjamin to Egypt, where Joseph receives his brothers with a
 ## Memory Verses by Age
 
 ### Ages 5-7
-"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved." - Genesis 43:14
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I lose my sons, then I lose them." - Genesis 43:14
 
 ### Ages 8-10
-"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved." - Genesis 43:14
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I lose my sons, then I lose them." - Genesis 43:14
 
 ## Discussion Questions by Age
 
