@@ -27,10 +27,10 @@ Jacob lived in the land of Canaan, where his father had lived as a stranger.
 **Original Reference**: Genesis 37:2 - This is the history of the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father's wives. Joseph brought an evil report of them to their father.
 
 #### Ages 5-7
-These are the family records of Jacob. Joseph was seventeen years old, and he was feeding the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
+This is the story of Jacob's family. Joseph was seventeen years old, and he was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
 
 #### Ages 8-10
-These are the family records of Jacob. Joseph was seventeen years old and was feeding the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
+This is the story of Jacob's family. Joseph was seventeen years old and was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
 
 ---
 
@@ -91,7 +91,7 @@ He said to them, "Please listen to the dream I had.
 We were tying bundles of grain in the field. Suddenly my bundle stood up straight, and your bundles gathered around it and bowed down to my bundle."
 
 #### Ages 8-10
-We were binding sheaves in the field. My sheaf rose and stood upright, and your sheaves gathered around it and bowed down to my sheaf."
+We were tying bundles of grain in the field. My bundle rose and stood upright, and your bundles gathered around it and bowed down to my bundle."
 
 ---
 
@@ -130,7 +130,7 @@ Joseph had another dream and told it to his brothers. He said, "I have had anoth
 When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down to the ground before you?"
 
 #### Ages 8-10
-When he told it to his father and brothers, his father rebuked him and said, "What is this dream you have had? Shall I, your mother, and your brothers really come and bow down to the ground before you?"
+When he told it to his father and brothers, his father corrected him and said, "What is this dream you have had? Shall I, your mother, and your brothers really come and bow down to the ground before you?"
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -141,10 +141,10 @@ When he told it to his father and brothers, his father rebuked him and said, "Wh
 **Original Reference**: Genesis 37:11 - His brothers envied him, but his father kept this saying in mind.
 
 #### Ages 5-7
-Joseph's brothers envied him, but his father kept the saying in his mind.
+Joseph's brothers were jealous of him, but his father kept the saying in his mind and wondered about it.
 
 #### Ages 8-10
-His brothers envied him, but his father kept the saying in mind.
+His brothers were jealous of him, but his father kept the saying in mind and wondered about it.
 
 ---
 
@@ -152,10 +152,10 @@ His brothers envied him, but his father kept the saying in mind.
 **Original Reference**: Genesis 37:12 - His brothers went to feed their father's flock in Shechem.
 
 #### Ages 5-7
-One day Joseph's brothers went to feed their father's flock in Shechem.
+One day Joseph's brothers went to care for their father's flock in Shechem.
 
 #### Ages 8-10
-Joseph's brothers went to feed their father's flock in Shechem.
+Joseph's brothers went to care for their father's flock in Shechem.
 
 ---
 
@@ -163,10 +163,10 @@ Joseph's brothers went to feed their father's flock in Shechem.
 **Original Reference**: Genesis 37:13 - Israel said to Joseph, "Aren't your brothers feeding the flock in Shechem? Come, and I will send you to them." He said to him, "Here I am."
 
 #### Ages 5-7
-Israel said to Joseph, "Are not your brothers feeding the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
+Israel said to Joseph, "Are not your brothers caring for the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
 
 #### Ages 8-10
-Israel said to Joseph, "Are your brothers not feeding the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
+Israel said to Joseph, "Are your brothers not caring for the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
 
 ---
 
@@ -196,10 +196,10 @@ A man found Joseph wandering in the field and asked, "What are you looking for?"
 **Original Reference**: Genesis 37:16 - He said, "I am looking for my brothers. Tell me, please, where they are feeding the flock."
 
 #### Ages 5-7
-Joseph said, "I am looking for my brothers. Please tell me where they are feeding their flocks."
+Joseph said, "I am looking for my brothers. Please tell me where they are caring for their flocks."
 
 #### Ages 8-10
-Joseph said, "I am looking for my brothers. Please tell me where they are feeding their flocks."
+Joseph said, "I am looking for my brothers. Please tell me where they are caring for their flocks."
 
 ---
 
@@ -243,10 +243,10 @@ They said to one another, "Look, here comes this dreamer.
 **Original Reference**: Genesis 37:20 - Come now therefore, and let's kill him, and cast him into one of the pits, and we will say, 'An evil animal has devoured him.' We will see what will become of his dreams."
 
 #### Ages 5-7
-Come now, let us kill him and throw him into one of the pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
+Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
 
 #### Ages 8-10
-Come now, let us kill him and throw him into one of the pits. Then we will say, 'A wild animal devoured him.' Then we will see what becomes of his dreams."
+Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal ate him.' Then we will see what becomes of his dreams."
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -268,10 +268,10 @@ Reuben heard it and rescued Joseph from their hands. He said, "Let us not kill h
 **Original Reference**: Genesis 37:22 - Reuben said to them, "Shed no blood. Throw him into this pit that is in the wilderness, but lay no hand on him"—that he might deliver him out of their hand, to restore him to his father.
 
 #### Ages 5-7
-Reuben said to them, "Do not spill blood. Throw him into this pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
+Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
 
 #### Ages 8-10
-Reuben said, "Shed no blood. Throw him into this pit in the wilderness, but do not lay a hand on him." He said this so he could rescue Joseph from them and return him to his father.
+Reuben said, "Shed no blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." He said this so he could rescue Joseph from them and return him to his father.
 
 ---
 
@@ -290,10 +290,10 @@ When Joseph came to his brothers, they stripped off his coat, the coat of many c
 **Original Reference**: Genesis 37:24 - and they took him, and threw him into the pit. The pit was empty. There was no water in it.
 
 #### Ages 5-7
-They took him and threw him into a pit. The pit was empty, with no water in it.
+They took him and threw him into the deep pit. The pit was empty, with no water in it.
 
 #### Ages 8-10
-They took him and threw him into a pit. The pit was empty; there was no water in it.
+They took him and threw him into the deep pit. The pit was empty; there was no water in it.
 
 ---
 
@@ -318,7 +318,7 @@ Then they sat down to eat. They looked up and saw a company of Ishmaelites comin
 Judah said to his brothers, "What do we gain if we kill our brother and hide his blood?
 
 #### Ages 8-10
-Judah said to his brothers, "What profit is there if we kill our brother and hide his blood?
+Judah said to his brothers, "What do we gain if we kill our brother and hide his blood?
 
 ---
 
@@ -326,10 +326,10 @@ Judah said to his brothers, "What profit is there if we kill our brother and hid
 **Original Reference**: Genesis 37:27 - Come, and let's sell him to the Ishmaelites, and not let our hand be on him; for he is our brother, our flesh." His brothers listened to him.
 
 #### Ages 5-7
-Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own flesh." His brothers agreed.
+Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own family." His brothers agreed.
 
 #### Ages 8-10
-Come, let us sell him to the Ishmaelites, and let our hands not be against him, because he is our brother and our own flesh." His brothers agreed.
+Come, let us sell him to the Ishmaelites, and let our hands not be against him, because he is our brother and our own family." His brothers agreed.
 
 ---
 
@@ -404,7 +404,7 @@ They sent the coat of many colors and brought it to their father. They said, "We
 Jacob recognized it and said, "It is my son's coat. A wild animal has eaten him. Joseph has surely been torn in pieces."
 
 #### Ages 8-10
-Jacob recognized it and said, "It is my son's coat. A wild animal has devoured him. Joseph has surely been torn in pieces."
+Jacob recognized it and said, "It is my son's coat. A wild animal has eaten him. Joseph has surely been torn in pieces."
 
 ---
 
@@ -412,10 +412,10 @@ Jacob recognized it and said, "It is my son's coat. A wild animal has devoured h
 **Original Reference**: Genesis 37:34 - Jacob tore his clothes, and put sackcloth on his waist, and mourned for his son many days.
 
 #### Ages 5-7
-Jacob tore his clothes, put sackcloth around himself, and mourned for his son many days.
+Jacob tore his clothes, put rough mourning cloth around himself, and mourned for his son many days.
 
 #### Ages 8-10
-Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days.
+Jacob tore his clothes, put rough mourning cloth around his waist, and mourned for his son many days.
 
 ---
 

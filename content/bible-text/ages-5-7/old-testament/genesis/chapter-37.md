@@ -12,7 +12,7 @@ Genesis
 Jacob lived in the land of Canaan, the land where his father had lived as a stranger.
 
 ### Genesis 37:2
-These are the family records of Jacob. Joseph was seventeen years old, and he was feeding the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
+This is the story of Jacob's family. Joseph was seventeen years old, and he was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
 
 ### Genesis 37:3
 Israel loved Joseph more than all his other children because Joseph had been born to him in his old age, and he made Joseph a special coat of many colors.
@@ -39,13 +39,13 @@ Then Joseph dreamed another dream and told it to his brothers. He said, "I have 
 When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down to the ground before you?"
 
 ### Genesis 37:11
-Joseph's brothers envied him, but his father kept the saying in his mind.
+Joseph's brothers were jealous of him, but his father kept the saying in his mind and wondered about it.
 
 ### Genesis 37:12
-One day Joseph's brothers went to feed their father's flock in Shechem.
+One day Joseph's brothers went to care for their father's flock in Shechem.
 
 ### Genesis 37:13
-Israel said to Joseph, "Are not your brothers feeding the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
+Israel said to Joseph, "Are not your brothers caring for the flock in Shechem? Come, and I will send you to them." Joseph answered, "Here I am."
 
 ### Genesis 37:14
 Israel said, "Please go and see if your brothers are well and if the flocks are well, and bring word back to me." So he sent Joseph out from the valley of Hebron, and Joseph came to Shechem.
@@ -54,7 +54,7 @@ Israel said, "Please go and see if your brothers are well and if the flocks are 
 A man found Joseph wandering in the field, and the man asked him, "What are you looking for?"
 
 ### Genesis 37:16
-Joseph said, "I am looking for my brothers. Please tell me where they are feeding their flocks."
+Joseph said, "I am looking for my brothers. Please tell me where they are caring for their flocks."
 
 ### Genesis 37:17
 The man said, "They have left here, for I heard them say, 'Let us go to Dothan.'" So Joseph followed after his brothers and found them in Dothan.
@@ -66,19 +66,19 @@ When Joseph's brothers saw him far away, before he came close to them, they made
 They said to one another, "Look, here comes that dreamer.
 
 ### Genesis 37:20
-Come now, let us kill him and throw him into one of the pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
+Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
 
 ### Genesis 37:21
 But Reuben heard this and rescued Joseph from their hands. He said, "Let us not kill him."
 
 ### Genesis 37:22
-Reuben said to them, "Do not spill blood. Throw him into this pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
+Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
 
 ### Genesis 37:23
 When Joseph came to his brothers, they stripped off his coat, the coat of many colors that he was wearing.
 
 ### Genesis 37:24
-They took him and threw him into a pit. The pit was empty, with no water in it.
+They took him and threw him into the deep pit. The pit was empty, with no water in it.
 
 ### Genesis 37:25
 Then they sat down to eat. When they looked up, they saw a group of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh down to Egypt.
@@ -87,7 +87,7 @@ Then they sat down to eat. When they looked up, they saw a group of Ishmaelites 
 Judah said to his brothers, "What do we gain if we kill our brother and hide his blood?
 
 ### Genesis 37:27
-Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own flesh." His brothers agreed.
+Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own family." His brothers agreed.
 
 ### Genesis 37:28
 When Midianite merchants passed by, the brothers pulled Joseph up out of the pit. They sold Joseph to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
@@ -108,7 +108,7 @@ They sent the coat of many colors and brought it to their father. They said, "We
 Jacob recognized it and said, "It is my son's coat. A wild animal has eaten him. Joseph has surely been torn in pieces."
 
 ### Genesis 37:34
-Jacob tore his clothes, put sackcloth around himself, and mourned for his son many days.
+Jacob tore his clothes, put rough mourning cloth around himself, and mourned for his son many days.
 
 ### Genesis 37:35
 All his sons and daughters came to comfort him, but he refused to be comforted. He said, "I will go down to the grave mourning for my son." So Joseph's father wept for him.

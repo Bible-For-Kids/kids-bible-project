@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 34:1
-Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.
+Dinah, the daughter Leah had for Jacob, went out to visit the daughters of the land.
 
 ### Genesis 34:2
 When Shechem son of Hamor the Hivite, a prince of the country, saw her, he took her and treated her in a shameful and hurtful way.
@@ -48,16 +48,16 @@ Shechem said to Dinah's father and brothers, "Let me find favor with you. Whatev
 Jacob's sons answered Shechem and his father Hamor deceitfully, because Shechem had harmed Dinah their sister.
 
 ### Genesis 34:14
-They said to them, "We cannot do this thing, giving our sister to a man who is not circumcised, because that would be a disgrace to us.
+They said to them, "We cannot do this thing, giving our sister to a man who has not received the body sign called circumcision, because that would be a disgrace to us.
 
 ### Genesis 34:15
-"We will agree with you only on this condition: every male among you must be circumcised, as we are.
+"We will agree with you only on this condition: every male among you must receive this sign, as we have.
 
 ### Genesis 34:16
 "Then we will give our daughters to you, and we will take your daughters for ourselves. We will live with you and become one people.
 
 ### Genesis 34:17
-"But if you will not listen to us and be circumcised, then we will take our daughter and leave."
+"But if you will not listen to us and receive this sign, then we will take our daughter and leave."
 
 ### Genesis 34:18
 Their words pleased Hamor and Hamor's son Shechem.
@@ -72,13 +72,13 @@ Hamor and his son Shechem went to the gate of their city and spoke to the men of
 They said, "These men are peaceful with us. Let them live in the land and trade in it, because the land is wide enough for them. Let us take their daughters as wives, and let us give them our daughters.
 
 ### Genesis 34:22
-"The men will agree to live with us and become one people only if every male among us is circumcised, as they are.
+"The men will agree to live with us and become one people only if every male among us receives the same sign they have.
 
 ### Genesis 34:23
 "Will not their livestock, their possessions, and every animal of theirs become ours? Let us agree to their condition, and they will live with us."
 
 ### Genesis 34:24
-All who went out of the city gate listened to Hamor and his son Shechem, and every male in the city was circumcised.
+All who went out of the city gate listened to Hamor and his son Shechem, and every male in the city received the sign of circumcision.
 
 ### Genesis 34:25
 On the third day, while the men were still sore, two of Jacob's sons, Simeon and Levi, Dinah's brothers, took their swords. They came into the city boldly and killed all the males.

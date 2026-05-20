@@ -45,7 +45,7 @@ He said to them, "I can see that your father does not treat me kindly like befor
 "He said, 'Look up and see. All the male goats with the flocks are streaked, speckled, and spotted. I have seen everything Laban has done to you.
 
 ### Genesis 31:13
-"'I am the God of Bethel, where you poured oil on the stone pillar and made a promise to me. Now get up, leave this land, and return to the land of your family.'"
+"'I am the God of Bethel, where you poured oil on the stone marker and made a promise to me. Now get up, leave this land, and return to the land of your family.'"
 
 ### Genesis 31:14
 Rachel and Leah answered Jacob, "Is there any share or gift left for us in our father's house?
@@ -63,13 +63,13 @@ Then Jacob got up and helped his children and his wives onto camels.
 He took all his flocks and all the things he had gained in Padan-aram, and he set out for the land of Canaan to go to his father Isaac.
 
 ### Genesis 31:19
-While Laban had gone to shear his sheep, Rachel stole her father's household idols.
+While Laban had gone to cut the wool from his sheep, Rachel stole her father's household idols, the false gods kept in his home.
 
 ### Genesis 31:20
-Jacob left secretly from Laban the Syrian. He did not tell Laban he was running away.
+Jacob left secretly from Laban the Aramean. He did not tell Laban he was running away.
 
 ### Genesis 31:21
-Jacob fled with everything he had. He crossed the river and headed toward the hill country of Gilead.
+Jacob ran away with everything he had. He crossed the river and headed toward the hill country of Gilead.
 
 ### Genesis 31:22
 On the third day, Laban was told that Jacob had run away.
@@ -78,7 +78,7 @@ On the third day, Laban was told that Jacob had run away.
 Laban took his relatives with him and chased Jacob for seven days. They caught up with him in the hill country of Gilead.
 
 ### Genesis 31:24
-But God came to Laban the Syrian in a dream at night and said, "Be careful. Do not speak to Jacob for good or for harm."
+But God came to Laban the Aramean in a dream at night and said, "Be careful. Do not try to turn Jacob back with kind words or threats."
 
 ### Genesis 31:25
 Laban caught up with Jacob. Jacob had set up his tent on the mountain, and Laban and his relatives set up their tents in the hill country of Gilead.
@@ -93,7 +93,7 @@ Laban said to Jacob, "What have you done? You left secretly and carried away my 
 "You did not even let me kiss my grandchildren and my daughters goodbye. What you did was foolish.
 
 ### Genesis 31:29
-"I have power to hurt you, but the God of your father spoke to me last night. He said, 'Be careful. Do not speak to Jacob for good or for harm.'
+"I have power to hurt you, but the God of your father spoke to me last night. He said, 'Be careful. Do not try to turn Jacob back with kind words or threats.'
 
 ### Genesis 31:30
 "Now I understand that you wanted to go because you missed your father's house so much. But why did you steal my gods?"
@@ -111,7 +111,7 @@ Laban went into Jacob's tent, Leah's tent, and the tents of the two servant-wome
 Rachel had taken the idols, put them inside the camel's saddle, and sat on them. Laban searched through the whole tent, but he did not find them.
 
 ### Genesis 31:35
-Rachel said to her father, "Please do not be angry that I cannot stand up before you. The time of women is upon me." So Laban searched, but he did not find the idols.
+Rachel said to her father, "Please do not be angry that I cannot stand up before you. It is my monthly time as a woman." So Laban searched, but he did not find the idols.
 
 ### Genesis 31:36
 Then Jacob became angry and argued with Laban. Jacob said to him, "What wrong have I done? What sin did I commit, that you chased me so fiercely?
@@ -132,16 +132,16 @@ Then Jacob became angry and argued with Laban. Jacob said to him, "What wrong ha
 "For twenty years I lived in your house. I served fourteen years for your two daughters and six years for your flocks, and you changed my pay many times.
 
 ### Genesis 31:42
-"If the God of my father, the God of Abraham and the One Isaac honors, had not been with me, you would have sent me away with nothing. God saw my trouble and the work of my hands, and last night he corrected you."
+"If the God of my father, the God of Abraham and the One Isaac honors and fears, had not been with me, you would have sent me away with nothing. God saw my trouble and the work of my hands, and last night he corrected you."
 
 ### Genesis 31:43
-Laban answered Jacob, "These daughters are my daughters, these children are my children, and these flocks are my flocks. Everything you see is mine. But what can I do today to my daughters or to the children they have borne?
+Laban answered Jacob, "These daughters are my daughters, these children are my children, and these flocks are my flocks. Everything you see is mine. But what can I do today to my daughters or to the children they have had?
 
 ### Genesis 31:44
 "Come now. Let us make an agreement, you and I, and let it stand as a witness between us."
 
 ### Genesis 31:45
-So Jacob took a stone and set it upright as a pillar.
+So Jacob took a stone and set it upright as a marker.
 
 ### Genesis 31:46
 Jacob said to his relatives, "Gather stones." They gathered stones and made a pile, and they ate there beside the pile.
@@ -159,10 +159,10 @@ It was also called Mizpah, because Laban said, "May the Lord watch between you a
 "If you hurt my daughters, or if you take other wives besides my daughters, no person may be with us to see it, but God is witness between you and me."
 
 ### Genesis 31:51
-Laban also said to Jacob, "Look at this pile and look at this pillar, which I have set between you and me.
+Laban also said to Jacob, "Look at this pile and look at this stone marker, which I have set between you and me.
 
 ### Genesis 31:52
-"This pile and this pillar are witnesses. I will not go past this pile to harm you, and you will not go past this pile and pillar to harm me.
+"This pile and this stone marker are witnesses. I will not go past this pile to harm you, and you will not go past this pile and stone marker to harm me.
 
 ### Genesis 31:53
 "May the God of Abraham and the God of Nahor, the God of their father, judge between us." Jacob made his promise by the One his father Isaac honored.

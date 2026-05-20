@@ -93,10 +93,10 @@ Leah and her children also came near and bowed down. Afterward Joseph and Rachel
 **Original Reference**: Genesis 33:8 - Esau said, "What do you mean by all this company which I met?" Jacob said, "To find favor in the sight of my lord."
 
 #### Ages 5-7
-Esau asked, "What did you mean by all those herds I met?" Jacob answered, "They were to find kindness in my lord's eyes."
+Esau asked, "What did you mean by all those groups of animals I met?" Jacob answered, "They were to find kindness in my lord's eyes."
 
 #### Ages 8-10
-Esau asked, "What did you mean by all those herds I met?" Jacob answered, "They were sent so I might find favor with my lord."
+Esau asked, "What did you mean by all those groups of animals I met?" Jacob answered, "They were sent so I might find favor with my lord."
 
 ---
 
@@ -157,10 +157,10 @@ Then Esau said, "Let us be on our way. I will go ahead of you."
 **Original Reference**: Genesis 33:13 - Jacob said to him, "My lord knows that the children are tender, and that the flocks and herds with me have their young, and if they overdrive them one day, all the flocks will die.
 
 #### Ages 5-7
-Jacob said to him, "My lord knows that the children are tender, and the flocks and herds have young ones with them. If they are driven too hard for one day, all the flock may die.
+Jacob said to him, "My lord knows that the children are young, and the flocks and herds have young ones with them. If they are driven too hard for one day, all the flock may die.
 
 #### Ages 8-10
-Jacob said to him, "My lord knows that the children are tender, and the flocks and herds with young are with me. If they are driven too hard for one day, all the flock may die.
+Jacob said to him, "My lord knows that the children are young, and the flocks and herds with young are with me. If they are driven too hard for one day, all the flock may die.
 
 ---
 
@@ -237,10 +237,10 @@ He bought the part of the field where he had pitched his tent from the sons of H
 **Original Reference**: Genesis 33:20 - He erected an altar there, and called it El Elohe Israel.
 
 #### Ages 5-7
-There Jacob built an altar and called it El-elohe-Israel.
+There Jacob built an altar and called it El-elohe-Israel, which means "God, the God of Israel."
 
 #### Ages 8-10
-There he set up an altar and called it El-elohe-Israel.
+There he set up an altar and called it El-elohe-Israel, which means "God, the God of Israel."
 
 **Key Vocabulary**:
 - altar: A special place where someone worshiped the Lord with an offering

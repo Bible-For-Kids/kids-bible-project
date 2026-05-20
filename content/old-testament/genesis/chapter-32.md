@@ -250,10 +250,10 @@ So the gift went ahead of him, while Jacob spent that night in the camp.
 **Original Reference**: Genesis 32:22 - He rose up that night, and took his two wives, and his two servants, and his eleven sons, and crossed over the ford of the Jabbok.
 
 #### Ages 5-7
-During the night Jacob got up. He took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow place of the Jabbok.
+During the night Jacob got up. He took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow crossing of the Jabbok River.
 
 #### Ages 8-10
-That night Jacob got up and took his two wives, his two servant-women, and his eleven sons, and he crossed the ford of the Jabbok.
+That night Jacob got up and took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow crossing of the Jabbok River.
 
 ---
 
@@ -283,10 +283,10 @@ Jacob was left alone, and a man wrestled with him until daybreak.
 **Original Reference**: Genesis 32:25 - When he saw that he didn't prevail against him, the man touched the hollow of his thigh, and the hollow of Jacob's thigh was strained as he wrestled.
 
 #### Ages 5-7
-When the man saw that he did not win against Jacob, he touched Jacob's hip, and Jacob's hip was hurt as they wrestled.
+When the man saw that Jacob kept holding on, he touched Jacob's hip, and Jacob's hip was hurt as they wrestled.
 
 #### Ages 8-10
-When the man saw that he could not overpower Jacob, he touched the socket of Jacob's hip, and Jacob's hip was put out of joint as they wrestled.
+When the man saw that Jacob kept holding on, he touched the socket of Jacob's hip, and Jacob's hip was put out of joint as they wrestled.
 
 ---
 
@@ -316,10 +316,10 @@ The man asked him, "What is your name?" He said, "Jacob."
 **Original Reference**: Genesis 32:28 - He said, "Your name will no longer be called Jacob, but Israel; for you have fought with God and with men, and have prevailed."
 
 #### Ages 5-7
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have overcome."
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have held on through the struggle."
 
 #### Ages 8-10
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed."
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have held on through the struggle."
 
 **Translation Notes**:
 Jacob is renamed Israel after struggling and receiving blessing; do not imply he defeated God by strength.
@@ -350,7 +350,7 @@ Jacob asked, "Please tell me your name." He answered, "Why do you ask my name?" 
 Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been saved."
 
 #### Ages 8-10
-Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been preserved."
+Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been saved."
 
 ---
 
@@ -369,10 +369,10 @@ The sun rose on Jacob as he crossed Penuel, and he was limping because of his hi
 **Original Reference**: Genesis 32:32 - Therefore the children of Israel don't eat the sinew of the hip, which is on the hollow of the thigh, to this day, because he touched the hollow of Jacob's thigh in the sinew of the hip.
 
 #### Ages 5-7
-That is why the children of Israel do not eat the tendon by the hip joint to this day, because the man touched Jacob's hip at that tendon.
+That is why the children of Israel do not eat the strong cord by the hip joint to this day, because the man touched Jacob's hip there.
 
 #### Ages 8-10
-For this reason, the children of Israel do not eat the tendon near the hip joint to this day, because the man touched the tendon at Jacob's hip.
+For this reason, the children of Israel do not eat the strong cord near the hip joint to this day, because the man touched that place at Jacob's hip.
 
 **Key Vocabulary**:
 - Israel: The name God gave Jacob, and later the name of his family people
@@ -390,10 +390,10 @@ Jacob prepares to meet Esau, prays in fear, sends gifts ahead, and wrestles thro
 ## Memory Verses by Age
 
 ### Ages 5-7
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have overcome." - Genesis 32:28
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have held on through the struggle." - Genesis 32:28
 
 ### Ages 8-10
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed." - Genesis 32:28
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have held on through the struggle." - Genesis 32:28
 
 ## Discussion Questions by Age
 

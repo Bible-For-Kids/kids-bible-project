@@ -12,7 +12,7 @@ Genesis
 God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you ran away from your brother Esau."
 
 ### Genesis 35:2
-Then Jacob said to his household and to everyone with him, "Put away the foreign gods among you. Make yourselves clean, and change your clothes.
+Then Jacob said to his household and to everyone with him, "Put away the foreign gods, the false gods among you. Make yourselves clean, and change your clothes.
 
 ### Genesis 35:3
 "Let us get up and go to Bethel. I will make an altar there to God, who answered me in my day of trouble and was with me wherever I went."
@@ -48,16 +48,16 @@ God said to him, "I am God Almighty. Have children and grow into many people. A 
 Then God went up from Jacob at the place where he had spoken with him.
 
 ### Genesis 35:14
-Jacob set up a stone pillar in the place where God had spoken with him. He poured a drink offering on it, and he poured oil on it.
+Jacob set up a stone marker in the place where God had spoken with him. He poured out a drink offering on it, and he poured oil on it.
 
 ### Genesis 35:15
 Jacob named the place where God had spoken with him Bethel.
 
 ### Genesis 35:16
-Then they traveled from Bethel. When they were still some distance from Ephrath, Rachel began to give birth, and her labor was hard.
+Then they traveled from Bethel. When they were still some distance from Ephrath, Rachel began to give birth, and her birth pains were hard.
 
 ### Genesis 35:17
-While Rachel was having hard labor, the midwife said to her, "Do not be afraid. You have another son."
+While Rachel was having hard birth pains, the midwife, the woman helping her give birth, said to her, "Do not be afraid. You have another son."
 
 ### Genesis 35:18
 As Rachel's life was leaving her, for she died, she named the baby Ben-oni. But his father named him Benjamin.
@@ -66,13 +66,13 @@ As Rachel's life was leaving her, for she died, she named the baby Ben-oni. But 
 Rachel died and was buried on the way to Ephrath, that is, Bethlehem.
 
 ### Genesis 35:20
-Jacob set up a pillar over her grave. That is the pillar of Rachel's grave to this day.
+Jacob set up a stone marker over her grave. That is the marker of Rachel's grave to this day.
 
 ### Genesis 35:21
 Israel traveled on and set up his tent beyond the tower of Edar.
 
 ### Genesis 35:22
-While Israel lived in that land, Reuben did a wrong thing with Bilhah, his father's servant-wife, and Israel heard about it. Now Jacob had twelve sons.
+While Israel lived in that land, Reuben was with Bilhah, his father's servant-wife, in a way meant only for marriage. This was a wrong thing, and Israel heard about it. Now Jacob had twelve sons.
 
 ### Genesis 35:23
 The sons of Leah were Reuben, Jacob's firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
@@ -93,4 +93,4 @@ Jacob came to his father Isaac at Mamre, near the city of Arbah, that is, Hebron
 Isaac lived one hundred eighty years.
 
 ### Genesis 35:29
-Isaac breathed his last and died. He was gathered to his people, old and full of days, and his sons Esau and Jacob buried him.
+Isaac breathed his last and died. He was gathered to his people, old and full of many days, and his sons Esau and Jacob buried him.

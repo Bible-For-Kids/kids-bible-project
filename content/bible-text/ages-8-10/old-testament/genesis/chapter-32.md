@@ -72,7 +72,7 @@ Jacob gave the same command to the second servant, the third servant, and all wh
 So the gift went ahead of him, while Jacob spent that night in the camp.
 
 ### Genesis 32:22
-That night Jacob got up and took his two wives, his two servant-women, and his eleven sons, and he crossed the ford of the Jabbok.
+That night Jacob got up and took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow crossing of the Jabbok River.
 
 ### Genesis 32:23
 He took them and sent them across the stream, along with everything he had.
@@ -81,7 +81,7 @@ He took them and sent them across the stream, along with everything he had.
 Jacob was left alone, and a man wrestled with him until daybreak.
 
 ### Genesis 32:25
-When the man saw that he could not overpower Jacob, he touched the socket of Jacob's hip, and Jacob's hip was put out of joint as they wrestled.
+When the man saw that Jacob kept holding on, he touched the socket of Jacob's hip, and Jacob's hip was put out of joint as they wrestled.
 
 ### Genesis 32:26
 The man said, "Let me go, for the day is breaking." Jacob answered, "I will not let you go unless you bless me."
@@ -90,16 +90,16 @@ The man said, "Let me go, for the day is breaking." Jacob answered, "I will not 
 The man asked him, "What is your name?" He said, "Jacob."
 
 ### Genesis 32:28
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed."
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have held on through the struggle."
 
 ### Genesis 32:29
 Jacob asked, "Please tell me your name." He answered, "Why do you ask my name?" And he blessed him there.
 
 ### Genesis 32:30
-Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been preserved."
+Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been saved."
 
 ### Genesis 32:31
 The sun rose on Jacob as he crossed Penuel, and he was limping because of his hip.
 
 ### Genesis 32:32
-For this reason, the children of Israel do not eat the tendon near the hip joint to this day, because the man touched the tendon at Jacob's hip.
+For this reason, the children of Israel do not eat the strong cord near the hip joint to this day, because the man touched that place at Jacob's hip.

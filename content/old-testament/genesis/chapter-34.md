@@ -16,10 +16,10 @@ Genesis 34 continues the covenant family story. Dinah is violated in Shechem, Si
 **Original Reference**: Genesis 34:1 - Dinah, the daughter of Leah, whom she bore to Jacob, went out to see the daughters of the land.
 
 #### Ages 5-7
-Dinah, the daughter Leah had borne to Jacob, went out to visit the young women of the land.
+Dinah, the daughter Leah had for Jacob, went out to visit the young women of the land.
 
 #### Ages 8-10
-Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.
+Dinah, the daughter Leah had for Jacob, went out to visit the daughters of the land.
 
 ---
 
@@ -162,10 +162,10 @@ Jacob's sons answered Shechem and his father Hamor deceitfully, because Shechem 
 **Original Reference**: Genesis 34:14 - and said to them, "We can't do this thing, to give our sister to one who is uncircumcised; for that is a reproach to us.
 
 #### Ages 5-7
-They said to them, "We cannot do this. We cannot give our sister to a man who is not circumcised, because that would bring shame on us.
+They said to them, "We cannot do this. We cannot give our sister to a man who has not received the body sign called circumcision, because that would bring shame on us.
 
 #### Ages 8-10
-They said to them, "We cannot do this thing, giving our sister to a man who is not circumcised, because that would be a disgrace to us.
+They said to them, "We cannot do this thing, giving our sister to a man who has not received the body sign called circumcision, because that would be a disgrace to us.
 
 ---
 
@@ -173,10 +173,10 @@ They said to them, "We cannot do this thing, giving our sister to a man who is n
 **Original Reference**: Genesis 34:15 - Only on this condition will we consent to you. If you will be as we are, that every male of you be circumcised,
 
 #### Ages 5-7
-"We will agree only if you become like us, and every male among you is circumcised.
+"We will agree only if you become like us, and every male among you receives this sign.
 
 #### Ages 8-10
-"We will agree with you only on this condition: every male among you must be circumcised, as we are.
+"We will agree with you only on this condition: every male among you must receive this sign, as we have.
 
 ---
 
@@ -195,10 +195,10 @@ They said to them, "We cannot do this thing, giving our sister to a man who is n
 **Original Reference**: Genesis 34:17 - But if you will not listen to us and be circumcised, then we will take our sister, and we will be gone."
 
 #### Ages 5-7
-"But if you will not listen and be circumcised, then we will take our daughter and go."
+"But if you will not listen and receive this sign, then we will take our daughter and go."
 
 #### Ages 8-10
-"But if you will not listen to us and be circumcised, then we will take our daughter and leave."
+"But if you will not listen to us and receive this sign, then we will take our daughter and leave."
 
 ---
 
@@ -250,10 +250,10 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 **Original Reference**: Genesis 34:22 - Only on this condition will the men consent to us to live with us, to become one people, if every male among us is circumcised, as they are circumcised.
 
 #### Ages 5-7
-"The men will agree to live with us and become one people only if every male among us is circumcised, as they are.
+"The men will agree to live with us and become one people only if every male among us receives the same sign they have.
 
 #### Ages 8-10
-"The men will agree to live with us and become one people only if every male among us is circumcised, as they are.
+"The men will agree to live with us and become one people only if every male among us receives the same sign they have.
 
 ---
 
@@ -261,7 +261,7 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 **Original Reference**: Genesis 34:23 - Won't their livestock and their possessions and all their animals be ours? Only let's give our consent to them, and they will dwell with us."
 
 #### Ages 5-7
-"Will not their animals, their goods, and all their beasts become ours? Let us agree with them, and they will live with us."
+"Will not their animals, their goods, and all their other animals become ours? Let us agree with them, and they will live with us."
 
 #### Ages 8-10
 "Will not their livestock, their possessions, and every animal of theirs become ours? Let us agree to their condition, and they will live with us."
@@ -272,10 +272,10 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 **Original Reference**: Genesis 34:24 - All who went out of the gate of his city listened to Hamor, and to Shechem his son; and every male was circumcised, all who went out of the gate of his city.
 
 #### Ages 5-7
-All the men who went out of the city gate listened to Hamor and Shechem. Every male in the city was circumcised.
+All the men who went out of the city gate listened to Hamor and Shechem. Every male in the city received the sign of circumcision.
 
 #### Ages 8-10
-All who went out of the city gate listened to Hamor and his son Shechem, and every male in the city was circumcised.
+All who went out of the city gate listened to Hamor and his son Shechem, and every male in the city received the sign of circumcision.
 
 ---
 
@@ -327,7 +327,7 @@ They took the sheep, oxen, donkeys, and everything in the city and in the field.
 **Original Reference**: Genesis 34:29 - and all their wealth. They took captive all their little ones and their wives, and took as plunder everything that was in the house.
 
 #### Ages 5-7
-They also took all the wealth, all the little ones, and the wives. They carried away everything that was in the houses.
+They also took all the wealth, all the children, and the wives. They carried away everything that was in the houses.
 
 #### Ages 8-10
 They took all the wealth, all the little ones, and the wives, and they carried away everything in the houses.

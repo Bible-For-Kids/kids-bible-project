@@ -72,7 +72,7 @@ Jacob gave the same command to the second servant, the third servant, and all th
 So the gift went ahead of Jacob, but he stayed that night in the camp.
 
 ### Genesis 32:22
-During the night Jacob got up. He took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow place of the Jabbok.
+During the night Jacob got up. He took his two wives, his two servant-women, and his eleven sons, and he crossed the shallow crossing of the Jabbok River.
 
 ### Genesis 32:23
 He took them and sent them across the stream, and he sent over everything he had.
@@ -81,7 +81,7 @@ He took them and sent them across the stream, and he sent over everything he had
 Jacob was left alone, and a man wrestled with him until daybreak.
 
 ### Genesis 32:25
-When the man saw that he did not win against Jacob, he touched Jacob's hip, and Jacob's hip was hurt as they wrestled.
+When the man saw that Jacob kept holding on, he touched Jacob's hip, and Jacob's hip was hurt as they wrestled.
 
 ### Genesis 32:26
 The man said, "Let me go, because the day is breaking." Jacob said, "I will not let you go unless you bless me."
@@ -90,7 +90,7 @@ The man said, "Let me go, because the day is breaking." Jacob said, "I will not 
 The man asked him, "What is your name?" He answered, "Jacob."
 
 ### Genesis 32:28
-The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have overcome."
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have held on through the struggle."
 
 ### Genesis 32:29
 Jacob asked him, "Please tell me your name." But he said, "Why do you ask my name?" And he blessed Jacob there.
@@ -102,4 +102,4 @@ Jacob named the place Peniel, saying, "I have seen God face to face, and my life
 As Jacob crossed Penuel, the sun rose, and he limped because of his hip.
 
 ### Genesis 32:32
-That is why the children of Israel do not eat the tendon by the hip joint to this day, because the man touched Jacob's hip at that tendon.
+That is why the children of Israel do not eat the strong cord by the hip joint to this day, because the man touched Jacob's hip there.

@@ -19,7 +19,7 @@ Genesis 35 continues the covenant family story. God sends Jacob back to Bethel, 
 God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you ran away from your brother Esau."
 
 #### Ages 8-10
-God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau."
+God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you ran away from your brother Esau."
 
 **Key Vocabulary**:
 - Bethel: The place Jacob named "house of God"
@@ -30,10 +30,10 @@ God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to
 **Original Reference**: Genesis 35:2 - Then Jacob said to his household, and to all who were with him, "Put away the foreign gods that are among you, purify yourselves, change your garments.
 
 #### Ages 5-7
-Then Jacob said to his household and to everyone with him, "Put away the foreign gods among you. Make yourselves clean, and change your clothes.
+Then Jacob said to his household and to everyone with him, "Put away the foreign gods, the false gods among you. Make yourselves clean, and change your clothes.
 
 #### Ages 8-10
-Then Jacob said to his household and to everyone with him, "Put away the foreign gods among you, purify yourselves, and change your clothes.
+Then Jacob said to his household and to everyone with him, "Put away the foreign gods, the false gods among you, purify yourselves, and change your clothes.
 
 ---
 
@@ -58,7 +58,7 @@ Then Jacob said to his household and to everyone with him, "Put away the foreign
 They gave Jacob all the foreign gods they had and the earrings from their ears. Jacob hid them under the oak tree near Shechem.
 
 #### Ages 8-10
-They gave Jacob all the foreign gods they had and the earrings in their ears, and Jacob hid them under the oak near Shechem.
+They gave Jacob all the foreign gods, the false gods they had, and the earrings in their ears, and Jacob hid them under the oak near Shechem.
 
 ---
 
@@ -94,7 +94,7 @@ Jacob came to Luz, that is, Bethel, in the land of Canaan, he and all the people
 Jacob built an altar there and called the place El-beth-el, because God had appeared to him there when he ran away from his brother.
 
 #### Ages 8-10
-He built an altar there and called the place El-beth-el, because God had appeared to him there when he fled from his brother.
+He built an altar there and called the place El-beth-el, because God had appeared to him there when he ran away from his brother.
 
 ---
 
@@ -177,10 +177,10 @@ Then God went up from him at the place where he had spoken with him.
 **Original Reference**: Genesis 35:14 - Jacob set up a pillar in the place where he spoke with him, a pillar of stone. He poured out a drink offering on it, and poured oil on it.
 
 #### Ages 5-7
-Jacob set up a stone pillar in the place where God had spoken with him. He poured a drink offering on it, and he poured oil on it.
+Jacob set up a stone marker in the place where God had spoken with him. He poured out a drink offering on it, and he poured oil on it.
 
 #### Ages 8-10
-Jacob set up a pillar of stone in the place where God had spoken with him. He poured a drink offering on it and poured oil on it.
+Jacob set up a stone marker in the place where God had spoken with him. He poured out a drink offering on it and poured oil on it.
 
 ---
 
@@ -202,7 +202,7 @@ Jacob named the place where God had spoken with him Bethel.
 **Original Reference**: Genesis 35:16 - They traveled from Bethel. There was still some distance to come to Ephrath, and Rachel travailed. She had hard labor.
 
 #### Ages 5-7
-Then they traveled from Bethel. When they were still some distance from Ephrath, Rachel began to give birth, and her labor was hard.
+Then they traveled from Bethel. When they were still some distance from Ephrath, Rachel began to give birth, and her birth pains were hard.
 
 #### Ages 8-10
 They traveled on from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and her labor was difficult.
@@ -216,7 +216,7 @@ They traveled on from Bethel. When they were still some distance from Ephrath, R
 **Original Reference**: Genesis 35:17 - When she was in hard labor, the midwife said to her, "Don't be afraid, for now you will have another son."
 
 #### Ages 5-7
-While Rachel was having hard labor, the midwife said to her, "Do not be afraid. You have another son."
+While Rachel was having hard birth pains, the midwife, the woman helping her give birth, said to her, "Do not be afraid. You have another son."
 
 #### Ages 8-10
 During her difficult labor, the midwife said to her, "Do not be afraid, because you have another son."
@@ -249,10 +249,10 @@ Rachel died and was buried on the way to Ephrath, that is, Bethlehem.
 **Original Reference**: Genesis 35:20 - Jacob set up a pillar on her grave. The same is the Pillar of Rachel's grave to this day.
 
 #### Ages 5-7
-Jacob set up a pillar over her grave. That is the pillar of Rachel's grave to this day.
+Jacob set up a stone marker over her grave. That is the marker of Rachel's grave to this day.
 
 #### Ages 8-10
-Jacob set up a pillar over her grave. It is the pillar of Rachel's grave to this day.
+Jacob set up a stone marker over her grave. It is the marker of Rachel's grave to this day.
 
 ---
 
@@ -274,10 +274,10 @@ Israel traveled on and spread his tent beyond the tower of Edar.
 **Original Reference**: Genesis 35:22 - While Israel lived in that land, Reuben went and lay with Bilhah, his father's concubine, and Israel heard of it. Now the sons of Jacob were twelve.
 
 #### Ages 5-7
-While Israel lived in that land, Reuben did a wrong thing with Bilhah, his father's servant-wife, and Israel heard about it. Now Jacob had twelve sons.
+While Israel lived in that land, Reuben was with Bilhah, his father's servant-wife, in a way meant only for marriage. This was a wrong thing, and Israel heard about it. Now Jacob had twelve sons.
 
 #### Ages 8-10
-While Israel lived in that land, Reuben did a wrong thing with Bilhah, his father's servant-wife, and Israel heard about it. Now Jacob's sons were twelve.
+While Israel lived in that land, Reuben was with Bilhah, his father's servant-wife, in a way meant only for marriage. This was a wrong thing, and Israel heard about it. Now Jacob's sons were twelve.
 
 **Key Vocabulary**:
 - Israel: The name God gave Jacob, and later the name of his family people
@@ -354,10 +354,10 @@ Isaac lived one hundred eighty years.
 **Original Reference**: Genesis 35:29 - Isaac gave up the spirit and died, and was gathered to his people, old and full of days. Esau and Jacob, his sons, buried him.
 
 #### Ages 5-7
-Isaac breathed his last and died. He was gathered to his people, old and full of days, and his sons Esau and Jacob buried him.
+Isaac breathed his last and died. He was gathered to his people, old and full of many days, and his sons Esau and Jacob buried him.
 
 #### Ages 8-10
-Isaac breathed his last and died, and he was gathered to his people, old and full of days. His sons Esau and Jacob buried him.
+Isaac breathed his last and died, and he was gathered to his people, old and full of many days. His sons Esau and Jacob buried him.
 
 ---
 

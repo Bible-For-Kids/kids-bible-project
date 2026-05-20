@@ -16,10 +16,10 @@ Genesis 40 continues the covenant family story. Joseph interprets the cupbearer'
 **Original Reference**: Genesis 40:1 - After these things, the butler of the king of Egypt and his baker offended their lord, the king of Egypt.
 
 #### Ages 5-7
-After these things, the king of Egypt's cupbearer and baker did something that offended their lord, the king of Egypt.
+After these things, the king of Egypt's cupbearer, the man who served his drink, and his baker did something that offended their lord, the king of Egypt.
 
 #### Ages 8-10
-After these things, the cupbearer of the king of Egypt and his baker offended their lord, the king of Egypt.
+After these things, the cupbearer of the king of Egypt, the man who served his drink, and his baker offended their lord, the king of Egypt.
 
 ---
 
@@ -27,10 +27,10 @@ After these things, the cupbearer of the king of Egypt and his baker offended th
 **Original Reference**: Genesis 40:2 - Pharaoh was angry with his two officers, the chief cup bearer and the chief baker.
 
 #### Ages 5-7
-Pharaoh was angry with two of his officers: the chief cupbearer and the chief baker.
+Pharaoh was angry with two of his officers: the head cupbearer and the head baker.
 
 #### Ages 8-10
-Pharaoh was angry with two of his officers, the chief cupbearer and the chief baker.
+Pharaoh was angry with two of his officers, the head cupbearer and the head baker.
 
 ---
 
@@ -107,10 +107,10 @@ He asked Pharaoh's officers who were with him in his master's prison, "Why do yo
 **Original Reference**: Genesis 40:8 - They said to him, "We have dreamed a dream, and there is no one who can interpret it." Joseph said to them, "Don't interpretations belong to God? Please tell it to me."
 
 #### Ages 5-7
-They said to him, "We have dreamed dreams, and there is no one to explain them." Joseph said to them, "Do not explanations belong to God? Please tell me your dreams."
+They said to him, "We have dreamed dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings belong to God? Please tell me your dreams."
 
 #### Ages 8-10
-They said, "We have had dreams, and there is no one to interpret them." Joseph said, "Do not interpretations belong to God? Please tell me the dreams."
+They said, "We have had dreams, and there is no one to explain what they mean." Joseph said, "Do not the meanings belong to God? Please tell me the dreams."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -126,10 +126,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 40:9 - The chief cup bearer told his dream to Joseph, and said to him, "In my dream, behold, a vine was in front of me,
 
 #### Ages 5-7
-The chief cupbearer told his dream to Joseph. He said, "In my dream, there was a vine in front of me.
+The head cupbearer told his dream to Joseph. He said, "In my dream, there was a vine in front of me.
 
 #### Ages 8-10
-The chief cupbearer told his dream to Joseph and said, "In my dream, a vine was before me.
+The head cupbearer told his dream to Joseph and said, "In my dream, a vine was before me.
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -165,7 +165,7 @@ Pharaoh's cup was in my hand. I took the grapes, pressed them into Pharaoh's cup
 Joseph said to him, "This is what it means: the three branches are three days.
 
 #### Ages 8-10
-Joseph said to him, "This is the interpretation: the three branches are three days.
+Joseph said to him, "This is what it means: the three branches are three days.
 
 **Key Vocabulary**:
 - interpretation: Explaining the meaning of a dream or message
@@ -176,10 +176,10 @@ Joseph said to him, "This is the interpretation: the three branches are three da
 **Original Reference**: Genesis 40:13 - Within three more days, Pharaoh will lift up your head, and restore you to your office. You will give Pharaoh's cup into his hand, the way you did when you were his cup bearer.
 
 #### Ages 5-7
-Within three days Pharaoh will lift up your head and restore you to your place. You will put Pharaoh's cup into his hand just as you used to do when you were his cupbearer.
+Within three days Pharaoh will lift up your head, honor you again, and restore you to your place. You will put Pharaoh's cup into his hand just as you used to do when you were his cupbearer.
 
 #### Ages 8-10
-Within three days Pharaoh will lift up your head and restore you to your place. You will give Pharaoh's cup into his hand as you did before when you were his cupbearer.
+Within three days Pharaoh will lift up your head, honor you again, and restore you to your place. You will give Pharaoh's cup into his hand as you did before when you were his cupbearer.
 
 ---
 
@@ -198,10 +198,13 @@ But remember me when it goes well with you. Please show kindness to me, mention 
 **Original Reference**: Genesis 40:15 - For indeed, I was stolen away out of the land of the Hebrews, and here also I have done nothing that they should put me into the dungeon."
 
 #### Ages 5-7
-I was truly stolen away from the land of the Hebrews, and here also I have done nothing that should have put me into this dungeon."
+I was truly stolen away from the land of the Hebrews, and here also I have done nothing that should have put me into this prison."
 
 #### Ages 8-10
-I was stolen away from the land of the Hebrews, and here also I have done nothing that they should put me into the dungeon."
+I was stolen away from the land of the Hebrews, and here also I have done nothing that they should put me into this prison."
+
+**Key Vocabulary**:
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -209,10 +212,10 @@ I was stolen away from the land of the Hebrews, and here also I have done nothin
 **Original Reference**: Genesis 40:16 - When the chief baker saw that the interpretation was good, he said to Joseph, "I also was in my dream, and behold, three baskets of white bread were on my head.
 
 #### Ages 5-7
-When the chief baker saw that the meaning was good, he said to Joseph, "I also had a dream. There were three white baskets on my head.
+When the head baker saw that the meaning was good, he said to Joseph, "I also had a dream. There were three white baskets on my head.
 
 #### Ages 8-10
-When the chief baker saw that the interpretation was good, he said to Joseph, "I also had a dream. There were three white baskets on my head.
+When the head baker saw that the meaning was good, he said to Joseph, "I also had a dream. There were three white baskets on my head.
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -238,7 +241,7 @@ In the top basket were all kinds of baked foods for Pharaoh, and the birds were 
 Joseph answered, "This is what it means: the three baskets are three days.
 
 #### Ages 8-10
-Joseph answered, "This is the interpretation: the three baskets are three days.
+Joseph answered, "This is what it means: the three baskets are three days.
 
 **Key Vocabulary**:
 - interpretation: Explaining the meaning of a dream or message
@@ -249,10 +252,10 @@ Joseph answered, "This is the interpretation: the three baskets are three days.
 **Original Reference**: Genesis 40:19 - Within three more days, Pharaoh will lift up your head from off you, and will hang you on a tree; and the birds will eat your flesh from off you."
 
 #### Ages 5-7
-Within three days Pharaoh will lift up your head from you and hang you on a tree, and the birds will eat your flesh from you."
+Within three days Pharaoh will take your life and hang your body on a tree, and the birds will eat from your body."
 
 #### Ages 8-10
-Within three days Pharaoh will lift up your head from you and hang you on a tree, and the birds will eat your flesh from you."
+Within three days Pharaoh will take your life and hang your body on a tree, and the birds will eat from your body."
 
 ---
 
@@ -260,10 +263,10 @@ Within three days Pharaoh will lift up your head from you and hang you on a tree
 **Original Reference**: Genesis 40:20 - On the third day, which was Pharaoh's birthday, he made a feast for all his servants, and he lifted up the head of the chief cup bearer and the head of the chief baker among his servants.
 
 #### Ages 5-7
-On the third day, Pharaoh's birthday, Pharaoh made a feast for all his servants. Among his servants, he lifted up the heads of the chief cupbearer and the chief baker.
+On the third day, Pharaoh's birthday, Pharaoh made a feast for all his servants. Among his servants, he brought forward the head cupbearer and the head baker.
 
 #### Ages 8-10
-On the third day, Pharaoh's birthday, he made a feast for all his servants. He lifted up the heads of the chief cupbearer and the chief baker among his servants.
+On the third day, Pharaoh's birthday, he made a feast for all his servants. He brought forward the head cupbearer and the head baker among his servants.
 
 ---
 
@@ -271,10 +274,10 @@ On the third day, Pharaoh's birthday, he made a feast for all his servants. He l
 **Original Reference**: Genesis 40:21 - He restored the chief cup bearer to his position again, and he gave the cup into Pharaoh's hand;
 
 #### Ages 5-7
-He restored the chief cupbearer to his work again, and the cupbearer placed the cup into Pharaoh's hand.
+He restored the head cupbearer to his work again, and the cupbearer placed the cup into Pharaoh's hand.
 
 #### Ages 8-10
-He restored the chief cupbearer to his position, and the cupbearer placed the cup in Pharaoh's hand.
+He restored the head cupbearer to his position, and the cupbearer placed the cup in Pharaoh's hand.
 
 ---
 
@@ -282,10 +285,10 @@ He restored the chief cupbearer to his position, and the cupbearer placed the cu
 **Original Reference**: Genesis 40:22 - but he hanged the chief baker, as Joseph had interpreted to them.
 
 #### Ages 5-7
-But Pharaoh hanged the chief baker, just as Joseph had explained to them.
+But Pharaoh hanged the head baker, just as Joseph had explained to them.
 
 #### Ages 8-10
-But Pharaoh hanged the chief baker, just as Joseph had interpreted to them.
+But Pharaoh hanged the head baker, just as Joseph had interpreted to them.
 
 ---
 
@@ -293,10 +296,10 @@ But Pharaoh hanged the chief baker, just as Joseph had interpreted to them.
 **Original Reference**: Genesis 40:23 - Yet the chief cup bearer didn't remember Joseph, but forgot him.
 
 #### Ages 5-7
-Yet the chief cupbearer did not remember Joseph. He forgot him.
+Yet the head cupbearer did not remember Joseph. He forgot him.
 
 #### Ages 8-10
-Yet the chief cupbearer did not remember Joseph. He forgot him.
+Yet the head cupbearer did not remember Joseph. He forgot him.
 
 ---
 
@@ -311,10 +314,10 @@ Joseph interprets the cupbearer's and baker's dreams in prison, and the dreams c
 ## Memory Verses by Age
 
 ### Ages 5-7
-They said to him, "We have dreamed dreams, and there is no one to explain them." Joseph said to them, "Do not explanations belong to God? Please tell me your dreams." - Genesis 40:8
+They said to him, "We have dreamed dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings belong to God? Please tell me your dreams." - Genesis 40:8
 
 ### Ages 8-10
-They said, "We have had dreams, and there is no one to interpret them." Joseph said, "Do not interpretations belong to God? Please tell me the dreams." - Genesis 40:8
+They said, "We have had dreams, and there is no one to explain what they mean." Joseph said, "Do not the meanings belong to God? Please tell me the dreams." - Genesis 40:8
 
 ## Discussion Questions by Age
 

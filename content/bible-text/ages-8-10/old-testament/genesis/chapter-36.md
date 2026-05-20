@@ -18,10 +18,10 @@ Esau married women from the daughters of Canaan: Adah, daughter of Elon the Hitt
 He also married Bashemath, Ishmael's daughter and Nebajoth's sister.
 
 ### Genesis 36:4
-Adah bore Eliphaz to Esau, and Bashemath bore Reuel.
+Adah had a son for Esau named Eliphaz, and Bashemath had a son named Reuel.
 
 ### Genesis 36:5
-Aholibamah bore Jeush, Jaalam, and Korah. These were Esau's sons, born to him in the land of Canaan.
+Aholibamah had Jeush, Jaalam, and Korah. These were Esau's sons, born to him in the land of Canaan.
 
 ### Genesis 36:6
 Esau took his wives, his sons, his daughters, everyone in his household, his cattle, all his animals, and all the possessions he had gained in Canaan, and he moved to another country away from his brother Jacob.
@@ -42,34 +42,34 @@ These are the names of Esau's sons: Eliphaz, son of Esau's wife Adah, and Reuel,
 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ### Genesis 36:12
-Timna was a concubine of Esau's son Eliphaz, and she bore Amalek to Eliphaz. These were the descendants of Esau's wife Adah.
+Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
 
 ### Genesis 36:13
 The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Esau's wife Bashemath.
 
 ### Genesis 36:14
-These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughter of Zibeon: she bore Jeush, Jaalam, and Korah to Esau.
+These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughter of Zibeon: she had Jeush, Jaalam, and Korah for Esau.
 
 ### Genesis 36:15
-These were the chiefs among Esau's sons: from Eliphaz, Esau's firstborn, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+These were the leaders among Esau's sons: from Eliphaz, Esau's firstborn, came leader Teman, leader Omar, leader Zepho, and leader Kenaz.
 
 ### Genesis 36:16
-Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
 
 ### Genesis 36:17
-These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom and were descendants of Esau's wife Bashemath.
+These were the sons of Esau's son Reuel: leader Nahath, leader Zerah, leader Shammah, and leader Mizzah. These leaders came from Reuel in the land of Edom and were descendants of Esau's wife Bashemath.
 
 ### Genesis 36:18
-These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, daughter of Anah and wife of Esau.
+These were the sons of Esau's wife Aholibamah: leader Jeush, leader Jaalam, and leader Korah. These leaders came from Aholibamah, daughter of Anah and wife of Esau.
 
 ### Genesis 36:19
-These were the sons of Esau, who is Edom, and these were their chiefs.
+These were the sons of Esau, who is Edom, and these were their leaders.
 
 ### Genesis 36:20
 These were the sons of Seir the Horite, who lived in the land: Lotan, Shobal, Zibeon, Anah,
 
 ### Genesis 36:21
-Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+Dishon, Ezer, and Dishan. These were the leaders of the Horites, the children of Seir in the land of Edom.
 
 ### Genesis 36:22
 Lotan's children were Hori and Hemam, and Lotan's sister was Timna.
@@ -93,10 +93,10 @@ Ezer's children were Bilhan, Zaavan, and Akan.
 Dishan's children were Uz and Aran.
 
 ### Genesis 36:29
-These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+These were the leaders who came from the Horites: leader Lotan, leader Shobal, leader Zibeon, leader Anah,
 
 ### Genesis 36:30
-chief Dishon, chief Ezer, and chief Dishan. These were the Horite chiefs according to their places in the land of Seir.
+leader Dishon, leader Ezer, and leader Dishan. These were the Horite leaders according to their places in the land of Seir.
 
 ### Genesis 36:31
 These were the kings who ruled in the land of Edom before any king ruled over the children of Israel.
@@ -126,13 +126,13 @@ When Saul died, Baal-hanan son of Achbor ruled in his place.
 When Baal-hanan son of Achbor died, Hadar ruled in his place. His city was named Pau, and his wife's name was Mehetabel, daughter of Matred and granddaughter of Mezahab.
 
 ### Genesis 36:40
-These are the names of the chiefs who came from Esau, listed by their families, places, and names: chief Timnah, chief Alvah, chief Jetheth,
+These are the names of the leaders who came from Esau, listed by their families, places, and names: leader Timnah, leader Alvah, leader Jetheth,
 
 ### Genesis 36:41
-chief Aholibamah, chief Elah, chief Pinon,
+leader Aholibamah, leader Elah, leader Pinon,
 
 ### Genesis 36:42
-chief Kenaz, chief Teman, chief Mibzar,
+leader Kenaz, leader Teman, leader Mibzar,
 
 ### Genesis 36:43
-chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites.
+leader Magdiel, and leader Iram. These were the leaders of Edom, according to their settlements in the land they lived in. Esau was the father of the Edomites.

@@ -49,10 +49,10 @@ His master saw that the Lord was with Joseph and that the Lord made everything h
 **Original Reference**: Genesis 39:4 - Joseph found favor in his sight. He ministered to him, and Potiphar made him overseer over his house, and all that he had he put into his hand.
 
 #### Ages 5-7
-Joseph found favor in Potiphar's sight and served him. Potiphar put Joseph in charge of his house and placed everything he had under Joseph's care.
+Potiphar was pleased with Joseph and trusted him as his servant. Potiphar put Joseph in charge of his house and placed everything he had under Joseph's care.
 
 #### Ages 8-10
-Joseph found favor in Potiphar's sight and served him. Potiphar made him overseer of his house and put everything he owned into Joseph's hand.
+Potiphar was pleased with Joseph and trusted him as his servant. Potiphar made him the manager of his house and put everything he owned into Joseph's hand.
 
 **Key Vocabulary**:
 - favor: Kindness or grace shown to someone
@@ -66,7 +66,7 @@ Joseph found favor in Potiphar's sight and served him. Potiphar made him oversee
 From the time Potiphar put Joseph in charge of his house and all he owned, the Lord blessed the Egyptian's house because of Joseph. The Lord's blessing was on everything Potiphar had, both in the house and in the field.
 
 #### Ages 8-10
-From the time Potiphar made Joseph overseer of his house and all he owned, the Lord blessed the Egyptian's house for Joseph's sake. The Lord's blessing was on all he had, in the house and in the field.
+From the time Potiphar made Joseph manager of his house and all he owned, the Lord blessed the Egyptian's house for Joseph's sake. The Lord's blessing was on all he had, in the house and in the field.
 
 ---
 
@@ -74,13 +74,10 @@ From the time Potiphar made Joseph overseer of his house and all he owned, the L
 **Original Reference**: Genesis 39:6 - He left all that he had in Joseph's hand. He didn't concern himself with anything, except for the food which he ate. Joseph was well-built and handsome.
 
 #### Ages 5-7
-Potiphar left everything he had in Joseph's care. He did not worry about anything except the food he ate. Joseph was handsome and well favored.
+Potiphar left everything he had in Joseph's care. He did not worry about anything except the food he ate. Joseph was handsome and good-looking.
 
 #### Ages 8-10
-Potiphar left all he had in Joseph's hand, and he paid attention to nothing except the food he ate. Joseph was handsome and well favored.
-
-**Key Vocabulary**:
-- favor: Kindness or grace shown to someone
+Potiphar left all he had in Joseph's hand, and he paid attention to nothing except the food he ate. Joseph was handsome and good-looking.
 
 ---
 
@@ -88,10 +85,10 @@ Potiphar left all he had in Joseph's hand, and he paid attention to nothing exce
 **Original Reference**: Genesis 39:7 - After these things, his master's wife set her eyes on Joseph; and she said, "Lie with me."
 
 #### Ages 5-7
-After these things, Potiphar's wife looked at Joseph and said, "Lie with me."
+After these things, Potiphar's wife looked at Joseph and said, "Be with me in a way that only a husband and wife should be."
 
 #### Ages 8-10
-After these things, his master's wife looked at Joseph and said, "Lie with me."
+After these things, his master's wife looked at Joseph and said, "Be with me in a way that only a husband and wife should be."
 
 ---
 
@@ -110,10 +107,10 @@ But Joseph refused and said to his master's wife, "My master does not concern hi
 **Original Reference**: Genesis 39:9 - No one is greater in this house than I am, and he has not kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and sin against God?"
 
 #### Ages 5-7
-No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then could I do this great wickedness and sin against God?"
+No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then could I do this great evil thing and sin against God?"
 
 #### Ages 8-10
-No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then can I do this great wickedness and sin against God?"
+No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then can I do this great evil thing and sin against God?"
 
 **Translation Notes**:
 Joseph names the temptation as sin against God, not only a wrong against Potiphar.
@@ -124,10 +121,10 @@ Joseph names the temptation as sin against God, not only a wrong against Potipha
 **Original Reference**: Genesis 39:10 - As she spoke to Joseph day by day, he didn't listen to her, to lie by her, or to be with her.
 
 #### Ages 5-7
-She spoke to Joseph day after day, but he would not listen to her. He would not lie beside her or be with her.
+She spoke to Joseph day after day, but he would not listen to her. He would not do that wrong thing with her or stay close to her.
 
 #### Ages 8-10
-She spoke to Joseph day after day, but he would not listen to her, lie beside her, or be with her.
+She spoke to Joseph day after day, but he would not listen to her, do that wrong thing with her, or be with her.
 
 ---
 
@@ -146,10 +143,10 @@ About that time Joseph went into the house to do his work, and none of the men o
 **Original Reference**: Genesis 39:12 - She caught him by his garment, saying, "Lie with me!" He left his garment in her hand, and ran outside.
 
 #### Ages 5-7
-She grabbed Joseph by his garment and said, "Lie with me." But Joseph left his garment in her hand, ran away, and went outside.
+She grabbed Joseph by his clothing and said, "Be with me in that way." But Joseph left his clothing in her hand, ran away, and went outside.
 
 #### Ages 8-10
-She caught him by his garment and said, "Lie with me." Joseph left his garment in her hand, fled, and went outside.
+She caught him by his clothing and said, "Be with me in that way." Joseph left his clothing in her hand, ran away, and went outside.
 
 ---
 
@@ -157,10 +154,10 @@ She caught him by his garment and said, "Lie with me." Joseph left his garment i
 **Original Reference**: Genesis 39:13 - When she saw that he had left his garment in her hand, and had run outside,
 
 #### Ages 5-7
-When she saw that Joseph had left his garment in her hand and had run outside,
+When she saw that Joseph had left his clothing in her hand and had run outside,
 
 #### Ages 8-10
-When she saw that he had left his garment in her hand and had fled outside,
+When she saw that he had left his clothing in her hand and had run outside,
 
 ---
 
@@ -168,10 +165,10 @@ When she saw that he had left his garment in her hand and had fled outside,
 **Original Reference**: Genesis 39:14 - she called to the men of her house, and spoke to them, saying, "Behold, he has brought a Hebrew in to us to mock us. He came in to me to lie with me, and I cried with a loud voice.
 
 #### Ages 5-7
-she called to the men of her house and said, "See, he has brought a Hebrew man among us to shame us. He came in to me to lie with me, and I cried out with a loud voice.
+she called to the men of her house and said, "See, he has brought a Hebrew man among us to shame us and do wrong to us. He came near me to be with me in that wrong way, and I cried out with a loud voice.
 
 #### Ages 8-10
-she called to the men of her house and said, "See, he has brought a Hebrew man to us to shame us. He came in to me to lie with me, and I cried out with a loud voice.
+she called to the men of her house and said, "See, he has brought a Hebrew man to us to shame us and do wrong to us. He came near me to be with me in that wrong way, and I cried out with a loud voice.
 
 ---
 
@@ -179,10 +176,10 @@ she called to the men of her house and said, "See, he has brought a Hebrew man t
 **Original Reference**: Genesis 39:15 - When he heard that I lifted up my voice and cried, he left his garment by me, and ran outside."
 
 #### Ages 5-7
-When he heard me lift up my voice and cry, he left his garment with me, ran away, and went outside."
+When he heard me lift up my voice and cry, he left his clothing with me, ran away, and went outside."
 
 #### Ages 8-10
-When he heard me lift up my voice and cry, he left his garment with me, fled, and went outside."
+When he heard me lift up my voice and cry, he left his clothing with me, ran away, and went outside."
 
 ---
 
@@ -190,10 +187,10 @@ When he heard me lift up my voice and cry, he left his garment with me, fled, an
 **Original Reference**: Genesis 39:16 - She laid up his garment by her, until his master came home.
 
 #### Ages 5-7
-She kept Joseph's garment beside her until his master came home.
+She kept Joseph's clothing beside her until his master came home.
 
 #### Ages 8-10
-She kept his garment beside her until his master came home.
+She kept his clothing beside her until his master came home.
 
 ---
 
@@ -201,10 +198,10 @@ She kept his garment beside her until his master came home.
 **Original Reference**: Genesis 39:17 - She spoke to him according to these words, saying, "The Hebrew servant, whom you have brought to us, came in to me to mock me,
 
 #### Ages 5-7
-Then she told Potiphar the same story, saying, "The Hebrew servant you brought to us came in to me to shame me.
+Then she told Potiphar the same story, saying, "The Hebrew servant you brought to us came near me to shame me and do wrong to me.
 
 #### Ages 8-10
-Then she spoke to him with the same words, saying, "The Hebrew servant you brought to us came in to me to shame me.
+Then she spoke to him with the same words, saying, "The Hebrew servant you brought to us came near me to shame me and do wrong to me.
 
 ---
 
@@ -212,10 +209,10 @@ Then she spoke to him with the same words, saying, "The Hebrew servant you broug
 **Original Reference**: Genesis 39:18 - and as I lifted up my voice and cried, he left his garment by me, and ran outside."
 
 #### Ages 5-7
-When I lifted up my voice and cried, he left his garment with me and ran outside."
+When I lifted up my voice and cried, he left his clothing with me and ran outside."
 
 #### Ages 8-10
-When I lifted up my voice and cried, he left his garment with me and fled outside."
+When I lifted up my voice and cried, he left his clothing with me and ran outside."
 
 ---
 
@@ -248,7 +245,7 @@ Joseph's master took him and put him into the prison, the place where the king's
 **Original Reference**: Genesis 39:21 - But Yahweh was with Joseph, and showed kindness to him, and gave him favor in the sight of the keeper of the prison.
 
 #### Ages 5-7
-But the Lord was with Joseph and showed him mercy, giving him favor in the sight of the keeper of the prison.
+But the Lord was with Joseph and showed him mercy, giving him kindness and favor in the sight of the keeper of the prison.
 
 #### Ages 8-10
 But the Lord was with Joseph, showed him mercy, and gave him favor in the sight of the keeper of the prison.
@@ -304,7 +301,7 @@ The Lord is with Joseph in Potiphar's house and in prison, even when Joseph is f
 ## Memory Verses by Age
 
 ### Ages 5-7
-But the Lord was with Joseph and showed him mercy, giving him favor in the sight of the keeper of the prison. - Genesis 39:21
+But the Lord was with Joseph and showed him mercy, giving him kindness and favor in the sight of the keeper of the prison. - Genesis 39:21
 
 ### Ages 8-10
 But the Lord was with Joseph, showed him mercy, and gave him favor in the sight of the keeper of the prison. - Genesis 39:21

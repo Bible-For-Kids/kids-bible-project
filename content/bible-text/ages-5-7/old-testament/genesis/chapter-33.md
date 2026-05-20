@@ -30,7 +30,7 @@ Then the servant-women came near with their children, and they bowed down.
 Leah and her children also came near and bowed down. After them, Joseph and Rachel came near and bowed down.
 
 ### Genesis 33:8
-Esau asked, "What did you mean by all those herds I met?" Jacob answered, "They were to find kindness in my lord's eyes."
+Esau asked, "What did you mean by all those groups of animals I met?" Jacob answered, "They were to find kindness in my lord's eyes."
 
 ### Genesis 33:9
 Esau said, "I have enough, my brother. Keep what you have."
@@ -45,7 +45,7 @@ Jacob said, "No, please. If you are pleased with me, accept my gift from my hand
 Then Esau said, "Let us start our journey. I will go ahead of you."
 
 ### Genesis 33:13
-Jacob said to him, "My lord knows that the children are tender, and the flocks and herds have young ones with them. If they are driven too hard for one day, all the flock may die.
+Jacob said to him, "My lord knows that the children are young, and the flocks and herds have young ones with them. If they are driven too hard for one day, all the flock may die.
 
 ### Genesis 33:14
 "Please let my lord go ahead of his servant. I will move slowly, at the pace of the animals and the children, until I come to my lord in Seir."
@@ -66,4 +66,4 @@ After Jacob came from Padan-aram, he arrived safely at the city of Shechem in th
 He bought the piece of field where he had set up his tent from the sons of Hamor, Shechem's father, for one hundred pieces of money.
 
 ### Genesis 33:20
-There Jacob built an altar and called it El-elohe-Israel.
+There Jacob built an altar and called it El-elohe-Israel, which means "God, the God of Israel."

@@ -96,7 +96,7 @@ He said to them, "I can see that your father's attitude toward me has changed, b
 "If he said, 'The speckled animals will be your pay,' then the flocks had speckled young. If he said, 'The streaked animals will be your pay,' then the flocks had streaked young.
 
 #### Ages 8-10
-"If he said, 'The speckled animals will be your wages,' then all the flock bore speckled young. If he said, 'The streaked animals will be your wages,' then all the flock bore streaked young.
+"If he said, 'The speckled animals will be your wages,' then all the flock had speckled young. If he said, 'The streaked animals will be your wages,' then all the flock had streaked young.
 
 ---
 
@@ -148,10 +148,10 @@ He said to them, "I can see that your father's attitude toward me has changed, b
 **Original Reference**: Genesis 31:13 - I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me. Now arise, get out from this land, and return to the land of your birth.' "
 
 #### Ages 5-7
-"'I am the God of Bethel, where you poured oil on the stone pillar and made a promise to me. Now get up, leave this land, and return to the land of your family.'"
+"'I am the God of Bethel, where you poured oil on the stone marker and made a promise to me. Now get up, leave this land, and return to the land of your family.'"
 
 #### Ages 8-10
-"'I am the God of Bethel, where you anointed the stone pillar and made a vow to me. Now get up, leave this land, and return to the land of your relatives.'"
+"'I am the God of Bethel, where you poured oil on the stone marker and made a serious promise to me. Now get up, leave this land, and return to the land of your relatives.'"
 
 ---
 
@@ -162,7 +162,7 @@ He said to them, "I can see that your father's attitude toward me has changed, b
 Rachel and Leah answered Jacob, "Is there any share or gift left for us in our father's house?
 
 #### Ages 8-10
-Rachel and Leah answered him, "Do we still have any share or inheritance in our father's house?
+Rachel and Leah answered him, "Do we still have any share or family gift left in our father's house?
 
 ---
 
@@ -214,10 +214,10 @@ He drove away all his livestock and took all the possessions he had gained in Pa
 **Original Reference**: Genesis 31:19 - Now Laban had gone to shear his sheep; and Rachel stole the teraphim that were her father's.
 
 #### Ages 5-7
-While Laban had gone to shear his sheep, Rachel stole her father's household idols.
+While Laban had gone to cut the wool from his sheep, Rachel stole her father's household idols, the false gods kept in his home.
 
 #### Ages 8-10
-While Laban had gone to shear his sheep, Rachel stole her father's household idols.
+While Laban had gone to cut the wool from his sheep, Rachel stole her father's household idols, the false gods kept in his home.
 
 **Key Vocabulary**:
 - idols: A key word that helps explain this chapter.
@@ -228,10 +228,10 @@ While Laban had gone to shear his sheep, Rachel stole her father's household ido
 **Original Reference**: Genesis 31:20 - Jacob deceived Laban the Syrian, in that he didn't tell him that he was running away.
 
 #### Ages 5-7
-Jacob left secretly from Laban the Syrian. He did not tell Laban he was running away.
+Jacob left secretly from Laban the Aramean. He did not tell Laban he was running away.
 
 #### Ages 8-10
-Jacob left secretly from Laban the Syrian, not telling him that he was leaving.
+Jacob left secretly from Laban the Aramean, not telling him that he was leaving.
 
 ---
 
@@ -239,10 +239,10 @@ Jacob left secretly from Laban the Syrian, not telling him that he was leaving.
 **Original Reference**: Genesis 31:21 - So he fled with all that he had. He rose up, passed over the River, and set his face toward the mountain of Gilead.
 
 #### Ages 5-7
-Jacob fled with everything he had. He crossed the river and headed toward the hill country of Gilead.
+Jacob ran away with everything he had. He crossed the river and headed toward the hill country of Gilead.
 
 #### Ages 8-10
-Jacob fled with everything he had. He crossed the river and headed toward the hill country of Gilead.
+Jacob ran away with everything he had. He crossed the river and headed toward the hill country of Gilead.
 
 ---
 
@@ -253,7 +253,7 @@ Jacob fled with everything he had. He crossed the river and headed toward the hi
 On the third day, Laban was told that Jacob had run away.
 
 #### Ages 8-10
-On the third day, Laban was told that Jacob had fled.
+On the third day, Laban was told that Jacob had run away.
 
 ---
 
@@ -275,10 +275,10 @@ Laban took his relatives with him and chased Jacob for seven days, catching up w
 **Original Reference**: Genesis 31:24 - God came to Laban the Syrian in a dream of the night, and said to him, "Be careful that you don't speak to Jacob either good or bad."
 
 #### Ages 5-7
-But God came to Laban the Syrian in a dream at night and said, "Be careful. Do not speak to Jacob for good or for harm."
+But God came to Laban the Aramean in a dream at night and said, "Be careful. Do not try to turn Jacob back with kind words or threats."
 
 #### Ages 8-10
-God came to Laban the Syrian in a dream at night and said, "Be careful not to speak to Jacob either for good or for harm."
+God came to Laban the Aramean in a dream at night and said, "Be careful not to try to turn Jacob back with kind words or threats."
 
 ---
 
@@ -300,7 +300,7 @@ Laban caught up with Jacob. Jacob had pitched his tent on the mountain, and Laba
 Laban said to Jacob, "What have you done? You left secretly and carried away my daughters as if they were prisoners taken in war.
 
 #### Ages 8-10
-Laban said to Jacob, "What have you done? You slipped away secretly and carried off my daughters like captives taken by the sword.
+Laban said to Jacob, "What have you done? You slipped away secretly and carried off my daughters like prisoners taken by the sword.
 
 ---
 
@@ -330,10 +330,10 @@ Laban said to Jacob, "What have you done? You slipped away secretly and carried 
 **Original Reference**: Genesis 31:29 - It is in the power of my hand to hurt you, but the God of your father spoke to me last night, saying, 'Be careful that you don't speak to Jacob either good or bad.'
 
 #### Ages 5-7
-"I have power to hurt you, but the God of your father spoke to me last night. He said, 'Be careful. Do not speak to Jacob for good or for harm.'
+"I have power to hurt you, but the God of your father spoke to me last night. He said, 'Be careful. Do not try to turn Jacob back with kind words or threats.'
 
 #### Ages 8-10
-"I have the power to hurt you, but the God of your father spoke to me last night and said, 'Be careful not to speak to Jacob either for good or for harm.'
+"I have the power to hurt you, but the God of your father spoke to me last night and said, 'Be careful not to try to turn Jacob back with kind words or threats.'
 
 ---
 
@@ -402,10 +402,10 @@ Rachel had taken the household idols, put them inside the camel saddle, and sat 
 **Original Reference**: Genesis 31:35 - She said to her father, "Don't let my lord be angry that I can't rise up before you; for I'm having my period." He searched, but didn't find the teraphim.
 
 #### Ages 5-7
-Rachel said to her father, "Please do not be angry that I cannot stand up before you. The time of women is upon me." So Laban searched, but he did not find the idols.
+Rachel said to her father, "Please do not be angry that I cannot stand up before you. It is my monthly time as a woman." So Laban searched, but he did not find the idols.
 
 #### Ages 8-10
-Rachel said to her father, "Please do not be angry, my lord, that I cannot stand up before you. The time of women is upon me." So Laban searched but did not find the idols.
+Rachel said to her father, "Please do not be angry, my lord, that I cannot stand up before you. It is my monthly time as a woman." So Laban searched but did not find the idols.
 
 **Key Vocabulary**:
 - idols: A key word that helps explain this chapter.
@@ -441,7 +441,7 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 "I have been with you for twenty years. Your female sheep and goats did not lose their young, and I did not eat the rams from your flock.
 
 #### Ages 8-10
-"I have been with you these twenty years. Your ewes and female goats did not miscarry, and I did not eat the rams from your flock.
+"I have been with you these twenty years. Your female sheep and goats did not lose their young, and I did not eat the rams from your flock.
 
 ---
 
@@ -452,7 +452,7 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 "If a wild animal tore one of your animals, I did not bring it to you. I paid for the loss myself. You made me pay for anything stolen by day or by night.
 
 #### Ages 8-10
-"I did not bring you animals torn by wild beasts; I bore the loss myself. You required payment from me for whatever was stolen by day or by night.
+"I did not bring you animals torn by wild animals; I paid for the loss myself. You required payment from me for whatever was stolen by day or by night.
 
 ---
 
@@ -463,7 +463,7 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 "In the day, the heat wore me out. At night, the cold kept me awake, and sleep left my eyes.
 
 #### Ages 8-10
-"This was my life: heat consumed me during the day, frost chilled me at night, and sleep fled from my eyes.
+"This was my life: heat wore me out during the day, cold chilled me at night, and sleep left my eyes.
 
 ---
 
@@ -482,10 +482,10 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 **Original Reference**: Genesis 31:42 - Unless the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely now you would have sent me away empty. God has seen my affliction and the labor of my hands, and rebuked you last night."
 
 #### Ages 5-7
-"If the God of my father, the God of Abraham and the One Isaac honors, had not been with me, you would have sent me away with nothing. God saw my trouble and the work of my hands, and last night he corrected you."
+"If the God of my father, the God of Abraham and the One Isaac honors and fears, had not been with me, you would have sent me away with nothing. God saw my trouble and the work of my hands, and last night he corrected you."
 
 #### Ages 8-10
-"If the God of my father, the God of Abraham and the One Isaac fears, had not been with me, you would have sent me away empty-handed. God saw my suffering and the labor of my hands, and last night he rebuked you."
+"If the God of my father, the God of Abraham and the One Isaac fears, had not been with me, you would have sent me away empty-handed. God saw my suffering and the work of my hands, and last night he corrected you."
 
 ---
 
@@ -493,10 +493,10 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 **Original Reference**: Genesis 31:43 - Laban answered Jacob, "The daughters are my daughters, the children are my children, the flocks are my flocks, and all that you see is mine! What can I do today to these my daughters, or to their children whom they have borne?
 
 #### Ages 5-7
-Laban answered Jacob, "These daughters are my daughters, these children are my children, and these flocks are my flocks. Everything you see is mine. But what can I do today to my daughters or to the children they have borne?
+Laban answered Jacob, "These daughters are my daughters, these children are my children, and these flocks are my flocks. Everything you see is mine. But what can I do today to my daughters or to the children they have had?
 
 #### Ages 8-10
-Laban answered Jacob, "The daughters are my daughters, the children are my children, and the flocks are my flocks. Everything you see is mine. But what can I do today to these daughters of mine or to the children they have borne?
+Laban answered Jacob, "The daughters are my daughters, the children are my children, and the flocks are my flocks. Everything you see is mine. But what can I do today to these daughters of mine or to the children they have had?
 
 ---
 
@@ -507,7 +507,7 @@ Laban answered Jacob, "The daughters are my daughters, the children are my child
 "Come now. Let us make an agreement, you and I, and let it stand as a witness between us."
 
 #### Ages 8-10
-"Come now, let us make a covenant, you and I, and let it be a witness between us."
+"Come now, let us make a serious agreement, you and I, and let it be a witness between us."
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -518,10 +518,10 @@ Laban answered Jacob, "The daughters are my daughters, the children are my child
 **Original Reference**: Genesis 31:45 - Jacob took a stone, and set it up for a pillar.
 
 #### Ages 5-7
-So Jacob took a stone and set it upright as a pillar.
+So Jacob took a stone and set it upright as a marker.
 
 #### Ages 8-10
-Jacob took a stone and set it up as a pillar.
+Jacob took a stone and set it up as a stone marker.
 
 ---
 
@@ -532,7 +532,7 @@ Jacob took a stone and set it up as a pillar.
 Jacob said to his relatives, "Gather stones." They gathered stones and made a pile, and they ate there beside the pile.
 
 #### Ages 8-10
-Jacob said to his relatives, "Gather stones." They gathered stones and made a heap, and they ate there by the heap.
+Jacob said to his relatives, "Gather stones." They gathered stones and made a pile, and they ate there by the pile.
 
 ---
 
@@ -554,7 +554,7 @@ Laban called it Jegarsahadutha, but Jacob called it Galeed.
 Laban said, "This pile is a witness between you and me today." That is why it was called Galeed.
 
 #### Ages 8-10
-Laban said, "This heap is a witness between you and me today." Therefore it was named Galeed.
+Laban said, "This pile is a witness between you and me today." Therefore it was named Galeed.
 
 ---
 
@@ -587,10 +587,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 31:51 - Laban said to Jacob, "See this heap, and see the pillar, which I have set between me and you.
 
 #### Ages 5-7
-Laban also said to Jacob, "Look at this pile and look at this pillar, which I have set between you and me.
+Laban also said to Jacob, "Look at this pile and look at this stone marker, which I have set between you and me.
 
 #### Ages 8-10
-Laban said to Jacob, "Look at this heap and this pillar that I have set between you and me.
+Laban said to Jacob, "Look at this pile and this stone marker that I have set between you and me.
 
 ---
 
@@ -598,10 +598,10 @@ Laban said to Jacob, "Look at this heap and this pillar that I have set between 
 **Original Reference**: Genesis 31:52 - May this heap be a witness, and the pillar be a witness, that I will not pass over this heap to you, and that you will not pass over this heap and this pillar to me, for harm.
 
 #### Ages 5-7
-"This pile and this pillar are witnesses. I will not go past this pile to harm you, and you will not go past this pile and pillar to harm me.
+"This pile and this stone marker are witnesses. I will not go past this pile to harm you, and you will not go past this pile and stone marker to harm me.
 
 #### Ages 8-10
-"This heap and this pillar are witnesses that I will not cross this heap to harm you, and you will not cross this heap and pillar to harm me.
+"This pile and this stone marker are witnesses that I will not cross this pile to harm you, and you will not cross this pile and stone marker to harm me.
 
 ---
 

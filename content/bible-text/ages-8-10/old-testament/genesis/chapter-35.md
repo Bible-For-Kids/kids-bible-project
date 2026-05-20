@@ -9,16 +9,16 @@ Genesis
 ## Verses
 
 ### Genesis 35:1
-God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau."
+God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you ran away from your brother Esau."
 
 ### Genesis 35:2
-Then Jacob said to his household and to everyone with him, "Put away the foreign gods among you, purify yourselves, and change your clothes.
+Then Jacob said to his household and to everyone with him, "Put away the foreign gods, the false gods among you, purify yourselves, and change your clothes.
 
 ### Genesis 35:3
 "Let us get up and go to Bethel. I will make an altar there to God, who answered me in the day of my distress and was with me on the way I went."
 
 ### Genesis 35:4
-They gave Jacob all the foreign gods they had and the earrings in their ears, and Jacob hid them under the oak near Shechem.
+They gave Jacob all the foreign gods, the false gods they had, and the earrings in their ears, and Jacob hid them under the oak near Shechem.
 
 ### Genesis 35:5
 Then they set out. The terror of God fell on the cities around them, so the people did not chase Jacob's sons.
@@ -27,7 +27,7 @@ Then they set out. The terror of God fell on the cities around them, so the peop
 Jacob came to Luz, that is, Bethel, in the land of Canaan, he and all the people who were with him.
 
 ### Genesis 35:7
-He built an altar there and called the place El-beth-el, because God had appeared to him there when he fled from his brother.
+He built an altar there and called the place El-beth-el, because God had appeared to him there when he ran away from his brother.
 
 ### Genesis 35:8
 Deborah, Rebekah's nurse, died and was buried below Bethel under an oak. The place was named Allon-bachuth.
@@ -48,7 +48,7 @@ God said to him, "I am God Almighty. Be fruitful and multiply. A nation and a co
 Then God went up from him at the place where he had spoken with him.
 
 ### Genesis 35:14
-Jacob set up a pillar of stone in the place where God had spoken with him. He poured a drink offering on it and poured oil on it.
+Jacob set up a stone marker in the place where God had spoken with him. He poured out a drink offering on it and poured oil on it.
 
 ### Genesis 35:15
 Jacob named the place where God had spoken with him Bethel.
@@ -66,13 +66,13 @@ As Rachel's life was leaving her, for she died, she named him Ben-oni. But his f
 Rachel died and was buried on the way to Ephrath, that is, Bethlehem.
 
 ### Genesis 35:20
-Jacob set up a pillar over her grave. It is the pillar of Rachel's grave to this day.
+Jacob set up a stone marker over her grave. It is the marker of Rachel's grave to this day.
 
 ### Genesis 35:21
 Israel traveled on and spread his tent beyond the tower of Edar.
 
 ### Genesis 35:22
-While Israel lived in that land, Reuben did a wrong thing with Bilhah, his father's servant-wife, and Israel heard about it. Now Jacob's sons were twelve.
+While Israel lived in that land, Reuben was with Bilhah, his father's servant-wife, in a way meant only for marriage. This was a wrong thing, and Israel heard about it. Now Jacob's sons were twelve.
 
 ### Genesis 35:23
 The sons of Leah were Reuben, Jacob's firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
@@ -93,4 +93,4 @@ Jacob came to his father Isaac at Mamre, at the city of Arbah, that is, Hebron, 
 Isaac lived one hundred eighty years.
 
 ### Genesis 35:29
-Isaac breathed his last and died, and he was gathered to his people, old and full of days. His sons Esau and Jacob buried him.
+Isaac breathed his last and died, and he was gathered to his people, old and full of many days. His sons Esau and Jacob buried him.

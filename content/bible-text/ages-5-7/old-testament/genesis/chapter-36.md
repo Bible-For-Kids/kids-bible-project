@@ -42,7 +42,7 @@ These are the names of Esau's sons: Eliphaz, the son of Esau's wife Adah, and Re
 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ### Genesis 36:12
-Timna was a concubine of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
+Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
 
 ### Genesis 36:13
 The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the sons connected with Bashemath, Esau's wife.
@@ -51,25 +51,25 @@ The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the sons c
 These were the sons of Esau's wife Aholibamah, the daughter of Anah and granddaughter of Zibeon. She had Jeush, Jaalam, and Korah for Esau.
 
 ### Genesis 36:15
-These were the chiefs from Esau's sons. From Eliphaz, Esau's firstborn son, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+These were the family leaders from Esau's sons. From Eliphaz, Esau's firstborn son, came leader Teman, leader Omar, leader Zepho, and leader Kenaz.
 
 ### Genesis 36:16
-Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
 
 ### Genesis 36:17
-These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
+These were the sons of Esau's son Reuel: leader Nahath, leader Zerah, leader Shammah, and leader Mizzah. These leaders came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
 
 ### Genesis 36:18
-These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, the daughter of Anah and wife of Esau.
+These were the sons of Esau's wife Aholibamah: leader Jeush, leader Jaalam, and leader Korah. These leaders came from Aholibamah, the daughter of Anah and wife of Esau.
 
 ### Genesis 36:19
-These were the sons of Esau, who was also called Edom, and these were their chiefs.
+These were the sons of Esau, who was also called Edom, and these were their leaders.
 
 ### Genesis 36:20
 These were the sons of Seir the Horite, the people who had lived in that land: Lotan, Shobal, Zibeon, Anah,
 
 ### Genesis 36:21
-Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+Dishon, Ezer, and Dishan. These were the leaders of the Horites, the children of Seir in the land of Edom.
 
 ### Genesis 36:22
 The children of Lotan were Hori and Hemam, and Lotan's sister was Timna.
@@ -93,10 +93,10 @@ The children of Ezer were Bilhan, Zaavan, and Akan.
 The children of Dishan were Uz and Aran.
 
 ### Genesis 36:29
-These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+These were the leaders who came from the Horites: leader Lotan, leader Shobal, leader Zibeon, leader Anah,
 
 ### Genesis 36:30
-chief Dishon, chief Ezer, and chief Dishan. These were the chiefs who came from Hori, each in his place among the chiefs in the land of Seir.
+leader Dishon, leader Ezer, and leader Dishan. These were the leaders who came from Hori, each in his place among the leaders in the land of Seir.
 
 ### Genesis 36:31
 These were the kings who ruled in the land of Edom before any king ruled over the children of Israel.
@@ -126,13 +126,13 @@ When Saul died, Baal-hanan, the son of Achbor, ruled in his place.
 When Baal-hanan, the son of Achbor, died, Hadar ruled in his place. The name of his city was Pau, and his wife's name was Mehetabel, the daughter of Matred and granddaughter of Mezahab.
 
 ### Genesis 36:40
-These are the names of the chiefs who came from Esau, listed by their families, their places, and their names: chief Timnah, chief Alvah, chief Jetheth,
+These are the names of the leaders who came from Esau, listed by their families, their places, and their names: leader Timnah, leader Alvah, leader Jetheth,
 
 ### Genesis 36:41
-chief Aholibamah, chief Elah, chief Pinon,
+leader Aholibamah, leader Elah, leader Pinon,
 
 ### Genesis 36:42
-chief Kenaz, chief Teman, chief Mibzar,
+leader Kenaz, leader Teman, leader Mibzar,
 
 ### Genesis 36:43
-chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their homes in the land they possessed. This was Esau, the father of the Edomites.
+leader Magdiel, and leader Iram. These were the leaders of Edom, according to their homes in the land they lived in. This was Esau, the father of the Edomites.

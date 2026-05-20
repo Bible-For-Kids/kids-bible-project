@@ -59,7 +59,7 @@ He also married Bashemath, Ishmael's daughter and Nebajoth's sister.
 Adah had a son for Esau named Eliphaz, and Bashemath had a son named Reuel.
 
 #### Ages 8-10
-Adah bore Eliphaz to Esau, and Bashemath bore Reuel.
+Adah had a son for Esau named Eliphaz, and Bashemath had a son named Reuel.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -73,7 +73,7 @@ Adah bore Eliphaz to Esau, and Bashemath bore Reuel.
 Aholibamah had three sons for Esau: Jeush, Jaalam, and Korah. These were Esau's sons who were born to him in the land of Canaan.
 
 #### Ages 8-10
-Aholibamah bore Jeush, Jaalam, and Korah. These were Esau's sons, born to him in the land of Canaan.
+Aholibamah had Jeush, Jaalam, and Korah. These were Esau's sons, born to him in the land of Canaan.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -167,10 +167,10 @@ The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 **Original Reference**: Genesis 36:12 - Timna was concubine to Eliphaz, Esau's son; and she bore to Eliphaz Amalek. These are the descendants of Adah, Esau's wife.
 
 #### Ages 5-7
-Timna was a concubine of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
+Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
 
 #### Ages 8-10
-Timna was a concubine of Esau's son Eliphaz, and she bore Amalek to Eliphaz. These were the descendants of Esau's wife Adah.
+Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -198,7 +198,7 @@ The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descen
 These were the sons of Esau's wife Aholibamah, the daughter of Anah and granddaughter of Zibeon. She had Jeush, Jaalam, and Korah for Esau.
 
 #### Ages 8-10
-These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughter of Zibeon: she bore Jeush, Jaalam, and Korah to Esau.
+These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughter of Zibeon: she had Jeush, Jaalam, and Korah for Esau.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -209,10 +209,10 @@ These were the sons of Esau's wife Aholibamah, daughter of Anah and granddaughte
 **Original Reference**: Genesis 36:15 - These are the chiefs of the sons of Esau: the sons of Eliphaz the firstborn of Esau: chief Teman, chief Omar, chief Zepho, chief Kenaz,
 
 #### Ages 5-7
-These were the chiefs from Esau's sons. From Eliphaz, Esau's firstborn son, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+These were the family leaders from Esau's sons. From Eliphaz, Esau's firstborn son, came leader Teman, leader Omar, leader Zepho, and leader Kenaz.
 
 #### Ages 8-10
-These were the chiefs among Esau's sons: from Eliphaz, Esau's firstborn, came chief Teman, chief Omar, chief Zepho, and chief Kenaz.
+These were the leaders among Esau's sons: from Eliphaz, Esau's firstborn, came leader Teman, leader Omar, leader Zepho, and leader Kenaz.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -224,10 +224,10 @@ These were the chiefs among Esau's sons: from Eliphaz, Esau's firstborn, came ch
 **Original Reference**: Genesis 36:16 - chief Korah, chief Gatam, chief Amalek. These are the chiefs who came of Eliphaz in the land of Edom. These are the sons of Adah.
 
 #### Ages 5-7
-Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
 
 #### Ages 8-10
-Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
 
 **Key Vocabulary**:
 - Edom: The land and people connected with Esau's family
@@ -239,10 +239,10 @@ Chief Korah, chief Gatam, and chief Amalek also came from Eliphaz in the land of
 **Original Reference**: Genesis 36:17 - These are the sons of Reuel, Esau's son: chief Nahath, chief Zerah, chief Shammah, chief Mizzah. These are the chiefs who came of Reuel in the land of Edom. These are the sons of Basemath, Esau's wife.
 
 #### Ages 5-7
-These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
+These were the sons of Esau's son Reuel: leader Nahath, leader Zerah, leader Shammah, and leader Mizzah. These leaders came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
 
 #### Ages 8-10
-These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah, and chief Mizzah. These chiefs came from Reuel in the land of Edom and were descendants of Esau's wife Bashemath.
+These were the sons of Esau's son Reuel: leader Nahath, leader Zerah, leader Shammah, and leader Mizzah. These leaders came from Reuel in the land of Edom and were descendants of Esau's wife Bashemath.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -255,10 +255,10 @@ These were the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shamma
 **Original Reference**: Genesis 36:18 - These are the sons of Oholibamah, Esau's wife: chief Jeush, chief Jalam, chief Korah. These are the chiefs who came of Oholibamah the daughter of Anah, Esau's wife.
 
 #### Ages 5-7
-These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, the daughter of Anah and wife of Esau.
+These were the sons of Esau's wife Aholibamah: leader Jeush, leader Jaalam, and leader Korah. These leaders came from Aholibamah, the daughter of Anah and wife of Esau.
 
 #### Ages 8-10
-These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and chief Korah. These chiefs came from Aholibamah, daughter of Anah and wife of Esau.
+These were the sons of Esau's wife Aholibamah: leader Jeush, leader Jaalam, and leader Korah. These leaders came from Aholibamah, daughter of Anah and wife of Esau.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -270,10 +270,10 @@ These were the sons of Esau's wife Aholibamah: chief Jeush, chief Jaalam, and ch
 **Original Reference**: Genesis 36:19 - These are the sons of Esau (that is, Edom), and these are their chiefs.
 
 #### Ages 5-7
-These were the sons of Esau, who was also called Edom, and these were their chiefs.
+These were the sons of Esau, who was also called Edom, and these were their leaders.
 
 #### Ages 8-10
-These were the sons of Esau, who is Edom, and these were their chiefs.
+These were the sons of Esau, who is Edom, and these were their leaders.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -297,10 +297,10 @@ These were the sons of Seir the Horite, who lived in the land: Lotan, Shobal, Zi
 **Original Reference**: Genesis 36:21 - Dishon, Ezer, and Dishan. These are the chiefs who came of the Horites, the children of Seir in the land of Edom.
 
 #### Ages 5-7
-Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+Dishon, Ezer, and Dishan. These were the leaders of the Horites, the children of Seir in the land of Edom.
 
 #### Ages 8-10
-Dishon, Ezer, and Dishan. These were the chiefs of the Horites, the children of Seir in the land of Edom.
+Dishon, Ezer, and Dishan. These were the leaders of the Horites, the children of Seir in the land of Edom.
 
 **Key Vocabulary**:
 - Edom: The land and people connected with Esau's family
@@ -389,10 +389,10 @@ Dishan's children were Uz and Aran.
 **Original Reference**: Genesis 36:29 - These are the chiefs who came of the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
 
 #### Ages 5-7
-These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+These were the leaders who came from the Horites: leader Lotan, leader Shobal, leader Zibeon, leader Anah,
 
 #### Ages 8-10
-These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+These were the leaders who came from the Horites: leader Lotan, leader Shobal, leader Zibeon, leader Anah,
 
 **Key Vocabulary**:
 - chief: A leader over a family group or people
@@ -403,10 +403,10 @@ These were the chiefs who came from the Horites: chief Lotan, chief Shobal, chie
 **Original Reference**: Genesis 36:30 - chief Dishon, chief Ezer, and chief Dishan. These are the chiefs who came of the Horites, according to their chiefs in the land of Seir.
 
 #### Ages 5-7
-chief Dishon, chief Ezer, and chief Dishan. These were the chiefs who came from Hori, each in his place among the chiefs in the land of Seir.
+leader Dishon, leader Ezer, and leader Dishan. These were the leaders who came from Hori, each in his place among the leaders in the land of Seir.
 
 #### Ages 8-10
-chief Dishon, chief Ezer, and chief Dishan. These were the Horite chiefs according to their places in the land of Seir.
+leader Dishon, leader Ezer, and leader Dishan. These were the Horite leaders according to their places in the land of Seir.
 
 **Key Vocabulary**:
 - chief: A leader over a family group or people
@@ -523,10 +523,10 @@ When Baal-hanan son of Achbor died, Hadar ruled in his place. His city was named
 **Original Reference**: Genesis 36:40 - These are the names of the chiefs who came from Esau, according to their families, after their places, and by their names: chief Timna, chief Alvah, chief Jetheth,
 
 #### Ages 5-7
-These are the names of the chiefs who came from Esau, listed by their families, their places, and their names: chief Timnah, chief Alvah, chief Jetheth,
+These are the names of the leaders who came from Esau, listed by their families, their places, and their names: leader Timnah, leader Alvah, leader Jetheth,
 
 #### Ages 8-10
-These are the names of the chiefs who came from Esau, listed by their families, places, and names: chief Timnah, chief Alvah, chief Jetheth,
+These are the names of the leaders who came from Esau, listed by their families, places, and names: leader Timnah, leader Alvah, leader Jetheth,
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -538,10 +538,10 @@ These are the names of the chiefs who came from Esau, listed by their families, 
 **Original Reference**: Genesis 36:41 - chief Oholibamah, chief Elah, chief Pinon,
 
 #### Ages 5-7
-chief Aholibamah, chief Elah, chief Pinon,
+leader Aholibamah, leader Elah, leader Pinon,
 
 #### Ages 8-10
-chief Aholibamah, chief Elah, chief Pinon,
+leader Aholibamah, leader Elah, leader Pinon,
 
 **Key Vocabulary**:
 - chief: A leader over a family group or people
@@ -552,10 +552,10 @@ chief Aholibamah, chief Elah, chief Pinon,
 **Original Reference**: Genesis 36:42 - chief Kenaz, chief Teman, chief Mibzar,
 
 #### Ages 5-7
-chief Kenaz, chief Teman, chief Mibzar,
+leader Kenaz, leader Teman, leader Mibzar,
 
 #### Ages 8-10
-chief Kenaz, chief Teman, chief Mibzar,
+leader Kenaz, leader Teman, leader Mibzar,
 
 **Key Vocabulary**:
 - chief: A leader over a family group or people
@@ -566,10 +566,10 @@ chief Kenaz, chief Teman, chief Mibzar,
 **Original Reference**: Genesis 36:43 - chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.
 
 #### Ages 5-7
-chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their homes in the land they possessed. This was Esau, the father of the Edomites.
+leader Magdiel, and leader Iram. These were the leaders of Edom, according to their homes in the land they lived in. This was Esau, the father of the Edomites.
 
 #### Ages 8-10
-chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites.
+leader Magdiel, and leader Iram. These were the leaders of Edom, according to their settlements in the land they lived in. Esau was the father of the Edomites.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
