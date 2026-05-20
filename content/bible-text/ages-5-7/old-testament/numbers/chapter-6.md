@@ -12,7 +12,7 @@ Numbers
 The Lord spoke to Moses, saying,
 
 ### Numbers 6:2
-"Speak to the people of Israel, and tell them: 'When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord,
+"Speak to the people of Israel, and tell them: 'When either a man or a woman makes a special Nazirite promise, to separate himself to the Lord,
 
 ### Numbers 6:3
 he must separate himself from wine and strong drink. He must drink no vinegar of wine, or vinegar of fermented drink, neither must he drink any juice of grapes, nor eat fresh grapes or dried.
@@ -21,7 +21,7 @@ he must separate himself from wine and strong drink. He must drink no vinegar of
 All the days of his separation he must eat nothing that is made of the grapevine, from the seeds even to the skins.
 
 ### Numbers 6:5
-"All the days of his vow of separation no razor will come on his head, until the days are fulfilled in which he separates himself to the Lord. He will be holy. He must let the locks of the hair of his head grow long.
+"All the days of his serious promise of separation no razor will come on his head, until the days are fulfilled in which he separates himself to the Lord. He will be holy. He must let the locks of the hair of his head grow long.
 
 ### Numbers 6:6
 "All the days that he separates himself to the Lord he must not go near a dead body.
@@ -60,7 +60,7 @@ The priest must present them before the Lord, and must offer his offering for si
 He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain gift and its drink gift.
 
 ### Numbers 6:18
-The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair of the hair of his separation, and put it on the fire which is under the sacrifice of peace offerings.
+The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair he shaved from his separated head, and put it on the fire which is under the sacrifice of peace offerings.
 
 ### Numbers 6:19
 The priest must take the boiled shoulder of the male sheep, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
@@ -69,7 +69,7 @@ The priest must take the boiled shoulder of the male sheep, one unleavened cake 
 and the priest must lift them before the Lord as an offering. They are holy for the priest, together with the breast lifted before the Lord and the thigh that is offered. After that the Nazirite may drink wine.
 
 ### Numbers 6:21
-"This is the law of the Nazirite who vows and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.' "
+"This is the law of the Nazirite who makes a serious promise and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his serious promise which he makes, so he must do after the law of his separation.' "
 
 ### Numbers 6:22
 The Lord spoke to Moses, saying,

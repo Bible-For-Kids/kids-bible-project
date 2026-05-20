@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,
 
 ### Numbers 15:3
-and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a serious promise, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 ### Numbers 15:4
 then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil.
@@ -30,7 +30,7 @@ You must prepare wine for the drink offering, one fourth-measure, with the burne
 and for the drink offering you must offer one third-measure of wine, of a pleasing smell to the Lord.
 
 ### Numbers 15:8
-When you prepare a bull for a burned offering or for a sacrifice, to accomplish a vow, or for peace offerings to the Lord,
+When you prepare a bull for a burned offering or for a sacrifice, to accomplish a serious promise, or for peace offerings to the Lord,
 
 ### Numbers 15:9
 then he must offer with the bull a grain offering of three tenth-measures of fine flour mixed with a half-measure of oil;

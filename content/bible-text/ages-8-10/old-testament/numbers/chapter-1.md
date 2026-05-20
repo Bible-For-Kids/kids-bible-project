@@ -21,7 +21,7 @@ from twenty years old and older, all who are able to go out to war in Israel. Yo
 With you there will be a man of every tribe, each one a leader of his family house.
 
 ### Numbers 1:5
-These are the names of the men who must stand with you: Of Reuben: Elizur the son of Shedeur.
+These are the names of the men who must still count with you: Of Reuben: Elizur the son of Shedeur.
 
 ### Numbers 1:6
 Of Simeon: Shelumiel the son of Zurishaddai.

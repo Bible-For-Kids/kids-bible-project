@@ -69,7 +69,7 @@ Set him before Eleazar the priest, and before all the people; and commission him
 You must give authority to him, that all the people of Israel may obey.
 
 ### Numbers 27:21
-He must stand before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the people."
+He must still count before Eleazar the priest, who must inquire for him by the judgment of the Urim before the Lord. At his word they must go out, and at his word they will come in, both he and all the people of Israel with him, even all the people."
 
 ### Numbers 27:22
 Moses did as the Lord commanded him. He took Joshua, and bring him before Eleazar the priest and before all the people.

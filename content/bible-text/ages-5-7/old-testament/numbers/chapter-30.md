@@ -9,49 +9,49 @@ Numbers
 ## Verses
 
 ### Numbers 30:1
-Moses spoke to the leaders of the tribes of the people of Israel, saying, "This is the thing which the Lord has commanded.
+Moses spoke to the leaders of the tribes of the people of Israel, saying, "This is what the Lord has commanded.
 
 ### Numbers 30:2
-When a man vows a vow to the Lord, or swears an oath to bind his person with a bond, he must not break his word. He must do according to all that proceeds out of his mouth.
+When a man makes a serious promise to the Lord, or swears an oath to bind himself with a binding promise, he must not break his word. He must do according to all that he has spoken.
 
 ### Numbers 30:3
-"Also, when a woman vows a vow to the Lord and binds herself by a pledge, being in her family house, in her youth,
+"Also, when a woman makes a serious promise to the Lord and binds herself with a binding promise, while she is young and living in her father's house,
 
 ### Numbers 30:4
-and her father hears her vow and her pledge with which she has bound her person, and her father says nothing to her, then all her vows must stand, and every pledge with which she has bound her person must stand.
+and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still count, and every binding promise with which she has bound herself must still count.
 
 ### Numbers 30:5
-But if her father forbids her in the day that he hears, none of her vows or of her pledges with which she has bound her person, must stand. The Lord will forgive her, because her father has forbidden her.
+But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still count. The Lord will forgive her, because her father has forbidden her.
 
 ### Numbers 30:6
-"If she has a husband, while her vows are on her, or the rash utterance of her lips with which she has bound her person,
+"If she has a husband, while she is under her serious promises, or the quick promise she spoke with which she has bound herself,
 
 ### Numbers 30:7
-and her husband hears it, and says nothing to her in the day that he hears it; then her vows must stand, and her pledges with which she has bound her person must stand.
+and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still count, and her binding promises with which she has bound herself must still count.
 
 ### Numbers 30:8
-But if her husband forbids her in the day that he hears it, then he makes void her vow which is on her and the rash utterance of her lips, with which she has bound her person. The Lord will forgive her.
+But if her husband forbids her on the day he hears it, then he cancels her serious promise which is on her and the quick promise she spoke, with which she has bound herself. The Lord will forgive her.
 
 ### Numbers 30:9
-"But the vow of a widow, or of her who is divorced, everything with which she has bound her person must stand against her.
+"But the serious promise of a widow, or of her who is divorced, everything with which she has bound herself must remain her responsibility.
 
 ### Numbers 30:10
-"If she vowed in her husband's house or bound her person by a bond with an oath,
+"If she made a serious promise in her husband's house or bound herself with an oath,
 
 ### Numbers 30:11
-and her husband heard it, and held his peace at her and didn't disallow her, then all her vows must stand, and every pledge with which she bound her person must stand.
+and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still count, and every binding promise with which she bound herself must still count.
 
 ### Numbers 30:12
-But if her husband made them null and void in the day that he heard them, then whatever proceeded out of her lips concerning her vows, or concerning the bond of her person, must not stand. Her husband has made them void. The Lord will forgive her.
+But if her husband canceled them on the day he heard them, then whatever she spoke concerning her serious promises, or concerning the binding promise she made, must not count. Her husband has canceled them. The Lord will forgive her.
 
 ### Numbers 30:13
-Every vow, and every binding oath to afflict the person, her husband may establish it, or her husband may make it void.
+Every serious promise, and every binding oath that requires her to go without something, her husband may let it stand, or her husband may cancel it.
 
 ### Numbers 30:14
-But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges which are on her. He has established them, because he said nothing to her in the day that he heard them.
+But if her husband says nothing to her from day to day, then he lets all her serious promises stand or all her binding promises which are on her. He has let them stand, because he said nothing to her on the day he heard them.
 
 ### Numbers 30:15
-But if he makes them null and void after he has heard them, then he must bear her sin."
+But if he cancels them after he has heard them, then he must bear her sin."
 
 ### Numbers 30:16
-These are the rules which the Lord commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her family house.
+These are the rules which the Lord commanded Moses, between a man and his wife, between a father and his daughter, while she is young and living in her father's house.

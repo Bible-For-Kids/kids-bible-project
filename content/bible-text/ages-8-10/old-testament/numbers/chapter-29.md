@@ -123,7 +123,7 @@ their grain offering and their drink offerings for the bull, for the male sheep,
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering, and its drink offering.
 
 ### Numbers 29:39
-"You must offer these to the Lord in your set feasts-in addition to your vows and your free will offerings-for your burned offerings, your meal offerings, your drink offerings, and your peace offerings.' "
+"You must offer these to the Lord in your set feasts-in addition to your serious promises and your free will offerings-for your burned offerings, your meal offerings, your drink offerings, and your peace offerings.' "
 
 ### Numbers 29:40
 Moses told the people of Israel according to all that the Lord commanded Moses.

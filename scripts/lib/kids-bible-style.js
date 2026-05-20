@@ -1,6 +1,6 @@
 const path = require('path')
 
-const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['leviticus', 'numbers'])
+const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['leviticus', 'numbers', 'deuteronomy'])
 
 const hardBlockedTerms = [
   {
@@ -66,6 +66,30 @@ const hardBlockedTerms = [
   {
     pattern: /\b(being made clean impurity|sweet sweet-smelling|Holy Holy|person loathes|made holy (it|them)|make holy (it|them)|sweet-smelling incense pan|a incense pan|afflict your people)\b/i,
     message: 'Fix generated phrasing so the verse reads naturally for children.',
+  },
+  {
+    pattern: /\b(bastard|harlot|whore|sodomite)\b/i,
+    message: 'Use child-readable wording for sexual-law terms instead of older adult vocabulary.',
+  },
+  {
+    pattern: /\byour person\b/i,
+    message: 'Use plain whole-self wording such as "all your life" instead of "your person".',
+  },
+  {
+    pattern: /\bpledges?\b/i,
+    message: 'Use child-readable promise or loan-security wording instead of "pledge".',
+  },
+  {
+    pattern: /\babominable\b/i,
+    message: 'Use "detestable" wording instead of the older word "abominable".',
+  },
+  {
+    pattern: /\bis who goes\b/i,
+    message: 'Fix generated phrasing such as "is who goes" so it reads naturally.',
+  },
+  {
+    pattern: /\bstiff neck\b/i,
+    message: 'Use child-readable stubbornness wording instead of "stiff neck".',
   },
 ]
 

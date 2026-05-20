@@ -24,7 +24,7 @@ When the jubilee of the people of Israel comes, then their inheritance will be a
 Moses commanded the people of Israel according to the Lord's word, saying, "The tribe of the sons of Joseph speaks what is right.
 
 ### Numbers 36:6
-This is the thing which the Lord commands concerning the daughters of Zelophehad, saying, 'Let them be married to whom they think best, only they must marry into the family of the tribe of their father.
+This is what the Lord commands about the daughters of Zelophehad, saying, 'Let them be married to whom they think best, only they must marry into the family of the tribe of their father.
 
 ### Numbers 36:7
 So no inheritance of the people of Israel may move from tribe to tribe; for the people of Israel must all keep the inheritance of the tribe of his fathers.

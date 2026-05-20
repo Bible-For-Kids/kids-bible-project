@@ -12,7 +12,7 @@ Numbers
 The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
 ### Numbers 21:2
-Israel vowed a vow to the Lord, and said, "If you will indeed deliver this people into my hand, then I will completely destroy their cities."
+Israel made a serious promise to the Lord, and said, "If you will indeed deliver this people into my hand, then I will completely destroy their cities."
 
 ### Numbers 21:3
 The Lord listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah.
