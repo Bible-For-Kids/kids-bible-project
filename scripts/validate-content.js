@@ -144,6 +144,10 @@ const expectedVerseCounts = {
     18, 24, 17, 24, 15, 27, 26, 35, 27, 43, 23, 24,
     33, 15, 63, 10, 18, 28, 51, 9, 45, 34, 16, 33,
   ]),
+  ...chapterCounts('old-testament/judges', [
+    36, 23, 31, 24, 31, 40, 25, 35, 57, 18, 40, 15,
+    25, 20, 20, 31, 13, 31, 30, 48, 25,
+  ]),
 };
 
 const theologicalGuardrails = [

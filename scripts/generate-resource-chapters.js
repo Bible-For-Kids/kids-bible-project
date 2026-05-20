@@ -7,7 +7,7 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua'];
+const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges'];
 
 const BOOK_NAMES = {
   genesis: 'Genesis',
@@ -16,6 +16,7 @@ const BOOK_NAMES = {
   numbers: 'Numbers',
   deuteronomy: 'Deuteronomy',
   joshua: 'Joshua',
+  judges: 'Judges',
 };
 
 const BOOK_OVERVIEWS = {
@@ -31,6 +32,8 @@ const BOOK_OVERVIEWS = {
     'Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant.',
   joshua:
     'Joshua tells how the Lord brought Israel into the promised land, gave them victories, divided the land, and called them to serve him faithfully.',
+  judges:
+    'Judges shows Israel turning from the Lord again and again, and the Lord raising rescuers while exposing how badly his people needed faithful covenant leadership.',
 };
 
 const CHAPTER_SUMMARIES = {
@@ -71,6 +74,11 @@ const VOCABULARY = {
   Jericho: 'The first city Israel faced after crossing the Jordan',
   Jordan: 'The river Israel crossed when the Lord brought them into the promised land',
   Joshua: 'The servant God appointed to lead Israel after Moses',
+  Baal: 'A false god worshiped by many Canaanites',
+  Deborah: 'A prophetess and judge who helped lead Israel',
+  Gideon: 'A judge the Lord used to rescue Israel from Midian',
+  judge: 'A leader God raised up to rescue and guide Israel',
+  Samson: 'A judge given great strength, whom God used against the Philistines',
   law: 'God\'s instruction for his people',
   Levites: 'The tribe set apart for service connected with worship',
   Lord: 'God\'s covenant name used in many English Bibles',
@@ -345,6 +353,9 @@ function getTranslationNote(bookSlug, chapterNumber, verseNumber) {
   }
   if (bookSlug === 'joshua') {
     return 'Preserve the Lord\'s promise, Israel\'s obedience or disobedience, and the real places in the conquest and land-allotment story. Keep judgment language accurate but child-readable.';
+  }
+  if (bookSlug === 'judges') {
+    return 'Preserve the cycle of Israel\'s sin, suffering, crying out, and the Lord raising a rescuer. Keep violent or adult details truthful but restrained and child-readable.';
   }
   return 'Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.';
 }

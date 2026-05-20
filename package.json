@@ -17,6 +17,8 @@
     "review:deuteronomy": "node scripts/review-deuteronomy-resources.js",
     "import:joshua": "node scripts/import-joshua.js",
     "review:joshua": "node scripts/review-joshua-resources.js",
+    "import:judges": "node scripts/import-judges.js",
+    "review:judges": "node scripts/review-judges-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {
