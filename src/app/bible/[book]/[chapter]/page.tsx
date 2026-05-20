@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { ChevronLeft, ChevronRight, Book, Eye, Share2 } from 'lucide-react'
+import { getChapterNavigation } from '@/lib/bible-catalog'
 import { loadChapterContent } from '@/lib/chapter-loader'
 import type { ChapterData } from '@/lib/chapter-loader'
 
@@ -38,7 +39,7 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
           <Book className="w-16 h-16 text-gray-400 mx-auto mb-4" />
           <h2 className="text-xl font-semibold text-gray-800 mb-2">Chapter Not Found</h2>
           <Link 
-            href="/"
+            href="/bible"
             className="inline-flex items-center justify-center bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition-colors"
           >
             Go Home
@@ -49,6 +50,7 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
   }
 
   const selectedAge = searchParams?.age === '8-10' ? '8-10' : '5-7'
+  const navigation = await getChapterNavigation(book, chapterNumber)
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-green-50">
@@ -58,7 +60,7 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
               <Link 
-                href="/"
+                href={`/bible?age=${selectedAge}`}
                 className="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
               >
                 <ChevronLeft className="w-5 h-5" />
@@ -93,14 +95,14 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
       <main className="max-w-4xl mx-auto px-4 py-8">
         {/* Chapter Navigation */}
         <div className="flex items-center justify-between mb-8">
-          {chapter.chapter === 1 ? (
+          {navigation.previousChapter === null ? (
             <div className="flex items-center space-x-2 text-gray-400 cursor-not-allowed">
               <ChevronLeft className="w-5 h-5" />
               <span>Previous Chapter</span>
             </div>
           ) : (
             <Link
-              href={`/bible/${book}/${chapter.chapter - 1}`}
+              href={`/bible/${book}/${navigation.previousChapter}?age=${selectedAge}`}
               className="flex items-center space-x-2 text-blue-600 hover:text-blue-800 transition-colors"
             >
               <ChevronLeft className="w-5 h-5" />
@@ -112,13 +114,20 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
             <p className="text-sm text-gray-600">Chapter {chapter.chapter}</p>
           </div>
           
-          <Link
-            href={`/bible/${book}/${chapter.chapter + 1}`}
-            className="flex items-center space-x-2 text-blue-600 hover:text-blue-800 transition-colors"
-          >
-            <span>Next Chapter</span>
-            <ChevronRight className="w-5 h-5" />
-          </Link>
+          {navigation.nextChapter === null ? (
+            <div className="flex items-center space-x-2 text-gray-400 cursor-not-allowed">
+              <span>Next Chapter</span>
+              <ChevronRight className="w-5 h-5" />
+            </div>
+          ) : (
+            <Link
+              href={`/bible/${book}/${navigation.nextChapter}?age=${selectedAge}`}
+              className="flex items-center space-x-2 text-blue-600 hover:text-blue-800 transition-colors"
+            >
+              <span>Next Chapter</span>
+              <ChevronRight className="w-5 h-5" />
+            </Link>
+          )}
         </div>
 
         {/* Verses */}
@@ -135,7 +144,7 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
                   </div>
                   <div className="prose prose-lg max-w-none">
                     <p className="text-gray-800 leading-relaxed text-lg">
-                      {getAgeText(chapter!, selectedAge, index)}
+                      {getAgeText(chapter!, selectedAge, index) ?? 'Text unavailable for this age range.'}
                     </p>
                   </div>
                   
@@ -204,7 +213,7 @@ export default async function BibleChapterReader({ params, searchParams }: PageP
             <ul className="space-y-2">
               {chapter.keyLessons.map((lesson: string, lessonIndex: number) => (
                 <li key={`lesson-${lessonIndex}`} className="text-purple-700 flex items-start">
-                  <span className="text-purple-500 mr-2">•</span>
+                  <span className="text-purple-500 mr-2">-</span>
                   {lesson}
                 </li>
               ))}

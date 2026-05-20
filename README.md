@@ -20,6 +20,16 @@ Create a complete, verse-by-verse Bible translation specifically designed for ch
 - **Multi-Format**: Available in web, mobile app, and printable Bible formats
 - **Community Driven**: Collaborative translation and review process
 
+## Demo Reader
+
+Run the local app and open `/bible` to browse the Markdown-backed reader:
+
+```bash
+npm run dev
+```
+
+The reader discovers available chapters from `content/bible-text/ages-5-7` and `content/bible-text/ages-8-10`, then loads chapter text through the app's Markdown loader.
+
 ## Available Resources Research
 
 ### Free Bible APIs & Data Sources
