@@ -54,7 +54,7 @@ When Moses' father-in-law saw everything Moses was doing for the people, he said
 Moses said to his father-in-law, "Because the people come to me to ask God for decisions."
 
 ### Exodus 18:16
-"When they have a dispute, they come to me. I judge between one person and another, and I teach them God's statutes and laws."
+"When they have a dispute, they come to me. I judge between one person and another, and I teach them God's instructions and laws."
 
 ### Exodus 18:17
 Moses' father-in-law said to him, "What you are doing is not good."
@@ -66,7 +66,7 @@ Moses' father-in-law said to him, "What you are doing is not good."
 "Now listen to my advice, and may God be with you. You should represent the people before God and bring their cases to God."
 
 ### Exodus 18:20
-"Teach them the statutes and laws, and show them the way they should walk and the work they should do."
+"Teach them the instructions and laws, and show them the way they should walk and the work they should do."
 
 ### Exodus 18:21
 "Choose capable men from all the people, men who respect God, men of truth who hate dishonest gain. Appoint them as leaders over thousands, hundreds, fifties, and tens."

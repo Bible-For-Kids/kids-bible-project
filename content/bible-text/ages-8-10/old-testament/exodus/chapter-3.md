@@ -27,7 +27,7 @@ God said, "Do not come closer. Take your sandals off your feet, for the place wh
 He also said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." Moses hid his face because he was afraid to look at God.
 
 ### Exodus 3:7
-The Lord said, "I have surely seen the suffering of my people in Egypt. I have heard their cry because of their taskmasters, and I know their sorrows.
+The Lord said, "I have truly seen my people's suffering in Egypt. I have heard them cry because of their harsh work bosses, and I know their sorrows.
 
 ### Exodus 3:8
 "I have come down to deliver them from the Egyptians and bring them out of that land into a good and spacious land, a land flowing with milk and honey, the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.

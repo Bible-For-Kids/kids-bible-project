@@ -55,10 +55,10 @@ The Lord is a warrior. The Lord is his name.
 **Original Reference**: Exodus 15:4 - He has cast Pharaoh's chariots and his army into the sea. His chosen captains are sunk in the Red Sea.
 
 #### Ages 5-7
-He threw Pharaoh's chariots and army into the sea. Pharaoh's best officers sank in the Red Sea.
+He threw Pharaoh's chariots and army into the sea. Pharaoh's best army leaders sank in the Red Sea.
 
 #### Ages 8-10
-He has thrown Pharaoh's chariots and army into the sea. Pharaoh's chosen officers were drowned in the Red Sea.
+He has thrown Pharaoh's chariots and army into the sea. Pharaoh's chosen army leaders were drowned in the Red Sea.
 
 ---
 
@@ -312,7 +312,7 @@ The people complained against Moses and asked, "What are we going to drink?"
 Moses cried out to the Lord. The Lord showed him a tree, and Moses threw it into the water. Then the water became sweet. There the Lord gave them a rule and tested them.
 
 #### Ages 8-10
-Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became sweet. There the Lord gave them a statute and an ordinance, and there he tested them.
+Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became sweet. There the Lord gave them an instruction and a law, and there he tested them.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -324,10 +324,10 @@ Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it
 **Original Reference**: Exodus 15:26 - He said, "If you will diligently listen to Yahweh your God's voice, and will do that which is right in his eyes, and will pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you."
 
 #### Ages 5-7
-The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his rules, I will not put on you any of the diseases I brought on the Egyptians. I am the Lord who heals you."
+The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his instructions, I will not put on you the diseases I put on the Egyptians. I am the Lord who heals you."
 
 #### Ages 8-10
-The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."
+The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his instructions, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."
 
 ---
 

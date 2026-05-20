@@ -39,7 +39,7 @@ The king said to his people, "Look, the people of Israel are more numerous and s
 "Come, we must make a plan about them. If they keep growing, then when war comes, they may join our enemies, fight against us, and leave the land."
 
 ### Exodus 1:11
-So the Egyptians put harsh bosses over the Israelites and made them work very hard. The Israelites built storage cities for Pharaoh called Pithom and Raamses.
+So the Egyptians put harsh work bosses over the Israelites and made them work very hard. The Israelites built storage cities for Pharaoh called Pithom and Raamses.
 
 ### Exodus 1:12
 But the harder the Egyptians treated them, the more the Israelites grew in number and spread out. The Egyptians became afraid of them.
@@ -51,7 +51,7 @@ So the Egyptians forced the children of Israel to work even harder.
 They made the Israelites' lives bitter with heavy work. The people worked with wet mud for bricks and worked hard in the fields, and the Egyptians treated them harshly.
 
 ### Exodus 1:15
-The king of Egypt spoke to two Hebrew midwives. Their names were Shiphrah and Puah.
+The king of Egypt spoke to two Hebrew midwives, women who helped mothers when babies were born. Their names were Shiphrah and Puah.
 
 ### Exodus 1:16
 He told them, "When you help the Hebrew women have babies, look at each baby. If the baby is a boy, kill him. If the baby is a girl, let her live."

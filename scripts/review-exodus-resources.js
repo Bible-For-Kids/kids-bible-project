@@ -146,21 +146,137 @@ const CROSS_REFS = {
 };
 
 const STORY_REVISIONS = {
+  'Exodus 1:11': {
+    '5-7': 'So the Egyptians put harsh work bosses over the Israelites and made them work very hard. The Israelites built storage cities for Pharaoh called Pithom and Raamses.',
+    '8-10': 'So the Egyptians put harsh work bosses over the Israelites to make their lives hard with heavy labor. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.',
+  },
+  'Exodus 1:12': {
+    '5-7': 'But the harder the Egyptians treated them, the more the Israelites grew in number and spread out. The Egyptians became afraid of them.',
+    '8-10': 'But the more the Egyptians treated them cruelly, the more the Israelites grew in number and spread out. The Egyptians became afraid of the children of Israel.',
+  },
   'Exodus 1:14': {
     '5-7': 'They made the Israelites\' lives bitter with heavy work. The people worked with wet mud for bricks and worked hard in the fields, and the Egyptians treated them harshly.',
     '8-10': 'They made the Israelites\' lives bitter with hard work in mud mortar, brickmaking, and all kinds of field labor. In all their work, the Egyptians treated them harshly.',
+  },
+  'Exodus 1:15': {
+    '5-7': 'The king of Egypt spoke to two Hebrew midwives, women who helped mothers when babies were born. Their names were Shiphrah and Puah.',
+    '8-10': 'The king of Egypt spoke to two Hebrew midwives, women who helped mothers give birth. One was named Shiphrah, and the other was named Puah.',
+  },
+  'Exodus 2:24': {
+    '5-7': 'God heard their groaning. God remembered his covenant, the serious promise he made with Abraham, Isaac, and Jacob.',
+    '8-10': 'God heard their groaning, and God remembered his covenant, the serious promise relationship he made with Abraham, Isaac, and Jacob.',
+  },
+  'Exodus 3:7': {
+    '5-7': 'The Lord said, "I have truly seen my people\'s suffering in Egypt. I have heard them cry because of their harsh work bosses, and I know their sorrows.',
+    '8-10': 'The Lord said, "I have truly seen my people\'s suffering in Egypt. I have heard them cry because of their harsh work bosses, and I know their sorrows.',
   },
   'Exodus 4:16': {
     '5-7': '"Aaron will speak to the people for you. He will speak for you, and you will give him the words God gives you."',
     '8-10': '"Aaron will speak to the people for you. He will be your mouth, and you will stand before him with God\'s words."',
   },
+  'Exodus 4:24': {
+    '5-7': 'On the way, at a place where Moses\' family stopped for the night, the Lord met Moses in a frightening judgment, and Moses\' life was in danger.',
+    '8-10': 'On the way, at a lodging place, the Lord met Moses in judgment, and Moses\' life was in danger.',
+  },
+  'Exodus 4:25': {
+    '5-7': 'Then Zipporah took a sharp stone and circumcised her son, giving him the covenant body sign. She touched Moses\' feet with it and said, "You are truly a husband of blood to me."',
+    '8-10': 'Then Zipporah took a sharp stone and circumcised her son, giving him the covenant sign in his body. She touched Moses\' feet with it and said, "Surely you are a husband of blood to me."',
+  },
+  'Exodus 4:26': {
+    '5-7': 'So the Lord let Moses live. Zipporah said, "A husband of blood," because blood had been shed in circumcision.',
+    '8-10': 'So the Lord let Moses go. Zipporah said, "A husband of blood," because of the circumcision.',
+  },
+  'Exodus 5:6': {
+    '5-7': 'That same day Pharaoh gave orders to the harsh Egyptian work bosses and to the Israelite work leaders under them.',
+    '8-10': 'That same day Pharaoh commanded the harsh Egyptian work bosses over the people and the Israelite work leaders under them.',
+  },
+  'Exodus 5:10': {
+    '5-7': 'The work bosses and Israelite work leaders went out and told the people, "This is what Pharaoh says: I will not give you straw.',
+    '8-10': 'The work bosses and Israelite work leaders went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.',
+  },
+  'Exodus 5:13': {
+    '5-7': 'The work bosses pushed them hard and said, "Finish your daily work, just as you did when straw was given to you."',
+    '8-10': 'The work bosses pressed them, saying, "Finish your daily work, just as when straw was provided."',
+  },
+  'Exodus 5:14': {
+    '5-7': 'Pharaoh\'s work bosses beat the Israelite work leaders they had put over the people. They asked, "Why did you not finish your full number of bricks yesterday or today, as you did before?"',
+    '8-10': 'Pharaoh\'s work bosses beat the Israelite work leaders they had set over the people. They asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"',
+  },
+  'Exodus 5:15': {
+    '5-7': 'Then the Israelite work leaders went and cried out to Pharaoh, "Why are you treating your servants this way?',
+    '8-10': 'Then the Israelite work leaders came and cried out to Pharaoh, "Why are you treating your servants this way?',
+  },
+  'Exodus 5:19': {
+    '5-7': 'The Israelite work leaders saw that they were in trouble when they were told, "You must not make fewer bricks each day."',
+    '8-10': 'The Israelite work leaders saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."',
+  },
+  'Exodus 6:3': {
+    '5-7': '"I showed myself to Abraham, Isaac, and Jacob as God Almighty, but I did not make my name, the Lord, known to them in the way I am showing it now."',
+    '8-10': '"I appeared to Abraham, Isaac, and Jacob as God Almighty, but I did not make my name, the Lord, known to them in the way I am revealing it now."',
+  },
+  'Exodus 6:4': {
+    '5-7': '"I also made my covenant, my serious promise, with them. I promised to give them the land of Canaan, the land where they lived as strangers."',
+    '8-10': '"I also established my covenant, my serious promise relationship, with them, to give them the land of Canaan, the land where they lived as foreigners."',
+  },
+  'Exodus 6:5': {
+    '5-7': '"I have heard the sad groaning of the children of Israel, whom the Egyptians keep as slaves, and I have remembered my covenant promise."',
+    '8-10': '"I have heard the groaning of the children of Israel, whom the Egyptians keep in slavery, and I have remembered my covenant promise."',
+  },
   'Exodus 7:12': {
     '5-7': 'Each man threw down his staff, and the staffs became snakes. But Aaron\'s staff swallowed their staffs.',
     '8-10': 'Each man threw down his staff, and the staffs became snakes, but Aaron\'s staff swallowed their staffs.',
   },
+  'Exodus 7:11': {
+    '5-7': 'Then Pharaoh called for his wise men and magic workers. Egypt\'s magicians, men who used magic arts, did the same kind of thing.',
+    '8-10': 'Then Pharaoh called for his wise men and magic workers, and Egypt\'s magicians also did similar things by their magic arts.',
+  },
+  'Exodus 11:9': {
+    '5-7': 'The Lord had told Moses, "Pharaoh will not listen to you, so that my wonders will be shown even more in Egypt."',
+    '8-10': 'The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders will be shown even more in the land of Egypt."',
+  },
+  'Exodus 12:15': {
+    '5-7': 'For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days must be separated from Israel\'s people.',
+    '8-10': 'For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off, separated from Israel.',
+  },
   'Exodus 12:17': {
     '5-7': 'Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day through all your families as a lasting rule.',
     '8-10': 'Keep the Feast of Bread Made Without Yeast, because on this very day I brought your people out of Egypt. Keep this day throughout your generations as a lasting command.',
+  },
+  'Exodus 12:19': {
+    '5-7': 'For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast must be separated from Israel\'s people, whether that person is from another people or was born in the land.',
+    '8-10': 'For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.',
+  },
+  'Exodus 12:22': {
+    '5-7': 'Take a small bunch of leafy hyssop branches, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.',
+    '8-10': 'Take a small bunch of leafy hyssop branches, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.',
+  },
+  'Exodus 12:43': {
+    '5-7': 'The Lord said to Moses and Aaron, "These are the rules for the Passover meal: someone outside Israel may not eat it.',
+    '8-10': 'The Lord said to Moses and Aaron, "This is the rule for the Passover: no foreigner may eat it.',
+  },
+  'Exodus 12:44': {
+    '5-7': 'But a servant bought with money may eat it after he receives the covenant body sign called circumcision.',
+    '8-10': 'But every servant bought with money may eat it after he has received the covenant sign of circumcision.',
+  },
+  'Exodus 12:45': {
+    '5-7': 'A visitor or a hired worker may not eat it.',
+    '8-10': 'A visitor or a hired worker may not eat it.',
+  },
+  'Exodus 12:48': {
+    '5-7': 'If someone from another people lives with you and wants to keep the Passover to the Lord, every male in his household must receive circumcision, the covenant body sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.',
+    '8-10': 'If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must receive circumcision, the covenant sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.',
+  },
+  'Exodus 14:7': {
+    '5-7': 'He took six hundred of his best chariots, along with all the other chariots of Egypt, with army leaders over them.',
+    '8-10': 'He took six hundred chosen chariots and all the other chariots of Egypt, with army leaders over all of them.',
+  },
+  'Exodus 15:26': {
+    '5-7': 'The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his instructions, I will not put on you the diseases I put on the Egyptians. I am the Lord who heals you."',
+    '8-10': 'The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his instructions, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."',
+  },
+  'Exodus 15:4': {
+    '5-7': 'He threw Pharaoh\'s chariots and army into the sea. Pharaoh\'s best army leaders sank in the Red Sea.',
+    '8-10': 'He has thrown Pharaoh\'s chariots and army into the sea. Pharaoh\'s chosen army leaders were drowned in the Red Sea.',
   },
   'Exodus 14:19': {
     '5-7': 'Then the angel of God, who had been leading Israel from the front, moved behind them. The pillar of cloud moved too and stood behind them.',
@@ -218,9 +334,29 @@ const STORY_REVISIONS = {
     '5-7': '"No one may touch that person. The person must be put to death with stones or arrows. Whether it is an animal or a person, it must not live. When the trumpet sounds long, the people may come near the mountain."',
     '8-10': '"No hand may touch that person. The person must be put to death with stones or arrows. Whether animal or human, it must not live. When the trumpet sounds long, they may come near the mountain."',
   },
+  'Exodus 19:5': {
+    '5-7': '"Now, if you truly obey my voice and keep my covenant, my serious promise relationship with you, you will be my special treasure among all peoples, because all the earth is mine."',
+    '8-10': '"Now if you carefully obey my voice and keep my covenant, my serious promise relationship with you, you will be my treasured possession among all peoples, for all the earth is mine."',
+  },
+  'Exodus 20:5': {
+    '5-7': '"You must not bow down to them or serve them. I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."',
+    '8-10': '"You must not bow down to them or serve them, because I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."',
+  },
+  'Exodus 20:14': {
+    '5-7': '"You must not break marriage faithfulness."',
+    '8-10': '"You must not commit adultery, which breaks marriage faithfulness."',
+  },
+  'Exodus 20:17': {
+    '5-7': '"You must not set your heart on taking your neighbor\'s house. You must not set your heart on taking your neighbor\'s wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."',
+    '8-10': '"You must not covet your neighbor\'s house, setting your heart on taking it for yourself. You must not covet your neighbor\'s wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."',
+  },
   'Exodus 21:20': {
     '5-7': '"If a man hits his male or female servant with a stick, and the servant dies right away, the man must surely be punished."',
     '8-10': '"If a man strikes his male or female servant with a stick, and the servant dies under his hand, he must surely be punished."',
+  },
+  'Exodus 22:18': {
+    '5-7': '"A woman who practices evil magic must not be allowed to live."',
+    '8-10': '"A woman who practices evil magic must not be allowed to live."',
   },
 };
 
@@ -297,6 +433,20 @@ function polishExodusText(text, ageRange, reference) {
     .replace(/\bserpent\b/g, 'snake')
     .replace(/\bSerpents\b/g, 'Snakes')
     .replace(/\bSerpent\b/g, 'Snake')
+    .replace(/\btaskmasters\b/g, 'harsh work bosses')
+    .replace(/\btaskmaster\b/g, 'harsh work boss')
+    .replace(/\bTaskmasters\b/g, 'Harsh work bosses')
+    .replace(/\bTaskmaster\b/g, 'Harsh work boss')
+    .replace(/\bstatutes\b/g, 'instructions')
+    .replace(/\bstatute\b/g, 'instruction')
+    .replace(/\bStatutes\b/g, 'Instructions')
+    .replace(/\bStatute\b/g, 'Instruction')
+    .replace(/\bordinances\b/g, 'laws')
+    .replace(/\bordinance\b/g, 'law')
+    .replace(/\bOrdinances\b/g, 'Laws')
+    .replace(/\bOrdinance\b/g, 'Law')
+    .replace(/\bdungeon\b/g, 'dark prison')
+    .replace(/\bDungeon\b/g, 'Dark prison')
     .replace(/\bephod\b/g, 'priestly vest')
     .replace(/\bEphod\b/g, 'Priestly vest')
     .replace(/\bbreastpiece\b/g, 'chest piece')
@@ -371,18 +521,21 @@ function polishExodusText(text, ageRange, reference) {
       .replace(/\bcommit adultery\b/g, 'break marriage faithfulness')
       .replace(/\bcovet\b/g, 'want to take')
       .replace(/\bnakedness\b/g, 'body uncovered')
-      .replace(/\blivestock\b/g, 'farm animals')
-      .replace(/\bdungeon\b/g, 'dark prison');
+      .replace(/\blivestock\b/g, 'farm animals');
   } else {
     result = result
       .replace(/\banointing oil\b/g, 'special anointing oil')
       .replace(/\banoint\b/g, 'set apart with oil')
       .replace(/\banointed\b/g, 'set apart with oil')
-      .replace(/\bcommit adultery\b/g, 'commit adultery, breaking marriage faithfulness')
+      .replace(/\bcommit adultery\b/g, 'commit adultery, which breaks marriage faithfulness')
       .replace(/\bnakedness\b/g, 'body being uncovered');
   }
 
   result = result
+    .replace(/\bbreaking marriage faithfulness(?:, breaking marriage faithfulness)+\b/g, 'breaking marriage faithfulness')
+    .replace(/\bcommit adultery, which breaks marriage faithfulness(?:, breaking marriage faithfulness)+\b/g, 'commit adultery, which breaks marriage faithfulness')
+    .replace(/\ba bunch of leafy hyssop branch\b/g, 'a small bunch of leafy hyssop branches')
+    .replace(/\bTake a small bunch of leafy hyssop branch\b/g, 'Take a small bunch of leafy hyssop branches')
     .replace(/\bsweet-smelling sweet-smelling incense\b/g, 'sweet-smelling incense')
     .replace(/\bfragrant sweet-smelling incense\b/g, 'sweet-smelling incense')
     .replace(/\b(?:special\s+)+anointing oil\b/g, 'special anointing oil')
@@ -437,6 +590,10 @@ function polishExodusText(text, ageRange, reference) {
     .replace(/\bAn priestly vest\b/g, 'A priestly vest')
     .replace(/\ba atonement cover\b/g, 'an atonement cover')
     .replace(/\bA atonement cover\b/g, 'An atonement cover')
+    .replace(/\ba instruction\b/g, 'an instruction')
+    .replace(/\bA instruction\b/g, 'An instruction')
+    .replace(/\ban law\b/g, 'a law')
+    .replace(/\bAn law\b/g, 'A law')
     .replace(/\bgroups out of Egypt\b/g, 'people out of Egypt')
     .replace(/\bshot through\b/g, 'shot with arrows')
     .replace(/\s+([,.;:!?])/g, '$1')

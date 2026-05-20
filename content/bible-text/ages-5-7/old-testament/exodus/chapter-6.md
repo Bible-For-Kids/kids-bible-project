@@ -15,13 +15,13 @@ Then the Lord said to Moses, "Now you will see what I will do to Pharaoh. By a s
 God spoke to Moses and said, "I am the Lord."
 
 ### Exodus 6:3
-"I showed myself to Abraham, Isaac, and Jacob as God Almighty, but they did not know me by my name Jehovah."
+"I showed myself to Abraham, Isaac, and Jacob as God Almighty, but I did not make my name, the Lord, known to them in the way I am showing it now."
 
 ### Exodus 6:4
-"I also made my covenant with them, promising to give them the land of Canaan, the land where they lived as strangers."
+"I also made my covenant, my serious promise, with them. I promised to give them the land of Canaan, the land where they lived as strangers."
 
 ### Exodus 6:5
-"I have heard the sad groaning of the children of Israel, whom the Egyptians keep as slaves, and I have remembered my covenant."
+"I have heard the sad groaning of the children of Israel, whom the Egyptians keep as slaves, and I have remembered my covenant promise."
 
 ### Exodus 6:6
 "So tell the children of Israel, 'I am the Lord. I will bring you out from under Egypt's heavy loads, free you from slavery, and redeem you with my outstretched arm and with great judgments.'"

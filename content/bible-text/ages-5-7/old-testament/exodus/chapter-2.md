@@ -78,7 +78,7 @@ Zipporah had a son. Moses named him Gershom, saying, "I have been a stranger in 
 After many days, the king of Egypt died. The children of Israel still groaned because they were slaves, and they cried for help. Their cry went up to God.
 
 ### Exodus 2:24
-God heard their groaning. God remembered his covenant with Abraham, Isaac, and Jacob.
+God heard their groaning. God remembered his covenant, the serious promise he made with Abraham, Isaac, and Jacob.
 
 ### Exodus 2:25
 God saw the children of Israel, and God knew their pain.

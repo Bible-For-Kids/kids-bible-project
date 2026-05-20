@@ -21,7 +21,7 @@ Moses went up to God, and the Lord called to him from the mountain. He said, "Sa
 "You saw what I did to the Egyptians, and how I carried you on eagles' wings and brought you to myself."
 
 ### Exodus 19:5
-"Now, if you truly obey my voice and keep my covenant, you will be my special treasure among all peoples, because all the earth is mine."
+"Now, if you truly obey my voice and keep my covenant, my serious promise relationship with you, you will be my special treasure among all peoples, because all the earth is mine."
 
 ### Exodus 19:6
 "You will be to me a kingdom of priests and a holy nation. These are the words you must speak to the people of Israel."

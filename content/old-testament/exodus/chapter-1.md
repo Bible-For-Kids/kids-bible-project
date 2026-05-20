@@ -146,10 +146,10 @@ He said to his people, "Look, the people of Israel are more numerous and stronge
 **Original Reference**: Exodus 1:11 - Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses.
 
 #### Ages 5-7
-So the Egyptians put harsh bosses over the Israelites and made them work very hard. The Israelites built storage cities for Pharaoh called Pithom and Raamses.
+So the Egyptians put harsh work bosses over the Israelites and made them work very hard. The Israelites built storage cities for Pharaoh called Pithom and Raamses.
 
 #### Ages 8-10
-So the Egyptians put taskmasters over them to make their lives hard with heavy work. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.
+So the Egyptians put harsh work bosses over the Israelites to make their lives hard with heavy labor. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -165,7 +165,7 @@ So the Egyptians put taskmasters over them to make their lives hard with heavy w
 But the harder the Egyptians treated them, the more the Israelites grew in number and spread out. The Egyptians became afraid of them.
 
 #### Ages 8-10
-But the more the Egyptians afflicted them, the more the Israelites multiplied and spread. The Egyptians became afraid of the children of Israel.
+But the more the Egyptians treated them cruelly, the more the Israelites grew in number and spread out. The Egyptians became afraid of the children of Israel.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them
@@ -207,10 +207,10 @@ They made the Israelites' lives bitter with hard work in mud mortar, brickmaking
 **Original Reference**: Exodus 1:15 - The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,
 
 #### Ages 5-7
-The king of Egypt spoke to two Hebrew midwives. Their names were Shiphrah and Puah.
+The king of Egypt spoke to two Hebrew midwives, women who helped mothers when babies were born. Their names were Shiphrah and Puah.
 
 #### Ages 8-10
-The king of Egypt spoke to the Hebrew midwives. One was named Shiphrah, and the other was named Puah.
+The king of Egypt spoke to two Hebrew midwives, women who helped mothers give birth. One was named Shiphrah, and the other was named Puah.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them

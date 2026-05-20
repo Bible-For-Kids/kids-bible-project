@@ -18,7 +18,7 @@ The Lord is my strength and my song, and he has become my salvation. He is my Go
 The Lord is a warrior. The Lord is his name.
 
 ### Exodus 15:4
-He has thrown Pharaoh's chariots and army into the sea. Pharaoh's chosen officers were drowned in the Red Sea.
+He has thrown Pharaoh's chariots and army into the sea. Pharaoh's chosen army leaders were drowned in the Red Sea.
 
 ### Exodus 15:5
 The deep waters covered them. They sank to the bottom like a stone.
@@ -81,10 +81,10 @@ When they came to Marah, they could not drink the water there because it was bit
 The people complained against Moses and asked, "What are we going to drink?"
 
 ### Exodus 15:25
-Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became sweet. There the Lord gave them a statute and an ordinance, and there he tested them.
+Moses cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became sweet. There the Lord gave them an instruction and a law, and there he tested them.
 
 ### Exodus 15:26
-The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."
+The Lord said, "If you carefully listen to the voice of the Lord your God, do what is right in his sight, pay attention to his commands, and keep all his instructions, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord who heals you."
 
 ### Exodus 15:27
 Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the water.

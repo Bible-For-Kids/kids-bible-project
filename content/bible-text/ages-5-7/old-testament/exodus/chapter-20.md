@@ -21,7 +21,7 @@ God spoke all these words.
 "You must not make for yourself a carved image, or anything shaped like what is in heaven above, on the earth below, or in the water under the earth."
 
 ### Exodus 20:5
-"You must not bow down to them or serve them. I, the Lord your God, am a jealous God. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
+"You must not bow down to them or serve them. I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
 
 ### Exodus 20:6
 "But I show faithful love to thousands of generations of those who love me and keep my commandments."
@@ -57,7 +57,7 @@ God spoke all these words.
 "You must not tell false testimony against your neighbor."
 
 ### Exodus 20:17
-"You must not want to take your neighbor's house. You must not want to take your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
+"You must not set your heart on taking your neighbor's house. You must not set your heart on taking your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
 
 ### Exodus 20:18
 All the people saw the thunder, lightning, trumpet sound, and smoking mountain. They were afraid, trembled, and stood far away.

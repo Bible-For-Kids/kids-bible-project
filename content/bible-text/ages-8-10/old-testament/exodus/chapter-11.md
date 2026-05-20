@@ -33,7 +33,7 @@ But against any of the Israelites, not even a dog will growl at person or animal
 All these servants of yours will come down to me and bow before me, saying, 'Leave, you and all the people who follow you.' After that I will leave." Then Moses went out from Pharaoh in fierce anger.
 
 ### Exodus 11:9
-The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
+The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders will be shown even more in the land of Egypt."
 
 ### Exodus 11:10
 Moses and Aaron performed all these wonders before Pharaoh, but the Lord hardened Pharaoh's heart, and Pharaoh would not let the Israelites leave his land.

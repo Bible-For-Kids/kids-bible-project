@@ -78,7 +78,7 @@ She gave birth to a son, and Moses named him Gershom, saying, "I have been a str
 After many days, the king of Egypt died. The children of Israel groaned because of their slavery, and they cried out. Their cry for help rose up to God.
 
 ### Exodus 2:24
-God heard their groaning, and God remembered his covenant with Abraham, Isaac, and Jacob.
+God heard their groaning, and God remembered his covenant, the serious promise relationship he made with Abraham, Isaac, and Jacob.
 
 ### Exodus 2:25
 God looked upon the children of Israel, and God knew their suffering.

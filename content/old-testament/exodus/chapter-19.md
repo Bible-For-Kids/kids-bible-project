@@ -72,10 +72,10 @@ Moses went up to God, and the Lord called to him from the mountain, saying, "Thi
 **Original Reference**: Exodus 19:5 - Now therefore, if you will indeed obey my voice, and keep my covenant, then you shall be my own possession from among all peoples; for all the earth is mine;
 
 #### Ages 5-7
-"Now, if you truly obey my voice and keep my covenant, you will be my special treasure among all peoples, because all the earth is mine."
+"Now, if you truly obey my voice and keep my covenant, my serious promise relationship with you, you will be my special treasure among all peoples, because all the earth is mine."
 
 #### Ages 8-10
-"Now if you carefully obey my voice and keep my covenant, you will be my treasured possession among all peoples, for all the earth is mine."
+"Now if you carefully obey my voice and keep my covenant, my serious promise relationship with you, you will be my treasured possession among all peoples, for all the earth is mine."
 
 **Translation Notes**:
 Israel is called treasured possession by covenant grace, not because they rescued themselves.
@@ -368,10 +368,10 @@ Israel camps at Sinai, and the Lord calls them to be his treasured people before
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Now, if you truly obey my voice and keep my covenant, you will be my special treasure among all peoples, because all the earth is mine." - Exodus 19:5
+"Now, if you truly obey my voice and keep my covenant, my serious promise relationship with you, you will be my special treasure among all peoples, because all the earth is mine." - Exodus 19:5
 
 ### Ages 8-10
-"Now if you carefully obey my voice and keep my covenant, you will be my treasured possession among all peoples, for all the earth is mine." - Exodus 19:5
+"Now if you carefully obey my voice and keep my covenant, my serious promise relationship with you, you will be my treasured possession among all peoples, for all the earth is mine." - Exodus 19:5
 
 ## Discussion Questions by Age
 

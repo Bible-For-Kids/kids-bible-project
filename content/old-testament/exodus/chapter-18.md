@@ -230,7 +230,7 @@ Moses said to his father-in-law, "Because the people come to me to ask God for d
 "When they have a problem, they come to me. I decide between one person and another, and I teach them God's laws and instructions."
 
 #### Ages 8-10
-"When they have a dispute, they come to me. I judge between one person and another, and I teach them God's statutes and laws."
+"When they have a dispute, they come to me. I judge between one person and another, and I teach them God's instructions and laws."
 
 ---
 
@@ -277,7 +277,7 @@ Moses' father-in-law said to him, "What you are doing is not good."
 "Teach them the laws and instructions. Show them the way they should walk and the work they should do."
 
 #### Ages 8-10
-"Teach them the statutes and laws, and show them the way they should walk and the work they should do."
+"Teach them the instructions and laws, and show them the way they should walk and the work they should do."
 
 ---
 

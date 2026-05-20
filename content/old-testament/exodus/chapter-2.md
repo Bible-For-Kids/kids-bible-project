@@ -306,13 +306,16 @@ After many days, the king of Egypt died. The children of Israel groaned because 
 **Original Reference**: Exodus 2:24 - God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 
 #### Ages 5-7
-God heard their groaning. God remembered his covenant with Abraham, Isaac, and Jacob.
+God heard their groaning. God remembered his covenant, the serious promise he made with Abraham, Isaac, and Jacob.
 
 #### Ages 8-10
-God heard their groaning, and God remembered his covenant with Abraham, Isaac, and Jacob.
+God heard their groaning, and God remembered his covenant, the serious promise relationship he made with Abraham, Isaac, and Jacob.
 
 **Translation Notes**:
 God remembering his covenant means he acts faithfully; it does not mean he had forgotten.
+
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 **Cross-References**:
 - Genesis 15:13-14
@@ -345,10 +348,10 @@ Moses is born under Pharaoh's cruel command, is preserved through the river, fle
 ## Memory Verses by Age
 
 ### Ages 5-7
-God heard their groaning. God remembered his covenant with Abraham, Isaac, and Jacob. - Exodus 2:24
+God heard their groaning. God remembered his covenant, the serious promise he made with Abraham, Isaac, and Jacob. - Exodus 2:24
 
 ### Ages 8-10
-God heard their groaning, and God remembered his covenant with Abraham, Isaac, and Jacob. - Exodus 2:24
+God heard their groaning, and God remembered his covenant, the serious promise relationship he made with Abraham, Isaac, and Jacob. - Exodus 2:24
 
 ## Discussion Questions by Age
 

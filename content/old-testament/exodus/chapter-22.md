@@ -221,10 +221,10 @@ Exodus 22 continues the rescue-and-covenant story. The Lord gives laws about the
 **Original Reference**: Exodus 22:18 - "You shall not allow a sorceress to live.
 
 #### Ages 5-7
-"You must not allow a sorceress to live."
+"A woman who practices evil magic must not be allowed to live."
 
 #### Ages 8-10
-"You must not allow a sorceress to live."
+"A woman who practices evil magic must not be allowed to live."
 
 ---
 

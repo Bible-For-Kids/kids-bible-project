@@ -66,10 +66,10 @@ The commandments begin with rescue: the Lord first says who he is and what he ha
 **Original Reference**: Exodus 20:5 - you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,
 
 #### Ages 5-7
-"You must not bow down to them or serve them. I, the Lord your God, am a jealous God. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
+"You must not bow down to them or serve them. I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
 
 #### Ages 8-10
-"You must not bow down to them or serve them, because I, the Lord your God, am a jealous God. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
+"You must not bow down to them or serve them, because I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
 
 ---
 
@@ -183,7 +183,7 @@ This verse grounds Sabbath in creation. Preserve the link to Genesis 1-2.
 "You must not break marriage faithfulness."
 
 #### Ages 8-10
-"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
+"You must not commit adultery, which breaks marriage faithfulness."
 
 ---
 
@@ -213,10 +213,10 @@ This verse grounds Sabbath in creation. Preserve the link to Genesis 1-2.
 **Original Reference**: Exodus 20:17 - "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor's."
 
 #### Ages 5-7
-"You must not want to take your neighbor's house. You must not want to take your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
+"You must not set your heart on taking your neighbor's house. You must not set your heart on taking your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
 
 #### Ages 8-10
-"You must not covet your neighbor's house. You must not covet your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
+"You must not covet your neighbor's house, setting your heart on taking it for yourself. You must not covet your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
 
 ---
 

@@ -60,7 +60,7 @@ Exodus
 "If her father firmly refuses to give her to him, the man must still pay money equal to the bride-price for young women."
 
 ### Exodus 22:18
-"You must not allow a sorceress to live."
+"A woman who practices evil magic must not be allowed to live."
 
 ### Exodus 22:19
 "Whoever lies with an animal must surely be put to death."

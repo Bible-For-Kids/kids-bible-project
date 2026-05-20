@@ -202,10 +202,10 @@ This day will be a memorial for you. You must keep it as a feast to the Lord thr
 **Original Reference**: Exodus 12:15 - " 'Seven days you shall eat unleavened bread; even the first day you shall put away yeast out of your houses, for whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 
 #### Ages 5-7
-For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off from Israel.
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days must be separated from Israel's people.
 
 #### Ages 8-10
-For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Whoever eats bread made with yeast from the first day through the seventh day will be cut off from Israel.
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off, separated from Israel.
 
 ---
 
@@ -246,10 +246,10 @@ In the first month, from the evening of the fourteenth day until the evening of 
 **Original Reference**: Exodus 12:19 - There shall be no yeast found in your houses for seven days, for whoever eats that which is leavened, that soul shall be cut off from the congregation of Israel, whether he is a foreigner, or one who is born in the land.
 
 #### Ages 5-7
-For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.
+For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast must be separated from Israel's people, whether that person is from another people or was born in the land.
 
 #### Ages 8-10
-For seven days no yeast may be found in your houses. Whoever eats anything made with yeast will be cut off from the community of Israel, whether a foreigner or someone born in the land.
+For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.
 
 ---
 
@@ -283,10 +283,10 @@ Then Moses called all the elders of Israel and said to them, "Go and choose lamb
 **Original Reference**: Exodus 12:22 - You shall take a bunch of hyssop, and dip it in the blood that is in the basin, and strike the lintel and the two door posts with the blood that is in the basin. None of you shall go out of the door of his house until the morning.
 
 #### Ages 5-7
-Take a bunch of leafy hyssop branch, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
+Take a small bunch of leafy hyssop branches, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
 
 #### Ages 8-10
-Take a bunch of leafy hyssop branch, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
+Take a small bunch of leafy hyssop branches, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
 
 **Key Vocabulary**:
 - blood: A sign of life, and in Passover a sign marking the houses God would pass over
@@ -372,7 +372,7 @@ The Israelites went and did exactly as the Lord had commanded Moses and Aaron.
 At midnight, the Lord struck every firstborn in Egypt, from Pharaoh's firstborn who sat near the throne to the firstborn of the prisoner in the dark prison, and the firstborn of the animals.
 
 #### Ages 8-10
-At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dungeon, and every firstborn of the livestock.
+At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dark prison, and every firstborn of the livestock.
 
 **Key Vocabulary**:
 - firstborn: The child born first in a family
@@ -526,10 +526,10 @@ That night is to be carefully remembered for the Lord, because he brought them o
 **Original Reference**: Exodus 12:43 - Yahweh said to Moses and Aaron, "This is the ordinance of the Passover. No foreigner shall eat of it,
 
 #### Ages 5-7
-The Lord said to Moses and Aaron, "These are the rules for the Passover: No foreigner may eat it.
+The Lord said to Moses and Aaron, "These are the rules for the Passover meal: someone outside Israel may not eat it.
 
 #### Ages 8-10
-The Lord said to Moses and Aaron, "This is the rule for the Passover: No foreigner may eat it.
+The Lord said to Moses and Aaron, "This is the rule for the Passover: no foreigner may eat it.
 
 **Key Vocabulary**:
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -540,10 +540,10 @@ The Lord said to Moses and Aaron, "This is the rule for the Passover: No foreign
 **Original Reference**: Exodus 12:44 - but every man's servant who is bought for money, when you have circumcised him, then shall he eat of it.
 
 #### Ages 5-7
-But a servant bought with money may eat it after he has been circumcised.
+But a servant bought with money may eat it after he receives the covenant body sign called circumcision.
 
 #### Ages 8-10
-But every servant bought with money may eat it after he has been circumcised.
+But every servant bought with money may eat it after he has received the covenant sign of circumcision.
 
 ---
 
@@ -554,7 +554,7 @@ But every servant bought with money may eat it after he has been circumcised.
 A visitor or a hired worker may not eat it.
 
 #### Ages 8-10
-A temporary resident or hired worker may not eat it.
+A visitor or a hired worker may not eat it.
 
 ---
 
@@ -584,10 +584,10 @@ The whole community of Israel must keep it.
 **Original Reference**: Exodus 12:48 - When a stranger lives as a foreigner with you, and would like to keep the Passover to Yahweh, let all his males be circumcised, and then let him come near and keep it. He shall be as one who is born in the land; but no uncircumcised person shall eat of it.
 
 #### Ages 5-7
-If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. No uncircumcised person may eat it.
+If someone from another people lives with you and wants to keep the Passover to the Lord, every male in his household must receive circumcision, the covenant body sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.
 
 #### Ages 8-10
-If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. No uncircumcised person may eat it.
+If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must receive circumcision, the covenant sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.
 
 **Key Vocabulary**:
 - Passover: The meal and day remembering how God rescued Israel from Egypt

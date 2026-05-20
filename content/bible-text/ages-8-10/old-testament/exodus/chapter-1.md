@@ -39,10 +39,10 @@ He said to his people, "Look, the people of Israel are more numerous and stronge
 "Come, we must deal carefully with them. If they keep multiplying, then in time of war they may join our enemies, fight against us, and leave the land."
 
 ### Exodus 1:11
-So the Egyptians put taskmasters over them to make their lives hard with heavy work. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.
+So the Egyptians put harsh work bosses over the Israelites to make their lives hard with heavy labor. The Israelites built storage cities for Pharaoh, called Pithom and Raamses.
 
 ### Exodus 1:12
-But the more the Egyptians afflicted them, the more the Israelites multiplied and spread. The Egyptians became afraid of the children of Israel.
+But the more the Egyptians treated them cruelly, the more the Israelites grew in number and spread out. The Egyptians became afraid of the children of Israel.
 
 ### Exodus 1:13
 So the Egyptians made the children of Israel serve with harsh labor.
@@ -51,7 +51,7 @@ So the Egyptians made the children of Israel serve with harsh labor.
 They made the Israelites' lives bitter with hard work in mud mortar, brickmaking, and all kinds of field labor. In all their work, the Egyptians treated them harshly.
 
 ### Exodus 1:15
-The king of Egypt spoke to the Hebrew midwives. One was named Shiphrah, and the other was named Puah.
+The king of Egypt spoke to two Hebrew midwives, women who helped mothers give birth. One was named Shiphrah, and the other was named Puah.
 
 ### Exodus 1:16
 He said, "When you help the Hebrew women give birth, watch the babies. If the baby is a son, kill him. If the baby is a daughter, let her live."

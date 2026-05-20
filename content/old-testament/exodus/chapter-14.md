@@ -104,10 +104,10 @@ So Pharaoh made his chariot ready and took his people with him.
 **Original Reference**: Exodus 14:7 - and he took six hundred chosen chariots, and all the chariots of Egypt, with captains over all of them.
 
 #### Ages 5-7
-He took six hundred of his best chariots, along with all the other chariots of Egypt, with officers over them.
+He took six hundred of his best chariots, along with all the other chariots of Egypt, with army leaders over them.
 
 #### Ages 8-10
-He took six hundred chosen chariots and all the other chariots of Egypt, with officers over all of them.
+He took six hundred chosen chariots and all the other chariots of Egypt, with army leaders over all of them.
 
 ---
 

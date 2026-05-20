@@ -140,7 +140,7 @@ All these servants of yours will come down to me and bow before me, saying, 'Lea
 The Lord had told Moses, "Pharaoh will not listen to you, so that my wonders will be shown even more in Egypt."
 
 #### Ages 8-10
-The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
+The Lord had said to Moses, "Pharaoh will not listen to you, so that my wonders will be shown even more in the land of Egypt."
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them

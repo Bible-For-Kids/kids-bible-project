@@ -44,10 +44,10 @@ God spoke to Moses and said to him, "I am the Lord."
 **Original Reference**: Exodus 6:3 - I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name Yahweh I was not known to them.
 
 #### Ages 5-7
-"I showed myself to Abraham, Isaac, and Jacob as God Almighty, but they did not know me by my name Jehovah."
+"I showed myself to Abraham, Isaac, and Jacob as God Almighty, but I did not make my name, the Lord, known to them in the way I am showing it now."
 
 #### Ages 8-10
-"I appeared to Abraham, Isaac, and Jacob as God Almighty, but I was not known to them by my name Jehovah."
+"I appeared to Abraham, Isaac, and Jacob as God Almighty, but I did not make my name, the Lord, known to them in the way I am revealing it now."
 
 ---
 
@@ -55,13 +55,14 @@ God spoke to Moses and said to him, "I am the Lord."
 **Original Reference**: Exodus 6:4 - I have also established my covenant with them, to give them the land of Canaan, the land of their travels, in which they lived as aliens.
 
 #### Ages 5-7
-"I also made my covenant with them, promising to give them the land of Canaan, the land where they lived as strangers."
+"I also made my covenant, my serious promise, with them. I promised to give them the land of Canaan, the land where they lived as strangers."
 
 #### Ages 8-10
-"I also established my covenant with them, to give them the land of Canaan, the land where they lived as foreigners."
+"I also established my covenant, my serious promise relationship, with them, to give them the land of Canaan, the land where they lived as foreigners."
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes with his people
+- promise: Words someone says and keeps
 
 ---
 
@@ -69,13 +70,14 @@ God spoke to Moses and said to him, "I am the Lord."
 **Original Reference**: Exodus 6:5 - Moreover I have heard the groaning of the children of Israel, whom the Egyptians keep in bondage, and I have remembered my covenant.
 
 #### Ages 5-7
-"I have heard the sad groaning of the children of Israel, whom the Egyptians keep as slaves, and I have remembered my covenant."
+"I have heard the sad groaning of the children of Israel, whom the Egyptians keep as slaves, and I have remembered my covenant promise."
 
 #### Ages 8-10
-"I have heard the groaning of the children of Israel, whom the Egyptians keep in slavery, and I have remembered my covenant."
+"I have heard the groaning of the children of Israel, whom the Egyptians keep in slavery, and I have remembered my covenant promise."
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes with his people
+- promise: Words someone says and keeps
 
 ---
 

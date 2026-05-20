@@ -51,7 +51,7 @@ The blood will be a sign on the houses where you are. When I see the blood, I wi
 This day will help you remember what I have done. You must keep it as a feast to the Lord, year after year, through all your families.
 
 ### Exodus 12:15
-For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off from Israel.
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days must be separated from Israel's people.
 
 ### Exodus 12:16
 On the first day you will gather for worship, and on the seventh day you will gather again. Do no work on those days, except preparing the food each person needs.
@@ -63,7 +63,7 @@ Keep the Feast of Bread Made Without Yeast, because on this very day I brought y
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
 
 ### Exodus 12:19
-For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.
+For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast must be separated from Israel's people, whether that person is from another people or was born in the land.
 
 ### Exodus 12:20
 Do not eat anything made with yeast. Wherever you live, eat bread made without yeast."
@@ -72,7 +72,7 @@ Do not eat anything made with yeast. Wherever you live, eat bread made without y
 Then Moses called all the elders of Israel and said, "Go and choose lambs for your families, and kill the Passover lamb.
 
 ### Exodus 12:22
-Take a bunch of leafy hyssop branch, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
+Take a small bunch of leafy hyssop branches, dip it in the blood in the bowl, and touch the blood to the top and sides of the doorframe. None of you must go out through the door of your house until morning.
 
 ### Exodus 12:23
 The Lord will pass through to strike Egypt. When he sees the blood on the top and sides of the doorframe, the Lord will pass over that door and will not let the destroyer enter your houses.
@@ -135,10 +135,10 @@ At the end of those four hundred thirty years, on that very day, all the Lord's 
 That was a night to be remembered for the Lord, because he brought them out of Egypt. All the Israelites were to remember that night through all their families.
 
 ### Exodus 12:43
-The Lord said to Moses and Aaron, "These are the rules for the Passover: No foreigner may eat it.
+The Lord said to Moses and Aaron, "These are the rules for the Passover meal: someone outside Israel may not eat it.
 
 ### Exodus 12:44
-But a servant bought with money may eat it after he has been circumcised.
+But a servant bought with money may eat it after he receives the covenant body sign called circumcision.
 
 ### Exodus 12:45
 A visitor or a hired worker may not eat it.
@@ -150,7 +150,7 @@ It must be eaten inside one house. Do not carry any of the meat outside the hous
 All the people of Israel must keep it.
 
 ### Exodus 12:48
-If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. No uncircumcised person may eat it.
+If someone from another people lives with you and wants to keep the Passover to the Lord, every male in his household must receive circumcision, the covenant body sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.
 
 ### Exodus 12:49
 The same law is for the person born in the land and for the foreigner living among you."

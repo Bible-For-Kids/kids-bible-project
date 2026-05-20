@@ -329,10 +329,10 @@ The Lord said to Moses, "When you go back to Egypt, see that you do all the wond
 **Original Reference**: Exodus 4:24 - On the way at a lodging place, Yahweh met Moses and wanted to kill him.
 
 #### Ages 5-7
-On the way, at a place where they stopped for the night, the Lord met Moses and sought to kill him.
+On the way, at a place where Moses' family stopped for the night, the Lord met Moses in a frightening judgment, and Moses' life was in danger.
 
 #### Ages 8-10
-On the way, at a lodging place, the Lord met Moses and sought to kill him.
+On the way, at a lodging place, the Lord met Moses in judgment, and Moses' life was in danger.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -343,13 +343,14 @@ On the way, at a lodging place, the Lord met Moses and sought to kill him.
 **Original Reference**: Exodus 4:25 - Then Zipporah took a flint, and cut off the foreskin of her son, and cast it at his feet; and she said, "Surely you are a bridegroom of blood to me."
 
 #### Ages 5-7
-Then Zipporah took a sharp stone and circumcised her son. She touched Moses' feet with it and said, "Surely you are a husband of blood to me."
+Then Zipporah took a sharp stone and circumcised her son, giving him the covenant body sign. She touched Moses' feet with it and said, "You are truly a husband of blood to me."
 
 #### Ages 8-10
-Then Zipporah took a sharp stone, circumcised her son, and touched Moses' feet with it. She said, "Surely you are a husband of blood to me."
+Then Zipporah took a sharp stone and circumcised her son, giving him the covenant sign in his body. She touched Moses' feet with it and said, "Surely you are a husband of blood to me."
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
+- sign: Something God gives or does to show his word is true
 
 ---
 
@@ -357,10 +358,10 @@ Then Zipporah took a sharp stone, circumcised her son, and touched Moses' feet w
 **Original Reference**: Exodus 4:26 - So he let him alone. Then she said, "You are a bridegroom of blood," because of the circumcision.
 
 #### Ages 5-7
-So the Lord let Moses go. Then Zipporah said, "A husband of blood," because of the circumcision.
+So the Lord let Moses live. Zipporah said, "A husband of blood," because blood had been shed in circumcision.
 
 #### Ages 8-10
-So the Lord let him go. Then Zipporah said, "A husband of blood," because of the circumcision.
+So the Lord let Moses go. Zipporah said, "A husband of blood," because of the circumcision.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt

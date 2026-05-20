@@ -90,13 +90,15 @@ Pharaoh also said, "Look, the people of the land are now many, and you are makin
 **Original Reference**: Exodus 5:6 - The same day Pharaoh commanded the taskmasters of the people and their officers, saying,
 
 #### Ages 5-7
-That same day Pharaoh gave orders to the taskmasters over the people and to their officers.
+That same day Pharaoh gave orders to the harsh Egyptian work bosses and to the Israelite work leaders under them.
 
 #### Ages 8-10
-That same day Pharaoh commanded the taskmasters over the people and their officers,
+That same day Pharaoh commanded the harsh Egyptian work bosses over the people and the Israelite work leaders under them.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
+- Egypt: The land where Israel was enslaved before the Lord rescued them
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -137,13 +139,14 @@ He said, "Do not give the people straw for making bricks anymore. Let them go an
 **Original Reference**: Exodus 5:10 - The taskmasters of the people went out, and their officers, and they spoke to the people, saying, "This is what Pharaoh says: 'I will not give you straw.
 
 #### Ages 5-7
-The taskmasters and officers went out and told the people, "This is what Pharaoh says: I will not give you straw.
+The work bosses and Israelite work leaders went out and told the people, "This is what Pharaoh says: I will not give you straw.
 
 #### Ages 8-10
-The taskmasters of the people and their officers went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.
+The work bosses and Israelite work leaders went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
+- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -176,10 +179,10 @@ So the people scattered through all the land of Egypt to gather stubble instead 
 **Original Reference**: Exodus 5:13 - The taskmasters were urgent saying, "Fulfill your work quota daily, as when there was straw!"
 
 #### Ages 5-7
-The taskmasters pushed them hard and said, "Finish your daily work, just as you did when straw was given to you."
+The work bosses pushed them hard and said, "Finish your daily work, just as you did when straw was given to you."
 
 #### Ages 8-10
-The taskmasters pressed them, saying, "Finish your daily work, just as when straw was provided."
+The work bosses pressed them, saying, "Finish your daily work, just as when straw was provided."
 
 ---
 
@@ -187,10 +190,10 @@ The taskmasters pressed them, saying, "Finish your daily work, just as when stra
 **Original Reference**: Exodus 5:14 - The officers of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten, and were asked, "Why haven't you fulfilled your quota both yesterday and today, in making brick as before?"
 
 #### Ages 5-7
-Pharaoh's taskmasters beat the Israelite officers they had put over the people. They asked, "Why did you not finish your full number of bricks yesterday or today, as you did before?"
+Pharaoh's work bosses beat the Israelite work leaders they had put over the people. They asked, "Why did you not finish your full number of bricks yesterday or today, as you did before?"
 
 #### Ages 8-10
-The officers of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten. The taskmasters asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"
+Pharaoh's work bosses beat the Israelite work leaders they had set over the people. They asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -202,10 +205,10 @@ The officers of the children of Israel, whom Pharaoh's taskmasters had set over 
 **Original Reference**: Exodus 5:15 - Then the officers of the children of Israel came and cried to Pharaoh, saying, "Why do you deal this way with your servants?
 
 #### Ages 5-7
-Then the Israelite officers went and cried out to Pharaoh, "Why are you treating your servants this way?
+Then the Israelite work leaders went and cried out to Pharaoh, "Why are you treating your servants this way?
 
 #### Ages 8-10
-Then the officers of the children of Israel came and cried out to Pharaoh, "Why are you treating your servants this way?
+Then the Israelite work leaders came and cried out to Pharaoh, "Why are you treating your servants this way?
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt
@@ -253,10 +256,10 @@ Pharaoh said, "You are idle, idle. That is why you say, 'Let us go and sacrifice
 **Original Reference**: Exodus 5:19 - The officers of the children of Israel saw that they were in trouble when it was said, "You shall not diminish anything from your daily quota of bricks!"
 
 #### Ages 5-7
-The Israelite officers saw that they were in trouble when they were told, "You must not make fewer bricks each day."
+The Israelite work leaders saw that they were in trouble when they were told, "You must not make fewer bricks each day."
 
 #### Ages 8-10
-The officers of the children of Israel saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
+The Israelite work leaders saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob

@@ -21,7 +21,7 @@ God spoke all these words.
 "You must not make for yourself a carved image, or any likeness of what is in heaven above, on the earth below, or in the water under the earth."
 
 ### Exodus 20:5
-"You must not bow down to them or serve them, because I, the Lord your God, am a jealous God. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
+"You must not bow down to them or serve them, because I, the Lord your God, am jealous for the worship that belongs only to me. I bring the guilt of fathers on children to the third and fourth generation of those who hate me."
 
 ### Exodus 20:6
 "But I show faithful love to thousands of generations of those who love me and keep my commandments."
@@ -48,7 +48,7 @@ God spoke all these words.
 "You must not murder."
 
 ### Exodus 20:14
-"You must not commit adultery, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness, breaking marriage faithfulness."
+"You must not commit adultery, which breaks marriage faithfulness."
 
 ### Exodus 20:15
 "You must not steal."
@@ -57,7 +57,7 @@ God spoke all these words.
 "You must not give false testimony against your neighbor."
 
 ### Exodus 20:17
-"You must not covet your neighbor's house. You must not covet your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
+"You must not covet your neighbor's house, setting your heart on taking it for yourself. You must not covet your neighbor's wife, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor."
 
 ### Exodus 20:18
 All the people saw the thunder, lightning, trumpet sound, and smoking mountain. When they saw it, they trembled and stood far away.

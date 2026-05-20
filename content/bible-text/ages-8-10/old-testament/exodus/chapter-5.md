@@ -24,7 +24,7 @@ The king of Egypt said to them, "Moses and Aaron, why are you taking the people 
 Pharaoh also said, "Look, the people of the land are now many, and you are making them rest from their burdens."
 
 ### Exodus 5:6
-That same day Pharaoh commanded the taskmasters over the people and their officers,
+That same day Pharaoh commanded the harsh Egyptian work bosses over the people and the Israelite work leaders under them.
 
 ### Exodus 5:7
 "You will no longer give the people straw to make bricks as before. Let them go and gather straw for themselves.
@@ -36,7 +36,7 @@ That same day Pharaoh commanded the taskmasters over the people and their office
 "Make the work harder for the men, so they will labor at it and not pay attention to false words."
 
 ### Exodus 5:10
-The taskmasters of the people and their officers went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.
+The work bosses and Israelite work leaders went out and spoke to the people. They said, "This is what Pharaoh says: I will not give you straw.
 
 ### Exodus 5:11
 "Go and get straw for yourselves wherever you can find it, but none of your work will be reduced."
@@ -45,13 +45,13 @@ The taskmasters of the people and their officers went out and spoke to the peopl
 So the people scattered through all the land of Egypt to gather stubble instead of straw.
 
 ### Exodus 5:13
-The taskmasters pressed them, saying, "Finish your daily work, just as when straw was provided."
+The work bosses pressed them, saying, "Finish your daily work, just as when straw was provided."
 
 ### Exodus 5:14
-The officers of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten. The taskmasters asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"
+Pharaoh's work bosses beat the Israelite work leaders they had set over the people. They asked, "Why have you not finished your required number of bricks, yesterday or today, as before?"
 
 ### Exodus 5:15
-Then the officers of the children of Israel came and cried out to Pharaoh, "Why are you treating your servants this way?
+Then the Israelite work leaders came and cried out to Pharaoh, "Why are you treating your servants this way?
 
 ### Exodus 5:16
 "No straw is given to your servants, yet they say to us, 'Make bricks.' Your servants are beaten, but the fault is with your own people."
@@ -63,7 +63,7 @@ Pharaoh said, "You are idle, idle. That is why you say, 'Let us go and sacrifice
 "Now go and work. No straw will be given to you, but you must still produce the same number of bricks."
 
 ### Exodus 5:19
-The officers of the children of Israel saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
+The Israelite work leaders saw that they were in trouble when they were told, "You will not reduce your daily number of bricks."
 
 ### Exodus 5:20
 As they left Pharaoh, they met Moses and Aaron, who stood waiting for them.

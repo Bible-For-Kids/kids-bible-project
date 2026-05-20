@@ -78,13 +78,13 @@ The Lord said to Moses, "When you return to Egypt, do all the wonders before Pha
 "I say to you, let my son go, so he may serve me. If you refuse to let him go, I will kill your son, your firstborn.'"
 
 ### Exodus 4:24
-On the way, at a place where they stopped for the night, the Lord met Moses and sought to kill him.
+On the way, at a place where Moses' family stopped for the night, the Lord met Moses in a frightening judgment, and Moses' life was in danger.
 
 ### Exodus 4:25
-Then Zipporah took a sharp stone and circumcised her son. She touched Moses' feet with it and said, "Surely you are a husband of blood to me."
+Then Zipporah took a sharp stone and circumcised her son, giving him the covenant body sign. She touched Moses' feet with it and said, "You are truly a husband of blood to me."
 
 ### Exodus 4:26
-So the Lord let Moses go. Then Zipporah said, "A husband of blood," because of the circumcision.
+So the Lord let Moses live. Zipporah said, "A husband of blood," because blood had been shed in circumcision.
 
 ### Exodus 4:27
 The Lord said to Aaron, "Go into the wilderness to meet Moses." Aaron went, met Moses at the mountain of God, and kissed him.

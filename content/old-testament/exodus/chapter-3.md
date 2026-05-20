@@ -103,10 +103,10 @@ He also said, "I am the God of your father, the God of Abraham, the God of Isaac
 **Original Reference**: Exodus 3:7 - Yahweh said, "I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows.
 
 #### Ages 5-7
-The Lord said, "I have truly seen my people's suffering in Egypt. I have heard them cry because of their taskmasters, and I know their sorrows.
+The Lord said, "I have truly seen my people's suffering in Egypt. I have heard them cry because of their harsh work bosses, and I know their sorrows.
 
 #### Ages 8-10
-The Lord said, "I have surely seen the suffering of my people in Egypt. I have heard their cry because of their taskmasters, and I know their sorrows.
+The Lord said, "I have truly seen my people's suffering in Egypt. I have heard them cry because of their harsh work bosses, and I know their sorrows.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel was enslaved before the Lord rescued them

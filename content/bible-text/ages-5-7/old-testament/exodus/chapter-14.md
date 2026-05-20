@@ -27,7 +27,7 @@ When the king of Egypt was told that the people had fled, Pharaoh and his servan
 So Pharaoh got his chariot ready and took his people with him.
 
 ### Exodus 14:7
-He took six hundred of his best chariots, along with all the other chariots of Egypt, with officers over them.
+He took six hundred of his best chariots, along with all the other chariots of Egypt, with army leaders over them.
 
 ### Exodus 14:8
 The Lord hardened the heart of Pharaoh king of Egypt, and Pharaoh chased the Israelites. But the Israelites had gone out boldly.

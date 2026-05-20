@@ -166,10 +166,10 @@ Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw d
 **Original Reference**: Exodus 7:11 - Then Pharaoh also called for the wise men and the sorcerers. They also, the magicians of Egypt, did the same thing with their enchantments.
 
 #### Ages 5-7
-Then Pharaoh called for his wise men and magic workers, and the magicians of Egypt did the same kind of thing with their magic arts.
+Then Pharaoh called for his wise men and magic workers. Egypt's magicians, men who used magic arts, did the same kind of thing.
 
 #### Ages 8-10
-Then Pharaoh called the wise men and magic workers, and the magicians of Egypt also did similar things by their magic arts.
+Then Pharaoh called for his wise men and magic workers, and Egypt's magicians also did similar things by their magic arts.
 
 **Key Vocabulary**:
 - Pharaoh: The king of Egypt

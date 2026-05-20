@@ -39,7 +39,7 @@ He said, "When Pharaoh says to you, 'Show a miracle,' tell Aaron, 'Take your sta
 Moses and Aaron went to Pharaoh and did as the Lord had commanded. Aaron threw down his staff before Pharaoh and his servants, and it became a snake.
 
 ### Exodus 7:11
-Then Pharaoh called the wise men and magic workers, and the magicians of Egypt also did similar things by their magic arts.
+Then Pharaoh called for his wise men and magic workers, and Egypt's magicians also did similar things by their magic arts.
 
 ### Exodus 7:12
 Each man threw down his staff, and the staffs became snakes, but Aaron's staff swallowed their staffs.

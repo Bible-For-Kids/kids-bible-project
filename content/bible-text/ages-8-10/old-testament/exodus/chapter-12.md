@@ -51,7 +51,7 @@ The blood will be a sign for you on the houses where you are. When I see the blo
 This day will be a memorial for you. You must keep it as a feast to the Lord throughout your generations, as a lasting command.
 
 ### Exodus 12:15
-For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Whoever eats bread made with yeast from the first day through the seventh day will be cut off from Israel.
+For seven days you must eat bread made without yeast. On the first day, remove yeast from your houses. Anyone who eats bread with yeast during those seven days will be cut off, separated from Israel.
 
 ### Exodus 12:16
 On the first day you will hold a holy gathering, and on the seventh day another holy gathering. No work is to be done on those days, except preparing the food each person needs.
@@ -63,7 +63,7 @@ Keep the Feast of Bread Made Without Yeast, because on this very day I brought y
 In the first month, from the evening of the fourteenth day until the evening of the twenty-first day, you must eat bread made without yeast.
 
 ### Exodus 12:19
-For seven days no yeast may be found in your houses. Whoever eats anything made with yeast will be cut off from the community of Israel, whether a foreigner or someone born in the land.
+For seven days, no yeast may be found in your houses. Anyone who eats what is made with yeast will be cut off from Israel, whether that person is a foreigner or born in the land.
 
 ### Exodus 12:20
 Eat nothing made with yeast. Wherever you live, you must eat bread made without yeast."
@@ -72,7 +72,7 @@ Eat nothing made with yeast. Wherever you live, you must eat bread made without 
 Then Moses called all the elders of Israel and said to them, "Go and choose lambs for your families, and kill the Passover lamb.
 
 ### Exodus 12:22
-Take a bunch of leafy hyssop branch, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
+Take a small bunch of leafy hyssop branches, dip it in the blood in the basin, and put the blood on the upper doorpost and the two side posts. None of you may go out through the door of your house until morning.
 
 ### Exodus 12:23
 The Lord will pass through to strike Egypt. When he sees the blood on the upper doorpost and the two side posts, the Lord will pass over the door and will not allow the destroyer to enter your houses.
@@ -93,7 +93,7 @@ you will say, 'It is the Passover sacrifice to the Lord, who passed over the hou
 The Israelites went and did exactly as the Lord had commanded Moses and Aaron.
 
 ### Exodus 12:29
-At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dungeon, and every firstborn of the livestock.
+At midnight the Lord struck every firstborn in the land of Egypt, from Pharaoh's firstborn who sat on his throne to the firstborn of the captive in the dark prison, and every firstborn of the livestock.
 
 ### Exodus 12:30
 Pharaoh got up in the night, along with all his servants and all the Egyptians. A great cry rose in Egypt, because there was death in every house.
@@ -135,13 +135,13 @@ At the end of four hundred thirty years, on that exact day, all the Lord's peopl
 That night is to be carefully remembered for the Lord, because he brought them out of Egypt. All the Israelites are to remember it throughout their generations.
 
 ### Exodus 12:43
-The Lord said to Moses and Aaron, "This is the rule for the Passover: No foreigner may eat it.
+The Lord said to Moses and Aaron, "This is the rule for the Passover: no foreigner may eat it.
 
 ### Exodus 12:44
-But every servant bought with money may eat it after he has been circumcised.
+But every servant bought with money may eat it after he has received the covenant sign of circumcision.
 
 ### Exodus 12:45
-A temporary resident or hired worker may not eat it.
+A visitor or a hired worker may not eat it.
 
 ### Exodus 12:46
 It must be eaten in one house. Do not carry any of the meat outside the house, and do not break any of its bones.
@@ -150,7 +150,7 @@ It must be eaten in one house. Do not carry any of the meat outside the house, a
 The whole community of Israel must keep it.
 
 ### Exodus 12:48
-If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. No uncircumcised person may eat it.
+If a foreigner living with you wants to keep the Passover to the Lord, all the males in his household must receive circumcision, the covenant sign. Then he may come near and keep it, and he will be like someone born in the land. No one outside that covenant sign may eat it.
 
 ### Exodus 12:49
 The same law applies to the person born in the land and to the foreigner living among you."
