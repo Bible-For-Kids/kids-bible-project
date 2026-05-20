@@ -13,7 +13,7 @@ export interface BibleBookSummary {
 
 const AGE_RANGES: AgeRange[] = ['5-7', '8-10']
 const TESTAMENT = 'old-testament' as const
-const BOOK_ORDER = ['genesis', 'exodus', 'leviticus']
+const BOOK_ORDER = ['genesis', 'exodus', 'leviticus', 'numbers']
 
 export async function getBibleCatalog(): Promise<BibleBookSummary[]> {
   const chaptersByBook = new Map<string, Set<number>>()

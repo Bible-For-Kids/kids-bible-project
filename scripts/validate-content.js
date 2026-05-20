@@ -4,6 +4,15 @@ const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
 
+function chapterCounts(bookPath, counts) {
+  return Object.fromEntries(
+    counts.map((count, index) => [
+      path.normalize(`${bookPath}/chapter-${index + 1}.md`),
+      count,
+    ])
+  );
+}
+
 const expectedVerseCounts = {
   [path.normalize('old-testament/genesis/chapter-1.md')]: 31,
   [path.normalize('old-testament/genesis/chapter-2.md')]: 25,
@@ -122,6 +131,10 @@ const expectedVerseCounts = {
   [path.normalize('old-testament/leviticus/chapter-25.md')]: 55,
   [path.normalize('old-testament/leviticus/chapter-26.md')]: 46,
   [path.normalize('old-testament/leviticus/chapter-27.md')]: 34,
+  ...chapterCounts('old-testament/numbers', [
+    54, 34, 51, 49, 31, 27, 89, 26, 23, 36, 35, 16, 33, 45, 41, 50, 13, 32,
+    22, 29, 35, 41, 30, 25, 18, 65, 23, 31, 40, 16, 54, 42, 56, 29, 34, 13,
+  ]),
 };
 
 const theologicalGuardrails = [

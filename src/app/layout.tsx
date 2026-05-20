@@ -57,6 +57,9 @@ export default function RootLayout({
                   <Link href="/bible/leviticus/1" className="text-gray-700 transition-colors hover:text-blue-600">
                     Leviticus
                   </Link>
+                  <Link href="/bible/numbers/1" className="text-gray-700 transition-colors hover:text-blue-600">
+                    Numbers
+                  </Link>
                 </nav>
               </div>
             </div>
@@ -94,6 +97,11 @@ export default function RootLayout({
                     <li>
                       <Link href="/bible/leviticus/1" className="text-blue-600 hover:text-blue-800">
                         Leviticus
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/bible/numbers/1" className="text-blue-600 hover:text-blue-800">
+                        Numbers
                       </Link>
                     </li>
                   </ul>
