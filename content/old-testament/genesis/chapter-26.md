@@ -63,10 +63,10 @@ The Lord appeared to Isaac and said, "Do not go down to Egypt. Live in the land 
 **Original Reference**: Genesis 26:5 - because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my laws."
 
 #### Ages 5-7
-God said he would do this because Abraham had listened to his voice and had kept his charge, his commandments, his statutes, and his laws.
+God said he would do this because Abraham had listened to his voice and had kept what God commanded, taught, and required.
 
 #### Ages 8-10
-God said this was because Abraham obeyed his voice and kept his charge, his commandments, his statutes, and his laws.
+God said this was because Abraham obeyed his voice and kept what God commanded, taught, and required.
 
 ---
 
@@ -118,7 +118,7 @@ Abimelek called Isaac and said, "Surely she is your wife. Why did you say, 'She 
 **Original Reference**: Genesis 26:10 - Abimelech said, "What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt on us!"
 
 #### Ages 5-7
-Abimelek said, "What have you done to us? One of the people might easily have taken your wife, and then you would have brought guilt on us."
+Abimelek said, "What have you done to us? One of the people might easily have taken your wife, and then you would have brought blame on us."
 
 #### Ages 8-10
 Abimelek said, "What have you done to us? One of the people might easily have taken your wife, and you would have brought guilt on us."
@@ -162,7 +162,7 @@ Isaac became great and continued to grow until he became very great.
 **Original Reference**: Genesis 26:14 - He had possessions of flocks, possessions of herds, and a great household. The Philistines envied him.
 
 #### Ages 5-7
-He had flocks, herds, and many servants, and the Philistines became jealous of him.
+He had many sheep, cattle, and servants, and the Philistines became jealous of him.
 
 #### Ages 8-10
 He owned flocks, herds, and many servants, and the Philistines envied him.
@@ -237,10 +237,10 @@ Isaac's servants dug in the valley and found a well of springing water.
 **Original Reference**: Genesis 26:20 - The herdsmen of Gerar argued with Isaac's herdsmen, saying, "The water is ours." He called the name of the well Esek, because they contended with him.
 
 #### Ages 5-7
-But the herdsmen of Gerar argued with Isaac's herdsmen and said, "The water is ours." So Isaac named that well Esek, because they had argued with him there.
+But the men who cared for the animals in Gerar argued with Isaac's men and said, "The water is ours." So Isaac named that well Esek, because they had argued with him there.
 
 #### Ages 8-10
-The herdsmen of Gerar argued with Isaac's herdsmen, saying, "The water is ours." Isaac named the well Esek, because they had argued with him.
+The herdsmen, the men who cared for animals, in Gerar argued with Isaac's herdsmen, saying, "The water is ours." Isaac named the well Esek, because they had argued with him.
 
 **Key Vocabulary**:
 - well: A deep hole dug to bring up water
@@ -265,7 +265,7 @@ They dug another well, and the people argued over that one too. Isaac named it S
 **Original Reference**: Genesis 26:22 - He left that place, and dug another well. They didn't argue over that one. He called it Rehoboth. He said, "For now Yahweh has made room for us, and we will be fruitful in the land."
 
 #### Ages 5-7
-Isaac moved away from there and dug another well. This time no one argued about it. He named it Rehoboth and said, "Now the Lord has made room for us, and we shall be fruitful in the land."
+Isaac moved away from there and dug another well. This time no one argued about it. He named it Rehoboth and said, "Now the Lord has made room for us, and we will grow in the land."
 
 #### Ages 8-10
 He moved from there and dug another well, and no one argued over it. He named it Rehoboth and said, "Now the Lord has made room for us, and we shall be fruitful in the land."
@@ -290,7 +290,7 @@ Isaac went up from there to Beersheba.
 **Original Reference**: Genesis 26:24 - Yahweh appeared to him the same night, and said, "I am the God of Abraham your father. Don't be afraid, for I am with you, and will bless you, and multiply your offspring for my servant Abraham's sake."
 
 #### Ages 5-7
-That same night the Lord appeared to him and said, "I am the God of Abraham your father. Do not be afraid, for I am with you. I will bless you and multiply your children after you for the sake of my servant Abraham."
+That same night the Lord appeared to him and said, "I am the God of Abraham your father. Do not be afraid, for I am with you. I will bless you and make the family after you many for the sake of my servant Abraham."
 
 #### Ages 8-10
 The Lord appeared to him that same night and said, "I am the God of Abraham your father. Do not fear, for I am with you. I will bless you and multiply your descendants for my servant Abraham's sake."
@@ -340,12 +340,13 @@ Isaac said to them, "Why have you come to me, since you hated me and sent me awa
 **Original Reference**: Genesis 26:28 - They said, "We saw plainly that Yahweh was with you. We said, 'Let there now be an oath between us, even between us and you, and let's make a covenant with you,
 
 #### Ages 5-7
-They answered, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath between us and you. Let us make a covenant with you.'"
+They answered, "We have clearly seen that the Lord is with you. So we said, 'Let there be a serious promise between us and you. Let us make a covenant with you.'"
 
 #### Ages 8-10
-They said, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath between us and you, and let us make a covenant with you.'"
+They said, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath, a solemn promise, between us and you, and let us make a covenant with you.'"
 
 **Key Vocabulary**:
+- promise: Words someone says and keeps
 - oath: A serious promise made before God
 
 ---
@@ -380,7 +381,7 @@ Isaac made them a feast, and they ate and drank.
 **Original Reference**: Genesis 26:31 - They rose up some time in the morning, and swore an oath to one another. Isaac sent them away, and they departed from him in peace.
 
 #### Ages 5-7
-Early in the morning, they rose and made a promise to each other. Then Isaac sent them away, and they left him in peace.
+Early in the morning, they got up and made a promise to each other. Then Isaac sent them away, and they left him in peace.
 
 #### Ages 8-10
 They rose early in the morning and swore an oath to one another. Isaac sent them away, and they departed from him in peace.
@@ -435,7 +436,7 @@ When Esau was 40 years old, he took Judith the daughter of Beeri the Hittite and
 **Original Reference**: Genesis 26:35 - They grieved Isaac's and Rebekah's spirits.
 
 #### Ages 5-7
-These wives brought grief of mind to Isaac and Rebekah.
+These wives brought deep sorrow to Isaac and Rebekah.
 
 #### Ages 8-10
 They were a grief of mind to Isaac and Rebekah.
@@ -453,7 +454,7 @@ The Lord renews the promise to Isaac, protects Rebekah, blesses Isaac in Gerar, 
 ## Memory Verses by Age
 
 ### Ages 5-7
-That same night the Lord appeared to him and said, "I am the God of Abraham your father. Do not be afraid, for I am with you. I will bless you and multiply your children after you for the sake of my servant Abraham." - Genesis 26:24
+That same night the Lord appeared to him and said, "I am the God of Abraham your father. Do not be afraid, for I am with you. I will bless you and make the family after you many for the sake of my servant Abraham." - Genesis 26:24
 
 ### Ages 8-10
 The Lord appeared to him that same night and said, "I am the God of Abraham your father. Do not fear, for I am with you. I will bless you and multiply your descendants for my servant Abraham's sake." - Genesis 26:24

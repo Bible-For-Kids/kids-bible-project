@@ -15,7 +15,7 @@ When Isaac was old and his eyes were dim so that he could not see, he called Esa
 Isaac said, "See now, I am old, and I do not know the day of my death."
 
 ### Genesis 27:3
-"Please take your weapons, your quiver and your bow, and go out to the field to hunt some game for me."
+"Please take your weapons, your quiver, which holds arrows, and your bow, and go out to the field to hunt some game for me."
 
 ### Genesis 27:4
 "Prepare the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
@@ -42,7 +42,7 @@ Rebekah spoke to Jacob her son and said, "I heard your father speaking to Esau y
 Jacob said to Rebekah his mother, "Esau my brother is a hairy man, and I am a smooth man."
 
 ### Genesis 27:12
-"Perhaps my father will feel me, and I will seem to him like a deceiver. Then I would bring a curse on myself and not a blessing."
+"Perhaps my father will feel me, and I will seem to him like a deceiver, someone trying to trick him. Then I would bring a curse on myself and not a blessing."
 
 ### Genesis 27:13
 His mother said to him, "Let your curse be on me, my son. Only obey my voice and go get them for me."
@@ -114,7 +114,7 @@ When Esau heard his father's words, he cried with a great and bitter cry and sai
 Isaac said, "Your brother came with deceit and has taken away your blessing."
 
 ### Genesis 27:36
-Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, and now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
+Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, the special family place of the firstborn, and now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
 
 ### Genesis 27:37
 Isaac answered Esau, "I have made him your lord and given all his brothers to him as servants. I have sustained him with grain and wine. What can I do now for you, my son?"
@@ -126,10 +126,10 @@ Esau said to his father, "Do you have only one blessing, my father? Bless me, ev
 Isaac his father answered him, "Your dwelling shall be of the richness of the earth and of the dew of heaven from above."
 
 ### Genesis 27:40
-"By your sword you shall live, and you shall serve your brother. But when you have dominion, you shall break his yoke from off your neck."
+"By your sword you shall live, and you shall serve your brother. But when you have dominion, you shall break his yoke, his heavy rule, from off your neck."
 
 ### Genesis 27:41
-Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "The days of mourning for my father are near. Then I will kill my brother Jacob."
+Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "Soon the days of mourning for my father will come. Then I will kill my brother Jacob."
 
 ### Genesis 27:42
 Rebekah was told the words of Esau her older son. She sent for Jacob her younger son and said, "Your brother Esau is comforting himself by planning to kill you."

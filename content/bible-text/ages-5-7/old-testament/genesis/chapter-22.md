@@ -12,10 +12,10 @@ Genesis
 After these things happened, God tested Abraham. God called his name, "Abraham!" and Abraham answered, "Here I am."
 
 ### Genesis 22:2
-God said, "Take your son, your only son Isaac, the son you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains I will show you."
+God said, "Take your son, your only son Isaac, the son you love, and go to the land of Moriah. Offer him there as a burned offering on one of the mountains I will show you."
 
 ### Genesis 22:3
-Early the next morning, Abraham got up, saddled his donkey, and took two young servants with him, along with Isaac his son. He split wood for the burnt offering, then started the journey to the place God had told him about.
+Early the next morning, Abraham got up, got his donkey ready, and took two young servants with him, along with Isaac his son. He split wood for the burned offering, then started the journey to the place God had told him about.
 
 ### Genesis 22:4
 On the third day of traveling, Abraham lifted his eyes and saw the place far away in the distance.
@@ -24,16 +24,16 @@ On the third day of traveling, Abraham lifted his eyes and saw the place far awa
 Abraham said to his young servants, "Stay here with the donkey. The boy and I will go over there and worship, and then we will come back to you."
 
 ### Genesis 22:6
-Abraham took the wood for the burnt offering and placed it on Isaac his son. Abraham carried the fire and the knife, and father and son walked on together.
+Abraham took the wood for the burned offering and placed it on Isaac his son. Abraham carried the fire and the knife, and father and son walked on together.
 
 ### Genesis 22:7
-Isaac spoke to Abraham his father and said, "My father." Abraham said, "Here I am, my son." Isaac said, "We have the fire and the wood, but where is the lamb for the burnt offering?"
+Isaac spoke to Abraham his father and said, "My father." Abraham said, "Here I am, my son." Isaac said, "We have the fire and the wood, but where is the lamb for the burned offering?"
 
 ### Genesis 22:8
-Abraham said, "My son, God himself will provide the lamb for the burnt offering." So the two of them kept walking together.
+Abraham said, "My son, God himself will provide the lamb for the burned offering." So the two of them kept walking together.
 
 ### Genesis 22:9
-They came to the place God had told Abraham about. Abraham built an altar there, laid the wood in order, bound Isaac his son, and placed him on the altar on top of the wood.
+They came to the place God had told Abraham about. Abraham built an altar there, laid the wood in order, tied Isaac his son, and placed him on the altar on top of the wood.
 
 ### Genesis 22:10
 Then Abraham reached out his hand and took the knife to offer his son.
@@ -42,10 +42,10 @@ Then Abraham reached out his hand and took the knife to offer his son.
 But the angel of the Lord called from heaven, "Abraham, Abraham!" Abraham answered, "Here I am."
 
 ### Genesis 22:12
-The angel said, "Do not put your hand on the boy, and do not do anything to him. Now I know that you fear God, because you have not kept back your son, your only son, from me."
+The angel said, "Do not put your hand on the boy, and do not do anything to him. Now I know that you fear God and honor him, because you have not kept back your son, your only son, from me."
 
 ### Genesis 22:13
-Abraham lifted his eyes and looked. There behind him was a ram, caught by its horns in a bushy thicket. Abraham went and took the ram and offered it as a burnt offering instead of his son.
+Abraham lifted his eyes and looked. There behind him was a ram, caught by its horns in a thick bush. Abraham went and took the ram and offered it as a burned offering instead of his son.
 
 ### Genesis 22:14
 Abraham named that place The Lord Will Provide. Even later people said, "On the mountain of the Lord it will be provided."
@@ -57,10 +57,10 @@ The angel of the Lord called to Abraham from heaven a second time.
 The angel said, "By myself I have sworn, says the Lord, because you have done this and have not kept back your son, your only son,
 
 ### Genesis 22:17
-I will surely bless you. I will make your offspring many, like the stars shining in the sky and like the sand spread along the seashore. Your offspring will possess the gate of their enemies.
+I will surely bless you. I will make the family after you many, like the stars shining in the sky and like the sand spread along the seashore. Your family will have victory over their enemies.
 
 ### Genesis 22:18
-Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
+Through your family all the nations of the earth will be blessed, because you have obeyed my voice."
 
 ### Genesis 22:19
 Then Abraham went back to his young servants. They got up and traveled together to Beersheba, and Abraham lived there.
@@ -78,4 +78,4 @@ There were also Kesed, Hazo, Pildash, Jidlaph, and Bethuel.
 Bethuel became the father of Rebekah. These eight children were born to Milkah and Nahor, Abraham's brother.
 
 ### Genesis 22:24
-Nahor's concubine was named Reumah. She also had children: Tebah, Gaham, Tahash, and Maakah.
+Nahor also had a woman named Reumah. She had children too: Tebah, Gaham, Tahash, and Maakah.

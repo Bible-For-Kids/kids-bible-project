@@ -51,7 +51,7 @@ He spoke to Ephron in the hearing of the people of the land and said, "Please li
 Ephron answered Abraham.
 
 ### Genesis 23:15
-He said, "My lord, listen to me. The land is worth 400 shekels of silver. What is that between you and me? Bury your dead."
+He said, "My lord, listen to me. The land is worth 400 shekels of silver, a measured amount of money. What is that between you and me? Bury your dead."
 
 ### Genesis 23:16
 Abraham listened to Ephron, and Abraham weighed out for him the silver he had named in the hearing of the sons of Heth: 400 shekels of silver, according to the merchants' standard.

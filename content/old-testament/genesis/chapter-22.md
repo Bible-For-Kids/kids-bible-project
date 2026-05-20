@@ -30,10 +30,10 @@ After these things, God tested Abraham. He called to him, "Abraham!" Abraham ans
 **Original Reference**: Genesis 22:2 - He said, "Now take your son, your only son, Isaac, whom you love, and go into the land of Moriah. Offer him there as a burnt offering on one of the mountains which I will tell you of."
 
 #### Ages 5-7
-God said, "Take your son, your only son Isaac, the son you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains I will show you."
+God said, "Take your son, your only son Isaac, the son you love, and go to the land of Moriah. Offer him there as a burned offering on one of the mountains I will show you."
 
 #### Ages 8-10
-God said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains I will show you."
+God said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burned offering on one of the mountains I will show you."
 
 ---
 
@@ -41,10 +41,10 @@ God said, "Take your son, your only son Isaac, whom you love, and go to the land
 **Original Reference**: Genesis 22:3 - Abraham rose early in the morning, and saddled his donkey; and took two of his young men with him, and Isaac his son. He split the wood for the burnt offering, and rose up, and went to the place of which God had told him.
 
 #### Ages 5-7
-Early the next morning, Abraham got up, saddled his donkey, and took two young servants with him, along with Isaac his son. He split wood for the burnt offering, then started the journey to the place God had told him about.
+Early the next morning, Abraham got up, got his donkey ready, and took two young servants with him, along with Isaac his son. He split wood for the burned offering, then started the journey to the place God had told him about.
 
 #### Ages 8-10
-Early the next morning, Abraham saddled his donkey. He took two of his young servants with him, along with Isaac his son. He split wood for the burnt offering and set out for the place God had told him about.
+Early the next morning, Abraham got his donkey ready. He took two of his young servants with him, along with Isaac his son. He split wood for the burned offering and set out for the place God had told him about.
 
 ---
 
@@ -74,10 +74,10 @@ Abraham said to his young servants, "Stay here with the donkey. The boy and I wi
 **Original Reference**: Genesis 22:6 - Abraham took the wood of the burnt offering and laid it on Isaac his son. He took in his hand the fire and the knife. They both went together.
 
 #### Ages 5-7
-Abraham took the wood for the burnt offering and placed it on Isaac his son. Abraham carried the fire and the knife, and father and son walked on together.
+Abraham took the wood for the burned offering and placed it on Isaac his son. Abraham carried the fire and the knife, and father and son walked on together.
 
 #### Ages 8-10
-Abraham took the wood for the burnt offering and placed it on Isaac his son. Abraham carried the fire and the knife, and the two of them walked on together.
+Abraham took the wood for the burned offering and placed it on Isaac his son. Abraham carried the fire and the knife, and the two of them walked on together.
 
 ---
 
@@ -85,10 +85,10 @@ Abraham took the wood for the burnt offering and placed it on Isaac his son. Abr
 **Original Reference**: Genesis 22:7 - Isaac spoke to Abraham his father, and said, "My father?" He said, "Here I am, my son." He said, "Here is the fire and the wood, but where is the lamb for a burnt offering?"
 
 #### Ages 5-7
-Isaac spoke to Abraham his father and said, "My father." Abraham said, "Here I am, my son." Isaac said, "We have the fire and the wood, but where is the lamb for the burnt offering?"
+Isaac spoke to Abraham his father and said, "My father." Abraham said, "Here I am, my son." Isaac said, "We have the fire and the wood, but where is the lamb for the burned offering?"
 
 #### Ages 8-10
-Isaac spoke to Abraham his father and said, "My father." Abraham answered, "Here I am, my son." Isaac said, "Here are the fire and the wood, but where is the lamb for the burnt offering?"
+Isaac spoke to Abraham his father and said, "My father." Abraham answered, "Here I am, my son." Isaac said, "Here are the fire and the wood, but where is the lamb for the burned offering?"
 
 ---
 
@@ -96,10 +96,10 @@ Isaac spoke to Abraham his father and said, "My father." Abraham answered, "Here
 **Original Reference**: Genesis 22:8 - Abraham said, "God will provide himself the lamb for a burnt offering, my son." So they both went together.
 
 #### Ages 5-7
-Abraham said, "My son, God himself will provide the lamb for the burnt offering." So the two of them kept walking together.
+Abraham said, "My son, God himself will provide the lamb for the burned offering." So the two of them kept walking together.
 
 #### Ages 8-10
-Abraham said, "My son, God himself will provide the lamb for the burnt offering." So the two of them went on together.
+Abraham said, "My son, God himself will provide the lamb for the burned offering." So the two of them went on together.
 
 ---
 
@@ -107,10 +107,10 @@ Abraham said, "My son, God himself will provide the lamb for the burnt offering.
 **Original Reference**: Genesis 22:9 - They came to the place which God had told him of. Abraham built the altar there, and laid the wood in order, bound Isaac his son, and laid him on the altar, on the wood.
 
 #### Ages 5-7
-They came to the place God had told Abraham about. Abraham built an altar there, laid the wood in order, bound Isaac his son, and placed him on the altar on top of the wood.
+They came to the place God had told Abraham about. Abraham built an altar there, laid the wood in order, tied Isaac his son, and placed him on the altar on top of the wood.
 
 #### Ages 8-10
-They came to the place God had told him about. Abraham built an altar there, arranged the wood, bound Isaac his son, and laid him on the altar on top of the wood.
+They came to the place God had told him about. Abraham built an altar there, arranged the wood, tied Isaac his son, and laid him on the altar on top of the wood.
 
 ---
 
@@ -140,7 +140,7 @@ But the angel of the Lord called to him from heaven, "Abraham, Abraham!" Abraham
 **Original Reference**: Genesis 22:12 - He said, "Don't lay your hand on the boy or do anything to him. For now I know that you fear God, since you have not withheld your son, your only son, from me."
 
 #### Ages 5-7
-The angel said, "Do not put your hand on the boy, and do not do anything to him. Now I know that you fear God, because you have not kept back your son, your only son, from me."
+The angel said, "Do not put your hand on the boy, and do not do anything to him. Now I know that you fear God and honor him, because you have not kept back your son, your only son, from me."
 
 #### Ages 8-10
 He said, "Do not lay your hand on the boy, and do not do anything to him. Now I know that you fear God, because you have not held back your son, your only son, from me."
@@ -151,10 +151,10 @@ He said, "Do not lay your hand on the boy, and do not do anything to him. Now I 
 **Original Reference**: Genesis 22:13 - Abraham lifted up his eyes, and looked, and saw that behind him was a ram caught in the thicket by his horns. Abraham went and took the ram, and offered him up for a burnt offering instead of his son.
 
 #### Ages 5-7
-Abraham lifted his eyes and looked. There behind him was a ram, caught by its horns in a bushy thicket. Abraham went and took the ram and offered it as a burnt offering instead of his son.
+Abraham lifted his eyes and looked. There behind him was a ram, caught by its horns in a thick bush. Abraham went and took the ram and offered it as a burned offering instead of his son.
 
 #### Ages 8-10
-Abraham looked up and saw a ram behind him, caught by its horns in a thicket. Abraham went and took the ram and offered it as a burnt offering instead of his son.
+Abraham looked up and saw a ram behind him, caught by its horns in a thick bush. Abraham went and took the ram and offered it as a burned offering instead of his son.
 
 ---
 
@@ -201,10 +201,10 @@ He said, "By myself I have sworn, says the Lord, because you have done this and 
 **Original Reference**: Genesis 22:17 - that I will bless you greatly, and I will multiply your offspring greatly like the stars of the heavens, and like the sand which is on the seashore. Your offspring will possess the gate of his enemies.
 
 #### Ages 5-7
-I will surely bless you. I will make your offspring many, like the stars shining in the sky and like the sand spread along the seashore. Your offspring will possess the gate of their enemies.
+I will surely bless you. I will make the family after you many, like the stars shining in the sky and like the sand spread along the seashore. Your family will have victory over their enemies.
 
 #### Ages 8-10
-I will surely bless you and greatly multiply your offspring like the stars of heaven and like the sand on the seashore. Your offspring will possess the gate of their enemies.
+I will surely bless you and greatly multiply your offspring like the stars of heaven and like the sand on the seashore. Your offspring will possess the gate of their enemies; they will have victory over them.
 
 ---
 
@@ -212,7 +212,7 @@ I will surely bless you and greatly multiply your offspring like the stars of he
 **Original Reference**: Genesis 22:18 - All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.' "
 
 #### Ages 5-7
-Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
+Through your family all the nations of the earth will be blessed, because you have obeyed my voice."
 
 #### Ages 8-10
 Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
@@ -278,10 +278,10 @@ Bethuel became the father of Rebekah. These eight children Milkah bore to Nahor,
 **Original Reference**: Genesis 22:24 - His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.
 
 #### Ages 5-7
-Nahor's concubine was named Reumah. She also had children: Tebah, Gaham, Tahash, and Maakah.
+Nahor also had a woman named Reumah. She had children too: Tebah, Gaham, Tahash, and Maakah.
 
 #### Ages 8-10
-Nahor's concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maakah.
+Nahor's concubine, a woman joined to him but not with the same place as a wife, was named Reumah. She also bore Tebah, Gaham, Tahash, and Maakah.
 
 ---
 

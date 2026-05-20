@@ -42,7 +42,7 @@ This was the field Abraham had bought from the sons of Heth. There Abraham was b
 After Abraham's death, God blessed his son Isaac, and Isaac lived by Beer Lahai Roi.
 
 ### Genesis 25:12
-These are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.
+This is the family line of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.
 
 ### Genesis 25:13
 These are the names of Ishmael's sons, listed by their names and family lines: Nebaioth, Ishmael's firstborn, then Kedar, Adbeel, Mibsam,
@@ -60,7 +60,7 @@ These were Ishmael's sons, and these were their names by their settlements and c
 Ishmael lived 137 years. Then he breathed his last and died, and he was gathered to his people.
 
 ### Genesis 25:18
-His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. He died in the presence of all his brothers.
+His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. He died near all his brothers.
 
 ### Genesis 25:19
 These are the generations of Isaac, Abraham's son: Abraham became the father of Isaac.
@@ -75,7 +75,7 @@ Isaac prayed to the Lord for his wife because she could not have children, and t
 The children struggled together inside her, and she said, "If this is so, why is this happening to me?" So she went to ask the Lord.
 
 ### Genesis 25:23
-The Lord said to her, "Two nations are in your womb, and two peoples will be separated from within you. One people will be stronger than the other, and the older will serve the younger."
+The Lord said to her, "Two nations are in your womb, and two peoples will come from within you. One people will be stronger than the other, and the older will serve the younger."
 
 ### Genesis 25:24
 When her time came to give birth, there were twins in her womb.

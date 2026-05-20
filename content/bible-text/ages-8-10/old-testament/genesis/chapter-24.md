@@ -12,7 +12,7 @@ Genesis
 Abraham was old and well advanced in years, and the Lord had blessed Abraham in everything.
 
 ### Genesis 24:2
-Abraham said to the oldest servant in his household, the one who managed all he had, "Please put your hand under my thigh.
+Abraham said to the oldest servant in his household, the one who managed all he had, "Please put your hand under my thigh as a sign of a solemn promise.
 
 ### Genesis 24:3
 I want you to swear by the Lord, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I live.
@@ -36,7 +36,7 @@ If the woman is not willing to follow you, then you will be free from this oath 
 So the servant put his hand under the thigh of Abraham his master and swore to him about this matter.
 
 ### Genesis 24:10
-Then the servant took ten of his master's camels and set out, carrying all kinds of good things from his master. He arose and went to Mesopotamia, to the city of Nahor.
+Then the servant took ten of his master's camels and set out, carrying all kinds of good things from his master. He arose and went far away to the city of Nahor.
 
 ### Genesis 24:11
 He made the camels kneel outside the city by a well of water in the evening, at the time when women came out to draw water.
@@ -66,7 +66,7 @@ She said, "Drink, my lord." She quickly lowered her jar to her hand and gave him
 When she had finished giving him a drink, she said, "I will draw water for your camels too, until they have finished drinking."
 
 ### Genesis 24:20
-She quickly emptied her jar into the trough and ran back to the well to draw more water, and she drew water for all his camels.
+She quickly emptied her jar into the animals' water trough and ran back to the well to draw more water, and she drew water for all his camels.
 
 ### Genesis 24:21
 The man watched her quietly, wondering whether the Lord had made his journey successful.
@@ -141,7 +141,7 @@ see, I am standing by the spring of water. When the young woman comes out to dra
 and she says to me, "Drink, and I will also draw water for your camels," let her be the woman whom the Lord has appointed for my master's son.'
 
 ### Genesis 24:45
-Before I had finished speaking in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please let me drink.'
+Before I had finished praying quietly in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please let me drink.'
 
 ### Genesis 24:46
 She quickly lowered her jar from her shoulder and said, 'Drink, and I will give your camels water also.' So I drank, and she watered the camels too.
@@ -186,7 +186,7 @@ They called Rebekah and said to her, "Will you go with this man?" She said, "I w
 So they sent away Rebekah their sister, her nurse, Abraham's servant, and his men.
 
 ### Genesis 24:60
-They blessed Rebekah and said to her, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them."
+They blessed Rebekah and said to her, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them; may your family have victory over them."
 
 ### Genesis 24:61
 Then Rebekah and her young women arose, mounted the camels, and followed the man. The servant took Rebekah and went on his way.
@@ -195,7 +195,7 @@ Then Rebekah and her young women arose, mounted the camels, and followed the man
 Now Isaac had come from the way of Beer Lahai Roi, for he lived in the Negev.
 
 ### Genesis 24:63
-Isaac went out into the field to meditate in the evening. He looked up and saw camels coming.
+Isaac went out into the field to meditate, to think quietly, in the evening. He looked up and saw camels coming.
 
 ### Genesis 24:64
 Rebekah also looked up, and when she saw Isaac, she got down from the camel.

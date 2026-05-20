@@ -12,10 +12,10 @@ Genesis
 Then Jacob continued on his journey and came to the land of the people of the east.
 
 ### Genesis 29:2
-He looked and saw a well in the field, and three flocks of sheep were lying by it. The flocks were watered from that well, and a large stone covered the well's mouth.
+He looked and saw a well in the field, and three flocks of sheep were lying by it. The flocks were watered from that well, and a large stone covered the well's opening.
 
 ### Genesis 29:3
-When all the flocks gathered there, the shepherds rolled the stone from the well's mouth, watered the sheep, and then put the stone back in its place.
+When all the flocks gathered there, the shepherds rolled the stone from the well's opening, watered the sheep, and then put the stone back in its place.
 
 ### Genesis 29:4
 Jacob said to them, "My brothers, where are you from?" They said, "We are from Haran."
@@ -24,19 +24,19 @@ Jacob said to them, "My brothers, where are you from?" They said, "We are from H
 He said to them, "Do you know Laban, the son of Nahor?" They answered, "We know him."
 
 ### Genesis 29:6
-He asked, "Is he well?" They said, "He is well, and behold, Rachel his daughter is coming with the sheep."
+He asked, "Is he well?" They said, "He is well, and look, Rachel his daughter is coming with the sheep."
 
 ### Genesis 29:7
-Jacob said, "Look, it is still high day, and it is not time for the livestock to be gathered. Water the sheep and go feed them."
+Jacob said, "Look, it is still bright day, and it is not time for the animals to be gathered. Water the sheep and go feed them."
 
 ### Genesis 29:8
-They said, "We cannot until all the flocks are gathered and the stone is rolled from the well's mouth. Then we water the sheep."
+They said, "We cannot until all the flocks are gathered and the stone is rolled from the well's opening. Then we water the sheep."
 
 ### Genesis 29:9
 While he was still speaking with them, Rachel came with her father's sheep, because she kept them.
 
 ### Genesis 29:10
-When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, he went near, rolled the stone from the well's mouth, and watered Laban's flock.
+When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, he went near, rolled the stone from the well's opening, and watered Laban's flock.
 
 ### Genesis 29:11
 Jacob kissed Rachel, lifted up his voice, and wept.
@@ -48,16 +48,16 @@ Jacob told Rachel that he was her father's relative and Rebekah's son. She ran a
 When Laban heard the news about Jacob, his sister's son, he ran to meet him, embraced him, kissed him, and brought him to his house. Jacob told Laban all these things.
 
 ### Genesis 29:14
-Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him for a month.
+Laban said to him, "Surely you are my own bone and flesh, my own family." Jacob stayed with him for a month.
 
 ### Genesis 29:15
-Laban said to Jacob, "Because you are my relative, should you serve me for nothing? Tell me, what shall your wages be?"
+Laban said to Jacob, "Because you are my relative, should you work for me for nothing? Tell me, what shall your wages be?"
 
 ### Genesis 29:16
 Laban had two daughters. The older was named Leah, and the younger was named Rachel.
 
 ### Genesis 29:17
-Leah had tender eyes, but Rachel was beautiful and well favored.
+Leah had gentle eyes, but Rachel was beautiful in form and face.
 
 ### Genesis 29:18
 Jacob loved Rachel and said, "I will serve you seven years for Rachel your younger daughter."
@@ -81,13 +81,13 @@ In the evening, Laban took Leah his daughter and brought her to Jacob, and she b
 Laban also gave Zilpah his servant woman to his daughter Leah to serve her.
 
 ### Genesis 29:25
-In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
+In the morning, look, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
 
 ### Genesis 29:26
 Laban said, "It is not done this way in our country, to give the younger before the firstborn."
 
 ### Genesis 29:27
-"Complete her week, and we will give you Rachel also for the service you will serve with me for seven more years."
+"Complete her wedding week, and we will give you Rachel also for the service you will serve with me for seven more years."
 
 ### Genesis 29:28
 Jacob did so and completed Leah's week. Then Laban gave him Rachel his daughter as a wife also.

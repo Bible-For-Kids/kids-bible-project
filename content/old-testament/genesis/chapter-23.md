@@ -51,7 +51,7 @@ Then Abraham rose up from beside his dead wife and spoke to the sons of Heth.
 **Original Reference**: Genesis 23:4 - "I am a stranger and a foreigner living with you. Give me a possession of a burying-place with you, that I may bury my dead out of my sight."
 
 #### Ages 5-7
-He said, "I am a stranger and a traveler living among you. Please give me a burial place here, so I may bury my dead out of my sight."
+He said, "I am a stranger and a traveler living among you. Please give me a burial place here, so I may bury my dead wife."
 
 #### Ages 8-10
 He said, "I am a stranger and a foreigner among you. Give me a burial place among you, so I may bury my dead out of my sight."
@@ -76,7 +76,7 @@ The sons of Heth answered Abraham.
 **Original Reference**: Genesis 23:6 - "Hear us, my lord. You are a prince of God among us. Bury your dead in the best of our tombs. None of us will withhold from you his tomb. Bury your dead."
 
 #### Ages 5-7
-They said, "Listen to us, my lord. You are a mighty prince among us. Bury your dead in the best of our tombs. None of us will keep his tomb from you."
+They said, "Listen to us, my lord. You are a mighty prince among us. Bury your dead wife in the best of our tombs. None of us will keep his tomb from you."
 
 #### Ages 8-10
 They said to him, "Hear us, my lord. You are a mighty prince among us. Bury your dead in the best of our tombs. None of us will refuse you his tomb for burying your dead."
@@ -101,7 +101,7 @@ Abraham stood up and bowed before the people of the land, the sons of Heth.
 **Original Reference**: Genesis 23:8 - He talked with them, saying, "If you agree that I should bury my dead out of my sight, hear me, and entreat for me to Ephron the son of Zohar,
 
 #### Ages 5-7
-He spoke with them and said, "If you are willing for me to bury my dead out of my sight, please listen to me. Speak for me to Ephron, the son of Zohar.
+He spoke with them and said, "If you are willing for me to bury my dead wife, please listen to me. Speak for me to Ephron, the son of Zohar.
 
 #### Ages 8-10
 He spoke with them and said, "If you are willing for me to bury my dead out of my sight, listen to me and ask Ephron son of Zohar for me.
@@ -187,10 +187,10 @@ Ephron answered Abraham.
 **Original Reference**: Genesis 23:15 - "My lord, listen to me. What is a piece of land worth four hundred shekels of silver between me and you? Therefore bury your dead."
 
 #### Ages 5-7
-He said, "My lord, listen to me. The land is worth 400 shekels of silver. What is that between you and me? Bury your dead."
+He said, "My lord, listen to me. The land is worth 400 pieces of silver. What is that between you and me? Bury your dead."
 
 #### Ages 8-10
-He said, "My lord, listen to me. The land is worth 400 shekels of silver. What is that between you and me? Bury your dead."
+He said, "My lord, listen to me. The land is worth 400 shekels of silver, a measured amount of money. What is that between you and me? Bury your dead."
 
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
@@ -201,7 +201,7 @@ He said, "My lord, listen to me. The land is worth 400 shekels of silver. What i
 **Original Reference**: Genesis 23:16 - Abraham listened to Ephron. Abraham weighed to Ephron the silver which he had named in the hearing of the children of Heth, four hundred shekels of silver, according to the current merchants' standard.
 
 #### Ages 5-7
-Abraham listened to Ephron. Abraham weighed out the silver Ephron had named where the sons of Heth could hear: 400 shekels of silver, the kind merchants used.
+Abraham listened to Ephron. Abraham weighed out the silver Ephron had named where the sons of Heth could hear: 400 pieces of silver, the kind merchants used.
 
 #### Ages 8-10
 Abraham listened to Ephron, and Abraham weighed out for him the silver he had named in the hearing of the sons of Heth: 400 shekels of silver, according to the merchants' standard.
@@ -212,7 +212,7 @@ Abraham listened to Ephron, and Abraham weighed out for him the silver he had na
 **Original Reference**: Genesis 23:17 - So the field of Ephron, which was in Machpelah, which was before Mamre, the field, the cave which was in it, and all the trees that were in the field, that were in all of its borders, were deeded
 
 #### Ages 5-7
-So Ephron's field in Machpelah, near Mamre, became sure as Abraham's. The field, the cave in it, and all the trees around its borders were included.
+So Ephron's field in Machpelah, near Mamre, became truly Abraham's. The field, the cave in it, and all the trees around its borders were included.
 
 #### Ages 8-10
 So Ephron's field in Machpelah, near Mamre, the field, the cave in it, and all the trees within its borders, were made sure
@@ -223,10 +223,13 @@ So Ephron's field in Machpelah, near Mamre, the field, the cave in it, and all t
 **Original Reference**: Genesis 23:18 - to Abraham for a possession in the presence of the children of Heth, before all who went in at the gate of his city.
 
 #### Ages 5-7
-It became Abraham's possession in front of the sons of Heth and everyone who came to the gate of the city.
+It became Abraham's own land in front of the sons of Heth and everyone who came to the gate of the city.
 
 #### Ages 8-10
 as Abraham's possession in the presence of the sons of Heth, before all who came to the gate of his city.
+
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 

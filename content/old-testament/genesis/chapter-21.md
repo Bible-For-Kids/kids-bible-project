@@ -61,10 +61,10 @@ Abraham gave the name Isaac to the son Sarah bore him.
 **Original Reference**: Genesis 21:4 - Abraham circumcised his son, Isaac, when he was eight days old, as God had commanded him.
 
 #### Ages 5-7
-When Isaac was eight days old, Abraham circumcised him, just as God had commanded.
+When Isaac was eight days old, Abraham gave him the covenant sign, just as God had commanded.
 
 #### Ages 8-10
-When his son Isaac was eight days old, Abraham circumcised him, as God had commanded.
+When his son Isaac was eight days old, Abraham gave him the covenant sign, as God had commanded.
 
 **Key Vocabulary**:
 - Isaac: Abraham and Sarah's promised son
@@ -136,10 +136,10 @@ Sarah saw that the son Hagar the Egyptian had borne to Abraham was mocking.
 **Original Reference**: Genesis 21:10 - Therefore she said to Abraham, "Cast out this servant and her son! For the son of this servant will not be heir with my son, Isaac."
 
 #### Ages 5-7
-So Sarah said to Abraham, "Send away this servant woman and her son. That woman's son must not share the inheritance with my son Isaac."
+So Sarah said to Abraham, "Send away this servant woman and her son. That woman's son must not share the family inheritance with my son Isaac."
 
 #### Ages 8-10
-So she said to Abraham, "Get rid of that slave woman and her son, because that woman's son will never share in the inheritance with my son Isaac."
+So she said to Abraham, "Send away that slave woman and her son, because that woman's son must not share the family inheritance with my son Isaac."
 
 **Key Vocabulary**:
 - Isaac: Abraham and Sarah's promised son
@@ -161,12 +161,13 @@ This matter distressed Abraham greatly because it concerned his son.
 **Original Reference**: Genesis 21:12 - God said to Abraham, "Don't let it be grievous in your sight because of the boy, and because of your servant. In all that Sarah says to you, listen to her voice. For your offspring will be named through Isaac.
 
 #### Ages 5-7
-But God said to Abraham, "Do not be troubled about the boy and your servant woman. Listen to Sarah, because your offspring will be counted through Isaac.
+But God said to Abraham, "Do not be troubled about the boy and your servant woman. Listen to Sarah, because the promised family line will be counted through Isaac.
 
 #### Ages 8-10
-But God said to Abraham, "Do not be distressed about the boy and your slave woman. Listen to whatever Sarah tells you, because your offspring will be counted through Isaac.
+But God said to Abraham, "Do not be distressed about the boy and your slave woman. Listen to whatever Sarah tells you, because your promised family line will be counted through Isaac.
 
 **Key Vocabulary**:
+- promise: Words someone says and keeps
 - Isaac: Abraham and Sarah's promised son
 
 ---
@@ -175,10 +176,10 @@ But God said to Abraham, "Do not be distressed about the boy and your slave woma
 **Original Reference**: Genesis 21:13 - I will also make a nation of the son of the servant, because he is your child."
 
 #### Ages 5-7
-I will also make the servant woman's son into a nation, because he is your offspring too."
+I will also make the servant woman's son into a nation, because he is your child too."
 
 #### Ages 8-10
-I will also make the son of the slave woman into a nation, because he is your offspring."
+I will also make the son of the slave woman into a nation, because he is your child too."
 
 ---
 
@@ -186,10 +187,10 @@ I will also make the son of the slave woman into a nation, because he is your of
 **Original Reference**: Genesis 21:14 - Abraham rose up early in the morning, and took bread and a container of water, and gave it to Hagar, putting it on her shoulder; and gave her the child, and sent her away. She departed, and wandered in the wilderness of Beersheba.
 
 #### Ages 5-7
-Early the next morning, Abraham gave Hagar bread and a skin of water. He placed them on her shoulder and sent her away with the boy. She wandered in the wilderness of Beersheba.
+Early the next morning, Abraham gave Hagar bread and a water-skin bag. He placed them on her shoulder and sent her away with the boy. She wandered in the wilderness of Beersheba.
 
 #### Ages 8-10
-Early the next morning, Abraham took bread and a skin of water and gave them to Hagar. He placed them on her shoulder and sent her away with the boy. She wandered in the wilderness of Beersheba.
+Early the next morning, Abraham took bread and a water-skin bag and gave them to Hagar. He placed them on her shoulder and sent her away with the boy. She wandered in the wilderness of Beersheba.
 
 **Key Vocabulary**:
 - wilderness: A wild place away from settled towns
@@ -200,7 +201,7 @@ Early the next morning, Abraham took bread and a skin of water and gave them to 
 **Original Reference**: Genesis 21:15 - The water in the container was spent, and she put the child under one of the shrubs.
 
 #### Ages 5-7
-When the water in the skin was gone, Hagar put the boy under one of the bushes.
+When the water in the bag was gone, Hagar put the boy under one of the bushes.
 
 #### Ages 8-10
 When the water in the skin was gone, she put the boy under one of the bushes.
@@ -211,10 +212,10 @@ When the water in the skin was gone, she put the boy under one of the bushes.
 **Original Reference**: Genesis 21:16 - She went and sat down opposite him, a good way off, about a bow shot away. For she said, "Don't let me see the death of the child." She sat opposite him, and lifted up her voice, and wept.
 
 #### Ages 5-7
-Then she went and sat down a little way off, about a bowshot away. She said, "I cannot watch the boy die." She sat there and began to cry.
+Then she went and sat down a little way off, about as far as an arrow can fly. She said, "I cannot watch the boy die." She sat there and began to cry.
 
 #### Ages 8-10
-Then she went and sat down about a bowshot away, because she thought, "I cannot watch the boy die." As she sat there, she began to sob.
+Then she went and sat down about as far away as an arrow can fly, because she thought, "I cannot watch the boy die." As she sat there, she began to sob.
 
 ---
 
@@ -258,10 +259,10 @@ Then God opened Hagar's eyes, and she saw a well of water. She went, filled the 
 **Original Reference**: Genesis 21:20 - God was with the boy, and he grew. He lived in the wilderness, and as he grew up, became an archer.
 
 #### Ages 5-7
-God was with the boy as he grew up. He lived in the wilderness and became an archer.
+God was with the boy as he grew up. He lived in the wilderness and became a man who used a bow and arrows.
 
 #### Ages 8-10
-God was with the boy as he grew up. He lived in the wilderness and became an archer.
+God was with the boy as he grew up. He lived in the wilderness and became an archer, a man skilled with a bow and arrows.
 
 **Key Vocabulary**:
 - wilderness: A wild place away from settled towns
@@ -297,10 +298,13 @@ At that time, Abimelek and Phicol, the commander of his army, said to Abraham, "
 **Original Reference**: Genesis 21:23 - Now, therefore, swear to me here by God that you will not deal falsely with me, nor with my son, nor with my son's son. But according to the kindness that I have done to you, you shall do to me, and to the land in which you have lived as a foreigner."
 
 #### Ages 5-7
-Now swear to me here before God that you will not deal falsely with me, my children, or my descendants. Show me and the land where you live the same kindness I have shown you."
+Now promise me here before God that you will not lie or deal falsely with me, my children, or the family after me. Show me and the land where you live the same kindness I have shown you."
 
 #### Ages 8-10
 Now swear to me here before God that you will not deal falsely with me, my children, or my descendants. Show me and the land where you live the same kindness I have shown you."
+
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 ---
 
@@ -344,10 +348,13 @@ Abimelek said, "I do not know who has done this. You did not tell me, and I only
 **Original Reference**: Genesis 21:27 - Abraham took sheep and cattle, and gave them to Abimelech. Those two made a covenant.
 
 #### Ages 5-7
-So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a covenant.
+So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a covenant, a serious promise agreement.
 
 #### Ages 8-10
-So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a covenant.
+So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a covenant, a serious promise agreement.
+
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 ---
 
@@ -377,10 +384,10 @@ Abimelek asked Abraham, "What is the meaning of these seven lambs you have set a
 **Original Reference**: Genesis 21:30 - He said, "You shall take these seven ewe lambs from my hand, that it may be a witness to me, that I have dug this well."
 
 #### Ages 5-7
-Abraham answered, "Accept these seven lambs from my hand as a witness that I dug this well."
+Abraham answered, "Accept these seven lambs from my hand. They will be a witness, a sign that I dug this well."
 
 #### Ages 8-10
-Abraham answered, "Accept these seven lambs from my hand as a witness that I dug this well."
+Abraham answered, "Accept these seven lambs from my hand as a witness, a sign that I dug this well."
 
 **Key Vocabulary**:
 - well: A deep hole dug to bring up water
@@ -391,12 +398,13 @@ Abraham answered, "Accept these seven lambs from my hand as a witness that I dug
 **Original Reference**: Genesis 21:31 - Therefore he called that place Beersheba, because they both swore an oath there.
 
 #### Ages 5-7
-That is why the place was called Beersheba, because the two men swore an oath there.
+That is why the place was called Beersheba, because the two men made a serious promise there.
 
 #### Ages 8-10
 That is why the place was called Beersheba, because the two men swore an oath there.
 
 **Key Vocabulary**:
+- promise: Words someone says and keeps
 - oath: A serious promise made before God
 
 ---
@@ -416,10 +424,10 @@ After they made the covenant at Beersheba, Abimelek and Phicol returned to the l
 **Original Reference**: Genesis 21:33 - Abraham planted a tamarisk tree in Beersheba, and called there on the name of Yahweh, the Everlasting God.
 
 #### Ages 5-7
-Abraham planted a tamarisk tree in Beersheba. There he called on the name of the Lord, the Everlasting God.
+Abraham planted a tamarisk tree in Beersheba. There he called on the name of the Lord, the God who lives forever.
 
 #### Ages 8-10
-Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Everlasting God.
+Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Everlasting God who lives forever.
 
 ---
 

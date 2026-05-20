@@ -21,7 +21,7 @@ The Lord appeared to Isaac and said, "Do not go down to Egypt. Live in the land 
 "I will multiply your descendants like the stars of heaven. I will give all these countries to your descendants, and in your descendants all the nations of the earth will be blessed."
 
 ### Genesis 26:5
-God said this was because Abraham obeyed his voice and kept his charge, his commandments, his statutes, and his laws.
+God said this was because Abraham obeyed his voice and kept what God commanded, taught, and required.
 
 ### Genesis 26:6
 So Isaac lived in Gerar.
@@ -66,7 +66,7 @@ Isaac dug again the wells that had been dug in the days of Abraham his father, b
 Isaac's servants dug in the valley and found a well of springing water.
 
 ### Genesis 26:20
-The herdsmen of Gerar argued with Isaac's herdsmen, saying, "The water is ours." Isaac named the well Esek, because they had argued with him.
+The herdsmen, the men who cared for animals, in Gerar argued with Isaac's herdsmen, saying, "The water is ours." Isaac named the well Esek, because they had argued with him.
 
 ### Genesis 26:21
 They dug another well, and the people argued over that one too. Isaac named it Sitnah.
@@ -90,7 +90,7 @@ Then Abimelek came to Isaac from Gerar with Ahuzzath, one of his friends, and Ph
 Isaac said to them, "Why have you come to me, since you hated me and sent me away from you?"
 
 ### Genesis 26:28
-They said, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath between us and you, and let us make a covenant with you.'"
+They said, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath, a solemn promise, between us and you, and let us make a covenant with you.'"
 
 ### Genesis 26:29
 "Promise that you will do us no harm, just as we have not touched you and have done only good to you. We sent you away in peace, and now you are blessed by the Lord."

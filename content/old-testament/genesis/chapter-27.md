@@ -38,10 +38,10 @@ Isaac said, "See now, I am old, and I do not know the day of my death."
 **Original Reference**: Genesis 27:3 - Now therefore, please take your weapons, your quiver and your bow, and go out to the field, and get me venison.
 
 #### Ages 5-7
-"Please take your hunting tools, your quiver and your bow, and go out into the field. Hunt some wild game for me."
+"Please take your hunting tools, your arrow case and your bow, and go out into the field. Hunt some wild game for me."
 
 #### Ages 8-10
-"Please take your weapons, your quiver and your bow, and go out to the field to hunt some game for me."
+"Please take your weapons, your quiver, which holds arrows, and your bow, and go out to the field to hunt some game for me."
 
 ---
 
@@ -49,7 +49,7 @@ Isaac said, "See now, I am old, and I do not know the day of my death."
 **Original Reference**: Genesis 27:4 - Make me savory food, such as I love, and bring it to me, that I may eat, and that my soul may bless you before I die."
 
 #### Ages 5-7
-"Then make me the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
+"Then make me the tasty food I love and bring it to me to eat, so that I may bless you from my heart before I die."
 
 #### Ages 8-10
 "Prepare the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
@@ -137,10 +137,10 @@ Jacob said to Rebekah his mother, "Esau my brother is a hairy man, and I am a sm
 **Original Reference**: Genesis 27:12 - What if my father touches me? I will seem to him as a deceiver, and I would bring a curse on myself, and not a blessing."
 
 #### Ages 5-7
-"Perhaps my father will touch me, and then I will seem to him like someone trying to deceive him. I might bring a curse on myself instead of a blessing."
+"Perhaps my father will touch me, and then I will seem to him like someone trying to trick him. I might bring a curse on myself instead of a blessing."
 
 #### Ages 8-10
-"Perhaps my father will feel me, and I will seem to him like a deceiver. Then I would bring a curse on myself and not a blessing."
+"Perhaps my father will feel me, and I will seem to him like a deceiver, someone trying to trick him. Then I would bring a curse on myself and not a blessing."
 
 **Key Vocabulary**:
 - blessing: Good spoken or given by God
@@ -217,7 +217,7 @@ Jacob went to his father and said, "My father." Isaac said, "Here I am. Who are 
 **Original Reference**: Genesis 27:19 - Jacob said to his father, "I am Esau your firstborn. I have done what you asked me to do. Please arise, sit and eat of my venison, that your soul may bless me."
 
 #### Ages 5-7
-Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please sit up and eat my wild game, so your soul may bless me."
+Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please sit up and eat my wild game, so you may bless me from your heart."
 
 #### Ages 8-10
 Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so your soul may bless me."
@@ -286,7 +286,7 @@ Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am."
 **Original Reference**: Genesis 27:25 - He said, "Bring it near to me, and I will eat of my son's venison, that my soul may bless you." He brought it near to him, and he ate. He brought him wine, and he drank.
 
 #### Ages 5-7
-Isaac said, "Bring the food near to me, and I will eat my son's wild game, so my soul may bless you." Jacob brought it near, and Isaac ate. Jacob also brought him wine, and he drank.
+Isaac said, "Bring the food near to me, and I will eat my son's wild game, so I may bless you from my heart." Jacob brought it near, and Isaac ate. Jacob also brought him wine, and he drank.
 
 #### Ages 8-10
 Isaac said, "Bring it near to me, and I will eat my son's game, so my soul may bless you." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
@@ -420,13 +420,15 @@ Isaac said, "Your brother came with deceit and has taken away your blessing."
 **Original Reference**: Genesis 27:36 - He said, "Isn't he rightly named Jacob? For he has supplanted me these two times. He took away my birthright. See, now he has taken away my blessing." He said, "Haven't you reserved a blessing for me?"
 
 #### Ages 5-7
-Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, and now he has taken away my blessing." Then Esau asked, "Have you not kept a blessing for me?"
+Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, the special family place of the firstborn, and now he has taken away my blessing." Then Esau asked, "Have you not kept a blessing for me?"
 
 #### Ages 8-10
-Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, and now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
+Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, the special family place of the firstborn, and now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
 
 **Key Vocabulary**:
 - blessing: Good spoken or given by God
+- firstborn: The child born first in a family
+- family: People joined by parents, children, marriage, or covenant promise
 
 ---
 
@@ -470,10 +472,10 @@ Isaac his father answered him, "Your dwelling shall be of the richness of the ea
 **Original Reference**: Genesis 27:40 - You will live by your sword, and you will serve your brother. It will happen, when you will break loose, that you will shake his yoke from off your neck."
 
 #### Ages 5-7
-"By your sword you shall live, and you shall serve your brother. But when you have the rule, you shall break his yoke from off your neck."
+"By your sword you shall live, and you shall serve your brother. But when you break free, you shall break his yoke, his heavy rule, from off your neck."
 
 #### Ages 8-10
-"By your sword you shall live, and you shall serve your brother. But when you have dominion, you shall break his yoke from off your neck."
+"By your sword you shall live, and you shall serve your brother. But when you have dominion, you shall break his yoke, his heavy rule, from off your neck."
 
 ---
 
@@ -481,10 +483,10 @@ Isaac his father answered him, "Your dwelling shall be of the richness of the ea
 **Original Reference**: Genesis 27:41 - Esau hated Jacob because of the blessing with which his father blessed him. Esau said in his heart, "The days of mourning for my father are at hand. Then I will kill my brother Jacob."
 
 #### Ages 5-7
-Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "The days of mourning for my father are near. Then I will kill my brother Jacob."
+Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "Soon people will mourn because my father has died. Then I will kill my brother Jacob."
 
 #### Ages 8-10
-Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "The days of mourning for my father are near. Then I will kill my brother Jacob."
+Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "Soon the days of mourning for my father will come. Then I will kill my brother Jacob."
 
 **Key Vocabulary**:
 - blessing: Good spoken or given by God
@@ -506,7 +508,7 @@ Rebekah was told the words of Esau her older son. She sent for Jacob her younger
 **Original Reference**: Genesis 27:43 - Now therefore, my son, obey my voice. Arise, flee to Laban, my brother, in Haran.
 
 #### Ages 5-7
-"Now, my son, listen to my voice. Get up and flee to my brother Laban in Haran."
+"Now, my son, listen to my voice. Get up and run away to my brother Laban in Haran."
 
 #### Ages 8-10
 "Now therefore, my son, obey my voice. Arise and flee to my brother Laban in Haran."
@@ -539,7 +541,7 @@ Rebekah was told the words of Esau her older son. She sent for Jacob her younger
 **Original Reference**: Genesis 27:46 - Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife of the daughters of Heth, such as these, of the daughters of the land, what good will my life do me?"
 
 #### Ages 5-7
-Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife from the daughters of Heth, like the women of this land, what good will my life be to me?"
+Rebekah said to Isaac, "I am tired of life because of the daughters of Heth. If Jacob takes a wife from the daughters of Heth, like the women of this land, what good will my life be to me?"
 
 #### Ages 8-10
 Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife from the daughters of Heth, like these women of the land, what good will my life be to me?"

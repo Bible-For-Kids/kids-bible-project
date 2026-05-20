@@ -38,7 +38,7 @@ Isaac called Jacob, blessed him, and commanded him, saying, "You shall not take 
 **Original Reference**: Genesis 28:3 - May God Almighty bless you, and make you fruitful, and multiply you, that you may be a company of peoples,
 
 #### Ages 5-7
-"May God Almighty bless you, make you fruitful, and multiply you, so that you may become a multitude of people."
+"May God Almighty bless you, give you children, and make your family grow into many people."
 
 #### Ages 8-10
 "May God Almighty bless you, make you fruitful, and multiply you, so that you may become a multitude of people."
@@ -49,7 +49,7 @@ Isaac called Jacob, blessed him, and commanded him, saying, "You shall not take 
 **Original Reference**: Genesis 28:4 - and give you the blessing of Abraham, to you and to your offspring with you, that you may inherit the land where you travel, which God gave to Abraham."
 
 #### Ages 5-7
-"May he give you the blessing of Abraham, to you and to your children after you, so that you may inherit the land where you are a stranger, the land God gave to Abraham."
+"May he give you the blessing of Abraham, to you and to your children after you, so that you may receive the land where you are a stranger, the land God gave to Abraham."
 
 #### Ages 8-10
 "May he give you the blessing of Abraham, to you and to your descendants with you, so that you may inherit the land where you are a stranger, which God gave to Abraham."
@@ -137,10 +137,10 @@ He came to a certain place and stayed there all night because the sun had set. H
 **Original Reference**: Genesis 28:12 - He dreamed and saw a stairway set upon the earth, and its top reached to heaven. Behold, the angels of God were ascending and descending on it.
 
 #### Ages 5-7
-Jacob dreamed, and behold, a ladder stood on the earth, with its top reaching to heaven. The angels of God were going up and coming down on it.
+Jacob dreamed. He saw a stairway standing on the earth, with its top reaching to heaven. The angels of God were going up and coming down on it.
 
 #### Ages 8-10
-He dreamed, and behold, a ladder was set up on the earth with its top reaching to heaven. The angels of God were ascending and descending on it.
+He dreamed and saw a stairway set up on the earth with its top reaching to heaven. The angels of God were going up and coming down on it.
 
 **Key Vocabulary**:
 - dream: A picture or message seen while sleeping
@@ -201,7 +201,7 @@ Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did
 **Original Reference**: Genesis 28:17 - He was afraid, and said, "How awesome this place is! This is none other than God's house, and this is the gate of heaven."
 
 #### Ages 5-7
-He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
+He was filled with awe and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
 
 #### Ages 8-10
 He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
@@ -212,10 +212,10 @@ He was afraid and said, "How awesome this place is! This is none other than the 
 **Original Reference**: Genesis 28:18 - Jacob rose up early in the morning, and took the stone that he had put under his head, and set it up for a pillar, and poured oil on its top.
 
 #### Ages 5-7
-Jacob rose early in the morning. He took the stone he had set near his head, stood it up as a pillar, and poured oil on top of it.
+Jacob rose early in the morning. He took the stone he had set near his head, stood it upright like a marker, and poured oil on top of it.
 
 #### Ages 8-10
-Jacob rose early in the morning, took the stone he had put near his head, set it up as a pillar, and poured oil on top of it.
+Jacob rose early in the morning, took the stone he had put near his head, set it up as a pillar-marker, and poured oil on top of it.
 
 ---
 
@@ -237,10 +237,13 @@ He called the name of that place Bethel, though the city had been called Luz at 
 **Original Reference**: Genesis 28:20 - Jacob vowed a vow, saying, "If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and clothing to put on,
 
 #### Ages 5-7
-Jacob made a vow, saying, "If God will be with me, keep me on this way I am going, and give me bread to eat and clothes to wear,"
+Jacob made a vow, a serious promise, saying, "If God will be with me, keep me on this way I am going, and give me bread to eat and clothes to wear,"
 
 #### Ages 8-10
-Jacob made a vow, saying, "If God will be with me, keep me in this way that I go, and give me bread to eat and clothing to wear,"
+Jacob made a vow, a solemn promise, saying, "If God will be with me, keep me in this way that I go, and give me bread to eat and clothing to wear,"
+
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 ---
 
@@ -259,10 +262,10 @@ Jacob made a vow, saying, "If God will be with me, keep me in this way that I go
 **Original Reference**: Genesis 28:22 - then this stone, which I have set up for a pillar, will be God's house. Of all that you will give me I will surely give a tenth to you."
 
 #### Ages 5-7
-"This stone, which I have set up as a pillar, shall be God's house. Of all that you give me, I will surely give a tenth to you."
+"This stone, which I have set up as a marker, shall be God's house. Of all that you give me, I will surely give one tenth back to you."
 
 #### Ages 8-10
-"This stone, which I have set as a pillar, shall be God's house. Of all that you give me, I will surely give a tenth to you."
+"This stone, which I have set as a pillar-marker, shall be God's house. Of all that you give me, I will surely give a tenth to you."
 
 ---
 

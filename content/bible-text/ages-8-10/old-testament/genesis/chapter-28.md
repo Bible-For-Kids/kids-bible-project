@@ -42,7 +42,7 @@ Jacob went out from Beersheba and went toward Haran.
 He came to a certain place and stayed there all night because the sun had set. He took some stones from that place, put them near his head, and lay down there to sleep.
 
 ### Genesis 28:12
-He dreamed, and behold, a ladder was set up on the earth with its top reaching to heaven. The angels of God were ascending and descending on it.
+He dreamed and saw a stairway set up on the earth with its top reaching to heaven. The angels of God were going up and coming down on it.
 
 ### Genesis 28:13
 The Lord stood above the stairway and said, "I am the Lord God of Abraham your father and the God of Isaac. The land where you lie I will give to you and to your descendants."
@@ -60,16 +60,16 @@ Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did
 He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
 
 ### Genesis 28:18
-Jacob rose early in the morning, took the stone he had put near his head, set it up as a pillar, and poured oil on top of it.
+Jacob rose early in the morning, took the stone he had put near his head, set it up as a pillar-marker, and poured oil on top of it.
 
 ### Genesis 28:19
 He called the name of that place Bethel, though the city had been called Luz at first.
 
 ### Genesis 28:20
-Jacob made a vow, saying, "If God will be with me, keep me in this way that I go, and give me bread to eat and clothing to wear,"
+Jacob made a vow, a solemn promise, saying, "If God will be with me, keep me in this way that I go, and give me bread to eat and clothing to wear,"
 
 ### Genesis 28:21
 "so that I come back to my father's house in peace, then the Lord shall be my God."
 
 ### Genesis 28:22
-"This stone, which I have set as a pillar, shall be God's house. Of all that you give me, I will surely give a tenth to you."
+"This stone, which I have set as a pillar-marker, shall be God's house. Of all that you give me, I will surely give a tenth to you."

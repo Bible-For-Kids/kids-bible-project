@@ -18,19 +18,19 @@ Sarah died at Kiriath Arba, which is Hebron, in the land of Canaan. Abraham came
 Then Abraham stood up from beside his dead wife and spoke to the sons of Heth.
 
 ### Genesis 23:4
-He said, "I am a stranger and a traveler living among you. Please give me a burial place here, so I may bury my dead out of my sight."
+He said, "I am a stranger and a traveler living among you. Please give me a burial place here, so I may bury my dead wife."
 
 ### Genesis 23:5
 The sons of Heth answered Abraham.
 
 ### Genesis 23:6
-They said, "Listen to us, my lord. You are a mighty prince among us. Bury your dead in the best of our tombs. None of us will keep his tomb from you."
+They said, "Listen to us, my lord. You are a mighty prince among us. Bury your dead wife in the best of our tombs. None of us will keep his tomb from you."
 
 ### Genesis 23:7
 Abraham stood and bowed low before the people of the land, the sons of Heth.
 
 ### Genesis 23:8
-He spoke with them and said, "If you are willing for me to bury my dead out of my sight, please listen to me. Speak for me to Ephron, the son of Zohar.
+He spoke with them and said, "If you are willing for me to bury my dead wife, please listen to me. Speak for me to Ephron, the son of Zohar.
 
 ### Genesis 23:9
 Ask him to give me the cave of Machpelah, the cave he owns at the end of his field. Let him sell it to me for the full price, so I may have it as a burial place among you."
@@ -51,16 +51,16 @@ Then Abraham spoke to Ephron where the people could hear. He said, "Please liste
 Ephron answered Abraham.
 
 ### Genesis 23:15
-He said, "My lord, listen to me. The land is worth 400 shekels of silver. What is that between you and me? Bury your dead."
+He said, "My lord, listen to me. The land is worth 400 pieces of silver. What is that between you and me? Bury your dead."
 
 ### Genesis 23:16
-Abraham listened to Ephron. Abraham weighed out the silver Ephron had named where the sons of Heth could hear: 400 shekels of silver, the kind merchants used.
+Abraham listened to Ephron. Abraham weighed out the silver Ephron had named where the sons of Heth could hear: 400 pieces of silver, the kind merchants used.
 
 ### Genesis 23:17
-So Ephron's field in Machpelah, near Mamre, became sure as Abraham's. The field, the cave in it, and all the trees around its borders were included.
+So Ephron's field in Machpelah, near Mamre, became truly Abraham's. The field, the cave in it, and all the trees around its borders were included.
 
 ### Genesis 23:18
-It became Abraham's possession in front of the sons of Heth and everyone who came to the gate of the city.
+It became Abraham's own land in front of the sons of Heth and everyone who came to the gate of the city.
 
 ### Genesis 23:19
 After this, Abraham buried Sarah his wife in the cave of the field of Machpelah near Mamre, which is Hebron, in the land of Canaan.

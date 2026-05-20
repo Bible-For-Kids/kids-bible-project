@@ -72,10 +72,10 @@ Leah said, "God has given me a good gift. Now my husband will live with me, beca
 Afterward she bore a daughter and named her Dinah.
 
 ### Genesis 30:22
-God remembered Rachel, listened to her, and opened her womb.
+God remembered Rachel, listened to her, and opened her womb so she could have a child.
 
 ### Genesis 30:23
-She conceived and bore a son. She said, "God has taken away my reproach."
+She conceived and bore a son. She said, "God has taken away my reproach, my shame."
 
 ### Genesis 30:24
 She named him Joseph and said, "The Lord shall add to me another son."
@@ -90,10 +90,10 @@ After Rachel bore Joseph, Jacob said to Laban, "Send me away, so I may go to my 
 Laban said to him, "Please, if I have found favor in your eyes, stay. I have learned by experience that the Lord has blessed me for your sake."
 
 ### Genesis 30:28
-He said, "Name your wages, and I will give them."
+He said, "Name your wages, what I should pay you, and I will give them."
 
 ### Genesis 30:29
-Jacob said to him, "You know how I have served you and how your livestock have done with me."
+Jacob said to him, "You know how I have served you and how your livestock, your animals, have done with me."
 
 ### Genesis 30:30
 "You had little before I came, and now it has increased into a multitude. The Lord has blessed you since I came. Now when shall I provide for my own household also?"
@@ -105,7 +105,7 @@ Laban said, "What shall I give you?" Jacob said, "You shall not give me anything
 "Today I will pass through all your flock, removing every speckled and spotted animal, every brown sheep, and the spotted and speckled goats. These shall be my wages."
 
 ### Genesis 30:33
-"My righteousness will answer for me in the future, when my wages come before you. Any goat with me that is not speckled or spotted, and any sheep that is not brown, shall be counted as stolen."
+"My honesty will answer for me in the future, when my wages come before you. Any goat with me that is not speckled or spotted, and any sheep that is not brown, shall be counted as stolen."
 
 ### Genesis 30:34
 Laban said, "Let it be according to your word."
@@ -117,22 +117,22 @@ That day Laban removed the male goats that were streaked and spotted, all the fe
 He set three days' journey between himself and Jacob, and Jacob fed the rest of Laban's flocks.
 
 ### Genesis 30:37
-Jacob took fresh rods of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the rods.
+Jacob took fresh sticks of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the sticks.
 
 ### Genesis 30:38
-He set the peeled rods before the flocks in the gutters and watering troughs where the flocks came to drink, so they would see them when they came to drink.
+He set the peeled sticks before the flocks in the water channels and troughs where the flocks came to drink, so they would see them when they came to drink.
 
 ### Genesis 30:39
-The flocks bred near the rods and brought forth animals that were streaked, speckled, and spotted.
+The flocks bred near the sticks and brought forth animals that were streaked, speckled, and spotted.
 
 ### Genesis 30:40
 Jacob separated the lambs and set the faces of the flocks toward the streaked animals and all the brown animals in Laban's flock. He put his own flocks by themselves and did not put them with Laban's animals.
 
 ### Genesis 30:41
-Whenever the stronger animals bred, Jacob laid the rods before their eyes in the watering troughs, so they would breed among the rods.
+Whenever the stronger animals bred, Jacob laid the sticks before their eyes in the watering troughs, so they would breed among the sticks.
 
 ### Genesis 30:42
-But when the animals were weak, he did not put the rods there. So the weaker animals were Laban's, and the stronger animals were Jacob's.
+But when the animals were weak, he did not put the sticks there. So the weaker animals were Laban's, and the stronger animals were Jacob's.
 
 ### Genesis 30:43
 Jacob increased greatly and had many animals, female servants, male servants, camels, and donkeys.

@@ -93,7 +93,7 @@ These were the years of Abraham's life: 175 years.
 **Original Reference**: Genesis 25:8 - Abraham gave up his spirit, and died at a good old age, an old man, and full of years, and was gathered to his people.
 
 #### Ages 5-7
-Then Abraham breathed his last and died at a good old age. He was an old man, full of years, and he was gathered to his people.
+Then Abraham breathed his last and died at a good old age. He was an old man who had lived many years, and he was gathered to his people.
 
 #### Ages 8-10
 Then Abraham breathed his last and died at a good old age, an old man and full of years, and he was gathered to his people.
@@ -137,10 +137,10 @@ After Abraham's death, God blessed his son Isaac, and Isaac lived by Beer Lahai 
 **Original Reference**: Genesis 25:12 - Now this is the history of the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.
 
 #### Ages 5-7
-These are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, had borne to Abraham.
+This is the family line of Ishmael, Abraham's son. Hagar the Egyptian, Sarah's servant, had given birth to him for Abraham.
 
 #### Ages 8-10
-These are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.
+This is the family line of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.
 
 **Key Vocabulary**:
 - generation: People living in the same time, or a step in a family line
@@ -184,7 +184,7 @@ Hadar, Tema, Jetur, Naphish, and Kedemah.
 **Original Reference**: Genesis 25:16 - These are the sons of Ishmael, and these are their names, by their villages, and by their encampments: twelve princes, according to their nations.
 
 #### Ages 5-7
-These were Ishmael's sons. Their names were remembered by their towns and camps. They were twelve princes according to their nations.
+These were Ishmael's sons. Their names were remembered by their towns and camps. They were twelve leaders over their nations.
 
 #### Ages 8-10
 These were Ishmael's sons, and these were their names by their settlements and camps: twelve princes according to their nations.
@@ -206,10 +206,10 @@ Ishmael lived 137 years. Then he breathed his last and died, and he was gathered
 **Original Reference**: Genesis 25:18 - They lived from Havilah to Shur that is before Egypt, as you go toward Assyria. He lived opposite all his relatives.
 
 #### Ages 5-7
-His descendants lived from Havilah to Shur, which is near Egypt as you go toward Assyria. He died in the presence of all his brothers.
+The family that came after him lived from Havilah to Shur, which is near Egypt as you go toward Assyria. Ishmael died near all his brothers.
 
 #### Ages 8-10
-His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. He died in the presence of all his brothers.
+His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. He died near all his brothers.
 
 ---
 
@@ -217,7 +217,7 @@ His descendants lived from Havilah to Shur, which is east of Egypt as you go tow
 **Original Reference**: Genesis 25:19 - This is the history of the generations of Isaac, Abraham's son. Abraham became the father of Isaac.
 
 #### Ages 5-7
-These are the generations of Isaac, Abraham's son. Abraham became the father of Isaac.
+This is the family line of Isaac, Abraham's son. Abraham became the father of Isaac.
 
 #### Ages 8-10
 These are the generations of Isaac, Abraham's son: Abraham became the father of Isaac.
@@ -264,10 +264,10 @@ The children struggled together inside her, and she said, "If this is so, why is
 **Original Reference**: Genesis 25:23 - Yahweh said to her, "Two nations are in your womb. Two peoples will be separated from your body. The one people will be stronger than the other people. The elder will serve the younger."
 
 #### Ages 5-7
-The Lord said to her, "Two nations are in your womb, and two peoples will be separated from within you. One people will be stronger than the other, and the older will serve the younger."
+The Lord said to her, "Two nations are in your womb, and two peoples will come from inside you. One people will be stronger than the other, and the older will serve the younger."
 
 #### Ages 8-10
-The Lord said to her, "Two nations are in your womb, and two peoples will be separated from within you. One people will be stronger than the other, and the older will serve the younger."
+The Lord said to her, "Two nations are in your womb, and two peoples will come from within you. One people will be stronger than the other, and the older will serve the younger."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -278,7 +278,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 25:24 - When her days to be delivered were fulfilled, behold, there were twins in her womb.
 
 #### Ages 5-7
-When the time came for Rebekah to give birth, there were twins in her womb.
+When the time came for Rebekah to give birth, there were twins inside her.
 
 #### Ages 8-10
 When her time came to give birth, there were twins in her womb.
@@ -289,7 +289,7 @@ When her time came to give birth, there were twins in her womb.
 **Original Reference**: Genesis 25:25 - The first came out red all over, like a hairy garment. They named him Esau.
 
 #### Ages 5-7
-The first baby came out red, with hair like a little garment all over him, so they named him Esau.
+The first baby came out red, with hair all over him like a little coat, so they named him Esau.
 
 #### Ages 8-10
 The first came out red, all over like a hairy garment, and they named him Esau.
@@ -378,7 +378,7 @@ Esau said to Jacob, "Please feed me some of that red stew, for I am exhausted." 
 **Original Reference**: Genesis 25:31 - Jacob said, "First, sell me your birthright."
 
 #### Ages 5-7
-Jacob said, "Sell me your birthright today."
+Jacob said, "Sell me your birthright today, the special family place that belongs to the firstborn son."
 
 #### Ages 8-10
 Jacob said, "Sell me your birthright today."
@@ -408,12 +408,13 @@ Esau said, "Look, I am about to die. What good is this birthright to me?"
 **Original Reference**: Genesis 25:33 - Jacob said, "Swear to me first." He swore to him. He sold his birthright to Jacob.
 
 #### Ages 5-7
-Jacob said, "Swear to me today." So Esau swore to him, and he sold his birthright to Jacob.
+Jacob said, "Promise it to me today." So Esau made the promise, and he sold his birthright to Jacob.
 
 #### Ages 8-10
 Jacob said, "Swear to me today." So Esau swore to him and sold his birthright to Jacob.
 
 **Key Vocabulary**:
+- promise: Words someone says and keeps
 - birthright: The special family place and inheritance of the firstborn son
 - Jacob: Isaac and Rebekah's younger son, whom God later named Israel
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -447,10 +448,10 @@ Abraham dies, Ishmael's family is listed, and Isaac and Rebekah have Esau and Ja
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord said to her, "Two nations are in your womb, and two peoples will be separated from within you. One people will be stronger than the other, and the older will serve the younger." - Genesis 25:23
+The Lord said to her, "Two nations are in your womb, and two peoples will come from inside you. One people will be stronger than the other, and the older will serve the younger." - Genesis 25:23
 
 ### Ages 8-10
-The Lord said to her, "Two nations are in your womb, and two peoples will be separated from within you. One people will be stronger than the other, and the older will serve the younger." - Genesis 25:23
+The Lord said to her, "Two nations are in your womb, and two peoples will come from within you. One people will be stronger than the other, and the older will serve the younger." - Genesis 25:23
 
 ## Discussion Questions by Age
 

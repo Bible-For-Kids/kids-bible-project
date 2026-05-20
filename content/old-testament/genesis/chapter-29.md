@@ -16,7 +16,7 @@ Genesis 29 continues the covenant family story. Jacob arrives in Haran, marries 
 **Original Reference**: Genesis 29:1 - Then Jacob went on his journey, and came to the land of the children of the east.
 
 #### Ages 5-7
-Then Jacob lifted his feet and continued his journey until he came to the land of the people of the east.
+Then Jacob continued his journey until he came to the land of the people of the east.
 
 #### Ages 8-10
 Then Jacob continued on his journey and came to the land of the people of the east.
@@ -27,10 +27,10 @@ Then Jacob continued on his journey and came to the land of the people of the ea
 **Original Reference**: Genesis 29:2 - He looked, and behold, a well in the field, and saw three flocks of sheep lying there by it. For out of that well they watered the flocks. The stone on the well's mouth was large.
 
 #### Ages 5-7
-He looked and saw a well in a field. Three flocks of sheep were lying beside it, because the flocks were watered from that well. A large stone covered the mouth of the well.
+He looked and saw a well in a field. Three flocks of sheep were lying beside it, because the flocks were watered from that well. A large stone covered the opening of the well.
 
 #### Ages 8-10
-He looked and saw a well in the field, and three flocks of sheep were lying by it. The flocks were watered from that well, and a large stone covered the well's mouth.
+He looked and saw a well in the field, and three flocks of sheep were lying by it. The flocks were watered from that well, and a large stone covered the well's opening.
 
 ---
 
@@ -38,10 +38,10 @@ He looked and saw a well in the field, and three flocks of sheep were lying by i
 **Original Reference**: Genesis 29:3 - There all the flocks were gathered. They rolled the stone from the well's mouth, and watered the sheep, and put the stone again on the well's mouth in its place.
 
 #### Ages 5-7
-When all the flocks gathered there, the shepherds would roll the stone away from the well's mouth and water the sheep. Then they would put the stone back in its place over the well.
+When all the flocks gathered there, the shepherds would roll the stone away from the well's opening and water the sheep. Then they would put the stone back in its place over the well.
 
 #### Ages 8-10
-When all the flocks gathered there, the shepherds rolled the stone from the well's mouth, watered the sheep, and then put the stone back in its place.
+When all the flocks gathered there, the shepherds rolled the stone from the well's opening, watered the sheep, and then put the stone back in its place.
 
 ---
 
@@ -74,7 +74,7 @@ He said to them, "Do you know Laban, the son of Nahor?" They answered, "We know 
 Jacob asked, "Is he well?" They answered, "He is well. And look, Rachel his daughter is coming with the sheep."
 
 #### Ages 8-10
-He asked, "Is he well?" They said, "He is well, and behold, Rachel his daughter is coming with the sheep."
+He asked, "Is he well?" They said, "He is well, and look, Rachel his daughter is coming with the sheep."
 
 **Key Vocabulary**:
 - Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
@@ -88,7 +88,7 @@ He asked, "Is he well?" They said, "He is well, and behold, Rachel his daughter 
 Jacob said, "Look, it is still bright day. It is not time for the animals to be gathered together. Water the sheep and go feed them."
 
 #### Ages 8-10
-Jacob said, "Look, it is still high day, and it is not time for the livestock to be gathered. Water the sheep and go feed them."
+Jacob said, "Look, it is still bright day, and it is not time for the animals to be gathered. Water the sheep and go feed them."
 
 ---
 
@@ -96,10 +96,10 @@ Jacob said, "Look, it is still high day, and it is not time for the livestock to
 **Original Reference**: Genesis 29:8 - They said, "We can't, until all the flocks are gathered together, and they roll the stone from the well's mouth. Then we water the sheep."
 
 #### Ages 5-7
-They said, "We cannot until all the flocks are gathered together and the stone is rolled from the well's mouth. Then we water the sheep."
+They said, "We cannot until all the flocks are gathered together and the stone is rolled from the well's opening. Then we water the sheep."
 
 #### Ages 8-10
-They said, "We cannot until all the flocks are gathered and the stone is rolled from the well's mouth. Then we water the sheep."
+They said, "We cannot until all the flocks are gathered and the stone is rolled from the well's opening. Then we water the sheep."
 
 ---
 
@@ -121,10 +121,10 @@ While he was still speaking with them, Rachel came with her father's sheep, beca
 **Original Reference**: Genesis 29:10 - When Jacob saw Rachel the daughter of Laban, his mother's brother, and the sheep of Laban, his mother's brother, Jacob went near, and rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.
 
 #### Ages 5-7
-When Jacob saw Rachel, the daughter of Laban his mother's brother, and saw Laban's sheep, he went near, rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.
+When Jacob saw Rachel, the daughter of Laban his mother's brother, and saw Laban's sheep, he went near, rolled the stone from the well's opening, and watered the flock of Laban his mother's brother.
 
 #### Ages 8-10
-When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, he went near, rolled the stone from the well's mouth, and watered Laban's flock.
+When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, he went near, rolled the stone from the well's opening, and watered Laban's flock.
 
 **Key Vocabulary**:
 - Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
@@ -135,7 +135,7 @@ When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep
 **Original Reference**: Genesis 29:11 - Jacob kissed Rachel, and lifted up his voice, and wept.
 
 #### Ages 5-7
-Jacob kissed Rachel and lifted up his voice and wept.
+Jacob kissed Rachel as a family greeting, then lifted up his voice and cried.
 
 #### Ages 8-10
 Jacob kissed Rachel, lifted up his voice, and wept.
@@ -174,10 +174,10 @@ When Laban heard the news about Jacob, his sister's son, he ran to meet him, emb
 **Original Reference**: Genesis 29:14 - Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him for a month.
 
 #### Ages 5-7
-Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him for a month.
+Laban said to him, "Surely you are my own family." Jacob stayed with him for a month.
 
 #### Ages 8-10
-Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him for a month.
+Laban said to him, "Surely you are my own bone and flesh, my own family." Jacob stayed with him for a month.
 
 ---
 
@@ -185,10 +185,10 @@ Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him 
 **Original Reference**: Genesis 29:15 - Laban said to Jacob, "Because you are my relative, should you therefore serve me for nothing? Tell me, what will your wages be?"
 
 #### Ages 5-7
-Then Laban said to Jacob, "Because you are my relative, should you serve me for nothing? Tell me, what shall your wages be?"
+Then Laban said to Jacob, "Because you are my relative, should you work for me for nothing? Tell me, what should I pay you?"
 
 #### Ages 8-10
-Laban said to Jacob, "Because you are my relative, should you serve me for nothing? Tell me, what shall your wages be?"
+Laban said to Jacob, "Because you are my relative, should you work for me for nothing? Tell me, what shall your wages be?"
 
 ---
 
@@ -211,10 +211,10 @@ Laban had two daughters. The older was named Leah, and the younger was named Rac
 **Original Reference**: Genesis 29:17 - Leah's eyes were weak, but Rachel was beautiful in form and attractive.
 
 #### Ages 5-7
-Leah had tender eyes, but Rachel was beautiful and well favored.
+Leah's eyes were gentle, but Rachel was beautiful in form and face.
 
 #### Ages 8-10
-Leah had tender eyes, but Rachel was beautiful and well favored.
+Leah had gentle eyes, but Rachel was beautiful in form and face.
 
 **Key Vocabulary**:
 - Leah: Jacob's first wife and the mother of several sons of Israel
@@ -226,7 +226,7 @@ Leah had tender eyes, but Rachel was beautiful and well favored.
 **Original Reference**: Genesis 29:18 - Jacob loved Rachel. He said, "I will serve you seven years for Rachel, your younger daughter."
 
 #### Ages 5-7
-Jacob loved Rachel, so he said, "I will serve you seven years for Rachel, your younger daughter."
+Jacob loved Rachel, so he said, "I will work for you seven years for Rachel, your younger daughter."
 
 #### Ages 8-10
 Jacob loved Rachel and said, "I will serve you seven years for Rachel your younger daughter."
@@ -251,7 +251,7 @@ Laban said, "It is better that I give her to you than to another man. Stay with 
 **Original Reference**: Genesis 29:20 - Jacob served seven years for Rachel. They seemed to him but a few days, for the love he had for her.
 
 #### Ages 5-7
-So Jacob served seven years for Rachel. Because he loved her, the years seemed to him like only a few days.
+So Jacob worked seven years for Rachel. Because he loved her, the years seemed to him like only a few days.
 
 #### Ages 8-10
 Jacob served seven years for Rachel, and they seemed to him like only a few days because of his love for her.
@@ -265,7 +265,7 @@ Jacob served seven years for Rachel, and they seemed to him like only a few days
 **Original Reference**: Genesis 29:21 - Jacob said to Laban, "Give me my wife, for my days are fulfilled, that I may go in to her."
 
 #### Ages 5-7
-Then Jacob said to Laban, "Give me my wife, for my days of service are finished, so I may be with her as my wife."
+Then Jacob said to Laban, "Give me my wife, for my days of work are finished, so I may be with her as my wife."
 
 #### Ages 8-10
 Jacob said to Laban, "Give me my wife, for my days are fulfilled, so I may be with her as my wife."
@@ -315,10 +315,10 @@ Laban also gave Zilpah his servant woman to his daughter Leah to serve her.
 **Original Reference**: Genesis 29:25 - In the morning, behold, it was Leah! He said to Laban, "What is this you have done to me? Didn't I serve with you for Rachel? Why then have you deceived me?"
 
 #### Ages 5-7
-In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
+In the morning, Jacob saw that it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
 
 #### Ages 8-10
-In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
+In the morning, look, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
 
 **Key Vocabulary**:
 - Leah: Jacob's first wife and the mother of several sons of Israel
@@ -330,10 +330,13 @@ In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have
 **Original Reference**: Genesis 29:26 - Laban said, "It is not done so in our place, to give the younger before the firstborn.
 
 #### Ages 5-7
-Laban said, "It must not be done this way in our country, to give the younger before the firstborn."
+Laban said, "It is not our custom in this country to give the younger daughter in marriage before the firstborn daughter."
 
 #### Ages 8-10
 Laban said, "It is not done this way in our country, to give the younger before the firstborn."
+
+**Key Vocabulary**:
+- marriage: The covenant joining of husband and wife
 
 ---
 
@@ -341,10 +344,10 @@ Laban said, "It is not done this way in our country, to give the younger before 
 **Original Reference**: Genesis 29:27 - Fulfill the week of this one, and we will give you the other also for the service which you will serve with me for seven more years."
 
 #### Ages 5-7
-"Finish Leah's week, and we will give you Rachel also, for the service you will serve with me for seven more years."
+"Finish Leah's wedding week, and we will give you Rachel also, if you work for me seven more years."
 
 #### Ages 8-10
-"Complete her week, and we will give you Rachel also for the service you will serve with me for seven more years."
+"Complete her wedding week, and we will give you Rachel also for the service you will serve with me for seven more years."
 
 **Key Vocabulary**:
 - Leah: Jacob's first wife and the mother of several sons of Israel
@@ -356,7 +359,7 @@ Laban said, "It is not done this way in our country, to give the younger before 
 **Original Reference**: Genesis 29:28 - Jacob did so, and fulfilled her week. He gave him Rachel his daughter as wife.
 
 #### Ages 5-7
-Jacob did so and finished Leah's week. Then Laban gave him Rachel his daughter as a wife also.
+Jacob did so and finished Leah's wedding week. Then Laban gave him Rachel his daughter as a wife also.
 
 #### Ages 8-10
 Jacob did so and completed Leah's week. Then Laban gave him Rachel his daughter as a wife also.
@@ -385,7 +388,7 @@ Laban also gave Bilhah his servant woman to his daughter Rachel to serve her.
 **Original Reference**: Genesis 29:30 - He went in also to Rachel, and he loved also Rachel more than Leah, and served with him seven more years.
 
 #### Ages 5-7
-Jacob also received Rachel as his wife. He loved Rachel more than Leah, and he served Laban seven more years.
+Jacob also received Rachel as his wife. He loved Rachel more than Leah, and he worked for Laban seven more years.
 
 #### Ages 8-10
 Jacob also received Rachel as his wife. He loved Rachel more than Leah and served Laban seven more years.
@@ -415,7 +418,7 @@ When the Lord saw that Leah was unloved, he gave her children, but Rachel had no
 **Original Reference**: Genesis 29:32 - Leah conceived, and bore a son, and she named him Reuben. For she said, "Because Yahweh has looked at my affliction; for now my husband will love me."
 
 #### Ages 5-7
-Leah conceived and bore a son. She named him Reuben, for she said, "Surely the Lord has looked on my trouble. Now my husband will love me."
+Leah became pregnant and gave birth to a son. She named him Reuben, for she said, "Surely the Lord has looked on my trouble. Now my husband will love me."
 
 #### Ages 8-10
 Leah conceived and bore a son. She named him Reuben, saying, "Surely the Lord has looked on my affliction. Now my husband will love me."
@@ -429,7 +432,7 @@ Leah conceived and bore a son. She named him Reuben, saying, "Surely the Lord ha
 **Original Reference**: Genesis 29:33 - She conceived again, and bore a son, and said, "Because Yahweh has heard that I am hated, he has therefore given me this son also." She named him Simeon.
 
 #### Ages 5-7
-Leah conceived again and bore a son. She said, "Because the Lord has heard that I was unloved, he has given me this son also." She named him Simeon.
+Leah became pregnant again and gave birth to a son. She said, "Because the Lord has heard that I was unloved, he has given me this son also." She named him Simeon.
 
 #### Ages 8-10
 She conceived again and bore a son. She said, "Because the Lord has heard that I was unloved, he has given me this son also." She named him Simeon.
@@ -443,7 +446,7 @@ She conceived again and bore a son. She said, "Because the Lord has heard that I
 **Original Reference**: Genesis 29:34 - She conceived again, and bore a son. She said, "Now this time my husband will be joined to me, because I have borne him three sons." Therefore his name was called Levi.
 
 #### Ages 5-7
-Leah conceived again and bore a son. She said, "Now this time my husband will be joined to me, because I have borne him three sons." So his name was called Levi.
+Leah became pregnant again and gave birth to a son. She said, "Now this time my husband will stay close to me, because I have given him three sons." So his name was called Levi.
 
 #### Ages 8-10
 She conceived again and bore a son. She said, "Now this time my husband will be joined to me, because I have borne him three sons." Therefore he was named Levi.
@@ -457,7 +460,7 @@ She conceived again and bore a son. She said, "Now this time my husband will be 
 **Original Reference**: Genesis 29:35 - She conceived again, and bore a son. She said, "This time I will praise Yahweh." Therefore she named him Judah. Then she stopped bearing.
 
 #### Ages 5-7
-Leah conceived again and bore a son. She said, "Now I will praise the Lord." So she named him Judah. Then she stopped bearing children for a time.
+Leah became pregnant again and gave birth to a son. She said, "Now I will praise the Lord." So she named him Judah. Then she stopped having children for a time.
 
 #### Ages 8-10
 She conceived again and bore a son. She said, "Now I will praise the Lord." Therefore she named him Judah. Then she stopped bearing children for a time.
@@ -481,7 +484,7 @@ Jacob arrives in Haran, marries Leah and Rachel through Laban's deceit, and the 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Leah conceived again and bore a son. She said, "Now I will praise the Lord." So she named him Judah. Then she stopped bearing children for a time. - Genesis 29:35
+Leah became pregnant again and gave birth to a son. She said, "Now I will praise the Lord." So she named him Judah. Then she stopped having children for a time. - Genesis 29:35
 
 ### Ages 8-10
 She conceived again and bore a son. She said, "Now I will praise the Lord." Therefore she named him Judah. Then she stopped bearing children for a time. - Genesis 29:35

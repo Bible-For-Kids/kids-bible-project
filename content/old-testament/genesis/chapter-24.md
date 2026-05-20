@@ -27,10 +27,13 @@ Abraham was old and well advanced in years, and the Lord had blessed Abraham in 
 **Original Reference**: Genesis 24:2 - Abraham said to his servant, the elder of his house, who ruled over all that he had, "Please put your hand under my thigh.
 
 #### Ages 5-7
-Abraham spoke to the oldest servant in his house, the servant who cared for all he had. He said, "Please put your hand under my thigh.
+Abraham spoke to the oldest servant in his house, the servant who cared for all he had. He said, "Please put your hand under my thigh as a sign of a serious promise.
 
 #### Ages 8-10
-Abraham said to the oldest servant in his household, the one who managed all he had, "Please put your hand under my thigh.
+Abraham said to the oldest servant in his household, the one who managed all he had, "Please put your hand under my thigh as a sign of a solemn promise.
+
+**Key Vocabulary**:
+- promise: Words someone says and keeps
 
 ---
 
@@ -85,7 +88,7 @@ Abraham said to him, "Be careful that you do not take my son back there.
 **Original Reference**: Genesis 24:7 - Yahweh, the God of heaven—who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring—he will send his angel before you, and you shall take a wife for my son from there.
 
 #### Ages 5-7
-The Lord God of heaven took me from my father's house and from the land of my family. He spoke to me and promised me, 'I will give this land to your offspring.' He will send his angel ahead of you, and you will take a wife for my son from there.
+The Lord God of heaven took me from my father's house and from the land of my family. He spoke to me and promised me, 'I will give this land to the family that comes after you.' He will send his angel ahead of you, and you will take a wife for my son from there.
 
 #### Ages 8-10
 The Lord God of heaven took me from my father's house and from the land of my relatives. He spoke to me and swore to me, 'To your offspring I will give this land.' He will send his angel before you, and you will take a wife for my son from there.
@@ -127,10 +130,10 @@ So the servant put his hand under the thigh of Abraham his master and swore to h
 **Original Reference**: Genesis 24:10 - The servant took ten of his master's camels, and departed, having a variety of good things of his master's with him. He arose, and went to Mesopotamia, to the city of Nahor.
 
 #### Ages 5-7
-Then the servant took ten of his master's camels and left, carrying many good things from his master. He traveled to Mesopotamia, to the city of Nahor.
+Then the servant took ten of his master's camels and left, carrying many good things from his master. He traveled far away to the city of Nahor.
 
 #### Ages 8-10
-Then the servant took ten of his master's camels and set out, carrying all kinds of good things from his master. He arose and went to Mesopotamia, to the city of Nahor.
+Then the servant took ten of his master's camels and set out, carrying all kinds of good things from his master. He arose and went far away to the city of Nahor.
 
 ---
 
@@ -246,10 +249,10 @@ When she had finished giving him a drink, she said, "I will draw water for your 
 **Original Reference**: Genesis 24:20 - She hurried, and emptied her pitcher into the trough, and ran again to the well to draw, and drew for all his camels.
 
 #### Ages 5-7
-She quickly emptied her jar into the trough and ran back to the well for more water. Again and again she drew water for all his camels.
+She quickly emptied her jar into the animals' water trough and ran back to the well for more water. Again and again she drew water for all his camels.
 
 #### Ages 8-10
-She quickly emptied her jar into the trough and ran back to the well to draw more water, and she drew water for all his camels.
+She quickly emptied her jar into the animals' water trough and ran back to the well to draw more water, and she drew water for all his camels.
 
 ---
 
@@ -423,7 +426,7 @@ The servant said, "I am Abraham's servant.
 **Original Reference**: Genesis 24:35 - Yahweh has blessed my master greatly. He has become great. Yahweh has given him flocks and herds, silver and gold, male servants and female servants, and camels and donkeys.
 
 #### Ages 5-7
-The Lord has blessed my master very much, and he has become great. The Lord has given him flocks, herds, silver, gold, male servants, female servants, camels, and donkeys.
+The Lord has blessed my master very much, and he has become great. The Lord has given him sheep, cattle, silver, gold, male servants, female servants, camels, and donkeys.
 
 #### Ages 8-10
 The Lord has greatly blessed my master, and he has become great. The Lord has given him flocks and herds, silver and gold, male and female servants, camels, and donkeys.
@@ -539,10 +542,10 @@ and she says to me, "Drink, and I will also draw water for your camels," let her
 **Original Reference**: Genesis 24:45 - Before I had finished speaking in my heart, behold, Rebekah came out with her pitcher on her shoulder. She went down to the spring, and drew. I said to her, 'Please let me drink.'
 
 #### Ages 5-7
-Before I had finished speaking in my heart, Rebekah came out with her jar on her shoulder. She went down to the well and drew water, and I said to her, 'Please let me drink.'
+Before I had finished praying quietly in my heart, Rebekah came out with her jar on her shoulder. She went down to the well and drew water, and I said to her, 'Please let me drink.'
 
 #### Ages 8-10
-Before I had finished speaking in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please let me drink.'
+Before I had finished praying quietly in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please let me drink.'
 
 **Key Vocabulary**:
 - Rebekah: Isaac's wife and the mother of Jacob and Esau
@@ -586,10 +589,13 @@ I bowed my head, worshiped the Lord, and blessed the Lord God of my master Abrah
 **Original Reference**: Genesis 24:49 - Now if you will deal kindly and truly with my master, tell me. If not, tell me, that I may turn to the right hand, or to the left."
 
 #### Ages 5-7
-Now tell me if you will deal kindly and faithfully with my master. If you will not, tell me, so I may know which way to turn."
+Now tell me if you will show kindness and faithfulness to my master. If you will not, tell me, so I may know which way to turn."
 
 #### Ages 8-10
 Now if you will deal kindly and faithfully with my master, tell me. If not, tell me, so I may turn to the right or to the left."
+
+**Key Vocabulary**:
+- kindness: Goodness shown in action toward another person
 
 ---
 
@@ -722,10 +728,10 @@ So they sent away Rebekah their sister, her nurse, Abraham's servant, and his me
 **Original Reference**: Genesis 24:60 - They blessed Rebekah, and said to her, "Our sister, may you be the mother of thousands of ten thousands, and let your offspring possess the gate of those who hate them."
 
 #### Ages 5-7
-They blessed Rebekah and said, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them."
+They blessed Rebekah and said, "Our sister, may you become the mother of thousands upon thousands, and may the family after you have victory over those who hate them."
 
 #### Ages 8-10
-They blessed Rebekah and said to her, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them."
+They blessed Rebekah and said to her, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them; may your family have victory over them."
 
 **Key Vocabulary**:
 - Rebekah: Isaac's wife and the mother of Jacob and Esau
@@ -761,10 +767,10 @@ Now Isaac had come from the way of Beer Lahai Roi, for he lived in the Negev.
 **Original Reference**: Genesis 24:63 - Isaac went out to meditate in the field at the evening. He lifted up his eyes and looked. Behold, there were camels coming.
 
 #### Ages 5-7
-In the evening, Isaac went out into the field to meditate. He lifted his eyes and saw camels coming.
+In the evening, Isaac went out into the field to think quietly. He lifted his eyes and saw camels coming.
 
 #### Ages 8-10
-Isaac went out into the field to meditate in the evening. He looked up and saw camels coming.
+Isaac went out into the field to meditate, to think quietly, in the evening. He looked up and saw camels coming.
 
 ---
 

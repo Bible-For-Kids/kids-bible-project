@@ -16,7 +16,7 @@ Genesis 30 continues the covenant family story. Jacob's family grows through Rac
 **Original Reference**: Genesis 30:1 - When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, "Give me children, or else I will die."
 
 #### Ages 5-7
-When Rachel saw that she was not bearing children for Jacob, she envied her sister. She said to Jacob, "Give me children, or else I die."
+When Rachel saw that she was not having children for Jacob, she envied her sister. She wanted what Leah had. She said to Jacob, "Give me children, or else I die."
 
 #### Ages 8-10
 When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, "Give me children, or else I die."
@@ -30,7 +30,7 @@ When Rachel saw that she bore Jacob no children, she envied her sister and said 
 **Original Reference**: Genesis 30:2 - Jacob's anger burned against Rachel, and he said, "Am I in God's place, who has withheld from you the fruit of the womb?"
 
 #### Ages 5-7
-Jacob became angry with Rachel and said, "Am I in God's place? God is the one who has kept you from bearing children."
+Jacob became angry with Rachel and said, "Am I in God's place? God is the one who has kept you from having children."
 
 #### Ages 8-10
 Jacob's anger burned against Rachel. He said, "Am I in God's place, who has kept you from bearing children?"
@@ -58,7 +58,7 @@ Rachel said, "Here is my servant woman Bilhah. Take her as a wife, and she shall
 **Original Reference**: Genesis 30:4 - She gave him Bilhah her servant as wife, and Jacob went in to her.
 
 #### Ages 5-7
-So Rachel gave Bilhah her servant woman to Jacob as a wife, and Jacob received her.
+So Rachel gave Bilhah her servant woman to Jacob as a wife, and Jacob took her as a wife.
 
 #### Ages 8-10
 She gave Bilhah her servant woman to Jacob as a wife, and Jacob received her.
@@ -69,7 +69,7 @@ She gave Bilhah her servant woman to Jacob as a wife, and Jacob received her.
 **Original Reference**: Genesis 30:5 - Bilhah conceived, and bore Jacob a son.
 
 #### Ages 5-7
-Bilhah conceived and bore Jacob a son.
+Bilhah became pregnant and gave birth to Jacob's son.
 
 #### Ages 8-10
 Bilhah conceived and bore Jacob a son.
@@ -80,7 +80,7 @@ Bilhah conceived and bore Jacob a son.
 **Original Reference**: Genesis 30:6 - Rachel said, "God has judged me, and has also heard my voice, and has given me a son." Therefore she called his name Dan.
 
 #### Ages 5-7
-Rachel said, "God has judged me, and he has also heard my voice and given me a son." So she named him Dan.
+Rachel said, "God has judged for me, and he has also heard my voice and given me a son." So she named him Dan.
 
 #### Ages 8-10
 Rachel said, "God has judged me, and he has also heard my voice and given me a son." Therefore she named him Dan.
@@ -91,7 +91,7 @@ Rachel said, "God has judged me, and he has also heard my voice and given me a s
 **Original Reference**: Genesis 30:7 - Bilhah, Rachel's servant, conceived again, and bore Jacob a second son.
 
 #### Ages 5-7
-Bilhah, Rachel's servant woman, conceived again and bore Jacob a second son.
+Bilhah, Rachel's servant woman, became pregnant again and gave birth to Jacob's second son through her.
 
 #### Ages 8-10
 Bilhah, Rachel's servant woman, conceived again and bore Jacob a second son.
@@ -102,7 +102,7 @@ Bilhah, Rachel's servant woman, conceived again and bore Jacob a second son.
 **Original Reference**: Genesis 30:8 - Rachel said, "I have wrestled with my sister with mighty wrestlings, and have prevailed." She named him Naphtali.
 
 #### Ages 5-7
-Rachel said, "With great wrestlings I have wrestled with my sister, and I have prevailed." So she named him Naphtali.
+Rachel said, "I have wrestled a great struggle with my sister, and I have won." So she named him Naphtali.
 
 #### Ages 8-10
 Rachel said, "With great wrestlings I have wrestled with my sister, and I have prevailed." She named him Naphtali.
@@ -127,7 +127,7 @@ When Leah saw that she had stopped bearing children, she took Zilpah her servant
 **Original Reference**: Genesis 30:10 - Zilpah, Leah's servant, bore Jacob a son.
 
 #### Ages 5-7
-Zilpah, Leah's servant woman, bore Jacob a son.
+Zilpah, Leah's servant woman, gave birth to Jacob's son.
 
 #### Ages 8-10
 Zilpah, Leah's servant woman, bore Jacob a son.
@@ -149,7 +149,7 @@ Leah said, "A troop comes." She named him Gad.
 **Original Reference**: Genesis 30:12 - Zilpah, Leah's servant, bore Jacob a second son.
 
 #### Ages 5-7
-Zilpah, Leah's servant woman, bore Jacob a second son.
+Zilpah, Leah's servant woman, gave birth to Jacob's second son through her.
 
 #### Ages 8-10
 Zilpah, Leah's servant woman, bore Jacob a second son.
@@ -171,7 +171,7 @@ Leah said, "I am happy, for the daughters will call me blessed." She named him A
 **Original Reference**: Genesis 30:14 - Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them to his mother, Leah. Then Rachel said to Leah, "Please give me some of your son's mandrakes."
 
 #### Ages 5-7
-In the days of wheat harvest, Reuben went out and found mandrakes in the field. He brought them to Leah his mother. Then Rachel said to Leah, "Please give me some of your son's mandrakes."
+In the days of wheat harvest, Reuben went out and found mandrakes, special plants, in the field. He brought them to Leah his mother. Then Rachel said to Leah, "Please give me some of your son's mandrakes."
 
 #### Ages 8-10
 In the days of wheat harvest, Reuben went out and found mandrakes in the field and brought them to Leah his mother. Rachel said to Leah, "Please give me some of your son's mandrakes."
@@ -204,7 +204,7 @@ Jacob came from the field in the evening, and Leah went out to meet him. She sai
 **Original Reference**: Genesis 30:17 - God listened to Leah, and she conceived, and bore Jacob a fifth son.
 
 #### Ages 5-7
-God listened to Leah, and she conceived and bore Jacob a fifth son.
+God listened to Leah, and she became pregnant and gave birth to Jacob's fifth son.
 
 #### Ages 8-10
 God listened to Leah, and she conceived and bore Jacob a fifth son.
@@ -226,7 +226,7 @@ Leah said, "God has given me a reward, because I gave my servant woman to my hus
 **Original Reference**: Genesis 30:19 - Leah conceived again, and bore a sixth son to Jacob.
 
 #### Ages 5-7
-Leah conceived again and bore Jacob a sixth son.
+Leah became pregnant again and gave birth to Jacob's sixth son.
 
 #### Ages 8-10
 Leah conceived again and bore Jacob a sixth son.
@@ -248,7 +248,7 @@ Leah said, "God has given me a good gift. Now my husband will live with me, beca
 **Original Reference**: Genesis 30:21 - Afterwards, she bore a daughter, and named her Dinah.
 
 #### Ages 5-7
-Afterward Leah bore a daughter and named her Dinah.
+Afterward Leah gave birth to a daughter and named her Dinah.
 
 #### Ages 8-10
 Afterward she bore a daughter and named her Dinah.
@@ -259,10 +259,10 @@ Afterward she bore a daughter and named her Dinah.
 **Original Reference**: Genesis 30:22 - God remembered Rachel, and God listened to her, and opened her womb.
 
 #### Ages 5-7
-God remembered Rachel. God listened to her and opened her womb.
+God remembered Rachel. God listened to her and let her have a child.
 
 #### Ages 8-10
-God remembered Rachel, listened to her, and opened her womb.
+God remembered Rachel, listened to her, and opened her womb so she could have a child.
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
@@ -273,10 +273,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 30:23 - She conceived, bore a son, and said, "God has taken away my reproach."
 
 #### Ages 5-7
-Rachel conceived and bore a son. She said, "God has taken away my reproach."
+Rachel became pregnant and gave birth to a son. She said, "God has taken away my shame."
 
 #### Ages 8-10
-She conceived and bore a son. She said, "God has taken away my reproach."
+She conceived and bore a son. She said, "God has taken away my reproach, my shame."
 
 ---
 
@@ -320,7 +320,7 @@ After Rachel bore Joseph, Jacob said to Laban, "Send me away, so I may go to my 
 **Original Reference**: Genesis 30:27 - Laban said to him, "If now I have found favor in your eyes, stay here, for I have divined that Yahweh has blessed me for your sake."
 
 #### Ages 5-7
-Laban said to him, "Please, if I have found favor in your eyes, stay. I have learned by experience that the Lord has blessed me for your sake."
+Laban said to him, "Please, if you are pleased with me, stay. I have learned that the Lord has blessed me because of you."
 
 #### Ages 8-10
 Laban said to him, "Please, if I have found favor in your eyes, stay. I have learned by experience that the Lord has blessed me for your sake."
@@ -331,10 +331,10 @@ Laban said to him, "Please, if I have found favor in your eyes, stay. I have lea
 **Original Reference**: Genesis 30:28 - He said, "Appoint me your wages, and I will give it."
 
 #### Ages 5-7
-Then Laban said, "Name your wages, and I will give them."
+Then Laban said, "Tell me what I should pay you, and I will give it."
 
 #### Ages 8-10
-He said, "Name your wages, and I will give them."
+He said, "Name your wages, what I should pay you, and I will give them."
 
 ---
 
@@ -342,10 +342,10 @@ He said, "Name your wages, and I will give them."
 **Original Reference**: Genesis 30:29 - Jacob said to him, "You know how I have served you, and how your livestock have fared with me.
 
 #### Ages 5-7
-Jacob said to him, "You know how I have served you, and how your livestock have done with me."
+Jacob said to him, "You know how I have worked for you, and how your animals have done with me."
 
 #### Ages 8-10
-Jacob said to him, "You know how I have served you and how your livestock have done with me."
+Jacob said to him, "You know how I have served you and how your livestock, your animals, have done with me."
 
 ---
 
@@ -353,7 +353,7 @@ Jacob said to him, "You know how I have served you and how your livestock have d
 **Original Reference**: Genesis 30:30 - For it was little which you had before I came, and it has increased to a multitude. Yahweh has blessed you wherever I turned. Now when will I provide for my own house also?"
 
 #### Ages 5-7
-"You had little before I came, and now it has grown into a great multitude. The Lord has blessed you since I came. Now when shall I provide for my own household also?"
+"You had little before I came, and now it has grown into many, many animals. The Lord has blessed you since I came. Now when shall I provide for my own household also?"
 
 #### Ages 8-10
 "You had little before I came, and now it has increased into a multitude. The Lord has blessed you since I came. Now when shall I provide for my own household also?"
@@ -375,7 +375,7 @@ Laban said, "What shall I give you?" Jacob said, "You shall not give me anything
 **Original Reference**: Genesis 30:32 - I will pass through all your flock today, removing from there every speckled and spotted one, and every black one among the sheep, and the spotted and speckled among the goats. This will be my hire.
 
 #### Ages 5-7
-"Today I will pass through all your flock and remove every speckled and spotted animal, every brown sheep, and every spotted and speckled goat. These shall be my wages."
+"Today I will pass through all your flock and remove every speckled and spotted animal, every brown sheep, and every spotted and speckled goat. These will be what I am paid."
 
 #### Ages 8-10
 "Today I will pass through all your flock, removing every speckled and spotted animal, every brown sheep, and the spotted and speckled goats. These shall be my wages."
@@ -386,10 +386,10 @@ Laban said, "What shall I give you?" Jacob said, "You shall not give me anything
 **Original Reference**: Genesis 30:33 - So my righteousness will answer for me hereafter, when you come concerning my hire that is before you. Every one that is not speckled and spotted among the goats, and black among the sheep, that might be with me, will be considered stolen."
 
 #### Ages 5-7
-"So my righteousness will answer for me later, when my wages are brought before you. Every goat that is not speckled or spotted, and every sheep that is not brown, shall be counted as stolen if it is with me."
+"So my honesty will speak for me later, when you look at what I have been paid. Every goat that is not speckled or spotted, and every sheep that is not brown, shall be counted as stolen if it is with me."
 
 #### Ages 8-10
-"My righteousness will answer for me in the future, when my wages come before you. Any goat with me that is not speckled or spotted, and any sheep that is not brown, shall be counted as stolen."
+"My honesty will answer for me in the future, when my wages come before you. Any goat with me that is not speckled or spotted, and any sheep that is not brown, shall be counted as stolen."
 
 ---
 
@@ -430,10 +430,10 @@ He set three days' journey between himself and Jacob, and Jacob fed the rest of 
 **Original Reference**: Genesis 30:37 - Jacob took to himself rods of fresh poplar, almond, and plane tree, peeled white streaks in them, and made the white appear which was in the rods.
 
 #### Ages 5-7
-Jacob took fresh rods from poplar, hazel, and chestnut trees. He peeled white streaks in them, making the white show in the rods.
+Jacob took fresh sticks from poplar, hazel, and chestnut trees. He peeled white streaks in them, making the white show in the sticks.
 
 #### Ages 8-10
-Jacob took fresh rods of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the rods.
+Jacob took fresh sticks of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the sticks.
 
 ---
 
@@ -441,10 +441,10 @@ Jacob took fresh rods of poplar, hazel, and chestnut wood, peeled white streaks 
 **Original Reference**: Genesis 30:38 - He set the rods which he had peeled opposite the flocks in the watering troughs where the flocks came to drink. They conceived when they came to drink.
 
 #### Ages 5-7
-He set the peeled rods before the flocks in the gutters and watering troughs where the flocks came to drink, so they would see them when they came to drink.
+He set the peeled sticks before the flocks in the water channels and troughs where the flocks came to drink, so they would see them when they came to drink.
 
 #### Ages 8-10
-He set the peeled rods before the flocks in the gutters and watering troughs where the flocks came to drink, so they would see them when they came to drink.
+He set the peeled sticks before the flocks in the water channels and troughs where the flocks came to drink, so they would see them when they came to drink.
 
 ---
 
@@ -452,10 +452,10 @@ He set the peeled rods before the flocks in the gutters and watering troughs whe
 **Original Reference**: Genesis 30:39 - The flocks conceived before the rods, and the flocks produced streaked, speckled, and spotted.
 
 #### Ages 5-7
-The flocks bred near the rods and brought forth animals that were streaked, speckled, and spotted.
+The flocks mated near the sticks and gave birth to animals that were streaked, speckled, and spotted.
 
 #### Ages 8-10
-The flocks bred near the rods and brought forth animals that were streaked, speckled, and spotted.
+The flocks bred near the sticks and brought forth animals that were streaked, speckled, and spotted.
 
 ---
 
@@ -463,7 +463,7 @@ The flocks bred near the rods and brought forth animals that were streaked, spec
 **Original Reference**: Genesis 30:40 - Jacob separated the lambs, and set the faces of the flocks toward the streaked and all the black in Laban's flock. He put his own droves apart, and didn't put them into Laban's flock.
 
 #### Ages 5-7
-Jacob separated the lambs. He set the faces of the flocks toward the streaked animals and all the brown animals in Laban's flock. He kept his own flocks by themselves and did not put them with Laban's animals.
+Jacob separated the lambs. He turned the flocks toward the streaked animals and all the brown animals in Laban's flock. He kept his own flocks by themselves and did not put them with Laban's animals.
 
 #### Ages 8-10
 Jacob separated the lambs and set the faces of the flocks toward the streaked animals and all the brown animals in Laban's flock. He put his own flocks by themselves and did not put them with Laban's animals.
@@ -474,10 +474,10 @@ Jacob separated the lambs and set the faces of the flocks toward the streaked an
 **Original Reference**: Genesis 30:41 - Whenever the stronger of the flock conceived, Jacob laid the rods in front of the eyes of the flock in the watering troughs, that they might conceive among the rods;
 
 #### Ages 5-7
-Whenever the stronger animals were breeding, Jacob laid the rods before their eyes in the watering troughs, so they would breed among the rods.
+Whenever the stronger animals were mating, Jacob laid the sticks before their eyes in the watering troughs, so they would mate among the sticks.
 
 #### Ages 8-10
-Whenever the stronger animals bred, Jacob laid the rods before their eyes in the watering troughs, so they would breed among the rods.
+Whenever the stronger animals bred, Jacob laid the sticks before their eyes in the watering troughs, so they would breed among the sticks.
 
 ---
 
@@ -485,10 +485,10 @@ Whenever the stronger animals bred, Jacob laid the rods before their eyes in the
 **Original Reference**: Genesis 30:42 - but when the flock were feeble, he didn't put them in. So the feebler were Laban's, and the stronger Jacob's.
 
 #### Ages 5-7
-But when the animals were weak, he did not put the rods there. So the weaker animals became Laban's, and the stronger animals became Jacob's.
+But when the animals were weak, he did not put the sticks there. So the weaker animals became Laban's, and the stronger animals became Jacob's.
 
 #### Ages 8-10
-But when the animals were weak, he did not put the rods there. So the weaker animals were Laban's, and the stronger animals were Jacob's.
+But when the animals were weak, he did not put the sticks there. So the weaker animals were Laban's, and the stronger animals were Jacob's.
 
 ---
 
@@ -514,10 +514,10 @@ Jacob's family grows through Rachel, Leah, Bilhah, and Zilpah, and God blesses J
 ## Memory Verses by Age
 
 ### Ages 5-7
-God remembered Rachel. God listened to her and opened her womb. - Genesis 30:22
+God remembered Rachel. God listened to her and let her have a child. - Genesis 30:22
 
 ### Ages 8-10
-God remembered Rachel, listened to her, and opened her womb. - Genesis 30:22
+God remembered Rachel, listened to her, and opened her womb so she could have a child. - Genesis 30:22
 
 ## Discussion Questions by Age
 
