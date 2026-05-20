@@ -15,7 +15,7 @@ The Lord spoke to Moses and to Aaron, saying,
 "Speak to the people of Israel, and tell them, 'When any man has a discharge from his body, because of his discharge he is unclean.
 
 ### Leviticus 15:3
-This must be his uncleanness in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his uncleanness.
+This must be his being unclean in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his being unclean.
 
 ### Leviticus 15:4
 "Every bed on which whoever has the discharge lies will be unclean; and everything he sits on will be unclean.
@@ -42,16 +42,16 @@ Whoever touches anything that was under him will be unclean until the evening. W
 "Whomever whoever has the discharge touches, without having rinsed his hands in water, he must wash his clothes, and bathe himself in water, and be unclean until the evening.
 
 ### Leviticus 15:12
-"The earthen vessel, which whoever has the discharge touches, must be broken; and every vessel of wood must be rinsed in water.
+"The clay bowl, which whoever has the discharge touches, must be broken; and every container of wood must be rinsed in water.
 
 ### Leviticus 15:13
-"When the person who has a discharge is cleansed of his discharge, then he must count to himself seven days for his cleansing, and wash his clothes; and he must bathe his body in running water, and will be clean.
+"When the person who has a discharge is cleansed of his discharge, then he must count to himself seven days to be made clean, and wash his clothes; and he must bathe his body in fresh flowing water, and will be clean.
 
 ### Leviticus 15:14
-"On the eighth day he must take two turtledoves, or two young pigeons, and come before the Lord to the door of the Tent of Meeting, and give them to the priest.
+"On the eighth day he must take two doves, or two young pigeons, and come before the Lord to the door of the Tent of Meeting, and give them to the priest.
 
 ### Leviticus 15:15
-The priest must offer them, the one for a sin offering, and the other for a burnt offering. The priest must make atonement for him before the Lord for his discharge.
+The priest must offer them, the one for a sin offering, and the other for a burned offering. The priest must make atonement for him before the Lord for his discharge.
 
 ### Leviticus 15:16
 "If any man has an emission of fluid from his body, then he must bathe all his flesh in water, and be unclean until the evening.
@@ -81,10 +81,10 @@ If it is on the bed, or on anything she sits on, when he touches it, he will be 
 "If any man has sexual relations with her, and her monthly flow is on him, he will be unclean seven days; and every bed he lies on will be unclean.
 
 ### Leviticus 15:25
-"If a woman has a discharge of her blood many days not in the time of her period, or if she has a discharge beyond the time of her period, all the days of the discharge of her uncleanness must be as in the days of her period. She is unclean.
+"If a woman has a discharge of her blood many days not in the time of her period, or if she has a discharge beyond the time of her period, all the days of the discharge of her being unclean must be as in the days of her period. She is unclean.
 
 ### Leviticus 15:26
-Every bed she lies on all the days of her discharge must be to her as the bed of her period. Everything she sits on will be unclean, as the uncleanness of her period.
+Every bed she lies on all the days of her discharge must be to her as the bed of her period. Everything she sits on will be unclean, like her period.
 
 ### Leviticus 15:27
 Whoever touches these things will be unclean, and must wash his clothes and bathe himself in water, and be unclean until the evening.
@@ -93,13 +93,13 @@ Whoever touches these things will be unclean, and must wash his clothes and bath
 "But if she is cleansed of her discharge, then she must count to herself seven days, and after that she will be clean.
 
 ### Leviticus 15:29
-On the eighth day she must take two turtledoves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting.
+On the eighth day she must take two doves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting.
 
 ### Leviticus 15:30
-The priest must offer the one for a sin offering, and the other for a burnt offering; and the priest must make atonement for her before the Lord for the uncleanness of her discharge.
+The priest must offer the one for a sin offering, and the other for a burned offering; and the priest must make atonement for her before the Lord because of her unclean discharge.
 
 ### Leviticus 15:31
-"Thus you must separate the people of Israel from their uncleanness, so they will not die in their uncleanness when they make unclean my tabernacle that is among them.' "
+"Thus you must separate the people of Israel from their being unclean, so they will not die in their being unclean when they make unclean my tabernacle that is among them.' "
 
 ### Leviticus 15:32
 This is the law of the person who has a discharge, and of the person who has an emission of fluid from his body, so that he is unclean by it;

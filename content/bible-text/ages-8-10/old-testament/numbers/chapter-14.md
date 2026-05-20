@@ -96,7 +96,7 @@ Tell them, 'As I live, says the Lord, surely as you have spoken in my ears, so I
 Your dead bodies will fall in this wilderness; and all who were counted from you, according to your whole number, from twenty years old and older, who have complained against me,
 
 ### Numbers 14:30
-surely you will not come into the land concerning which I swore that I would make you dwell there, except Caleb the son of Jephunneh, and Joshua the son of Nun.
+surely you will not come into the land concerning which I swore that I would make you live there, except Caleb the son of Jephunneh, and Joshua the son of Nun.
 
 ### Numbers 14:31
 But I will bring your little ones, whom you said would be captured, into it, and they will know the land which you have rejected.

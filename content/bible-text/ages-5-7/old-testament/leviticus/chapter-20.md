@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Moreover, you must tell the people of Israel, 'Any one of the people of Israel, or of the foreigners who live in Israel, who gives any of his children to Molech must surely be put to death. The people of the land must stone that person with stones.
 
 ### Leviticus 20:3
-I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my sanctuary unclean, and to dishonor my holy name.
+I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place unclean, and to dishonor my holy name.
 
 ### Leviticus 20:4
 If the people of the land all hide their eyes from that person when he gives of his children to Molech, and don't put him to death,
@@ -72,7 +72,7 @@ If a man has sexual relations with his uncle's wife, he has dishonored his uncle
 "If a man takes his brother's wife, it is an impurity. He has dishonored his brother. They must be childless.
 
 ### Leviticus 20:22
-"You must therefore keep all my rules and all my commands, and do them, that the land where I am bringing you to dwell may not vomit you out.
+"You must therefore keep all my rules and all my commands, and do them, that the land where I am bringing you to live may not vomit you out.
 
 ### Leviticus 20:23
 You must not walk in the customs of the nation which I am casting out before you; for they did all these things, and therefore I rejected them.

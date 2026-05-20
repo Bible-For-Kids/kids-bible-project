@@ -9,7 +9,7 @@ Leviticus
 ## Verses
 
 ### Leviticus 3:1
-"If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he must offer it without any blemish before the Lord.
+"If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he must offer it with nothing wrong with it before the Lord.
 
 ### Leviticus 3:2
 He must lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron's sons, the priests, must sprinkle the blood around on the altar.
@@ -21,10 +21,10 @@ He must offer of the sacrifice of peace offerings an offering burned on the alta
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must take away.
 
 ### Leviticus 3:5
-Aaron's sons must burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering burned on the altar, of a pleasant aroma to the Lord.
+Aaron's sons must burn it on the altar on the burned offering, which is on the wood that is on the fire: it is an offering burned on the altar, of a pleasant aroma to the Lord.
 
 ### Leviticus 3:6
-"If his offering for a sacrifice of peace offerings to the Lord is from the flock, either male or female, he must offer it without any blemish.
+"If his offering for a sacrifice of peace offerings to the Lord is from the flock, either male or female, he must offer it with nothing wrong with it.
 
 ### Leviticus 3:7
 If he offers a lamb for his offering, then he must offer it before the Lord;

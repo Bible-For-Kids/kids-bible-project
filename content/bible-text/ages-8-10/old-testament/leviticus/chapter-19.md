@@ -69,10 +69,10 @@ You must not glean your vineyard, neither must you gather the fallen grapes of y
 "If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they must be punished. They must not be put to death, because she was not free.
 
 ### Leviticus 19:21
-He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a ram for a guilt offering.
+He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a male sheep for a guilt offering.
 
 ### Leviticus 19:22
-The priest must make atonement for him with the ram of the guilt offering before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
+The priest must make atonement for him with the male sheep of the guilt offering before the Lord for his sin which he has committed; and the sin which he has committed will be forgiven him.
 
 ### Leviticus 19:23
 "When you come into the land, and have planted all kinds of trees for food, then you must count their fruit as forbidden. For three years it must be forbidden to you. It must not be eaten.
@@ -96,7 +96,7 @@ In the fifth year you must eat its fruit, that it may yield its increase to you.
 "Don't dishonor your daughter, to push her into sexual sin; or else the land will fall into sexual sin, and the land become full of wickedness.
 
 ### Leviticus 19:30
-"You must keep my Sabbaths, and reverence my sanctuary; I am the Lord.
+"You must keep my Sabbaths, and reverence my holy place; I am the Lord.
 
 ### Leviticus 19:31
 "Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be made unclean by them. I am the Lord your God.
@@ -114,7 +114,7 @@ The foreigner who lives with you must be to you as the native-born among you, an
 "You must do no unrighteousness in judgment, in measures of length, of weight, or of quantity.
 
 ### Leviticus 19:36
-You must have just balances, just weights, a just ephah, and a just hin. I am the Lord your God, who brought you out of the land of Egypt.
+You must have honest scales, honest weights, an honest dry measure, and an honest liquid measure. I am the Lord your God, who brought you out of the land of Egypt.
 
 ### Leviticus 19:37
 "You must observe all my rules and all my commands, and do them. I am the Lord.' "

@@ -24,7 +24,7 @@ You must send one thousand out of every tribe, throughout all the tribes of Isra
 So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war.
 
 ### Numbers 31:6
-Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the vessels of the sanctuary and the trumpets for the alarm in his hand.
+Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the holy tent tools and the trumpets for the alarm in his hand.
 
 ### Numbers 31:7
 They fought against Midian, as the Lord commanded Moses. They killed every male.
@@ -75,7 +75,7 @@ Eleazar the priest said to the men of war who went to the battle, "This is the r
 however the gold, and the silver, the bronze, the iron, the tin, and the lead,
 
 ### Numbers 31:23
-everything that may withstand the fire, you must make to go through the fire, and it will be clean; nevertheless it must be purified with the water for impurity. All that doesn't withstand the fire you must make to go through the water.
+everything that may withstand the fire, you must make to go through the fire, and it will be clean; nevertheless it must be purified with the cleansing water. All that doesn't withstand the fire you must make to go through the water.
 
 ### Numbers 31:24
 You must wash your clothes on the seventh day, and you will be clean. Afterward you will come into the camp."
@@ -90,13 +90,13 @@ The Lord spoke to Moses, saying,
 and divide the plunder into two parts: between the men skilled in war, who went out to battle, and all the community.
 
 ### Numbers 31:28
-Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred; of the persons, of the cattle, of the donkeys, and of the flocks.
+Levy a tribute to the Lord of the men of war who went out to battle: one person of five hundred; of the people, of the cattle, of the donkeys, and of the flocks.
 
 ### Numbers 31:29
-Take it from their half, and give it to Eleazar the priest, for the Lord's wave offering.
+Take it from their half, and give it to Eleazar the priest, for the Lord's offering lifted before the Lord.
 
 ### Numbers 31:30
-Of the people of Israel's half, you must take one out of every fifty, of the persons, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of the Lord's tent."
+Of the people of Israel's half, you must take one out of every fifty, of the people, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of the Lord's tent."
 
 ### Numbers 31:31
 Moses and Eleazar the priest did as the Lord commanded Moses.
@@ -111,7 +111,7 @@ seventy-two thousand head of cattle,
 sixty-one thousand donkeys,
 
 ### Numbers 31:35
-and thirty-two thousand persons in all, of the women who had not had sexual relations with a man.
+and thirty-two thousand people in all, of the women who had not had sexual relations with a man.
 
 ### Numbers 31:36
 The half, which was the portion of those who went out to war, was in number three hundred thirty-seven thousand five hundred sheep;
@@ -126,10 +126,10 @@ The cattle were thirty-six thousand, of which the Lord's tribute was seventy-two
 The donkeys were thirty thousand five hundred, of which the Lord's tribute was sixty-one.
 
 ### Numbers 31:40
-The persons were sixteen thousand, of whom the Lord's tribute was thirty-two persons.
+The people were sixteen thousand, of whom the Lord's tribute was thirty-two people.
 
 ### Numbers 31:41
-Moses gave the tribute, which was the Lord's wave offering, to Eleazar the priest, as the Lord commanded Moses.
+Moses gave the tribute, which was the Lord's offering lifted before the Lord, to Eleazar the priest, as the Lord commanded Moses.
 
 ### Numbers 31:42
 Of the people of Israel's half, which Moses divided off from the men who fought
@@ -144,7 +144,7 @@ thirty-six thousand head of cattle,
 thirty thousand five hundred donkeys,
 
 ### Numbers 31:46
-and sixteen thousand persons),
+and sixteen thousand people),
 
 ### Numbers 31:47
 even of the people of Israel's half, Moses took one out of every fifty, both people and animals, and gave them to the Levites, who performed the duty of the Lord's tent, as the Lord commanded Moses.
@@ -162,7 +162,7 @@ We have brought the Lord's offering, what every man found: gold ornaments, armle
 Moses and Eleazar the priest took their gold, even all the worked jewelry.
 
 ### Numbers 31:52
-All the gold of the wave offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels.
+All the gold of the offering lifted before the Lord that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
 
 ### Numbers 31:53
 The men of war had taken plunder, every man for himself.

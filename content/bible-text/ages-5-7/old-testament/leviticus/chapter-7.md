@@ -9,10 +9,10 @@ Leviticus
 ## Verses
 
 ### Leviticus 7:1
-"This is the law of the guilt offering: It is most holy.
+"This is the law of the offering for guilt: It is most holy.
 
 ### Leviticus 7:2
-In the place where they kill the burnt offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar.
+In the place where they kill the burned offering, he must kill the offering for guilt; and its blood he must sprinkle around on the altar.
 
 ### Leviticus 7:3
 He must offer all of its fat: the fat tail, and the fat that covers the inner parts,
@@ -21,22 +21,22 @@ He must offer all of its fat: the fat tail, and the fat that covers the inner pa
 and he must take away the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys;
 
 ### Leviticus 7:5
-and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is a guilt offering.
+and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is an offering for guilt.
 
 ### Leviticus 7:6
 Every male among the priests may eat of it. It must be eaten in a holy place. It is most holy.
 
 ### Leviticus 7:7
-"As is the sin offering, so is the guilt offering; there is one law for them. The priest who makes atonement with them must have it.
+"As is the offering for sin, so is the offering for guilt; there is one law for them. The priest who makes atonement with them must have it.
 
 ### Leviticus 7:8
-The priest who offers any man's burnt offering must have for himself the skin of the burnt offering which he has offered.
+The priest who offers any man's burned offering must have for himself the skin of the burned offering which he has offered.
 
 ### Leviticus 7:9
-Every grain offering that is baked in the oven, and all that is prepared in the pan and on the griddle, must be the priest's who offers it.
+Every grain gift that is baked in the oven, and all that is prepared in the pan and on the griddle, must be the priest's who offers it.
 
 ### Leviticus 7:10
-Every grain offering, mixed with oil or dry, belongs to all the sons of Aaron, one as well as another.
+Every grain gift, mixed with oil or dry, belongs to all the sons of Aaron, one as well as another.
 
 ### Leviticus 7:11
 "This is the law of the sacrifice of peace offerings, which one must offer to the Lord:
@@ -66,10 +66,10 @@ If any of the meat of the sacrifice of his peace offerings is eaten on the third
 "The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
 
 ### Leviticus 7:20
-but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his uncleanness on him, that person must be removed from his people.
+but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord, having his being unclean on him, that person must be removed from his people.
 
 ### Leviticus 7:21
-When anyone touches any unclean thing, the uncleanness of man, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
+When anyone touches any unclean thing, a person's being unclean, or an unclean animal, or any unclean thing God calls detestable, and eats some of the meat of the sacrifice of peace offerings which belong to the Lord, that person must be removed from his people.' "
 
 ### Leviticus 7:22
 The Lord spoke to Moses, saying,
@@ -96,7 +96,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, saying, 'Whoever offers the sacrifice of his peace offerings to the Lord must bring his offering to the Lord out of the sacrifice of his peace offerings.
 
 ### Leviticus 7:30
-With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be waved for a wave offering before the Lord.
+With his own hands he must bring the offerings of the Lord made by fire. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
 ### Leviticus 7:31
 The priest must burn the fat on the altar, but the breast must be Aaron's and his sons'.
@@ -108,7 +108,7 @@ The right thigh you must give to the priest for a special offering out of the sa
 He among the sons of Aaron who offers the blood of the peace offerings, and the fat, must have the right thigh for a portion.
 
 ### Leviticus 7:34
-For the waved breast and the contributed thigh I have taken from the people of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the people of Israel.' "
+For the breast lifted before the Lord and the contributed thigh I have taken from the people of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the people of Israel.' "
 
 ### Leviticus 7:35
 This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings of the Lord made by fire, in the day when he presented them to minister to the Lord in the priest's office;
@@ -117,7 +117,7 @@ This is the set apart portion of Aaron, and the set apart portion of his sons, o
 which the Lord commanded to be given them of the people of Israel, in the day that he anointed them. It is their portion forever for all their generations.
 
 ### Leviticus 7:37
-This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering, the setting apart, and the sacrifice of peace offerings
+This is the law of the burned offering, the grain gift, the offering for sin, the offering for guilt, the setting apart, and the sacrifice of peace offerings
 
 ### Leviticus 7:38
 which the Lord commanded Moses in Mount Sinai in the day that he commanded the people of Israel to offer their offerings to the Lord, in the wilderness of Sinai.

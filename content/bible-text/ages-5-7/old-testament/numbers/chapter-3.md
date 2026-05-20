@@ -90,7 +90,7 @@ the hangings of the court, the screen for the door of the court which is by the 
 Of Kohath was the family of the Amramites, the family of the Izharites, the family of the Hebronites, and the family of the Uzzielites. These are the families of the Kohathites.
 
 ### Numbers 3:28
-According to the number of all the males from a month old and older, there were eight thousand six hundred keeping the requirements of the sanctuary.
+According to the number of all the males from a month old and older, there were eight thousand six hundred keeping the requirements of the holy place.
 
 ### Numbers 3:29
 The families of the sons of Kohath must camp on the south side of the tent.
@@ -99,10 +99,10 @@ The families of the sons of Kohath must camp on the south side of the tent.
 The leader of the family house of the families of the Kohathites must be Elizaphan the son of Uzziel.
 
 ### Numbers 3:31
-Their duty must be the ark, the table, the lamp stand, the altars, the vessels of the sanctuary with which they minister, the screen, and all its service.
+Their duty must be the ark, the table, the lamp stand, the altars, the holy tent tools with which they minister, the screen, and all its service.
 
 ### Numbers 3:32
-Eleazar the son of Aaron the priest must be leader of the leaders of the Levites, with the oversight of those who keep the requirements of the sanctuary.
+Eleazar the son of Aaron the priest must be leader of the leaders of the Levites, with the oversight of those who keep the requirements of the holy place.
 
 ### Numbers 3:33
 Of Merari was the family of the Mahlites and the family of the Mushites. These are the families of Merari.
@@ -120,7 +120,7 @@ The appointed duty of the sons of Merari must be the tent's boards, its bars, it
 the pillars of the court around it, their sockets, their pins, and their cords.
 
 ### Numbers 3:38
-Those who camp before the tent eastward, in front of the Tent of Meeting toward the sunrise, must be Moses, and Aaron and his sons, keeping the requirements of the sanctuary for the duty of the people of Israel. The outsider who comes near must be put to death.
+Those who camp before the tent eastward, in front of the Tent of Meeting toward the sunrise, must be Moses, and Aaron and his sons, keeping the requirements of the holy place for the duty of the people of Israel. The outsider who comes near must be put to death.
 
 ### Numbers 3:39
 All who were counted from the Levites, whom Moses and Aaron counted at the command of the Lord, by their families, all the males from a month old and older, were twenty-two thousand.
@@ -147,7 +147,7 @@ The Lord spoke to Moses, saying,
 For the redemption of the two hundred seventy-three of the firstborn of the people of Israel who exceed the number of the Levites,
 
 ### Numbers 3:47
-you must take five shekels apiece for each one; according to the shekel of the sanctuary you must take them (the shekel is twenty gerahs);
+you must take five silver pieces apiece for each one; according to the holy place weight you must take them (the silver piece is twenty small weight units);
 
 ### Numbers 3:48
 and you must give the money, with which their remainder is redeemed, to Aaron and to his sons."
@@ -156,7 +156,7 @@ and you must give the money, with which their remainder is redeemed, to Aaron an
 Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
 
 ### Numbers 3:50
-from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five shekels, according to the shekel of the sanctuary;
+from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, according to the holy place weight;
 
 ### Numbers 3:51
 and Moses gave the redemption money to Aaron and to his sons, according to the Lord's word, as the Lord commanded Moses.

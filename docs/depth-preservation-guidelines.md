@@ -36,6 +36,18 @@ Chapter summaries and key lessons should be vivid, but they must stay as close a
 - Summaries may connect the chapter's movements, but should not import details from later chapters or explain away tensions the text keeps open.
 - Use active language for God's work: God commands, makes, separates, gathers, names, blesses, and sees that his work is good.
 
+### Ceremonial and Legal Passages
+
+Leviticus, Numbers, and similar passages need extra care. Preserve the specific ritual action and order, but replace bare ancient words with concrete language a child can picture.
+
+- Use "clay bowl" instead of "earthen vessel."
+- Use "fresh flowing water" instead of the ritual phrase "running water."
+- Use "red thread" for "scarlet" when the object is the red thread or cord.
+- Use "leafy hyssop branch" so the plant is not a mystery word.
+- Use "small measure of oil," "tenth-measure," "honest dry measure," or "honest liquid measure" instead of bare terms such as "log," "ephah," or "hin."
+- Keep the offering type when it matters. For ages 5-7, "grain gift," "offering for sin," and "offering for guilt" are clearer than flattening everything into "a gift."
+- Do not delete numbers, animals, washing, waiting days, priestly actions, or location details just because the passage is repetitive.
+
 ## Word Substitution Guidelines
 
 ### ✅ **Words to Simplify (Truly Complex)**

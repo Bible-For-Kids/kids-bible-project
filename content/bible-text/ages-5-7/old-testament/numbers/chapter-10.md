@@ -36,7 +36,7 @@ But when the whole group is to be gathered together, you must blow, but you must
 When you go to war in your land against the adversary who oppresses you, then you must sound an alarm with the trumpets. Then you will be remembered before the Lord your God, and you will be saved from your enemies.
 
 ### Numbers 10:10
-"Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you must blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they will be a memorial for you before your God. I am the Lord your God."
+"Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you must blow the trumpets over your burned offerings, and over the sacrifices of your peace offerings; and they will be a memorial for you before your God. I am the Lord your God."
 
 ### Numbers 10:11
 In the second year, in the second month, on the twentieth day of the month, the cloud was taken up from over the tent of the covenant.
@@ -69,7 +69,7 @@ Shelumiel the son of Zurishaddai was over the army of the tribe of Simeon.
 Eliasaph the son of Deuel was over the army of the tribe of Gad.
 
 ### Numbers 10:21
-The Kohathites set forward, bearing the sanctuary. The others set up the tent before they arrived.
+The Kohathites set forward, bearing the holy place. The others set up the tent before they arrived.
 
 ### Numbers 10:22
 The banner of the camp of Ephraim set forward according to their armies. Elishama the son of Ammihud was over his army.

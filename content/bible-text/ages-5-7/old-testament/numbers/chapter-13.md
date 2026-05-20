@@ -60,7 +60,7 @@ These are the names of the men who Moses sent to spy out the land. Moses called 
 Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the South, and go up into the hill country.
 
 ### Numbers 13:18
-See the land, what it is; and the people who dwell there, whether they are strong or weak, whether they are few or many;
+See the land, what it is; and the people who live there, whether they are strong or weak, whether they are few or many;
 
 ### Numbers 13:19
 and what the land is that they live in, whether it is good or bad; and what cities they are that they live in, whether in camps, or in strongholds;
@@ -93,7 +93,7 @@ They told him, and said, "We came to the land where you sent us. Surely it flows
 However, the people who live in the land are strong, and the cities are fortified and very large. Moreover, we saw the descendants of Anak there.
 
 ### Numbers 13:29
-Amalek dwells in the land of the South. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite dwells by the sea, and along the side of the Jordan."
+Amalek lives in the land of the South. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
 
 ### Numbers 13:30
 Caleb quieted the people before Moses, and said, "Let's go up at once, and possess it; for we are well able to overcome it!"

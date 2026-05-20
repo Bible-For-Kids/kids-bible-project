@@ -21,7 +21,7 @@ The Lord listened to the voice of Israel, and delivered up the Canaanites; and t
 They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom. The person of the people was very discouraged because of the travel.
 
 ### Numbers 21:5
-The people spoke against God and against Moses: "Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and our person loathes this disgusting food!"
+The people spoke against God and against Moses: "Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and we hate this disgusting food!"
 
 ### Numbers 21:6
 The Lord sent venomous snakes among the people, and they bit the people. Many people of Israel died.

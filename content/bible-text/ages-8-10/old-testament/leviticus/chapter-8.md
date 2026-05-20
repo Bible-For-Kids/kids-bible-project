@@ -12,7 +12,7 @@ Leviticus
 The Lord spoke to Moses, saying,
 
 ### Leviticus 8:2
-"Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;
+"Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two male sheep, and the basket of unleavened bread;
 
 ### Leviticus 8:3
 and assemble all the community at the door of the Tent of Meeting."
@@ -39,7 +39,7 @@ He set the turban on his head. He set the golden plate, the holy crown, on the f
 Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
 
 ### Leviticus 8:11
-He sprinkled it on the altar seven times, and anointed the altar and all its vessels, and the basin and its base, to make them holy.
+He sprinkled it on the altar seven times, and anointed the altar and all its containers, and the basin and its base, to make them holy.
 
 ### Leviticus 8:12
 He poured some of the anointing oil on Aaron's head, and anointed him, to make him holy.
@@ -60,19 +60,19 @@ He took all the fat that was on the inner parts, and the cover of the liver, and
 But the bull, and its skin, and its meat, and its waste, he burned with fire outside the camp, as the Lord commanded Moses.
 
 ### Leviticus 8:18
-He presented the ram of the burnt offering. Aaron and his sons laid their hands on the head of the ram.
+He presented the male sheep of the burned offering. Aaron and his sons laid their hands on the head of the male sheep.
 
 ### Leviticus 8:19
 He killed it; and Moses sprinkled the blood around on the altar.
 
 ### Leviticus 8:20
-He cut the ram into its pieces; and Moses burned the head, and the pieces, and the fat.
+He cut the male sheep into its pieces; and Moses burned the head, and the pieces, and the fat.
 
 ### Leviticus 8:21
-He washed the inner parts and the legs with water; and Moses burned the whole ram on the altar. It was a burnt offering for a pleasant aroma. It was an offering burned on the altar to the Lord, as the Lord commanded Moses.
+He washed the inner parts and the legs with water; and Moses burned the whole male sheep on the altar. It was a burned offering for a pleasant aroma. It was an offering burned on the altar to the Lord, as the Lord commanded Moses.
 
 ### Leviticus 8:22
-He presented the other ram, the ram of setting apart. Aaron and his sons laid their hands on the head of the ram.
+He presented the other male sheep, the male sheep of setting apart. Aaron and his sons laid their hands on the head of the male sheep.
 
 ### Leviticus 8:23
 He killed it; and Moses took some of its blood, and put it on the tip of Aaron's right ear, and on the thumb of his right hand, and on the great toe of his right foot.
@@ -87,13 +87,13 @@ He took the fat, the fat tail, all the fat that was on the inner parts, the cove
 and out of the basket of unleavened bread that was before the Lord, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 
 ### Leviticus 8:27
-He put all these in Aaron's hands and in his sons' hands, and waved them for a wave offering before the Lord.
+He put all these in Aaron's hands and in his sons' hands, and lifted them before the Lord as an offering.
 
 ### Leviticus 8:28
-Moses took them from their hands, and burned them on the altar on the burnt offering. They were a setting apart offering for a pleasant aroma. It was an offering burned on the altar to the Lord.
+Moses took them from their hands, and burned them on the altar on the burned offering. They were a setting apart offering for a pleasant aroma. It was an offering burned on the altar to the Lord.
 
 ### Leviticus 8:29
-Moses took the breast, and waved it for a wave offering before the Lord. It was Moses' portion of the ram of setting apart, as the Lord commanded Moses.
+Moses took the breast, and lifted it before the Lord as an offering. It was Moses' portion of the male sheep of setting apart, as the Lord commanded Moses.
 
 ### Leviticus 8:30
 Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons' garments with him, and made Aaron, his garments, his sons, and his sons' garments holy with him.

@@ -21,7 +21,7 @@ He must offer of the sacrifice of peace offerings an offering burned on the alta
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must take away.
 
 ### Leviticus 3:5
-Aaron's sons must burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering burned on the altar, of a pleasing smell to the Lord.
+Aaron's sons must burn it on the altar on the burned offering, which is on the wood that is on the fire: it is an offering burned on the altar, of a pleasing smell to the Lord.
 
 ### Leviticus 3:6
 "If his offering for a sacrifice of peace offerings to the Lord is from the flock, either male or female, he must offer it with nothing wrong with it.

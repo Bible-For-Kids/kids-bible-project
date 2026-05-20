@@ -64,11 +64,11 @@ Each verse is translated two ways:
 
 #### Ages 5-7: Foundation Level
 **Characteristics:**
-- **Sentence Length**: 3-5 words maximum
+- **Sentence Length**: Short, clear sentences. A few extra simple words are welcome when they help the child see the verse in their mind.
 - **Vocabulary**: 500-800 most common words
 - **Concepts**: Concrete, tangible, observable
 - **Focus**: Who, what, where, when (simple)
-- **Tone**: Gentle, reassuring, positive
+- **Tone**: Gentle, visual, reverent, and engaging
 - **Depth Preservation**: Maintain biblical richness while simplifying only complex words
 
 **Translation Strategy:**
@@ -78,6 +78,7 @@ Each verse is translated two ways:
 - Maintain the original sentence structure when possible
 - Use familiar words that carry the same meaning
 - Preserve the emotional and spiritual depth
+- Paint the scene in faithful child-readable language, especially for narrative and worship passages
 
 **Example - Genesis 1:2:**
 - *Original*: "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."

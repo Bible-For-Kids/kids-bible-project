@@ -99,10 +99,10 @@ Moses said to him, "Are you jealous for my sake? I wish that all the Lord's peop
 Moses went into the camp, he and the elders of Israel.
 
 ### Numbers 11:31
-A wind from the Lord went out and brought quails from the sea, and let them fall by the camp, about a day's travel on this side, and a day's travel on the other side, around the camp, and about two cubits above the surface of the earth.
+A wind from the Lord went out and brought quails from the sea, and let them fall by the camp, about a day's travel on this side, and a day's travel on the other side, around the camp, and about two arm-lengths above the surface of the earth.
 
 ### Numbers 11:32
-The people rose up all that day, and all of that night, and all the next day, and gathered the quails. Whoever gathered least gathered ten homers; and they spread them all out for themselves around the camp.
+The people rose up all that day, and all of that night, and all the next day, and gathered the quails. Whoever gathered least gathered a huge amount; and they spread them all out for themselves around the camp.
 
 ### Numbers 11:33
 While the meat was still between their teeth, before it was chewed, the Lord's anger burned against the people, and the Lord struck the people with a very great terrible sickness.

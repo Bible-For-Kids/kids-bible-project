@@ -102,13 +102,13 @@ the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon
 These are the ones that are unclean to you among all that crawl. Whoever touches them when they are dead will be unclean until the evening.
 
 ### Leviticus 11:32
-Anything they fall on when they are dead will be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it will be unclean until the evening. Then it will be clean.
+Anything they fall on when they are dead will be unclean; whether it is any container of wood, or clothing, or skin, or sack, whatever container it is, with which any work is done, it must be put into water, and it will be unclean until the evening. Then it will be clean.
 
 ### Leviticus 11:33
-Every earthen vessel into which any of them falls and all that is in it will be unclean. You must break it.
+Every clay bowl into which any of them falls and all that is in it will be unclean. You must break it.
 
 ### Leviticus 11:34
-Any food that could be eaten, if it is soaked in water, will be unclean. All drink that may be drunk in every such vessel will be unclean.
+Any food that could be eaten, if it is soaked in water, will be unclean. All drink that may be drunk in every such container will be unclean.
 
 ### Leviticus 11:35
 Everything that part of their dead body falls on will be unclean; whether oven, or range for pots, it must be broken in pieces. They are unclean, and will be unclean to you.

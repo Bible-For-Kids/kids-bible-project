@@ -33,13 +33,13 @@ He must not make himself unclean for his father, or for his mother, for his brot
 All the days of his separation he is holy to the Lord.
 
 ### Numbers 6:9
-"If any man dies very suddenly beside him, and his special separation becomes unclean, then he must shave his head in the day of his cleansing. On the seventh day he must shave it.
+"If any man dies very suddenly beside him, and his special separation becomes unclean, then he must shave his head on the day he is made clean. On the seventh day he must shave it.
 
 ### Numbers 6:10
-On the eighth day he must bring two turtledoves or two young pigeons to the priest, to the door of the Tent of Meeting.
+On the eighth day he must bring two doves or two young pigeons to the priest, to the door of the Tent of Meeting.
 
 ### Numbers 6:11
-The priest must offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned because of the dead body, and must make his head holy that same day.
+The priest must offer one for a sin offering, and the other for a burned offering, and make atonement for him, because he sinned because of the dead body, and must make his head holy that same day.
 
 ### Numbers 6:12
 He must separate to the Lord the days of his separation, and must bring a male lamb a year old for a guilt offering; but the former days will not count, because his separation was made unclean.
@@ -48,25 +48,25 @@ He must separate to the Lord the days of his separation, and must bring a male l
 "This is the law of the Nazirite: when the days of his separation are fulfilled, he must be brought to the door of the Tent of Meeting,
 
 ### Numbers 6:14
-and he must offer his offering to the Lord: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,
+and he must offer his offering to the Lord: one male lamb a year old with nothing wrong with it as a burned offering, one female lamb a year old with nothing wrong with it for a sin offering, one male sheep with nothing wrong with it for peace offerings,
 
 ### Numbers 6:15
 a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their grain offering and their drink offerings.
 
 ### Numbers 6:16
-The priest must present them before the Lord, and must offer his sin offering and his burnt offering.
+The priest must present them before the Lord, and must offer his sin offering and his burned offering.
 
 ### Numbers 6:17
-He must offer the ram for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
+He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
 
 ### Numbers 6:18
 The Nazirite must shave the hair of his separation at the door of the Tent of Meeting, take the hair of the hair of his separation, and put it on the fire which is under the sacrifice of peace offerings.
 
 ### Numbers 6:19
-The priest must take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
+The priest must take the boiled shoulder of the male sheep, one unleavened cake out of the basket, and one unleavened wafer, and must put them on the hands of the Nazirite after he has shaved the hair of his separation;
 
 ### Numbers 6:20
-and the priest must wave them for a wave offering before the Lord. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine.
+and the priest must lift them before the Lord as an offering. They are holy for the priest, together with the breast lifted before the Lord and the thigh that is offered. After that the Nazirite may drink wine.
 
 ### Numbers 6:21
 "This is the law of the Nazirite who vows and of his offering to the Lord for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.' "

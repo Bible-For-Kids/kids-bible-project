@@ -20,11 +20,11 @@ The CBV ensures that any child can read any verse in the Bible and understand it
 Each verse must have two distinct translations:
 
 #### Level 1: Ages 5-7 (Foundation)
-- **Sentence Length**: 3-5 words maximum
+- **Sentence Length**: Short, clear sentences. Do not force a 3-5 word cap when a few more simple words help a child picture the verse faithfully.
 - **Vocabulary**: 500-800 most common words
 - **Concepts**: Concrete, tangible, observable
-- **Focus**: Immediate understanding, who/what/where/when
-- **Tone**: Gentle, reassuring, positive
+- **Focus**: Immediate understanding with vivid Bible-shaped storytelling
+- **Tone**: Gentle, visual, reverent, and engaging
 
 #### Level 2: Ages 8-10 (Growing)  
 - **Sentence Length**: 6-10 words average
@@ -44,12 +44,13 @@ Each verse must have two distinct translations:
 - Literal interpretation
 
 **Language Guidelines:**
-- 3-5 words per sentence maximum
+- Prefer short sentences, but allow richer simple phrasing when it paints the scene without changing the meaning
 - Simple, common words only
 - Present tense preferred
 - Active voice only
 - One concept per sentence
 - Use familiar objects and situations
+- Keep the visual story tradition: darkness covering everything, water gathered, light shining, people moving through real places
 
 **Example:**
 - *Original*: "In the beginning God created the heavens and the earth."

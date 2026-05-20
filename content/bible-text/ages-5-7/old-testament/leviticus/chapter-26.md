@@ -12,7 +12,7 @@ Leviticus
 "You must make for yourselves no idols, and you must not raise up a carved image or a pillar, and you must not place any figured stone in your land, to bow down to it; for I am the Lord your God.
 
 ### Leviticus 26:2
-"You must keep my Sabbaths, and have reverence for my sanctuary. I am the Lord.
+"You must keep my Sabbaths, and have reverence for my holy place. I am the Lord.
 
 ### Leviticus 26:3
 "If you walk in my rules and keep my commands, and do them,
@@ -21,7 +21,7 @@ Leviticus
 then I will give you your rains in their season, and the land will yield its increase, and the trees of the field will yield their fruit.
 
 ### Leviticus 26:5
-Your threshing will continue until the vintage, and the vintage will continue until the sowing time. You will eat your bread until you are full, and dwell in your land safely.
+Your threshing will continue until the vintage, and the vintage will continue until the sowing time. You will eat your bread until you are full, and live in your land safely.
 
 ### Leviticus 26:6
 "I will give peace in the land, and you will lie down, and no one will make you afraid. I will remove evil animals out of the land, no sword will go through your land.
@@ -96,13 +96,13 @@ then I will walk contrary to you in wrath. I will also discipline you seven time
 You will eat the flesh of your sons, and you will eat the flesh of your daughters.
 
 ### Leviticus 26:30
-I will destroy your high places, and cut down your incense altars, and cast your dead bodies upon the bodies of your idols; and I will reject you.
+I will destroy your high places, and cut down your sweet-smelling incense altars, and cast your dead bodies upon the bodies of your idols; and I will reject you.
 
 ### Leviticus 26:31
 I will lay your cities waste, and will bring your sanctuaries to desolation. I will not take delight in the sweet fragrance of your offerings.
 
 ### Leviticus 26:32
-I will bring the land into desolation, and your enemies that dwell in it will be astonished at it.
+I will bring the land into desolation, and your enemies that live in it will be astonished at it.
 
 ### Leviticus 26:33
 I will scatter you among the nations, and I will draw out the sword after you. Your land will be a desolation, and your cities will be a waste.

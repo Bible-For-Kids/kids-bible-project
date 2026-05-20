@@ -18,16 +18,16 @@ The Lord spoke to Moses, saying,
 In the eighth day the flesh of his foreskin must be circumcised.
 
 ### Leviticus 12:4
-She must continue in the blood of purification thirty-three days. She must not touch any holy thing, nor come into the sanctuary, until the days of her purifying are completed.
+She must continue in the blood of purification thirty-three days. She must not touch any holy thing, nor come into the holy place, until the days of her purifying are completed.
 
 ### Leviticus 12:5
 But if she bears a female child, then she will be unclean two weeks, as in her period; and she must continue in the blood of purification sixty-six days.
 
 ### Leviticus 12:6
-"When the days of her purification are completed for a son or for a daughter, she must bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon or a turtledove, for a sin offering.
+"When the days of her purification are completed for a son or for a daughter, she must bring to the priest at the door of the Tent of Meeting, a year old lamb for a burned offering, and a young pigeon or a dove, for a sin offering.
 
 ### Leviticus 12:7
 He must offer it before the Lord, and make atonement for her; then she must be cleansed from the fountain of her blood. " 'This is the law for the woman who bears, whether a male or a female.
 
 ### Leviticus 12:8
-If she cannot afford a lamb, then she must take two turtledoves or two young pigeons: the one for a burnt offering, and the other for a sin offering. The priest must make atonement for her, and she will be clean.' "
+If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a burned offering, and the other for a sin offering. The priest must make atonement for her, and she will be clean.' "

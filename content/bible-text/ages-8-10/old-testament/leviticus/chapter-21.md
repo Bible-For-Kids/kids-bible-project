@@ -42,7 +42,7 @@ Therefore you must make him holy, for he offers the bread of your God. He will b
 He must not go in to any dead body, or make himself unclean for his father or for his mother.
 
 ### Leviticus 21:12
-He must not go out of the sanctuary, nor dishonor the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
+He must not go out of the holy place, nor dishonor the holy place of his God; for the crown of the anointing oil of his God is upon him. I am the Lord.
 
 ### Leviticus 21:13
 "He must take a wife in her virginity.
@@ -75,7 +75,7 @@ No man of the children of Aaron the priest who has a blemish must come near to o
 He must eat the bread of his God, both of the most holy, and of the holy.
 
 ### Leviticus 21:23
-He must not come near to the veil, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
+He must not come near to the curtain, nor come near to the altar, because he has a blemish; that he may not dishonor my sanctuaries, for I am the Lord who makes them holy.' "
 
 ### Leviticus 21:24
 So Moses spoke to Aaron, and to his sons, and to all the people of Israel.

@@ -15,31 +15,31 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,
 
 ### Numbers 15:3
-and will make an offering burned on the altar to the Lord-a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 ### Numbers 15:4
-then whoever offers his offering must offer to the Lord a grain offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil.
+then whoever offers his offering must offer to the Lord a grain gift of one tenth-measure of fine flour mixed with one fourth-measure of oil.
 
 ### Numbers 15:5
-You must prepare wine for the drink offering, one fourth of a hin, with the burnt offering or for the sacrifice, for each lamb.
+You must prepare wine for the drink gift, one fourth-measure, with the burned offering or for the sacrifice, for each lamb.
 
 ### Numbers 15:6
-"For a ram, you must prepare for a grain offering two tenths of an ephah of fine flour mixed with one third of a hin of oil;
+"For a male sheep, you must prepare for a grain gift two tenth-measures of fine flour mixed with one third-measure of oil;
 
 ### Numbers 15:7
-and for the drink offering you must offer one third of a hin of wine, of a pleasing smell to the Lord.
+and for the drink gift you must offer one third-measure of wine, of a pleasing smell to the Lord.
 
 ### Numbers 15:8
-When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to the Lord,
+When you prepare a bull for a burned offering or for a sacrifice, to accomplish a vow, or for peace offerings to the Lord,
 
 ### Numbers 15:9
-then he must offer with the bull a grain offering of three tenths of an ephah of fine flour mixed with half a hin of oil;
+then he must offer with the bull a grain gift of three tenth-measures of fine flour mixed with a half-measure of oil;
 
 ### Numbers 15:10
-and you must offer for the drink offering half a hin of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
+and you must offer for the drink gift a half-measure of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
 
 ### Numbers 15:11
-Thus it must be done for each bull, for each ram, for each of the male lambs, or of the young goats.
+Thus it must be done for each bull, for each male sheep, for each of the male lambs, or of the young goats.
 
 ### Numbers 15:12
 According to the number that you must prepare, so you must do to everyone according to their number.
@@ -63,13 +63,13 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you come into the land where I bring you,
 
 ### Numbers 15:19
-then it must be that when you eat of the bread of the land, you must offer up a wave offering to the Lord.
+then it must be that when you eat of the bread of the land, you must offer up a lifted offering to the Lord.
 
 ### Numbers 15:20
-Of the first of your dough you must offer up a cake for a wave offering. As the wave offering of the threshing floor, so you must heave it.
+Of the first of your dough you must offer up a cake for a lifted offering. As the lifted offering of the threshing floor, so you must heave it.
 
 ### Numbers 15:21
-Of the first of your dough, you must give to the Lord a wave offering for all your generations.
+Of the first of your dough, you must give to the Lord a lifted offering for all your generations.
 
 ### Numbers 15:22
 "When you err, and don't observe all these commands which the Lord has spoken to Moses-
@@ -78,19 +78,19 @@ Of the first of your dough, you must give to the Lord a wave offering for all yo
 even all that the Lord has commanded you by Moses, from the day that the Lord gave command and onward for all your generations-
 
 ### Numbers 15:24
-then it must be, if it was done without meaning to, without the knowledge of the whole group, that all the people must offer one young bull for a burnt offering, for a pleasing smell to the Lord, with its grain offering and its drink offering, according to the command, and one male goat for a sin offering.
+then it must be, if it was done without meaning to, without the knowledge of the whole group, that all the people must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain gift and its drink gift, according to the command, and one male goat for an offering for sin.
 
 ### Numbers 15:25
-The priest must make atonement for all the people of Israel, and they will be forgiven; for it was an error, and they have brought their offering, an offering burned on the altar to the Lord, and their sin offering before the Lord, for their error.
+The priest must make atonement for all the people of Israel, and they will be forgiven; for it was an error, and they have brought their offering, an offering burned on the altar to the Lord, and their offering for sin before the Lord, for their error.
 
 ### Numbers 15:26
 All the people of the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
 
 ### Numbers 15:27
-"If a person sins without meaning to, then he must offer a female goat a year old for a sin offering.
+"If a person sins without meaning to, then he must offer a female goat a year old for an offering for sin.
 
 ### Numbers 15:28
-The priest must make atonement for the person who errs when he sins without meaning to before the Lord. He must make atonement for him, helping make things right with God; and he will be forgiven.
+The priest must make atonement for the person who errs when he sins without meaning to before the Lord. He must make atonement for him, to help make things right with God; and he will be forgiven.
 
 ### Numbers 15:29
 You must have one law for the person who does anything without meaning to, for the person who is native-born among the people of Israel, and for the foreigner who lives among them.

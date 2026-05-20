@@ -27,7 +27,7 @@ He said to Korah and to all his company, "In the morning, the Lord will show who
 Do this: have Korah and all his company take censers,
 
 ### Numbers 16:7
-put fire in them, and put incense on them before the Lord tomorrow. The man whom the Lord chooses will be holy. You have gone too far, you sons of Levi!"
+put fire in them, and put sweet-smelling incense on them before the Lord tomorrow. The man whom the Lord chooses will be holy. You have gone too far, you sons of Levi!"
 
 ### Numbers 16:8
 Moses said to Korah, "Hear now, you sons of Levi!
@@ -57,10 +57,10 @@ Moses was very angry, and said to the Lord, "Don't respect their offering. I hav
 Moses said to Korah, "You and all your company go before the Lord, you, and they, and Aaron, tomorrow.
 
 ### Numbers 16:17
-Each man take his censer and put incense on it, and each man bring before the Lord his censer, two hundred fifty censers; you also, and Aaron, each with his censer."
+Each man take his incense pan and put sweet-smelling incense on it, and each man bring before the Lord his incense pan, two hundred fifty censers; you also, and Aaron, each with his incense pan."
 
 ### Numbers 16:18
-They each took his censer, and put fire in it, and laid incense on it, and stood at the door of the Tent of Meeting with Moses and Aaron.
+They each took his incense pan, and put fire in it, and laid sweet-smelling incense on it, and stood at the door of the Tent of Meeting with Moses and Aaron.
 
 ### Numbers 16:19
 Korah assembled all the people opposite them to the door of the Tent of Meeting. The Lord's glory appeared to all the people.
@@ -111,7 +111,7 @@ So they, and all that belonged to them went down alive into Sheol. The earth clo
 All Israel that were around them fled at their cry; for they said, "Lest the earth swallow us up!"
 
 ### Numbers 16:35
-Fire came out from the Lord, and devoured the two hundred fifty men who offered the incense.
+Fire came out from the Lord, and devoured the two hundred fifty men who offered the sweet-smelling incense.
 
 ### Numbers 16:36
 The Lord spoke to Moses, saying,
@@ -126,7 +126,7 @@ even the censers of those who sinned against their own lives. Let them be beaten
 Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,
 
 ### Numbers 16:40
-to be a memorial to the people of Israel, so that no foreigner who isn't of the offspring of Aaron, would come near to burn incense before the Lord, that he not be as Korah, and as his company; as the Lord spoke to him by Moses.
+to be a memorial to the people of Israel, so that no foreigner who isn't of the offspring of Aaron, would come near to burn sweet-smelling incense before the Lord, that he not be as Korah, and as his company; as the Lord spoke to him by Moses.
 
 ### Numbers 16:41
 But on the next day all the people of Israel complained against Moses and against Aaron, saying, "You have killed the Lord's people!"
@@ -144,10 +144,10 @@ The Lord spoke to Moses, saying,
 "Get away from among this whole group, that I may consume them in a moment!" They fell on their faces.
 
 ### Numbers 16:46
-Moses said to Aaron, "Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the whole group, and make atonement for them, helping make things right with God; for wrath has gone out from the Lord! The terrible sickness has begun."
+Moses said to Aaron, "Take your incense pan, put fire from the altar in it, lay sweet-smelling incense on it, carry it quickly to the whole group, and make atonement for them, to help make things right with God; for wrath has gone out from the Lord! The terrible sickness has begun."
 
 ### Numbers 16:47
-Aaron did as Moses said, and ran into the middle of the whole group. The terrible sickness had already begun among the people. He put on the incense, and made atonement for the people.
+Aaron did as Moses said, and ran into the middle of the whole group. The terrible sickness had already begun among the people. He put on the sweet-smelling incense, and made atonement for the people.
 
 ### Numbers 16:48
 He stood between the dead and the living; and the terrible sickness was stayed.

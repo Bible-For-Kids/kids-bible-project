@@ -15,13 +15,13 @@ The Lord spoke to Moses, saying,
 "Command the people of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.
 
 ### Leviticus 24:3
-Outside of the veil of the Testimony, in the Tent of Meeting, Aaron must keep it in order from evening to morning before the Lord continually. It must be a lasting rule for all your generations.
+Outside of the curtain of the Testimony, in the Tent of Meeting, Aaron must keep it in order from evening to morning before the Lord continually. It must be a lasting rule for all your generations.
 
 ### Leviticus 24:4
 He must keep in order the lamps on the pure gold lamp stand before the Lord continually.
 
 ### Leviticus 24:5
-"You must take fine flour, and bake twelve cakes of it: two tenths of an ephah must be in one cake.
+"You must take fine flour, and bake twelve cakes of it: two tenth-measures must be in one cake.
 
 ### Leviticus 24:6
 You must set them in two rows, six on a row, on the pure gold table before the Lord.

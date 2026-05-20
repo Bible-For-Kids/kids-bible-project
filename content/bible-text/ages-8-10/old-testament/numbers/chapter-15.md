@@ -15,31 +15,31 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,
 
 ### Numbers 15:3
-and will make an offering burned on the altar to the Lord-a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
+and will make an offering burned on the altar to the Lord-a burned offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
 
 ### Numbers 15:4
-then whoever offers his offering must offer to the Lord a grain offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil.
+then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil.
 
 ### Numbers 15:5
-You must prepare wine for the drink offering, one fourth of a hin, with the burnt offering or for the sacrifice, for each lamb.
+You must prepare wine for the drink offering, one fourth-measure, with the burned offering or for the sacrifice, for each lamb.
 
 ### Numbers 15:6
-"For a ram, you must prepare for a grain offering two tenths of an ephah of fine flour mixed with one third of a hin of oil;
+"For a male sheep, you must prepare for a grain offering two tenth-measures of fine flour mixed with one third-measure of oil;
 
 ### Numbers 15:7
-and for the drink offering you must offer one third of a hin of wine, of a pleasing smell to the Lord.
+and for the drink offering you must offer one third-measure of wine, of a pleasing smell to the Lord.
 
 ### Numbers 15:8
-When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to the Lord,
+When you prepare a bull for a burned offering or for a sacrifice, to accomplish a vow, or for peace offerings to the Lord,
 
 ### Numbers 15:9
-then he must offer with the bull a grain offering of three tenths of an ephah of fine flour mixed with half a hin of oil;
+then he must offer with the bull a grain offering of three tenth-measures of fine flour mixed with a half-measure of oil;
 
 ### Numbers 15:10
-and you must offer for the drink offering half a hin of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
+and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, of a pleasing smell to the Lord.
 
 ### Numbers 15:11
-Thus it must be done for each bull, for each ram, for each of the male lambs, or of the young goats.
+Thus it must be done for each bull, for each male sheep, for each of the male lambs, or of the young goats.
 
 ### Numbers 15:12
 According to the number that you must prepare, so you must do to everyone according to their number.
@@ -63,13 +63,13 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you come into the land where I bring you,
 
 ### Numbers 15:19
-then it must be that when you eat of the bread of the land, you must offer up a wave offering to the Lord.
+then it must be that when you eat of the bread of the land, you must offer up an offering lifted before the Lord to the Lord.
 
 ### Numbers 15:20
-Of the first of your dough you must offer up a cake for a wave offering. As the wave offering of the threshing floor, so you must heave it.
+Of the first of your dough you must offer up a cake for an offering lifted before the Lord. As the offering lifted before the Lord of the threshing floor, so you must heave it.
 
 ### Numbers 15:21
-Of the first of your dough, you must give to the Lord a wave offering for all your generations.
+Of the first of your dough, you must give to the Lord an offering lifted before the Lord for all your generations.
 
 ### Numbers 15:22
 "When you err, and don't observe all these commands which the Lord has spoken to Moses-
@@ -78,7 +78,7 @@ Of the first of your dough, you must give to the Lord a wave offering for all yo
 even all that the Lord has commanded you by Moses, from the day that the Lord gave command and onward for all your generations-
 
 ### Numbers 15:24
-then it must be, if it was done without meaning to, without the knowledge of the community, that all the community must offer one young bull for a burnt offering, for a pleasing smell to the Lord, with its grain offering and its drink offering, according to the command, and one male goat for a sin offering.
+then it must be, if it was done without meaning to, without the knowledge of the community, that all the community must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain offering and its drink offering, according to the command, and one male goat for a sin offering.
 
 ### Numbers 15:25
 The priest must make atonement for all the community of the people of Israel, and they will be forgiven; for it was an error, and they have brought their offering, an offering burned on the altar to the Lord, and their sin offering before the Lord, for their error.

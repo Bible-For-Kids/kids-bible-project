@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
+const { collectBibleTextStyleIssues } = require('./lib/kids-bible-style');
 
 function chapterCounts(bookPath, counts) {
   return Object.fromEntries(
@@ -280,6 +281,10 @@ function validateBibleTextFile(filePath, content) {
       }
     }
   }
+
+  const styleIssues = collectBibleTextStyleIssues(filePath, content);
+  errors.push(...styleIssues.errors);
+  warnings.push(...styleIssues.warnings);
 
   return {
     errors,

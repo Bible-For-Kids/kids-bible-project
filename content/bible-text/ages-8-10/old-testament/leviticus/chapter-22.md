@@ -15,13 +15,13 @@ The Lord spoke to Moses, saying,
 "Tell Aaron and his sons to separate themselves from the holy things of the people of Israel, which they make holy to me, and that they not dishonor my holy name. I am the Lord.
 
 ### Leviticus 22:3
-"Tell them, 'If anyone of all your children for all your generations approaches the holy things which the people of Israel make holy to the Lord, having his uncleanness on him, that person must be removed from before me. I am the Lord.
+"Tell them, 'If anyone of all your children for all your generations approaches the holy things which the people of Israel make holy to the Lord, having his being unclean on him, that person must be removed from before me. I am the Lord.
 
 ### Leviticus 22:4
 "Whoever of the children of Aaron is a person with a serious disease or has a discharge must not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a fluid from his body,
 
 ### Leviticus 22:5
-or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever uncleanness he has-
+or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever being unclean he has-
 
 ### Leviticus 22:6
 the person that touches any such will be unclean until the evening, and must not eat of the holy things unless he bathes his body in water.
@@ -60,10 +60,10 @@ and so cause them to bear the sin that brings guilt when they eat their holy thi
 The Lord spoke to Moses, saying,
 
 ### Leviticus 22:18
-"Speak to Aaron, and to his sons, and to all the people of Israel, and say to them, 'Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to the Lord for a burnt offering:
+"Speak to Aaron, and to his sons, and to all the people of Israel, and say to them, 'Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to the Lord for a burned offering:
 
 ### Leviticus 22:19
-that you may be accepted, you must offer a male without any blemish, of the bulls, of the sheep, or of the goats.
+that you may be accepted, you must offer a male with nothing wrong with it, of the bulls, of the sheep, or of the goats.
 
 ### Leviticus 22:20
 But you must not offer whatever has a blemish, for it must not be acceptable for you.

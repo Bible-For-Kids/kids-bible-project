@@ -15,19 +15,19 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a vow, according to your valuation,
 
 ### Leviticus 27:3
-your valuation of a male from twenty years old to sixty years old must be fifty shekels of silver, according to the shekel of the sanctuary.
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight.
 
 ### Leviticus 27:4
-If she is a female, then your valuation must be thirty shekels.
+If she is a female, then your valuation must be thirty silver pieces.
 
 ### Leviticus 27:5
-If the person is from five years old to twenty years old, then your valuation must be for a male twenty shekels, and for a female ten shekels.
+If the person is from five years old to twenty years old, then your valuation must be for a male twenty silver pieces, and for a female ten silver pieces.
 
 ### Leviticus 27:6
-If the person is from a month old to five years old, then your valuation must be for a male five shekels of silver, and for a female your valuation must be three shekels of silver.
+If the person is from a month old to five years old, then your valuation must be for a male five silver pieces, and for a female your valuation must be three silver pieces.
 
 ### Leviticus 27:7
-If the person is from sixty years old and upward; if he is a male, then your valuation must be fifteen shekels, and for a female ten shekels.
+If the person is from sixty years old and upward; if he is a male, then your valuation must be fifteen silver pieces, and for a female ten silver pieces.
 
 ### Leviticus 27:8
 But if he is poorer than your valuation, then he must be set before the priest, and the priest must assign a value to him. The priest must assign a value according to his ability to pay.
@@ -54,7 +54,7 @@ But if he will indeed redeem it, then he must add the fifth part of it to its va
 If whoever dedicates it will redeem his house, then he must add the fifth part of the money of your valuation to it, and it must be his.
 
 ### Leviticus 27:16
-"If a man dedicates to the Lord part of the field of his possession, then your valuation must be according to the seed for it. The sowing of a homer of barley must be valued at fifty shekels of silver.
+"If a man dedicates to the Lord part of the field of his possession, then your valuation must be according to the seed for it. The sowing of a large measure of barley must be valued at fifty silver pieces.
 
 ### Leviticus 27:17
 If he dedicates his field from the Year of Jubilee, according to your valuation it must stand.
@@ -81,7 +81,7 @@ then the priest must count to him the worth of your valuation up to the Year of 
 In the Year of Jubilee the field must return to him from whom it was bought, even to him to whom the possession of the land belongs.
 
 ### Leviticus 27:25
-All your valuations must be according to the shekel of the sanctuary: twenty gerahs to the shekel.
+All your valuations must be according to the holy place weight: twenty small weight units to the silver piece.
 
 ### Leviticus 27:26
 "However the firstborn among animals, which belongs to the Lord as a firstborn, no man may dedicate, whether an ox or a sheep. It is the Lord's.

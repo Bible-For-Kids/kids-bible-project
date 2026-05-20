@@ -39,34 +39,34 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'When you have come into the land that I give to you, and you reap its harvest, then you must bring the sheaf of the first fruits of your harvest to the priest.
 
 ### Leviticus 23:11
-He must wave the sheaf before the Lord, to be accepted for you. On the next day after the Sabbath the priest must wave it.
+He must lift the bundle of grain before the Lord, to be accepted for you. On the next day after the Sabbath the priest must lift it.
 
 ### Leviticus 23:12
-On the day when you wave the sheaf, you must offer a male lamb without any blemish a year old for a burnt offering to the Lord.
+On the day when you lift the bundle of grain, you must offer a male lamb with nothing wrong with it a year old for a burned offering to the Lord.
 
 ### Leviticus 23:13
-The grain offering with it must be two tenths of an ephah of fine flour mixed with oil, an offering burned on the altar to the Lord for a pleasant aroma; and the drink offering with it must be of wine, the fourth part of a hin.
+The grain offering with it must be two tenth-measures of fine flour mixed with oil, an offering burned on the altar to the Lord for a pleasant aroma; and the drink offering with it must be of wine, one fourth-measure.
 
 ### Leviticus 23:14
 You must not eat bread, or roasted grain, or fresh grain, until this same day, until you have brought the offering of your God. This is a lasting rule for all your generations in all your dwellings.
 
 ### Leviticus 23:15
-"You must count from the next day after the Sabbath, from the day that you brought the sheaf of the wave offering: seven Sabbaths must be completed.
+"You must count from the next day after the Sabbath, from the day that you brought the sheaf of the offering lifted before the Lord: seven Sabbaths must be completed.
 
 ### Leviticus 23:16
 The next day after the seventh Sabbath you must count fifty days; and you must offer a new grain offering to the Lord.
 
 ### Leviticus 23:17
-You must bring out of your homes two loaves of bread for a wave offering made of two tenths of an ephah of fine flour. They must be baked with yeast, for first fruits to the Lord.
+You must bring out of your homes two loaves of bread for an offering lifted before the Lord made of two tenth-measures of fine flour. They must be baked with yeast, for first fruits to the Lord.
 
 ### Leviticus 23:18
-You must present with the bread seven lambs without any blemish a year old, one young bull, and two rams. They must be a burnt offering to the Lord, with their grain offering and their drink offerings, even an offering burned on the altar, of a sweet aroma to the Lord.
+You must present with the bread seven year-old lambs with nothing wrong with them, one young bull, and two male sheep. They must be a burned offering to the Lord, with their grain offering and their drink offerings, even an offering burned on the altar, of a sweet aroma to the Lord.
 
 ### Leviticus 23:19
 You must offer one male goat for a sin offering, and two male lambs a year old for a sacrifice of peace offerings.
 
 ### Leviticus 23:20
-The priest must wave them with the bread of the first fruits for a wave offering before the Lord, with the two lambs. They will be holy to the Lord for the priest.
+The priest must lift them before the Lord with the bread from the first fruits as an offering, with the two lambs. They will be holy to the Lord for the priest.
 
 ### Leviticus 23:21
 You must make proclamation on the same day that there must be a holy gathering to you. You must do no regular work. This is a lasting rule in all your dwellings for all your generations.
@@ -117,7 +117,7 @@ On the first day there must be a holy gathering. You must do no regular work.
 Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a solemn gathered people; you must do no regular work.
 
 ### Leviticus 23:37
-"These are the appointed feasts of the Lord which you must proclaim to be holy gatherings, to offer an offering burned on the altar to the Lord, a burnt offering, a grain offering, a sacrifice, and drink offerings, each on its own day-
+"These are the appointed feasts of the Lord which you must proclaim to be holy gatherings, to offer an offering burned on the altar to the Lord, a burned offering, a grain offering, a sacrifice, and drink offerings, each on its own day-
 
 ### Leviticus 23:38
 in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to the Lord.
@@ -132,10 +132,10 @@ You must take on the first day the fruit of majestic trees, branches of palm tre
 You must keep it as a feast to the Lord seven days in the year. It is a lasting rule for all your generations. You must keep it in the seventh month.
 
 ### Leviticus 23:42
-You must dwell in temporary shelters for seven days. All who are native-born in Israel must dwell in temporary shelters,
+You must live in temporary shelters for seven days. All who are native-born in Israel must live in temporary shelters,
 
 ### Leviticus 23:43
-that your generations may know that I made the people of Israel to dwell in temporary shelters when I brought them out of the land of Egypt. I am the Lord your God.' "
+that your generations may know that I made the people of Israel to live in temporary shelters when I brought them out of the land of Egypt. I am the Lord your God.' "
 
 ### Leviticus 23:44
 So Moses declared to the people of Israel the appointed feasts of the Lord.

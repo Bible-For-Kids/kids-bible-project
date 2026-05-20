@@ -63,7 +63,7 @@ You must therefore keep my rules and my commands. If a man does them, he will li
 "You must not take a wife in addition to her sister, to be a rival, to have sexual relations with her, while her sister is still alive.
 
 ### Leviticus 18:19
-"You must not approach a woman to have sexual relations with her, as long as she is impure by her uncleanness.
+"You must not approach a woman to have sexual relations with her, as long as she is impure by her being unclean.
 
 ### Leviticus 18:20
 "You must not have sexual relations with your neighbor's wife, and make yourself unclean with her.

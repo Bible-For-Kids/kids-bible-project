@@ -2,6 +2,7 @@
 
 const fs = require('fs/promises')
 const path = require('path')
+const { polishKidReadableText } = require('./lib/kids-bible-style')
 
 const BOOK = 'Leviticus'
 const BOOK_SLUG = 'leviticus'
@@ -198,7 +199,7 @@ function adaptText(source, ageRange) {
       .replace(/\babomination\b/g, 'detestable thing')
   }
 
-  return polishText(text)
+  return polishKidReadableText(polishText(text), ageRange)
 }
 
 function normalizeSource(source) {

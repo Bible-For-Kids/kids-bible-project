@@ -21,7 +21,7 @@ from thirty years old and older even until fifty years old, all who enter into t
 "This is the service of the sons of Kohath in the Tent of Meeting, regarding the most holy things.
 
 ### Numbers 4:5
-When the camp moves forward, Aaron must go in with his sons; and they must take down the veil of the screen, cover the ark of the Testimony with it,
+When the camp moves forward, Aaron must go in with his sons; and they must take down the curtain of the screen, cover the ark of the Testimony with it,
 
 ### Numbers 4:6
 put a covering of sealskin on it, spread a blue cloth over it, and put in its poles.
@@ -30,31 +30,31 @@ put a covering of sealskin on it, spread a blue cloth over it, and put in its po
 "On the table of show bread they must spread a blue cloth, and put on it the dishes, the spoons, the bowls, and the cups with which to pour out; and the continual bread must be on it.
 
 ### Numbers 4:8
-They must spread on them a scarlet cloth, and cover it with a covering of sealskin, and must put in its poles.
+They must spread on them a red thread cloth, and cover it with a covering of sealskin, and must put in its poles.
 
 ### Numbers 4:9
-"They must take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil vessels, with which they minister to it.
+"They must take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil containers, with which they minister to it.
 
 ### Numbers 4:10
-They must put it and all its vessels within a covering of sealskin, and must put it on the frame.
+They must put it and all its containers within a covering of sealskin, and must put it on the frame.
 
 ### Numbers 4:11
 "On the golden altar they must spread a blue cloth, and cover it with a covering of sealskin, and must put in its poles.
 
 ### Numbers 4:12
-"They must take all the vessels of ministry with which they minister in the sanctuary, and put them in a blue cloth, cover them with a covering of sealskin, and must put them on the frame.
+"They must take all the service tools with which they minister in the holy place, and put them in a blue cloth, cover them with a covering of sealskin, and must put them on the frame.
 
 ### Numbers 4:13
 "They must take away the ashes from the altar, and spread a purple cloth on it.
 
 ### Numbers 4:14
-They must put on it all its vessels with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins-all the vessels of the altar; and they must spread on it a covering of sealskin, and put in its poles.
+They must put on it all its containers with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins-all the containers of the altar; and they must spread on it a covering of sealskin, and put in its poles.
 
 ### Numbers 4:15
-"When Aaron and his sons have finished covering the sanctuary and all the furniture of the sanctuary, as the camp moves forward; after that, the sons of Kohath will come to carry it; but they must not touch the sanctuary, or else they die. The sons of Kohath must carry these things belonging to the Tent of Meeting.
+"When Aaron and his sons have finished covering the holy place and all the furniture of the holy place, as the camp moves forward; after that, the sons of Kohath will come to carry it; but they must not touch the holy place, or else they die. The sons of Kohath must carry these things belonging to the Tent of Meeting.
 
 ### Numbers 4:16
-"The duty of Eleazar the son of Aaron the priest must be the oil for the light, the sweet incense, the continual grain offering, and the anointing oil, the requirements of all the tent, and of all that is in it, the sanctuary, and its furnishings."
+"The duty of Eleazar the son of Aaron the priest must be the oil for the light, the sweet-smelling incense, the continual grain offering, and the anointing oil, the requirements of all the tent, and of all that is in it, the holy place, and its furnishings."
 
 ### Numbers 4:17
 The Lord spoke to Moses and to Aaron, saying,
@@ -66,7 +66,7 @@ The Lord spoke to Moses and to Aaron, saying,
 but thus do to them, that they may live, and not die, when they approach the most holy things: Aaron and his sons must go in and appoint everyone to his service and to his burden;
 
 ### Numbers 4:20
-but they must not go in to see the sanctuary even for a moment, or else they die."
+but they must not go in to see the holy place even for a moment, or else they die."
 
 ### Numbers 4:21
 The Lord spoke to Moses, saying,

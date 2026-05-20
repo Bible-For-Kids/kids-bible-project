@@ -30,7 +30,7 @@ The priest must sprinkle the blood on the Lord's altar at the door of the Tent o
 They must no longer offer their sacrifices to the goat idols, by following them unfaithfully. This must be a lasting rule to them for all their generations.
 
 ### Leviticus 17:8
-"You must say to them, 'Any man there is of the house of Israel, or of the foreigners who live among them, who offers a burnt offering or sacrifice,
+"You must say to them, 'Any man there is of the house of Israel, or of the foreigners who live among them, who offers a burned offering or sacrifice,
 
 ### Leviticus 17:9
 and doesn't bring it to the door of the Tent of Meeting to sacrifice it to the Lord, that man must be removed from his people.

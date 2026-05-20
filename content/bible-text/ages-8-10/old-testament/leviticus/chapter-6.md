@@ -24,7 +24,7 @@ then it must be, if he has sinned, and is guilty, he must restore that which he 
 or any thing about which he has sworn falsely: he must restore it in full, and must add a fifth part more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 ### Leviticus 6:6
-He must bring his guilt offering to the Lord: a ram without any blemish from the flock, according to your estimation, for a guilt offering, to the priest.
+He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to your estimation, for a guilt offering, to the priest.
 
 ### Leviticus 6:7
 The priest must make atonement for him before the Lord, and he will be forgiven concerning whatever he does to become guilty."
@@ -33,16 +33,16 @@ The priest must make atonement for him before the Lord, and he will be forgiven 
 The Lord spoke to Moses, saying,
 
 ### Leviticus 6:9
-"Command Aaron and his sons, saying, 'This is the law of the burnt offering: the burnt offering must be on the hearth on the altar all night until the morning; and the fire of the altar must be kept burning on it.
+"Command Aaron and his sons, saying, 'This is the law of the burned offering: the burned offering must be on the hearth on the altar all night until the morning; and the fire of the altar must be kept burning on it.
 
 ### Leviticus 6:10
-The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burnt offering on the altar, and he must put them beside the altar.
+The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
 
 ### Leviticus 6:11
 He must take off his garments, and put on other garments, and carry the ashes outside the camp to a clean place.
 
 ### Leviticus 6:12
-The fire on the altar must be kept burning on it, it must not go out; and the priest must burn wood on it every morning. He must lay the burnt offering in order upon it, and must burn on it the fat of the peace offerings.
+The fire on the altar must be kept burning on it, it must not go out; and the priest must burn wood on it every morning. He must lay the burned offering in order upon it, and must burn on it the fat of the peace offerings.
 
 ### Leviticus 6:13
 Fire must be kept burning on the altar continually; it must not go out.
@@ -66,7 +66,7 @@ Every male among the children of Aaron must eat of it, as their portion forever 
 The Lord spoke to Moses, saying,
 
 ### Leviticus 6:20
-"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth of an ephah of fine flour for a grain offering continually, half of it in the morning, and half of it in the evening.
+"This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth-measure of fine flour for a grain offering continually, half of it in the morning, and half of it in the evening.
 
 ### Leviticus 6:21
 It must be made with oil in a griddle. When it is soaked, you must bring it in. You must offer the grain offering in baked pieces for a pleasant aroma to the Lord.
@@ -81,7 +81,7 @@ Every grain offering of a priest must be wholly burned. It must not be eaten."
 The Lord spoke to Moses, saying,
 
 ### Leviticus 6:25
-"Speak to Aaron and to his sons, saying, 'This is the law of the sin offering: in the place where the burnt offering is killed, the sin offering must be killed before the Lord. It is most holy.
+"Speak to Aaron and to his sons, saying, 'This is the law of the sin offering: in the place where the burned offering is killed, the sin offering must be killed before the Lord. It is most holy.
 
 ### Leviticus 6:26
 The priest who offers it for sin must eat it. It must be eaten in a holy place, in the court of the Tent of Meeting.
@@ -90,7 +90,7 @@ The priest who offers it for sin must eat it. It must be eaten in a holy place, 
 Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a garment, you must wash that on which it was sprinkled in a holy place.
 
 ### Leviticus 6:28
-But the earthen vessel in which it is boiled must be broken; and if it is boiled in a bronze vessel, it must be scoured, and rinsed in water.
+But the clay bowl in which it is boiled must be broken; and if it is boiled in a bronze container, it must be scoured, and rinsed in water.
 
 ### Leviticus 6:29
 Every male among the priests must eat of it. It is most holy.

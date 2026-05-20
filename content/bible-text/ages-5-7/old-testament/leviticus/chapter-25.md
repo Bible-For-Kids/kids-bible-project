@@ -60,10 +60,10 @@ According to the length of the years you must increase its price, and according 
 You must not wrong one another, but you must fear your God; for I am the Lord your God.
 
 ### Leviticus 25:18
-"Therefore you must do my rules, and keep my commands and do them; and you must dwell in the land in safety.
+"Therefore you must do my rules, and keep my commands and do them; and you must live in the land in safety.
 
 ### Leviticus 25:19
-The land will yield its fruit, and you must eat your fill, and dwell there in safety.
+The land will yield its fruit, and you must eat your fill, and live there in safety.
 
 ### Leviticus 25:20
 If you ask, "What will we eat in the seventh year? We will not sow or gather in our increase,"

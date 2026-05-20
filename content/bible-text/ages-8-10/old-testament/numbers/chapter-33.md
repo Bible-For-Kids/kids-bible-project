@@ -165,13 +165,13 @@ Speak to the people of Israel, and tell them, "When you pass over the Jordan int
 then you must drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
 
 ### Numbers 33:53
-You must take possession of the land, and dwell there; for I have given the land to you to possess it.
+You must take possession of the land, and live there; for I have given the land to you to possess it.
 
 ### Numbers 33:54
 You must inherit the land by lot according to your families; to the more you must give the more inheritance, and to the fewer you must give the less inheritance. Wherever the lot falls to any man, that must be his. You must inherit according to the tribes of your fathers.
 
 ### Numbers 33:55
-"But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you dwell.
+"But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
 
 ### Numbers 33:56
 It must happen that as I thought to do to them, so I will do to you."

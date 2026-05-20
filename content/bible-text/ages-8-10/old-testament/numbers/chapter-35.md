@@ -18,10 +18,10 @@ The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 They must have the cities to live in. Their pasture lands must be for their livestock, and for their possessions, and for all their animals.
 
 ### Numbers 35:4
-"The pasture lands of the cities, which you must give to the Levites, must be from the wall of the city and outward one thousand cubits around it.
+"The pasture lands of the cities, which you must give to the Levites, must be from the wall of the city and outward one thousand arm-lengths around it.
 
 ### Numbers 35:5
-You must measure outside of the city for the east side two thousand cubits, and for the south side two thousand cubits, and for the west side two thousand cubits, and for the north side two thousand cubits, the city being in the middle. This must be the pasture lands of their cities.
+You must measure outside of the city for the east side two thousand arm-lengths, and for the south side two thousand arm-lengths, and for the west side two thousand arm-lengths, and for the north side two thousand arm-lengths, the city being in the middle. This must be the pasture lands of their cities.
 
 ### Numbers 35:6
 "The cities which you must give to the Levites, they must be the six cities of refuge, which you must give for the person who killed someone to flee to. Besides them you must give forty-two cities.
@@ -75,13 +75,13 @@ or in hostility struck him with his hand, so that he died, whoever struck him mu
 "But if he shoved him suddenly without hostility, or hurled on him anything without lying in wait,
 
 ### Numbers 35:23
-or with any stone, by which a man may die, not seeing him, and cast it on him so that he died, and he was not his enemy and not seeking his harm,
+or with any stone, by which a man may die, without seeing him, threw it at him so that he died, and he was not his enemy and not seeking his harm,
 
 ### Numbers 35:24
 then the community must judge between the striker and the relative who avenges the death according to these commands.
 
 ### Numbers 35:25
-The community must deliver the person who killed someone out of the hand of the relative who avenges the death, and the community must restore him to his city of refuge, where he had fled. He must dwell there until the death of the high priest, who was anointed with the holy oil.
+The community must deliver the person who killed someone out of the hand of the relative who avenges the death, and the community must restore him to his city of refuge, where he had fled. He must live there until the death of the high priest, who was anointed with the holy oil.
 
 ### Numbers 35:26
 "But if the person who killed someone must at any time go beyond the border of his city of refuge where he flees,
@@ -108,4 +108,4 @@ because he should have remained in his city of refuge until the death of the hig
 "So you must not pollute the land where you live; for blood pollutes the land. No atonement can be made for the land, for the blood that is shed in it, but by the blood of the person who shed it.
 
 ### Numbers 35:34
-You must not make unclean the land which you inhabit, where I dwell; for I, the Lord, dwell among the people of Israel.' "
+You must not make unclean the land which you inhabit, where I live; for I, the Lord, live among the people of Israel.' "
