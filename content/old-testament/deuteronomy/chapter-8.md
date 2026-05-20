@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 8
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 8 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses tells Israel to remember the wilderness, where the Lord humbled them, fed them with manna, and taught them that people live by every word from the Lord.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 8:1 - You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers.
 
 #### Ages 5-7
-You will be careful to do all the commands which I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors.
+You will be careful to do all the commands that I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors.
 
 #### Ages 8-10
-You will be careful to do all the commands which I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors.
+You will be careful to do all the commands that I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -55,10 +55,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:3 - He humbled you, allowed you to be hungry, and fed you with manna, which you didn't know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of Yahweh's mouth.
 
 #### Ages 5-7
-He humbled you, allowed you to be hungry, and fed you with manna, which you didn't know, neither did your ancestors know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of the Lord's mouth.
+He humbled you and let you be hungry. Then he fed you with manna, food you and your ancestors had not known, to teach you that people do not live by bread only. People live by every word that comes from the mouth of the Lord.
 
 #### Ages 8-10
-He humbled you, allowed you to be hungry, and fed you with manna, which you didn't know, neither did your ancestors know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of the Lord's mouth.
+He humbled you and let you be hungry. Then he fed you with manna, that you and your ancestors had not known, to teach you that man does not live by bread alone, but by every word that comes from the mouth of the Lord.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -74,10 +74,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:4 - Your clothing didn't grow old on you, neither did your foot swell, these forty years.
 
 #### Ages 5-7
-Your clothing didn't grow old on you, neither did your foot swell, these forty years.
+Your clothes did not wear out on you, and your feet did not swell during those forty years.
 
 #### Ages 8-10
-Your clothing didn't grow old on you, neither did your foot swell, these forty years.
+Your clothes did not wear out on you, and your feet did not swell during those forty years.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -159,10 +159,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:9 - a land in which you shall eat bread without scarcity, you shall not lack anything in it; a land whose stones are iron, and out of whose hills you may dig copper.
 
 #### Ages 5-7
-a land in which you must eat bread without scarcity, you must not lack anything in it; a land whose stones are iron, and out of whose hills you may dig copper.
+It is a land where you will eat bread without running out, and you will lack nothing. Its stones have iron, and you can dig copper from its hills.
 
 #### Ages 8-10
-a land in which you must eat bread without scarcity, you must not lack anything in it; a land whose stones are iron, and out of whose hills you may dig copper.
+It is a land where you will eat bread without scarcity, and you will lack nothing. Its stones have iron, and you can dig copper from its hills.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -173,10 +173,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:10 - You shall eat and be full, and you shall bless Yahweh your God for the good land which he has given you.
 
 #### Ages 5-7
-You must eat and be full, and you must bless the Lord your God for the good land which he has given you.
+You must eat and be full, and you must bless the Lord your God for the good land that he has given you.
 
 #### Ages 8-10
-You must eat and be full, and you must bless the Lord your God for the good land which he has given you.
+You must eat and be full, and you must bless the Lord your God for the good land that he has given you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -192,10 +192,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:11 - Beware lest you forget Yahweh your God, in not keeping his commandments, his ordinances, and his statutes, which I command you today;
 
 #### Ages 5-7
-Beware or else you forget the Lord your God, in not keeping his commands, his commands, and his rules, which I command you today;
+Beware or else you forget the Lord your God, in not keeping his commands, his commands, and his rules, that I command you today;
 
 #### Ages 8-10
-Beware or else you forget the Lord your God, in not keeping his commands, his commands, and his rules, which I command you today;
+Beware or else you forget the Lord your God, in not keeping his commands, his commands, and his rules, that I command you today;
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -277,10 +277,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:16 - who fed you in the wilderness with manna, which your fathers didn't know, that he might humble you, and that he might prove you, to do you good at your latter end;
 
 #### Ages 5-7
-who fed you in the wilderness with manna, which your ancestors didn't know, that he might humble you, and that he might prove you, to do you good at your latter end;
+He fed you in the wilderness with manna your ancestors had not known. He humbled you and tested you, so he could do good for you in the end.
 
 #### Ages 8-10
-who fed you in the wilderness with manna, which your ancestors didn't know, that he might humble you, and that he might prove you, to do you good at your latter end;
+He fed you in the wilderness with manna your ancestors had not known. He humbled you and tested you, so he could do good for you in the end.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -295,10 +295,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:17 - and lest you say in your heart, "My power and the might of my hand has gotten me this wealth."
 
 #### Ages 5-7
-or else you say in your heart, "My power and the might of my hand has gotten me this wealth."
+Do not say in your heart, "My own power and my own strong hand made me rich."
 
 #### Ages 8-10
-or else you say in your heart, "My power and the might of my hand has gotten me this wealth."
+Do not say in your heart, "My power and the strength of my hand made me this wealth."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -309,10 +309,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:18 - But you shall remember Yahweh your God, for it is he who gives you power to get wealth, that he may establish his covenant which he swore to your fathers, as it is today.
 
 #### Ages 5-7
-But you must remember the Lord your God, for it is whoever gives you power to get wealth, that he may establish his covenant which he swore to your ancestors, as it is today.
+Remember the Lord your God, because he gives you power to gain wealth. He does this to keep the covenant promise he swore to your ancestors, as it is today.
 
 #### Ages 8-10
-But you must remember the Lord your God, for it is whoever gives you power to get wealth, that he may establish his covenant which he swore to your ancestors, as it is today.
+Remember the Lord your God, because he gives you power to gain wealth, so that he may keep the covenant he swore to your ancestors, as it is today.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -329,10 +329,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 8:19 - It shall be, if you shall forget Yahweh your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish.
 
 #### Ages 5-7
-It will be, if you must forget the Lord your God, and walk after other gods, and serve them and worship them, I testify against you today that you must surely perish.
+If you forget the Lord your God, and walk after other gods, and serve them and worship them, I testify against you today that you will surely perish.
 
 #### Ages 8-10
-It will be, if you must forget the Lord your God, and walk after other gods, and serve them and worship them, I testify against you today that you must surely perish.
+If you forget the Lord your God, and walk after other gods, and serve them and worship them, I testify against you today that you will surely perish.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -364,19 +364,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 8 is a draft resource chapter. The chapter opens with "You will be careful to do all the commands which I command you today, that you may live, and mult...," moves through "Beware or else you forget the Lord your God, in not keeping his commands, his commands, and his r...," and closes with "As the nations that the Lord makes to perish before you, so you must perish, because you wouldn't...." Review this summary for fuller theological detail before approval.
+Moses tells Israel to remember the wilderness, where the Lord humbled them, fed them with manna, and taught them that people live by every word from the Lord. He warns them not to forget God when they eat, build, prosper, and enjoy the good land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God teaches dependence**: Manna taught Israel that life comes from the Lord, not from bread alone.
+2. **Blessings must lead to thanks**: When Israel has homes, food, and herds, they must remember the Lord who gave them power.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-You will be careful to do all the commands which I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors. - Deuteronomy 8:1
+You will be careful to do all the commands that I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors. - Deuteronomy 8:1
 
 ### Ages 8-10
-You will be careful to do all the commands which I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors. - Deuteronomy 8:1
+You will be careful to do all the commands that I command you today, that you may live, and multiply, and go in and take the land that the Lord swore to your ancestors. - Deuteronomy 8:1
 
 ## Discussion Questions by Age
 
@@ -390,7 +390,3 @@ You will be careful to do all the commands which I command you today, that you m
 
 ## Prayer
 Lord, help us understand Deuteronomy 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

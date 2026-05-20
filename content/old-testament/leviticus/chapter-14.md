@@ -1,7 +1,7 @@
 # Leviticus Chapter 14
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 14 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives the ceremony for restoring a person healed from serious skin disease and the rules for mildew in a house.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -989,11 +989,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 14 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "The rest of the oil that is in the priest's hand he must put on the head of the person who is bei...," and closes with "to teach when it is unclean, and when it is clean. This is the law of serious disease.." Review this summary for fuller theological detail before approval.
+The Lord gives the ceremony for restoring a person healed from serious skin disease and the rules for mildew in a house. The priest examines, cleanses, and makes atonement so the person or house may be declared clean.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Restoration is a gift**: A person once outside the camp may be brought back when the Lord provides cleansing.
+2. **God cares about homes and worship**: Even a house is examined so uncleanness does not spread among the people.
 
 ## Memory Verses by Age
 
@@ -1015,7 +1015,3 @@ The priest must tell them to kill one of the birds in a clay bowl held over fres
 
 ## Prayer
 Lord, help us understand Leviticus 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

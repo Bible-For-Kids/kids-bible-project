@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 9
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 9 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses warns Israel not to think they receive the land because of their own righteousness.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -19,7 +19,7 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 Hear, Israel! You are to pass over the Jordan today, to go in to drive out nations greater and mightier than yourself, cities great and fortified up to the sky,
 
 #### Ages 8-10
-Hear, Israel! You are to pass over the Jordan today, to go in to dispossess nations greater and mightier than yourself, cities great and fortified up to the sky,
+Hear, Israel! You are to pass over the Jordan today, to go in to drive out nations greater and mightier than yourself, cities great and fortified up to the sky,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -47,10 +47,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:3 - Know therefore today that Yahweh your God is he who goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you shall drive them out and make them perish quickly, as Yahweh has spoken to you.
 
 #### Ages 5-7
-Know therefore today that the Lord your God is whoever goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you must drive them out and make them perish quickly, as the Lord has spoken to you.
+Know therefore today that the Lord your God is the one who goes ahead of you like a burning fire. He will destroy them and he will bring them down before you. So you must drive them out and make them perish quickly, as the Lord has spoken to you.
 
 #### Ages 8-10
-Know therefore today that the Lord your God is whoever goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you must drive them out and make them perish quickly, as the Lord has spoken to you.
+Know therefore today that the Lord your God is the one who goes ahead of you like a burning fire. He will destroy them and he will bring them down before you. So you must drive them out and make them perish quickly, as the Lord has spoken to you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -105,10 +105,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:6 - Know therefore that Yahweh your God doesn't give you this good land to possess for your righteousness, for you are a stiff-necked people.
 
 #### Ages 5-7
-Know therefore that the Lord your God doesn't give you this good land to possess for your righteousness, for you are a stubborn people.
+So understand this: the Lord your God is not giving you this good land because you are righteous. You are a stubborn people.
 
 #### Ages 8-10
-Know therefore that the Lord your God doesn't give you this good land to possess for your righteousness, for you are a stubborn people.
+Understand that the Lord your God is not giving you this good land because of your righteousness, for you are a stubborn people.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -220,10 +220,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:12 - Yahweh said to me, "Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way which I commanded them. They have made a molten image for themselves!"
 
 #### Ages 5-7
-The Lord said to me, "Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way which I commanded them. They have made an idol made from melted metal for themselves!"
+The Lord said to me, "Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way that I commanded them. They have made a metal idol for themselves!"
 
 #### Ages 8-10
-The Lord said to me, "Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way which I commanded them. They have made an idol made from melted metal for themselves!"
+The Lord said to me, "Arise, get down quickly from here; for your people whom you have brought out of Egypt have corrupted themselves. They have quickly turned away from the way that I commanded them. They have made a metal idol for themselves!"
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -307,10 +307,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:17 - I took hold of the two tablets, and threw them out of my two hands, and broke them before your eyes.
 
 #### Ages 5-7
-I took hold of the two tablets, and threw them out of my two hands, and broke them before your eyes.
+So I took hold of the two tablets and threw them from my two hands. I broke them before your eyes.
 
 #### Ages 8-10
-I took hold of the two tablets, and threw them out of my two hands, and broke them before your eyes.
+So I took hold of the two tablets and threw them from my two hands. I broke them before your eyes.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -321,10 +321,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:18 - I fell down before Yahweh, as at the first, forty days and forty nights. I neither ate bread nor drank water, because of all your sin which you sinned, in doing that which was evil in Yahweh's sight, to provoke him to anger.
 
 #### Ages 5-7
-I fell down before the Lord, as at the first, forty days and forty nights. I neither ate bread nor drank water, because of all your sin which you sinned, in doing that which was evil in the Lord's sight, to provoke him to anger.
+Then I fell down before the Lord as I had done at first, forty days and forty nights. I did not eat bread or drink water, because of all the sin you had done by doing evil in the Lord's sight and making him angry.
 
 #### Ages 8-10
-I fell down before the Lord, as at the first, forty days and forty nights. I neither ate bread nor drank water, because of all your sin which you sinned, in doing that which was evil in the Lord's sight, to provoke him to anger.
+Then I fell down before the Lord as I had done at first, forty days and forty nights. I did not eat bread or drink water, because of all the sin you had done by doing evil in the Lord's sight and making him angry.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -341,10 +341,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:19 - For I was afraid of the anger and hot displeasure with which Yahweh was angry against you to destroy you. But Yahweh listened to me that time also.
 
 #### Ages 5-7
-For I was afraid of the anger and hot displeasure with that the Lord was angry against you to destroy you. But the Lord listened to me that time also.
+I was afraid because the Lord was angry enough with you to destroy you. But the Lord listened to me that time also.
 
 #### Ages 8-10
-For I was afraid of the anger and hot displeasure with that the Lord was angry against you to destroy you. But the Lord listened to me that time also.
+I was afraid because the Lord was angry enough with you to destroy you. But the Lord listened to me that time also.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -378,10 +378,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:21 - I took your sin, the calf which you had made, and burned it with fire, and crushed it, grinding it very small, until it was as fine as dust. I threw its dust into the brook that descended out of the mountain.
 
 #### Ages 5-7
-I took your sin, the calf which you had made, and burned it with fire, and crushed it, grinding it very small, until it was as fine as dust. I threw its dust into the brook that descended out of the mountain.
+I took your sin, the calf that you had made, and burned it with fire, and crushed it, grinding it very small, until it was as fine as dust. I threw its dust into the brook that descended out of the mountain.
 
 #### Ages 8-10
-I took your sin, the calf which you had made, and burned it with fire, and crushed it, grinding it very small, until it was as fine as dust. I threw its dust into the brook that descended out of the mountain.
+I took your sin, the calf that you had made, and burned it with fire, and crushed it, grinding it very small, until it was as fine as dust. I threw its dust into the brook that descended out of the mountain.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -469,7 +469,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:26 - I prayed to Yahweh, and said, "Lord Yahweh, don't destroy your people and your inheritance that you have redeemed through your greatness, that you have brought out of Egypt with a mighty hand.
 
 #### Ages 5-7
-I prayed to the Lord, and said, "Lord God, don't destroy your people and your inheritance that you have redeemed through your greatness, that you have brought out of Egypt with a mighty hand.
+I prayed to the Lord, and said, "Lord God, don't destroy your people and your inheritance that you have bought back through your greatness, that you have brought out of Egypt with a mighty hand.
 
 #### Ages 8-10
 I prayed to the Lord, and said, "Lord God, don't destroy your people and your inheritance that you have redeemed through your greatness, that you have brought out of Egypt with a mighty hand.
@@ -507,10 +507,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:28 - lest the land you brought us out from say, 'Because Yahweh was not able to bring them into the land which he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.'
 
 #### Ages 5-7
-or else the land you brought us out from say, 'Because the Lord was not able to bring them into the land that he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.
+Otherwise the land you brought us out from may say, "The Lord was not able to bring them into the land he promised them, and because he hated them, he brought them out to kill them in the wilderness."
 
 #### Ages 8-10
-or else the land you brought us out from say, 'Because the Lord was not able to bring them into the land that he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.
+Otherwise the land you brought us out from may say, "The Lord was not able to bring them into the land he promised them, and because he hated them, he brought them out to kill them in the wilderness."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -526,10 +526,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 9:29 - Yet they are your people and your inheritance, which you brought out by your great power and by your outstretched arm."
 
 #### Ages 5-7
-Yet they are your people and your inheritance, which you brought out by your great power and by your outstretched arm."
+Yet they are your people and your inheritance, that you brought out by your great power and by your outstretched arm."
 
 #### Ages 8-10
-Yet they are your people and your inheritance, which you brought out by your great power and by your outstretched arm."
+Yet they are your people and your inheritance, that you brought out by your great power and by your outstretched arm."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -537,11 +537,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 9 is a draft resource chapter. The chapter opens with "Hear, Israel! You are to pass over the Jordan today, to go in to dispossess nations greater and m...," moves through "So I turned and came down from the mountain, and the mountain was burning with fire. The two tabl...," and closes with "Yet they are your people and your inheritance, which you brought out by your great power and by y...." Review this summary for fuller theological detail before approval.
+Moses warns Israel not to think they receive the land because of their own righteousness. He reminds them of the golden calf, their many rebellions, and his intercession when he pleaded with the Lord for the people he had redeemed.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's gift is not earned by pride**: Israel must not pretend they deserve the land by their own goodness.
+2. **Intercession matters**: Moses pleads for the people by remembering the Lord's promise and rescue.
 
 ## Memory Verses by Age
 
@@ -563,7 +563,3 @@ a people great and tall, the sons of the Anakim, whom you know, and of whom you 
 
 ## Prayer
 Lord, help us understand Deuteronomy 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

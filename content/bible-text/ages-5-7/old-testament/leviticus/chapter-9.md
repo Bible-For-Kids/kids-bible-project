@@ -78,4 +78,4 @@ Aaron lifted up his hands toward the people, and blessed them; and he came down 
 Moses and Aaron went into the Tent of Meeting, and came out, and blessed the people; and the Lord's glory appeared to all the people.
 
 ### Leviticus 9:24
-Fire came out from before the Lord, and consumed the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
+Fire came out from before the Lord, and burned up the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.

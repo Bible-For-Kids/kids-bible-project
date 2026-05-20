@@ -42,7 +42,7 @@ Moses and Aaron gathered the whole group together before the rock, and he said t
 Moses lifted up his hand, and struck the rock with his rod twice, and water came out abundantly. The whole group and their animals drank.
 
 ### Numbers 20:12
-The Lord said to Moses and Aaron, "Because you didn't believe in me, to make holy me in the eyes of the people of Israel, therefore you must not bring this whole group into the land which I have given them."
+The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this whole group into the land I have given them."
 
 ### Numbers 20:13
 These are the waters of Meribah; because the people of Israel strove with the Lord, and he was made holy in them.

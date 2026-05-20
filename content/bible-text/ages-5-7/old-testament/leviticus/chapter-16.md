@@ -99,7 +99,7 @@ Whoever burns them must wash his clothes, and bathe his body in water, and after
 for on this day must atonement be made for you, to cleanse you. You will be clean for worship from all your sins before the Lord.
 
 ### Leviticus 16:31
-It is a Sabbath of solemn rest to you, and you must humble yourselves. It is a lasting rule.
+It is a Sabbath of quiet holy rest to you, and you must humble yourselves. It is a lasting rule.
 
 ### Leviticus 16:32
 The priest, who is anointed and who is set apart to be priest in his father's place, must make the atonement, and must put on the linen clothes, even the holy clothes.

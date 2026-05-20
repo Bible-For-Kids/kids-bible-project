@@ -35,10 +35,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:2 - "Send men, that they may spy out the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers, you shall send a man, every one a prince among them."
 
 #### Ages 5-7
-"Send men, that they may spy out the land of Canaan, which I give to the people of Israel. Of every tribe of their fathers, you must send a man, every one a leader among them."
+"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."
 
 #### Ages 8-10
-"Send men, that they may spy out the land of Canaan, which I give to the people of Israel. Of every tribe of their fathers, you must send a man, every one a prince among them."
+"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -365,10 +365,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:24 - That place was called the valley of Eshcol, because of the cluster which the children of Israel cut down from there.
 
 #### Ages 5-7
-That place was called the valley of Eshcol, because of the cluster which the people of Israel cut down from there.
+That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.
 
 #### Ages 8-10
-That place was called the valley of Eshcol, because of the cluster which the people of Israel cut down from there.
+That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -489,10 +489,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 13:32 - They brought up an evil report of the land which they had spied out to the children of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people who we saw in it are men of great stature.
 
 #### Ages 5-7
-They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
+They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.
 
 #### Ages 8-10
-They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
+They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -527,10 +527,10 @@ Moses sends twelve men to spy out Canaan, and they return with fruit from the la
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Send men, that they may spy out the land of Canaan, which I give to the people of Israel. Of every tribe of their fathers, you must send a man, every one a leader among them." - Numbers 13:2
+"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers." - Numbers 13:2
 
 ### Ages 8-10
-"Send men, that they may spy out the land of Canaan, which I give to the people of Israel. Of every tribe of their fathers, you must send a man, every one a prince among them." - Numbers 13:2
+"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers." - Numbers 13:2
 
 ## Discussion Questions by Age
 

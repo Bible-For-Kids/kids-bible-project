@@ -1,7 +1,7 @@
 # Leviticus Chapter 19
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 19 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord calls all Israel to be holy because he is holy.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -35,7 +35,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:2 - "Speak to all the congregation of the children of Israel, and tell them, 'You shall be holy; for I, Yahweh your God, am holy.
 
 #### Ages 5-7
-"Speak to all the people of the people of Israel, and tell them, 'You will be holy; for I, the Lord your God, am holy.
+"Speak to all the people of Israel, and tell them, 'You will be holy; for I, the Lord your God, am holy.
 
 #### Ages 8-10
 "Speak to all the community of the people of Israel, and tell them, 'You will be holy; for I, the Lord your God, am holy.
@@ -127,10 +127,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:7 - If it is eaten at all on the third day, it is an abomination. It will not be accepted;
 
 #### Ages 5-7
-If it is eaten at all on the third day, it is a detestable thing. It will not be accepted;
+If it is eaten at all on the third day, it is a hateful thing. It will not be accepted;
 
 #### Ages 8-10
-If it is eaten at all on the third day, it is a detestable thing. It will not be accepted;
+If it is eaten at all on the third day, it is a hateful thing. It will not be accepted;
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -344,10 +344,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 19:20 - " 'If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they shall be punished. They shall not be put to death, because she was not free.
 
 #### Ages 5-7
-"If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they must be punished. They must not be put to death, because she was not free.
+"If a man acts in the way only a husband and wife should with a slave girl who has been promised to another man, but she has not been bought back or set free, there must be punishment. They must not be put to death, because she was not free.
 
 #### Ages 8-10
-"If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they must be punished. They must not be put to death, because she was not free.
+"If a man has relations with a slave woman who has been promised to another man, but she has not been bought back or given freedom, there must be punishment. They must not be put to death, because she was not free.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -657,11 +657,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 19 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not s...," and closes with "You must observe all my rules and all my commands, and do them. I am the Lord.' ." Review this summary for fuller theological detail before approval.
+The Lord calls all Israel to be holy because he is holy. The chapter teaches worship, honesty, care for the poor and the foreigner, love for neighbor, just business, respect for parents and the elderly, and separation from false practices.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Holiness touches everyday life**: God's commands reach homes, fields, courts, shops, and friendships.
+2. **Love your neighbor**: The Lord commands Israel not only to avoid harm but to seek what is right for others.
 
 ## Memory Verses by Age
 
@@ -683,7 +683,3 @@ It must be eaten the same day you offer it, and on the next day. If anything rem
 
 ## Prayer
 Lord, help us understand Leviticus 19 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

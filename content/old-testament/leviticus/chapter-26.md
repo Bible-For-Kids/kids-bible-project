@@ -1,7 +1,7 @@
 # Leviticus Chapter 26
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 26 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord sets before Israel blessings for covenant obedience and warnings for covenant disobedience.
 
 ## Important Keywords
 - covenant: A serious promise relationship God makes
@@ -723,11 +723,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 26 is a draft resource chapter. The chapter opens with "You must make for yourselves no idols, and you must not raise up a carved image or a pillar, and...," moves through "then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.," and closes with "These are the rules, commands, and laws, which the Lord made between him and the people of Israel...." Review this summary for fuller theological detail before approval.
+The Lord sets before Israel blessings for covenant obedience and warnings for covenant disobedience. If they rebel, judgment will come; yet if they confess their sin, the Lord will remember his covenant with Abraham, Isaac, and Jacob.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his covenant seriously**: Obedience and rebellion both matter before the Lord.
+2. **God remembers mercy**: Even after judgment, the Lord promises to remember his covenant.
 
 ## Memory Verses by Age
 
@@ -749,7 +749,3 @@ then I will give you your rains in their season, and the land will yield its inc
 
 ## Prayer
 Lord, help us understand Leviticus 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

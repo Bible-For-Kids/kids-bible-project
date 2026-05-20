@@ -1,7 +1,7 @@
 # Leviticus Chapter 11
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 11 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives Israel food laws about animals, fish, birds, insects, and crawling things.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -151,10 +151,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:10 - All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are an abomination to you,
 
 #### Ages 5-7
-All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are a detestable thing to you,
+All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are things the Lord said you must not eat,
 
 #### Ages 8-10
-All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are a detestable thing to you,
+All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are things the Lord said you must not eat,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -179,10 +179,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:12 - Whatever has no fins nor scales in the waters is an abomination to you.
 
 #### Ages 5-7
-Whatever has no fins nor scales in the waters is a detestable thing to you.
+Whatever has no fins nor scales in the waters is something the Lord said you must not eat.
 
 #### Ages 8-10
-Whatever has no fins nor scales in the waters is a detestable thing to you.
+Whatever has no fins nor scales in the waters is something the Lord said you must not eat.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -193,10 +193,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:13 - " 'You shall detest these among the birds; they shall not be eaten because they are an abomination: the eagle, the vulture, the black vulture,
 
 #### Ages 5-7
-"You must detest these among the birds; they must not be eaten because they are a detestable thing: the eagle, the vulture, the black vulture,
+"These are the birds the Lord said you must not eat; they must not be eaten because they are a hateful thing: the eagle, the vulture, the black vulture,
 
 #### Ages 8-10
-"You must detest these among the birds; they must not be eaten because they are a detestable thing: the eagle, the vulture, the black vulture,
+"You must detest these among the birds; they must not be eaten because they are a hateful thing: the eagle, the vulture, the black vulture,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -294,10 +294,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:20 - " 'All flying insects that walk on all fours are an abomination to you.
 
 #### Ages 5-7
-"All flying insects that walk on all fours are a detestable thing to you.
+"All flying insects that walk on all fours are things the Lord said you must not eat.
 
 #### Ages 8-10
-"All flying insects that walk on all fours are a detestable thing to you.
+"All flying insects that walk on all fours are things the Lord said you must not eat.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -336,10 +336,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:23 - But all winged creeping things which have four feet are an abomination to you.
 
 #### Ages 5-7
-But all winged crawling things that have four feet are a detestable thing to you.
+But all winged crawling things that have four feet are things the Lord said you must not eat.
 
 #### Ages 8-10
-But all winged crawling things that have four feet are a detestable thing to you.
+But all winged crawling things that have four feet are things the Lord said you must not eat.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -588,10 +588,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:41 - " 'Every creeping thing that creeps on the earth is an abomination. It shall not be eaten.
 
 #### Ages 5-7
-"Every small crawling thing that crawls on the earth is a detestable thing. It must not be eaten.
+"Every small crawling thing that crawls on the earth is a hateful thing. It must not be eaten.
 
 #### Ages 8-10
-"Every small crawling thing that crawls on the earth is a detestable thing. It must not be eaten.
+"Every small crawling thing that crawls on the earth is a hateful thing. It must not be eaten.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -602,10 +602,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 11:42 - Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth, them you shall not eat; for they are an abomination.
 
 #### Ages 5-7
-Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a detestable thing.
+Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a hateful thing.
 
 #### Ages 8-10
-Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a detestable thing.
+Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a hateful thing.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -699,11 +699,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 11 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and to Aaron, saying to them,," moves through "By these you will become unclean: whoever touches their dead body will be unclean until the evening.," and closes with "to make a distinction between the unclean and the clean, and between the living thing that may be...." Review this summary for fuller theological detail before approval.
+The Lord gives Israel food laws about animals, fish, birds, insects, and crawling things. These laws teach Israel to distinguish clean from unclean and to remember, "Be holy, for I am holy."
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God teaches his people holiness**: Even daily food reminded Israel that they belonged to the holy Lord.
+2. **God makes distinctions**: Israel must learn what the Lord calls clean and not clean for worship.
 
 ## Memory Verses by Age
 
@@ -725,7 +725,3 @@ Any animal that has a split hoof, with the hoof divided in two, and chews the cu
 
 ## Prayer
 Lord, help us understand Leviticus 11 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

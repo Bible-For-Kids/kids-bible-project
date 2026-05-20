@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 15
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 15 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses teaches Israel about the seventh-year release of debts, open-handed mercy to the poor, generous treatment of Hebrew servants, and firstborn animals given to the Lord.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -30,10 +30,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:2 - This is the way it shall be done: every creditor shall release that which he has lent to his neighbor. He shall not require payment from his neighbor and his brother, because Yahweh's release has been proclaimed.
 
 #### Ages 5-7
-This is the way it will be done: every creditor must release that which he has lent to his neighbor. He must not require payment from his neighbor and his brother, because the Lord's release has been proclaimed.
+This is how the release will work: every lender must release what he lent to his neighbor. He must not demand payment from his neighbor or brother, because the Lord's release has been announced.
 
 #### Ages 8-10
-This is the way it will be done: every creditor must release that which he has lent to his neighbor. He must not require payment from his neighbor and his brother, because the Lord's release has been proclaimed.
+This is how the release will work: every lender must release what he lent to his neighbor. He must not demand payment from his neighbor or brother, because the Lord's release has been announced.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -62,10 +62,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:4 - However there will be no poor with you (for Yahweh will surely bless you in the land which Yahweh your God gives you for an inheritance to possess)
 
 #### Ages 5-7
-However there will be no poor with you (for the Lord will surely bless you in the land that the Lord your God gives you for an inheritance to possess)
+However there will be no poor with you (for the Lord will surely bless you in the land that the Lord your God gives you as an inheritance to take)
 
 #### Ages 8-10
-However there will be no poor with you (for the Lord will surely bless you in the land that the Lord your God gives you for an inheritance to possess)
+However there will be no poor with you (for the Lord will surely bless you in the land that the Lord your God gives you as an inheritance to take)
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -81,10 +81,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:5 - if only you diligently listen to Yahweh your God's voice, to observe to do all this commandment which I command you today.
 
 #### Ages 5-7
-if only you diligently listen to the Lord your God's voice, to be careful to do all this command which I command you today.
+if only you diligently listen to the Lord your God's voice, to be careful to do all this command that I command you today.
 
 #### Ages 8-10
-if only you diligently listen to the Lord your God's voice, to be careful to do all this command which I command you today.
+if only you diligently listen to the Lord your God's voice, to be careful to do all this command that I command you today.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -120,10 +120,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:7 - If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother;
 
 #### Ages 5-7
-If a poor man, one of your brothers, is with you in any of your towns in your land that the Lord your God gives you, you must not harden your heart, nor shut your hand from your poor brother;
+If there is a poor person among you, one of your brothers in any of your towns in the land the Lord your God gives you, do not harden your heart or close your hand against your poor brother.
 
 #### Ages 8-10
-If a poor man, one of your brothers, is with you in any of your towns in your land that the Lord your God gives you, you must not harden your heart, nor shut your hand from your poor brother;
+If there is a poor person among you, one of your brothers in any of your towns in the land the Lord your God gives you, do not harden your heart or close your hand against your poor brother.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -139,10 +139,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:8 - but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks.
 
 #### Ages 5-7
-but you must surely open your hand to him, and must surely lend him sufficient for his need, which he lacks.
+Open your hand wide to him. Lend him enough for what he needs.
 
 #### Ages 8-10
-but you must surely open your hand to him, and must surely lend him sufficient for his need, which he lacks.
+Open your hand wide to him. Lend him enough for what he needs.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -173,10 +173,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:10 - You shall surely give, and your heart shall not be grieved when you give to him, because it is for this thing Yahweh your God will bless you in all your work and in all that you put your hand to.
 
 #### Ages 5-7
-You must surely give, and your heart must not be grieved when you give to him, because it is for this thing the Lord your God will bless you in all your work and in all that you put your hand to.
+Give to him generously, and do not let your heart be sad when you give. Because of this, the Lord your God will bless you in all your work and everything you do.
 
 #### Ages 8-10
-You must surely give, and your heart must not be grieved when you give to him, because it is for this thing the Lord your God will bless you in all your work and in all that you put your hand to.
+Give to him generously, and do not let your heart be sad when you give. Because of this, the Lord your God will bless you in all your work and everything you do.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -237,10 +237,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:14 - You shall furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As Yahweh your God has blessed you, you shall give to him.
 
 #### Ages 5-7
-You must furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As the Lord your God has blessed you, you must give to him.
+You must furnish him liberally out of your flock, out of your place where grain is separated, and out of your place where grapes are pressed. As the Lord your God has blessed you, you must give to him.
 
 #### Ages 8-10
-You must furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As the Lord your God has blessed you, you must give to him.
+You must furnish him liberally out of your flock, out of your place where grain is separated, and out of your place where grapes are pressed. As the Lord your God has blessed you, you must give to him.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -257,10 +257,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:15 - You shall remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you. Therefore I command you this thing today.
 
 #### Ages 5-7
-You must remember that you were a slave in the land of Egypt, and the Lord your God redeemed you. Therefore I command you this thing today.
+You must remember that you were a slave in the land of Egypt, and the Lord your God bought back you. Therefore I command you this today.
 
 #### Ages 8-10
-You must remember that you were a slave in the land of Egypt, and the Lord your God redeemed you. Therefore I command you this thing today.
+You must remember that you were a slave in the land of Egypt, and the Lord your God redeemed you. Therefore I command you this today.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -278,10 +278,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:16 - It shall be, if he tells you, "I will not go out from you," because he loves you and your house, because he is well with you,
 
 #### Ages 5-7
-It will be, if he tells you, "I will not go out from you," because he loves you and your house, because he is well with you,
+If he tells you, "I will not go out from you," because he loves you and your house, because he is well with you,
 
 #### Ages 8-10
-It will be, if he tells you, "I will not go out from you," because he loves you and your house, because he is well with you,
+If he tells you, "I will not go out from you," because he loves you and your house, because he is well with you,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -344,10 +344,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:20 - You shall eat it before Yahweh your God year by year in the place which Yahweh shall choose, you and your household.
 
 #### Ages 5-7
-You must eat it before the Lord your God year by year in the place that the Lord must choose, you and your household.
+You must eat it before the Lord your God year by year in the place that the Lord will choose, you and your household.
 
 #### Ages 8-10
-You must eat it before the Lord your God year by year in the place that the Lord must choose, you and your household.
+You must eat it before the Lord your God year by year in the place that the Lord will choose, you and your household.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -363,10 +363,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:21 - If it has any defect—is lame or blind, or has any defect whatever, you shall not sacrifice it to Yahweh your God.
 
 #### Ages 5-7
-If it has any defect-is lame or blind, or has any defect whatever, you must not sacrifice it to the Lord your God.
+If it is lame, blind, or has anything wrong with it, you must not sacrifice it to the Lord your God.
 
 #### Ages 8-10
-If it has any defect-is lame or blind, or has any defect whatever, you must not sacrifice it to the Lord your God.
+If it is lame, blind, or has anything wrong with it, you must not sacrifice it to the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -383,10 +383,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 15:22 - You shall eat it within your gates. The unclean and the clean shall eat it alike, as the gazelle and as the deer.
 
 #### Ages 5-7
-You must eat it in your towns. The unclean and the clean must eat it alike, as the gazelle and as the deer.
+You must eat it in your towns. The people not clean for worship and people who are clean may eat it alike, as the gazelle and as the deer.
 
 #### Ages 8-10
-You must eat it in your towns. The unclean and the clean must eat it alike, as the gazelle and as the deer.
+You must eat it in your towns. People not clean for worship and clean people may eat it alike, as the gazelle and as the deer.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -408,11 +408,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 15 is a draft resource chapter. The chapter opens with "At the end of every seven years, you must cancel debts.," moves through "If your brother, a Hebrew man, or a Hebrew woman, is sold to you and serves you six years, then i...," and closes with "Only you must not eat its blood. You must pour it out on the ground like water.." Review this summary for fuller theological detail before approval.
+Moses teaches Israel about the seventh-year release of debts, open-handed mercy to the poor, generous treatment of Hebrew servants, and firstborn animals given to the Lord. The people are to remember they were once slaves in Egypt and the Lord redeemed them.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Mercy should be open-handed**: The Lord commands Israel not to close their heart to a poor brother.
+2. **Rescued people show generosity**: Israel must remember their own slavery when releasing servants.
 
 ## Memory Verses by Age
 
@@ -434,7 +434,3 @@ At the end of every seven years, you must cancel debts. - Deuteronomy 15:1
 
 ## Prayer
 Lord, help us understand Deuteronomy 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -27,13 +27,13 @@ Then Moses and Aaron fell on their faces before all the people of Israel.
 Joshua the son of Nun and Caleb the son of Jephunneh, who were of those who spied out the land, tore their clothes.
 
 ### Numbers 14:7
-They spoke to all the people of Israel, saying, "The land, which we passed through to spy it out, is an exceedingly good land.
+They spoke to all the people of Israel and said, "The land we passed through to spy out is a very, very good land.
 
 ### Numbers 14:8
-If the Lord delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey.
+If the Lord is pleased with us, he will bring us into that land and give it to us. It is a land flowing with milk and honey.
 
 ### Numbers 14:9
-Only don't rebel against the Lord, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and the Lord is with us. Don't fear them."
+Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."
 
 ### Numbers 14:10
 But all the people threatened to stone them with stones. The Lord's glory appeared in the Tent of Meeting to all the people of Israel.
@@ -48,7 +48,7 @@ I will strike them with the terrible sickness, and disinherit them, and will mak
 Moses said to the Lord, "Then the Egyptians will hear it; for you brought up this people in your might from among them.
 
 ### Numbers 14:14
-They will tell it to the inhabitants of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
+They will tell it to the people who live there of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
 
 ### Numbers 14:15
 Now if you killed this people as one man, then the nations which have heard the fame of you will speak, saying,
@@ -57,7 +57,7 @@ Now if you killed this people as one man, then the nations which have heard the 
 Because the Lord was not able to bring this people into the land which he swore to them, therefore he has killed them in the wilderness.
 
 ### Numbers 14:17
-Now please let the power of the Lord be great, according as you have spoken, saying,
+Now please let the power of the Lord be great, as you have spoken, saying,
 
 ### Numbers 14:18
 The Lord is slow to anger, and abundant in loving kindness, forgiving sin and disobedience; and he will by no means clear the guilty, visiting the sin of the fathers on the children, on the third and on the fourth generation.
@@ -87,7 +87,7 @@ Since the Amalekite and the Canaanite live in the valley, tomorrow turn and go i
 The Lord spoke to Moses and to Aaron, saying,
 
 ### Numbers 14:27
-"How long will I bear with this evil whole group that complains against me? I have heard the complaints of the people of Israel, which they complain against me.
+"How long will I bear with this rebellious group that complains against me? I have heard the complaints of the people of Israel, which they complain against me.
 
 ### Numbers 14:28
 Tell them, 'As I live, says the Lord, surely as you have spoken in my ears, so I will do to you.
@@ -105,19 +105,19 @@ But I will bring your little ones, whom you said would be captured, into it, and
 But as for you, your dead bodies will fall in this wilderness.
 
 ### Numbers 14:33
-Your children will be wanderers in the wilderness forty years, and will bear your unfaithfulness, until your dead bodies are consumed in the wilderness.
+Your children will wander in the wilderness for forty years. They will carry the result of your unfaithfulness until this generation has died in the wilderness.
 
 ### Numbers 14:34
-After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your sins, even forty years, and you will know my displeasure.
+You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.
 
 ### Numbers 14:35
-I, the Lord, have spoken. I will surely do this to all this evil whole group who are gathered together against me. In this wilderness they will be consumed, and there they will die."
+I, the Lord, have spoken. I will surely do this to all this rebellious group who are gathered together against me. In this wilderness they will die, and there they will die."
 
 ### Numbers 14:36
-The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up an bad report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up a bad report against the land,
 
 ### Numbers 14:37
-even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
+even those men who brought up a bad report of the land, died by the terrible sickness before the Lord.
 
 ### Numbers 14:38
 But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those men who went to spy out the land.

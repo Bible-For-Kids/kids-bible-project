@@ -1,7 +1,7 @@
 # Leviticus Chapter 3
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 3 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for peace offerings from cattle, sheep, or goats.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -328,11 +328,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 3 is a draft resource chapter. The chapter opens with "If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or...," moves through "He must offer from the sacrifice of peace offerings an offering burned on the altar to the Lord;...," and closes with "It must be a lasting rule for all your generations in all your dwellings, that you must eat neith...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions for peace offerings from cattle, sheep, or goats. The fat belongs to the Lord, and Israel must not eat blood, because life belongs to God.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Peace with God is precious**: The peace offering teaches that fellowship with the Lord is a holy gift.
+2. **Life belongs to God**: The command about blood teaches Israel to treat life with reverence.
 
 ## Memory Verses by Age
 
@@ -354,7 +354,3 @@ He must lay his hand on the head of his offering, and kill it at the door of the
 
 ## Prayer
 Lord, help us understand Leviticus 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

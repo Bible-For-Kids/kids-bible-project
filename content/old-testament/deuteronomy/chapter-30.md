@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 30
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 30 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses speaks of Israel returning to the Lord after blessing and curse come upon them.
 
 ## Important Keywords
 - blessing: Good that comes from God
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 30:1 - It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where Yahweh your God has driven you,
 
 #### Ages 5-7
-It must happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you must call them to mind among all the nations where the Lord your God has driven you,
+When all these things come on you, the blessing and the curse I have set before you, and you call them to mind among all the nations where the Lord your God has driven you,
 
 #### Ages 8-10
-It must happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you must call them to mind among all the nations where the Lord your God has driven you,
+When all these things come on you, the blessing and the curse I have set before you, and you call them to mind among all the nations where the Lord your God has driven you,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -36,10 +36,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:2 - and return to Yahweh your God and obey his voice according to all that I command you today, you and your children, with all your heart and with all your soul,
 
 #### Ages 5-7
-and return to the Lord your God and listen to his voice according to all that I command you today, you and your children, with all your heart and all your life,
+and return to the Lord your God and listen to his voice according to everything that I command you today, you and your children, with all your heart and all your life,
 
 #### Ages 8-10
-and return to the Lord your God and listen to his voice according to all that I command you today, you and your children, with all your heart and all your life,
+and return to the Lord your God and listen to his voice according to everything that I command you today, you and your children, with all your heart and all your life,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -56,10 +56,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:3 - that then Yahweh your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where Yahweh your God has scattered you.
 
 #### Ages 5-7
-that then the Lord your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the Lord your God has scattered you.
+then the Lord your God will restore you from captivity, have compassion on you, and gather you again from all the peoples where the Lord your God scattered you.
 
 #### Ages 8-10
-that then the Lord your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the Lord your God has scattered you.
+then the Lord your God will restore you from captivity, have compassion on you, and gather you again from all the peoples where the Lord your God scattered you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -94,10 +94,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:5 - Yahweh your God will bring you into the land which your fathers possessed, and you will possess it. He will do you good, and increase your numbers more than your fathers.
 
 #### Ages 5-7
-The Lord your God will bring you into the land that your ancestors possessed, and you will take it. He will do you good, and increase your numbers more than your ancestors.
+The Lord your God will bring you into the land that your ancestors took, and you will take it. He will do you good, and increase your numbers more than your ancestors.
 
 #### Ages 8-10
-The Lord your God will bring you into the land that your ancestors possessed, and you will take it. He will do you good, and increase your numbers more than your ancestors.
+The Lord your God will bring you into the land that your ancestors took, and you will take it. He will do you good, and increase your numbers more than your ancestors.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -151,10 +151,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:8 - You shall return and obey Yahweh's voice, and do all his commandments which I command you today.
 
 #### Ages 5-7
-You must return and obey the Lord's voice, and do all his commands which I command you today.
+You must return and obey the Lord's voice, and do all his commands that I command you today.
 
 #### Ages 8-10
-You must return and obey the Lord's voice, and do all his commands which I command you today.
+You must return and obey the Lord's voice, and do all his commands that I command you today.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -170,10 +170,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:9 - Yahweh your God will make you prosperous in all the work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, for good; for Yahweh will again rejoice over you for good, as he rejoiced over your fathers,
 
 #### Ages 5-7
-The Lord your God will make you prosperous in all the work of your hand, in the fruit of your body, in the fruit of your animals, and in the fruit of your ground, for good; for the Lord will again rejoice over you for good, as he rejoiced over your ancestors,
+The Lord your God will make you prosperous in all the work of your hand, in the children, in the young of your animals, and in the food from your ground, for good; for the Lord will again rejoice over you for good, as he rejoiced over your ancestors,
 
 #### Ages 8-10
-The Lord your God will make you prosperous in all the work of your hand, in the fruit of your body, in the fruit of your animals, and in the fruit of your ground, for good; for the Lord will again rejoice over you for good, as he rejoiced over your ancestors,
+The Lord your God will make you prosperous in all the work of your hand, in the children, in the young of your animals, and in the food from your ground, for good; for the Lord will again rejoice over you for good, as he rejoiced over your ancestors,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -189,10 +189,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:10 - if you will obey Yahweh your God's voice, to keep his commandments and his statutes which are written in this book of the law; if you turn to Yahweh your God with all your heart and with all your soul.
 
 #### Ages 5-7
-if you will obey the Lord your God's voice, to keep his commands and his rules which are written in this book of the law; if you turn to the Lord your God with all your heart and all your life.
+if you will obey the Lord your God's voice, to keep his commands and his rules that are written in this book of the law; if you turn to the Lord your God with all your heart and all your life.
 
 #### Ages 8-10
-if you will obey the Lord your God's voice, to keep his commands and his rules which are written in this book of the law; if you turn to the Lord your God with all your heart and all your life.
+if you will obey the Lord your God's voice, to keep his commands and his rules that are written in this book of the law; if you turn to the Lord your God with all your heart and all your life.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -209,10 +209,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:11 - For this commandment which I command you today is not too hard for you or too distant.
 
 #### Ages 5-7
-For this command which I command you today is not too hard for you or too distant.
+This command I give you today is not too hard for you, and it is not far away.
 
 #### Ages 8-10
-For this command which I command you today is not too hard for you or too distant.
+This command I give you today is not too hard for you, and it is not far away.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -254,10 +254,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:14 - But the word is very near to you, in your mouth and in your heart, that you may do it.
 
 #### Ages 5-7
-But the word is very near to you, in your mouth and in your heart, that you may do it.
+No, the word is very near you. It is in your mouth and in your heart, so you can do it.
 
 #### Ages 8-10
-But the word is very near to you, in your mouth and in your heart, that you may do it.
+No, the word is very near you. It is in your mouth and in your heart, so you can do it.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -285,10 +285,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:16 - For I command you today to love Yahweh your God, to walk in his ways and to keep his commandments, his statutes, and his ordinances, that you may live and multiply, and that Yahweh your God may bless you in the land where you go in to possess it.
 
 #### Ages 5-7
-For I command you today to love the Lord your God, to walk in his ways and to keep his commands, his rules, and his commands, that you may live and multiply, and that the Lord your God may bless you in the land where you go in and take it.
+For I command you today to love the Lord your God, to walk in his ways and to keep his commands, his rules, and his commands, that you may live and multiply, and that the Lord your God may bless you in the land where you go in to take it.
 
 #### Ages 8-10
-For I command you today to love the Lord your God, to walk in his ways and to keep his commands, his rules, and his commands, that you may live and multiply, and that the Lord your God may bless you in the land where you go in and take it.
+For I command you today to love the Lord your God, to walk in his ways and to keep his commands, his rules, and his commands, that you may live and multiply, and that the Lord your God may bless you in the land where you go in to take it.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -333,10 +333,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 30:19 - I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,
 
 #### Ages 5-7
-I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,
+I call heaven and earth to witness against you today. I have set life and death, blessing and curse, in front of you. Choose life, so you and your children may live.
 
 #### Ages 8-10
-I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,
+I call heaven and earth to witness against you today. I have set life and death, blessing and curse, before you. Choose life, so you and your offspring may live.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -367,19 +367,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 30 is a draft resource chapter. The chapter opens with "It must happen, when all these things have come on you, the blessing and the curse, which I have...," moves through "For this command which I command you today is not too hard for you or too distant.," and closes with "to love the Lord your God, to listen to his voice, and to cling to him; for he is your life, and...." Review this summary for fuller theological detail before approval.
+Moses speaks of Israel returning to the Lord after blessing and curse come upon them. The Lord will restore, gather, and change hearts, and Moses places life and death before the people, calling them to love the Lord because he is their life.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God gives hope after judgment**: The Lord promises restoration when his people return to him.
+2. **Choose life by clinging to the Lord**: The Lord himself is Israel's life and length of days.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-that then the Lord your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the Lord your God has scattered you. - Deuteronomy 30:3
+then the Lord your God will restore you from captivity, have compassion on you, and gather you again from all the peoples where the Lord your God scattered you. - Deuteronomy 30:3
 
 ### Ages 8-10
-that then the Lord your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the Lord your God has scattered you. - Deuteronomy 30:3
+then the Lord your God will restore you from captivity, have compassion on you, and gather you again from all the peoples where the Lord your God scattered you. - Deuteronomy 30:3
 
 ## Discussion Questions by Age
 
@@ -393,7 +393,3 @@ that then the Lord your God will release you from captivity, have compassion on 
 
 ## Prayer
 Lord, help us understand Deuteronomy 30 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

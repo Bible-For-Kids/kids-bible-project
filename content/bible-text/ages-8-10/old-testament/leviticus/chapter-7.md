@@ -54,13 +54,13 @@ Of it he must offer one out of each offering for a special offering to the Lord.
 The flesh of the sacrifice of his peace offerings for thanksgiving must be eaten on the day of his offering. He must not leave any of it until the morning.
 
 ### Leviticus 7:16
-"But if the sacrifice of his offering is a vow, or a free will offering, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
+"But if the sacrifice of his offering is a vow, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
 
 ### Leviticus 7:17
 but what remains of the meat of the sacrifice on the third day must be burned with fire.
 
 ### Leviticus 7:18
-If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a detestable thing, and the person who eats any of it will bear his sin.
+If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a hateful thing, and the person who eats any of it will bear his sin.
 
 ### Leviticus 7:19
 "The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;

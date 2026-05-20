@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 2
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 2 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses recalls Israel traveling around Edom, Moab, and Ammon, lands the Lord had given to other peoples.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -84,10 +84,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:5 - Don't contend with them; for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau for a possession.
 
 #### Ages 5-7
-Don't contend with them; for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau for a possession.
+Don't contend with them; for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau for a land.
 
 #### Ages 8-10
-Don't contend with them; for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau for a possession.
+Don't contend with them; for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau for a land.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -112,10 +112,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:7 - For Yahweh your God has blessed you in all the work of your hands. He has known your walking through this great wilderness. These forty years, Yahweh your God has been with you. You have lacked nothing.
 
 #### Ages 5-7
-For the Lord your God has blessed you in all the work of your hands. He has known your walking through this great wilderness. These forty years, the Lord your God has been with you. You have lacked nothing.
+The Lord your God has blessed you in everything your hands have done. He has watched over your walking through this great wilderness. These forty years the Lord your God has been with you, and you have lacked nothing.
 
 #### Ages 8-10
-For the Lord your God has blessed you in all the work of your hands. He has known your walking through this great wilderness. These forty years, the Lord your God has been with you. You have lacked nothing.
+The Lord your God has blessed you in everything your hands have done. He has known your walking through this great wilderness. These forty years the Lord your God has been with you, and you have lacked nothing.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -150,10 +150,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:9 - Yahweh said to me, "Don't bother Moab, neither contend with them in battle; for I will not give you any of his land for a possession, because I have given Ar to the children of Lot for a possession."
 
 #### Ages 5-7
-The Lord said to me, "Don't bother Moab, neither contend with them in battle; for I will not give you any of his land for a possession, because I have given Ar to the descendants of Lot for a possession."
+The Lord said to me, "Don't bother Moab, neither contend with them in battle; for I will not give you any of his land for a land, because I have given Ar to the descendants of Lot for a land."
 
 #### Ages 8-10
-The Lord said to me, "Don't bother Moab, neither contend with them in battle; for I will not give you any of his land for a possession, because I have given Ar to the descendants of Lot for a possession."
+The Lord said to me, "Don't bother Moab, neither contend with them in battle; for I will not give you any of his land for a land, because I have given Ar to the descendants of Lot for a land."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -196,10 +196,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:12 - The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, which Yahweh gave to them.)
 
 #### Ages 5-7
-The Horites also lived in Seir in the past, but the descendants of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, that the Lord gave to them.)
+The Horites also lived in Seir in the past, but the descendants of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his land, that the Lord gave to them.)
 
 #### Ages 8-10
-The Horites also lived in Seir in the past, but the descendants of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, that the Lord gave to them.)
+The Horites also lived in Seir in the past, but the descendants of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his land, that the Lord gave to them.)
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -229,10 +229,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:14 - The days in which we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years: until all the generation of the men of war were consumed from the middle of the camp, as Yahweh swore to them.
 
 #### Ages 5-7
-The days in which we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years: until all the generation of the men of war were consumed from the middle of the camp, as the Lord swore to them.
+The days where we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years: until all the generation of the men old enough for battle were gone from the middle of the camp, as the Lord swore to them.
 
 #### Ages 8-10
-The days in which we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years: until all the generation of the men of war were consumed from the middle of the camp, as the Lord swore to them.
+The days where we came from Kadesh Barnea until we had come over the brook Zered were thirty-eight years: until all the generation of the men old enough for battle were gone from the middle of the camp, as the Lord swore to them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -247,10 +247,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:15 - Moreover Yahweh's hand was against them, to destroy them from the middle of the camp, until they were consumed.
 
 #### Ages 5-7
-Moreover the Lord's hand was against them, to destroy them from the middle of the camp, until they were consumed.
+Moreover the Lord's hand was against them, to destroy them from the middle of the camp, until they were gone.
 
 #### Ages 8-10
-Moreover the Lord's hand was against them, to destroy them from the middle of the camp, until they were consumed.
+Moreover the Lord's hand was against them, to destroy them from the middle of the camp, until they were gone.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -265,10 +265,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:16 - So, when all the men of war were consumed and dead from among the people,
 
 #### Ages 5-7
-So, when all the men of war were consumed and dead from among the people,
+So, when all the men old enough for battle had died and were gone from among the people,
 
 #### Ages 8-10
-So, when all the men of war were consumed and dead from among the people,
+So, when all the men old enough for battle had died and were gone from among the people,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -311,10 +311,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:19 - When you come near the border of the children of Ammon, don't bother them, nor contend with them; for I will not give you any of the land of the children of Ammon for a possession, because I have given it to the children of Lot for a possession."
 
 #### Ages 5-7
-When you come near the border of the descendants of Ammon, don't bother them, nor contend with them; for I will not give you any of the land of the descendants of Ammon for a possession, because I have given it to the descendants of Lot for a possession."
+When you come near the border of the descendants of Ammon, don't bother them, nor contend with them; for I will not give you any of the land of the descendants of Ammon for a land, because I have given it to the descendants of Lot for a land."
 
 #### Ages 8-10
-When you come near the border of the descendants of Ammon, don't bother them, nor contend with them; for I will not give you any of the land of the descendants of Ammon for a possession, because I have given it to the descendants of Lot for a possession."
+When you come near the border of the descendants of Ammon, don't bother them, nor contend with them; for I will not give you any of the land of the descendants of Ammon for a land, because I have given it to the descendants of Lot for a land."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -497,10 +497,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:31 - Yahweh said to me, "Behold, I have begun to deliver up Sihon and his land before you. Begin to possess, that you may inherit his land."
 
 #### Ages 5-7
-The Lord said to me, "I have begun to deliver up Sihon and his land before you. Begin to possess, that you may receive as an inheritance his land."
+The Lord said to me, "I have begun to deliver up Sihon and his land before you. Begin to take, that you may receive as an inheritance his land."
 
 #### Ages 8-10
-The Lord said to me, "I have begun to deliver up Sihon and his land before you. Begin to possess, that you may receive as an inheritance his land."
+The Lord said to me, "I have begun to deliver up Sihon and his land before you. Begin to take, that you may receive as an inheritance his land."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -562,10 +562,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:35 - Only the livestock we took for plunder for ourselves, with the plunder of the cities which we had taken.
 
 #### Ages 5-7
-Only the animals we took for plunder for ourselves, with the plunder of the cities which we had taken.
+Only the animals we took for plunder for ourselves, with the plunder of the cities that we had taken.
 
 #### Ages 8-10
-Only the animals we took for plunder for ourselves, with the plunder of the cities which we had taken.
+Only the animals we took for plunder for ourselves, with the plunder of the cities that we had taken.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -576,10 +576,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 2:36 - From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. Yahweh our God delivered up all before us.
 
 #### Ages 5-7
-From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The Lord our God delivered up all before us.
+From Aroer, that is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The Lord our God delivered up all before us.
 
 #### Ages 8-10
-From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The Lord our God delivered up all before us.
+From Aroer, that is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The Lord our God delivered up all before us.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -611,11 +611,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 2 is a draft resource chapter. The chapter opens with "Then we turned, and took our journey into the wilderness by the way to the Red Sea, as the Lord s...," moves through "When you come near the border of the descendants of Ammon, don't bother them, nor contend with th...," and closes with "Only to the land of the descendants of Ammon you didn't come near: all the banks of the river Jab...." Review this summary for fuller theological detail before approval.
+Moses recalls Israel traveling around Edom, Moab, and Ammon, lands the Lord had given to other peoples. When the Lord finally tells Israel to fight Sihon, he gives Israel victory and begins to place the promised land before them.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God rules over all lands**: Israel may not take what the Lord gave to Edom, Moab, and Ammon.
+2. **God gives victory in his time**: Israel waits until the Lord commands them to move against Sihon.
 
 ## Memory Verses by Age
 
@@ -637,7 +637,3 @@ Then we turned, and took our journey into the wilderness by the way to the Red S
 
 ## Prayer
 Lord, help us understand Deuteronomy 2 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

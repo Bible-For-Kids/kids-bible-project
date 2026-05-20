@@ -797,10 +797,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 33:52 - then you shall drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
 
 #### Ages 5-7
-then you must drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
+then you must drive out all the people who live there of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
 
 #### Ages 8-10
-then you must drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
+then you must drive out all the people who live there of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -825,10 +825,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 33:54 - You shall inherit the land by lot according to your families; to the more you shall give the more inheritance, and to the fewer you shall give the less inheritance. Wherever the lot falls to any man, that shall be his. You shall inherit according to the tribes of your fathers.
 
 #### Ages 5-7
-You must inherit the land by lot according to your families; to the more you must give the more inheritance, and to the fewer you must give the less inheritance. Wherever the lot falls to any man, that must be his. You must inherit according to the tribes of your fathers.
+Divide the land by lot for your families. Give larger families more land and smaller families less land. Each family must receive the place the lot shows, according to its tribe.
 
 #### Ages 8-10
-You must inherit the land by lot according to your families; to the more you must give the more inheritance, and to the fewer you must give the less inheritance. Wherever the lot falls to any man, that must be his. You must inherit according to the tribes of your fathers.
+Divide the land by lot for your families. Give larger families more inheritance and smaller families less inheritance. Each family must receive the place the lot shows, according to its tribe.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -839,10 +839,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 33:55 - "But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you dwell.
 
 #### Ages 5-7
-"But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
+"But if you do not drive out the people who live there of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
 
 #### Ages 8-10
-"But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
+"But if you do not drive out the people who live there of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

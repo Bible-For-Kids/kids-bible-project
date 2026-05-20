@@ -84,16 +84,16 @@ You must therefore keep my rules and my commands. If a man does them, he will li
 Even the land became unclean because of their sin. So I punished its sin, and the land vomited out its people.
 
 ### Leviticus 18:26
-You therefore must keep my rules and my commands, and must not do any of these detestable things; neither the native-born, nor the foreigner who lives among you
+You therefore must keep my rules and my commands, and must not do any of these hateful things; neither the native-born, nor the foreigner who lives among you
 
 ### Leviticus 18:27
-The people who lived in the land before you did all these detestable things, and the land became unclean.
+The people who lived in the land before you did all these hateful things, and the land became unclean.
 
 ### Leviticus 18:28
 If you make the land unclean, it may vomit you out too, just as it vomited out the nation before you.
 
 ### Leviticus 18:29
-"For whoever does any of these detestable things, even the people who do them must be removed from among their people.
+"For whoever does any of these hateful things, even the people who do them must be removed from among their people.
 
 ### Leviticus 18:30
-So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the hateful customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "

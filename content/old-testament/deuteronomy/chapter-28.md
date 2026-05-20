@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 28
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 28 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses lays out covenant blessings for listening to the Lord and covenant curses for refusing his voice.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 28:1 - It shall happen, if you shall listen diligently to Yahweh your God's voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth.
 
 #### Ages 5-7
-It must happen, if you will listen diligently to the Lord your God's voice, to be careful to do all his commands which I command you today, that the Lord your God will set you high above all the nations of the earth.
+If you carefully listen to the voice of the Lord your God and do all his commands that I give you today, the Lord your God will set you high above all the nations of the earth.
 
 #### Ages 8-10
-It must happen, if you will listen diligently to the Lord your God's voice, to be careful to do all his commands which I command you today, that the Lord your God will set you high above all the nations of the earth.
+If you carefully listen to the voice of the Lord your God and do all his commands that I command you today, the Lord your God will set you high above all the nations of the earth.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -72,10 +72,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:4 - You shall be blessed in the fruit of your body, the fruit of your ground, the fruit of your animals, the increase of your livestock, and the young of your flock.
 
 #### Ages 5-7
-You will be blessed in the fruit of your body, the fruit of your ground, the fruit of your animals, the increase of your animals, and the young of your flock.
+Your children will be blessed, your ground will grow food, your animals will have young, and your flocks will increase.
 
 #### Ages 8-10
-You will be blessed in the fruit of your body, the fruit of your ground, the fruit of your animals, the increase of your animals, and the young of your flock.
+Your children will be blessed, the fruit of your ground will be blessed, the young of your cattle and flocks will be blessed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -89,10 +89,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:5 - Your basket and your kneading trough shall be blessed.
 
 #### Ages 5-7
-Your basket and your kneading trough will be blessed.
+Your basket and your bread bowl will be blessed.
 
 #### Ages 8-10
-Your basket and your kneading trough will be blessed.
+Your basket and your bread bowl will be blessed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -141,10 +141,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:8 - Yahweh will command the blessing on you in your barns, and in all that you put your hand to. He will bless you in the land which Yahweh your God gives you.
 
 #### Ages 5-7
-The Lord will command the blessing on you in your barns, and in all that you put your hand to. He will bless you in the land that the Lord your God gives you.
+The Lord will command the blessing on you in your storehouses, and in all that you put your hand to. He will bless you in the land that the Lord your God gives you.
 
 #### Ages 8-10
-The Lord will command the blessing on you in your barns, and in all that you put your hand to. He will bless you in the land that the Lord your God gives you.
+The Lord will command the blessing on you in your storehouses, and in all that you put your hand to. He will bless you in the land that the Lord your God gives you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -162,10 +162,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:9 - Yahweh will establish you for a holy people to himself, as he has sworn to you, if you shall keep the commandments of Yahweh your God, and walk in his ways.
 
 #### Ages 5-7
-The Lord will establish you for a holy people to himself, as he has sworn to you, if you must keep the commands of the Lord your God, and walk in his ways.
+The Lord will establish you for a holy people to himself, as he has sworn to you, if you keep the commands of the Lord your God, and walk in his ways.
 
 #### Ages 8-10
-The Lord will establish you for a holy people to himself, as he has sworn to you, if you must keep the commands of the Lord your God, and walk in his ways.
+The Lord will establish you for a holy people to himself, as he has sworn to you, if you keep the commands of the Lord your God, and walk in his ways.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -182,10 +182,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:10 - All the peoples of the earth shall see that you are called by Yahweh's name, and they will be afraid of you.
 
 #### Ages 5-7
-All the peoples of the earth must see that you are called by the Lord's name, and they will be afraid of you.
+All the peoples of the earth will see that you are called by the Lord's name, and they will be afraid of you.
 
 #### Ages 8-10
-All the peoples of the earth must see that you are called by the Lord's name, and they will be afraid of you.
+All the peoples of the earth will see that you are called by the Lord's name, and they will be afraid of you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -200,10 +200,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:11 - Yahweh will grant you abundant prosperity in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, in the land which Yahweh swore to your fathers to give you.
 
 #### Ages 5-7
-The Lord will grant you abundant prosperity in the fruit of your body, in the fruit of your animals, and in the fruit of your ground, in the land that the Lord swore to your ancestors to give you.
+The Lord will grant you great plenty in the children, in the young of your animals, and in the food from your ground, in the land that the Lord swore to your ancestors to give you.
 
 #### Ages 8-10
-The Lord will grant you abundant prosperity in the fruit of your body, in the fruit of your animals, and in the fruit of your ground, in the land that the Lord swore to your ancestors to give you.
+The Lord will grant you great plenty in the children, in the young of your animals, and in the food from your ground, in the land that the Lord swore to your ancestors to give you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -236,10 +236,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:13 - Yahweh will make you the head, and not the tail. You will be above only, and you will not be beneath, if you listen to the commandments of Yahweh your God which I command you today, to observe and to do,
 
 #### Ages 5-7
-The Lord will make you the head, and not the tail. You will be above only, and you will not be beneath, if you listen to the commands of the Lord your God which I command you today, to keep and to do,
+The Lord will make you the head and not the tail. You will be above only, and you will not be beneath, if you listen to the commands of the Lord your God that I command you today, to keep and to do,
 
 #### Ages 8-10
-The Lord will make you the head, and not the tail. You will be above only, and you will not be beneath, if you listen to the commands of the Lord your God which I command you today, to keep and to do,
+The Lord will make you the head and not the tail. You will be above only, and you will not be beneath, if you listen to the commands of the Lord your God that I command you today, to keep and to do,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -256,10 +256,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:14 - and shall not turn away from any of the words which I command you today, to the right hand or to the left, to go after other gods to serve them.
 
 #### Ages 5-7
-and must not turn away from any of the words which I command you today, to the right hand or to the left, to go after other gods to serve them.
+and do not turn away from any of the words that I command you today, to the right hand or to the left, to go after other gods and serve them.
 
 #### Ages 8-10
-and must not turn away from any of the words which I command you today, to the right hand or to the left, to go after other gods to serve them.
+and do not turn away from any of the words that I command you today, to the right hand or to the left, to go after other gods and serve them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -273,10 +273,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:15 - But it shall come to pass, if you will not listen to Yahweh your God's voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you.
 
 #### Ages 5-7
-But it will come to pass, if you will not listen to the Lord your God's voice, to be careful to do all his commands and his rules which I command you today, that all these curses will come on you and overtake you.
+But it will come to pass, if you will not listen to the Lord your God's voice, to be careful to do all his commands and his rules that I command you today, that all these curses will come on you and overtake you.
 
 #### Ages 8-10
-But it will come to pass, if you will not listen to the Lord your God's voice, to be careful to do all his commands and his rules which I command you today, that all these curses will come on you and overtake you.
+But it will come to pass, if you will not listen to the Lord your God's voice, to be careful to do all his commands and his rules that I command you today, that all these curses will come on you and overtake you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -310,10 +310,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:17 - Your basket and your kneading trough will be cursed.
 
 #### Ages 5-7
-Your basket and your kneading trough will be cursed.
+Your basket and your bread bowl will be cursed.
 
 #### Ages 8-10
-Your basket and your kneading trough will be cursed.
+Your basket and your bread bowl will be cursed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -327,10 +327,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:18 - The fruit of your body, the fruit of your ground, the increase of your livestock, and the young of your flock will be cursed.
 
 #### Ages 5-7
-The fruit of your body, the fruit of your ground, the increase of your animals, and the young of your flock will be cursed.
+The children, the food from your ground, the increase of your herds, and the lambs and young goats of your flock will be cursed.
 
 #### Ages 8-10
-The fruit of your body, the fruit of your ground, the increase of your animals, and the young of your flock will be cursed.
+The children, the food from your ground, the increase of your herds, and the lambs and young goats of your flock will be cursed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -361,10 +361,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:20 - Yahweh will send on you cursing, confusion, and rebuke in all that you put your hand to do, until you are destroyed and until you perish quickly, because of the evil of your doings, by which you have forsaken me.
 
 #### Ages 5-7
-The Lord will send on you cursing, confusion, and rebuke in all that you put your hand to do, until you are destroyed and until you perish quickly, because of the evil of your doings, by which you have forsaken me.
+The Lord will send cursing, confusion, and rebuke on everything you put your hand to do, until you are destroyed and perish quickly, because you have done evil and forsaken him.
 
 #### Ages 8-10
-The Lord will send on you cursing, confusion, and rebuke in all that you put your hand to do, until you are destroyed and until you perish quickly, because of the evil of your doings, by which you have forsaken me.
+The Lord will send cursing, confusion, and rebuke on everything you put your hand to do, until you are destroyed and perish quickly, because you have done evil and forsaken him.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -380,10 +380,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:21 - Yahweh will make the pestilence cling to you, until he has consumed you from off the land where you go in to possess it.
 
 #### Ages 5-7
-The Lord will make the terrible sickness cling to you, until he has consumed you from off the land where you go in and take it.
+The Lord will make terrible sickness cling to you until you are destroyed from the land you are entering to take.
 
 #### Ages 8-10
-The Lord will make the terrible sickness cling to you, until he has consumed you from off the land where you go in and take it.
+The Lord will make terrible sickness cling to you until you are destroyed from the land you are entering to take.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -480,10 +480,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:27 - Yahweh will strike you with the boils of Egypt, with the tumors, with the scurvy, and with the itch, of which you can not be healed.
 
 #### Ages 5-7
-The Lord will strike you with the boils of Egypt, with the tumors, with the scurvy, and with the itch, of which you can not be healed.
+The Lord will strike you with the boils of Egypt, with tumors, scurvy, and itch, and you will not be healed.
 
 #### Ages 8-10
-The Lord will strike you with the boils of Egypt, with the tumors, with the scurvy, and with the itch, of which you can not be healed.
+The Lord will strike you with the boils of Egypt, with tumors, scurvy, and itch, and you will not be healed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -499,10 +499,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:28 - Yahweh will strike you with madness, with blindness, and with astonishment of heart.
 
 #### Ages 5-7
-The Lord will strike you with madness, with blindness, and with astonishment of heart.
+The Lord will strike you with madness, with blindness, and with horror of heart.
 
 #### Ages 8-10
-The Lord will strike you with madness, with blindness, and with astonishment of heart.
+The Lord will strike you with madness, with blindness, and with horror of heart.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -517,10 +517,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:29 - You will grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.
 
 #### Ages 5-7
-You will grope at noonday, as the blind gropes in darkness, and you must not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.
+You will grope at noonday, as the blind gropes in darkness, and you will not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.
 
 #### Ages 8-10
-You will grope at noonday, as the blind gropes in darkness, and you must not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.
+You will grope at noonday, as the blind gropes in darkness, and you will not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -531,10 +531,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:30 - You will betroth a wife, and another man shall lie with her. You will build a house, and you won't dwell in it. You will plant a vineyard, and not use its fruit.
 
 #### Ages 5-7
-You will be promised a wife, and another man will violate her. You will build a house, and you won't live in it. You will plant a vineyard, and not use its fruit.
+You will be promised a wife, but another man will take her by force. You will build a house, but you will not live in it. You will plant a vineyard, but you will not enjoy its fruit.
 
 #### Ages 8-10
-You will be promised a wife, and another man will violate her. You will build a house, and you won't live in it. You will plant a vineyard, and not use its fruit.
+You will be promised a wife, but another man will take her by force. You will build a house, but you will not live in it. You will plant a vineyard, but you will not enjoy its fruit.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -545,10 +545,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:31 - Your ox will be slain before your eyes, and you will not eat any of it. Your donkey will be violently taken away from before your face, and will not be restored to you. Your sheep will be given to your enemies, and you will have no one to save you.
 
 #### Ages 5-7
-Your ox will be killed before your eyes, and you will not eat any of it. Your donkey will be violently taken away from before your face, and will not be restored to you. Your sheep will be given to your enemies, and you will have no one to save you.
+Your ox will be killed before your eyes, and you will not eat any of it. Your donkey will be violently taken away from before you, and will not be restored to you. Your sheep will be given to your enemies, and you will have no one to save you.
 
 #### Ages 8-10
-Your ox will be killed before your eyes, and you will not eat any of it. Your donkey will be violently taken away from before your face, and will not be restored to you. Your sheep will be given to your enemies, and you will have no one to save you.
+Your ox will be killed before your eyes, and you will not eat any of it. Your donkey will be violently taken away from before you, and will not be restored to you. Your sheep will be given to your enemies, and you will have no one to save you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -573,10 +573,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:33 - A nation which you don't know will eat the fruit of your ground and all of your work. You will only be oppressed and crushed always,
 
 #### Ages 5-7
-A nation which you don't know will eat the fruit of your ground and all of your work. You will only be oppressed and crushed always,
+A nation that you don't know will eat the food from your ground and all of your work. You will only be oppressed and crushed always,
 
 #### Ages 8-10
-A nation which you don't know will eat the fruit of your ground and all of your work. You will only be oppressed and crushed always,
+A nation that you don't know will eat the food from your ground and all of your work. You will only be oppressed and crushed always,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -601,10 +601,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:35 - Yahweh will strike you in the knees and in the legs with a sore boil, of which you cannot be healed, from the sole of your foot to the crown of your head.
 
 #### Ages 5-7
-The Lord will strike you in the knees and in the legs with a sore boil, of which you cannot be healed, from the sole of your foot to the crown of your head.
+The Lord will strike your knees and legs with a sore boil that cannot be healed, from the bottom of your foot to the top of your head.
 
 #### Ages 8-10
-The Lord will strike you in the knees and in the legs with a sore boil, of which you cannot be healed, from the sole of your foot to the crown of your head.
+The Lord will strike your knees and legs with a sore boil that cannot be healed, from the sole of your foot to the crown of your head.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -637,10 +637,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:37 - You will become an astonishment, a proverb, and a byword among all the peoples where Yahweh will lead you away.
 
 #### Ages 5-7
-You will become an astonishment, a proverb, and a byword among all the peoples where the Lord will lead you away.
+You will become a horror, a warning saying, and a shameful name among all the peoples where the Lord leads you away.
 
 #### Ages 8-10
-You will become an astonishment, a proverb, and a byword among all the peoples where the Lord will lead you away.
+You will become a horror, a warning saying, and a shameful name among all the peoples where the Lord leads you away.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -655,10 +655,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:38 - You will carry much seed out into the field, and will gather little in, for the locust will consume it.
 
 #### Ages 5-7
-You will carry much seed out into the field, and will gather little in, for the locust will consume it.
+You will carry much seed into the field, but gather little in, because locusts will eat it up.
 
 #### Ages 8-10
-You will carry much seed out into the field, and will gather little in, for the locust will consume it.
+You will carry much seed into the field, but gather little in, because locusts will eat it up.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -683,10 +683,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:40 - You will have olive trees throughout all your borders, but you won't anoint yourself with the oil, for your olives will drop off.
 
 #### Ages 5-7
-You will have olive trees throughout all your borders, but you won't anoint yourself with the oil, for your olives will drop off.
+You will have olive trees all through your land, but you will not enjoy the oil, because your olives will drop off.
 
 #### Ages 8-10
-You will have olive trees throughout all your borders, but you won't anoint yourself with the oil, for your olives will drop off.
+You will have olive trees all through your land, but you will not anoint yourself with the oil, because your olives will drop off.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -697,10 +697,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:41 - You will father sons and daughters, but they will not be yours, for they will go into captivity.
 
 #### Ages 5-7
-You will father sons and daughters, but they will not be yours, for they will go into captivity.
+You will have sons and daughters, but they will not remain with you, because they will go away as captives.
 
 #### Ages 8-10
-You will father sons and daughters, but they will not be yours, for they will go into captivity.
+You will have sons and daughters, but they will not remain with you, because they will go away as captives.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -711,10 +711,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:42 - Locusts will consume all of your trees and the fruit of your ground.
 
 #### Ages 5-7
-Locusts will consume all of your trees and the fruit of your ground.
+Locusts will eat up all your trees and the fruit of your ground.
 
 #### Ages 8-10
-Locusts will consume all of your trees and the fruit of your ground.
+Locusts will destroy all your trees and the fruit of your ground.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -753,10 +753,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:45 - All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn't listen to Yahweh your God's voice, to keep his commandments and his statutes which he commanded you.
 
 #### Ages 5-7
-All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn't listen to the Lord your God's voice, to keep his commands and his rules which he commanded you.
+All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn't listen to the Lord your God's voice, to keep his commands and his rules that he commanded you.
 
 #### Ages 8-10
-All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn't listen to the Lord your God's voice, to keep his commands and his rules which he commanded you.
+All these curses will come on you, and will pursue you and overtake you, until you are destroyed, because you didn't listen to the Lord your God's voice, to keep his commands and his rules that he commanded you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -786,10 +786,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:47 - Because you didn't serve Yahweh your God with joyfulness and with gladness of heart, by reason of the abundance of all things;
 
 #### Ages 5-7
-Because you didn't serve the Lord your God with joyfulness and with gladness of heart, by reason of the abundance of all things;
+Because you didn't serve the Lord your God with joyfulness and with gladness of heart, because of the abundance of all things;
 
 #### Ages 8-10
-Because you didn't serve the Lord your God with joyfulness and with gladness of heart, by reason of the abundance of all things;
+Because you didn't serve the Lord your God with joyfulness and with gladness of heart, because of the abundance of all things;
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -805,7 +805,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:48 - therefore you will serve your enemies whom Yahweh sends against you, in hunger, in thirst, in nakedness, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you.
 
 #### Ages 5-7
-therefore you will serve your enemies whom the Lord sends against you, in hunger, in thirst, in nakedness, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you.
+therefore you will serve your enemies whom the Lord sends against you, in hunger, in thirst, with no clothes, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you.
 
 #### Ages 8-10
 therefore you will serve your enemies whom the Lord sends against you, in hunger, in thirst, in nakedness, and in lack of all things. He will put an iron yoke on your neck until he has destroyed you.
@@ -841,10 +841,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:50 - a nation of fierce facial expressions, that doesn't respect the elderly, nor show favor to the young.
 
 #### Ages 5-7
-a nation of fierce facial expressions, that doesn't respect the elderly, nor show favor to the young.
+a fierce nation that does not respect the elderly or show kindness to the young.
 
 #### Ages 8-10
-a nation of fierce facial expressions, that doesn't respect the elderly, nor show favor to the young.
+a fierce-looking nation that does not respect the elderly or show kindness to the young.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -855,10 +855,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:51 - They will eat the fruit of your livestock and the fruit of your ground, until you are destroyed. They also won't leave you grain, new wine, oil, the increase of your livestock, or the young of your flock, until they have caused you to perish.
 
 #### Ages 5-7
-They will eat the fruit of your animals and the fruit of your ground, until you are destroyed. They also won't leave you grain, new wine, oil, the increase of your animals, or the young of your flock, until they have caused you to perish.
+They will eat the young of your animals and the food from your ground, until you are destroyed. They also won't leave you grain, new grape juice, oil, the increase of your herds, or the lambs and young goats of your flock, until they have caused you to perish.
 
 #### Ages 8-10
-They will eat the fruit of your animals and the fruit of your ground, until you are destroyed. They also won't leave you grain, new wine, oil, the increase of your animals, or the young of your flock, until they have caused you to perish.
+They will eat the young of your animals and the food from your ground, until you are destroyed. They also won't leave you grain, new grape juice, oil, the increase of your herds, or the lambs and young goats of your flock, until they have caused you to perish.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -869,10 +869,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:52 - They will besiege you in all your gates until your high and fortified walls in which you trusted come down throughout all your land. They will besiege you in all your gates throughout all your land which Yahweh your God has given you.
 
 #### Ages 5-7
-They will besiege you in all your towns until your high and fortified walls in which you trusted come down throughout all your land. They will besiege you in all your towns throughout all your land that the Lord your God has given you.
+They will besiege you in all your towns until the high, strong walls you trusted in come down throughout your land. They will besiege you in all your towns throughout the land the Lord your God has given you.
 
 #### Ages 8-10
-They will besiege you in all your towns until your high and fortified walls in which you trusted come down throughout all your land. They will besiege you in all your towns throughout all your land that the Lord your God has given you.
+They will besiege you in all your towns until the high, strong walls you trusted in come down throughout your land. They will besiege you in all your towns throughout the land the Lord your God has given you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -888,10 +888,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:53 - You will eat the fruit of your own body, the flesh of your sons and of your daughters, whom Yahweh your God has given you, in the siege and in the distress with which your enemies will distress you.
 
 #### Ages 5-7
-You will eat the fruit of your own body, the flesh of your sons and of your daughters, whom the Lord your God has given you, in the siege and in the distress with which your enemies will distress you.
+In the terrible siege, hunger will become so awful that people will even eat their own children, the sons and daughters the Lord your God gave them.
 
 #### Ages 8-10
-You will eat the fruit of your own body, the flesh of your sons and of your daughters, whom the Lord your God has given you, in the siege and in the distress with which your enemies will distress you.
+In the siege and distress from your enemies, hunger will become so terrible that you will eat your own children, the sons and daughters the Lord your God gave you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -907,10 +907,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:54 - The man who is tender among you, and very delicate, his eye will be evil toward his brother, toward the wife whom he loves, and toward the remnant of his children whom he has remaining,
 
 #### Ages 5-7
-The man who is tender among you, and very delicate, his eye will be evil toward his brother, toward the wife whom he loves, and toward the remnant of his children whom he has remaining,
+Even the tender, gentle man among you will look coldly at his brother, the wife he loves, and the children he still has,
 
 #### Ages 8-10
-The man who is tender among you, and very delicate, his eye will be evil toward his brother, toward the wife whom he loves, and toward the remnant of his children whom he has remaining,
+Even the tender, delicate man among you will look coldly at his brother, the wife he loves, and the children he still has,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -924,10 +924,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:55 - so that he will not give to any of them of the flesh of his children whom he will eat, because he has nothing left to him, in the siege and in the distress with which your enemy will distress you in all your gates.
 
 #### Ages 5-7
-so that he will not give to any of them of the flesh of his children whom he will eat, because he has nothing left to him, in the siege and in the distress with which your enemy will distress you in all your towns.
+and he will not share with any of them, because nothing will be left during the terrible siege in all your towns.
 
 #### Ages 8-10
-so that he will not give to any of them of the flesh of his children whom he will eat, because he has nothing left to him, in the siege and in the distress with which your enemy will distress you in all your towns.
+and he will not share with any of them from the flesh of his children, because nothing will be left during the siege and distress in all your towns.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -938,10 +938,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:56 - The tender and delicate woman among you, who would not venture to set the sole of her foot on the ground for delicateness and tenderness, her eye will be evil toward the husband that she loves, toward her son, toward her daughter,
 
 #### Ages 5-7
-The tender and delicate woman among you, who would not venture to set the sole of her foot on the ground for delicateness and tenderness, her eye will be evil toward the husband that she loves, toward her son, toward her daughter,
+Even the tender, gentle woman among you, so gentle she would hardly put her foot on the ground, will look coldly at the husband she loves, her son, and her daughter,
 
 #### Ages 8-10
-The tender and delicate woman among you, who would not venture to set the sole of her foot on the ground for delicateness and tenderness, her eye will be evil toward the husband that she loves, toward her son, toward her daughter,
+Even the tender, delicate woman among you, so delicate she would hardly put her foot on the ground, will look coldly at the husband she loves, her son, and her daughter,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -955,10 +955,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:57 - toward her young one who comes out from between her feet, and toward her children whom she bears; for she will eat them secretly for lack of all things in the siege and in the distress with which your enemy will distress you in your gates.
 
 #### Ages 5-7
-toward her young one who comes out from between her feet, and toward her children whom she bears; for she will eat them secretly for lack of all things in the siege and in the distress with which your enemy will distress you in your gates.
+and even at her newborn child and her other children, because hunger will be so terrible that she will hide and eat in secret during the siege and distress in your towns.
 
 #### Ages 8-10
-toward her young one who comes out from between her feet, and toward her children whom she bears; for she will eat them secretly for lack of all things in the siege and in the distress with which your enemy will distress you in your gates.
+and even at her newborn child and her other children, because hunger will be so terrible that she will eat them secretly during the siege and distress in your towns.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -969,10 +969,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:58 - If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, YAHWEH your God,
 
 #### Ages 5-7
-If you will not be careful to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, YAHWEH your God,
+If you are not careful to do all the words of this law written in this book, and if you do not honor this glorious and fearful name, the Lord your God,
 
 #### Ages 8-10
-If you will not be careful to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, YAHWEH your God,
+If you are not careful to do all the words of this law written in this book, and if you do not honor this glorious and fearful name, the Lord your God,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -988,10 +988,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:59 - then Yahweh will make your plagues and the plagues of your offspring fearful, even great plagues, and of long duration, and severe sicknesses, and of long duration.
 
 #### Ages 5-7
-then the Lord will make your terrible sicknesses and the terrible sicknesses of your offspring fearful, even great terrible sicknesses, and of long duration, and severe sicknesses, and of long duration.
+then the Lord will make your terrible sicknesses and the sicknesses of your offspring fearful, even very terrible sicknesses, and long and severe sicknesses.
 
 #### Ages 8-10
-then the Lord will make your terrible sicknesses and the terrible sicknesses of your offspring fearful, even great terrible sicknesses, and of long duration, and severe sicknesses, and of long duration.
+then the Lord will make your terrible sicknesses and the sicknesses of your offspring fearful, even very terrible sicknesses, and long and severe sicknesses.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1006,10 +1006,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:60 - He will bring on you again all the diseases of Egypt, which you were afraid of; and they will cling to you.
 
 #### Ages 5-7
-He will bring on you again all the diseases of Egypt, which you were afraid of; and they will cling to you.
+He will bring on you again all the diseases of Egypt, that you were afraid of; and they will cling to you.
 
 #### Ages 8-10
-He will bring on you again all the diseases of Egypt, which you were afraid of; and they will cling to you.
+He will bring on you again all the diseases of Egypt, that you were afraid of; and they will cling to you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1023,10 +1023,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:61 - Also every sickness and every plague which is not written in the book of this law, Yahweh will bring them on you until you are destroyed.
 
 #### Ages 5-7
-Also every sickness and every terrible sickness which is not written in the book of this law, the Lord will bring them on you until you are destroyed.
+Also every sickness and every terrible sickness that is not written in the book of this law, the Lord will bring them on you until you are destroyed.
 
 #### Ages 8-10
-Also every sickness and every terrible sickness which is not written in the book of this law, the Lord will bring them on you until you are destroyed.
+Also every sickness and every terrible sickness that is not written in the book of this law, the Lord will bring them on you until you are destroyed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1061,10 +1061,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:63 - It will happen that as Yahweh rejoiced over you to do you good, and to multiply you, so Yahweh will rejoice over you to cause you to perish and to destroy you. You will be plucked from the land that you are going in to possess.
 
 #### Ages 5-7
-It will happen that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to cause you to perish and to destroy you. You will be plucked from the land that you are going in to take.
+It will happen that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to bring you to ruin and destroy you. You will be pulled away from the land that you are going in to take.
 
 #### Ages 8-10
-It will happen that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to cause you to perish and to destroy you. You will be plucked from the land that you are going in to take.
+It will happen that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to bring you to ruin and destroy you. You will be plucked from the land that you are going in to take.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1079,10 +1079,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:64 - Yahweh will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods which you have not known, you nor your fathers, even wood and stone.
 
 #### Ages 5-7
-The Lord will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods which you have not known, you nor your ancestors, even wood and stone.
+The Lord will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods that you have not known, you nor your ancestors, even wood and stone.
 
 #### Ages 8-10
-The Lord will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods which you have not known, you nor your ancestors, even wood and stone.
+The Lord will scatter you among all peoples, from one end of the earth to the other end of the earth. There you will serve other gods that you have not known, you nor your ancestors, even wood and stone.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1097,10 +1097,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:65 - Among these nations you will find no ease, and there will be no rest for the sole of your foot; but Yahweh will give you there a trembling heart, failing of eyes, and pining of soul.
 
 #### Ages 5-7
-Among these nations you will find no ease, and there will be no rest for the sole of your foot; but the Lord will give you there a trembling heart, failing of eyes, and pining of person.
+Among those nations you will find no ease, and your feet will find no resting place. There the Lord will give you a trembling heart, tired eyes, and a weary life.
 
 #### Ages 8-10
-Among these nations you will find no ease, and there will be no rest for the sole of your foot; but the Lord will give you there a trembling heart, failing of eyes, and pining of person.
+Among those nations you will find no ease, and your feet will find no resting place. There the Lord will give you a trembling heart, failing eyes, and a weary life.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1115,7 +1115,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:66 - Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.
 
 #### Ages 5-7
-Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.
+Your life will hang in doubt before you. You will be afraid night and day, and will have no feeling that your life is safe.
 
 #### Ages 8-10
 Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.
@@ -1129,10 +1129,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:67 - In the morning you will say, "I wish it were evening!" and at evening you will say, "I wish it were morning!" for the fear of your heart which you will fear, and for the sights which your eyes will see.
 
 #### Ages 5-7
-In the morning you will say, "I wish it were evening!" and at evening you will say, "I wish it were morning!" for the fear of your heart which you will fear, and for the sights which your eyes will see.
+In the morning you will say, "I wish it were evening!" and at evening you will say, "I wish it were morning!" for the fear of your heart that you will fear, and for the sights that your eyes will see.
 
 #### Ages 8-10
-In the morning you will say, "I wish it were evening!" and at evening you will say, "I wish it were morning!" for the fear of your heart which you will fear, and for the sights which your eyes will see.
+In the morning you will say, "I wish it were evening!" and at evening you will say, "I wish it were morning!" for the fear of your heart that you will fear, and for the sights that your eyes will see.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1143,10 +1143,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 28:68 - Yahweh will bring you into Egypt again with ships, by the way of which I told to you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you.
 
 #### Ages 5-7
-The Lord will bring you into Egypt again with ships, by the way of which I told to you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you.
+The Lord will bring you back to Egypt in ships, by the road I told you that you would never see again. There you will offer yourselves to your enemies as male and female slaves, but no one will buy you.
 
 #### Ages 8-10
-The Lord will bring you into Egypt again with ships, by the way of which I told to you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you.
+The Lord will bring you back to Egypt in ships, by the road I told you that you would never see again. There you will offer yourselves to your enemies as male and female slaves, but no one will buy you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -1159,11 +1159,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 28 is a draft resource chapter. The chapter opens with "It must happen, if you will listen diligently to the Lord your God's voice, to be careful to do a...," moves through "The Lord will strike you in the knees and in the legs with a sore boil, of which you cannot be he...," and closes with "The Lord will bring you into Egypt again with ships, by the way of which I told to you that you w...." Review this summary for fuller theological detail before approval.
+Moses lays out covenant blessings for listening to the Lord and covenant curses for refusing his voice. The chapter is long and severe because turning from the Lord brings judgment, loss, exile, and deep sorrow, while obedience brings life under his blessing.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord's covenant is serious**: Blessing and curse show that Israel's response to God matters deeply.
+2. **Disobedience destroys**: The warnings are meant to turn Israel away from idolatry and toward life.
 
 ## Memory Verses by Age
 
@@ -1185,7 +1185,3 @@ All these blessings will come upon you, and overtake you, if you listen to the L
 
 ## Prayer
 Lord, help us understand Deuteronomy 28 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

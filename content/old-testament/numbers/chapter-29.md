@@ -598,10 +598,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 29:35 - " 'On the eighth day you shall have a solemn assembly. You shall do no regular work;
 
 #### Ages 5-7
-"On the eighth day you must have a solemn whole group. You must do no regular work;
+"On the eighth day you must have a special holy gathering. You must do no regular work;
 
 #### Ages 8-10
-"On the eighth day you must have a solemn gathered people. You must do no regular work;
+"On the eighth day you must have a special holy gathering. You must do no regular work;
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

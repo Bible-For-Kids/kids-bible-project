@@ -1,7 +1,7 @@
 # Leviticus Chapter 10
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 10 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on nadab and Abihu offer unauthorized fire before the Lord and die before him, showing that holy service must not be treated carelessly.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -391,11 +391,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 10 is a draft resource chapter. The chapter opens with "Nadab and Abihu, the sons of Aaron, each took his incense pan, and put fire in it, and laid sweet...," moves through "You are to teach the people of Israel all the rules which the Lord has spoken to them by Moses.," and closes with "When Moses heard that, it was pleasing in his sight.." Review this summary for fuller theological detail before approval.
+Nadab and Abihu offer unauthorized fire before the Lord and die before him, showing that holy service must not be treated carelessly. The Lord then teaches Aaron and the priests to distinguish between holy and common, clean and unclean, and to teach Israel his commands.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God is holy**: The Lord must be honored by those who come near him.
+2. **Teachers must handle God's word carefully**: The priests must help Israel know what the Lord has spoken.
 
 ## Memory Verses by Age
 
@@ -417,7 +417,3 @@ Fire came out from before the Lord, and devoured them, and they died before the 
 
 ## Prayer
 Lord, help us understand Leviticus 10 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

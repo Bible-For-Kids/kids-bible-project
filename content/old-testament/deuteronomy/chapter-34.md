@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 34
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 34 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses climbs Mount Nebo and sees the land the Lord swore to Abraham, Isaac, and Jacob, but he does not enter it.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 34:1 - Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. Yahweh showed him all the land of Gilead to Dan,
 
 #### Ages 5-7
-Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. The Lord showed him all the land of Gilead to Dan,
+Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah across from Jericho. The Lord showed him the whole land: Gilead as far as Dan,
 
 #### Ages 8-10
-Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. The Lord showed him all the land of Gilead to Dan,
+Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah across from Jericho. The Lord showed him the whole land: Gilead as far as Dan,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -82,10 +82,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 34:5 - So Moses the servant of Yahweh died there in the land of Moab, according to Yahweh's word.
 
 #### Ages 5-7
-So Moses the servant of the Lord died there in the land of Moab, according to the Lord's word.
+So Moses, the servant of the Lord, died there in the land of Moab, just as the Lord had said.
 
 #### Ages 8-10
-So Moses the servant of the Lord died there in the land of Moab, according to the Lord's word.
+So Moses, the servant of the Lord, died there in the land of Moab, according to the Lord's word.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -101,10 +101,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 34:6 - He buried him in the valley in the land of Moab opposite Beth Peor, but no man knows where his tomb is to this day.
 
 #### Ages 5-7
-He buried him in the valley in the land of Moab opposite Beth Peor, but no one knows where his tomb is to this day.
+The Lord buried him in the valley in the land of Moab, near Beth Peor. To this day, no one knows where Moses was buried.
 
 #### Ages 8-10
-He buried him in the valley in the land of Moab opposite Beth Peor, but no one knows where his tomb is to this day.
+The Lord buried him in the valley in the land of Moab, near Beth Peor. To this day, no one knows where Moses was buried.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -170,10 +170,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 34:10 - Since then, there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face,
 
 #### Ages 5-7
-Since then, there has not arisen a prophet in Israel like Moses, whom the Lord knew face to face,
+Since then, no prophet has risen in Israel like Moses, whom the Lord knew face to face.
 
 #### Ages 8-10
-Since then, there has not arisen a prophet in Israel like Moses, whom the Lord knew face to face,
+Since then, no prophet has risen in Israel like Moses, whom the Lord knew face to face.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -210,10 +210,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 34:12 - and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.
 
 #### Ages 5-7
-and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.
+and in all the mighty hand, and in all the awesome deeds, that Moses did in the sight of all Israel.
 
 #### Ages 8-10
-and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.
+and in all the mighty hand, and in all the awesome deeds, that Moses did in the sight of all Israel.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -225,11 +225,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 34 is a draft resource chapter. The chapter opens with "Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jeric...," moves through "Moses was one hundred twenty years old when he died. His eye was not dim, nor his strength gone.," and closes with "and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Isr...." Review this summary for fuller theological detail before approval.
+Moses climbs Mount Nebo and sees the land the Lord swore to Abraham, Isaac, and Jacob, but he does not enter it. Moses dies, the Lord buries him, Israel mourns, Joshua is filled with wisdom, and the book closes by honoring Moses as the prophet whom the Lord knew face to face.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his promise beyond one servant**: Moses dies, but the promised land and the Lord's plan continue.
+2. **The Lord knew Moses face to face**: Moses is remembered for the mighty work the Lord did through him.
 
 ## Memory Verses by Age
 
@@ -251,7 +251,3 @@ and the south, and the Plain of the valley of Jericho the city of palm trees, to
 
 ## Prayer
 Lord, help us understand Deuteronomy 34 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

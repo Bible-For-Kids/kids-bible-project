@@ -860,6 +860,92 @@ const STORY_REVISIONS = {
   },
 };
 
+Object.assign(STORY_REVISIONS, {
+  'Numbers 11:1': {
+    '5-7': 'The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord\'s fire burned among them and burned up some of the edge of the camp.',
+    '8-10': 'The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord\'s fire burned among them and consumed some of the edge of the camp.',
+  },
+  'Numbers 11:5': {
+    '5-7': 'We remember the fish we used to eat in Egypt for nothing. We remember the cucumbers, melons, leeks, onions, and garlic.',
+    '8-10': 'We remember the fish we ate in Egypt for nothing, along with the cucumbers, melons, leeks, onions, and garlic.',
+  },
+  'Numbers 11:12': {
+    '5-7': 'Did I give birth to all these people? Did I bring them into the world? Why do you tell me to carry them close to me, like a nurse carries a baby, all the way to the land you promised their fathers?',
+    '8-10': 'Did I conceive all these people? Did I give birth to them? Why do you tell me to carry them close to me, like a nurse carries a baby, to the land you promised their fathers?',
+  },
+  'Numbers 11:17': {
+    '5-7': 'I will come down and talk with you there. I will take some of the Spirit who is on you and put him on them. They will help carry the heavy work of leading the people, so you will not carry it alone.',
+    '8-10': 'I will come down and talk with you there. I will take some of the Spirit who is on you and put him on them. They will help carry the burden of the people with you, so you will not carry it alone.',
+  },
+  'Numbers 12:11': {
+    '5-7': 'Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.',
+    '8-10': 'Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.',
+  },
+  'Numbers 12:12': {
+    '5-7': 'Please do not let her be like someone already dying, with the body wasting away."',
+    '8-10': 'Please do not let her be like a child born already near death, with the body wasting away."',
+  },
+  'Numbers 13:1': {
+    all: 'The Lord spoke to Moses, saying,',
+  },
+  'Numbers 13:2': {
+    '5-7': '"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."',
+    '8-10': '"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."',
+  },
+  'Numbers 13:24': {
+    '5-7': 'That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.',
+    '8-10': 'That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.',
+  },
+  'Numbers 13:32': {
+    '5-7': 'They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.',
+    '8-10': 'They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.',
+  },
+  'Numbers 14:7': {
+    '5-7': 'They spoke to all the people of Israel and said, "The land we passed through to spy out is a very, very good land.',
+    '8-10': 'They spoke to all the people of Israel and said, "The land we passed through to spy out is an exceedingly good land.',
+  },
+  'Numbers 14:8': {
+    '5-7': 'If the Lord is pleased with us, he will bring us into that land and give it to us. It is a land flowing with milk and honey.',
+    '8-10': 'If the Lord is pleased with us, he will bring us into that land and give it to us, a land flowing with milk and honey.',
+  },
+  'Numbers 14:9': {
+    '5-7': 'Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."',
+    '8-10': 'Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."',
+  },
+  'Numbers 14:33': {
+    '5-7': 'Your children will wander in the wilderness for forty years. They will carry the result of your unfaithfulness until this generation has died in the wilderness.',
+    '8-10': 'Your children will wander in the wilderness for forty years. They will bear your unfaithfulness until this generation has died in the wilderness.',
+  },
+  'Numbers 14:34': {
+    '5-7': 'You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.',
+    '8-10': 'You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.',
+  },
+  'Numbers 20:12': {
+    '5-7': 'The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this whole group into the land I have given them."',
+    '8-10': 'The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this community into the land I have given them."',
+  },
+  'Numbers 26:53': {
+    '5-7': '"Divide the land among these tribes as their share, using the number of names that were counted.',
+    '8-10': '"Divide the land among these tribes as their inheritance, using the number of names that were counted.',
+  },
+  'Numbers 26:54': {
+    '5-7': 'Give a larger share of land to the larger tribe and a smaller share to the smaller tribe. Each tribe\'s share must fit the number of people counted.',
+    '8-10': 'Give a larger inheritance to the larger tribe and a smaller inheritance to the smaller tribe. Each tribe\'s inheritance must fit the number of people counted.',
+  },
+  'Numbers 26:55': {
+    '5-7': 'Even so, the land must be divided by lot. Each tribe must receive its share by its father\'s family name.',
+    '8-10': 'Even so, the land must be divided by lot. Each tribe must receive its inheritance by its father\'s family name.',
+  },
+  'Numbers 26:56': {
+    '5-7': 'The lot will help divide the land between the larger tribes and the smaller tribes."',
+    '8-10': 'The lot will help divide the inheritance between the larger tribes and the smaller tribes."',
+  },
+  'Numbers 33:54': {
+    '5-7': 'Divide the land by lot for your families. Give larger families more land and smaller families less land. Each family must receive the place the lot shows, according to its tribe.',
+    '8-10': 'Divide the land by lot for your families. Give larger families more inheritance and smaller families less inheritance. Each family must receive the place the lot shows, according to its tribe.',
+  },
+});
+
 main();
 
 function main() {
@@ -1109,7 +1195,7 @@ function polishNumbersText(text, ageRange, reference) {
     .replace(/\s+/g, ' ')
     .trim();
 
-  return STORY_REVISIONS[reference]?.[ageRange] || result;
+  return STORY_REVISIONS[reference]?.[ageRange] || STORY_REVISIONS[reference]?.all || result;
 }
 
 function ageTextPath(chapterNumber, ageRange) {

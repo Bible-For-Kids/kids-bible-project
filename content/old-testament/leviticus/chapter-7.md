@@ -1,7 +1,7 @@
 # Leviticus Chapter 7
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 7 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord continues instructions for guilt offerings and peace offerings, including how the priests receive their portions and how the people must eat the offering at the proper time.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -292,7 +292,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "But if the sacrifice of his offering is a special promise, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
 
 #### Ages 8-10
-"But if the sacrifice of his offering is a vow, or a free will offering, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
+"But if the sacrifice of his offering is a vow, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -324,10 +324,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:18 - If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it shall not be credited to him who offers it. It will be an abomination, and the soul who eats any of it will bear his iniquity.
 
 #### Ages 5-7
-If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a detestable thing, and the person who eats any of it will bear his sin.
+If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a hateful thing, and the person who eats any of it will bear his sin.
 
 #### Ages 8-10
-If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a detestable thing, and the person who eats any of it will bear his sin.
+If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a hateful thing, and the person who eats any of it will bear his sin.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -704,16 +704,16 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 7 is a draft resource chapter. The chapter opens with "This is the law of the guilt offering: It is most holy.," moves through "but the person who eats of the meat of the sacrifice of peace offerings that belongs to the Lord,...," and closes with "which the Lord commanded Moses in Mount Sinai in the day that he commanded the people of Israel t...." Review this summary for fuller theological detail before approval.
+The Lord continues instructions for guilt offerings and peace offerings, including how the priests receive their portions and how the people must eat the offering at the proper time. Israel must not treat holy food carelessly or eat blood or fat that belongs to the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Holy gifts must be treated rightly**: Food connected with worship is handled according to God's command.
+2. **God provides for his servants**: The priests receive portions from the offerings as the Lord appoints.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-In the place where they kill the burned offering, he must kill the offering for guilt; and its blood he must sprinkle around on the altar. - Leviticus 7:2
+In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar. - Leviticus 7:2
 
 ### Ages 8-10
 In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar. - Leviticus 7:2
@@ -730,7 +730,3 @@ In the place where they kill the burned offering, he must kill the guilt offerin
 
 ## Prayer
 Lord, help us understand Leviticus 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 10
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 10 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: The Lord gives Moses new tablets after the golden calf, and Moses places them in the ark.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -34,10 +34,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:2 - I will write on the tablets the words that were on the first tablets which you broke, and you shall put them in the ark."
 
 #### Ages 5-7
-I will write on the tablets the words that were on the first tablets which you broke, and you must put them in the ark."
+I will write on the tablets the words that were on the first tablets that you broke, and you must put them in the ark."
 
 #### Ages 8-10
-I will write on the tablets the words that were on the first tablets which you broke, and you must put them in the ark."
+I will write on the tablets the words that were on the first tablets that you broke, and you must put them in the ark."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -80,10 +80,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:5 - I turned and came down from the mountain, and put the tablets in the ark which I had made; and there they are as Yahweh commanded me.
 
 #### Ages 5-7
-I turned and came down from the mountain, and put the tablets in the ark which I had made; and there they are as the Lord commanded me.
+Then I turned and came down from the mountain. I put the tablets in the ark I had made, and there they are, just as the Lord commanded me.
 
 #### Ages 8-10
-I turned and came down from the mountain, and put the tablets in the ark which I had made; and there they are as the Lord commanded me.
+Then I turned and came down from the mountain. I put the tablets in the ark I had made, and there they are, just as the Lord commanded me.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -150,10 +150,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:9 - Therefore Levi has no portion nor inheritance with his brothers; Yahweh is his inheritance, according as Yahweh your God spoke to him.)
 
 #### Ages 5-7
-Therefore Levi has no portion nor inheritance with his brothers; the Lord is his inheritance, according as the Lord your God spoke to him.)
+Therefore Levi has no share of land with his brothers; the Lord is his inheritance, as the Lord your God spoke to him.)
 
 #### Ages 8-10
-Therefore Levi has no portion nor inheritance with his brothers; the Lord is his inheritance, according as the Lord your God spoke to him.)
+Therefore Levi has no share of land with his brothers; the Lord is his inheritance, as the Lord your God spoke to him.)
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -205,10 +205,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:12 - Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul,
 
 #### Ages 5-7
-Now, Israel, what does the Lord your God require of you, but to honor the Lord your God, to walk in all his ways, to love him, and to serve the Lord your God with all your heart and all your life,
+Now, Israel, what does the Lord your God ask from you? Honor the Lord your God, walk in all his ways, love him, serve the Lord your God with all your heart and all your life,
 
 #### Ages 8-10
-Now, Israel, what does the Lord your God require of you, but to honor the Lord your God, to walk in all his ways, to love him, and to serve the Lord your God with all your heart and all your life,
+Now, Israel, what does the Lord your God require from you? Honor the Lord your God, walk in all his ways, love him, and serve the Lord your God with all your heart and all your life,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -225,10 +225,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:13 - to keep Yahweh's commandments and statutes, which I command you today for your good?
 
 #### Ages 5-7
-to keep the Lord's commands and rules, which I command you today for your good?
+to keep the Lord's commands and rules, that I command you today for your good?
 
 #### Ages 8-10
-to keep the Lord's commands and rules, which I command you today for your good?
+to keep the Lord's commands and rules, that I command you today for your good?
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -314,10 +314,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:18 - He executes justice for the fatherless and widow and loves the foreigner in giving him food and clothing.
 
 #### Ages 5-7
-He executes justice for the fatherless and widow and loves the foreigner in giving him food and clothing.
+He does justice for children without fathers and for women whose husbands died, and he loves the foreigner by giving him food and clothing.
 
 #### Ages 8-10
-He executes justice for the fatherless and widow and loves the foreigner in giving him food and clothing.
+He does justice for children without fathers and for widows, and he loves the foreigner by giving him food and clothing.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -328,10 +328,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:19 - Therefore love the foreigner, for you were foreigners in the land of Egypt.
 
 #### Ages 5-7
-Therefore love the foreigner, for you were foreigners in the land of Egypt.
+So love the foreigner living among you, because you were foreigners in the land of Egypt.
 
 #### Ages 8-10
-Therefore love the foreigner, for you were foreigners in the land of Egypt.
+So love the foreigner, because you were foreigners in the land of Egypt.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -364,10 +364,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 10:21 - He is your praise, and he is your God, who has done for you these great and awesome things which your eyes have seen.
 
 #### Ages 5-7
-He is your praise, and he is your God, who has done for you these great and awesome things which your eyes have seen.
+He is your praise, and he is your God. Your own eyes saw him do great and awesome things for you.
 
 #### Ages 8-10
-He is your praise, and he is your God, who has done for you these great and awesome things which your eyes have seen.
+He is your praise, and he is your God. Your own eyes saw him do great and awesome things for you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -398,11 +398,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 10 is a draft resource chapter. The chapter opens with "At that time the Lord said to me, "Cut two stone tablets like the first, and come up to me onto t...," moves through "Now, Israel, what does the Lord your God require of you, but to honor the Lord your God, to walk...," and closes with "Your fathers went down into Egypt with seventy people; and now the Lord your God has made you as...." Review this summary for fuller theological detail before approval.
+The Lord gives Moses new tablets after the golden calf, and Moses places them in the ark. Then Moses teaches that the Lord requires Israel to honor him, walk in his ways, love him, serve him, keep his commands, and love the foreigner because the Lord loves the foreigner.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God renews covenant mercy**: The new tablets show that the Lord continues with his people after judgment.
+2. **God wants heart obedience**: The Lord calls Israel to love, serve, and remove stubbornness from the heart.
 
 ## Memory Verses by Age
 
@@ -424,7 +424,3 @@ So I made an ark of acacia wood, and cut two stone tablets like the first, and w
 
 ## Prayer
 Lord, help us understand Deuteronomy 10 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

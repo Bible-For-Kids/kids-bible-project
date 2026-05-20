@@ -1,7 +1,7 @@
 # Leviticus Chapter 27
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 27 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions about special promises, dedicated people, animals, houses, fields, and tithes.
 
 ## Important Keywords
 - holy: Set apart for God
@@ -582,19 +582,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 27 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "But if he dedicates his field after the Jubilee, then the priest must count to him the money acco...," and closes with "These are the commands which the Lord commanded Moses for the people of Israel on Mount Sinai.." Review this summary for fuller theological detail before approval.
+The Lord gives instructions about special promises, dedicated people, animals, houses, fields, and tithes. The chapter teaches that promises made to the Lord are serious and that what is devoted to him is holy.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Promises to God matter**: Israel must not treat special promises lightly.
+2. **What belongs to God is holy**: Dedicated gifts and tithes are handled according to the Lord's command.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight. - Leviticus 27:3
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place. - Leviticus 27:3
 
 ### Ages 8-10
-your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, according to the holy place weight. - Leviticus 27:3
+your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place. - Leviticus 27:3
 
 ## Discussion Questions by Age
 
@@ -608,7 +608,3 @@ your valuation of a male from twenty years old to sixty years old must be fifty 
 
 ## Prayer
 Lord, help us understand Leviticus 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

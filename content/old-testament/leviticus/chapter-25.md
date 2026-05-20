@@ -1,7 +1,7 @@
 # Leviticus Chapter 25
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 25 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives the Sabbath year and Jubilee, when the land rests, debts and property are addressed, and families may return to their land.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -69,10 +69,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 25:4 - but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to Yahweh. You shall not sow your field or prune your vineyard.
 
 #### Ages 5-7
-but in the seventh year there must be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
+but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
 
 #### Ages 8-10
-but in the seventh year there must be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
+but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -88,10 +88,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 25:5 - What grows of itself in your harvest you shall not reap, and you shall not gather the grapes of your undressed vine. It shall be a year of solemn rest for the land.
 
 #### Ages 5-7
-What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of solemn rest for the land.
+What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of quiet holy rest for the land.
 
 #### Ages 8-10
-What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of solemn rest for the land.
+What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of quiet holy rest for the land.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -164,10 +164,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 25:10 - You shall make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you; and each of you shall return to his own property, and each of you shall return to his family.
 
 #### Ages 5-7
-You must make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
+You must make the fiftieth year holy, and proclaim liberty throughout the land to all its people who live there. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
 
 #### Ages 8-10
-You must make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
+You must make the fiftieth year holy, and proclaim liberty throughout the land to all its people who live there. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -852,19 +852,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 25 is a draft resource chapter. The chapter opens with "The Lord said to Moses in Mount Sinai,," moves through "But if he isn't able to get it back for himself, then what he has sold must remain in the hand of...," and closes with "For to me the people of Israel are servants; they are my servants whom I brought out of the land...." Review this summary for fuller theological detail before approval.
+The Lord gives the Sabbath year and Jubilee, when the land rests, debts and property are addressed, and families may return to their land. Israel must not oppress one another, because the land belongs to the Lord and the people are his servants whom he brought out of Egypt.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The land belongs to God**: Israel lives in the land as people cared for by the Lord, not as owners above him.
+2. **God teaches mercy and release**: The Jubilee points to rest, return, and help for families in need.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-but in the seventh year there must be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard. - Leviticus 25:4
+but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard. - Leviticus 25:4
 
 ### Ages 8-10
-but in the seventh year there must be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard. - Leviticus 25:4
+but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard. - Leviticus 25:4
 
 ## Discussion Questions by Age
 
@@ -878,7 +878,3 @@ but in the seventh year there must be a Sabbath of solemn rest for the land, a S
 
 ## Prayer
 Lord, help us understand Leviticus 25 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

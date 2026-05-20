@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 17
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 17 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses warns against unacceptable sacrifices and idolatry, gives instructions for hard cases brought to priests and judges, and describes the future king.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 17:1 - You shall not sacrifice to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.
 
 #### Ages 5-7
-You must not sacrifice to the Lord your God an ox or a sheep in which is a defect or anything evil; for that is a detestable thing to the Lord your God.
+You must not sacrifice to the Lord your God an ox or a sheep where is a something wrong or anything wrong; for that is hateful to the Lord your God.
 
 #### Ages 8-10
-You must not sacrifice to the Lord your God an ox or a sheep in which is a defect or anything evil; for that is a detestable thing to the Lord your God.
+You must not sacrifice to the Lord your God an ox or a sheep where is a something wrong or anything wrong; for that is hateful to the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -58,10 +58,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:3 - and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, which I have not commanded,
 
 #### Ages 5-7
-and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, which I have not commanded,
+and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, that I have not commanded,
 
 #### Ages 8-10
-and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, which I have not commanded,
+and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, that I have not commanded,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -72,10 +72,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:4 - and you are told, and you have heard of it, then you shall inquire diligently. Behold, if it is true, and the thing certain, that such abomination is done in Israel,
 
 #### Ages 5-7
-and you are told, and you have heard of it, then you must inquire diligently. If it is true, and the report is certain, that such a detestable thing is done in Israel,
+and you are told, and you have heard of it, then you must inquire diligently. If it is true, and the report is certain, that such a hateful thing before the Lord is done in Israel,
 
 #### Ages 8-10
-and you are told, and you have heard of it, then you must inquire diligently. If it is true, and the report is certain, that such a detestable thing is done in Israel,
+and you are told, and you have heard of it, then you must inquire diligently. If it is true, and the report is certain, that such a hateful thing before the Lord is done in Israel,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -137,10 +137,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:8 - If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise, and go up to the place which Yahweh your God chooses.
 
 #### Ages 5-7
-If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy in your towns, then you must arise, and go up to the place that the Lord your God chooses.
+If a case is too hard for you to judge in your towns, whether it is about bloodshed, a legal claim, or an injury, then go up to the place the Lord your God chooses.
 
 #### Ages 8-10
-If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy in your towns, then you must arise, and go up to the place that the Lord your God chooses.
+If a case is too hard for you to judge in your towns, whether it is about bloodshed, a legal claim, or an injury, then go up to the place the Lord your God chooses.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -174,10 +174,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:10 - You shall do according to the decisions of the verdict which they shall give you from that place which Yahweh chooses. You shall observe to do according to all that they shall teach you.
 
 #### Ages 5-7
-You must do according to the decisions of the verdict which they must give you from that place that the Lord chooses. You will be careful to do according to all that they must teach you.
+You must do according to the decisions of the verdict that they must give you from that place that the Lord chooses. You will be careful to do according to everything that they must teach you.
 
 #### Ages 8-10
-You must do according to the decisions of the verdict which they must give you from that place that the Lord chooses. You will be careful to do according to all that they must teach you.
+You must do according to the decisions of the verdict that they must give you from that place that the Lord chooses. You will be careful to do according to everything that they must teach you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -192,10 +192,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:11 - According to the decisions of the law which they shall teach you, and according to the judgment which they shall tell you, you shall do. You shall not turn away from the sentence which they announce to you, to the right hand, nor to the left.
 
 #### Ages 5-7
-According to the decisions of the law which they must teach you, and according to the judgment which they must tell you, you must do. You must not turn away from the sentence which they announce to you, to the right hand, nor to the left.
+According to the decisions of the law that they must teach you, and according to the judgment that they must tell you, you must do. You must not turn away from the sentence that they announce to you, to the right hand, nor to the left.
 
 #### Ages 8-10
-According to the decisions of the law which they must teach you, and according to the judgment which they must tell you, you must do. You must not turn away from the sentence which they announce to you, to the right hand, nor to the left.
+According to the decisions of the law that they must teach you, and according to the judgment that they must tell you, you must do. You must not turn away from the sentence that they announce to you, to the right hand, nor to the left.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -264,10 +264,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:15 - you shall surely set him whom Yahweh your God chooses as king over yourselves. You shall set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother.
 
 #### Ages 5-7
-you must surely bring him whom the Lord your God chooses as king over yourselves. You must set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother.
+you must bring the one the Lord your God chooses as king over yourselves. You must set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother.
 
 #### Ages 8-10
-you must surely bring him whom the Lord your God chooses as king over yourselves. You must set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother.
+you must bring the one the Lord your God chooses as king over yourselves. You must set as king over you one from among your brothers. You may not put a foreigner over you, who is not your brother.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -316,10 +316,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:18 - It shall be, when he sits on the throne of his kingdom, that he shall write himself a copy of this law in a book, out of that which is before the Levitical priests.
 
 #### Ages 5-7
-It will be, when he sits on the throne of his kingdom, that he must write himself a copy of this law in a book, from what is before the Levitical priests.
+When the king sits on his throne, he must write for himself a copy of this law in a book, from the law kept by the priests, the Levites.
 
 #### Ages 8-10
-It will be, when he sits on the throne of his kingdom, that he must write himself a copy of this law in a book, from what is before the Levitical priests.
+When the king sits on his royal throne, he must write for himself a copy of this law in a book, from the law kept by the priests, the Levites.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -333,10 +333,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 17:19 - It shall be with him, and he shall read from it all the days of his life, that he may learn to fear Yahweh his God, to keep all the words of this law and these statutes, to do them;
 
 #### Ages 5-7
-It will be with him, and he must read from it all the days of his life, that he may learn to honor the Lord his God, to keep all the words of this law and these rules, to do them;
+It must stay with him, and he must read it all the days of his life, so he may learn to honor the Lord his God and carefully keep all the words of this law and these rules.
 
 #### Ages 8-10
-It will be with him, and he must read from it all the days of his life, that he may learn to honor the Lord his God, to keep all the words of this law and these rules, to do them;
+It must stay with him, and he must read it all the days of his life, so he may learn to honor the Lord his God and carefully keep all the words of this law and these rules.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -368,19 +368,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 17 is a draft resource chapter. The chapter opens with "You must not sacrifice to the Lord your God an ox or a sheep in which is a defect or anything evi...," moves through "According to the decisions of the law which they must teach you, and according to the judgment wh...," and closes with "that his heart not be lifted up above his brothers, and that he not turn away from the command to...." Review this summary for fuller theological detail before approval.
+Moses warns against unacceptable sacrifices and idolatry, gives instructions for hard cases brought to priests and judges, and describes the future king. The king must not multiply horses, wives, or wealth, but must write and read God's law so his heart stays humble.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Leaders stand under God's word**: Even a king must read the law and obey the Lord.
+2. **Justice must be careful**: Hard cases are to be brought before appointed servants and handled with reverence.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-You must not sacrifice to the Lord your God an ox or a sheep in which is a defect or anything evil; for that is a detestable thing to the Lord your God. - Deuteronomy 17:1
+You must not sacrifice to the Lord your God an ox or a sheep where is a something wrong or anything wrong; for that is hateful to the Lord your God. - Deuteronomy 17:1
 
 ### Ages 8-10
-You must not sacrifice to the Lord your God an ox or a sheep in which is a defect or anything evil; for that is a detestable thing to the Lord your God. - Deuteronomy 17:1
+You must not sacrifice to the Lord your God an ox or a sheep where is a something wrong or anything wrong; for that is hateful to the Lord your God. - Deuteronomy 17:1
 
 ## Discussion Questions by Age
 
@@ -394,7 +394,3 @@ You must not sacrifice to the Lord your God an ox or a sheep in which is a defec
 
 ## Prayer
 Lord, help us understand Deuteronomy 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

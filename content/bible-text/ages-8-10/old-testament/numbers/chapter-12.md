@@ -39,10 +39,10 @@ The Lord's anger burned against them; and he departed.
 The cloud departed from over the Tent; and Miriam was serious, as white as snow. Aaron looked at Miriam, and she was serious.
 
 ### Numbers 12:11
-Aaron said to Moses, "Oh, my lord, please don't count this sin against us, in which we have done foolishly, and in which we have sinned.
+Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.
 
 ### Numbers 12:12
-Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb."
+Please do not let her be like a child born already near death, with the body wasting away."
 
 ### Numbers 12:13
 Moses cried to the Lord, saying, "Heal her, God, I beg you!"

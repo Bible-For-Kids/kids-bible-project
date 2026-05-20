@@ -60,7 +60,7 @@ The flesh of the sacrifice of his peace offerings for thanksgiving must be eaten
 but what remains of the meat of the sacrifice on the third day must be burned with fire.
 
 ### Leviticus 7:18
-If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a detestable thing, and the person who eats any of it will bear his sin.
+If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a hateful thing, and the person who eats any of it will bear his sin.
 
 ### Leviticus 7:19
 "The meat that touches any thing not clean for worship must not be eaten. It must be burned with fire. As for the meat, everyone who is clean for worship may eat it;

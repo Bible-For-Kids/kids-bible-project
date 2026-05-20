@@ -21,16 +21,16 @@ The Lord your God himself will go over before you. He will destroy these nations
 The Lord will do to them as he did to Sihon and to Og, the kings of the Amorites, and to their land, when he destroyed them.
 
 ### Deuteronomy 31:5
-The Lord will deliver them up before you, and you must do to them according to all the command which I have commanded you.
+The Lord will give them over to you, and you must do to them according to all the command I have commanded you.
 
 ### Deuteronomy 31:6
-Be strong and courageous. Don't be afraid or scared of them; for the Lord your God himself goes with you. He will not fail you nor forsake you."
+Be strong and brave. Do not be afraid or tremble before them, because the Lord your God goes with you. He will not leave you or forsake you.
 
 ### Deuteronomy 31:7
 Moses called to Joshua, and said to him in the sight of all Israel, "Be strong and courageous, for you will go with this people into the land that the Lord has sworn to their ancestors to give them; and you must lead them to receive it as an inheritance.
 
 ### Deuteronomy 31:8
-The Lord himself goes before you. He will be with you. He will not fail you nor forsake you. Don't be afraid. Don't be discouraged."
+The Lord himself goes before you. He will be with you. He will not leave you or forsake you. Do not be afraid or discouraged.
 
 ### Deuteronomy 31:9
 Moses wrote this law and delivered it to the priests the sons of Levi, who bore the ark of the Lord's covenant, and to all the elders of Israel.
@@ -39,10 +39,10 @@ Moses wrote this law and delivered it to the priests the sons of Levi, who bore 
 Moses commanded them, saying, "At the end of every seven years, in the set time of the year of release, in the feast of booths,
 
 ### Deuteronomy 31:11
-when all Israel has come to appear before the Lord your God in the place which he will choose, you must read this law before all Israel in their hearing.
+when all Israel comes to appear before the Lord your God in the place he chooses, you must read this law before all Israel so they can hear it.
 
 ### Deuteronomy 31:12
-Assemble the people, the men and the women and the little ones, and the foreigners who are in your towns, that they may hear, learn, honor the Lord your God, and be careful to do all the words of this law,
+Gather the people, the men, women, little ones, and foreigners living in your towns, so they may hear, learn, honor the Lord your God, and carefully do all the words of this law.
 
 ### Deuteronomy 31:13
 and that their children, who have not known, may hear and learn to honor the Lord your God, as long as you live in the land where you go over the Jordan and take it."
@@ -54,13 +54,13 @@ The Lord said to Moses, "Your time to die is near. Call Joshua, and present your
 The Lord appeared in the Tent in a pillar of cloud, and the pillar of cloud stood over the Tent's door.
 
 ### Deuteronomy 31:16
-The Lord said to Moses, "You will die and rest with your ancestors. This people will rise up and live in sexual sin after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
+The Lord said to Moses, "You will die and rest with your ancestors. Then this people will rise up and run after the foreign gods of the land they are entering. They will forsake me and break my covenant that I made with them.
 
 ### Deuteronomy 31:17
-Then my anger will be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will come on them; so that they will say in that day, 'Haven't these evils come on us because our God is not among us?
+Then my anger will burn against them on that day. I will forsake them and hide my face from them. They will be swallowed up, and many evils and troubles will come on them. On that day they will say, "Have these evils come on us because our God is not among us?"
 
 ### Deuteronomy 31:18
-I will surely hide my face in that day for all the evil which they have done, in that they have turned to other gods.
+I will surely hide my face on that day because of all the evil they have done by turning to other gods.
 
 ### Deuteronomy 31:19
 "Now therefore write this song for yourselves, and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel.
@@ -90,10 +90,10 @@ Moses commanded the Levites, who bore the ark of the Lord's covenant, saying,
 For I know how you turn against God and how stubborn you are. While I am yet alive with you today, you have been rebellious against the Lord. How much more after my death?
 
 ### Deuteronomy 31:28
-Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
+Assemble to me all the elders of your tribes and your officials, that I may speak these words in their ears, and call heaven and earth to witness against them.
 
 ### Deuteronomy 31:29
-For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do what is evil in the Lord's sight, to provoke him to anger through the work of your hands."
+I know that after my death you will corrupt yourselves completely and turn away from the way I commanded you. Evil will happen to you in later days because you will do what is evil in the Lord's sight, provoking him to anger by the work of your hands."
 
 ### Deuteronomy 31:30
 Moses spoke in the ears of all the whole group of Israel the words of this song, until they were finished.

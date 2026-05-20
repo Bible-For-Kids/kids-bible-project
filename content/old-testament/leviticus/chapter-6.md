@@ -1,7 +1,7 @@
 # Leviticus Chapter 6
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 6 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for guilt when someone takes from another person, requiring confession, repayment, and an added amount.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -177,10 +177,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 6:10 - The priest shall put on his linen garment, and he shall put on his linen trousers upon his body; and he shall remove the ashes from where the fire has consumed the burnt offering on the altar, and he shall put them beside the altar.
 
 #### Ages 5-7
-The priest must put on his linen piece of clothing, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
+The priest must put on his linen robe, and he must put on his linen underclothes; and he must remove the ashes from where the fire has burned up the burned offering on the altar, and he must put them beside the altar.
 
 #### Ages 8-10
-The priest must put on his linen garment, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
+The priest must put on his linen garment, and he must put on his linen underclothes; and he must remove the ashes from where the fire has burned up the burned offering on the altar, and he must put them beside the altar.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -565,11 +565,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 6 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "That which is left of it Aaron and his sons must eat. It must be eaten without yeast in a holy pl...," and closes with "No sin offering, of which any of the blood is brought into the Tent of Meeting to make atonement...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions for guilt when someone takes from another person, requiring confession, repayment, and an added amount. He also teaches the priests how to care for the burned offering, grain offering, and sin offering, including the fire that must keep burning on the altar.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Wrong must be made right**: Repentance includes giving back what was taken whenever possible.
+2. **Holy service is careful work**: The priests must tend the altar and offerings as the Lord commands.
 
 ## Memory Verses by Age
 
@@ -591,7 +591,3 @@ or has found that which was lost, and lied about it, and swearing to a lie-in an
 
 ## Prayer
 Lord, help us understand Leviticus 6 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

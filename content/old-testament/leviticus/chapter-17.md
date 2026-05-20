@@ -1,7 +1,7 @@
 # Leviticus Chapter 17
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 17 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord commands Israel to bring sacrifices to the Tent of Meeting and not offer them in other places.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -302,11 +302,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 17 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "and doesn't bring it to the door of the Tent of Meeting to sacrifice it to the Lord, that man mus...," and closes with "But if he doesn't wash them, or bathe his body, then he must bear his guilt.' ." Review this summary for fuller theological detail before approval.
+The Lord commands Israel to bring sacrifices to the Tent of Meeting and not offer them in other places. He also forbids eating blood because the life of the flesh is in the blood, and God gives blood on the altar to make atonement.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Worship belongs to the Lord**: Israel may not mix the Lord's worship with false worship in the fields.
+2. **Blood points to life and atonement**: The Lord teaches that life belongs to him and forgiveness comes by his provision.
 
 ## Memory Verses by Age
 
@@ -328,7 +328,3 @@ The priest must sprinkle the blood on the Lord's altar at the door of the Tent o
 
 ## Prayer
 Lord, help us understand Leviticus 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

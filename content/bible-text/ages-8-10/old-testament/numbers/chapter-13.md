@@ -12,7 +12,7 @@ Numbers
 The Lord spoke to Moses, saying,
 
 ### Numbers 13:2
-"Send men, that they may spy out the land of Canaan, which I give to the people of Israel. Of every tribe of their fathers, you must send a man, every one a prince among them."
+"Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."
 
 ### Numbers 13:3
 Moses sent them from the wilderness of Paran according to the command of the Lord. All of them were men who were heads of the people of Israel.
@@ -78,7 +78,7 @@ They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and 
 They came to the valley of Eshcol, and cut down from there a branch with one cluster of grapes, and they bore it on a staff between two. They also brought some of the pomegranates and figs.
 
 ### Numbers 13:24
-That place was called the valley of Eshcol, because of the cluster which the people of Israel cut down from there.
+That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.
 
 ### Numbers 13:25
 They returned from spying out the land at the end of forty days.
@@ -102,7 +102,7 @@ Caleb quieted the people before Moses, and said, "Let's go up at once, and posse
 But the men who went up with him said, "We aren't able to go up against the people; for they are stronger than we."
 
 ### Numbers 13:32
-They brought up an bad report of the land which they had spied out to the people of Israel, saying, "The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people we saw in it are very tall men.
+They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.
 
 ### Numbers 13:33
 There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight."

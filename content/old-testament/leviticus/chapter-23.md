@@ -1,7 +1,7 @@
 # Leviticus Chapter 23
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 23 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives Israel his appointed times: the Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -55,10 +55,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:3 - " 'Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation; you shall do no kind of work. It is a Sabbath to Yahweh in all your dwellings.
 
 #### Ages 5-7
-"Work must be done for six days, but on the seventh day is a Sabbath of solemn rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
+"Work must be done for six days, but on the seventh day is a Sabbath of quiet holy rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
 
 #### Ages 8-10
-"Work must be done for six days, but on the seventh day is a Sabbath of solemn rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
+"Work must be done for six days, but on the seventh day is a Sabbath of quiet holy rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -456,10 +456,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:24 - "Speak to the children of Israel, saying, 'In the seventh month, on the first day of the month, there shall be a solemn rest for you, a memorial of blowing of trumpets, a holy convocation.
 
 #### Ages 5-7
-"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a solemn rest for you, a memorial of blowing of trumpets, a holy gathering.
+"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a quiet holy rest for you, a memorial of blowing of trumpets, a holy gathering.
 
 #### Ages 8-10
-"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a solemn rest for you, a memorial of blowing of trumpets, a holy gathering.
+"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a quiet holy rest for you, a memorial of blowing of trumpets, a holy gathering.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -596,10 +596,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:32 - It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the ninth day of the month at evening, from evening to evening, you shall keep your Sabbath."
 
 #### Ages 5-7
-It must be a Sabbath of solemn rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
+It must be a Sabbath of quiet holy rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
 
 #### Ages 8-10
-It must be a Sabbath of solemn rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
+It must be a Sabbath of quiet holy rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -668,10 +668,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:36 - Seven days you shall offer an offering made by fire to Yahweh. On the eighth day shall be a holy convocation to you. You shall offer an offering made by fire to Yahweh. It is a solemn assembly; you shall do no regular work.
 
 #### Ages 5-7
-Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a solemn gathering; you must do no regular work.
+Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a special holy gathering; you must do no regular work.
 
 #### Ages 8-10
-Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a solemn gathered people; you must do no regular work.
+Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a special holy gathering; you must do no regular work.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -713,7 +713,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your special promises, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
 #### Ages 8-10
-in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to the Lord.
+in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -728,10 +728,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:39 - " 'So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you shall keep the feast of Yahweh seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
 
 #### Ages 5-7
-"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a solemn rest, and on the eighth day there must be a solemn rest.
+"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a quiet holy rest, and on the eighth day there must be a quiet holy rest.
 
 #### Ages 8-10
-"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a solemn rest, and on the eighth day there must be a solemn rest.
+"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a quiet holy rest, and on the eighth day there must be a quiet holy rest.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -838,11 +838,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 23 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "The Lord spoke to Moses, saying,," and closes with "So Moses declared to the people of Israel the appointed feasts of the Lord.." Review this summary for fuller theological detail before approval.
+The Lord gives Israel his appointed times: the Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths. These days teach Israel to rest, remember rescue, give thanks, repent, and rejoice before the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God gives time for worship**: Israel's calendar is shaped around remembering the Lord and coming before him.
+2. **Rescue must be remembered**: The feasts keep God's saving works before the people and their children.
 
 ## Memory Verses by Age
 
@@ -864,7 +864,3 @@ In the first month, on the fourteenth day of the month in the evening, is the Lo
 
 ## Prayer
 Lord, help us understand Leviticus 23 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

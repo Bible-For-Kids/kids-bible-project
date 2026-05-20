@@ -36,16 +36,16 @@ You must not eat their meat. You must not touch their dead bodies. They are uncl
 "These you may eat of all that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat.
 
 ### Leviticus 11:10
-All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are a detestable thing to you,
+All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are things the Lord said you must not eat,
 
 ### Leviticus 11:11
 and you must detest them. You must not eat of their meat, and you must detest their dead bodies.
 
 ### Leviticus 11:12
-Whatever has no fins nor scales in the waters is a detestable thing to you.
+Whatever has no fins nor scales in the waters is something the Lord said you must not eat.
 
 ### Leviticus 11:13
-"You must detest these among the birds; they must not be eaten because they are a detestable thing: the eagle, the vulture, the black vulture,
+"You must detest these among the birds; they must not be eaten because they are a hateful thing: the eagle, the vulture, the black vulture,
 
 ### Leviticus 11:14
 the red kite, any kind of black kite,
@@ -66,7 +66,7 @@ the white owl, the desert owl, the osprey,
 the stork, any kind of heron, the hoopoe, and the bat.
 
 ### Leviticus 11:20
-"All flying insects that walk on all fours are a detestable thing to you.
+"All flying insects that walk on all fours are things the Lord said you must not eat.
 
 ### Leviticus 11:21
 Yet you may eat these: of all winged crawling things that walk on four legs, that have long, jointed legs for hopping on the earth.
@@ -75,7 +75,7 @@ Yet you may eat these: of all winged crawling things that walk on four legs, tha
 Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper.
 
 ### Leviticus 11:23
-But all winged crawling things that have four feet are a detestable thing to you.
+But all winged crawling things that have four feet are things the Lord said you must not eat.
 
 ### Leviticus 11:24
 "By these you will become unclean: whoever touches their dead body will be unclean until the evening.
@@ -129,10 +129,10 @@ But if water has been put on the seed, and part of their dead body falls on it, 
 Whoever eats of its dead body must wash his clothes, and be unclean until the evening. Whoever also carries its dead body must wash his clothes, and be unclean until the evening.
 
 ### Leviticus 11:41
-"Every small crawling thing that crawls on the earth is a detestable thing. It must not be eaten.
+"Every small crawling thing that crawls on the earth is a hateful thing. It must not be eaten.
 
 ### Leviticus 11:42
-Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a detestable thing.
+Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a hateful thing.
 
 ### Leviticus 11:43
 You must not make yourselves detestable with any small crawling thing that crawls. Do not make yourselves unclean with them.

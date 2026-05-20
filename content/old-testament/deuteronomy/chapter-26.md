@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 26
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 26 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses teaches Israel what to say when bringing firstfruits into the land: they must remember Jacob, Egypt, slavery, the Lord's rescue, and the good land.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 26:1 - It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, possess it, and dwell in it,
 
 #### Ages 5-7
-It will be, when you have come into the land that the Lord your God gives you for an inheritance, take it, and live in it,
+When you have come into the land that the Lord your God gives you as an inheritance, take it, and live in it,
 
 #### Ages 8-10
-It will be, when you have come into the land that the Lord your God gives you for an inheritance, take it, and live in it,
+When you have come into the land that the Lord your God gives you as an inheritance, take it, and live in it,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -35,10 +35,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:2 - that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose to cause his name to dwell there.
 
 #### Ages 5-7
-that you must take some of the first of all the fruit of the ground, which you must bring in from your land that the Lord your God gives you. You must put it in a basket, and will go to the place that the Lord your God must choose to cause his name to live there.
+that you must take some of the first of all the fruit of the ground, that you must bring in from your land that the Lord your God gives you. You must put it in a basket, and go to the place that the Lord your God will choose as the place for his name.
 
 #### Ages 8-10
-that you must take some of the first of all the fruit of the ground, which you must bring in from your land that the Lord your God gives you. You must put it in a basket, and will go to the place that the Lord your God must choose to cause his name to live there.
+that you must take some of the first of all the fruit of the ground, that you must bring in from your land that the Lord your God gives you. You must put it in a basket, and go to the place that the Lord your God will choose as the place for his name.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -95,10 +95,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:5 - You shall answer and say before Yahweh your God, "My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation.
 
 #### Ages 5-7
-You must answer and say before the Lord your God, "My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation.
+You must answer before the Lord your God, "My father was a wandering Aramean. He went down into Egypt with only a few people and lived there. There he became a great, mighty, and many-numbered nation.
 
 #### Ages 8-10
-You must answer and say before the Lord your God, "My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation.
+You must answer before the Lord your God, "My father was a wandering Aramean. He went down into Egypt with only a few people and lived there. There he became a great, mighty, and many-numbered nation.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -148,10 +148,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:8 - Yahweh brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;
 
 #### Ages 5-7
-The Lord brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;
+The Lord brought us out of Egypt with a mighty hand, an outstretched arm, great terror, signs, and wonders.
 
 #### Ages 8-10
-The Lord brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;
+The Lord brought us out of Egypt with a mighty hand, an outstretched arm, great terror, signs, and wonders.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -181,10 +181,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:10 - Now, behold, I have brought the first of the fruit of the ground, which you, Yahweh, have given me." You shall set it down before Yahweh your God, and worship before Yahweh your God.
 
 #### Ages 5-7
-Now, I have brought the first of the fruit of the ground, which you, the Lord, have given me." You must set it down before the Lord your God, and worship before the Lord your God.
+Now, I have brought the first of the fruit of the ground, that you, the Lord, have given me." You must set it down before the Lord your God, and worship before the Lord your God.
 
 #### Ages 8-10
-Now, I have brought the first of the fruit of the ground, which you, the Lord, have given me." You must set it down before the Lord your God, and worship before the Lord your God.
+Now, I have brought the first of the fruit of the ground, that you, the Lord, have given me." You must set it down before the Lord your God, and worship before the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -219,10 +219,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:12 - When you have finished tithing all the tithe of your increase in the third year, which is the year of tithing, then you shall give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat within your gates and be filled.
 
 #### Ages 5-7
-When you have finished tithing all the tithe of your increase in the third year, which is the year of tithing, then you must give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat in your towns and be filled.
+When you have finished tithing all the tithe of your increase in the third year, that is the year of tithing, then you must give it to the Levite, to the foreigner, to children without fathers, and to the woman whose husband died, that they may eat in your towns and be filled.
 
 #### Ages 8-10
-When you have finished tithing all the tithe of your increase in the third year, which is the year of tithing, then you must give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat in your towns and be filled.
+When you have finished tithing all the tithe of your increase in the third year, that is the year of tithing, then you must give it to the Levite, to the foreigner, to children without fathers, and to the woman whose husband died, that they may eat in your towns and be filled.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -233,10 +233,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:13 - You shall say before Yahweh your God, "I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your commandment which you have commanded me. I have not transgressed any of your commandments, neither have I forgotten them.
 
 #### Ages 5-7
-You must say before the Lord your God, "I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your command which you have commanded me. I have not transgressed any of your commands, neither have I forgotten them.
+You must say before the Lord your God, "I have taken the holy gifts out of my house and given them to the Levite, the foreigner, the child without a father, and the woman whose husband died, just as you commanded me. I have not disobeyed or forgotten any of your commands.
 
 #### Ages 8-10
-You must say before the Lord your God, "I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your command which you have commanded me. I have not transgressed any of your commands, neither have I forgotten them.
+You must say before the Lord your God, "I have taken the holy gifts out of my house and given them to the Levite, the foreigner, the child without a father, and the widow, just as you commanded me. I have not disobeyed or forgotten any of your commands.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -254,10 +254,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:14 - I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to Yahweh my God's voice. I have done according to all that you have commanded me.
 
 #### Ages 5-7
-I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to the Lord my God's voice. I have done according to all that you have commanded me.
+I have not eaten of it in my mourning, neither have I removed any of it while I was not clean for worship, nor given of it for dead people. I have listened to the Lord my God's voice. I have done according to everything that you have commanded me.
 
 #### Ages 8-10
-I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to the Lord my God's voice. I have done according to all that you have commanded me.
+I have not eaten of it in my mourning, neither have I removed any of it while I was not clean for worship, nor given of it for the dead. I have listened to the Lord my God's voice. I have done according to everything that you have commanded me.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -273,10 +273,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:15 - Look down from your holy habitation, from heaven, and bless your people Israel, and the ground which you have given us, as you swore to our fathers, a land flowing with milk and honey."
 
 #### Ages 5-7
-Look down from your holy habitation, from heaven, and bless your people Israel, and the ground which you have given us, as you swore to our ancestors, a land flowing with milk and honey."
+Look down from your holy habitation, from heaven, and bless your people Israel, and the ground that you have given us, as you swore to our ancestors, a land flowing with milk and honey."
 
 #### Ages 8-10
-Look down from your holy habitation, from heaven, and bless your people Israel, and the ground which you have given us, as you swore to our ancestors, a land flowing with milk and honey."
+Look down from your holy habitation, from heaven, and bless your people Israel, and the ground that you have given us, as you swore to our ancestors, a land flowing with milk and honey."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -329,10 +329,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 26:18 - Yahweh has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments.
 
 #### Ages 5-7
-The Lord has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commands.
+The Lord has declared today that you are a people for his own land, as he has promised you, and that you should keep all his commands.
 
 #### Ages 8-10
-The Lord has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commands.
+The Lord has declared today that you are a people for his own land, as he has promised you, and that you should keep all his commands.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -364,11 +364,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 26 is a draft resource chapter. The chapter opens with "It will be, when you have come into the land that the Lord your God gives you for an inheritance,...," moves through "Now, I have brought the first of the fruit of the ground, which you, the Lord, have given me." Yo...," and closes with "He will make you high above all nations that he has made, in praise, in name, and in honor; and t...." Review this summary for fuller theological detail before approval.
+Moses teaches Israel what to say when bringing firstfruits into the land: they must remember Jacob, Egypt, slavery, the Lord's rescue, and the good land. He also gives words for the third-year tithe and renews the covenant call to obey as the Lord's treasured people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Worship retells God's rescue**: The firstfruits confession remembers the Lord bringing Israel out of Egypt.
+2. **God's people answer with obedience**: Israel declares the Lord to be their God and receives his covenant word.
 
 ## Memory Verses by Age
 
@@ -390,7 +390,3 @@ You will come to the priest who will be in those days, and tell him, "I profess 
 
 ## Prayer
 Lord, help us understand Deuteronomy 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

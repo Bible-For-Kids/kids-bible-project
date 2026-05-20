@@ -27,7 +27,7 @@ The Lord spoke to Moses, saying,
 It must be eaten the same day you offer it, and on the next day. If anything remains until the third day, it must be burned with fire.
 
 ### Leviticus 19:7
-If it is eaten at all on the third day, it is a detestable thing. It will not be accepted;
+If it is eaten at all on the third day, it is a hateful thing. It will not be accepted;
 
 ### Leviticus 19:8
 but everyone who eats it carries his guilt, because he has profaned the holy thing of the Lord, and that person must be removed from his people.
@@ -66,7 +66,7 @@ You must not glean your vineyard, neither must you gather the fallen grapes of y
 "You must keep my rules. " 'You must not cross-breed different kinds of animals. " 'You must not sow your field with two kinds of seed; " 'Don't wear a garment made of two kinds of material.
 
 ### Leviticus 19:20
-"If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they must be punished. They must not be put to death, because she was not free.
+"If a man has relations with a slave woman who has been promised to another man, but she has not been bought back or given freedom, there must be punishment. They must not be put to death, because she was not free.
 
 ### Leviticus 19:21
 He must bring his guilt offering to the Lord, to the door of the Tent of Meeting, even a male sheep for a guilt offering.

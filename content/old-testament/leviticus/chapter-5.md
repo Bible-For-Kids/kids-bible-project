@@ -1,7 +1,7 @@
 # Leviticus Chapter 5
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 5 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord teaches Israel to tell the truth, confess sin, and bring offerings when they have become guilty.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -371,11 +371,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 5 is a draft resource chapter. The chapter opens with "If someone hears a public call to testify, and he has seen or knows what happened, he must tell t...," moves through "He must offer the second for a burned offering, according to the rule; and the priest must make a...," and closes with "It is a guilt offering. He is certainly guilty before the Lord.." Review this summary for fuller theological detail before approval.
+The Lord teaches Israel to tell the truth, confess sin, and bring offerings when they have become guilty. He also gives a way for poor people to bring smaller offerings, showing both the seriousness of sin and the mercy of God.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Truth matters to God**: A person who knows what happened must not hide the truth.
+2. **God remembers the poor**: The Lord provides offerings that poor families can bring.
 
 ## Memory Verses by Age
 
@@ -383,7 +383,7 @@ Leviticus 5 is a draft resource chapter. The chapter opens with "If someone hear
 If someone hears a public call to tell the truth, and he saw what happened or knows about it, he must speak up. If he stays quiet, he is guilty. - Leviticus 5:1
 
 ### Ages 8-10
-If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he bears his guilt. - Leviticus 5:1
+If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he carries guilt. - Leviticus 5:1
 
 ## Discussion Questions by Age
 
@@ -397,7 +397,3 @@ If someone hears a public call to testify, and he has seen or knows what happene
 
 ## Prayer
 Lord, help us understand Leviticus 5 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

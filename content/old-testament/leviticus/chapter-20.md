@@ -1,7 +1,7 @@
 # Leviticus Chapter 20
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 20 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives serious warnings and judgments against idolatry, forbidden family sins, and practices that defile the land.
 
 ## Important Keywords
 - cursed: Placed under judgment instead of blessing
@@ -212,10 +212,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 20:13 - " 'If a man lies with a male, as with a woman, both of them have committed an abomination. They shall surely be put to death. Their blood shall be upon themselves.
 
 #### Ages 5-7
-"If a man acts as only a husband and wife should with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
+"If a man acts as only a husband and wife should with a male, as with a woman, both of them have committed a hateful thing. They must surely be put to death. They are responsible for their own death.
 
 #### Ages 8-10
-"If a man has sexual relations with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
+"If a man has sexual relations with a male, as with a woman, both of them have committed a hateful thing. They must surely be put to death. They are responsible for their own death.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -439,11 +439,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 20 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "If a man takes a wife and her mother, it is wickedness. They must be burned with fire, both he an...," and closes with "A man or a woman that is a medium or is a wizard must surely be put to death. They must be stoned...." Review this summary for fuller theological detail before approval.
+The Lord gives serious warnings and judgments against idolatry, forbidden family sins, and practices that defile the land. Israel must be holy to the Lord, who separated them from the peoples to belong to him.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Sin is serious before God**: The chapter shows that rebellion against the holy Lord brings judgment.
+2. **God's people belong to him**: Israel is set apart because the Lord says, "You shall be holy to me."
 
 ## Memory Verses by Age
 
@@ -465,7 +465,3 @@ then I will set my face against that man and against his family, and will remove
 
 ## Prayer
 Lord, help us understand Leviticus 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

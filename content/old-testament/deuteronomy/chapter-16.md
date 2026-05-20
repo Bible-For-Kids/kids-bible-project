@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 16
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 16 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses teaches Israel to keep Passover, the Feast of Weeks, and the Feast of Booths at the place the Lord chooses.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -37,10 +37,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:2 - You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.
 
 #### Ages 5-7
-You must sacrifice the Passover to the Lord your God, of the flock and the herd, in the place that the Lord must choose to cause his name to live there.
+You must sacrifice the Passover to the Lord your God, of the flock and the herd, in the place that the Lord will choose as the place for his name.
 
 #### Ages 8-10
-You must sacrifice the Passover to the Lord your God, of the flock and the herd, in the place that the Lord must choose to cause his name to live there.
+You must sacrifice the Passover to the Lord your God, of the flock and the herd, in the place that the Lord will choose as the place for his name.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -75,10 +75,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:4 - No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
 
 #### Ages 5-7
-No yeast will be seen with you in all your borders seven days; neither must any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
+No yeast will be seen with you in all your borders seven days; neither must any of the meat, that you sacrifice the first day at evening, remain all night until the morning.
 
 #### Ages 8-10
-No yeast will be seen with you in all your borders seven days; neither must any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
+No yeast will be seen with you in all your borders seven days; neither must any of the meat, that you sacrifice the first day at evening, remain all night until the morning.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -113,10 +113,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:6 - but at the place which Yahweh your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
 
 #### Ages 5-7
-but at the place that the Lord your God must choose to cause his name to live in, there you must sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
+but at the place that the Lord your God will choose for his name to live in, there you must sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
 
 #### Ages 8-10
-but at the place that the Lord your God must choose to cause his name to live in, there you must sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
+but at the place that the Lord your God will choose for his name to live in, there you must sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -153,10 +153,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:8 - Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God. You shall do no work.
 
 #### Ages 5-7
-Six days you must eat unleavened bread. On the seventh day will be a solemn whole group to the Lord your God. You must do no work.
+Six days you must eat unleavened bread. On the seventh day will be a special holy gathering to the Lord your God. You must do no work.
 
 #### Ages 8-10
-Six days you must eat unleavened bread. On the seventh day will be a solemn gathered people to the Lord your God. You must do no work.
+Six days you must eat unleavened bread. On the seventh day will be a special holy gathering to the Lord your God. You must do no work.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -186,10 +186,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:10 - You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according to how Yahweh your God blesses you.
 
 #### Ages 5-7
-You must keep the feast of weeks to the Lord your God with a tribute of a free will offering of your hand, which you must give according to how the Lord your God blesses you.
+You must keep the feast of weeks to the Lord your God with a tribute of a gift someone chooses to bring of your hand, that you must give according to how the Lord your God blesses you.
 
 #### Ages 8-10
-You must keep the feast of weeks to the Lord your God with a tribute of a free will offering of your hand, which you must give according to how the Lord your God blesses you.
+You must keep the feast of weeks to the Lord your God with a tribute of a gift someone chooses to bring of your hand, that you must give according to how the Lord your God blesses you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -206,10 +206,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:11 - You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there.
 
 #### Ages 5-7
-You must rejoice before the Lord your God: you, your son, your daughter, your male servant, your female servant, the Levite who is in your towns, the foreigner, the fatherless, and the widow who are among you, in the place that the Lord your God must choose to cause his name to live there.
+You must rejoice before the Lord your God: you, your son, your daughter, your male servant, your female servant, the Levite who is in your towns, the foreigner, children without fathers, and the woman whose husband died, who are among you, in the place that the Lord your God will choose as the place for his name.
 
 #### Ages 8-10
-You must rejoice before the Lord your God: you, your son, your daughter, your male servant, your female servant, the Levite who is in your towns, the foreigner, the fatherless, and the widow who are among you, in the place that the Lord your God must choose to cause his name to live there.
+You must rejoice before the Lord your God: you, your son, your daughter, your male servant, your female servant, the Levite who is in your towns, the foreigner, children without fathers, and the woman whose husband died, who are among you, in the place that the Lord your God will choose as the place for his name.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -242,10 +242,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:13 - You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.
 
 #### Ages 5-7
-You must keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.
+You must keep the feast of booths seven days, after you have gathered in from your place where grain is separated and from your place where grapes are pressed.
 
 #### Ages 8-10
-You must keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.
+You must keep the feast of booths seven days, after you have gathered in from your place where grain is separated and from your place where grapes are pressed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -256,10 +256,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:14 - You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are within your gates.
 
 #### Ages 5-7
-You must rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are in your towns.
+You must rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, children without fathers, and the woman whose husband died, who are in your towns.
 
 #### Ages 8-10
-You must rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are in your towns.
+You must rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, children without fathers, and the woman whose husband died, who are in your towns.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -289,10 +289,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:16 - Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before Yahweh empty.
 
 #### Ages 5-7
-Three times in a year all of your males must appear before the Lord your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They must not appear before the Lord empty.
+Three times a year, all your males must appear before the Lord your God in the place he chooses: at the Feast of Bread Made Without Yeast, the Feast of Weeks, and the Feast of Booths. They must not appear before the Lord empty-handed.
 
 #### Ages 8-10
-Three times in a year all of your males must appear before the Lord your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They must not appear before the Lord empty.
+Three times a year, all your males must appear before the Lord your God in the place he chooses: at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Booths. They must not appear before the Lord empty-handed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -308,10 +308,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:17 - Every man shall give as he is able, according to Yahweh your God's blessing which he has given you.
 
 #### Ages 5-7
-Every person must give as he is able, according to the Lord your God's blessing which he has given you.
+Every person must give as he is able, according to the Lord your God's blessing that he has given you.
 
 #### Ages 8-10
-Every person must give as he is able, according to the Lord your God's blessing which he has given you.
+Every person must give as he is able, according to the Lord your God's blessing that he has given you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -328,10 +328,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:18 - You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
 
 #### Ages 5-7
-You must make judges and officers in all your towns, that the Lord your God gives you, according to your tribes; and they must judge the people with righteous judgment.
+You must make judges and officials in all your towns, that the Lord your God gives you, according to your tribes; and they must judge the people with righteous judgment.
 
 #### Ages 8-10
-You must make judges and officers in all your towns, that the Lord your God gives you, according to your tribes; and they must judge the people with righteous judgment.
+You must make judges and officials in all your towns, that the Lord your God gives you, according to your tribes; and they must judge the people with righteous judgment.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -348,10 +348,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:19 - You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.
 
 #### Ages 5-7
-You must not pervert justice. You must not show partiality. You must not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the person who is right.
+You must not pervert justice. You must not show favorites. You must not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the person who is right.
 
 #### Ages 8-10
-You must not pervert justice. You must not show partiality. You must not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the person who is right.
+You must not pervert justice. You must not show favorites. You must not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the person who is right.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -362,10 +362,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:20 - You shall follow that which is altogether just, that you may live and inherit the land which Yahweh your God gives you.
 
 #### Ages 5-7
-You must follow that which is altogether just, that you may live and receive as an inheritance the land that the Lord your God gives you.
+Follow justice, only justice, so you may live and receive the land the Lord your God gives you.
 
 #### Ages 8-10
-You must follow that which is altogether just, that you may live and receive as an inheritance the land that the Lord your God gives you.
+Follow justice, only justice, so you may live and receive the land the Lord your God gives you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -381,10 +381,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 16:21 - You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God's altar, which you shall make for yourselves.
 
 #### Ages 5-7
-You must not plant for yourselves an Asherah pole of any kind of tree beside the Lord your God's altar, which you must make for yourselves.
+You must not plant for yourselves an Asherah pole of any kind of tree beside the Lord your God's altar, that you must make for yourselves.
 
 #### Ages 8-10
-You must not plant for yourselves an Asherah pole of any kind of tree beside the Lord your God's altar, which you must make for yourselves.
+You must not plant for yourselves an Asherah pole of any kind of tree beside the Lord your God's altar, that you must make for yourselves.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -417,11 +417,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 16 is a draft resource chapter. The chapter opens with "Keep the month of Abib, and keep the Passover to the Lord your God; for in the month of Abib the...," moves through "You must remember that you were a slave in Egypt. You must keep and do these rules.," and closes with "Neither must you set yourself up a sacred stone that the Lord your God hates.." Review this summary for fuller theological detail before approval.
+Moses teaches Israel to keep Passover, the Feast of Weeks, and the Feast of Booths at the place the Lord chooses. He also commands judges to do justice without favoritism or bribes and warns against worship objects the Lord hates.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The feasts remember rescue and provision**: Israel's calendar teaches them to rejoice before the Lord.
+2. **Justice matters in God's land**: Judges must not twist what is right for money or favoritism.
 
 ## Memory Verses by Age
 
@@ -443,7 +443,3 @@ Keep the month of Abib, and keep the Passover to the Lord your God; for in the m
 
 ## Prayer
 Lord, help us understand Deuteronomy 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

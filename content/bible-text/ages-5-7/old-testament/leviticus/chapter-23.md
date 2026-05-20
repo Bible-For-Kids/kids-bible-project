@@ -15,7 +15,7 @@ The Lord spoke to Moses, saying,
 "Speak to the people of Israel, and tell them, 'The set feasts of the Lord, which you must proclaim to be holy gatherings, even these are my set feasts.
 
 ### Leviticus 23:3
-"Work must be done for six days, but on the seventh day is a Sabbath of solemn rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
+"Work must be done for six days, but on the seventh day is a Sabbath of quiet holy rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
 
 ### Leviticus 23:4
 "These are the set feasts of the Lord, even holy gatherings, which you must proclaim in their appointed season.
@@ -78,7 +78,7 @@ You must make proclamation on the same day that there must be a holy gathering t
 The Lord spoke to Moses, saying,
 
 ### Leviticus 23:24
-"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a solemn rest for you, a memorial of blowing of trumpets, a holy gathering.
+"Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a quiet holy rest for you, a memorial of blowing of trumpets, a holy gathering.
 
 ### Leviticus 23:25
 You must do no regular work. You must offer an offering burned on the altar to the Lord.' "
@@ -102,7 +102,7 @@ Whoever does any kind of work in that same day, I will destroy that person from 
 You must do no kind of work: it is a lasting rule for all your generations in all your dwellings.
 
 ### Leviticus 23:32
-It must be a Sabbath of solemn rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
+It must be a Sabbath of quiet holy rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
 
 ### Leviticus 23:33
 The Lord spoke to Moses, saying,
@@ -114,7 +114,7 @@ The Lord spoke to Moses, saying,
 On the first day there must be a holy gathering. You must do no regular work.
 
 ### Leviticus 23:36
-Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a solemn gathering; you must do no regular work.
+Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a special holy gathering; you must do no regular work.
 
 ### Leviticus 23:37
 "These are the appointed feasts of the Lord which you must proclaim to be holy gatherings, to offer an offering burned on the altar to the Lord, a burned offering, a grain gift, a sacrifice, and drink gifts, each on its own day-
@@ -123,7 +123,7 @@ Seven days you must offer an offering burned on the altar to the Lord. On the ei
 in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your special promises, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
 ### Leviticus 23:39
-"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a solemn rest, and on the eighth day there must be a solemn rest.
+"So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a quiet holy rest, and on the eighth day there must be a quiet holy rest.
 
 ### Leviticus 23:40
 You must take on the first day the fruit of majestic trees, branches of palm trees, and boughs of thick trees, and willows of the brook; and you must rejoice before the Lord your God seven days.

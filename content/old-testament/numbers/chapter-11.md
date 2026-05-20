@@ -16,10 +16,10 @@ Numbers follows Israel through the wilderness, showing the people counted, teste
 **Original Reference**: Numbers 11:1 - The people were complaining in the ears of Yahweh. When Yahweh heard it, his anger burned; and Yahweh's fire burned among them, and consumed some of the outskirts of the camp.
 
 #### Ages 5-7
-The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; and the Lord's fire burned among them, and consumed some of the outskirts of the camp.
+The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord's fire burned among them and burned up some of the edge of the camp.
 
 #### Ages 8-10
-The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; and the Lord's fire burned among them, and consumed some of the outskirts of the camp.
+The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord's fire burned among them and consumed some of the edge of the camp.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -88,10 +88,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 11:5 - We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic;
 
 #### Ages 5-7
-We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic;
+We remember the fish we used to eat in Egypt for nothing. We remember the cucumbers, melons, leeks, onions, and garlic.
 
 #### Ages 8-10
-We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic;
+We remember the fish we ate in Egypt for nothing, along with the cucumbers, melons, leeks, onions, and garlic.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -208,10 +208,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 11:12 - Have I conceived all this people? Have I brought them out, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?'
 
 #### Ages 5-7
-Have I conceived all this people? Have I brought them out, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?
+Did I give birth to all these people? Did I bring them into the world? Why do you tell me to carry them close to me, like a nurse carries a baby, all the way to the land you promised their fathers?
 
 #### Ages 8-10
-Have I conceived all this people? Have I brought them out, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?
+Did I conceive all these people? Did I give birth to them? Why do you tell me to carry them close to me, like a nurse carries a baby, to the land you promised their fathers?
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -284,10 +284,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 11:17 - I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they shall bear the burden of the people with you, that you don't bear it yourself alone.
 
 #### Ages 5-7
-I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they must bear the burden of the people with you, that you don't bear it yourself alone.
+I will come down and talk with you there. I will take some of the Spirit who is on you and put him on them. They will help carry the heavy work of leading the people, so you will not carry it alone.
 
 #### Ages 8-10
-I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they must bear the burden of the people with you, that you don't bear it yourself alone.
+I will come down and talk with you there. I will take some of the Spirit who is on you and put him on them. They will help carry the burden of the people with you, so you will not carry it alone.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -298,10 +298,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 11:18 - "Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of Yahweh, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore Yahweh will give you meat, and you will eat.
 
 #### Ages 5-7
-"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of the Lord, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
+"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept where the Lord heard them, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
 
 #### Ages 8-10
-"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of the Lord, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
+"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept where the Lord heard them, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -607,10 +607,10 @@ The people complain, the Lord judges, and Moses cries out under the weight of le
 ## Memory Verses by Age
 
 ### Ages 5-7
-The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; and the Lord's fire burned among them, and consumed some of the outskirts of the camp. - Numbers 11:1
+The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord's fire burned among them and burned up some of the edge of the camp. - Numbers 11:1
 
 ### Ages 8-10
-The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; and the Lord's fire burned among them, and consumed some of the outskirts of the camp. - Numbers 11:1
+The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord's fire burned among them and consumed some of the edge of the camp. - Numbers 11:1
 
 ## Discussion Questions by Age
 

@@ -218,10 +218,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 20:12 - Yahweh said to Moses and Aaron, "Because you didn't believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them."
 
 #### Ages 5-7
-The Lord said to Moses and Aaron, "Because you didn't believe in me, to make holy me in the eyes of the people of Israel, therefore you must not bring this whole group into the land which I have given them."
+The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this whole group into the land I have given them."
 
 #### Ages 8-10
-The Lord said to Moses and Aaron, "Because you didn't believe in me, to make holy me in the eyes of the people of Israel, therefore you must not bring this gathered people into the land which I have given them."
+The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this community into the land I have given them."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

@@ -111,7 +111,7 @@ and their grain offering and their drink offerings for the bulls, for the male s
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and its drink offering.
 
 ### Numbers 29:35
-"On the eighth day you must have a solemn gathered people. You must do no regular work;
+"On the eighth day you must have a special holy gathering. You must do no regular work;
 
 ### Numbers 29:36
 but you must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: one bull, one male sheep, seven male lambs a year old with nothing wrong with them;

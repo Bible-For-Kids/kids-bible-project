@@ -481,7 +481,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 15:26 - All the congregation of the children of Israel shall be forgiven, as well as the stranger who lives as a foreigner among them; for with regard to all the people, it was done unwittingly.
 
 #### Ages 5-7
-All the people of the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
+All the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
 
 #### Ages 8-10
 All the community of the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.

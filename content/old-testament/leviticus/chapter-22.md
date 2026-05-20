@@ -1,7 +1,7 @@
 # Leviticus Chapter 22
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 22 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord teaches priests how to handle holy food and who may eat it.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -512,7 +512,7 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 Whether it is a cow or female sheep, you must not kill it and its young both in one day.
 
 #### Ages 8-10
-Whether it is a cow or ewe, you must not kill it and its young both in one day.
+Whether it is a cow or female sheep, you must not kill it and its young both in one day.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -615,19 +615,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 22 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "The Lord spoke to Moses, saying,," and closes with "who brought you out of the land of Egypt, to be your God. I am the Lord.." Review this summary for fuller theological detail before approval.
+The Lord teaches priests how to handle holy food and who may eat it. He also commands Israel to bring offerings without defect, because the Lord's holy name must not be profaned among the people he rescued from Egypt.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Holy things must be handled carefully**: Priests and families must not treat what belongs to the Lord as ordinary.
+2. **God is worthy of the best**: Offerings brought to the Lord must not be careless or defective.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever being unclean he has- - Leviticus 22:5
+or if he touches a small crawling thing that makes him not clean for worship, or touches a person whose condition can make him not clean for worship. - Leviticus 22:5
 
 ### Ages 8-10
-or whoever touches any small crawling thing whereby he may be made unclean, or a man from whom he may become unclean, whatever being unclean he has- - Leviticus 22:5
+or if he touches a small crawling thing that makes him unclean, or touches a person whose uncleanness can make him unclean. - Leviticus 22:5
 
 ## Discussion Questions by Age
 
@@ -641,7 +641,3 @@ or whoever touches any small crawling thing whereby he may be made unclean, or a
 
 ## Prayer
 Lord, help us understand Leviticus 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

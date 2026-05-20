@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 19
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 19 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses commands cities of refuge so someone who kills without meaning to may run to safety until judgment is heard.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -35,10 +35,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:2 - you shall set apart three cities for yourselves in the middle of your land, which Yahweh your God gives you to possess.
 
 #### Ages 5-7
-you must set apart three cities for yourselves in the middle of your land, that the Lord your God gives you to possess.
+then set apart three cities for yourselves in the middle of the land the Lord your God gives you to take.
 
 #### Ages 8-10
-you must set apart three cities for yourselves in the middle of your land, that the Lord your God gives you to possess.
+then set apart three cities for yourselves in the middle of the land the Lord your God gives you to take.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -73,10 +73,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:4 - This is the case of the man slayer who shall flee there and live: Whoever kills his neighbor unintentionally, and didn't hate him in time past—
 
 #### Ages 5-7
-This is the case of the person who killed someone who must flee there and live: Whoever kills his neighbor unintentionally, and didn't hate him in time past-
+This is the rule for someone who kills another person without meaning to and may run there and live: he did not hate the person before.
 
 #### Ages 8-10
-This is the case of the person who killed someone who must flee there and live: Whoever kills his neighbor unintentionally, and didn't hate him in time past-
+This is the rule for someone who kills another person without meaning to and may flee there and live: he did not hate the person before.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -87,10 +87,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:5 - as when a man goes into the forest with his neighbor to chop wood and his hand swings the ax to cut down the tree, and the head slips from the handle and hits his neighbor so that he dies—he shall flee to one of these cities and live.
 
 #### Ages 5-7
-as when a man goes into the forest with his neighbor to chop wood and his hand swings the ax to cut down the tree, and the head slips from the handle and hits his neighbor so that he dies-he must flee to one of these cities and live.
+For example, a man may go with his neighbor into the forest to cut wood. As his hand swings the ax to cut down a tree, the iron head may slip off the handle and hit his neighbor so that he dies. That man may run to one of these cities and live.
 
 #### Ages 8-10
-as when a man goes into the forest with his neighbor to chop wood and his hand swings the ax to cut down the tree, and the head slips from the handle and hits his neighbor so that he dies-he must flee to one of these cities and live.
+For example, a man may go with his neighbor into the forest to cut wood. As his hand swings the ax to cut down a tree, the iron head may slip off the handle and hit his neighbor so that he dies. That man may run to one of these cities and live.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -101,10 +101,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:6 - Otherwise, the avenger of blood might pursue the man slayer while hot anger is in his heart and overtake him, because the way is long, and strike him mortally, even though he was not worthy of death, because he didn't hate him in time past.
 
 #### Ages 5-7
-Otherwise, the avenger of blood might pursue the person who killed someone while hot anger is in his heart and overtake him, because the way is long, and strike him mortally, even though he was not worthy of death, because he didn't hate him in time past.
+Otherwise, the close relative who avenges the death might chase the person who killed someone while his anger is hot. If the road is too long, he might catch him and strike him down, even though the man did not deserve death, because he had not hated the person before.
 
 #### Ages 8-10
-Otherwise, the avenger of blood might pursue the person who killed someone while hot anger is in his heart and overtake him, because the way is long, and strike him mortally, even though he was not worthy of death, because he didn't hate him in time past.
+Otherwise, the close relative who avenges the death might chase the person who killed someone while his anger is hot. If the road is too long, he might catch him and strike him down, even though the man did not deserve death, because he had not hated the person before.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -151,10 +151,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:9 - and if you keep all this commandment to do it, which I command you today, to love Yahweh your God, and to walk ever in his ways, then you shall add three cities more for yourselves, in addition to these three.
 
 #### Ages 5-7
-and if you keep all this command to do it, which I command you today, to love the Lord your God, and to walk ever in his ways, then you must add three cities more for yourselves, in addition to these three.
+and if you keep all this command to do it, that I command you today, to love the Lord your God, and to walk ever in his ways, then you must add three cities more for yourselves, in addition to these three.
 
 #### Ages 8-10
-and if you keep all this command to do it, which I command you today, to love the Lord your God, and to walk ever in his ways, then you must add three cities more for yourselves, in addition to these three.
+and if you keep all this command to do it, that I command you today, to love the Lord your God, and to walk ever in his ways, then you must add three cities more for yourselves, in addition to these three.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -171,10 +171,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:10 - This is so that innocent blood will not be shed in the middle of your land which Yahweh your God gives you for an inheritance, leaving blood guilt on you.
 
 #### Ages 5-7
-This is so that innocent blood will not be shed in the middle of your land that the Lord your God gives you for an inheritance, leaving blood guilt on you.
+Then innocent blood will not be shed in the middle of the land the Lord your God gives you as an inheritance, and bloodguilt will not be on you.
 
 #### Ages 8-10
-This is so that innocent blood will not be shed in the middle of your land that the Lord your God gives you for an inheritance, leaving blood guilt on you.
+Then innocent blood will not be shed in the middle of the land the Lord your God gives you as an inheritance, and bloodguilt will not be on you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -219,10 +219,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:13 - Your eye shall not pity him, but you shall purge the innocent blood from Israel that it may go well with you.
 
 #### Ages 5-7
-Your eye must not pity him, but you must purge the innocent blood from Israel so things may go well with you.
+You must not show pity to him. Remove the guilt of innocent blood from Israel, so things may go well with you.
 
 #### Ages 8-10
-Your eye must not pity him, but you must purge the innocent blood from Israel so things may go well with you.
+You must not show pity to him. Remove the guilt of innocent blood from Israel, so things may go well with you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -236,10 +236,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:14 - You shall not remove your neighbor's landmark, which they of old time have set, in your inheritance which you shall inherit, in the land that Yahweh your God gives you to possess.
 
 #### Ages 5-7
-You must not remove your neighbor's landmark, which they of old time have set, in your inheritance which you must receive as an inheritance, in the land that the Lord your God gives you to possess.
+You must not remove your neighbor's landmark, that they of old time have set, in your inheritance that you must receive as an inheritance, in the land that the Lord your God gives you to take.
 
 #### Ages 8-10
-You must not remove your neighbor's landmark, which they of old time have set, in your inheritance which you must receive as an inheritance, in the land that the Lord your God gives you to possess.
+You must not remove your neighbor's landmark, that they of old time have set, in your inheritance that you must receive as an inheritance, in the land that the Lord your God gives you to take.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -255,10 +255,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:15 - One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.
 
 #### Ages 5-7
-One witness must not rise up against a man for any sin, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, must a matter be established.
+One witness alone must not stand against someone for any wrong or any sin. A matter must be confirmed by two or three witnesses.
 
 #### Ages 8-10
-One witness must not rise up against a man for any sin, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, must a matter be established.
+One witness alone must not stand against someone for any wrong or any sin. A matter must be confirmed by two or three witnesses.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -286,10 +286,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 19:17 - then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days;
 
 #### Ages 5-7
-then both the men, between whom the controversy is, must stand before the Lord, before the priests and the judges who will be in those days;
+then both people in the dispute must stand before the Lord, before the priests and judges serving in those days.
 
 #### Ages 8-10
-then both the men, between whom the controversy is, must stand before the Lord, before the priests and the judges who will be in those days;
+then both people in the dispute must stand before the Lord, before the priests and judges serving in those days.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -363,19 +363,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 19 is a draft resource chapter. The chapter opens with "When the Lord your God cuts off the nations whose land the Lord your God gives you, and you succe...," moves through "But if any man hates his neighbor, lies in wait for him, rises up against him, strikes him mortal...," and closes with "Your eyes must not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.." Review this summary for fuller theological detail before approval.
+Moses commands cities of refuge so someone who kills without meaning to may run to safety until judgment is heard. He also protects boundary markers, requires more than one witness, and commands truthful justice against false witnesses.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Justice distinguishes accident from murder**: The refuge cities protect life while the truth is examined.
+2. **Truth needs faithful witnesses**: One person alone cannot decide a serious case.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-you must set apart three cities for yourselves in the middle of your land, that the Lord your God gives you to possess. - Deuteronomy 19:2
+then set apart three cities for yourselves in the middle of the land the Lord your God gives you to take. - Deuteronomy 19:2
 
 ### Ages 8-10
-you must set apart three cities for yourselves in the middle of your land, that the Lord your God gives you to possess. - Deuteronomy 19:2
+then set apart three cities for yourselves in the middle of the land the Lord your God gives you to take. - Deuteronomy 19:2
 
 ## Discussion Questions by Age
 
@@ -389,7 +389,3 @@ you must set apart three cities for yourselves in the middle of your land, that 
 
 ## Prayer
 Lord, help us understand Deuteronomy 19 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

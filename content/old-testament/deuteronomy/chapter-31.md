@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 31
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 31 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses tells Israel he will not cross the Jordan and publicly strengthens Joshua to lead.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -55,7 +55,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 The Lord your God himself will go over before you. He will destroy these nations from before you, and you must drive them out. Joshua will go over before you, as the Lord has spoken.
 
 #### Ages 8-10
-The Lord your God himself will go over before you. He will destroy these nations from before you, and you must dispossess them. Joshua will go over before you, as the Lord has spoken.
+The Lord your God himself will go over before you. He will destroy these nations from before you, and you must drive out them. Joshua will go over before you, as the Lord has spoken.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -89,10 +89,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:5 - Yahweh will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you.
 
 #### Ages 5-7
-The Lord will deliver them up before you, and you must do to them according to all the command which I have commanded you.
+The Lord will give them over to you, and you must do to them according to all the command I have commanded you.
 
 #### Ages 8-10
-The Lord will deliver them up before you, and you must do to them according to all the command which I have commanded you.
+The Lord will give them over to you, and you must do to them according to all the command I have commanded you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -108,10 +108,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:6 - Be strong and courageous. Don't be afraid or scared of them; for Yahweh your God himself is who goes with you. He will not fail you nor forsake you."
 
 #### Ages 5-7
-Be strong and courageous. Don't be afraid or scared of them; for the Lord your God himself goes with you. He will not fail you nor forsake you."
+Be strong and brave. Do not be afraid or tremble before them, because the Lord your God goes with you. He will not leave you or forsake you.
 
 #### Ages 8-10
-Be strong and courageous. Don't be afraid or scared of them; for the Lord your God himself goes with you. He will not fail you nor forsake you."
+Be strong and courageous. Do not be afraid or tremble before them, because the Lord your God goes with you. He will not leave you or forsake you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -147,10 +147,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:8 - Yahweh himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don't be afraid. Don't be discouraged."
 
 #### Ages 5-7
-The Lord himself goes before you. He will be with you. He will not fail you nor forsake you. Don't be afraid. Don't be discouraged."
+The Lord himself goes before you. He will be with you. He will not leave you or forsake you. Do not be afraid or discouraged.
 
 #### Ages 8-10
-The Lord himself goes before you. He will be with you. He will not fail you nor forsake you. Don't be afraid. Don't be discouraged."
+The Lord himself goes before you. He will be with you. He will not leave you or forsake you. Do not be afraid or discouraged.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -203,10 +203,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:11 - when all Israel has come to appear before Yahweh your God in the place which he will choose, you shall read this law before all Israel in their hearing.
 
 #### Ages 5-7
-when all Israel has come to appear before the Lord your God in the place which he will choose, you must read this law before all Israel in their hearing.
+when all Israel comes to appear before the Lord your God in the place he chooses, you must read this law before all Israel so they can hear it.
 
 #### Ages 8-10
-when all Israel has come to appear before the Lord your God in the place which he will choose, you must read this law before all Israel in their hearing.
+when all Israel comes to appear before the Lord your God in the place he chooses, you must read this law before all Israel so they can hear it.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -224,10 +224,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:12 - Assemble the people, the men and the women and the little ones, and the foreigners who are within your gates, that they may hear, learn, fear Yahweh your God, and observe to do all the words of this law,
 
 #### Ages 5-7
-Assemble the people, the men and the women and the little ones, and the foreigners who are in your towns, that they may hear, learn, honor the Lord your God, and be careful to do all the words of this law,
+Gather the people, the men, women, little ones, and foreigners living in your towns, so they may hear, learn, honor the Lord your God, and carefully do all the words of this law.
 
 #### Ages 8-10
-Assemble the people, the men and the women and the little ones, and the foreigners who are in your towns, that they may hear, learn, honor the Lord your God, and be careful to do all the words of this law,
+Gather the people, the men, women, little ones, and foreigners living in your towns, so they may hear, learn, honor the Lord your God, and carefully do all the words of this law.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -300,10 +300,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:16 - Yahweh said to Moses, "Behold, you shall sleep with your fathers. This people will rise up and play the prostitute after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
 
 #### Ages 5-7
-The Lord said to Moses, "You will die and rest with your ancestors. This people will rise up and live in sexual sin after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
+The Lord said to Moses, "You will die and rest with your ancestors. Then this people will rise up and run after the foreign gods of the land they are entering. They will forsake me and break my covenant that I made with them.
 
 #### Ages 8-10
-The Lord said to Moses, "You will die and rest with your ancestors. This people will rise up and live in sexual sin after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
+The Lord said to Moses, "You will die and rest with your ancestors. Then this people will rise up and prostitute themselves after the foreign gods of the land they are entering. They will forsake me and break my covenant that I made with them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -321,10 +321,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:17 - Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall come on them; so that they will say in that day, 'Haven't these evils come on us because our God is not among us?'
 
 #### Ages 5-7
-Then my anger will be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will come on them; so that they will say in that day, 'Haven't these evils come on us because our God is not among us?
+Then my anger will burn against them on that day. I will forsake them and hide my face from them. They will be swallowed up, and many evils and troubles will come on them. On that day they will say, "Have these evils come on us because our God is not among us?"
 
 #### Ages 8-10
-Then my anger will be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will come on them; so that they will say in that day, 'Haven't these evils come on us because our God is not among us?
+Then my anger will burn against them on that day. I will forsake them and hide my face from them. They will be swallowed up, and many evils and troubles will come on them. On that day they will say, "Have these evils come on us because our God is not among us?"
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -338,10 +338,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:18 - I will surely hide my face in that day for all the evil which they have done, in that they have turned to other gods.
 
 #### Ages 5-7
-I will surely hide my face in that day for all the evil which they have done, in that they have turned to other gods.
+I will surely hide my face on that day because of all the evil they have done by turning to other gods.
 
 #### Ages 8-10
-I will surely hide my face in that day for all the evil which they have done, in that they have turned to other gods.
+I will surely hide my face on that day because of all the evil they have done by turning to other gods.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -517,10 +517,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:28 - Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
 
 #### Ages 5-7
-Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
+Assemble to me all the elders of your tribes and your officials, that I may speak these words in their ears, and call heaven and earth to witness against them.
 
 #### Ages 8-10
-Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
+Assemble to me all the elders of your tribes and your officials, that I may speak these words in their ears, and call heaven and earth to witness against them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -531,10 +531,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 31:29 - For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in Yahweh's sight, to provoke him to anger through the work of your hands."
 
 #### Ages 5-7
-For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do what is evil in the Lord's sight, to provoke him to anger through the work of your hands."
+I know that after my death you will corrupt yourselves completely and turn away from the way I commanded you. Evil will happen to you in later days because you will do what is evil in the Lord's sight, provoking him to anger by the work of your hands."
 
 #### Ages 8-10
-For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do what is evil in the Lord's sight, to provoke him to anger through the work of your hands."
+I know that after my death you will corrupt yourselves completely and turn away from the way I commanded you. Evil will happen to you in later days because you will do what is evil in the Lord's sight, provoking him to anger by the work of your hands."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -565,11 +565,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 31 is a draft resource chapter. The chapter opens with "Moses went and spoke these words to all Israel.," moves through "The Lord said to Moses, "You will die and rest with your ancestors. This people will rise up and...," and closes with "Moses spoke in the ears of all the gathered people of Israel the words of this song, until they w...." Review this summary for fuller theological detail before approval.
+Moses tells Israel he will not cross the Jordan and publicly strengthens Joshua to lead. He writes the law, commands it to be read every seven years, and receives the Lord's warning that Israel will turn away, so the song will stand as a witness.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God stays with his people**: Moses will die, but the Lord goes before Israel and Joshua.
+2. **God's word must be heard by every generation**: Men, women, children, and foreigners are to hear the law read aloud.
 
 ## Memory Verses by Age
 
@@ -591,7 +591,3 @@ Moses went and spoke these words to all Israel. - Deuteronomy 31:1
 
 ## Prayer
 Lord, help us understand Deuteronomy 31 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

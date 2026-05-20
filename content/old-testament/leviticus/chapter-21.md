@@ -1,7 +1,7 @@
 # Leviticus Chapter 21
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 21 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives special holiness instructions for the priests, including mourning, marriage, family conduct, and who may serve near the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -426,19 +426,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 21 is a draft resource chapter. The chapter opens with "The Lord said to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'A priest must...," moves through "He must take a wife in her virginity.," and closes with "So Moses spoke to Aaron, and to his sons, and to all the people of Israel.." Review this summary for fuller theological detail before approval.
+The Lord gives special holiness instructions for the priests, including mourning, marriage, family conduct, and who may serve near the altar. Priests bear the Lord's holy name and must treat their service with reverence.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Holy service has holy boundaries**: The priests have special responsibilities because they serve near the Lord's altar.
+2. **God's name must be honored**: Priestly life is meant to show reverence for the Lord.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean. - Leviticus 21:3
+or for his unmarried sister who is close to him and has never had a husband. For her, he may do what makes him not clean for worship. - Leviticus 21:3
 
 ### Ages 8-10
-and for his virgin sister who is near to him, who has had no husband; for her he may make himself unclean. - Leviticus 21:3
+or for his unmarried sister who is close to him and has never had a husband. For her, he may make himself unclean. - Leviticus 21:3
 
 ## Discussion Questions by Age
 
@@ -452,7 +452,3 @@ and for his virgin sister who is near to him, who has had no husband; for her he
 
 ## Prayer
 Lord, help us understand Leviticus 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

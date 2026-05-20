@@ -1,7 +1,7 @@
 # Leviticus Chapter 1
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 1 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord calls to Moses from the Tent of Meeting and gives instructions for burned offerings from the herd, flock, or birds.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -336,11 +336,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 1 is a draft resource chapter. The chapter opens with "The Lord called to Moses, and spoke to him from the Tent of Meeting, saying,," moves through "but he must wash its inner parts and its legs with water. The priest must burn all of it on the a...," and closes with "He must tear it by its wings, but must not divide it apart. The priest must burn it on the altar,...." Review this summary for fuller theological detail before approval.
+The Lord calls to Moses from the Tent of Meeting and gives instructions for burned offerings from the herd, flock, or birds. Each offering is brought before the Lord in the way he commands, showing that worship and atonement come by God's provision, not by human invention.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God makes a way to come near**: The offering points to atonement, where God provides a way for sin to be covered.
+2. **Worship follows God's word**: The details show that Israel may not worship the Lord however they choose.
 
 ## Memory Verses by Age
 
@@ -362,7 +362,3 @@ He must lay his hand on the head of the burned offering, and it will be accepted
 
 ## Prayer
 Lord, help us understand Leviticus 1 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

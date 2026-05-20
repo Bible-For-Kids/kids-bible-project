@@ -57,7 +57,7 @@ For if you turn away from after him, he will yet again leave them in the wildern
 They came near to him, and said, "We will build sheepfolds here for our animals, and cities for our little ones;
 
 ### Numbers 32:17
-but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the inhabitants of the land.
+but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the people who live there of the land.
 
 ### Numbers 32:18
 We will not return to our houses until the people of Israel have all received their inheritance.

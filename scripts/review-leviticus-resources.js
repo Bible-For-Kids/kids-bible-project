@@ -11,6 +11,201 @@ const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 const CHAPTERS = Array.from({ length: 27 }, (_, index) => index + 1);
 
+const BOOK_OVERVIEW =
+  'Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God\'s covenant people are to live as holy among the nations.';
+
+const RESOURCE_DATA = {
+  1: {
+    summary: 'The Lord calls to Moses from the Tent of Meeting and gives instructions for burned offerings from the herd, flock, or birds. Each offering is brought before the Lord in the way he commands, showing that worship and atonement come by God\'s provision, not by human invention.',
+    lessons: [
+      ['God makes a way to come near', 'The offering points to atonement, where God provides a way for sin to be covered.'],
+      ['Worship follows God\'s word', 'The details show that Israel may not worship the Lord however they choose.'],
+    ],
+  },
+  2: {
+    summary: 'The Lord gives instructions for grain offerings made with flour, oil, incense, and salt, but without yeast or honey burned on the altar. Part is burned before the Lord, and the rest is given to the priests as a holy portion.',
+    lessons: [
+      ['God receives thankful gifts', 'The grain offering teaches Israel to bring food from his provision back to him in worship.'],
+      ['God remembers his covenant', 'Salt in the offering reminds Israel that worship is tied to the covenant God made with his people.'],
+    ],
+  },
+  3: {
+    summary: 'The Lord gives instructions for peace offerings from cattle, sheep, or goats. The fat belongs to the Lord, and Israel must not eat blood, because life belongs to God.',
+    lessons: [
+      ['Peace with God is precious', 'The peace offering teaches that fellowship with the Lord is a holy gift.'],
+      ['Life belongs to God', 'The command about blood teaches Israel to treat life with reverence.'],
+    ],
+  },
+  4: {
+    summary: 'The Lord gives offerings for sins done without knowing it, whether by a priest, the whole community, a leader, or one of the people. The blood of the offering is handled carefully, and the priest makes atonement so the sinner may be forgiven.',
+    lessons: [
+      ['Sin still matters when people did not mean it', 'God teaches Israel that hidden or mistaken sin still needs atonement.'],
+      ['God provides forgiveness', 'The priest makes atonement according to the Lord\'s command, and forgiveness is promised.'],
+    ],
+  },
+  5: {
+    summary: 'The Lord teaches Israel to tell the truth, confess sin, and bring offerings when they have become guilty. He also gives a way for poor people to bring smaller offerings, showing both the seriousness of sin and the mercy of God.',
+    lessons: [
+      ['Truth matters to God', 'A person who knows what happened must not hide the truth.'],
+      ['God remembers the poor', 'The Lord provides offerings that poor families can bring.'],
+    ],
+  },
+  6: {
+    summary: 'The Lord gives instructions for guilt when someone takes from another person, requiring confession, repayment, and an added amount. He also teaches the priests how to care for the burned offering, grain offering, and sin offering, including the fire that must keep burning on the altar.',
+    lessons: [
+      ['Wrong must be made right', 'Repentance includes giving back what was taken whenever possible.'],
+      ['Holy service is careful work', 'The priests must tend the altar and offerings as the Lord commands.'],
+    ],
+  },
+  7: {
+    summary: 'The Lord continues instructions for guilt offerings and peace offerings, including how the priests receive their portions and how the people must eat the offering at the proper time. Israel must not treat holy food carelessly or eat blood or fat that belongs to the Lord.',
+    lessons: [
+      ['Holy gifts must be treated rightly', 'Food connected with worship is handled according to God\'s command.'],
+      ['God provides for his servants', 'The priests receive portions from the offerings as the Lord appoints.'],
+    ],
+  },
+  8: {
+    summary: 'Moses gathers the people and sets apart Aaron and his sons for priestly service. He washes them, clothes them, anoints the holy tent and altar, and offers the sacrifices the Lord commanded.',
+    lessons: [
+      ['God appoints worship leaders', 'Aaron and his sons do not take the priesthood for themselves; the Lord sets them apart.'],
+      ['Holiness is received from God', 'The priests are washed, clothed, and anointed before serving.'],
+    ],
+  },
+  9: {
+    summary: 'On the eighth day, Aaron begins priestly service and offers sacrifices for himself and the people. The Lord\'s glory appears, fire comes from before the Lord, and the people fall on their faces in worship.',
+    lessons: [
+      ['God receives worship his way', 'The offerings are made as Moses commanded from the Lord.'],
+      ['God\'s presence is awesome', 'The people see the Lord\'s glory and respond with reverence.'],
+    ],
+  },
+  10: {
+    summary: 'Nadab and Abihu offer unauthorized fire before the Lord and die before him, showing that holy service must not be treated carelessly. The Lord then teaches Aaron and the priests to distinguish between holy and common, clean and unclean, and to teach Israel his commands.',
+    lessons: [
+      ['God is holy', 'The Lord must be honored by those who come near him.'],
+      ['Teachers must handle God\'s word carefully', 'The priests must help Israel know what the Lord has spoken.'],
+    ],
+  },
+  11: {
+    summary: 'The Lord gives Israel food laws about animals, fish, birds, insects, and crawling things. These laws teach Israel to distinguish clean from unclean and to remember, "Be holy, for I am holy."',
+    lessons: [
+      ['God teaches his people holiness', 'Even daily food reminded Israel that they belonged to the holy Lord.'],
+      ['God makes distinctions', 'Israel must learn what the Lord calls clean and not clean for worship.'],
+    ],
+  },
+  12: {
+    summary: 'The Lord gives instructions for a mother after childbirth and for the offerings brought when her time of cleansing is complete. The law includes a smaller offering for a family that cannot afford a lamb.',
+    lessons: [
+      ['God cares for family life', 'Birth and worship are brought under the Lord\'s holy care.'],
+      ['God provides for poor families', 'A mother who cannot bring a lamb may bring birds instead.'],
+    ],
+  },
+  13: {
+    summary: 'The Lord gives priests instructions for examining serious skin disease and marks of mildew in clothes. The priest must look carefully, wait when needed, and decide whether the person or cloth is clean or not clean for worship.',
+    lessons: [
+      ['God cares about holiness in the camp', 'Sickness and spreading marks must be handled carefully among God\'s people.'],
+      ['Careful judgment protects people', 'The priest must examine before declaring a person clean or not clean.'],
+    ],
+  },
+  14: {
+    summary: 'The Lord gives the ceremony for restoring a person healed from serious skin disease and the rules for mildew in a house. The priest examines, cleanses, and makes atonement so the person or house may be declared clean.',
+    lessons: [
+      ['Restoration is a gift', 'A person once outside the camp may be brought back when the Lord provides cleansing.'],
+      ['God cares about homes and worship', 'Even a house is examined so uncleanness does not spread among the people.'],
+    ],
+  },
+  15: {
+    summary: 'The Lord gives instructions about bodily flows that make a person not clean for worship and the washings or offerings connected with them. These laws protect the holy place and teach Israel that ordinary life must be brought before the holy Lord.',
+    lessons: [
+      ['God is holy in every part of life', 'The Lord teaches Israel that worship is not separated from daily life.'],
+      ['God provides cleansing', 'The laws include ways for people to wash, wait, and return to worship.'],
+    ],
+  },
+  16: {
+    summary: 'After the death of Aaron\'s sons, the Lord gives the Day of Atonement. Once each year, the high priest enters the Most Holy Place with blood, makes atonement for himself, the holy place, and Israel, and sends away the live goat as a sign that the people\'s sins are carried away.',
+    lessons: [
+      ['Atonement is God\'s gift', 'Only the way God commands can cover sin before the holy Lord.'],
+      ['God removes sin from his people', 'The live goat pictures sin being carried away from the camp.'],
+    ],
+  },
+  17: {
+    summary: 'The Lord commands Israel to bring sacrifices to the Tent of Meeting and not offer them in other places. He also forbids eating blood because the life of the flesh is in the blood, and God gives blood on the altar to make atonement.',
+    lessons: [
+      ['Worship belongs to the Lord', 'Israel may not mix the Lord\'s worship with false worship in the fields.'],
+      ['Blood points to life and atonement', 'The Lord teaches that life belongs to him and forgiveness comes by his provision.'],
+    ],
+  },
+  18: {
+    summary: 'The Lord warns Israel not to copy the practices of Egypt or Canaan and gives boundaries for family and marriage purity. Israel must keep the Lord\'s commands so the land is not defiled as it was by the nations before them.',
+    lessons: [
+      ['God\'s people must not copy evil customs', 'The Lord calls Israel to follow his ways, not the practices around them.'],
+      ['God protects family holiness', 'The boundaries in this chapter guard marriage, family, and the covenant community.'],
+    ],
+  },
+  19: {
+    summary: 'The Lord calls all Israel to be holy because he is holy. The chapter teaches worship, honesty, care for the poor and the foreigner, love for neighbor, just business, respect for parents and the elderly, and separation from false practices.',
+    lessons: [
+      ['Holiness touches everyday life', 'God\'s commands reach homes, fields, courts, shops, and friendships.'],
+      ['Love your neighbor', 'The Lord commands Israel not only to avoid harm but to seek what is right for others.'],
+    ],
+  },
+  20: {
+    summary: 'The Lord gives serious warnings and judgments against idolatry, forbidden family sins, and practices that defile the land. Israel must be holy to the Lord, who separated them from the peoples to belong to him.',
+    lessons: [
+      ['Sin is serious before God', 'The chapter shows that rebellion against the holy Lord brings judgment.'],
+      ['God\'s people belong to him', 'Israel is set apart because the Lord says, "You shall be holy to me."'],
+    ],
+  },
+  21: {
+    summary: 'The Lord gives special holiness instructions for the priests, including mourning, marriage, family conduct, and who may serve near the altar. Priests bear the Lord\'s holy name and must treat their service with reverence.',
+    lessons: [
+      ['Holy service has holy boundaries', 'The priests have special responsibilities because they serve near the Lord\'s altar.'],
+      ['God\'s name must be honored', 'Priestly life is meant to show reverence for the Lord.'],
+    ],
+  },
+  22: {
+    summary: 'The Lord teaches priests how to handle holy food and who may eat it. He also commands Israel to bring offerings without defect, because the Lord\'s holy name must not be profaned among the people he rescued from Egypt.',
+    lessons: [
+      ['Holy things must be handled carefully', 'Priests and families must not treat what belongs to the Lord as ordinary.'],
+      ['God is worthy of the best', 'Offerings brought to the Lord must not be careless or defective.'],
+    ],
+  },
+  23: {
+    summary: 'The Lord gives Israel his appointed times: the Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths. These days teach Israel to rest, remember rescue, give thanks, repent, and rejoice before the Lord.',
+    lessons: [
+      ['God gives time for worship', 'Israel\'s calendar is shaped around remembering the Lord and coming before him.'],
+      ['Rescue must be remembered', 'The feasts keep God\'s saving works before the people and their children.'],
+    ],
+  },
+  24: {
+    summary: 'The Lord commands oil for the lamps and bread for the table before him. Then a man blasphemes the Lord\'s name, and God gives judgment, teaching Israel that his name is holy and justice must be measured rightly.',
+    lessons: [
+      ['God\'s name is holy', 'The Lord must not be spoken of with contempt.'],
+      ['Justice belongs to God', 'Punishment must follow the Lord\'s command, not personal revenge.'],
+    ],
+  },
+  25: {
+    summary: 'The Lord gives the Sabbath year and Jubilee, when the land rests, debts and property are addressed, and families may return to their land. Israel must not oppress one another, because the land belongs to the Lord and the people are his servants whom he brought out of Egypt.',
+    lessons: [
+      ['The land belongs to God', 'Israel lives in the land as people cared for by the Lord, not as owners above him.'],
+      ['God teaches mercy and release', 'The Jubilee points to rest, return, and help for families in need.'],
+    ],
+  },
+  26: {
+    summary: 'The Lord sets before Israel blessings for covenant obedience and warnings for covenant disobedience. If they rebel, judgment will come; yet if they confess their sin, the Lord will remember his covenant with Abraham, Isaac, and Jacob.',
+    lessons: [
+      ['God keeps his covenant seriously', 'Obedience and rebellion both matter before the Lord.'],
+      ['God remembers mercy', 'Even after judgment, the Lord promises to remember his covenant.'],
+    ],
+  },
+  27: {
+    summary: 'The Lord gives instructions about special promises, dedicated people, animals, houses, fields, and tithes. The chapter teaches that promises made to the Lord are serious and that what is devoted to him is holy.',
+    lessons: [
+      ['Promises to God matter', 'Israel must not treat special promises lightly.'],
+      ['What belongs to God is holy', 'Dedicated gifts and tithes are handled according to the Lord\'s command.'],
+    ],
+  },
+};
+
 const STORY_REVISIONS = {
   'Leviticus 2:1': {
     '5-7': '"When someone brings a grain gift to the Lord, the gift must be fine flour. He must pour oil on it and put sweet-smelling incense on it.',
@@ -215,6 +410,10 @@ const STORY_REVISIONS = {
   'Leviticus 19:31': {
     '5-7': '"Do not turn to people who try to talk to spirits or seek out people who use magic. Do not let them make you not clean for worship. I am the Lord your God.',
     '8-10': '"Do not turn to mediums or wizards. Do not seek them out, to be made unclean by them. I am the Lord your God.',
+  },
+  'Leviticus 19:20': {
+    '5-7': '"If a man acts in the way only a husband and wife should with a slave girl who has been promised to another man, but she has not been bought back or set free, there must be punishment. They must not be put to death, because she was not free.',
+    '8-10': '"If a man has relations with a slave woman who has been promised to another man, but she has not been bought back or given freedom, there must be punishment. They must not be put to death, because she was not free.',
   },
   'Leviticus 13:2': {
     '5-7': '"If a man has a swelling, a scab, or a bright spot on his skin, and it looks like a serious skin disease, he must be brought to Aaron the priest or to one of Aaron\'s sons, the priests.',
@@ -722,6 +921,9 @@ function polishLeviticusText(text, ageRange, reference) {
     .replace(/\bthe piece of a piece of cedar wood\b/g, 'the piece of cedar wood')
     .replace(/\bunclean place outside of the city\b/g, 'place outside the city for things not clean for worship')
     .replace(/\bunclean place outside the city\b/g, 'place outside the city for things not clean for worship')
+    .replace(/\bfree will offerings\b/g, 'gifts people choose to bring')
+    .replace(/\bfree will offering\b/g, 'gift someone chooses to bring')
+    .replace(/\bewe\b/g, 'female sheep')
     .replace(/\bnot be made unclean\b/g, 'not become unclean')
     .replace(/\bbe made unclean\b/g, 'become unclean');
 
@@ -804,6 +1006,10 @@ function polishLeviticusText(text, ageRange, reference) {
       .replace(/\bfree will offering\b/g, 'gift someone chooses to bring')
       .replace(/\bvows\b/g, 'special promises')
       .replace(/\bvow\b/g, 'special promise')
+      .replace(/\bdetestable customs\b/g, 'hateful customs')
+      .replace(/\bdetestable things\b/g, 'hateful things')
+      .replace(/\bdetestable thing\b/g, 'hateful thing')
+      .replace(/\bYou must detest these among the birds\b/g, 'These are the birds the Lord said you must not eat')
       .replace(/\bewe\b/g, 'female sheep')
       .replace(/\bgarment\b/g, 'piece of clothing')
       .replace(/\bgarments\b/g, 'clothes')
@@ -836,6 +1042,16 @@ function polishLeviticusText(text, ageRange, reference) {
     .replace(/\bnot be clean for worship(?: for worship)+\b/g, 'not be clean for worship')
     .replace(/\bnot clean for worship(?: for worship)+\b/g, 'not clean for worship')
     .replace(/\bclean for worship(?: for worship)+\b/g, 'clean for worship')
+    .replace(/\blinen piece of clothing\b/g, 'linen robe')
+    .replace(/\blinen trousers upon his body\b/g, 'linen underclothes')
+    .replace(/\bdetestable customs\b/g, 'hateful customs')
+    .replace(/\bdetestable things\b/g, 'hateful things')
+    .replace(/\bdetestable thing\b/g, 'hateful thing')
+    .replace(/\bthat is a hateful thing to you\b/g, 'that the Lord said you must not eat')
+    .replace(/\bare a hateful thing to you\b/g, 'are things the Lord said you must not eat')
+    .replace(/\bis a hateful thing to you\b/g, 'is something the Lord said you must not eat')
+    .replace(/\ba hateful thing to you\b/g, 'something the Lord said you must not eat')
+    .replace(/\bIt will be a hateful thing\b/g, 'It will be a hateful thing')
     .replace(/\ba small measured amount of of\b/g, 'a small measured amount of')
     .replace(/\ban place outside\b/g, 'a place outside')
     .replace(/\ban place for\b/g, 'a place for')
@@ -847,7 +1063,33 @@ function polishLeviticusText(text, ageRange, reference) {
     .replace(/\s+/g, ' ')
     .trim();
 
-  return STORY_REVISIONS[reference]?.[ageRange] || result;
+  const override = STORY_REVISIONS[reference]?.[ageRange] || STORY_REVISIONS[reference]?.all;
+  return override ? finalPolish(override) : result;
+}
+
+function finalPolish(text) {
+  return String(text)
+    .replace(/\b(?:sweet-smelling\s+)+incense\b/g, 'sweet-smelling incense')
+    .replace(/\bwill be not clean for worship\b/g, 'will not be clean for worship')
+    .replace(/\bwill become not clean for worship\b/g, 'will not be clean for worship')
+    .replace(/\bnot clean for worship(?: for worship)+\b/g, 'not clean for worship')
+    .replace(/\bclean for worship(?: for worship)+\b/g, 'clean for worship')
+    .replace(/\bdetestable customs\b/g, 'hateful customs')
+    .replace(/\bdetestable things\b/g, 'hateful things')
+    .replace(/\bdetestable thing\b/g, 'hateful thing')
+    .replace(/\bfree will offerings\b/g, 'gifts people choose to bring')
+    .replace(/\bfree will offering\b/g, 'gift someone chooses to bring')
+    .replace(/\bewe\b/g, 'female sheep')
+    .replace(/\ba small measured amount of of\b/g, 'a small measured amount of')
+    .replace(/\ban place outside\b/g, 'a place outside')
+    .replace(/\ban place for\b/g, 'a place for')
+    .replace(/\ban small\b/g, 'a small')
+    .replace(/\ba offering\b/g, 'an offering')
+    .replace(/\ban guilt offering\b/g, 'a guilt offering')
+    .replace(/\bthe the\b/g, 'the')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function ageTextPath(chapterNumber, ageRange) {
@@ -900,7 +1142,69 @@ function updateResourceChapter(chapterNumber, ageTexts) {
     content = replaceResourceAgeText(content, reference, '8-10', age810);
   }
 
+  content = replaceMemoryVerseText(content, '5-7', ageTexts['5-7']);
+  content = replaceMemoryVerseText(content, '8-10', ageTexts['8-10']);
+  content = replaceResourceOverview(content, chapterNumber);
+  content = replaceChapterSummary(content, chapterNumber);
+  content = removeDraftResourceNote(content);
+  content = content.replace(/\n{2,}$/g, '\n');
+
   fs.writeFileSync(resourcePath, content, 'utf8');
+}
+
+function replaceResourceOverview(content, chapterNumber) {
+  const data = RESOURCE_DATA[chapterNumber];
+  if (!data) return content;
+
+  const firstSentence = data.summary.match(/^.*?\./)?.[0] || data.summary;
+  const overview = `${BOOK_OVERVIEW} This chapter focuses on ${firstSentence.charAt(0).toLowerCase()}${firstSentence.slice(1)}`;
+
+  return content.replace(
+    /(## Book Overview\s*\r?\n+)([\s\S]*?)(\r?\n\r?\n## Important Keywords)/,
+    `$1${overview}$3`
+  );
+}
+
+function replaceChapterSummary(content, chapterNumber) {
+  const data = RESOURCE_DATA[chapterNumber];
+  if (!data) return content;
+
+  const lessons = data.lessons
+    .map(([title, body], index) => `${index + 1}. **${title}**: ${body}`)
+    .join('\n');
+
+  const block = [
+    '## Chapter Summary',
+    data.summary,
+    '',
+    '## Key Lessons for Children',
+    lessons,
+    '',
+  ].join('\n') + '\n';
+
+  return content.replace(/## Chapter Summary[\s\S]*?(?=## Memory Verses by Age)/, block);
+}
+
+function removeDraftResourceNote(content) {
+  return content.replace(/\r?\n?<!-- Draft Resource Note -->[\s\S]*?<!-- End Draft Resource Note -->\r?\n?/g, '\n');
+}
+
+function replaceMemoryVerseText(content, ageRange, verses) {
+  const heading = ageRange === '5-7' ? '### Ages 5-7' : '### Ages 8-10';
+  const nextHeading = ageRange === '5-7' ? '### Ages 8-10' : '## Discussion Questions by Age';
+  const regex = new RegExp(
+    `(## Memory Verses by Age[\\s\\S]*?${escapeRegex(heading)}\\s*\\r?\\n)([\\s\\S]*?)(\\r?\\n\\r?\\n${escapeRegex(nextHeading)})`,
+    'm'
+  );
+
+  return content.replace(regex, (match, prefix, body, suffix) => {
+    const updated = body.replace(/^(.+?)\s+-\s+(Leviticus\s+\d+:\d+)$/gm, (line, text, reference) => {
+      const replacement = findVerse(verses, reference);
+      return replacement ? `${replacement} - ${reference}` : line;
+    });
+
+    return `${prefix}${updated}${suffix}`;
+  });
 }
 
 function replaceResourceAgeText(content, reference, ageRange, text) {

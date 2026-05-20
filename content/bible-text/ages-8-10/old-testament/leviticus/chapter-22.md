@@ -90,7 +90,7 @@ The Lord spoke to Moses, saying,
 "When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering burned on the altar to the Lord.
 
 ### Leviticus 22:28
-Whether it is a cow or ewe, you must not kill it and its young both in one day.
+Whether it is a cow or female sheep, you must not kill it and its young both in one day.
 
 ### Leviticus 22:29
 "When you sacrifice a sacrifice of thanksgiving to the Lord, you must sacrifice it so that you may be accepted.

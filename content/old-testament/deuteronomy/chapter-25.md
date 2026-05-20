@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 25
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 25 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses teaches fair limits in punishment, kindness even to a working ox, family duty for a brother who dies without a son, honest weights, and the command to remember Amalek.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -33,10 +33,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:2 - It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number.
 
 #### Ages 5-7
-It will be, if the guilty person deserves to be punished with blows, the judge must have him lie down and be beaten in front of the judge, with the number of blows matching his wrong.
+If the guilty person deserves to be punished with blows, the judge must have him lie down and be beaten in front of the judge, with the number of blows matching his wrong.
 
 #### Ages 8-10
-It will be, if the guilty person deserves to be punished with blows, the judge must have him lie down and be beaten in front of the judge, with the number of blows matching his wrong.
+If the guilty person deserves to be punished with blows, the judge must have him lie down and be beaten in front of the judge, with the number of blows matching his wrong.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -61,10 +61,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:4 - You shall not muzzle the ox when he treads out the grain.
 
 #### Ages 5-7
-You must not cover the ox's mouth when he walks over grain to separate it.
+Do not cover the ox's mouth while it walks over grain to separate it.
 
 #### Ages 8-10
-You must not cover the ox's mouth when he walks over grain to separate it.
+Do not muzzle the ox while it treads out the grain.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -75,10 +75,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:5 - If brothers dwell together, and one of them dies and has no son, the wife of the dead shall not be married outside to a stranger. Her husband's brother shall go in to her, and take her as his wife, and perform the duty of a husband's brother to her.
 
 #### Ages 5-7
-If brothers live together, and one of them dies and has no son, the dead man's wife must not be married outside to a foreigner. Her husband's brother will marry her and do the duty of a husband's brother to her.
+If brothers live together and one of them dies without a son, the dead man's wife must not marry outside the family. Her husband's brother must marry her and do the family duty for his brother.
 
 #### Ages 8-10
-If brothers live together, and one of them dies and has no son, the dead man's wife must not be married outside to a foreigner. Her husband's brother will marry her and do the duty of a husband's brother to her.
+If brothers live together and one of them dies without a son, the dead man's wife must not marry outside the family. Her husband's brother must marry her and do the duty of a husband's brother for her.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -89,10 +89,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:6 - It shall be that the firstborn whom she bears shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel.
 
 #### Ages 5-7
-It will be that the firstborn whom she bears must succeed in the name of his brother who is dead, that his name not be forgotten in Israel.
+The firstborn son she bears will carry on the name of the brother who died, so his name will not be forgotten in Israel.
 
 #### Ages 8-10
-It will be that the firstborn whom she bears must succeed in the name of his brother who is dead, that his name not be forgotten in Israel.
+The firstborn son she bears will carry on the name of the brother who died, so his name will not be forgotten in Israel.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -106,10 +106,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:7 - If the man doesn't want to take his brother's wife, then his brother's wife shall go up to the gate to the elders, and say, "My husband's brother refuses to raise up to his brother a name in Israel. He will not perform the duty of a husband's brother to me."
 
 #### Ages 5-7
-If the man doesn't want to take his brother's wife, then his brother's wife will go up to the city gate to the elders, and say, "My husband's brother refuses to raise up to his brother a name in Israel. He will not do the duty of a husband's brother to me."
+If the man does not want to marry his brother's widow, then she must go to the elders at the city gate and say, "My husband's brother refuses to carry on his brother's name in Israel. He will not do his family duty for me."
 
 #### Ages 8-10
-If the man doesn't want to take his brother's wife, then his brother's wife will go up to the city gate to the elders, and say, "My husband's brother refuses to raise up to his brother a name in Israel. He will not do the duty of a husband's brother to me."
+If the man does not want to marry his brother's widow, then she must go to the elders at the city gate and say, "My husband's brother refuses to carry on his brother's name in Israel. He will not do the duty of a husband's brother for me."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -137,10 +137,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:9 - then his brother's wife shall come to him in the presence of the elders, and loose his sandal from off his foot, and spit in his face. She shall answer and say, "So shall it be done to the man who does not build up his brother's house."
 
 #### Ages 5-7
-then his brother's wife will come to him in the presence of the elders, and loose his sandal from off his foot, and spit in his face. She must answer and say, "So must it be done to the man who does not build up his brother's house."
+then his brother's widow must come to him in front of the elders, take his sandal off his foot, spit in his face, and say, "This is what is done to the man who will not build up his brother's house."
 
 #### Ages 8-10
-then his brother's wife will come to him in the presence of the elders, and loose his sandal from off his foot, and spit in his face. She must answer and say, "So must it be done to the man who does not build up his brother's house."
+then his brother's widow must come to him in front of the elders, take his sandal off his foot, spit in his face, and say, "This is what is done to the man who will not build up his brother's house."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -151,10 +151,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:10 - His name shall be called in Israel, "The house of him who had his sandal removed."
 
 #### Ages 5-7
-His name will be called in Israel, "The house of the person who had his sandal removed."
+His name will be called in Israel, "The house of the man whose sandal was removed."
 
 #### Ages 8-10
-His name will be called in Israel, "The house of the person who had his sandal removed."
+His name will be called in Israel, "The house of the man whose sandal was removed."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -196,10 +196,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:13 - You shall not have in your bag diverse weights, one heavy and one light.
 
 #### Ages 5-7
-You must not have in your bag different weights for cheating, one heavy and one light.
+Do not keep two different weights in your bag, one heavy and one light, for cheating.
 
 #### Ages 8-10
-You must not have in your bag different weights for cheating, one heavy and one light.
+Do not keep two different weights in your bag, one heavy and one light, for cheating.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -224,10 +224,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:15 - You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you.
 
 #### Ages 5-7
-You must have an honest and fair weight. You must have an honest and fair measure, that your days may be long in the land that the Lord your God gives you.
+You must have an honest and fair weight. You must have an honest and fair measure, so your days may be long in the land that the Lord your God gives you.
 
 #### Ages 8-10
-You must have an honest and fair weight. You must have an honest and fair measure, that your days may be long in the land that the Lord your God gives you.
+You must have an honest and fair weight. You must have an honest and fair measure, so your days may be long in the land that the Lord your God gives you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -243,10 +243,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:16 - For all who do such things, all who do unrighteously, are an abomination to Yahweh your God.
 
 #### Ages 5-7
-For all who do such things, all who do dishonestly, are a detestable thing to the Lord your God.
+Everyone who does dishonest things like this is hateful to the Lord your God.
 
 #### Ages 8-10
-For all who do such things, all who do dishonestly, are a detestable thing to the Lord your God.
+Everyone who does dishonest things like this is hateful to the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -296,10 +296,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 25:19 - Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.
 
 #### Ages 5-7
-Therefore it will be, when the Lord your God has given you rest from all your enemies all around, in the land that the Lord your God gives you as an inheritance, and you take it, that you must wipe away the memory of Amalek from under the sky. You must not forget.
+Therefore when the Lord your God has given you rest from all your enemies all around, in the land that the Lord your God gives you as an inheritance, and you take it, that you must wipe away the memory of Amalek from under the sky. You must not forget.
 
 #### Ages 8-10
-Therefore it will be, when the Lord your God has given you rest from all your enemies all around, in the land that the Lord your God gives you as an inheritance, and you take it, that you must wipe away the memory of Amalek from under the sky. You must not forget.
+Therefore when the Lord your God has given you rest from all your enemies all around, in the land that the Lord your God gives you as an inheritance, and you take it, that you must wipe away the memory of Amalek from under the sky. You must not forget.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -312,11 +312,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 25 is a draft resource chapter. The chapter opens with "If there is a legal dispute between people, and they come to judgment and the judges judge them,...," moves through "His name will be called in Israel, "The house of the person who had his sandal removed.," and closes with "Therefore it will be, when the Lord your God has given you rest from all your enemies all around,...." Review this summary for fuller theological detail before approval.
+Moses teaches fair limits in punishment, kindness even to a working ox, family duty for a brother who dies without a son, honest weights, and the command to remember Amalek. Justice must be measured, honest, and faithful to the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Justice must not become cruelty**: Even when someone is punished, the Lord sets limits.
+2. **Honesty matters to God**: Cheating with weights and measures is hateful to the Lord.
 
 ## Memory Verses by Age
 
@@ -338,7 +338,3 @@ If there is a legal dispute between people, and they come to judgment and the ju
 
 ## Prayer
 Lord, help us understand Deuteronomy 25 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

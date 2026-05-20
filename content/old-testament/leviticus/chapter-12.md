@@ -1,7 +1,7 @@
 # Leviticus Chapter 12
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 12 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for a mother after childbirth and for the offerings brought when her time of cleansing is complete.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -155,11 +155,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 12 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "But if she bears a female child, then she will be unclean two weeks, as in her period; and she mu...," and closes with "If she cannot afford a lamb, then she must take two doves or two young pigeons: the one for a bur...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions for a mother after childbirth and for the offerings brought when her time of cleansing is complete. The law includes a smaller offering for a family that cannot afford a lamb.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God cares for family life**: Birth and worship are brought under the Lord's holy care.
+2. **God provides for poor families**: A mother who cannot bring a lamb may bring birds instead.
 
 ## Memory Verses by Age
 
@@ -181,7 +181,3 @@ In the eighth day the flesh of his foreskin must be circumcised. - Leviticus 12:
 
 ## Prayer
 Lord, help us understand Leviticus 12 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

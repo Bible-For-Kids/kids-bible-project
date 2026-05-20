@@ -120,10 +120,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:7 - They spoke to all the congregation of the children of Israel, saying, "The land, which we passed through to spy it out, is an exceedingly good land.
 
 #### Ages 5-7
-They spoke to all the people of Israel, saying, "The land, which we passed through to spy it out, is an exceedingly good land.
+They spoke to all the people of Israel and said, "The land we passed through to spy out is a very, very good land.
 
 #### Ages 8-10
-They spoke to all the community of the people of Israel, saying, "The land, which we passed through to spy it out, is an exceedingly good land.
+They spoke to all the people of Israel and said, "The land we passed through to spy out is an exceedingly good land.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -137,10 +137,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:8 - If Yahweh delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey.
 
 #### Ages 5-7
-If the Lord delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey.
+If the Lord is pleased with us, he will bring us into that land and give it to us. It is a land flowing with milk and honey.
 
 #### Ages 8-10
-If the Lord delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey.
+If the Lord is pleased with us, he will bring us into that land and give it to us, a land flowing with milk and honey.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -155,10 +155,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:9 - Only don't rebel against Yahweh, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and Yahweh is with us. Don't fear them."
 
 #### Ages 5-7
-Only don't rebel against the Lord, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and the Lord is with us. Don't fear them."
+Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."
 
 #### Ages 8-10
-Only don't rebel against the Lord, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and the Lord is with us. Don't fear them."
+Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -244,10 +244,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:14 - They will tell it to the inhabitants of this land. They have heard that you Yahweh are among this people; for you Yahweh are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
 
 #### Ages 5-7
-They will tell it to the inhabitants of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
+They will tell it to the people who live there of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
 
 #### Ages 8-10
-They will tell it to the inhabitants of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
+They will tell it to the people who live there of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -295,10 +295,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:17 - Now please let the power of the Lord be great, according as you have spoken, saying,
 
 #### Ages 5-7
-Now please let the power of the Lord be great, according as you have spoken, saying,
+Now please let the power of the Lord be great, as you have spoken, saying,
 
 #### Ages 8-10
-Now please let the power of the Lord be great, according as you have spoken, saying,
+Now please let the power of the Lord be great, as you have spoken, saying,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -468,7 +468,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:27 - "How long shall I bear with this evil congregation that complain against me? I have heard the complaints of the children of Israel, which they complain against me.
 
 #### Ages 5-7
-"How long will I bear with this evil whole group that complains against me? I have heard the complaints of the people of Israel, which they complain against me.
+"How long will I bear with this rebellious group that complains against me? I have heard the complaints of the people of Israel, which they complain against me.
 
 #### Ages 8-10
 "How long will I bear with this evil community that complain against me? I have heard the complaints of the people of Israel, which they complain against me.
@@ -566,10 +566,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:33 - Your children shall be wanderers in the wilderness forty years, and shall bear your prostitution, until your dead bodies are consumed in the wilderness.
 
 #### Ages 5-7
-Your children will be wanderers in the wilderness forty years, and will bear your unfaithfulness, until your dead bodies are consumed in the wilderness.
+Your children will wander in the wilderness for forty years. They will carry the result of your unfaithfulness until this generation has died in the wilderness.
 
 #### Ages 8-10
-Your children will be wanderers in the wilderness forty years, and will bear your unfaithfulness, until your dead bodies are consumed in the wilderness.
+Your children will wander in the wilderness for forty years. They will bear your unfaithfulness until this generation has died in the wilderness.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -583,10 +583,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:34 - After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your iniquities, even forty years, and you will know my alienation.'
 
 #### Ages 5-7
-After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your sins, even forty years, and you will know my displeasure.
+You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.
 
 #### Ages 8-10
-After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your sins, even forty years, and you will know my displeasure.
+You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -597,10 +597,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:35 - I, Yahweh, have spoken. I will surely do this to all this evil congregation who are gathered together against me. In this wilderness they shall be consumed, and there they shall die."
 
 #### Ages 5-7
-I, the Lord, have spoken. I will surely do this to all this evil whole group who are gathered together against me. In this wilderness they will be consumed, and there they will die."
+I, the Lord, have spoken. I will surely do this to all this rebellious group who are gathered together against me. In this wilderness they will die, and there they will die."
 
 #### Ages 8-10
-I, the Lord, have spoken. I will surely do this to all this evil community who are gathered together against me. In this wilderness they will be consumed, and there they will die."
+I, the Lord, have spoken. I will surely do this to all this evil community who are gathered together against me. In this wilderness they will die, and there they will die."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -617,10 +617,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:36 - The men whom Moses sent to spy out the land, who returned and made all the congregation to murmur against him by bringing up an evil report against the land,
 
 #### Ages 5-7
-The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up an bad report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the people complain against him by bringing up a bad report against the land,
 
 #### Ages 8-10
-The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up an bad report against the land,
+The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up a bad report against the land,
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -635,10 +635,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 14:37 - even those men who brought up an evil report of the land, died by the plague before Yahweh.
 
 #### Ages 5-7
-even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
+even those men who brought up a bad report of the land, died by the terrible sickness before the Lord.
 
 #### Ages 8-10
-even those men who brought up an bad report of the land, died by the terrible sickness before the Lord.
+even those men who brought up a bad report of the land, died by the terrible sickness before the Lord.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

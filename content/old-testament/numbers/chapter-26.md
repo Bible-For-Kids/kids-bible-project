@@ -782,10 +782,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:53 - "To these the land shall be divided for an inheritance according to the number of names.
 
 #### Ages 5-7
-"To these the land must be divided for an inheritance according to the number of names.
+"Divide the land among these tribes as their share, using the number of names that were counted.
 
 #### Ages 8-10
-"To these the land must be divided for an inheritance according to the number of names.
+"Divide the land among these tribes as their inheritance, using the number of names that were counted.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -796,10 +796,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:54 - To the more you shall give the more inheritance, and to the fewer you shall give the less inheritance. To everyone according to those who were counted of him shall his inheritance be given.
 
 #### Ages 5-7
-To the more you must give the more inheritance, and to the fewer you must give the less inheritance. To everyone according to those who were counted of him must his inheritance be given.
+Give a larger share of land to the larger tribe and a smaller share to the smaller tribe. Each tribe's share must fit the number of people counted.
 
 #### Ages 8-10
-To the more you must give the more inheritance, and to the fewer you must give the less inheritance. To everyone according to those who were counted of him must his inheritance be given.
+Give a larger inheritance to the larger tribe and a smaller inheritance to the smaller tribe. Each tribe's inheritance must fit the number of people counted.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -810,10 +810,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:55 - Notwithstanding, the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit.
 
 #### Ages 5-7
-Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. Each tribe must receive its share by its father's family name.
 
 #### Ages 8-10
-Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. Each tribe must receive its inheritance by its father's family name.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -824,10 +824,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 26:56 - According to the lot shall their inheritance be divided between the more and the fewer."
 
 #### Ages 5-7
-According to the lot must their inheritance be divided between the more and the fewer."
+The lot will help divide the land between the larger tribes and the smaller tribes."
 
 #### Ages 8-10
-According to the lot must their inheritance be divided between the more and the fewer."
+The lot will help divide the inheritance between the larger tribes and the smaller tribes."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

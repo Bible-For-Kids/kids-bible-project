@@ -36,7 +36,7 @@ The Lord spoke to Moses, saying,
 "Command Aaron and his sons, saying, 'This is the law of the burned offering: the burned offering must be on the hearth on the altar all night until the morning; and the fire of the altar must be kept burning on it.
 
 ### Leviticus 6:10
-The priest must put on his linen piece of clothing, and he must put on his linen trousers upon his body; and he must remove the ashes from where the fire has consumed the burned offering on the altar, and he must put them beside the altar.
+The priest must put on his linen robe, and he must put on his linen underclothes; and he must remove the ashes from where the fire has burned up the burned offering on the altar, and he must put them beside the altar.
 
 ### Leviticus 6:11
 He must take off his clothes, and put on other clothes, and carry the ashes outside the camp to a clean place.

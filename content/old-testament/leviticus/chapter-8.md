@@ -1,7 +1,7 @@
 # Leviticus Chapter 8
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 8 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on moses gathers the people and sets apart Aaron and his sons for priestly service.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -666,11 +666,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 8 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "He killed it; and Moses sprinkled the blood around on the altar.," and closes with "Aaron and his sons did all the things which the Lord commanded by Moses.." Review this summary for fuller theological detail before approval.
+Moses gathers the people and sets apart Aaron and his sons for priestly service. He washes them, clothes them, anoints the holy tent and altar, and offers the sacrifices the Lord commanded.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God appoints worship leaders**: Aaron and his sons do not take the priesthood for themselves; the Lord sets them apart.
+2. **Holiness is received from God**: The priests are washed, clothed, and anointed before serving.
 
 ## Memory Verses by Age
 
@@ -692,7 +692,3 @@ Moses did as the Lord commanded him; and the community was assembled at the door
 
 ## Prayer
 Lord, help us understand Leviticus 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

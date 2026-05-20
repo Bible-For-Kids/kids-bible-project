@@ -9,13 +9,13 @@ Deuteronomy
 ## Verses
 
 ### Deuteronomy 6:1
-Now these are the commands, rules, and teachings, that the Lord your God commanded to teach you, that you might do them in the land that you cross over to take;
+These are the commands, rules, and teachings the Lord your God commanded me to teach you, so you may do them in the land you are crossing over to take.
 
 ### Deuteronomy 6:2
-that you might honor the Lord your God, to keep all his rules and his commands, which I command you-you, your son, and your son's son, all the days of your life; and so your days may be long.
+Honor the Lord your God by keeping all his rules and commands that I command you, you, your son, and your grandson, all the days of your life, so your days may be long.
 
 ### Deuteronomy 6:3
-Hear therefore, Israel, and be careful to do it, so things may go well with you, and that you may increase mightily, as the Lord, the God of your ancestors, has promised to you, in a land flowing with milk and honey.
+So listen, Israel, and be careful to do what God says. Then things may go well with you, and you may grow greatly in a land flowing with milk and honey, just as the Lord, the God of your ancestors, promised.
 
 ### Deuteronomy 6:4
 Hear, Israel: The Lord is our God. The Lord is one.
@@ -24,49 +24,49 @@ Hear, Israel: The Lord is our God. The Lord is one.
 You must love the Lord your God with all your heart, all your life, and all your strength.
 
 ### Deuteronomy 6:6
-These words, which I command you today, will be on your heart;
+These words I command you today must be on your heart.
 
 ### Deuteronomy 6:7
-and you must teach them diligently to your children, and must talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.
+Teach these words carefully to your children. Talk about them when you sit in your house, when you walk along the road, when you lie down, and when you rise up.
 
 ### Deuteronomy 6:8
-You must bind them for a sign on your hand, and they will be for frontlets between your eyes.
+Tie them as a sign on your hand, and let them be like a reminder between your eyes.
 
 ### Deuteronomy 6:9
-You must write them on the door posts of your house and on your gates.
+Write them on the doorposts of your house and on your gates.
 
 ### Deuteronomy 6:10
-It will be, when the Lord your God brings you into the land that he swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give you, great and goodly cities which you didn't build,
+The Lord your God will bring you into the land he swore to give to your ancestors, to Abraham, Isaac, and Jacob. You will live in great, good cities you did not build,
 
 ### Deuteronomy 6:11
-and houses full of all good things which you didn't fill, and cisterns dug out which you didn't dig, vineyards and olive trees which you didn't plant, and you must eat and be full;
+There will be houses full of good things you did not fill, cisterns you did not dig, and vineyards and olive trees you did not plant. When you eat and are full,
 
 ### Deuteronomy 6:12
-then beware or else you forget the Lord, who brought you out of the land of Egypt, out of the land where you were slaves.
+be careful that you do not forget the Lord, who brought you out of Egypt, out of the land where you were slaves.
 
 ### Deuteronomy 6:13
-You must honor the Lord your God; and you must serve him, and must swear by his name.
+Honor the Lord your God. Serve him, and swear by his name.
 
 ### Deuteronomy 6:14
 You must not go after other gods, of the gods of the peoples who are around you,
 
 ### Deuteronomy 6:15
-for the Lord your God among you is a jealous God, or else the anger of the Lord your God be kindled against you, and he destroy you from off the face of the earth.
+because the Lord your God, who is among you, is a jealous God. If you do, the Lord your God's anger will burn against you, and he will destroy you from the face of the earth.
 
 ### Deuteronomy 6:16
 You must not tempt the Lord your God, as you tempted him in Massah.
 
 ### Deuteronomy 6:17
-You must diligently keep the commands of the Lord your God, and his solemn teachings, and his rules, which he has commanded you.
+Carefully keep the commands of the Lord your God, and the covenant teachings and rules he commanded you.
 
 ### Deuteronomy 6:18
-You must do what is right and good in the Lord's sight, so things may go well with you and that you may go in and possess the good land that the Lord swore to your ancestors,
+You must do what is right and good in the Lord's sight, so things may go well with you and that you may go in and take the good land that the Lord swore to your ancestors,
 
 ### Deuteronomy 6:19
-to thrust out all your enemies from before you, as the Lord has spoken.
+and to drive out all your enemies before you, just as the Lord has spoken.
 
 ### Deuteronomy 6:20
-When your son asks you in time to come, saying, "What do the solemn teachings, rules, and commands, that the Lord our God has commanded you mean?"
+In days to come, your son may ask you, "What do the covenant teachings, rules, and commands that the Lord our God commanded you mean?"
 
 ### Deuteronomy 6:21
 then you must tell your son, "We were Pharaoh's slaves in Egypt. The Lord brought us out of Egypt with a mighty hand;
@@ -78,7 +78,7 @@ and the Lord showed great and awesome signs and wonders on Egypt, on Pharaoh, an
 and he brought us out from there, that he might bring us in, to give us the land that he swore to our ancestors.
 
 ### Deuteronomy 6:24
-The Lord commanded us to do all these rules, to honor the Lord our God, for our good always, that he might preserve us alive, as we are today.
+The Lord commanded us to do all these rules and to honor the Lord our God for our good always, so he might keep us alive, as we are today.
 
 ### Deuteronomy 6:25
-It will be righteousness to us, if we be careful to do all these commands before the Lord our God, as he has commanded us."
+It will be righteousness for us if we are careful to do all these commands before the Lord our God, just as he commanded us."

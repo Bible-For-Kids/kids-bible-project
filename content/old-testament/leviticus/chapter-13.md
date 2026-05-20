@@ -1,7 +1,7 @@
 # Leviticus Chapter 13
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 13 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives priests instructions for examining serious skin disease and marks of mildew in clothes.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -970,19 +970,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 13 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and to Aaron, saying,," moves through "then the priest must examine the mark of disease; and if its appearance is deeper than the skin,...," and closes with "This is the law of the mark of disease of mildew in a garment of wool or linen, either in the war...." Review this summary for fuller theological detail before approval.
+The Lord gives priests instructions for examining serious skin disease and marks of mildew in clothes. The priest must look carefully, wait when needed, and decide whether the person or cloth is clean or not clean for worship.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God cares about holiness in the camp**: Sickness and spreading marks must be handled carefully among God's people.
+2. **Careful judgment protects people**: The priest must examine before declaring a person clean or not clean.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-But if the scab spreads on the skin after he has shown himself to the priest to be made clean, he must show himself to the priest again. - Leviticus 13:7
+But if the scab spreads on the skin after the man has shown himself to the priest to be made clean, he must show himself to the priest again. - Leviticus 13:7
 
 ### Ages 8-10
-But if the scab spreads on the skin after he has shown himself to the priest to be made clean, he must show himself to the priest again. - Leviticus 13:7
+But if the scab spreads on the skin after the man has shown himself to the priest to be made clean, he must show himself to the priest again. - Leviticus 13:7
 
 ## Discussion Questions by Age
 
@@ -996,7 +996,3 @@ But if the scab spreads on the skin after he has shown himself to the priest to 
 
 ## Prayer
 Lord, help us understand Leviticus 13 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

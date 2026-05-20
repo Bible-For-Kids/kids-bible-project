@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 29
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 29 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses renews the covenant in Moab with all Israel, including leaders, children, foreigners, and future generations.
 
 ## Important Keywords
 - covenant: A serious promise relationship God makes
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 29:1 - These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.
 
 #### Ages 5-7
-These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.
+These are the words of the covenant the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant he made with them at Horeb.
 
 #### Ages 8-10
-These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.
+These are the words of the covenant the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant he made with them at Horeb.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -58,10 +58,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:3 - the great trials which your eyes saw, the signs, and those great wonders.
 
 #### Ages 5-7
-the great trials which your eyes saw, the signs, and those great wonders.
+your eyes saw the great trials, the signs, and those great wonders.
 
 #### Ages 8-10
-the great trials which your eyes saw, the signs, and those great wonders.
+your eyes saw the great trials, the signs, and those great wonders.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -107,10 +107,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:6 - You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am Yahweh your God.
 
 #### Ages 5-7
-You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am the Lord your God.
+You have not eaten bread, neither have you drunk wine or drink that can make someone drunk, that you may know that I am the Lord your God.
 
 #### Ages 8-10
-You have not eaten bread, neither have you drunk wine or strong drink, that you may know that I am the Lord your God.
+You have not eaten bread, neither have you drunk wine or drink that can make someone drunk, that you may know that I am the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -140,10 +140,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:8 - We took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
 
 #### Ages 5-7
-We took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+We took their land, and gave it as an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
 
 #### Ages 8-10
-We took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+We took their land, and gave it as an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -171,10 +171,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:10 - All of you stand today in the presence of Yahweh your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,
 
 #### Ages 5-7
-All of you stand today in the presence of the Lord your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,
+All of you stand today in the presence of the Lord your God: your heads, your tribes, your elders, and your officials, even all the men of Israel,
 
 #### Ages 8-10
-All of you stand today in the presence of the Lord your God: your heads, your tribes, your elders, and your officers, even all the men of Israel,
+All of you stand today in the presence of the Lord your God: your heads, your tribes, your elders, and your officials, even all the men of Israel,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -279,10 +279,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:16 - (for you know how we lived in the land of Egypt, and how we came through the middle of the nations through which you passed;
 
 #### Ages 5-7
-(for you know how we lived in the land of Egypt, and how we came through the middle of the nations through which you passed;
+(for you know how we lived in the land of Egypt, and how we came through the middle of the nations through that you passed;
 
 #### Ages 8-10
-(for you know how we lived in the land of Egypt, and how we came through the middle of the nations through which you passed;
+(for you know how we lived in the land of Egypt, and how we came through the middle of the nations through that you passed;
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -296,10 +296,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:17 - and you have seen their abominations and their idols of wood, stone, silver, and gold, which were among them);
 
 #### Ages 5-7
-and you have seen their detestable things and their idols of wood, stone, silver, and gold, which were among them);
+and you have seen their hateful things before the Lord and their idols of wood, stone, silver, and gold, that were among them);
 
 #### Ages 8-10
-and you have seen their detestable things and their idols of wood, stone, silver, and gold, which were among them);
+and you have seen their hateful things before the Lord and their idols of wood, stone, silver, and gold, that were among them);
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -382,10 +382,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:22 - The generation to come—your children who will rise up after you, and the foreigner who will come from a far land—will say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick,
 
 #### Ages 5-7
-The generation to come-your children who will rise up after you, and the foreigner who will come from a far land-will say, when they see the terrible sicknesses of that land, and the sicknesses with that the Lord has made it sick,
+The next generation, your children who rise up after you, and the foreigner who comes from a far land, will see the terrible sicknesses of that land and the sicknesses the Lord used to make it sick.
 
 #### Ages 8-10
-The generation to come-your children who will rise up after you, and the foreigner who will come from a far land-will say, when they see the terrible sicknesses of that land, and the sicknesses with that the Lord has made it sick,
+The next generation, your children who rise up after you, and the foreigner who comes from a far land, will see the terrible sicknesses of that land and the sicknesses the Lord used to make it sick.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -436,10 +436,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:25 - Then men will say, "Because they abandoned the covenant of Yahweh, the God of their fathers, which he made with them when he brought them out of the land of Egypt,
 
 #### Ages 5-7
-Then men will say, "Because they abandoned the covenant of the Lord, the God of their ancestors, which he made with them when he brought them out of the land of Egypt,
+Then men will say, "Because they abandoned the covenant of the Lord, the God of their ancestors, that he made with them when he brought them out of the land of Egypt,
 
 #### Ages 8-10
-Then men will say, "Because they abandoned the covenant of the Lord, the God of their ancestors, which he made with them when he brought them out of the land of Egypt,
+Then men will say, "Because they abandoned the covenant of the Lord, the God of their ancestors, that he made with them when he brought them out of the land of Egypt,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -507,10 +507,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 29:29 - The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
 
 #### Ages 5-7
-The secret things belong to the Lord our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
+The secret things belong to the Lord our God, but the things he has revealed belong to us and to our children forever, so that we may do all the words of this law.
 
 #### Ages 8-10
-The secret things belong to the Lord our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
+The secret things belong to the Lord our God, but the things he has revealed belong to us and to our children forever, so that we may do all the words of this law.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -524,19 +524,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 29 is a draft resource chapter. The chapter opens with "These are the words of the covenant that the Lord commanded Moses to make with the people of Isra...," moves through "but with those who stand here with us today before the Lord our God, and also with those who are...," and closes with "The secret things belong to the Lord our God; but the things that are revealed belong to us and t...." Review this summary for fuller theological detail before approval.
+Moses renews the covenant in Moab with all Israel, including leaders, children, foreigners, and future generations. He warns against hidden idolatry and ends by saying that secret things belong to the Lord, but revealed things belong to Israel so they may obey.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The covenant reaches the whole people**: No one is too important or too small to stand before the Lord.
+2. **God reveals enough for obedience**: Israel is not told every secret, but they are given the words they must do.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb. - Deuteronomy 29:1
+These are the words of the covenant the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant he made with them at Horeb. - Deuteronomy 29:1
 
 ### Ages 8-10
-These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb. - Deuteronomy 29:1
+These are the words of the covenant the Lord commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant he made with them at Horeb. - Deuteronomy 29:1
 
 ## Discussion Questions by Age
 
@@ -550,7 +550,3 @@ These are the words of the covenant that the Lord commanded Moses to make with t
 
 ## Prayer
 Lord, help us understand Deuteronomy 29 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

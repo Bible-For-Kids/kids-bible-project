@@ -1,7 +1,7 @@
 # Leviticus Chapter 2
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 2 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for grain offerings made with flour, oil, incense, and salt, but without yeast or honey burned on the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -321,19 +321,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 2 is a draft resource chapter. The chapter opens with "When anyone brings a grain offering to the Lord, his offering must be of fine flour. He must pour...," moves through "The priest must take from the grain offering its memorial, and must burn it on the altar, an offe...," and closes with "The priest must burn as its memorial part of its crushed grain and part of its oil, along with al...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions for grain offerings made with flour, oil, incense, and salt, but without yeast or honey burned on the altar. Part is burned before the Lord, and the rest is given to the priests as a holy portion.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God receives thankful gifts**: The grain offering teaches Israel to bring food from his provision back to him in worship.
+2. **God remembers his covenant**: Salt in the offering reminds Israel that worship is tied to the covenant God made with his people.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-That which is left of the grain gift must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire. - Leviticus 2:3
+The rest of the grain gift belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord. - Leviticus 2:3
 
 ### Ages 8-10
-That which is left of the grain offering must be Aaron's and his sons'. It is a most holy part of the offerings of the Lord made by fire. - Leviticus 2:3
+The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord. - Leviticus 2:3
 
 ## Discussion Questions by Age
 
@@ -347,7 +347,3 @@ That which is left of the grain offering must be Aaron's and his sons'. It is a 
 
 ## Prayer
 Lord, help us understand Leviticus 2 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

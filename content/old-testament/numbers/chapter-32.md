@@ -289,10 +289,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 32:17 - but we ourselves will be ready armed to go before the children of Israel, until we have brought them to their place. Our little ones shall dwell in the fortified cities because of the inhabitants of the land.
 
 #### Ages 5-7
-but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the inhabitants of the land.
+but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the people who live there of the land.
 
 #### Ages 8-10
-but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the inhabitants of the land.
+but we ourselves will be ready armed to go before the people of Israel, until we have brought them to their place. Our little ones must live in the fortified cities because of the people who live there of the land.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

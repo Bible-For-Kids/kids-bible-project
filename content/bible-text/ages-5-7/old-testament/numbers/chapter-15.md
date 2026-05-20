@@ -84,7 +84,7 @@ then it must be, if it was done without meaning to, without the knowledge of the
 The priest must make atonement for all the people of Israel, and they will be forgiven; for it was an error, and they have brought their offering, an offering burned on the altar to the Lord, and their offering for sin before the Lord, for their error.
 
 ### Numbers 15:26
-All the people of the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
+All the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
 
 ### Numbers 15:27
 "If a person sins without meaning to, then he must offer a female goat a year old as an offering for sin.

@@ -18,52 +18,52 @@ and when the Lord your God delivers them up before you, and you strike them, the
 You must not make marriages with them. You must not give your daughter to his son, nor must you take his daughter for your son.
 
 ### Deuteronomy 7:4
-For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would be kindled against you, and he would destroy you quickly.
+For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would burn against you, and he would destroy you quickly.
 
 ### Deuteronomy 7:5
-But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah pole poles, and burn their engraved images with fire.
+But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah poles, and burn their carved idols with fire.
 
 ### Deuteronomy 7:6
-For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.
+For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own land, above all peoples who are on the face of the earth.
 
 ### Deuteronomy 7:7
-The Lord didn't set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;
+The Lord did not set his love on you or choose you because you were more numerous than other peoples, for you were the fewest of all peoples.
 
 ### Deuteronomy 7:8
-but because the Lord loves you, and because he desires to keep the oath which he swore to your ancestors, the Lord has brought you out with a mighty hand and redeemed you out of the land where you were slaves, from the hand of Pharaoh king of Egypt.
+The Lord chose you because he loved you and kept the oath he swore to your ancestors. With a strong hand, the Lord brought you out and redeemed you from slavery, from Pharaoh king of Egypt.
 
 ### Deuteronomy 7:9
-Know therefore that the Lord your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commands to a thousand generations,
+Know therefore that the Lord your God is God. He is the faithful God, keeping covenant and faithful love to a thousand generations of those who love him and keep his commands.
 
 ### Deuteronomy 7:10
 and repays those who hate him to their face, to destroy them. He will not be slack to the person who hates him. He will repay him to his face.
 
 ### Deuteronomy 7:11
-You must therefore keep the commands, rules, and teachings which I command you today, to do them.
+You must therefore keep the commands, rules, and teachings that I command you today, to do them.
 
 ### Deuteronomy 7:12
-It must happen, because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness which he swore to your ancestors.
+Because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness that he swore to your ancestors.
 
 ### Deuteronomy 7:13
-He will love you, bless you, and multiply you. He will also bless the fruit of your body and the fruit of your ground, your grain and your new wine and your oil, the increase of your animals and the young of your flock, in the land that he swore to your ancestors to give you.
+He will love you, bless you, and multiply you. He will also bless the children and the food from your ground, your grain and your new grape juice and your oil, the increase of your herds and the lambs and young goats of your flock, in the land that he swore to your ancestors to give you.
 
 ### Deuteronomy 7:14
 You will be blessed above all peoples. There won't be male or female barren among you, or among your animals.
 
 ### Deuteronomy 7:15
-The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you.
+The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, that you know, on you, but will lay them on all those who hate you.
 
 ### Deuteronomy 7:16
-You must consume all the peoples whom the Lord your God must deliver to you. Your eye must not pity them. You must not serve their gods; for that would be a snare to you.
+You must destroy all the peoples whom the Lord your God delivers to you. You must not show pity them. You must not serve their gods; for that would be a snare to you.
 
 ### Deuteronomy 7:17
-If you must say in your heart, "These nations are more than I; how can I dispossess them?"
+If you must say in your heart, "These nations are more than I; how can I drive out them?"
 
 ### Deuteronomy 7:18
 you must not be afraid of them. You must remember well what the Lord your God did to Pharaoh and to all Egypt:
 
 ### Deuteronomy 7:19
-the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by that the Lord your God brought you out. So must the Lord your God do to all the peoples of whom you are afraid.
+You saw the great trials, signs, wonders, mighty hand, and outstretched arm by which the Lord your God brought you out. The Lord your God will do the same to all the peoples you fear.
 
 ### Deuteronomy 7:20
 Moreover the Lord your God will send the hornet among them, until those who are left, and hide themselves, perish from before you.
@@ -72,7 +72,7 @@ Moreover the Lord your God will send the hornet among them, until those who are 
 You must not be scared of them; for the Lord your God is among you, a great and awesome God.
 
 ### Deuteronomy 7:22
-The Lord your God will drive out those nations before you little by little. You may not consume them at once, or else the animals of the field increase on you.
+The Lord your God will drive out those nations before you little by little. You may not destroy them at once, or else the animals of the field increase on you.
 
 ### Deuteronomy 7:23
 But the Lord your God will deliver them up before you, and will confuse them with a great confusion, until they are destroyed.
@@ -81,7 +81,7 @@ But the Lord your God will deliver them up before you, and will confuse them wit
 He will deliver their kings into your hand, and you must make their name perish from under the sky. No one will be able to stand before you until you have destroyed them.
 
 ### Deuteronomy 7:25
-You must burn the engraved images of their gods with fire. You must not covet the silver or the gold that is on them, nor take it for yourself, or else you be snared in it; for it is a detestable thing to the Lord your God.
+You must burn the carved images of their gods with fire. Do not want the silver or gold on them for yourself, or it will trap you. Those idols are hateful to the Lord your God.
 
 ### Deuteronomy 7:26
-You must not bring a detestable thing into your house and become a devoted thing like it. You must utterly detest it. You must utterly hate it; for it is a devoted thing.
+Do not bring a hateful idol into your house and become set apart for destruction like it. You must utterly detest it and hate it, because it is set apart for destruction.

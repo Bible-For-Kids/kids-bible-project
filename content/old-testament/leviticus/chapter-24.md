@@ -1,7 +1,7 @@
 # Leviticus Chapter 24
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 24 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord commands oil for the lamps and bread for the table before him.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -418,11 +418,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 24 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "They put him in custody until the Lord's will should be declared to them.," and closes with "Moses spoke to the people of Israel; and they brought the person who had cursed out of the camp,...." Review this summary for fuller theological detail before approval.
+The Lord commands oil for the lamps and bread for the table before him. Then a man blasphemes the Lord's name, and God gives judgment, teaching Israel that his name is holy and justice must be measured rightly.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's name is holy**: The Lord must not be spoken of with contempt.
+2. **Justice belongs to God**: Punishment must follow the Lord's command, not personal revenge.
 
 ## Memory Verses by Age
 
@@ -444,7 +444,3 @@ He must keep in order the lamps on the pure gold lamp stand before the Lord cont
 
 ## Prayer
 Lord, help us understand Leviticus 24 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

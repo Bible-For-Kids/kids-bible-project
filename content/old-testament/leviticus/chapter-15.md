@@ -1,7 +1,7 @@
 # Leviticus Chapter 15
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 15 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions about bodily flows that make a person not clean for worship and the washings or offerings connected with them.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -513,19 +513,19 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 15 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses and to Aaron, saying,," moves through "Every garment and every skin which the fluid from his body is on must be washed with water, and b...," and closes with "and of the woman who has her period, and of a man or woman who has a discharge, and of the person...." Review this summary for fuller theological detail before approval.
+The Lord gives instructions about bodily flows that make a person not clean for worship and the washings or offerings connected with them. These laws protect the holy place and teach Israel that ordinary life must be brought before the holy Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God is holy in every part of life**: The Lord teaches Israel that worship is not separated from daily life.
+2. **God provides cleansing**: The laws include ways for people to wash, wait, and return to worship.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-This must be his being unclean in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his being unclean. - Leviticus 15:3
+This is the rule about that body flow: whether the flow keeps coming or has stopped, it still makes him not clean for worship. - Leviticus 15:3
 
 ### Ages 8-10
-This must be his being unclean in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his being unclean. - Leviticus 15:3
+This is the rule about that discharge: whether it keeps flowing or has stopped, it still makes him unclean. - Leviticus 15:3
 
 ## Discussion Questions by Age
 
@@ -539,7 +539,3 @@ This must be his being unclean in his discharge: whether his body runs with his 
 
 ## Prayer
 Lord, help us understand Leviticus 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

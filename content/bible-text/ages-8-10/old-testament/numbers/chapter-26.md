@@ -165,16 +165,16 @@ These are those counted from the people of Israel, six hundred one thousand seve
 The Lord spoke to Moses, saying,
 
 ### Numbers 26:53
-"To these the land must be divided for an inheritance according to the number of names.
+"Divide the land among these tribes as their inheritance, using the number of names that were counted.
 
 ### Numbers 26:54
-To the more you must give the more inheritance, and to the fewer you must give the less inheritance. To everyone according to those who were counted of him must his inheritance be given.
+Give a larger inheritance to the larger tribe and a smaller inheritance to the smaller tribe. Each tribe's inheritance must fit the number of people counted.
 
 ### Numbers 26:55
-Even so, the land must be divided by lot. According to the names of the tribes of their fathers they must inherit.
+Even so, the land must be divided by lot. Each tribe must receive its inheritance by its father's family name.
 
 ### Numbers 26:56
-According to the lot must their inheritance be divided between the more and the fewer."
+The lot will help divide the inheritance between the larger tribes and the smaller tribes."
 
 ### Numbers 26:57
 These are those counted from the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.

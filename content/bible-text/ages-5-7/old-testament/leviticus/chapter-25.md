@@ -18,10 +18,10 @@ The Lord said to Moses in Mount Sinai,
 You must sow your field six years, and you must prune your vineyard six years, and gather in its fruits;
 
 ### Leviticus 25:4
-but in the seventh year there must be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
+but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
 
 ### Leviticus 25:5
-What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of solemn rest for the land.
+What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of quiet holy rest for the land.
 
 ### Leviticus 25:6
 The Sabbath produce of the land will be food for you; for yourself, for your servant, for your maid, for your hired servant, and for your foreigner, who lives with you.
@@ -36,7 +36,7 @@ For your animals also, and for the animals that are in your land, all its increa
 Then you must sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you must sound the trumpet throughout all your land.
 
 ### Leviticus 25:10
-You must make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
+You must make the fiftieth year holy, and proclaim liberty throughout the land to all its people who live there. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
 
 ### Leviticus 25:11
 That fiftieth year must be a jubilee to you. In it you must not sow, neither reap that which grows of itself, nor gather from the undressed vines.

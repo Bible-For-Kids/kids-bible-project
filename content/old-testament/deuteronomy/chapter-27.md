@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 27
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 27 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses commands Israel to write the law on stones after crossing the Jordan, build an altar on Mount Ebal, and hear blessings and curses from the mountains.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 27:1 - Moses and the elders of Israel commanded the people, saying, "Keep all the commandment which I command you today.
 
 #### Ages 5-7
-Moses and the elders of Israel commanded the people, saying, "Keep all the command which I command you today.
+Moses and the elders of Israel commanded the people, saying, "Keep all the command that I command you today.
 
 #### Ages 8-10
-Moses and the elders of Israel commanded the people, saying, "Keep all the command which I command you today.
+Moses and the elders of Israel commanded the people, saying, "Keep all the command that I command you today.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -74,10 +74,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:4 - It shall be, when you have crossed over the Jordan, that you shall set up these stones, which I command you today, on Mount Ebal, and you shall coat them with plaster.
 
 #### Ages 5-7
-It will be, when you have crossed over the Jordan, that you must set up these stones, which I command you today, on Mount Ebal, and you must coat them with plaster.
+When you have crossed over the Jordan, that you must set up these stones, that I command you today, on Mount Ebal, and you must coat them with plaster.
 
 #### Ages 8-10
-It will be, when you have crossed over the Jordan, that you must set up these stones, which I command you today, on Mount Ebal, and you must coat them with plaster.
+When you have crossed over the Jordan, that you must set up these stones, that I command you today, on Mount Ebal, and you must coat them with plaster.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -151,10 +151,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:8 - You shall write on the stones all the words of this law very plainly."
 
 #### Ages 5-7
-You must write on the stones all the words of this law very plainly."
+You must write all the words of this law very clearly on the stones."
 
 #### Ages 8-10
-You must write on the stones all the words of this law very plainly."
+You must write all the words of this law very clearly on the stones."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -189,10 +189,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:10 - You shall therefore obey Yahweh your God's voice, and do his commandments and his statutes, which I command you today."
 
 #### Ages 5-7
-You must therefore obey the Lord your God's voice, and do his commands and his rules, which I command you today."
+You must therefore obey the Lord your God's voice, and do his commands and his rules, that I command you today."
 
 #### Ages 8-10
-You must therefore obey the Lord your God's voice, and do his commands and his rules, which I command you today."
+You must therefore obey the Lord your God's voice, and do his commands and his rules, that I command you today."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -272,10 +272,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:15 - 'Cursed is the man who makes an engraved or molten image, an abomination to Yahweh, the work of the hands of the craftsman, and sets it up in secret.' All the people shall answer and say, 'Amen.'
 
 #### Ages 5-7
-Cursed is the man who makes a carved idol or idol made from melted metal, a detestable thing to the Lord, the work of the hands of the craftsman, and sets it up in secret.' All the people must answer and say, 'Amen.
+"Cursed is the person who makes a carved idol or an idol made from melted metal, a hateful to the Lord, made by a craftsman's hands, and sets it up in secret." All the people must answer and say, "Amen."
 
 #### Ages 8-10
-Cursed is the man who makes a carved idol or idol made from melted metal, a detestable thing to the Lord, the work of the hands of the craftsman, and sets it up in secret.' All the people must answer and say, 'Amen.
+"Cursed is the person who makes a carved idol or an idol made from melted metal, hateful to the Lord, made by a craftsman's hands, and sets it up in secret." All the people must answer and say, "Amen."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -342,10 +342,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:19 - 'Cursed is he who withholds justice from the foreigner, fatherless, and widow.' All the people shall say, 'Amen.'
 
 #### Ages 5-7
-Cursed is whoever withholds justice from the foreigner, fatherless, and widow.' All the people must say, 'Amen.
+Cursed is whoever withholds justice from the foreigner, children without fathers, and woman whose husband died.' All the people must say, 'Amen.
 
 #### Ages 8-10
-Cursed is whoever withholds justice from the foreigner, fatherless, and widow.' All the people must say, 'Amen.
+Cursed is whoever withholds justice from the foreigner, children without fathers, and woman whose husband died.' All the people must say, 'Amen.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -359,10 +359,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:20 - 'Cursed is he who lies with his father's wife, because he dishonors his father's bed.' All the people shall say, 'Amen.'
 
 #### Ages 5-7
-Cursed is whoever has sexual relations with his father's wife, because he dishonors his father's bed.' All the people must say, 'Amen.
+"Cursed is anyone who dishonors his father's marriage." All the people must say, "Amen."
 
 #### Ages 8-10
-Cursed is whoever has sexual relations with his father's wife, because he dishonors his father's bed.' All the people must say, 'Amen.
+"Cursed is anyone who dishonors his father's marriage." All the people must say, "Amen."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -376,10 +376,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:21 - 'Cursed is he who lies with any kind of animal.' All the people shall say, 'Amen.'
 
 #### Ages 5-7
-Cursed is whoever has sexual relations with any kind of animal.' All the people must say, 'Amen.
+"Cursed is anyone who acts with an animal in a way God forbids." All the people must say, "Amen."
 
 #### Ages 8-10
-Cursed is whoever has sexual relations with any kind of animal.' All the people must say, 'Amen.
+"Cursed is anyone who acts with an animal in a way God forbids." All the people must say, "Amen."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -393,10 +393,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:22 - 'Cursed is he who lies with his sister, his father's daughter or his mother's daughter.' All the people shall say, 'Amen.'
 
 #### Ages 5-7
-Cursed is whoever has sexual relations with his sister, his father's daughter or his mother's daughter.' All the people must say, 'Amen.
+"Cursed is anyone who acts with his sister in the way only marriage should have, whether she is his father's daughter or his mother's daughter." All the people must say, "Amen."
 
 #### Ages 8-10
-Cursed is whoever has sexual relations with his sister, his father's daughter or his mother's daughter.' All the people must say, 'Amen.
+"Cursed is anyone who acts with his sister in the way only marriage should have, whether she is his father's daughter or his mother's daughter." All the people must say, "Amen."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -410,10 +410,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 27:23 - 'Cursed is he who lies with his mother-in-law.' All the people shall say, 'Amen.'
 
 #### Ages 5-7
-Cursed is whoever has sexual relations with his mother-in-law.' All the people must say, 'Amen.
+"Cursed is anyone who acts with his mother-in-law in the way only marriage should have." All the people must say, "Amen."
 
 #### Ages 8-10
-Cursed is whoever has sexual relations with his mother-in-law.' All the people must say, 'Amen.
+"Cursed is anyone who acts with his mother-in-law in the way only marriage should have." All the people must say, "Amen."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -477,11 +477,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 27 is a draft resource chapter. The chapter opens with "Moses and the elders of Israel commanded the people, saying, "Keep all the command which I comman...," moves through "With a loud voice, the Levites must say to all the men of Israel,," and closes with "Cursed is whoever doesn't uphold the words of this law by doing them.' All the people must say, '...." Review this summary for fuller theological detail before approval.
+Moses commands Israel to write the law on stones after crossing the Jordan, build an altar on Mount Ebal, and hear blessings and curses from the mountains. The Levites speak covenant curses, and all the people answer, "Amen."
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's word must be clear**: The law is to be written plainly for the people.
+2. **The people answer the covenant**: Saying "Amen" means the people agree that the Lord's word is right.
 
 ## Memory Verses by Age
 
@@ -503,7 +503,3 @@ It will be on the day when you must pass over the Jordan to the land that the Lo
 
 ## Prayer
 Lord, help us understand Deuteronomy 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

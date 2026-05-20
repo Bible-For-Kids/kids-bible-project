@@ -45,7 +45,7 @@ You must keep my rules, and do them. I am the Lord who makes holy you.
 "If a man has sexual relations with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
 
 ### Leviticus 20:13
-"If a man has sexual relations with a male, as with a woman, both of them have committed a detestable thing. They must surely be put to death. They are responsible for their own death.
+"If a man has sexual relations with a male, as with a woman, both of them have committed a hateful thing. They must surely be put to death. They are responsible for their own death.
 
 ### Leviticus 20:14
 "If a man takes a wife and her mother, it is wickedness. They must be burned with fire, both he and they, that there may be no wickedness among you.

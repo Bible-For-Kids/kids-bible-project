@@ -1,7 +1,7 @@
 # Leviticus Chapter 9
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 9 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on on the eighth day, Aaron begins priestly service and offers sacrifices for himself and the people.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -447,10 +447,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 9:24 - Fire came out from before Yahweh, and consumed the burnt offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
 
 #### Ages 5-7
-Fire came out from before the Lord, and consumed the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
+Fire came out from before the Lord, and burned up the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
 
 #### Ages 8-10
-Fire came out from before the Lord, and consumed the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
+Fire came out from before the Lord, and burned up the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -464,11 +464,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 9 is a draft resource chapter. The chapter opens with "On the eighth day, Moses called Aaron and his sons, and the elders of Israel;," moves through "They delivered the burned offering to him, piece by piece, and the head. He burned them upon the...," and closes with "Fire came out from before the Lord, and consumed the burned offering and the fat upon the altar....." Review this summary for fuller theological detail before approval.
+On the eighth day, Aaron begins priestly service and offers sacrifices for himself and the people. The Lord's glory appears, fire comes from before the Lord, and the people fall on their faces in worship.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God receives worship his way**: The offerings are made as Moses commanded from the Lord.
+2. **God's presence is awesome**: The people see the Lord's glory and respond with reverence.
 
 ## Memory Verses by Age
 
@@ -490,7 +490,3 @@ They brought what Moses commanded before the Tent of Meeting. All the community 
 
 ## Prayer
 Lord, help us understand Leviticus 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

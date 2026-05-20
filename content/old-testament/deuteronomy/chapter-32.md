@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 32
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 32 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses sings a covenant song that calls heaven and earth to listen.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -63,10 +63,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:4 - The Rock: his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.
 
 #### Ages 5-7
-The Rock: his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.
+He is the Rock. His work is perfect. All his ways are justice. He is a faithful God who does no wrong. He is right and true.
 
 #### Ages 8-10
-The Rock: his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.
+He is the Rock. His work is perfect. All his ways are justice. He is a faithful God who does no wrong. He is righteous and true.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -80,10 +80,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:5 - They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.
 
 #### Ages 5-7
-They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.
+They have acted corruptly toward him. They are not acting like his children. They are a crooked and twisted generation.
 
 #### Ages 8-10
-They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.
+They have acted corruptly toward him. They are not acting like his children. They are a crooked and twisted generation.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -180,10 +180,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:11 - As an eagle that stirs up her nest, that flutters over her young, he spread abroad his wings, he took them, he bore them on his feathers.
 
 #### Ages 5-7
-As an eagle that stirs up her nest, that flutters over her young, he spread abroad his wings, he took them, he bore them on his feathers.
+Like an eagle stirring up its nest and hovering over its young, spreading out its wings, taking them up, and carrying them on its feathers,
 
 #### Ages 8-10
-As an eagle that stirs up her nest, that flutters over her young, he spread abroad his wings, he took them, he bore them on his feathers.
+Like an eagle stirring up its nest and hovering over its young, spreading out its wings, taking them up, and carrying them on its feathers,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -194,10 +194,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:12 - Yahweh alone led him. There was no foreign god with him.
 
 #### Ages 5-7
-The Lord alone led him. There was no foreign god with him.
+the Lord alone led him. No foreign god was with him.
 
 #### Ages 8-10
-The Lord alone led him. There was no foreign god with him.
+the Lord alone led him. No foreign god was with him.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -258,10 +258,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:16 - They moved him to jealousy with strange gods. They provoked him to anger with abominations.
 
 #### Ages 5-7
-They moved him to jealousy with strange gods. They provoked him to anger with detestable things.
+They moved him to jealousy with strange gods. They provoked him to anger with hateful things before the Lord.
 
 #### Ages 8-10
-They moved him to jealousy with strange gods. They provoked him to anger with detestable things.
+They moved him to jealousy with strange gods. They provoked him to anger with hateful things before the Lord.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -272,10 +272,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:17 - They sacrificed to demons, not God, to gods that they didn't know, to new gods that came up recently, which your fathers didn't dread.
 
 #### Ages 5-7
-They sacrificed to demons, not God, to gods that they didn't know, to new gods that came up recently, which your ancestors didn't dread.
+They sacrificed to demons, not to God, to gods they had not known, new gods that had recently come, gods your ancestors had not feared.
 
 #### Ages 8-10
-They sacrificed to demons, not God, to gods that they didn't know, to new gods that came up recently, which your ancestors didn't dread.
+They sacrificed to demons, not to God, to gods they had not known, new gods that had recently come, gods your ancestors had not feared.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -324,10 +324,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:20 - He said, "I will hide my face from them. I will see what their end will be; for they are a very perverse generation, children in whom is no faithfulness.
 
 #### Ages 5-7
-He said, "I will hide my face from them. I will see what their end will be; for they are a very perverse generation, children in whom is no faithfulness.
+He said, "I will hide my face from them. I will see what their end will be; for they are a very crooked generation, children in whom is no faithfulness.
 
 #### Ages 8-10
-He said, "I will hide my face from them. I will see what their end will be; for they are a very perverse generation, children in whom is no faithfulness.
+He said, "I will hide my face from them. I will see what their end will be; for they are a very crooked generation, children in whom is no faithfulness.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -383,10 +383,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:24 - They shall be wasted with hunger, and devoured with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.
 
 #### Ages 5-7
-They will be wasted with hunger, and devoured with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.
+They will be wasted with hunger, and swallowed up with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.
 
 #### Ages 8-10
-They will be wasted with hunger, and devoured with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.
+They will be wasted with hunger, and swallowed up with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -577,10 +577,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:37 - He will say, "Where are their gods, the rock in which they took refuge;
 
 #### Ages 5-7
-He will say, "Where are their gods, the rock in which they took refuge;
+He will say, "Where are their gods, the rock where they took refuge?
 
 #### Ages 8-10
-He will say, "Where are their gods, the rock in which they took refuge;
+He will say, "Where are their gods, the rock where they took refuge?
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -591,10 +591,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:38 - which ate the fat of their sacrifices, and drank the wine of their drink offering? Let them rise up and help you! Let them be your protection.
 
 #### Ages 5-7
-which ate the fat of their sacrifices, and drank the wine of their drink gift? Let them rise up and help you! Let them be your protection.
+who ate the fat of their sacrifices and drank the wine of their drink gifts? Let them rise up and help you. Let them protect you!
 
 #### Ages 8-10
-which ate the fat of their sacrifices, and drank the wine of their drink offering? Let them rise up and help you! Let them be your protection.
+who ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you. Let them protect you!
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -722,10 +722,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:46 - He said to them, "Set your heart to all the words which I testify to you today, which you shall command your children to observe to do, all the words of this law.
 
 #### Ages 5-7
-He said to them, "Set your heart to all the words which I testify to you today, which you must command your children to be careful to do, all the words of this law.
+He said to them, "Set your hearts on all the words I testify to you today. Command your children to be careful to do all the words of this law.
 
 #### Ages 8-10
-He said to them, "Set your heart to all the words which I testify to you today, which you must command your children to be careful to do, all the words of this law.
+He said to them, "Set your hearts on all the words I testify to you today. Command your children to be careful to do all the words of this law.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -740,10 +740,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:47 - For it is no vain thing for you, because it is your life, and through this thing you shall prolong your days in the land, where you go over the Jordan to possess it."
 
 #### Ages 5-7
-For it is no vain thing for you, because it is your life, and through this thing you must make your days long in the land, where you go over the Jordan and take it."
+For it is no vain thing for you, because it is your life, and through this you must make your days long in the land, where you go over the Jordan and take it."
 
 #### Ages 8-10
-For it is no vain thing for you, because it is your life, and through this thing you must make your days long in the land, where you go over the Jordan and take it."
+For it is no vain thing for you, because it is your life, and through this you must make your days long in the land, where you go over the Jordan and take it."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -773,10 +773,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:49 - "Go up into this mountain of Abarim, to Mount Nebo, which is in the land of Moab, that is across from Jericho; and see the land of Canaan, which I give to the children of Israel for a possession.
 
 #### Ages 5-7
-"Go up into this mountain of Abarim, to Mount Nebo, which is in the land of Moab, that is across from Jericho; and see the land of Canaan, which I give to the people of Israel for a possession.
+"Go up into this mountain of Abarim, Mount Nebo, in the land of Moab across from Jericho, and see the land of Canaan, that I give to the people of Israel as their land.
 
 #### Ages 8-10
-"Go up into this mountain of Abarim, to Mount Nebo, which is in the land of Moab, that is across from Jericho; and see the land of Canaan, which I give to the people of Israel for a possession.
+"Go up into this mountain of Abarim, Mount Nebo, in the land of Moab across from Jericho, and see the land of Canaan, that I give to the people of Israel as their land.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -825,10 +825,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 32:52 - For you shall see the land from a distance; but you shall not go there into the land which I give the children of Israel."
 
 #### Ages 5-7
-For you must see the land from a distance; but you must not go there into the land that I give the people of Israel."
+You will see the land from a distance, but you will not go there into the land I give the people of Israel."
 
 #### Ages 8-10
-For you must see the land from a distance; but you must not go there into the land that I give the people of Israel."
+You will see the land from a distance, but you will not go there into the land I give the people of Israel."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -839,11 +839,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 32 is a draft resource chapter. The chapter opens with "Give ear, you heavens, and I will speak. Let the earth hear the words of my mouth.," moves through "were it not that I feared the provocation of the enemy, or else their adversaries should judge wr...," and closes with "For you must see the land from a distance; but you must not go there into the land that I give th...." Review this summary for fuller theological detail before approval.
+Moses sings a covenant song that calls heaven and earth to listen. The song praises the Lord as the faithful Rock, exposes Israel's corruption and idolatry, warns of judgment, and still declares that the Lord will show compassion and make atonement for his land and people.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **The Lord is the faithful Rock**: God is true and just even when his people are crooked and unfaithful.
+2. **Songs can witness to truth**: The song helps future generations remember both warning and mercy.
 
 ## Memory Verses by Age
 
@@ -865,7 +865,3 @@ Give ear, you heavens, and I will speak. Let the earth hear the words of my mout
 
 ## Prayer
 Lord, help us understand Deuteronomy 32 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

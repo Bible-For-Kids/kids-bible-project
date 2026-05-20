@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 21
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 21 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses gives laws about unsolved murder, a captive woman, firstborn rights, a stubborn rebellious son, and burial for someone hanged on a tree.
 
 ## Important Keywords
 - cursed: Placed under judgment instead of blessing
@@ -16,10 +16,10 @@ Deuteronomy records Moses speaking to Israel before they enter the land, calling
 **Original Reference**: Deuteronomy 21:1 - If someone is found slain in the land which Yahweh your God gives you to possess, lying in the field, and it isn't known who has struck him,
 
 #### Ages 5-7
-If someone is found killed in the land that the Lord your God gives you to possess, lying in the field, and it isn't known who has struck him,
+If someone is found killed in the land that the Lord your God gives you to take, lying in the field, and it isn't known who has struck him,
 
 #### Ages 8-10
-If someone is found killed in the land that the Lord your God gives you to possess, lying in the field, and it isn't known who has struck him,
+If someone is found killed in the land that the Lord your God gives you to take, lying in the field, and it isn't known who has struck him,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -35,10 +35,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:2 - then your elders and your judges shall come out, and they shall measure to the cities which are around him who is slain.
 
 #### Ages 5-7
-then your elders and your judges will come out, and they must measure to the cities which are around the person who is killed.
+then your elders and your judges will come out, and they must measure to the cities that are around the person who is killed.
 
 #### Ages 8-10
-then your elders and your judges will come out, and they must measure to the cities which are around the person who is killed.
+then your elders and your judges will come out, and they must measure to the cities that are around the person who is killed.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -49,10 +49,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:3 - It shall be that the elders of the city which is nearest to the slain man shall take a heifer of the herd, which hasn't been worked with and which has not drawn in the yoke.
 
 #### Ages 5-7
-It will be that the elders of the city which is nearest to the killed man must take a young cow of the herd, which hasn't been worked with and which has not drawn in the yoke.
+The elders of the city nearest the killed man must take a young cow from the herd, one that has never been worked with or pulled a yoke.
 
 #### Ages 8-10
-It will be that the elders of the city which is nearest to the killed man must take a young cow of the herd, which hasn't been worked with and which has not drawn in the yoke.
+The elders of the city nearest the killed man must take a young cow from the herd, one that has never been worked with or pulled a yoke.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -63,10 +63,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:4 - The elders of that city shall bring the heifer down to a valley with running water, which is neither plowed nor sown, and shall break the heifer's neck there in the valley.
 
 #### Ages 5-7
-The elders of that city must bring the young cow down to a valley with fresh flowing water, which is neither plowed nor sown, and must break the young cow's neck there in the valley.
+The elders of that city must bring the young cow down to a valley with flowing water, a valley that has not been plowed or planted, and break the young cow's neck there.
 
 #### Ages 8-10
-The elders of that city must bring the young cow down to a valley with fresh flowing water, which is neither plowed nor sown, and must break the young cow's neck there in the valley.
+The elders of that city must bring the young cow down to a valley with flowing water, a valley that has not been plowed or planted, and break the young cow's neck there.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -77,10 +77,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:5 - The priests the sons of Levi shall come near, for them Yahweh your God has chosen to minister to him, and to bless in Yahweh's name; and according to their word shall every controversy and every assault be decided.
 
 #### Ages 5-7
-The priests the sons of Levi will come near, for them the Lord your God has chosen to minister to him, and to bless in the Lord's name; and according to their word must every controversy and every assault be decided.
+The priests, the sons of Levi, must come near. The Lord your God chose them to serve him and bless in the Lord's name, and every argument and injury must be decided by their word.
 
 #### Ages 8-10
-The priests the sons of Levi will come near, for them the Lord your God has chosen to minister to him, and to bless in the Lord's name; and according to their word must every controversy and every assault be decided.
+The priests, the sons of Levi, must come near. The Lord your God chose them to serve him and bless in the Lord's name, and every dispute and injury must be decided by their word.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -96,10 +96,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:6 - All the elders of that city which is nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley.
 
 #### Ages 5-7
-All the elders of that city which is nearest to the killed man must wash their hands over the young cow whose neck was broken in the valley.
+All the elders of the city nearest the killed man must wash their hands over the young cow whose neck was broken in the valley.
 
 #### Ages 8-10
-All the elders of that city which is nearest to the killed man must wash their hands over the young cow whose neck was broken in the valley.
+All the elders of the city nearest the killed man must wash their hands over the young cow whose neck was broken in the valley.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -124,10 +124,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:8 - Forgive, Yahweh, your people Israel, whom you have redeemed, and don't allow innocent blood among your people Israel." The blood shall be forgiven them.
 
 #### Ages 5-7
-Forgive, the Lord, your people Israel, whom you have redeemed, and don't allow innocent blood among your people Israel." The blood will be forgiven them.
+Forgive your people Israel, Lord, the people you bought back. Do not hold innocent blood against your people Israel." So the bloodguilt will be forgiven them.
 
 #### Ages 8-10
-Forgive, the Lord, your people Israel, whom you have redeemed, and don't allow innocent blood among your people Israel." The blood will be forgiven them.
+Forgive your people Israel, Lord, the people you redeemed. Do not hold innocent blood against your people Israel." So the bloodguilt will be forgiven them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -143,10 +143,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:9 - So you shall put away the innocent blood from among you, when you shall do that which is right in Yahweh's eyes.
 
 #### Ages 5-7
-So you must put away the innocent blood from among you, when you must do what is right in the Lord's eyes.
+So you must remove the guilt of innocent blood from among you by doing what is right in the Lord's eyes.
 
 #### Ages 8-10
-So you must put away the innocent blood from among you, when you must do what is right in the Lord's eyes.
+So you must remove the guilt of innocent blood from among you by doing what is right in the Lord's eyes.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -161,10 +161,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:10 - When you go out to battle against your enemies, and Yahweh your God delivers them into your hands and you carry them away captive,
 
 #### Ages 5-7
-When you go out to battle against your enemies, and the Lord your God delivers them into your hands and you carry them away captive,
+When you go out to battle against your enemies, and the Lord your God gives them into your hand and you take captives,
 
 #### Ages 8-10
-When you go out to battle against your enemies, and the Lord your God delivers them into your hands and you carry them away captive,
+When you go out to battle against your enemies, and the Lord your God gives them into your hand and you take captives,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -194,10 +194,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:12 - then you shall bring her home to your house. She shall shave her head and trim her nails.
 
 #### Ages 5-7
-then you must bring her home to your house. She must shave her head and trim her nails.
+then bring her into your house. She must shave her head and trim her nails.
 
 #### Ages 8-10
-then you must bring her home to your house. She must shave her head and trim her nails.
+then bring her into your house. She must shave her head and trim her nails.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -208,10 +208,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:13 - She shall take off the clothing of her captivity, and shall remain in your house, and bewail her father and her mother a full month. After that you shall go in to her and be her husband, and she shall be your wife.
 
 #### Ages 5-7
-She must take off the clothing of her captivity, and must remain in your house, and bewail her father and her mother a full month. After that you will have sexual relations with her and be her husband, and she will be your wife.
+She must take off the clothes she wore when she was captured and stay in your house. She may mourn her father and mother for a full month. After that, you may marry her, and she will be your wife.
 
 #### Ages 8-10
-She must take off the clothing of her captivity, and must remain in your house, and bewail her father and her mother a full month. After that you will have sexual relations with her and be her husband, and she will be your wife.
+She must take off the clothes she wore when she was captured and stay in your house. She may mourn her father and mother for a full month. After that, you may marry her, and she will be your wife.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -222,10 +222,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:14 - It shall be, if you have no delight in her, then you shall let her go where she desires; but you shall not sell her at all for money. You shall not deal with her as a slave, because you have humbled her.
 
 #### Ages 5-7
-It will be, if you have no delight in her, then you must let her go where she desires; but you must not sell her at all for money. You must not deal with her as a slave, because you have violated her.
+If you are not pleased with her, you must let her go wherever she wishes. You must not sell her for money or treat her as a slave, because you have taken her into marriage.
 
 #### Ages 8-10
-It will be, if you have no delight in her, then you must let her go where she desires; but you must not sell her at all for money. You must not deal with her as a slave, because you have violated her.
+If you are not pleased with her, you must let her go wherever she wishes. You must not sell her for money or treat her as a slave, because you have humbled her.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -236,10 +236,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:15 - If a man has two wives, the one beloved and the other hated, and they have borne him children, both the beloved and the hated, and if the firstborn son is hers who was hated,
 
 #### Ages 5-7
-If a man has two wives, the one beloved and the other hated, and they have borne him children, both the loved wife and the unloved wife, and if the firstborn son is hers who was hated,
+If a man has two wives, one he loves and one he does not love, and both wives have borne him children, and the firstborn son belongs to the unloved wife,
 
 #### Ages 8-10
-If a man has two wives, the one beloved and the other hated, and they have borne him children, both the loved wife and the unloved wife, and if the firstborn son is hers who was hated,
+If a man has two wives, one he loves and one he does not love, and both wives have borne him children, and the firstborn son belongs to the unloved wife,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -250,10 +250,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:16 - then it shall be, in the day that he causes his sons to inherit that which he has, that he may not give the son of the beloved the rights of the firstborn before the son of the hated, who is the firstborn;
 
 #### Ages 5-7
-then it will be, in the day that he causes his sons to receive as an inheritance that which he has, that he may not favor the son of the loved wife by giving him the rights of the firstborn before the son of the unloved wife, who is the firstborn;
+when he gives his sons their inheritance, he must not treat the son of the loved wife as the firstborn instead of the true firstborn, the son of the unloved wife.
 
 #### Ages 8-10
-then it will be, in the day that he causes his sons to receive as an inheritance that which he has, that he may not favor the son of the loved wife by giving him the rights of the firstborn before the son of the unloved wife, who is the firstborn;
+when he gives his sons their inheritance, he must not treat the son of the loved wife as the firstborn instead of the true firstborn, the son of the unloved wife.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -264,10 +264,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:17 - but he shall acknowledge the firstborn, the son of the hated, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.
 
 #### Ages 5-7
-but he must acknowledge the firstborn, the son of the unloved wife, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.
+He must recognize the firstborn, the son of the unloved wife, by giving him a double share of all he has. That son is the beginning of his strength, and the right of the firstborn belongs to him.
 
 #### Ages 8-10
-but he must acknowledge the firstborn, the son of the unloved wife, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.
+He must recognize the firstborn, the son of the unloved wife, by giving him a double share of all he has. That son is the beginning of his strength, and the right of the firstborn belongs to him.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -278,10 +278,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:18 - If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and though they chasten him, will not listen to them,
 
 #### Ages 5-7
-If a man has a stubborn and rebellious son who will not listen to the voice of his father or the voice of his mother, and though they chasten him, will not listen to them,
+If a man has a stubborn and rebellious son who will not listen to his father or mother, even after they discipline him,
 
 #### Ages 8-10
-If a man has a stubborn and rebellious son who will not listen to the voice of his father or the voice of his mother, and though they chasten him, will not listen to them,
+If a man has a stubborn and rebellious son who will not listen to his father or mother, even after they discipline him,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -306,10 +306,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:20 - They shall tell the elders of his city, "This our son is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard."
 
 #### Ages 5-7
-They must tell the elders of his city, "This our son is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard."
+They must tell the elders of his city, "This son of ours is stubborn and rebellious. He will not obey us. He eats greedily and gets drunk."
 
 #### Ages 8-10
-They must tell the elders of his city, "This our son is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard."
+They must tell the elders of his city, "This son of ours is stubborn and rebellious. He will not obey us. He eats greedily and gets drunk."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -338,10 +338,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:22 - If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree,
 
 #### Ages 5-7
-If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree,
+If a man has committed a sin that deserves death, and he is put to death and hung on a tree,
 
 #### Ages 8-10
-If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree,
+If a man has committed a sin that deserves death, and he is put to death and hung on a tree,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -355,10 +355,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 21:23 - his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don't defile your land which Yahweh your God gives you for an inheritance.
 
 #### Ages 5-7
-his body must not remain all night on the tree, but you must surely bury him the same day; for whoever is hanged is cursed by God. Don't make unclean your land that the Lord your God gives you for an inheritance.
+his body must not stay on the tree overnight. You must bury him the same day, because anyone hanged on a tree is cursed by God. Do not make the land the Lord your God gives you not clean before him.
 
 #### Ages 8-10
-his body must not remain all night on the tree, but you must surely bury him the same day; for whoever is hanged is cursed by God. Don't make unclean your land that the Lord your God gives you for an inheritance.
+his body must not stay on the tree overnight. You must bury him the same day, because anyone hanged on a tree is cursed by God. Do not make the land the Lord your God gives you not clean before him.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -372,19 +372,19 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 21 is a draft resource chapter. The chapter opens with "If someone is found killed in the land that the Lord your God gives you to possess, lying in the...," moves through "then you must bring her home to your house. She must shave her head and trim her nails.," and closes with "his body must not remain all night on the tree, but you must surely bury him the same day; for wh...." Review this summary for fuller theological detail before approval.
+Moses gives laws about unsolved murder, a captive woman, firstborn rights, a stubborn rebellious son, and burial for someone hanged on a tree. These laws show that bloodshed, family order, vulnerable people, discipline, and the land all matter before the Lord.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God sees bloodshed and injustice**: A hidden death in the land must not be ignored.
+2. **Power must have limits**: Even difficult laws protect people from being treated as objects.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-then your elders and your judges will come out, and they must measure to the cities which are around the person who is killed. - Deuteronomy 21:2
+then your elders and your judges will come out, and they must measure to the cities that are around the person who is killed. - Deuteronomy 21:2
 
 ### Ages 8-10
-then your elders and your judges will come out, and they must measure to the cities which are around the person who is killed. - Deuteronomy 21:2
+then your elders and your judges will come out, and they must measure to the cities that are around the person who is killed. - Deuteronomy 21:2
 
 ## Discussion Questions by Age
 
@@ -398,7 +398,3 @@ then your elders and your judges will come out, and they must measure to the cit
 
 ## Prayer
 Lord, help us understand Deuteronomy 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

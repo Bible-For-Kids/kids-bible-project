@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 3
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 3 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: The Lord gives Israel victory over Og king of Bashan and gives land east of the Jordan to Reuben, Gad, and half of Manasseh.
 
 ## Important Keywords
 - God: The one true Creator and Lord over all
@@ -66,10 +66,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:4 - We took all his cities at that time. There was not a city which we didn't take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
 
 #### Ages 5-7
-We took all his cities at that time. There was not a city which we didn't take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
+We took all his cities at that time. There was not a city that we didn't take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
 
 #### Ages 8-10
-We took all his cities at that time. There was not a city which we didn't take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
+We took all his cities at that time. There was not a city that we didn't take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -164,7 +164,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:11 - (For only Og king of Bashan remained of the remnant of the Rephaim. Behold, his bedstead was a bedstead of iron. Isn't it in Rabbah of the children of Ammon? Nine cubits was its length, and four cubits its width, after the cubit of a man.)
 
 #### Ages 5-7
-(For only Og king of Bashan remained of the remnant of the Rephaim. his bedstead was a bedstead of iron. Isn't it in Rabbah of the descendants of Ammon? Nine arm-lengths was its length, and four arm-lengths its width, after the arm-length of a man.)
+(For only Og king of Bashan remained of the rest of the Rephaim. his bedstead was a bedstead of iron. Isn't it in Rabbah of the descendants of Ammon? Nine arm-lengths was its length, and four arm-lengths its width, after the arm-length of a man.)
 
 #### Ages 8-10
 (For only Og king of Bashan remained of the remnant of the Rephaim. his bedstead was a bedstead of iron. Isn't it in Rabbah of the descendants of Ammon? Nine arm-lengths was its length, and four arm-lengths its width, after the arm-length of a man.)
@@ -178,10 +178,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:12 - This land we took in possession at that time: from Aroer, which is by the valley of the Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
 
 #### Ages 5-7
-This land we took in possession at that time: from Aroer, which is by the valley of the Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
+This land we took in land at that time: from Aroer, that is by the valley of the Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
 
 #### Ages 8-10
-This land we took in possession at that time: from Aroer, which is by the valley of the Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
+This land we took in land at that time: from Aroer, that is by the valley of the Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -234,10 +234,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:16 - To the Reubenites and to the Gadites I gave from Gilead even to the valley of the Arnon, the middle of the valley, and its border, even to the river Jabbok, which is the border of the children of Ammon;
 
 #### Ages 5-7
-To the Reubenites and to the Gadites I gave from Gilead even to the valley of the Arnon, the middle of the valley, and its border, even to the river Jabbok, which is the border of the descendants of Ammon;
+To the Reubenites and to the Gadites I gave from Gilead even to the valley of the Arnon, the middle of the valley, and its border, even to the river Jabbok, that is the border of the descendants of Ammon;
 
 #### Ages 8-10
-To the Reubenites and to the Gadites I gave from Gilead even to the valley of the Arnon, the middle of the valley, and its border, even to the river Jabbok, which is the border of the descendants of Ammon;
+To the Reubenites and to the Gadites I gave from Gilead even to the valley of the Arnon, the middle of the valley, and its border, even to the river Jabbok, that is the border of the descendants of Ammon;
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -282,10 +282,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:19 - But your wives, and your little ones, and your livestock, (I know that you have much livestock), shall live in your cities which I have given you,
 
 #### Ages 5-7
-But your wives, and your little ones, and your animals, (I know that you have much animals), will live in your cities which I have given you,
+But your wives, and your little ones, and your animals, (I know that you have many animals), will live in your cities that I have given you,
 
 #### Ages 8-10
-But your wives, and your little ones, and your animals, (I know that you have much animals), will live in your cities which I have given you,
+But your wives, and your little ones, and your animals, (I know that you have many animals), will live in your cities that I have given you,
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -296,10 +296,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:20 - until Yahweh gives rest to your brothers, as to you, and they also possess the land which Yahweh your God gives them beyond the Jordan. Then you shall each return to his own possession, which I have given you."
 
 #### Ages 5-7
-until the Lord gives rest to your brothers, as to you, and they also take the land that the Lord your God gives them beyond the Jordan. Then you must each return to his own possession, which I have given you."
+until the Lord gives rest to your brothers, as to you, and they also take the land that the Lord your God gives them beyond the Jordan. Then you must each return to his own land, that I have given you."
 
 #### Ages 8-10
-until the Lord gives rest to your brothers, as to you, and they also take the land that the Lord your God gives them beyond the Jordan. Then you must each return to his own possession, which I have given you."
+until the Lord gives rest to your brothers, as to you, and they also take the land that the Lord your God gives them beyond the Jordan. Then you must each return to his own land, that I have given you."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -436,10 +436,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 3:28 - But commission Joshua, and encourage him, and strengthen him; for he shall go over before this people, and he shall cause them to inherit the land which you shall see."
 
 #### Ages 5-7
-But commission Joshua, and encourage him, and strengthen him; for he will go over before this people, and he must cause them to receive the land as an inheritance that you must see."
+But appoint Joshua, encourage him, and strengthen him, because he will cross over before this people and lead them to receive the land that you will see."
 
 #### Ages 8-10
-But commission Joshua, and encourage him, and strengthen him; for he will go over before this people, and he must cause them to receive the land as an inheritance that you must see."
+But appoint Joshua, encourage him, and strengthen him, because he will cross over before this people and lead them to receive the land that you will see."
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -461,11 +461,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 3 is a draft resource chapter. The chapter opens with "Then we turned, and went up the way to Bashan. Og the king of Bashan came out against us, he and...," moves through "I gave Gilead to Machir.," and closes with "So we stayed in the valley near Beth Peor.." Review this summary for fuller theological detail before approval.
+The Lord gives Israel victory over Og king of Bashan and gives land east of the Jordan to Reuben, Gad, and half of Manasseh. Moses asks to enter the land, but the Lord says no, tells him to see it from the mountain, and commands him to strengthen Joshua.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his promise of victory**: Even strong kings fall when the Lord gives them into Israel's hand.
+2. **God prepares the next leader**: Joshua is strengthened before he leads Israel across the Jordan.
 
 ## Memory Verses by Age
 
@@ -487,7 +487,3 @@ Then we turned, and went up the way to Bashan. Og the king of Bashan came out ag
 
 ## Prayer
 Lord, help us understand Deuteronomy 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

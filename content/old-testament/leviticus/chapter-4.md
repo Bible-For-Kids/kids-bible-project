@@ -1,7 +1,7 @@
 # Leviticus Chapter 4
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 4 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives offerings for sins done without knowing it, whether by a priest, the whole community, a leader, or one of the people.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -664,11 +664,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 4 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses, saying,," moves through "He must put some of the blood on the horns of the altar which is before the Lord, that is in the...," and closes with "He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offer...." Review this summary for fuller theological detail before approval.
+The Lord gives offerings for sins done without knowing it, whether by a priest, the whole community, a leader, or one of the people. The blood of the offering is handled carefully, and the priest makes atonement so the sinner may be forgiven.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Sin still matters when people did not mean it**: God teaches Israel that hidden or mistaken sin still needs atonement.
+2. **God provides forgiveness**: The priest makes atonement according to the Lord's command, and forgiveness is promised.
 
 ## Memory Verses by Age
 
@@ -676,7 +676,7 @@ Leviticus 4 is a draft resource chapter. The chapter opens with "The Lord spoke 
 He must bring the bull to the door of the Tent of Meeting before the Lord; and he must place his hand on the head of the bull, and kill the bull before the Lord. - Leviticus 4:4
 
 ### Ages 8-10
-if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull with nothing wrong with it to the Lord for a sin offering. - Leviticus 4:3
+if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin he committed a young bull with nothing wrong with it to the Lord for a sin offering. - Leviticus 4:3
 
 ## Discussion Questions by Age
 
@@ -690,7 +690,3 @@ if the anointed priest sins so as to bring guilt on the people, then let him off
 
 ## Prayer
 Lord, help us understand Leviticus 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

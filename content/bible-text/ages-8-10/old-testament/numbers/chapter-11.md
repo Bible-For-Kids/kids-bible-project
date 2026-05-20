@@ -9,7 +9,7 @@ Numbers
 ## Verses
 
 ### Numbers 11:1
-The people were complaining in the ears of the Lord. When the Lord heard it, his anger burned; and the Lord's fire burned among them, and consumed some of the outskirts of the camp.
+The people began to complain where the Lord could hear them. When the Lord heard, his anger burned, and the Lord's fire burned among them and consumed some of the edge of the camp.
 
 ### Numbers 11:2
 The people cried to Moses; and Moses prayed to the Lord, and the fire abated.
@@ -21,7 +21,7 @@ The name of that place was called Taberah, because the Lord's fire burned among 
 The mixed crowd that was among them craved very strongly; and the people of Israel also wept again, and said, "Who will give us meat to eat?
 
 ### Numbers 11:5
-We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic;
+We remember the fish we ate in Egypt for nothing, along with the cucumbers, melons, leeks, onions, and garlic.
 
 ### Numbers 11:6
 but now we have lost our appetite. There is nothing at all except this manna to look at."
@@ -42,7 +42,7 @@ Moses heard the people weeping throughout their families, every man at the door 
 Moses said to the Lord, "Why have you treated your servant so badly? Why haven't I found favor in your sight, that you lay the burden of all this people on me?
 
 ### Numbers 11:12
-Have I conceived all this people? Have I brought them out, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?
+Did I conceive all these people? Did I give birth to them? Why do you tell me to carry them close to me, like a nurse carries a baby, to the land you promised their fathers?
 
 ### Numbers 11:13
 Where could I get meat to give all these people? For they weep before me, saying, 'Give us meat, that we may eat.
@@ -57,10 +57,10 @@ If you treat me this way, please kill me right now, if I have found favor in you
 The Lord said to Moses, "Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the Tent of Meeting, that they may stand there with you.
 
 ### Numbers 11:17
-I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they must bear the burden of the people with you, that you don't bear it yourself alone.
+I will come down and talk with you there. I will take some of the Spirit who is on you and put him on them. They will help carry the burden of the people with you, so you will not carry it alone.
 
 ### Numbers 11:18
-"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept in the ears of the Lord, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
+"Say to the people, 'Sanctify yourselves in preparation for tomorrow, and you will eat meat; for you have wept where the Lord heard them, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the Lord will give you meat, and you will eat.
 
 ### Numbers 11:19
 You will not eat just one day, or two days, or five days, or ten days, or twenty days,

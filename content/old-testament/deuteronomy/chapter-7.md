@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 7
 
 ## Book Overview
-Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. This resource chapter supports Deuteronomy 7 and should be reviewed before approval.
+Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant. Chapter focus: Moses tells Israel to stay separate from the nations' idols and trust the Lord as they enter the land.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -69,10 +69,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:4 - For that would turn away your sons from following me, that they may serve other gods. So Yahweh's anger would be kindled against you, and he would destroy you quickly.
 
 #### Ages 5-7
-For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would be kindled against you, and he would destroy you quickly.
+For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would burn against you, and he would destroy you quickly.
 
 #### Ages 8-10
-For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would be kindled against you, and he would destroy you quickly.
+For that would turn away your sons from following me, that they may serve other gods. So the Lord's anger would burn against you, and he would destroy you quickly.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -87,10 +87,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:5 - But you shall deal with them like this: you shall break down their altars, dash their pillars in pieces, cut down their Asherah poles, and burn their engraved images with fire.
 
 #### Ages 5-7
-But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah pole poles, and burn their engraved images with fire.
+But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah poles, and burn their carved idols with fire.
 
 #### Ages 8-10
-But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah pole poles, and burn their engraved images with fire.
+But you must deal with them like this: you must break down their altars, dash their pillars in pieces, cut down their Asherah poles, and burn their carved idols with fire.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -101,10 +101,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:6 - For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.
 
 #### Ages 5-7
-For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.
+For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own land, above all peoples who are on the face of the earth.
 
 #### Ages 8-10
-For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.
+For you are a holy people to the Lord your God. The Lord your God has chosen you to be a people for his own land, above all peoples who are on the face of the earth.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -121,10 +121,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:7 - Yahweh didn't set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;
 
 #### Ages 5-7
-The Lord didn't set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;
+The Lord did not set his love on you or choose you because you were more numerous than other peoples, for you were the fewest of all peoples.
 
 #### Ages 8-10
-The Lord didn't set his love on you nor choose you, because you were more in number than any people; for you were the fewest of all peoples;
+The Lord did not set his love on you or choose you because you were more numerous than other peoples, for you were the fewest of all peoples.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -139,10 +139,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:8 - but because Yahweh loves you, and because he desires to keep the oath which he swore to your fathers, Yahweh has brought you out with a mighty hand and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.
 
 #### Ages 5-7
-but because the Lord loves you, and because he desires to keep the oath which he swore to your ancestors, the Lord has brought you out with a mighty hand and redeemed you out of the land where you were slaves, from the hand of Pharaoh king of Egypt.
+No, the Lord chose you because he loved you and kept the promise he swore to your ancestors. With his strong hand, the Lord brought you out and bought you back from slavery, from Pharaoh king of Egypt.
 
 #### Ages 8-10
-but because the Lord loves you, and because he desires to keep the oath which he swore to your ancestors, the Lord has brought you out with a mighty hand and redeemed you out of the land where you were slaves, from the hand of Pharaoh king of Egypt.
+The Lord chose you because he loved you and kept the oath he swore to your ancestors. With a strong hand, the Lord brought you out and redeemed you from slavery, from Pharaoh king of Egypt.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -159,10 +159,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:9 - Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commandments to a thousand generations,
 
 #### Ages 5-7
-Know therefore that the Lord your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commands to a thousand generations,
+Know therefore that the Lord your God is God. He is the faithful God, keeping covenant and faithful love to a thousand generations of those who love him and keep his commands.
 
 #### Ages 8-10
-Know therefore that the Lord your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commands to a thousand generations,
+Know therefore that the Lord your God is God. He is the faithful God, keeping covenant and faithful love to a thousand generations of those who love him and keep his commands.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -193,10 +193,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:11 - You shall therefore keep the commandments, the statutes, and the ordinances which I command you today, to do them.
 
 #### Ages 5-7
-You must therefore keep the commands, rules, and teachings which I command you today, to do them.
+You must therefore keep the commands, rules, and teachings that I command you today, to do them.
 
 #### Ages 8-10
-You must therefore keep the commands, rules, and teachings which I command you today, to do them.
+You must therefore keep the commands, rules, and teachings that I command you today, to do them.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -210,10 +210,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:12 - It shall happen, because you listen to these ordinances and keep and do them, that Yahweh your God will keep with you the covenant and the loving kindness which he swore to your fathers.
 
 #### Ages 5-7
-It must happen, because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness which he swore to your ancestors.
+Because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness that he swore to your ancestors.
 
 #### Ages 8-10
-It must happen, because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness which he swore to your ancestors.
+Because you listen to these commands and keep and do them, that the Lord your God will keep with you the covenant and the loving kindness that he swore to your ancestors.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -230,10 +230,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:13 - He will love you, bless you, and multiply you. He will also bless the fruit of your body and the fruit of your ground, your grain and your new wine and your oil, the increase of your livestock and the young of your flock, in the land which he swore to your fathers to give you.
 
 #### Ages 5-7
-He will love you, bless you, and multiply you. He will also bless the fruit of your body and the fruit of your ground, your grain and your new wine and your oil, the increase of your animals and the young of your flock, in the land that he swore to your ancestors to give you.
+He will love you, bless you, and multiply you. He will also bless the children and the food from your ground, your grain and your new grape juice and your oil, the increase of your herds and the lambs and young goats of your flock, in the land that he swore to your ancestors to give you.
 
 #### Ages 8-10
-He will love you, bless you, and multiply you. He will also bless the fruit of your body and the fruit of your ground, your grain and your new wine and your oil, the increase of your animals and the young of your flock, in the land that he swore to your ancestors to give you.
+He will love you, bless you, and multiply you. He will also bless the children and the food from your ground, your grain and your new grape juice and your oil, the increase of your herds and the lambs and young goats of your flock, in the land that he swore to your ancestors to give you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -261,10 +261,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:15 - Yahweh will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you.
 
 #### Ages 5-7
-The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you.
+The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, that you know, on you, but will lay them on all those who hate you.
 
 #### Ages 8-10
-The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, which you know, on you, but will lay them on all those who hate you.
+The Lord will take away from you all sickness; and he will put none of the evil diseases of Egypt, that you know, on you, but will lay them on all those who hate you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -281,10 +281,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:16 - You shall consume all the peoples whom Yahweh your God shall deliver to you. Your eye shall not pity them. You shall not serve their gods; for that would be a snare to you.
 
 #### Ages 5-7
-You must consume all the peoples whom the Lord your God must deliver to you. Your eye must not pity them. You must not serve their gods; for that would be a snare to you.
+You must destroy all the peoples whom the Lord your God delivers to you. You must not show pity them. You must not serve their gods; for that would be a snare to you.
 
 #### Ages 8-10
-You must consume all the peoples whom the Lord your God must deliver to you. Your eye must not pity them. You must not serve their gods; for that would be a snare to you.
+You must destroy all the peoples whom the Lord your God delivers to you. You must not show pity them. You must not serve their gods; for that would be a snare to you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -303,7 +303,7 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 If you must say in your heart, "These nations are more than I; how can I drive them out?"
 
 #### Ages 8-10
-If you must say in your heart, "These nations are more than I; how can I dispossess them?"
+If you must say in your heart, "These nations are more than I; how can I drive out them?"
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -335,10 +335,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:19 - the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which Yahweh your God brought you out. So shall Yahweh your God do to all the peoples of whom you are afraid.
 
 #### Ages 5-7
-the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by that the Lord your God brought you out. So must the Lord your God do to all the peoples of whom you are afraid.
+You saw the great trials, signs, wonders, mighty hand, and outstretched arm by which the Lord your God brought you out. The Lord your God will do the same to all the peoples you fear.
 
 #### Ages 8-10
-the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by that the Lord your God brought you out. So must the Lord your God do to all the peoples of whom you are afraid.
+You saw the great trials, signs, wonders, mighty hand, and outstretched arm by which the Lord your God brought you out. The Lord your God will do the same to all the peoples you fear.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -392,10 +392,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:22 - Yahweh your God will cast out those nations before you little by little. You may not consume them at once, lest the animals of the field increase on you.
 
 #### Ages 5-7
-The Lord your God will drive out those nations before you little by little. You may not consume them at once, or else the animals of the field increase on you.
+The Lord your God will drive out those nations before you little by little. You may not destroy them at once, or else the animals of the field increase on you.
 
 #### Ages 8-10
-The Lord your God will drive out those nations before you little by little. You may not consume them at once, or else the animals of the field increase on you.
+The Lord your God will drive out those nations before you little by little. You may not destroy them at once, or else the animals of the field increase on you.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -444,10 +444,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:25 - You shall burn the engraved images of their gods with fire. You shall not covet the silver or the gold that is on them, nor take it for yourself, lest you be snared in it; for it is an abomination to Yahweh your God.
 
 #### Ages 5-7
-You must burn the engraved images of their gods with fire. You must not covet the silver or the gold that is on them, nor take it for yourself, or else you be snared in it; for it is a detestable thing to the Lord your God.
+You must burn the carved idols of their gods with fire. Do not want the silver or gold on them for yourself, or it will trap you. Those idols are hateful to the Lord your God.
 
 #### Ages 8-10
-You must burn the engraved images of their gods with fire. You must not covet the silver or the gold that is on them, nor take it for yourself, or else you be snared in it; for it is a detestable thing to the Lord your God.
+You must burn the carved images of their gods with fire. Do not want the silver or gold on them for yourself, or it will trap you. Those idols are hateful to the Lord your God.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -463,10 +463,10 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 **Original Reference**: Deuteronomy 7:26 - You shall not bring an abomination into your house and become a devoted thing like it. You shall utterly detest it. You shall utterly abhor it; for it is a devoted thing.
 
 #### Ages 5-7
-You must not bring a detestable thing into your house and become a devoted thing like it. You must utterly detest it. You must utterly hate it; for it is a devoted thing.
+Do not bring a hateful idol into your house and become set apart for destruction like it. You must hate it completely, because it is set apart for destruction.
 
 #### Ages 8-10
-You must not bring a detestable thing into your house and become a devoted thing like it. You must utterly detest it. You must utterly hate it; for it is a devoted thing.
+Do not bring a hateful idol into your house and become set apart for destruction like it. You must utterly detest it and hate it, because it is set apart for destruction.
 
 **Translation Notes**:
 Preserve Moses' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.
@@ -474,11 +474,11 @@ Preserve Moses' covenant teaching and the reason for obedience. Keep commands cl
 ---
 
 ## Chapter Summary
-Deuteronomy 7 is a draft resource chapter. The chapter opens with "When the Lord your God brings you into the land where you go and take it, and drives out many nat...," moves through "You will be blessed above all peoples. There won't be male or female barren among you, or among y...," and closes with "You must not bring a detestable thing into your house and become a devoted thing like it. You mus...." Review this summary for fuller theological detail before approval.
+Moses tells Israel to stay separate from the nations' idols and trust the Lord as they enter the land. The Lord chose Israel not because they were large or strong, but because of his love and the covenant promise he made to their fathers.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God loves by grace**: Israel is chosen because the Lord loves and keeps his promise.
+2. **Idols must not be welcomed**: The Lord warns Israel not to bring false worship into their homes.
 
 ## Memory Verses by Age
 
@@ -500,7 +500,3 @@ and when the Lord your God delivers them up before you, and you strike them, the
 
 ## Prayer
 Lord, help us understand Deuteronomy 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

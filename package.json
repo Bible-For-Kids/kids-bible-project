@@ -14,6 +14,7 @@
     "review:exodus": "node scripts/review-exodus-resources.js",
     "review:leviticus": "node scripts/review-leviticus-resources.js",
     "review:numbers": "node scripts/review-numbers-resources.js",
+    "review:deuteronomy": "node scripts/review-deuteronomy-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {

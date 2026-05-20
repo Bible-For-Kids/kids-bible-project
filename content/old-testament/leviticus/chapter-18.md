@@ -1,7 +1,7 @@
 # Leviticus Chapter 18
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 18 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord warns Israel not to copy the practices of Egypt or Canaan and gives boundaries for family and marriage purity.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -405,10 +405,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:26 - You therefore shall keep my statutes and my ordinances, and shall not do any of these abominations; neither the native-born, nor the stranger who lives as a foreigner among you
 
 #### Ages 5-7
-You therefore must keep my rules and my commands, and must not do any of these detestable things; neither the native-born, nor the foreigner who lives among you
+You therefore must keep my rules and my commands, and must not do any of these hateful things; neither the native-born, nor the foreigner who lives among you
 
 #### Ages 8-10
-You therefore must keep my rules and my commands, and must not do any of these detestable things; neither the native-born, nor the foreigner who lives among you
+You therefore must keep my rules and my commands, and must not do any of these hateful things; neither the native-born, nor the foreigner who lives among you
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -419,10 +419,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:27 - (for the men of the land that were before you had done all these abominations, and the land became defiled),
 
 #### Ages 5-7
-The people who lived in the land before you did all these detestable things, and the land became not clean.
+The people who lived in the land before you did all these hateful things, and the land became not clean.
 
 #### Ages 8-10
-The people who lived in the land before you did all these detestable things, and the land became unclean.
+The people who lived in the land before you did all these hateful things, and the land became unclean.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -447,10 +447,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:29 - " 'For whoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.
 
 #### Ages 5-7
-"For whoever does any of these detestable things, even the people who do them must be removed from among their people.
+"For whoever does any of these hateful things, even the people who do them must be removed from among their people.
 
 #### Ages 8-10
-"For whoever does any of these detestable things, even the people who do them must be removed from among their people.
+"For whoever does any of these hateful things, even the people who do them must be removed from among their people.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -461,10 +461,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 18:30 - Therefore you shall keep my requirements, that you do not practice any of these abominable customs which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.' "
 
 #### Ages 5-7
-So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not let them make you not clean for worship. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the hateful customs that were practiced before you, and do not let them make you not clean for worship. I am the Lord your God.' "
 
 #### Ages 8-10
-So keep my requirements. Do not practice any of the detestable customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "
+So keep my requirements. Do not practice any of the hateful customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -477,11 +477,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 18 is a draft resource chapter. The chapter opens with "The Lord said to Moses,," moves through "You must not have sexual relations with your brother's wife. This would dishonor your brother.," and closes with "Therefore you must keep my requirements, that you do not practice any of these detestable customs...." Review this summary for fuller theological detail before approval.
+The Lord warns Israel not to copy the practices of Egypt or Canaan and gives boundaries for family and marriage purity. Israel must keep the Lord's commands so the land is not defiled as it was by the nations before them.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God's people must not copy evil customs**: The Lord calls Israel to follow his ways, not the practices around them.
+2. **God protects family holiness**: The boundaries in this chapter guard marriage, family, and the covenant community.
 
 ## Memory Verses by Age
 
@@ -503,7 +503,3 @@ You must not do as they do in the land of Egypt, where you lived. You must not d
 
 ## Prayer
 Lord, help us understand Leviticus 18 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->

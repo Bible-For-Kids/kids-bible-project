@@ -198,10 +198,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 12:11 - Aaron said to Moses, "Oh, my lord, please don't count this sin against us, in which we have done foolishly, and in which we have sinned.
 
 #### Ages 5-7
-Aaron said to Moses, "Oh, my lord, please don't count this sin against us, in which we have done foolishly, and in which we have sinned.
+Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.
 
 #### Ages 8-10
-Aaron said to Moses, "Oh, my lord, please don't count this sin against us, in which we have done foolishly, and in which we have sinned.
+Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
@@ -218,10 +218,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 12:12 - Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb."
 
 #### Ages 5-7
-Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb."
+Please do not let her be like someone already dying, with the body wasting away."
 
 #### Ages 8-10
-Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb."
+Please do not let her be like a child born already near death, with the body wasting away."
 
 **Translation Notes**:
 Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.

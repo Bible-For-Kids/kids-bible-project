@@ -1,7 +1,7 @@
 # Leviticus Chapter 16
 
 ## Book Overview
-Leviticus gives Israel worship laws, holiness laws, and priestly instructions for living near the holy Lord. This resource chapter supports Leviticus 16 and should be reviewed before approval.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on after the death of Aaron's sons, the Lord gives the Day of Atonement.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -574,10 +574,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 16:31 - It is a Sabbath of solemn rest to you, and you shall afflict your souls. It is a statute forever.
 
 #### Ages 5-7
-It is a Sabbath of solemn rest to you, and you must humble yourselves. It is a lasting rule.
+It is a Sabbath of quiet holy rest to you, and you must humble yourselves. It is a lasting rule.
 
 #### Ages 8-10
-It is a Sabbath of solemn rest to you, and you must humble yourselves. It is a lasting rule.
+It is a Sabbath of quiet holy rest to you, and you must humble yourselves. It is a lasting rule.
 
 **Translation Notes**:
 Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
@@ -647,11 +647,11 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 ---
 
 ## Chapter Summary
-Leviticus 16 is a draft resource chapter. The chapter opens with "The Lord spoke to Moses after the death of the two sons of Aaron, when they came near before the...," moves through "He must go out to the altar that is before the Lord and make atonement for it, and must take some...," and closes with "This must be a lasting rule for you, to make atonement for the people of Israel once in the year...." Review this summary for fuller theological detail before approval.
+After the death of Aaron's sons, the Lord gives the Day of Atonement. Once each year, the high priest enters the Most Holy Place with blood, makes atonement for himself, the holy place, and Israel, and sends away the live goat as a sign that the people's sins are carried away.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Atonement is God's gift**: Only the way God commands can cover sin before the holy Lord.
+2. **God removes sin from his people**: The live goat pictures sin being carried away from the camp.
 
 ## Memory Verses by Age
 
@@ -673,7 +673,3 @@ He must take from the community of the people of Israel two male goats for a sin
 
 ## Prayer
 Lord, help us understand Leviticus 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
