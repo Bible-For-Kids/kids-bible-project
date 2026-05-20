@@ -1,14 +1,14 @@
 # Genesis Chapter 39
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 39 and should be reviewed before approval.
+Genesis 39 continues the covenant family story. The Lord is with Joseph in Potiphar's house and in prison, even when Joseph is falsely accused for refusing sin.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- presence: Being with someone
+- temptation: A pull toward sin or disobedience
+- faithfulness: Steady loyalty that keeps doing what is right
+- prison: A guarded place where prisoners are kept
+- favor: Kindness or grace shown to someone
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and c
 #### Ages 8-10
 Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had brought him there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 39:2
@@ -38,13 +31,6 @@ The Lord was with Joseph, and Joseph did well. He lived in the house of his Egyp
 
 #### Ages 8-10
 The Lord was with Joseph, and he prospered while he lived in the house of his Egyptian master.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -57,13 +43,6 @@ Joseph's master saw that the Lord was with him and that the Lord made everything
 #### Ages 8-10
 His master saw that the Lord was with Joseph and that the Lord made everything he did succeed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 39:4
@@ -75,8 +54,8 @@ Joseph found favor in Potiphar's sight and served him. Potiphar put Joseph in ch
 #### Ages 8-10
 Joseph found favor in Potiphar's sight and served him. Potiphar made him overseer of his house and put everything he owned into Joseph's hand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- favor: Kindness or grace shown to someone
 
 ---
 
@@ -89,15 +68,6 @@ From the time Potiphar put Joseph in charge of his house and all he owned, the L
 #### Ages 8-10
 From the time Potiphar made Joseph overseer of his house and all he owned, the Lord blessed the Egyptian's house for Joseph's sake. The Lord's blessing was on all he had, in the house and in the field.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 39:6
@@ -109,8 +79,8 @@ Potiphar left everything he had in Joseph's care. He did not worry about anythin
 #### Ages 8-10
 Potiphar left all he had in Joseph's hand, and he paid attention to nothing except the food he ate. Joseph was handsome and well favored.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- favor: Kindness or grace shown to someone
 
 ---
 
@@ -123,9 +93,6 @@ After these things, Potiphar's wife looked at Joseph and said, "Lie with me."
 #### Ages 8-10
 After these things, his master's wife looked at Joseph and said, "Lie with me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:8
@@ -136,9 +103,6 @@ But Joseph refused. He said to his master's wife, "My master does not need to wo
 
 #### Ages 8-10
 But Joseph refused and said to his master's wife, "My master does not concern himself with what is in the house, and he has committed all he has to my hand.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -152,11 +116,7 @@ No one in this house is greater than I am. He has kept nothing back from me exce
 No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then can I do this great wickedness and sin against God?"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- sin: Disobeying God and going against his good way
+Joseph names the temptation as sin against God, not only a wrong against Potiphar.
 
 ---
 
@@ -169,9 +129,6 @@ She spoke to Joseph day after day, but he would not listen to her. He would not 
 #### Ages 8-10
 She spoke to Joseph day after day, but he would not listen to her, lie beside her, or be with her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:11
@@ -182,9 +139,6 @@ One day Joseph went into the house to do his work, and none of the men of the ho
 
 #### Ages 8-10
 About that time Joseph went into the house to do his work, and none of the men of the house were inside.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -197,9 +151,6 @@ She grabbed Joseph by his garment and said, "Lie with me." But Joseph left his g
 #### Ages 8-10
 She caught him by his garment and said, "Lie with me." Joseph left his garment in her hand, fled, and went outside.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:13
@@ -210,9 +161,6 @@ When she saw that Joseph had left his garment in her hand and had run outside,
 
 #### Ages 8-10
 When she saw that he had left his garment in her hand and had fled outside,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -225,9 +173,6 @@ she called to the men of her house and said, "See, he has brought a Hebrew man a
 #### Ages 8-10
 she called to the men of her house and said, "See, he has brought a Hebrew man to us to shame us. He came in to me to lie with me, and I cried out with a loud voice.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:15
@@ -238,9 +183,6 @@ When he heard me lift up my voice and cry, he left his garment with me, ran away
 
 #### Ages 8-10
 When he heard me lift up my voice and cry, he left his garment with me, fled, and went outside."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -253,9 +195,6 @@ She kept Joseph's garment beside her until his master came home.
 #### Ages 8-10
 She kept his garment beside her until his master came home.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:17
@@ -266,9 +205,6 @@ Then she told Potiphar the same story, saying, "The Hebrew servant you brought t
 
 #### Ages 8-10
 Then she spoke to him with the same words, saying, "The Hebrew servant you brought to us came in to me to shame me.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -281,9 +217,6 @@ When I lifted up my voice and cried, he left his garment with me and ran outside
 #### Ages 8-10
 When I lifted up my voice and cried, he left his garment with me and fled outside."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 39:19
@@ -294,9 +227,6 @@ When Joseph's master heard the words his wife spoke, saying, "This is what your 
 
 #### Ages 8-10
 When Joseph's master heard the words his wife spoke, saying, "This is what your servant did to me," his anger burned.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -309,8 +239,8 @@ Joseph's master took him and put him into the prison, the place where the king's
 #### Ages 8-10
 Joseph's master took him and put him into the prison, the place where the king's prisoners were kept, and Joseph remained there in the prison.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -324,11 +254,14 @@ But the Lord was with Joseph and showed him mercy, giving him favor in the sight
 But the Lord was with Joseph, showed him mercy, and gave him favor in the sight of the keeper of the prison.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- prison: A guarded place where prisoners are kept
+- favor: Kindness or grace shown to someone
+
+**Cross-References**:
+- Acts 7:9
 
 ---
 
@@ -341,8 +274,8 @@ The keeper of the prison put all the prisoners in Joseph's care. Whatever was do
 #### Ages 8-10
 The keeper of the prison placed all the prisoners in Joseph's hand, and whatever they did there, Joseph managed it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -355,43 +288,36 @@ The keeper of the prison did not worry about anything under Joseph's care, becau
 #### Ages 8-10
 The keeper of the prison did not need to watch anything under Joseph's hand, because the Lord was with him. Whatever Joseph did, the Lord made it succeed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- prison: A guarded place where prisoners are kept
 
 ---
 
 ## Chapter Summary
-Genesis 39 is a draft resource chapter. The chapter opens with "Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the gua...," moves through "She caught him by his garment and said, "Lie with me." Joseph left his garment in her hand, fled,...," and closes with "The keeper of the prison did not need to watch anything under Joseph's hand, because the Lord was...." Review this summary for fuller theological detail before approval.
+The Lord is with Joseph in Potiphar's house and in prison, even when Joseph is falsely accused for refusing sin.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought Joseph from the Ishmaelites who had brought him there. - Genesis 39:1
+But the Lord was with Joseph and showed him mercy, giving him favor in the sight of the keeper of the prison. - Genesis 39:21
 
 ### Ages 8-10
-Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had brought him there. - Genesis 39:1
+But the Lord was with Joseph, showed him mercy, and gave him favor in the sight of the keeper of the prison. - Genesis 39:21
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 39 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 39 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

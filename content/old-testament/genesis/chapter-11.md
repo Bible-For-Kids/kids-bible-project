@@ -1,12 +1,14 @@
 # Genesis Chapter 11
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 11 and should be reviewed before approval.
+Genesis 11 tells of Babel, where people tried to build a city and tower for their own name. The Lord confused their language and scattered them, then the chapter narrows to Shem's line and Abram's family.
 
 ## Important Keywords
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Babel: The city where the Lord confused human language
+- language: The words a people use to speak with one another
+- scattered: Spread out in many directions
+- genealogy: A family line that tells who came from whom
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -19,8 +21,8 @@ At that time, the whole earth had one language and the same words.
 #### Ages 8-10
 Now the whole earth had one language and the same words.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- language: The words a people use to speak with one another
 
 ---
 
@@ -33,9 +35,6 @@ As people moved east, they found a wide plain in Shinar and settled there.
 #### Ages 8-10
 As people moved east, they found a plain in Shinar and settled there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:3
@@ -46,9 +45,6 @@ They said to each other, "Come, let us make bricks and bake them hard." They use
 
 #### Ages 8-10
 They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -62,7 +58,13 @@ Then they said, "Come, let us build ourselves a city and a tower with its top re
 Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a name for ourselves, so we will not be scattered over the whole earth."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the people's motive clear: they wanted a name for themselves and feared being scattered.
+
+**Key Vocabulary**:
+- scattered: Spread out in many directions
+
+**Cross-References**:
+- Genesis 1:28
 
 ---
 
@@ -75,13 +77,6 @@ But the Lord came down to see the city and the tower the people were building.
 #### Ages 8-10
 But the Lord came down to see the city and the tower the people were building.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 11:6
@@ -93,12 +88,8 @@ The Lord said, "They are one people, and they all have one language. This is onl
 #### Ages 8-10
 The Lord said, "They are one people, and they all have one language. This is only the beginning of what they will do. Nothing they plan will be impossible for them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- language: The words a people use to speak with one another
 
 ---
 
@@ -112,7 +103,10 @@ Come, let us go down and confuse their language, so they will not understand one
 Come, let us go down and confuse their language, so they will not understand one another's speech."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Use careful wording for God's speech; do not make the Lord sound confused or threatened.
+
+**Key Vocabulary**:
+- language: The words a people use to speak with one another
 
 ---
 
@@ -125,12 +119,8 @@ So the Lord scattered them from there over the whole earth. They stopped buildin
 #### Ages 8-10
 So the Lord scattered them from there over the whole earth, and they stopped building the city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- scattered: Spread out in many directions
 
 ---
 
@@ -144,11 +134,15 @@ That is why the city was called Babel, because there the Lord confused the langu
 That is why it was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Babel: The city where the Lord confused human language
+- language: The words a people use to speak with one another
+- scattered: Spread out in many directions
+
+**Cross-References**:
+- Acts 2:6
 
 ---
 
@@ -161,9 +155,6 @@ This is Shem's family line. Two years after the flood, when Shem was 100 years o
 #### Ages 8-10
 This is the family line of Shem. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:11
@@ -174,9 +165,6 @@ After Arphaxad was born, Shem lived 500 more years. He had other sons and daught
 
 #### Ages 8-10
 After Arphaxad was born, Shem lived 500 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -189,9 +177,6 @@ When Arphaxad was 35 years old, he became the father of Shelah.
 #### Ages 8-10
 When Arphaxad was 35 years old, he became the father of Shelah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:13
@@ -202,9 +187,6 @@ After Shelah was born, Arphaxad lived 403 more years. He had other sons and daug
 
 #### Ages 8-10
 After Shelah was born, Arphaxad lived 403 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -217,9 +199,6 @@ When Shelah was 30 years old, he became the father of Eber.
 #### Ages 8-10
 When Shelah was 30 years old, he became the father of Eber.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:15
@@ -230,9 +209,6 @@ After Eber was born, Shelah lived 403 more years. He had other sons and daughter
 
 #### Ages 8-10
 After Eber was born, Shelah lived 403 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -245,9 +221,6 @@ When Eber was 34 years old, he became the father of Peleg.
 #### Ages 8-10
 When Eber was 34 years old, he became the father of Peleg.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:17
@@ -258,9 +231,6 @@ After Peleg was born, Eber lived 430 more years. He had other sons and daughters
 
 #### Ages 8-10
 After Peleg was born, Eber lived 430 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -273,9 +243,6 @@ When Peleg was 30 years old, he became the father of Reu.
 #### Ages 8-10
 When Peleg was 30 years old, he became the father of Reu.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:19
@@ -286,9 +253,6 @@ After Reu was born, Peleg lived 209 more years. He had other sons and daughters.
 
 #### Ages 8-10
 After Reu was born, Peleg lived 209 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -301,9 +265,6 @@ When Reu was 32 years old, he became the father of Serug.
 #### Ages 8-10
 When Reu was 32 years old, he became the father of Serug.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:21
@@ -314,9 +275,6 @@ After Serug was born, Reu lived 207 more years. He had other sons and daughters.
 
 #### Ages 8-10
 After Serug was born, Reu lived 207 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -329,9 +287,6 @@ When Serug was 30 years old, he became the father of Nahor.
 #### Ages 8-10
 When Serug was 30 years old, he became the father of Nahor.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:23
@@ -342,9 +297,6 @@ After Nahor was born, Serug lived 200 more years. He had other sons and daughter
 
 #### Ages 8-10
 After Nahor was born, Serug lived 200 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -357,9 +309,6 @@ When Nahor was 29 years old, he became the father of Terah.
 #### Ages 8-10
 When Nahor was 29 years old, he became the father of Terah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:25
@@ -370,9 +319,6 @@ After Terah was born, Nahor lived 119 more years. He had other sons and daughter
 
 #### Ages 8-10
 After Terah was born, Nahor lived 119 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -385,9 +331,6 @@ After Terah was 70 years old, he became the father of Abram, Nahor, and Haran.
 #### Ages 8-10
 After Terah was 70 years old, he became the father of Abram, Nahor, and Haran.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:27
@@ -398,9 +341,6 @@ This is Terah's family line. Terah became the father of Abram, Nahor, and Haran.
 
 #### Ages 8-10
 This is the family line of Terah. Terah became the father of Abram, Nahor, and Haran. Haran became the father of Lot.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -413,9 +353,6 @@ While his father Terah was still alive, Haran died in Ur of the Chaldeans, the l
 #### Ages 8-10
 While his father Terah was still alive, Haran died in Ur of the Chaldeans, the land of his birth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 11:29
@@ -426,9 +363,6 @@ Abram and Nahor both married. Abram's wife was Sarai. Nahor's wife was Milcah, t
 
 #### Ages 8-10
 Abram and Nahor both married. Abram's wife was Sarai. Nahor's wife was Milcah, the daughter of Haran, who was the father of Milcah and Iscah.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -442,7 +376,10 @@ Sarai had no children, because she was not able to have a child.
 Now Sarai was childless because she was not able to have children.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Sarai being barren matters for the coming promise of Isaac.
+
+**Cross-References**:
+- Genesis 18:11
 
 ---
 
@@ -455,12 +392,6 @@ Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai. They 
 #### Ages 8-10
 Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai. They left Ur of the Chaldeans to go to Canaan, but when they came to Harran, they settled there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- law: God's instruction for his people
-
 ---
 
 ### Genesis 11:32
@@ -472,39 +403,33 @@ Terah lived 205 years, and he died in Harran.
 #### Ages 8-10
 Terah lived 205 years, and he died in Harran.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 11 is a draft resource chapter. The chapter opens with "Now the whole earth had one language and the same words.," moves through "After Peleg was born, Eber lived 430 years and had other sons and daughters.," and closes with "Terah lived 205 years, and he died in Harran.." Review this summary for fuller theological detail before approval.
+The people of the earth shared one language and gathered in Shinar to build a city and tower, wanting to make a name for themselves and avoid being scattered. The Lord came down, confused their language, and scattered them over the earth. The rest of the chapter traces Shem's family line down to Terah, Abram, Nahor, Haran, Sarai, and Lot, preparing for God's call of Abram.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **Pride tries to make its own name**: Babel shows people seeking greatness apart from God.
+2. **God rules over human plans**: The Lord confused the language and scattered the people.
+3. **God keeps the promise moving**: The genealogy leads quietly toward Abram and the covenant story.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-At that time, the whole earth had one language and the same words. - Genesis 11:1
+That is why the city was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth. - Genesis 11:9
 
 ### Ages 8-10
-Now the whole earth had one language and the same words. - Genesis 11:1
+That is why it was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth. - Genesis 11:9
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 11 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 11 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

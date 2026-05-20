@@ -51,7 +51,7 @@ The sons of Issachar were Tola, Phuvah, Job, and Shimron.
 The sons of Zebulun were Sered, Elon, and Jahleel.
 
 ### Genesis 46:15
-These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three persons.
+These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three people.
 
 ### Genesis 46:16
 The sons of Gad were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
@@ -60,7 +60,7 @@ The sons of Gad were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
 The sons of Asher were Jimnah, Ishuah, Isui, Beriah, and their sister Serah. The sons of Beriah were Heber and Malchiel.
 
 ### Genesis 46:18
-These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen persons to Jacob.
+These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen people to Jacob.
 
 ### Genesis 46:19
 The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
@@ -72,7 +72,7 @@ In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, 
 The sons of Benjamin were Belah, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 
 ### Genesis 46:22
-These were the children of Rachel who were born to Jacob, fourteen persons in all.
+These were the children of Rachel who were born to Jacob, fourteen people in all.
 
 ### Genesis 46:23
 The son of Dan was Hushim.
@@ -81,13 +81,13 @@ The son of Dan was Hushim.
 The sons of Naphtali were Jahzeel, Guni, Jezer, and Shillem.
 
 ### Genesis 46:25
-These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven persons to Jacob.
+These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven people to Jacob.
 
 ### Genesis 46:26
-All the persons who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six persons.
+All the people who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six people.
 
 ### Genesis 46:27
-Joseph had two sons who were born to him in Egypt. All the persons of Jacob's house who came into Egypt were seventy.
+Joseph had two sons who were born to him in Egypt. All the people of Jacob's house who came into Egypt were seventy.
 
 ### Genesis 46:28
 Jacob sent Judah ahead to Joseph, so Joseph could show the way to Goshen. Then they came into the land of Goshen.

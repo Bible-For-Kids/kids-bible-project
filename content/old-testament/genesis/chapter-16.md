@@ -1,13 +1,14 @@
 # Genesis Chapter 16
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 16 and should be reviewed before approval.
+Genesis 16 continues the covenant family story. Sarai gives Hagar to Abram, Hagar bears Ishmael, and the Lord sees Hagar in her suffering and speaks promises about her son.
 
 ## Important Keywords
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- barren: Not able to have children
+- promise: Words someone says and keeps
+- angel: A messenger sent from God
+- Ishmael: Abraham and Hagar's son
+- mercy: Kind help given to someone in need or guilt
 
 ## Verse-by-Verse Translation
 
@@ -20,9 +21,6 @@ Abram's wife Sarai had not had any children. She had an Egyptian servant named H
 #### Ages 8-10
 Abram's wife Sarai had borne him no children, but she had an Egyptian servant named Hagar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 16:2
@@ -33,13 +31,6 @@ Sarai said to Abram, "The Lord has kept me from having children. Go to my servan
 
 #### Ages 8-10
 Sarai said to Abram, "The Lord has kept me from having children. Go to my servant; perhaps I can build a family through her." Abram listened to Sarai.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -52,9 +43,6 @@ So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servan
 #### Ages 8-10
 So after Abram had lived in Canaan for ten years, Sarai gave her Egyptian servant Hagar to Abram as his wife.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 16:4
@@ -65,9 +53,6 @@ Abram went to Hagar, and she became pregnant. When Hagar knew she was pregnant, 
 
 #### Ages 8-10
 Abram went to Hagar, and she became pregnant. When Hagar knew she was pregnant, she began to despise Sarai.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -80,13 +65,6 @@ Then Sarai said to Abram, "The wrong done to me is your fault. I put my servant 
 #### Ages 8-10
 Then Sarai said to Abram, "The wrong done to me is your fault. I put my servant in your arms, and now that she knows she is pregnant, she despises me. May the Lord judge between you and me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 16:6
@@ -97,9 +75,6 @@ Abram said, "Your servant is in your hands. Do with her what you think is best."
 
 #### Ages 8-10
 Abram said, "Your servant is in your hands. Do with her what you think is best." Then Sarai treated Hagar harshly, and Hagar fled from her.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -112,13 +87,8 @@ The angel of the Lord found Hagar near a spring in the wilderness, the spring be
 #### Ages 8-10
 The angel of the Lord found Hagar near a spring in the wilderness, the spring beside the road to Shur.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- angel: A messenger sent from God
 
 ---
 
@@ -131,9 +101,6 @@ He said, "Hagar, servant of Sarai, where have you come from, and where are you g
 #### Ages 8-10
 He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from my mistress Sarai."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 16:9
@@ -145,12 +112,8 @@ Then the angel of the Lord said to her, "Go back to your mistress and submit to 
 #### Ages 8-10
 Then the angel of the Lord said to her, "Go back to your mistress and submit to her."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- angel: A messenger sent from God
 
 ---
 
@@ -163,11 +126,8 @@ The angel also said, "I will give you so many offspring that they cannot be coun
 #### Ages 8-10
 The angel added, "I will increase your offspring so much that they will be too many to count."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- angel: A messenger sent from God
 
 ---
 
@@ -180,12 +140,9 @@ The angel of the Lord said, "You are pregnant and will have a son. Name him Ishm
 #### Ages 8-10
 The angel of the Lord also said, "You are pregnant and will give birth to a son. You shall name him Ishmael, because the Lord has heard your misery.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- angel: A messenger sent from God
+- Ishmael: Abraham and Hagar's son
 
 ---
 
@@ -197,9 +154,6 @@ He will be like a wild donkey of a man. His hand will be against everyone, and e
 
 #### Ages 8-10
 He will be like a wild donkey of a man. His hand will be against everyone, and everyone's hand will be against him. He will live in hostility toward all his brothers."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -213,12 +167,7 @@ Hagar gave this name to the Lord who spoke to her: "You are the God who sees me.
 Hagar gave this name to the Lord who spoke to her: "You are the God who sees me." She said, "I have now seen the One who sees me."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -231,9 +180,6 @@ That is why the well was called Beer Lahai Roi. It is between Kadesh and Bered.
 #### Ages 8-10
 That is why the well was called Beer Lahai Roi. It is between Kadesh and Bered.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 16:15
@@ -245,8 +191,8 @@ So Hagar gave Abram a son, and Abram named him Ishmael.
 #### Ages 8-10
 So Hagar gave Abram a son, and Abram named the son she bore Ishmael.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Ishmael: Abraham and Hagar's son
 
 ---
 
@@ -259,39 +205,36 @@ Abram was 86 years old when Hagar gave birth to Ishmael.
 #### Ages 8-10
 Abram was 86 years old when Hagar gave birth to Ishmael.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Ishmael: Abraham and Hagar's son
 
 ---
 
 ## Chapter Summary
-Genesis 16 is a draft resource chapter. The chapter opens with "Abram's wife Sarai had borne him no children, but she had an Egyptian servant named Hagar.," moves through "Then the angel of the Lord said to her, "Go back to your mistress and submit to her.," and closes with "Abram was 86 years old when Hagar gave birth to Ishmael.." Review this summary for fuller theological detail before approval.
+Sarai gives Hagar to Abram, Hagar bears Ishmael, and the Lord sees Hagar in her suffering and speaks promises about her son.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abram's wife Sarai had not had any children. She had an Egyptian servant named Hagar. - Genesis 16:1
+Hagar gave this name to the Lord who spoke to her: "You are the God who sees me." She said, "I have now seen the One who sees me." - Genesis 16:13
 
 ### Ages 8-10
-Abram's wife Sarai had borne him no children, but she had an Egyptian servant named Hagar. - Genesis 16:1
+Hagar gave this name to the Lord who spoke to her: "You are the God who sees me." She said, "I have now seen the One who sees me." - Genesis 16:13
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 16 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

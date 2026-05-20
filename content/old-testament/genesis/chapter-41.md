@@ -1,14 +1,14 @@
 # Genesis Chapter 41
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 41 and should be reviewed before approval.
+Genesis 41 continues the covenant family story. God gives Pharaoh troubling dreams, Joseph interprets them, and Pharaoh raises Joseph to govern Egypt during plenty and famine.
 
 ## Important Keywords
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
-- priest: A worship leader who served at the holy place
+- dream: A picture or message seen while sleeping
+- wisdom: A key word that helps explain this chapter.
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- providence: God ruling and caring even through events people cannot see clearly
 
 ## Verse-by-Verse Translation
 
@@ -21,11 +21,8 @@ After two full years had passed, Pharaoh had a dream. In the dream, he was stand
 #### Ages 8-10
 After two full years, Pharaoh dreamed that he was standing by the river.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -38,9 +35,6 @@ Seven beautiful, healthy cows came up out of the river and ate grass in the mead
 #### Ages 8-10
 Seven healthy, beautiful cows came up out of the river and fed in the meadow.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:3
@@ -51,9 +45,6 @@ After them, seven other cows came up out of the river. These cows were thin and 
 
 #### Ages 8-10
 After them, seven other cows came up out of the river. They were thin and ugly, and they stood beside the healthy cows on the riverbank.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -66,12 +57,6 @@ The thin, ugly cows ate up the seven beautiful, healthy cows. Then Pharaoh woke 
 #### Ages 8-10
 The thin, ugly cows ate the seven healthy, beautiful cows. Then Pharaoh woke up.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:5
@@ -83,11 +68,8 @@ Pharaoh fell asleep again and dreamed a second time. He saw seven full, good hea
 #### Ages 8-10
 He slept and dreamed a second time. Seven full, good heads of grain grew on one stalk.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -100,9 +82,6 @@ After them, seven thin heads of grain grew up, dried out by the hot east wind.
 #### Ages 8-10
 After them, seven thin heads of grain grew up, scorched by the east wind.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:7
@@ -114,11 +93,8 @@ The thin heads of grain swallowed up the seven full, good heads. Then Pharaoh wo
 #### Ages 8-10
 The thin heads swallowed the seven full, good heads. Then Pharaoh woke and saw that it was a dream.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -131,12 +107,9 @@ In the morning, Pharaoh's heart was troubled. He called for all the magicians an
 #### Ages 8-10
 In the morning, Pharaoh's spirit was troubled. He called all the magicians and wise men of Egypt and told them his dreams, but no one could interpret them for him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -149,12 +122,6 @@ Then the chief cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
 #### Ages 8-10
 Then the chief cupbearer said to Pharaoh, "Today I remember my faults.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:10
@@ -165,12 +132,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Pharaoh was once angry with his servants and put me and the chief baker in custody in the house of the captain of the guard.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -183,8 +144,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "We both dreamed in one night, and each dream had its own meaning.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -197,8 +158,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "A young Hebrew man was there with us, a servant of the captain of the guard. We told him our dreams, and he interpreted each one.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -211,9 +172,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "It happened just as he interpreted. I was restored to my position, and the baker was hanged."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:14
@@ -224,12 +182,6 @@ Then Pharaoh sent for Joseph. They quickly brought him out of the prison pit. Jo
 
 #### Ages 8-10
 Pharaoh sent for Joseph, and they quickly brought him out of the prison. Joseph shaved, changed his clothes, and came before Pharaoh.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -242,11 +194,8 @@ Pharaoh said to Joseph, "I had a dream, and no one can explain it. I have heard 
 #### Ages 8-10
 Pharaoh said to Joseph, "I have dreamed a dream, and no one can interpret it. I have heard that when you hear a dream, you can interpret it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -259,13 +208,6 @@ Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an a
 #### Ages 8-10
 Joseph answered Pharaoh, "It is not in me. God will give Pharaoh an answer of peace."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:17
@@ -277,11 +219,8 @@ Then Pharaoh said to Joseph, "In my dream, I stood on the bank of the river.
 #### Ages 8-10
 Pharaoh said to Joseph, "In my dream, I stood on the bank of the river.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -294,9 +233,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Seven healthy, beautiful cows came up from the river and fed in the meadow.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:19
@@ -308,11 +244,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "After them, seven other cows came up. They were poor, very ugly, and thin. I had never seen such ugly cows in all Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -325,9 +258,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The thin, ugly cows ate the first seven healthy cows.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:21
@@ -338,9 +268,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "After they ate them, no one could tell they had eaten anything. They still looked as ugly as before. Then I woke up.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -353,8 +280,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I also saw in my dream seven full, good heads of grain growing on one stalk.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -367,9 +294,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "After them, seven dry, thin heads of grain grew up, scorched by the east wind.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:24
@@ -380,9 +304,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "The thin heads swallowed the seven good heads. I told this to the magicians, but no one could explain it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -395,12 +316,8 @@ Joseph said to Pharaoh, "Pharaoh's dreams are one dream. God has shown Pharaoh w
 #### Ages 8-10
 Joseph said to Pharaoh, "Pharaoh's dreams are one. God has shown Pharaoh what he is about to do.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -413,8 +330,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The seven good cows are seven years, and the seven good heads of grain are seven years. The dreams are one.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -427,8 +344,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The seven thin, ugly cows that came after them are seven years, and the seven empty heads of grain scorched by the east wind are seven years of famine.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- famine: A time when there is very little food
 
 ---
 
@@ -441,13 +358,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "This is what I said to Pharaoh: God has shown Pharaoh what he is about to do.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:29
@@ -459,11 +369,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Seven years of great plenty are coming throughout all the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -476,11 +383,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "After them, seven years of famine will arise. All the plenty in Egypt will be forgotten, and the famine will consume the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -493,8 +398,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The plenty will not be remembered in the land because the famine after it will be very severe.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- famine: A time when there is very little food
 
 ---
 
@@ -507,12 +412,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The dream was repeated to Pharaoh twice because the matter is fixed by God, and God will soon bring it about.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -525,12 +426,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Now Pharaoh should choose a discerning and wise man and set him over the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -543,12 +440,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Pharaoh should appoint officers over the land and take a fifth of Egypt's harvest during the seven plentiful years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -561,12 +454,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "They should gather all the food of the coming good years and store grain under Pharaoh's authority in the cities, guarding it for food.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:36
@@ -578,11 +465,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "That food will be a reserve for the land during the seven years of famine in Egypt, so the land will not perish in the famine."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -594,12 +479,6 @@ Pharaoh and all his servants thought Joseph's words were good.
 
 #### Ages 8-10
 The plan seemed good to Pharaoh and to all his servants.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -613,11 +492,7 @@ Pharaoh said to his servants, "Can we find anyone like this man, one in whom the
 Pharaoh said to his servants, "Can we find a man like this, in whom is the Spirit of God?"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -630,13 +505,6 @@ Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one 
 #### Ages 8-10
 Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as discerning and wise as you.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:40
@@ -647,12 +515,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You shall be over my house, and all my people will obey your command. Only in the throne will I be greater than you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
 
 ---
 
@@ -665,12 +527,8 @@ Pharaoh said to Joseph, "See, I have put you over all the land of Egypt."
 #### Ages 8-10
 Pharaoh said to Joseph, "See, I have set you over all the land of Egypt."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -683,12 +541,6 @@ Pharaoh took his signet ring from his hand and put it on Joseph's hand. He dress
 #### Ages 8-10
 Pharaoh took his signet ring from his hand and put it on Joseph's hand. He clothed Joseph in fine linen and put a gold chain around his neck.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 41:43
@@ -700,12 +552,8 @@ He had Joseph ride in the second chariot, and people cried out before him, "Bow 
 #### Ages 8-10
 He had Joseph ride in his second chariot, and people called out before him, "Bow the knee!" So Joseph was set over all the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -718,13 +566,8 @@ Pharaoh said to Joseph, "I am Pharaoh, but without your word no one in all Egypt
 #### Ages 8-10
 Pharaoh said to Joseph, "I am Pharaoh, but without your command no one in all Egypt shall lift hand or foot."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -737,13 +580,8 @@ Pharaoh gave Joseph the name Zaphnath-paaneah. He also gave Joseph Asenath, the 
 #### Ages 8-10
 Pharaoh named Joseph Zaphnath-paaneah and gave him Asenath, the daughter of Potiphera priest of On, as his wife. Joseph went throughout the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-- priest: A worship leader who served at the holy place
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -756,12 +594,8 @@ Joseph was thirty years old when he stood before Pharaoh king of Egypt. Then Jos
 #### Ages 8-10
 Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph left Pharaoh's presence and went through all the land of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -774,9 +608,6 @@ During the seven years of plenty, the land brought out food by handfuls.
 #### Ages 8-10
 During the seven plentiful years, the land produced abundantly.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:48
@@ -788,11 +619,8 @@ Joseph gathered all the food from those seven good years in Egypt and stored it 
 #### Ages 8-10
 Joseph gathered all the food from the seven good years in Egypt and stored it in the cities. He put the food from each city's surrounding fields inside that city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -805,9 +633,6 @@ Joseph stored up grain like the sand of the sea, so much that he stopped countin
 #### Ages 8-10
 Joseph stored grain like the sand of the sea, so much that he stopped counting it because it could not be measured.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 41:50
@@ -819,11 +644,8 @@ Before the years of famine came, Joseph had two sons. Asenath, the daughter of P
 #### Ages 8-10
 Before the years of famine came, Joseph had two sons. Asenath, the daughter of Potiphera priest of On, bore them to him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- priest: A worship leader who served at the holy place
+- famine: A time when there is very little food
 
 ---
 
@@ -836,12 +658,6 @@ Joseph named the firstborn Manasseh, saying, "God has made me forget all my trou
 #### Ages 8-10
 Joseph named the firstborn Manasseh, saying, "God has made me forget all my hardship and all my father's house."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 41:52
@@ -852,12 +668,6 @@ He named the second son Ephraim, saying, "God has made me fruitful in the land w
 
 #### Ages 8-10
 He named the second son Ephraim, saying, "God has made me fruitful in the land of my suffering."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -870,11 +680,8 @@ The seven years of plenty in Egypt came to an end.
 #### Ages 8-10
 The seven years of plenty in Egypt ended.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -887,11 +694,9 @@ Then the seven years of famine began, just as Joseph had said. There was famine 
 #### Ages 8-10
 Then the seven years of famine began, just as Joseph had said. There was famine in every land, but in all the land of Egypt there was bread.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -904,12 +709,8 @@ When all Egypt became hungry, the people cried to Pharaoh for bread. Pharaoh sai
 #### Ages 8-10
 When all Egypt was hungry, the people cried to Pharaoh for bread. Pharaoh said to all the Egyptians, "Go to Joseph. Do whatever he tells you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -922,11 +723,9 @@ The famine spread over the whole face of the earth. Joseph opened all the storeh
 #### Ages 8-10
 The famine spread over the whole face of the earth. Joseph opened all the storehouses and sold grain to the Egyptians, because the famine was severe in Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -939,42 +738,37 @@ People from every country came to Egypt to buy grain from Joseph, because the fa
 #### Ages 8-10
 All countries came to Egypt to buy grain from Joseph, because the famine was severe over all the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
 ## Chapter Summary
-Genesis 41 is a draft resource chapter. The chapter opens with "After two full years, Pharaoh dreamed that he was standing by the river.," moves through "Seven years of great plenty are coming throughout all the land of Egypt.," and closes with "All countries came to Egypt to buy grain from Joseph, because the famine was severe over all the...." Review this summary for fuller theological detail before approval.
+God gives Pharaoh troubling dreams, Joseph interprets them, and Pharaoh raises Joseph to govern Egypt during plenty and famine.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-After two full years had passed, Pharaoh had a dream. In the dream, he was standing by the river. - Genesis 41:1
+Pharaoh said to his servants, "Can we find anyone like this man, one in whom the Spirit of God is found?" - Genesis 41:38
 
 ### Ages 8-10
-After two full years, Pharaoh dreamed that he was standing by the river. - Genesis 41:1
+Pharaoh said to his servants, "Can we find a man like this, in whom is the Spirit of God?" - Genesis 41:38
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 41 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 41 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

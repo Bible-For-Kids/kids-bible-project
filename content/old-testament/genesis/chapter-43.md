@@ -1,14 +1,14 @@
 # Genesis Chapter 43
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 43 and should be reviewed before approval.
+Genesis 43 continues the covenant family story. Jacob finally sends Benjamin to Egypt, where Joseph receives his brothers with a feast while still hiding his identity.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
+- Benjamin: Jacob's youngest son, born to Rachel
+- mercy: Kind help given to someone in need or guilt
+- fear: Deep concern, dread, or awe
+- feast: A special meal with plenty of food
+- providence: God ruling and caring even through events people cannot see clearly
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ The famine was still severe in the land.
 #### Ages 8-10
 The famine was severe in the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:2
@@ -34,13 +31,6 @@ When Jacob's family had eaten the grain they had brought from Egypt, their fathe
 
 #### Ages 8-10
 When Jacob's family had eaten the grain they had brought from Egypt, their father said to them, "Go again and buy us a little food."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
 
 ---
 
@@ -53,9 +43,6 @@ Judah said to him, "The man warned us strongly, 'You shall not see my face unles
 #### Ages 8-10
 Judah said to him, "The man solemnly warned us, saying, 'You shall not see my face unless your brother is with you.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:4
@@ -66,9 +53,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If you send our brother with us, we will go down and buy food for you.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -81,9 +65,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But if you do not send him, we will not go down, because the man said to us, 'You shall not see my face unless your brother is with you.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:6
@@ -94,12 +75,6 @@ Israel said, "Why did you bring this trouble on me by telling the man you had an
 
 #### Ages 8-10
 Israel said, "Why did you treat me so badly by telling the man you had another brother?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -112,9 +87,6 @@ They said, "The man asked carefully about us and our family. He asked, 'Is your 
 #### Ages 8-10
 They said, "The man asked directly about us and our family. He asked, 'Is your father still alive? Do you have another brother?' We answered his questions. Could we possibly know he would say, 'Bring your brother down'?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:8
@@ -125,12 +97,6 @@ Judah said to Israel his father, "Send the boy with me, and we will get up and g
 
 #### Ages 8-10
 Judah said to Israel his father, "Send the boy with me, and we will arise and go, so we may live and not die, both we and you and our little ones.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -143,9 +109,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then let me bear the blame forever.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:10
@@ -156,9 +119,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "If we had not delayed, we could have returned twice by now."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -171,12 +131,6 @@ Their father Israel said to them, "If it must be so, then do this. Take some of 
 #### Ages 8-10
 Their father Israel said to them, "If it must be so, then do this. Take some of the best products of the land in your bags and carry a gift to the man: a little balm, a little honey, spices, myrrh, nuts, and almonds.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 43:12
@@ -188,9 +142,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Take double the money with you, and return the money that was put back in the mouths of your sacks. Perhaps it was an oversight.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:13
@@ -201,9 +152,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Take your brother also. Arise, and go back to the man.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -217,10 +165,11 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- Benjamin: Jacob's youngest son, born to Rachel
+- mercy: Kind help given to someone in need or guilt
 
 ---
 
@@ -233,11 +182,8 @@ The men took the gift, twice as much money, and Benjamin. They got up, went down
 #### Ages 8-10
 The men took the gift, double the money, and Benjamin. They arose, went down to Egypt, and stood before Joseph.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Benjamin: Jacob's youngest son, born to Rachel
 
 ---
 
@@ -250,8 +196,8 @@ When Joseph saw Benjamin with them, he said to the steward of his house, "Bring 
 #### Ages 8-10
 When Joseph saw Benjamin with them, he said to the steward of his house, "Bring the men into the house. Slaughter an animal and prepare it, because these men will dine with me at noon."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Benjamin: Jacob's youngest son, born to Rachel
 
 ---
 
@@ -264,9 +210,6 @@ The steward did as Joseph said and brought the men into Joseph's house.
 #### Ages 8-10
 The steward did as Joseph commanded and brought the men into Joseph's house.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:18
@@ -277,9 +220,6 @@ The men were afraid because they were brought into Joseph's house. They said, "W
 
 #### Ages 8-10
 The men were afraid because they were brought into Joseph's house. They said, "We have been brought in because of the money returned in our sacks the first time. He may accuse us, overpower us, make us slaves, and take our donkeys."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -292,9 +232,6 @@ So they came near to the steward of Joseph's house and spoke with him at the doo
 #### Ages 8-10
 They came near to the steward of Joseph's house and spoke with him at the door.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:20
@@ -305,12 +242,6 @@ They said, "Please, my lord, we came down the first time to buy food.
 
 #### Ages 8-10
 They said, "Please, my lord, we came down the first time to buy food.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -323,9 +254,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "When we came to the lodging place, we opened our sacks, and each man's money was in the mouth of his sack, our money in full weight. We have brought it back in our hands.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:22
@@ -336,9 +264,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "We have brought other money in our hands to buy food. We do not know who put our money in our sacks."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -351,12 +276,6 @@ The steward said, "Peace be to you. Do not be afraid. Your God, the God of your 
 #### Ages 8-10
 The steward said, "Peace to you. Do not be afraid. Your God, the God of your father, gave you treasure in your sacks. I received your money." Then he brought Simeon out to them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 43:24
@@ -367,9 +286,6 @@ The steward brought the men into Joseph's house. He gave them water, and they wa
 
 #### Ages 8-10
 The steward brought the men into Joseph's house, gave them water, and they washed their feet. He also gave feed to their donkeys.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -382,9 +298,6 @@ They prepared their gift for Joseph's coming at noon, because they heard they wo
 #### Ages 8-10
 They prepared their gift for Joseph's arrival at noon, because they heard they would eat there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:26
@@ -395,9 +308,6 @@ When Joseph came home, they brought the gift into the house and bowed down to hi
 
 #### Ages 8-10
 When Joseph came home, they brought him the gift they had with them into the house and bowed down to the ground before him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -410,9 +320,6 @@ Joseph asked if they were well. Then he said, "Is your father well, the old man 
 #### Ages 8-10
 Joseph asked about their welfare and said, "Is your father well, the old man you told me about? Is he still alive?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:28
@@ -423,9 +330,6 @@ They answered, "Your servant our father is well. He is still alive." Then they b
 
 #### Ages 8-10
 They answered, "Your servant our father is well. He is still alive." Then they bowed their heads and bowed down.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -438,11 +342,8 @@ Joseph lifted his eyes and saw his brother Benjamin, his mother's son. He said, 
 #### Ages 8-10
 Joseph lifted his eyes and saw his brother Benjamin, his mother's son. He said, "Is this your youngest brother, whom you told me about?" Then he said, "God be gracious to you, my son."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- Benjamin: Jacob's youngest son, born to Rachel
 
 ---
 
@@ -455,9 +356,6 @@ Joseph hurried out because his heart was deeply moved for his brother. He looked
 #### Ages 8-10
 Joseph hurried out, because his compassion for his brother was stirred. He looked for a place to weep, went into his room, and wept there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:31
@@ -468,9 +366,6 @@ Then Joseph washed his face, came out, held himself steady, and said, "Serve the
 
 #### Ages 8-10
 Then he washed his face, came out, controlled himself, and said, "Serve the food."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -483,9 +378,6 @@ They served Joseph by himself, the brothers by themselves, and the Egyptians who
 #### Ages 8-10
 They served Joseph by himself, the brothers by themselves, and the Egyptians eating with him by themselves, because Egyptians could not eat with Hebrews. That was offensive to the Egyptians.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 43:33
@@ -496,9 +388,6 @@ The brothers sat before Joseph, from the firstborn according to his age to the y
 
 #### Ages 8-10
 The brothers were seated before Joseph, the firstborn according to his birthright and the youngest according to his youth. The men looked at one another in amazement.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -511,39 +400,36 @@ Joseph sent portions to them from his own table, but Benjamin's portion was five
 #### Ages 8-10
 Portions were sent to them from Joseph's table, but Benjamin's portion was five times larger than any of theirs. They drank and were merry with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Benjamin: Jacob's youngest son, born to Rachel
 
 ---
 
 ## Chapter Summary
-Genesis 43 is a draft resource chapter. The chapter opens with "The famine was severe in the land.," moves through "The men were afraid because they were brought into Joseph's house. They said, "We have been broug...," and closes with "Portions were sent to them from Joseph's table, but Benjamin's portion was five times larger than...." Review this summary for fuller theological detail before approval.
+Jacob finally sends Benjamin to Egypt, where Joseph receives his brothers with a feast while still hiding his identity.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The famine was still severe in the land. - Genesis 43:1
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved." - Genesis 43:14
 
 ### Ages 8-10
-When Jacob's family had eaten the grain they had brought from Egypt, their father said to them, "Go again and buy us a little food." - Genesis 43:2
+"May God Almighty give you mercy before the man, so he may send back your other brother and Benjamin. If I am bereaved, I am bereaved." - Genesis 43:14
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 43 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 43 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

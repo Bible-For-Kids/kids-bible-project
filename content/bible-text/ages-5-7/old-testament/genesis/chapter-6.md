@@ -51,7 +51,7 @@ So God said to Noah, "I am going to bring an end to all flesh, because the earth
 Make yourself a great ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with pitch so water cannot come in.
 
 ### Genesis 6:15
-This is how you must make it: 300 cubits long, 50 cubits wide, and 30 cubits high.
+This is how you must make it: about 450 feet long, 75 feet wide, and 45 feet high.
 
 ### Genesis 6:16
 Make a roof for the ark. Leave an opening near the top for air and light. Put a door in the side, and make lower, middle, and upper decks.

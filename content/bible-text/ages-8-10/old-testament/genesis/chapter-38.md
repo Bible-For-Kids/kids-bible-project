@@ -57,16 +57,16 @@ When Judah saw her, he thought she was a prostitute, because she had covered her
 He turned aside to her by the road and said, "Please let me come in to you," because he did not know she was his daughter-in-law. She asked, "What will you give me so you may come in to me?"
 
 ### Genesis 38:17
-He said, "I will send you a young goat from the flock." She said, "Will you give me a pledge until you send it?"
+He said, "I will send you a young goat from the flock." She said, "Will you give me something to keep until you send it?"
 
 ### Genesis 38:18
-He asked, "What pledge shall I give you?" She said, "Your signet, your bracelets, and the staff in your hand." He gave them to her and came in to her, and she conceived by him.
+He asked, "What should I give you to keep?" She said, "Your signet, your bracelets, and the staff in your hand." He gave them to her and came in to her, and she conceived by him.
 
 ### Genesis 38:19
 Then she got up and went away. She removed her veil and put on her widow's clothes again.
 
 ### Genesis 38:20
-Judah sent the young goat by his friend the Adullamite to receive his pledge back from the woman's hand, but Hirah did not find her.
+Judah sent the young goat by his friend the Adullamite to receive his things back from the woman's hand, but Hirah did not find her.
 
 ### Genesis 38:21
 Hirah asked the men of that place, "Where is the prostitute who was openly by the roadside?" They said, "There was no prostitute in this place."
@@ -75,7 +75,7 @@ Hirah asked the men of that place, "Where is the prostitute who was openly by th
 He returned to Judah and said, "I cannot find her. The men of the place also said, 'There was no prostitute in this place.'"
 
 ### Genesis 38:23
-Judah said, "Let her keep the pledge, or we will be shamed. I sent this young goat, but you did not find her."
+Judah said, "Let her keep those things, or we will be shamed. I sent this young goat, but you did not find her."
 
 ### Genesis 38:24
 About three months later, Judah was told, "Tamar your daughter-in-law has acted like a prostitute, and now she is pregnant by prostitution." Judah said, "Bring her out, and let her be burned."
@@ -90,10 +90,10 @@ Judah recognized them and said, "She has been more righteous than I, because I d
 When the time came for her to give birth, there were twins in her womb.
 
 ### Genesis 38:28
-As she was giving birth, one baby put out his hand. The midwife took a scarlet thread and tied it on his hand, saying, "This one came out first."
+As she was giving birth, one baby put out his hand. The midwife took a red thread and tied it on his hand, saying, "This one came out first."
 
 ### Genesis 38:29
 But he drew back his hand, and his brother came out. She said, "How have you broken through?" So he was named Pharez.
 
 ### Genesis 38:30
-Afterward his brother came out, the one with the scarlet thread on his hand, and he was named Zarah.
+Afterward his brother came out, the one with the red thread on his hand, and he was named Zarah.

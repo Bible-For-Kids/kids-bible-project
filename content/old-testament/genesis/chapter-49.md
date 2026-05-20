@@ -1,14 +1,14 @@
 # Genesis Chapter 49
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 49 and should be reviewed before approval.
+Genesis 49 continues the covenant family story. Jacob gathers his sons, speaks blessings and warnings over the tribes of Israel, and gives burial instructions before his death.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- blessing: Good spoken or given by God
+- tribe: A large family group descended from one ancestor
+- Judah: Jacob's son whose family line receives an important ruler promise
+- Joseph: Jacob's son whom God used in Egypt to preserve life
+- burial: Placing someone who has died in a grave or tomb
 
 ## Verse-by-Verse Translation
 
@@ -21,12 +21,6 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 #### Ages 8-10
 Jacob called his sons and said, "Gather yourselves together, and I will tell you what will happen to you in days to come.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 49:2
@@ -37,13 +31,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Gather together and listen, sons of Jacob. Listen to Israel your father.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
 
 ---
 
@@ -56,9 +43,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Reuben, you are my firstborn, my strength, and the beginning of my power, first in dignity and first in strength.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:4
@@ -69,9 +53,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Unstable like water, you shall not excel, because you went up to your father's bed and dishonored it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -84,9 +65,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Simeon and Levi are brothers. Their swords are weapons of violence.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:6
@@ -97,9 +75,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Let my soul not enter their council. Let my honor not join their assembly, for in their anger they killed men, and in their self-will they crippled oxen.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -112,14 +87,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Cursed be their anger, for it was fierce, and their wrath, for it was cruel. I will divide them in Jacob and scatter them in Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 49:8
@@ -131,8 +98,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Judah, your brothers will praise you. Your hand will be on the neck of your enemies, and your father's sons will bow down before you.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Judah: Jacob's son whose family line receives an important ruler promise
 
 ---
 
@@ -145,8 +112,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Judah is a lion's cub. From the prey, my son, you have gone up. He crouches and lies down like a lion. Who will rouse him?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Judah: Jacob's son whose family line receives an important ruler promise
 
 ---
 
@@ -160,7 +127,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "The scepter will not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes. To him will be the obedience of the peoples.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into generic leadership.
+
+**Key Vocabulary**:
+- Judah: Jacob's son whose family line receives an important ruler promise
+
+**Cross-References**:
+- Revelation 5:5
 
 ---
 
@@ -173,9 +146,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He ties his donkey to the vine, and his donkey's colt to the choice vine. He washes his clothes in wine and his robe in the blood of grapes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:12
@@ -186,9 +156,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "His eyes are red with wine, and his teeth are white with milk.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -201,9 +168,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Zebulun will live by the seashore. He will become a harbor for ships, and his border will reach toward Sidon.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:14
@@ -214,9 +178,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Issachar is a strong donkey lying down between the saddlebags.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -229,9 +190,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He saw that rest was good and that the land was pleasant, so he bent his shoulder to bear burdens and became a servant at forced labor.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:16
@@ -243,11 +201,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Dan will judge his people as one of the tribes of Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- tribe: A large family group descended from one ancestor
 
 ---
 
@@ -259,12 +214,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Dan will be a serpent by the road, a snake by the path, that bites the horse's heels so its rider falls backward.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- serpent: The crafty creature that tempted the woman in Eden
 
 ---
 
@@ -278,11 +227,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "I wait for your salvation, Lord.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -295,9 +240,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Raiders will raid Gad, but he will raid at their heels.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:20
@@ -308,9 +250,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Asher's food will be rich, and he will provide royal delicacies.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -323,9 +262,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Naphtali is a deer set free. He gives beautiful words.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:22
@@ -337,8 +273,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Joseph is a fruitful branch, a fruitful branch by a spring. His branches run over the wall.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Joseph: Jacob's son whom God used in Egypt to preserve life
 
 ---
 
@@ -351,9 +287,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Archers attacked him bitterly, shot at him, and hated him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:24
@@ -364,13 +297,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Yet his bow remained strong, and his arms were made strong by the hands of the Mighty One of Jacob, by the Shepherd, the Stone of Israel,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
 
 ---
 
@@ -383,11 +309,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "by the God of your father, who will help you, and by the Almighty, who will bless you with blessings from heaven above, blessings from the deep below, and blessings of the breasts and womb.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- blessing: Good spoken or given by God
 
 ---
 
@@ -400,8 +323,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The blessings of your father are greater than the blessings of my ancestors, reaching to the heights of the everlasting hills. May they be on Joseph's head, on the head of the one set apart from his brothers.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- blessing: Good spoken or given by God
+- Joseph: Jacob's son whom God used in Egypt to preserve life
 
 ---
 
@@ -414,9 +338,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Benjamin is a ravenous wolf. In the morning he devours the prey, and in the evening he divides the spoil."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:28
@@ -428,13 +349,9 @@ All these are the twelve tribes of Israel. This is what their father said to the
 #### Ages 8-10
 All these are the twelve tribes of Israel. This is what their father said to them when he blessed them, giving each one his own blessing.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- Israel: God's covenant people descended from Jacob
+- blessing: Good spoken or given by God
+- tribe: A large family group descended from one ancestor
 
 ---
 
@@ -447,12 +364,6 @@ Then Jacob commanded them, "I am about to be gathered to my people. Bury me with
 #### Ages 8-10
 Then Jacob commanded them, "I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 49:30
@@ -464,8 +375,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "in the cave in the field of Machpelah, east of Mamre, in the land of Canaan. Abraham bought that field from Ephron the Hittite as a burial place.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -478,9 +389,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife. There I buried Leah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 49:32
@@ -491,9 +399,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "The field and the cave in it were bought from the sons of Heth."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -506,42 +411,33 @@ When Jacob finished commanding his sons, he drew his feet up into the bed, breat
 #### Ages 8-10
 When Jacob finished commanding his sons, he drew his feet up into the bed, breathed his last, and was gathered to his people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ## Chapter Summary
-Genesis 49 is a draft resource chapter. The chapter opens with "Jacob called his sons and said, "Gather yourselves together, and I will tell you what will happen...," moves through "Dan will be a serpent by the road, a snake by the path, that bites the horse's heels so its rider...," and closes with "When Jacob finished commanding his sons, he drew his feet up into the bed, breathed his last, and...." Review this summary for fuller theological detail before approval.
+Jacob gathers his sons, speaks blessings and warnings over the tribes of Israel, and gives burial instructions before his death.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Benjamin is a hungry wolf. In the morning he eats the prey, and in the evening he divides the spoil." - Genesis 49:27
+"I wait for your salvation, Lord. - Genesis 49:18
 
 ### Ages 8-10
-"Benjamin is a ravenous wolf. In the morning he devours the prey, and in the evening he divides the spoil." - Genesis 49:27
+"I wait for your salvation, Lord. - Genesis 49:18
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 49 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 49 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

@@ -1,14 +1,14 @@
 # Genesis Chapter 47
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 47 and should be reviewed before approval.
+Genesis 47 continues the covenant family story. Joseph settles his family in Goshen, manages Egypt during famine, and Jacob makes Joseph swear to bury him with his fathers.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Goshen: The region in Egypt where Joseph settled Jacob's family
+- famine: A time when there is very little food
+- stewardship: Taking care of what has been placed in your hands
+- oath: A serious promise made before God
+- burial: Placing someone who has died in a grave or tomb
 
 ## Verse-by-Verse Translation
 
@@ -21,11 +21,8 @@ Joseph went and told Pharaoh, "My father and my brothers have come from the land
 #### Ages 8-10
 Joseph went and told Pharaoh, "My father and my brothers have come from the land of Canaan. Their flocks, herds, and all they have are here, and they are in the land of Goshen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- Goshen: The region in Egypt where Joseph settled Jacob's family
 
 ---
 
@@ -38,12 +35,6 @@ Joseph chose five of his brothers and presented them before Pharaoh.
 #### Ages 8-10
 Joseph took five of his brothers and presented them before Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:3
@@ -54,12 +45,6 @@ Pharaoh asked his brothers, "What is your work?" They answered Pharaoh, "Your se
 
 #### Ages 8-10
 Pharaoh asked his brothers, "What is your occupation?" They said to Pharaoh, "Your servants are shepherds, both we and our fathers."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -72,11 +57,9 @@ They said to Pharaoh, "We have come to stay in the land, because there is no pas
 #### Ages 8-10
 They said to Pharaoh, "We have come to stay in the land, because there is no pasture for your servants' flocks. The famine is severe in the land of Canaan. Please let your servants live in the land of Goshen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- Goshen: The region in Egypt where Joseph settled Jacob's family
+- famine: A time when there is very little food
 
 ---
 
@@ -89,12 +72,6 @@ Pharaoh spoke to Joseph and said, "Your father and your brothers have come to yo
 #### Ages 8-10
 Pharaoh spoke to Joseph and said, "Your father and your brothers have come to you.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:6
@@ -106,11 +83,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The land of Egypt is before you. Settle your father and your brothers in the best of the land. Let them live in the land of Goshen. If you know capable men among them, put them in charge of my livestock."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Goshen: The region in Egypt where Joseph settled Jacob's family
 
 ---
 
@@ -123,14 +97,6 @@ Then Joseph brought in Jacob his father and set him before Pharaoh. Jacob blesse
 #### Ages 8-10
 Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:8
@@ -141,13 +107,6 @@ Pharaoh asked Jacob, "How many are the days of the years of your life?"
 
 #### Ages 8-10
 Pharaoh said to Jacob, "How many are the days of the years of your life?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -160,14 +119,6 @@ Jacob said to Pharaoh, "The days of the years of my journey are one hundred thir
 #### Ages 8-10
 Jacob said to Pharaoh, "The days of the years of my journey are one hundred thirty years. The years of my life have been few and hard, and they have not reached the years of my fathers during their journeys."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:10
@@ -178,14 +129,6 @@ Jacob blessed Pharaoh and went out from Pharaoh's presence.
 
 #### Ages 8-10
 Jacob blessed Pharaoh and went out from Pharaoh's presence.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -198,13 +141,6 @@ Joseph settled his father and his brothers in Egypt. He gave them a possession i
 #### Ages 8-10
 Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:12
@@ -215,9 +151,6 @@ Joseph provided food for his father, his brothers, and all his father's househol
 
 #### Ages 8-10
 Joseph provided his father, his brothers, and all his father's household with food, according to the number of their little ones.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -230,11 +163,8 @@ There was no bread in all the land, because the famine was very severe. Egypt an
 #### Ages 8-10
 There was no bread in all the land, because the famine was very severe. The land of Egypt and the land of Canaan grew weak because of the famine.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
 
 ---
 
@@ -247,13 +177,6 @@ Joseph gathered all the money found in Egypt and Canaan for the grain the people
 #### Ages 8-10
 Joseph gathered all the money found in Egypt and Canaan for the grain the people bought, and Joseph brought the money into Pharaoh's house.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:15
@@ -264,12 +187,6 @@ When the money was gone from Egypt and Canaan, all the Egyptians came to Joseph 
 
 #### Ages 8-10
 When the money was gone from Egypt and Canaan, all the Egyptians came to Joseph and said, "Give us bread. Why should we die before your eyes? Our money is gone."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -282,9 +199,6 @@ Joseph said, "Bring your livestock, and I will give you food in exchange for you
 #### Ages 8-10
 Joseph said, "Bring your livestock, and I will give you food in exchange for your livestock, if your money is gone."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 47:17
@@ -295,9 +209,6 @@ So they brought their livestock to Joseph. Joseph gave them bread in exchange fo
 
 #### Ages 8-10
 They brought their livestock to Joseph, and Joseph gave them bread in exchange for horses, flocks, herds, and donkeys. That year he fed them with bread in exchange for all their livestock.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -310,12 +221,6 @@ When that year ended, they came to him the next year and said, "We will not hide
 #### Ages 8-10
 When that year ended, they came to him the next year and said, "We will not hide from my lord that our money is gone, and our animals belong to my lord. Nothing remains before my lord except our bodies and our land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 47:19
@@ -326,12 +231,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will serve Pharaoh. Give us seed, so we may live and not die, and so the land will not become desolate."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -344,12 +243,8 @@ So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his fiel
 #### Ages 8-10
 So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his field, because the famine was severe upon them. The land became Pharaoh's.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Pharaoh: The king of Egypt
+- famine: A time when there is very little food
 
 ---
 
@@ -362,12 +257,6 @@ Joseph moved the people into cities from one end of Egypt to the other.
 #### Ages 8-10
 Joseph moved the people into cities from one end of Egypt to the other.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 47:22
@@ -378,12 +267,6 @@ Only the land of the priests he did not buy, because the priests received a port
 
 #### Ages 8-10
 Only the land of the priests he did not buy, because the priests had a portion from Pharaoh and lived on the portion Pharaoh gave them. Therefore they did not sell their land.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -396,12 +279,6 @@ Joseph said to the people, "See, I have bought you and your land today for Phara
 #### Ages 8-10
 Joseph said to the people, "See, I have bought you and your land today for Pharaoh. Here is seed for you, and you shall sow the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:24
@@ -412,12 +289,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "At harvest, you shall give one fifth to Pharaoh. Four fifths will be your own, for seed for the field and for food for yourselves, your households, and your little ones."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -430,13 +301,6 @@ They said, "You have saved our lives. Let us find favor in my lord's sight, and 
 #### Ages 8-10
 They said, "You have saved our lives. Let us find favor in my lord's sight, and we will be Pharaoh's servants."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 47:26
@@ -447,14 +311,6 @@ Joseph made it a law over the land of Egypt, lasting to this day, that Pharaoh s
 
 #### Ages 8-10
 Joseph made it a law over the land of Egypt, lasting to this day, that Pharaoh should have one fifth. Only the land of the priests did not become Pharaoh's.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- law: God's instruction for his people
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -467,12 +323,8 @@ Israel lived in the land of Egypt, in the land of Goshen. They gained possession
 #### Ages 8-10
 Israel lived in the land of Egypt, in the land of Goshen. They gained possessions there, were fruitful, and multiplied greatly.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
+- Goshen: The region in Egypt where Joseph settled Jacob's family
 
 ---
 
@@ -485,13 +337,6 @@ Jacob lived in the land of Egypt seventeen years. The years of Jacob's life were
 #### Ages 8-10
 Jacob lived in the land of Egypt seventeen years. The years of Jacob's life were one hundred forty-seven years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 47:29
@@ -502,13 +347,6 @@ When the time came near for Israel to die, he called his son Joseph and said, "I
 
 #### Ages 8-10
 When the time came near for Israel to die, he called his son Joseph and said, "If I have found favor in your eyes, please put your hand under my thigh. Deal kindly and faithfully with me. Please do not bury me in Egypt.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -522,10 +360,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -538,42 +376,33 @@ Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at
 #### Ages 8-10
 Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at the head of his bed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ## Chapter Summary
-Genesis 47 is a draft resource chapter. The chapter opens with "Joseph went and told Pharaoh, "My father and my brothers have come from the land of Canaan. Their...," moves through "Joseph said, "Bring your livestock, and I will give you food in exchange for your livestock, if y...," and closes with "Israel said, "Swear to me." Joseph swore to him. Then Israel bowed in worship at the head of his...." Review this summary for fuller theological detail before approval.
+Joseph settles his family in Goshen, manages Egypt during famine, and Jacob makes Joseph swear to bury him with his fathers.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Joseph went and told Pharaoh, "My father and my brothers have come from the land of Canaan. Their flocks, herds, and all they have are with them, and they are in the land of Goshen." - Genesis 47:1
+"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
 
 ### Ages 8-10
-Joseph went and told Pharaoh, "My father and my brothers have come from the land of Canaan. Their flocks, herds, and all they have are here, and they are in the land of Goshen." - Genesis 47:1
+"When I sleep with my fathers, carry me out of Egypt and bury me in their burial place." Joseph said, "I will do as you have said." - Genesis 47:30
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 47 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 47 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

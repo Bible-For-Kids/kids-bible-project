@@ -1,11 +1,14 @@
 # Genesis Chapter 34
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 34 and should be reviewed before approval.
+Genesis 34 continues the covenant family story. Dinah is violated in Shechem, Simeon and Levi answer with deceit and violence, and Jacob fears the trouble brought on his household.
 
 ## Important Keywords
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- violence: Cruel force used to hurt others
+- deceit: A lie or trick meant to hide the truth
+- justice: Doing what is right and fair before God
+- family: People joined by parents, children, marriage, or covenant promise
+- sin: Disobeying God and going against his good way
 
 ## Verse-by-Verse Translation
 
@@ -18,12 +21,6 @@ Dinah, the daughter Leah had borne to Jacob, went out to visit the young women o
 #### Ages 8-10
 Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 34:2
@@ -34,9 +31,6 @@ Shechem, the son of Hamor the Hivite and a prince of the land, saw Dinah. He too
 
 #### Ages 8-10
 When Shechem son of Hamor the Hivite, a prince of the country, saw her, he took her and treated her in a shameful and hurtful way.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -49,12 +43,6 @@ Shechem's heart stayed close to Dinah, Jacob's daughter. He loved the young woma
 #### Ages 8-10
 His heart was drawn to Dinah, Jacob's daughter. He loved the young woman and spoke tenderly to her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 34:4
@@ -65,9 +53,6 @@ Shechem spoke to his father Hamor and said, "Get this young woman for me as my w
 
 #### Ages 8-10
 Shechem spoke to his father Hamor and said, "Get this young woman for me as my wife."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -80,12 +65,6 @@ Jacob heard that Shechem had done this shameful thing to Dinah his daughter. Jac
 #### Ages 8-10
 Jacob heard that Shechem had harmed Dinah his daughter. His sons were with his livestock in the field, so Jacob kept silent until they came back.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 34:6
@@ -96,12 +75,6 @@ Hamor, Shechem's father, went out to talk with Jacob.
 
 #### Ages 8-10
 Hamor, Shechem's father, went out to speak with Jacob.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -114,13 +87,6 @@ Jacob's sons came in from the field when they heard what had happened. The men w
 #### Ages 8-10
 Jacob's sons came in from the field when they heard the news. The men were deeply grieved and very angry, because Shechem had done a disgraceful thing in Israel by harming Jacob's daughter. Such a thing should not be done.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 34:8
@@ -131,9 +97,6 @@ Hamor spoke with them and said, "My son Shechem longs for your daughter. Please 
 
 #### Ages 8-10
 Hamor spoke with them and said, "My son Shechem longs for your daughter. Please give her to him as his wife.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -146,9 +109,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Make marriages with us. Give your daughters to us, and take our daughters for yourselves.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:10
@@ -159,9 +119,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Live with us. The land will be open before you. Settle here, trade here, and gain possessions here."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -174,9 +131,6 @@ Shechem said to Dinah's father and brothers, "Please show me kindness. Whatever 
 #### Ages 8-10
 Shechem said to Dinah's father and brothers, "Let me find favor with you. Whatever you tell me, I will give.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:12
@@ -187,9 +141,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Ask me for as much bride-price and gift as you wish, and I will give what you say. Only give me the young woman as my wife."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -202,11 +153,8 @@ Jacob's sons answered Shechem and his father Hamor with deceit, because Shechem 
 #### Ages 8-10
 Jacob's sons answered Shechem and his father Hamor deceitfully, because Shechem had harmed Dinah their sister.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- deceit: A lie or trick meant to hide the truth
 
 ---
 
@@ -219,9 +167,6 @@ They said to them, "We cannot do this. We cannot give our sister to a man who is
 #### Ages 8-10
 They said to them, "We cannot do this thing, giving our sister to a man who is not circumcised, because that would be a disgrace to us.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:15
@@ -232,9 +177,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "We will agree with you only on this condition: every male among you must be circumcised, as we are.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -247,9 +189,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Then we will give our daughters to you, and we will take your daughters for ourselves. We will live with you and become one people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:17
@@ -260,9 +199,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But if you will not listen to us and be circumcised, then we will take our daughter and leave."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -275,9 +211,6 @@ Their words pleased Hamor and his son Shechem.
 #### Ages 8-10
 Their words pleased Hamor and Hamor's son Shechem.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:19
@@ -288,12 +221,6 @@ The young man did not wait to do what they asked, because he delighted in Jacob'
 
 #### Ages 8-10
 The young man did not delay in doing what they asked, because he delighted in Jacob's daughter. He was more honored than anyone else in his father's household.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -306,9 +233,6 @@ Hamor and his son Shechem went to the gate of their city and spoke to the men of
 #### Ages 8-10
 Hamor and his son Shechem went to the gate of their city and spoke to the men of the city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:21
@@ -319,9 +243,6 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 
 #### Ages 8-10
 They said, "These men are peaceful with us. Let them live in the land and trade in it, because the land is wide enough for them. Let us take their daughters as wives, and let us give them our daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -334,9 +255,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The men will agree to live with us and become one people only if every male among us is circumcised, as they are.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:23
@@ -347,9 +265,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Will not their livestock, their possessions, and every animal of theirs become ours? Let us agree to their condition, and they will live with us."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -362,9 +277,6 @@ All the men who went out of the city gate listened to Hamor and Shechem. Every m
 #### Ages 8-10
 All who went out of the city gate listened to Hamor and his son Shechem, and every male in the city was circumcised.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:25
@@ -375,12 +287,6 @@ On the third day, while the men were still sore, two of Jacob's sons, Simeon and
 
 #### Ages 8-10
 On the third day, while the men were still sore, two of Jacob's sons, Simeon and Levi, Dinah's brothers, took their swords. They came into the city boldly and killed all the males.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -393,9 +299,6 @@ They killed Hamor and his son Shechem with the sword. Then they took Dinah out o
 #### Ages 8-10
 They killed Hamor and his son Shechem with the sword, took Dinah out of Shechem's house, and left.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:27
@@ -406,12 +309,6 @@ Jacob's sons came upon the dead men and took things from the city, because their
 
 #### Ages 8-10
 Jacob's sons came upon the dead and plundered the city, because their sister had been harmed.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -424,9 +321,6 @@ They took the sheep, cattle, donkeys, and everything in the city and in the fiel
 #### Ages 8-10
 They took the sheep, oxen, donkeys, and everything in the city and in the field.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:29
@@ -438,9 +332,6 @@ They also took all the wealth, all the little ones, and the wives. They carried 
 #### Ages 8-10
 They took all the wealth, all the little ones, and the wives, and they carried away everything in the houses.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 34:30
@@ -451,12 +342,6 @@ Jacob said to Simeon and Levi, "You have brought trouble on me. You have made th
 
 #### Ages 8-10
 Jacob said to Simeon and Levi, "You have brought trouble on me by making me hateful to the people of this land, the Canaanites and the Perizzites. My people are few. If they gather against me and attack me, I and my household will be destroyed."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -470,38 +355,35 @@ But they said, "Should he have treated our sister like someone with no honor?"
 They answered, "Should he have treated our sister like a woman with no honor?"
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
 ## Chapter Summary
-Genesis 34 is a draft resource chapter. The chapter opens with "Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.," moves through "Then we will give our daughters to you, and we will take your daughters for ourselves. We will li...," and closes with "They answered, "Should he have treated our sister like a woman with no honor?." Review this summary for fuller theological detail before approval.
+Dinah is violated in Shechem, Simeon and Levi answer with deceit and violence, and Jacob fears the trouble brought on his household.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Dinah, the daughter Leah had borne to Jacob, went out to visit the young women of the land. - Genesis 34:1
+But they said, "Should he have treated our sister like someone with no honor?" - Genesis 34:31
 
 ### Ages 8-10
-Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land. - Genesis 34:1
+They answered, "Should he have treated our sister like a woman with no honor?" - Genesis 34:31
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 34 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 34 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

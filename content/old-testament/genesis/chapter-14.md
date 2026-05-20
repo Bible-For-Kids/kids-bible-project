@@ -1,14 +1,14 @@
 # Genesis Chapter 14
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 14 and should be reviewed before approval.
+Genesis 14 continues the covenant family story. Warring kings capture Lot, Abram rescues him, Melchizedek blesses Abram, and Abram refuses to become rich through the king of Sodom.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- priest: A worship leader who served at the holy place
-- wilderness: A wild, dry place away from towns and farms
+- king: A ruler over a people or land
+- rescue: Being saved from danger
+- priest: A worship leader who serves before God
+- blessing: Good spoken or given by God
+- oath: A serious promise made before God
 
 ## Verse-by-Verse Translation
 
@@ -21,8 +21,8 @@ In those days, King Amraphel of Shinar, King Arioch of Ellasar, King Kedorlaomer
 #### Ages 8-10
 In those days, Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tidal king of Goiim went to war.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -35,8 +35,8 @@ They fought against King Bera of Sodom, King Birsha of Gomorrah, King Shinab of 
 #### Ages 8-10
 They fought against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela, which is Zoar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -49,8 +49,8 @@ All these kings joined forces in the Valley of Siddim, which is the Salt Sea.
 #### Ages 8-10
 All these kings joined forces in the Valley of Siddim, which is the Salt Sea.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -63,9 +63,6 @@ For twelve years, they had served Kedorlaomer. In the thirteenth year, they rebe
 #### Ages 8-10
 For twelve years they had served Kedorlaomer, but in the thirteenth year they rebelled.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 14:5
@@ -77,8 +74,8 @@ In the fourteenth year, Kedorlaomer and the kings with him came and defeated the
 #### Ages 8-10
 In the fourteenth year, Kedorlaomer and the kings allied with him came and defeated the Rephaites, Zuzites, Emites, and Horites in their lands.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -91,12 +88,6 @@ They defeated the Horites in the hill country of Seir, as far as El Paran near t
 #### Ages 8-10
 They defeated the Horites in the hill country of Seir, as far as El Paran near the wilderness.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- wilderness: A wild, dry place away from towns and farms
-
 ---
 
 ### Genesis 14:7
@@ -107,9 +98,6 @@ Then they turned back and came to En Mishpat, which is Kadesh. They conquered th
 
 #### Ages 8-10
 Then they turned back and came to En Mishpat, which is Kadesh. They conquered the whole land of the Amalekites and the Amorites who lived in Hazezon Tamar.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -122,8 +110,8 @@ Then the kings of Sodom, Gomorrah, Admah, Zeboyim, and Bela, which is Zoar, marc
 #### Ages 8-10
 Then the kings of Sodom, Gomorrah, Admah, Zeboyim, and Bela, which is Zoar, marched out.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -136,8 +124,8 @@ They lined up for battle in the Valley of Siddim against Kedorlaomer, Tidal, Amr
 #### Ages 8-10
 They lined up for battle in the Valley of Siddim against Kedorlaomer, Tidal, Amraphel, and Arioch: four kings against five.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -150,8 +138,8 @@ The Valley of Siddim was full of tar pits. When the kings of Sodom and Gomorrah 
 #### Ages 8-10
 The Valley of Siddim was full of tar pits. When the kings of Sodom and Gomorrah fled, some men fell into the pits, and the rest fled to the hills.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -164,8 +152,8 @@ The four kings took all the goods and food from Sodom and Gomorrah. Then they we
 #### Ages 8-10
 The four kings seized all the goods and food of Sodom and Gomorrah and went away.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -178,9 +166,6 @@ They also took Abram's nephew Lot and everything he owned, because Lot was livin
 #### Ages 8-10
 They also carried off Abram's nephew Lot and his possessions, because Lot was living in Sodom.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 14:13
@@ -191,9 +176,6 @@ One man escaped and told Abram the Hebrew. Abram was living near the great trees
 
 #### Ages 8-10
 One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite, brother of Eshkol and Aner, who were Abram's allies.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -206,9 +188,6 @@ When Abram heard that his relative had been captured, he called out 318 trained 
 #### Ages 8-10
 When Abram heard that his relative had been captured, he called out 318 trained men born in his household and pursued the enemy as far as Dan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 14:15
@@ -219,9 +198,6 @@ At night, Abram divided his men and attacked. He chased the enemy as far as Hoba
 
 #### Ages 8-10
 During the night, Abram divided his men to attack them, and he pursued them as far as Hobah, north of Damascus.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -234,9 +210,6 @@ Abram brought back all the goods. He also brought back his relative Lot, Lot's p
 #### Ages 8-10
 Abram recovered all the goods and brought back his relative Lot, Lot's possessions, the women, and the other people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 14:17
@@ -248,8 +221,8 @@ After Abram returned from defeating Kedorlaomer and the kings with him, the king
 #### Ages 8-10
 After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of Sodom came out to meet him in the Valley of Shaveh, the King's Valley.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -262,12 +235,9 @@ Melchizedek king of Salem brought out bread and wine. He was priest of God Most 
 #### Ages 8-10
 Melchizedek king of Salem brought out bread and wine. He was priest of God Most High.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- priest: A worship leader who served at the holy place
+- king: A ruler over a people or land
+- priest: A worship leader who serves before God
 
 ---
 
@@ -279,13 +249,6 @@ Melchizedek blessed Abram and said, "Blessed be Abram by God Most High, Maker of
 
 #### Ages 8-10
 He blessed Abram and said, "Blessed be Abram by God Most High, Creator of heaven and earth.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -299,11 +262,7 @@ And blessed be God Most High, who gave your enemies into your hand." Then Abram 
 And praise be to God Most High, who delivered your enemies into your hand." Then Abram gave him a tenth of everything.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -316,8 +275,8 @@ The king of Sodom said to Abram, "Give me the people, and keep the goods for you
 #### Ages 8-10
 The king of Sodom said to Abram, "Give me the people, and keep the goods for yourself."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- king: A ruler over a people or land
 
 ---
 
@@ -330,13 +289,8 @@ But Abram said to the king of Sodom, "I have lifted my hand to the Lord, God Mos
 #### Ages 8-10
 But Abram said to the king of Sodom, "I have lifted my hand to the Lord, God Most High, Creator of heaven and earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- king: A ruler over a people or land
 
 ---
 
@@ -349,9 +303,6 @@ I will not take even a thread or a sandal strap from you. Then you could never s
 #### Ages 8-10
 I will accept nothing from you, not even a thread or a sandal strap, so you will never say, 'I made Abram rich.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 14:24
@@ -363,39 +314,33 @@ I will take only what my men have eaten and the share for Aner, Eshkol, and Mamr
 #### Ages 8-10
 I will accept only what my men have eaten and the share that belongs to Aner, Eshkol, and Mamre. Let them take their share."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 14 is a draft resource chapter. The chapter opens with "In those days, Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tid...," moves through "One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amo...," and closes with "I will accept only what my men have eaten and the share that belongs to Aner, Eshkol, and Mamre....." Review this summary for fuller theological detail before approval.
+Warring kings capture Lot, Abram rescues him, Melchizedek blesses Abram, and Abram refuses to become rich through the king of Sodom.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-In those days, King Amraphel of Shinar, King Arioch of Ellasar, King Kedorlaomer of Elam, and King Tidal of Goiim went to war. - Genesis 14:1
+And blessed be God Most High, who gave your enemies into your hand." Then Abram gave him a tenth of everything. - Genesis 14:20
 
 ### Ages 8-10
-In those days, Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tidal king of Goiim went to war. - Genesis 14:1
+And praise be to God Most High, who delivered your enemies into your hand." Then Abram gave him a tenth of everything. - Genesis 14:20
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 14 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

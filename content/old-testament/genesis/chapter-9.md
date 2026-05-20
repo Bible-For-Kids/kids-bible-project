@@ -1,14 +1,14 @@
 # Genesis Chapter 9
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 9 and should be reviewed before approval.
+Genesis 9 gives God's covenant with Noah, his family, and every living creature. The rainbow is given as a sign, and Noah's later family failure shows that sin still remains after the flood.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
 - covenant: A serious promise relationship God makes
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- rainbow: The sign God gave of his covenant after the flood
+- blood: A word often connected with life in Genesis
+- blessing: Good spoken or given by God
+- curse: A judgment that brings sorrow instead of blessing
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ God blessed Noah and his sons. He said to them, "Have children, grow in number, 
 #### Ages 8-10
 God blessed Noah and his sons and said to them, "Be fruitful and increase in number and fill the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 9:2
@@ -38,9 +31,6 @@ All the animals of the earth, all the birds of the sky, every creature that move
 
 #### Ages 8-10
 The fear and dread of you will fall on all the animals of the earth, all the birds of the sky, every creature that moves along the ground, and all the fish of the sea. They are given into your hands.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -53,9 +43,6 @@ Every moving thing that lives will be food for you. I give them to you, just as 
 #### Ages 8-10
 Everything that lives and moves will be food for you. Just as I gave you the green plants, I now give you everything.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:4
@@ -67,8 +54,8 @@ But you must not eat meat that still has its lifeblood in it.
 #### Ages 8-10
 But you must not eat meat that still has its lifeblood in it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- blood: A word often connected with life in Genesis
 
 ---
 
@@ -81,8 +68,8 @@ For your lifeblood, I will require an accounting. I will require it from every a
 #### Ages 8-10
 For your lifeblood, I will require an accounting. I will require it from every animal and from every human being.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- blood: A word often connected with life in Genesis
 
 ---
 
@@ -96,10 +83,14 @@ Whoever sheds human blood, by humans that person's blood will be shed, because G
 Whoever sheds human blood, by humans that person's blood will be shed, because God made human beings in his image.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the image of God as the reason human life must not be murdered.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- blood: A word often connected with life in Genesis
+
+**Cross-References**:
+- Genesis 1:26-27
+- James 3:9
 
 ---
 
@@ -112,9 +103,6 @@ As for you, have children and grow in number. Spread out over the earth and beco
 #### Ages 8-10
 As for you, be fruitful and increase in number. Multiply on the earth and become many."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:8
@@ -126,12 +114,6 @@ Then God said to Noah and to his sons with him,
 #### Ages 8-10
 Then God said to Noah and to his sons with him,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 9:9
@@ -142,9 +124,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I now establish my covenant with you and with your descendants after you.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -160,9 +139,6 @@ I also make it with every living creature with you: the birds, the livestock, an
 #### Ages 8-10
 I also establish it with every living creature that was with you: the birds, the livestock, and all the wild animals, every creature that came out of the ark.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:11
@@ -173,9 +149,6 @@ I make my covenant with you: never again will all living creatures be destroyed 
 
 #### Ages 8-10
 I establish my covenant with you: never again will all life be destroyed by the waters of a flood. Never again will a flood destroy the earth."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -191,12 +164,8 @@ God said, "This is the sign of the covenant I am making between me and you and e
 #### Ages 8-10
 God said, "This is the sign of the covenant I am making between me and you and every living creature with you, a covenant for all generations to come.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -210,10 +179,14 @@ I have set my rainbow in the clouds. When its colors stretch across the sky, it 
 I have set my rainbow in the clouds. When its colors stretch across the sky, it will be the sign of the covenant between me and the earth.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The rainbow is God's covenant sign, not a magical object.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- rainbow: The sign God gave of his covenant after the flood
+
+**Cross-References**:
+- Ezekiel 1:28
 
 ---
 
@@ -226,8 +199,8 @@ When I bring clouds over the earth and the rainbow appears in the clouds,
 #### Ages 8-10
 Whenever I bring clouds over the earth and the rainbow appears in the clouds,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- rainbow: The sign God gave of his covenant after the flood
 
 ---
 
@@ -239,9 +212,6 @@ I will remember my covenant between me and you and every living creature. The wa
 
 #### Ages 8-10
 I will remember my covenant between me and you and every living creature. Never again will the waters become a flood to destroy all life.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -257,12 +227,9 @@ When the rainbow is in the clouds, I will see it and remember the everlasting co
 #### Ages 8-10
 Whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and every living creature on the earth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- rainbow: The sign God gave of his covenant after the flood
 
 ---
 
@@ -275,12 +242,11 @@ So God said to Noah, "This is the sign of the covenant I have made between me an
 #### Ages 8-10
 So God said to Noah, "This is the sign of the covenant I have established between me and all life on the earth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+
+**Cross-References**:
+- Isaiah 54:9
 
 ---
 
@@ -293,9 +259,6 @@ The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was th
 #### Ages 8-10
 The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:19
@@ -306,9 +269,6 @@ These three were Noah's sons, and from them came the people who spread over the 
 
 #### Ages 8-10
 These three were Noah's sons, and from them the whole earth was populated.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -321,9 +281,6 @@ Noah became a man of the soil, and he planted a vineyard.
 #### Ages 8-10
 Noah, a man of the soil, began to plant a vineyard.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:21
@@ -334,9 +291,6 @@ Noah drank some of the wine and became drunk. He lay uncovered inside his tent.
 
 #### Ages 8-10
 When he drank some of its wine, he became drunk and lay uncovered inside his tent.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -349,9 +303,6 @@ Ham, the father of Canaan, saw his father uncovered and told his two brothers ou
 #### Ages 8-10
 Ham, the father of Canaan, saw his father uncovered and told his two brothers outside.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:23
@@ -363,9 +314,6 @@ Shem and Japheth took a garment and laid it across their shoulders. They walked 
 #### Ages 8-10
 But Shem and Japheth took a garment, laid it across their shoulders, walked backward, and covered their father. Their faces were turned away, so they did not see him uncovered.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:24
@@ -376,9 +324,6 @@ When Noah woke up from his wine and learned what his youngest son had done to hi
 
 #### Ages 8-10
 When Noah woke from his wine and learned what his youngest son had done to him,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -392,10 +337,10 @@ he said, "Cursed be Canaan. He will be the lowest servant to his brothers."
 he said, "Cursed be Canaan. He will be the lowest of servants to his brothers."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Handle Noah's curse carefully and do not add later racial meanings that are not in the text.
 
 **Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
+- curse: A judgment that brings sorrow instead of blessing
 
 ---
 
@@ -408,15 +353,6 @@ Noah also said, "Praise the Lord, the God of Shem. Let Canaan be Shem's servant.
 #### Ages 8-10
 He also said, "Praise be to the Lord, the God of Shem. Let Canaan be Shem's servant.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 9:27
@@ -427,12 +363,6 @@ May God give Japheth more room. May Japheth live in the tents of Shem, and may C
 
 #### Ages 8-10
 May God extend Japheth's territory. May Japheth live in the tents of Shem, and may Canaan be Japheth's servant."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -445,9 +375,6 @@ After the flood, Noah lived 350 years.
 #### Ages 8-10
 After the flood, Noah lived 350 years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 9:29
@@ -459,39 +386,33 @@ Altogether, Noah lived 950 years. Then he died.
 #### Ages 8-10
 Altogether, Noah lived 950 years, and then he died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 9 is a draft resource chapter. The chapter opens with "God blessed Noah and his sons and said to them, "Be fruitful and increase in number and fill the...," moves through "I will remember my covenant between me and you and every living creature. Never again will the wa...," and closes with "Altogether, Noah lived 950 years, and then he died.." Review this summary for fuller theological detail before approval.
+God blessed Noah and his sons, gave commands about life and blood, and made a covenant that floodwaters would never again destroy all flesh. The rainbow became the sign of that covenant. Later Noah became drunk, Ham dishonored him, and Noah spoke words about Canaan, Shem, and Japheth. The chapter ends with Noah's death.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God values life**: Human life is protected because people are made in God's image.
+2. **God gives signs to remember**: The rainbow points to God's covenant promise.
+3. **Sin still needs mercy**: Even after judgment and rescue, Noah's family still needed God's grace.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-All the animals of the earth, all the birds of the sky, every creature that moves on the ground, and all the fish of the sea will fear you. They are given into your hands. - Genesis 9:2
+I have set my rainbow in the clouds. When its colors stretch across the sky, it will be the sign of the covenant between me and the earth. - Genesis 9:13
 
 ### Ages 8-10
-Everything that lives and moves will be food for you. Just as I gave you the green plants, I now give you everything. - Genesis 9:3
+I have set my rainbow in the clouds. When its colors stretch across the sky, it will be the sign of the covenant between me and the earth. - Genesis 9:13
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 9 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

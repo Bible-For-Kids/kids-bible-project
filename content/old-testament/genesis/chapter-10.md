@@ -1,11 +1,14 @@
 # Genesis Chapter 10
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 10 and should be reviewed before approval.
+Genesis 10 lists the peoples who came from Noah's sons after the flood. It shows nations spreading across lands, languages, clans, and families under God's rule.
 
 ## Important Keywords
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- genealogy: A family line that tells who came from whom
+- nation: A people with their own land, language, or family identity
+- clan: A large family group within a people
+- language: The words a people use to speak with one another
+- kingdom: A people or land ruled by a king
 
 ## Verse-by-Verse Translation
 
@@ -18,9 +21,6 @@ This is the family line of Noah's sons: Shem, Ham, and Japheth. Sons were born t
 #### Ages 8-10
 These are the family lines of Noah's sons: Shem, Ham, and Japheth. Sons were born to them after the flood.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:2
@@ -31,9 +31,6 @@ The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 
 #### Ages 8-10
 The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -46,9 +43,6 @@ The sons of Gomer were Ashkenaz, Riphath, and Togarmah.
 #### Ages 8-10
 The sons of Gomer were Ashkenaz, Riphath, and Togarmah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:4
@@ -59,9 +53,6 @@ The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim.
 
 #### Ages 8-10
 The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -74,8 +65,9 @@ From these families came peoples who spread out to the coastlands and far lands.
 #### Ages 8-10
 From these families, the coastland peoples spread out into their own lands. Each people had its own language, family group, and nation.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- nation: A people with their own land, language, or family identity
+- language: The words a people use to speak with one another
 
 ---
 
@@ -88,9 +80,6 @@ The sons of Ham were Cush, Mizraim, Put, and Canaan.
 #### Ages 8-10
 The sons of Ham were Cush, Mizraim, Put, and Canaan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:7
@@ -101,9 +90,6 @@ The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabteka. The sons of Ra
 
 #### Ages 8-10
 The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabteka. The sons of Raamah were Sheba and Dedan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -116,9 +102,6 @@ Cush became the father of Nimrod. Nimrod became a mighty man on the earth.
 #### Ages 8-10
 Cush became the father of Nimrod, who became a mighty man on the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:9
@@ -129,13 +112,6 @@ Nimrod was a mighty hunter before the Lord. That is why people said, "Like Nimro
 
 #### Ages 8-10
 Nimrod was a mighty hunter before the Lord. That is why people said, "Like Nimrod, a mighty hunter before the Lord."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -148,8 +124,8 @@ The first centers of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in th
 #### Ages 8-10
 The first centers of Nimrod's kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- kingdom: A people or land ruled by a king
 
 ---
 
@@ -163,7 +139,10 @@ From Shinar, Nimrod went to Assyria. There he built the cities of Nineveh, Rehob
 From Shinar, Nimrod went to Assyria, where he built the cities of Nineveh, Rehoboth Ir, and Calah.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the movement visual: from Shinar, Nimrod goes into Assyria and builds cities such as Nineveh.
+
+**Cross-References**:
+- Jonah 1:2
 
 ---
 
@@ -176,9 +155,6 @@ He also built Resen between Nineveh and Calah. It was a great city.
 #### Ages 8-10
 He also built Resen between Nineveh and Calah, which was a great city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:13
@@ -189,9 +165,6 @@ Mizraim became the father of the Ludites, Anamites, Lehabites, and Naphtuhites.
 
 #### Ages 8-10
 Mizraim became the father of the Ludites, Anamites, Lehabites, and Naphtuhites.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -204,9 +177,6 @@ He was also the father of the Pathrusites, Casluhites, and Caphtorites. The Phil
 #### Ages 8-10
 Mizraim was also the father of the Pathrusites, Casluhites, and Caphtorites. The Philistines came from the Casluhites.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:15
@@ -217,9 +187,6 @@ Canaan became the father of Sidon his firstborn, and of Heth.
 
 #### Ages 8-10
 Canaan became the father of Sidon his firstborn, and of Heth.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -232,9 +199,6 @@ Canaan was also the father of the Jebusites, Amorites, and Girgashites.
 #### Ages 8-10
 Canaan was also the father of the Jebusites, Amorites, and Girgashites.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:17
@@ -245,9 +209,6 @@ He was the father of the Hivites, Arkites, and Sinites.
 
 #### Ages 8-10
 He was the father of the Hivites, Arkites, and Sinites.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -260,9 +221,6 @@ He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the C
 #### Ages 8-10
 He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:19
@@ -273,9 +231,6 @@ The land of the Canaanites reached from Sidon toward Gerar as far as Gaza, and t
 
 #### Ages 8-10
 The territory of the Canaanites reached from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, Zeboyim, and Lasha.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -288,8 +243,9 @@ These were the sons of Ham by their families, languages, lands, and nations.
 #### Ages 8-10
 These were the sons of Ham, by their families, languages, lands, and nations.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- nation: A people with their own land, language, or family identity
+- language: The words a people use to speak with one another
 
 ---
 
@@ -302,9 +258,6 @@ Shem also had children. Shem was the older brother of Japheth and the father of 
 #### Ages 8-10
 Shem also had children. Shem was the older brother of Japheth and the father of all the children of Eber.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:22
@@ -315,9 +268,6 @@ The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram.
 
 #### Ages 8-10
 The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -330,9 +280,6 @@ The sons of Aram were Uz, Hul, Gether, and Mash.
 #### Ages 8-10
 The sons of Aram were Uz, Hul, Gether, and Mash.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:24
@@ -343,9 +290,6 @@ Arphaxad became the father of Shelah, and Shelah became the father of Eber.
 
 #### Ages 8-10
 Arphaxad became the father of Shelah, and Shelah became the father of Eber.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -359,7 +303,10 @@ Eber had two sons. One was named Peleg, because in his days the earth was divide
 Two sons were born to Eber. One was named Peleg, because in his days the earth was divided. His brother was named Joktan.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Peleg's name is connected with division in his days; do not overexplain beyond the verse.
+
+**Cross-References**:
+- Genesis 11:8-9
 
 ---
 
@@ -372,9 +319,6 @@ Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
 #### Ages 8-10
 Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:27
@@ -385,9 +329,6 @@ Hadoram, Uzal, Diklah,
 
 #### Ages 8-10
 Hadoram, Uzal, Diklah,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -400,9 +341,6 @@ Obal, Abimael, Sheba,
 #### Ages 8-10
 Obal, Abimael, Sheba,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:29
@@ -413,9 +351,6 @@ Ophir, Havilah, and Jobab. All these were the sons of Joktan.
 
 #### Ages 8-10
 Ophir, Havilah, and Jobab. All these were the sons of Joktan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -428,9 +363,6 @@ The place where they lived stretched from Mesha toward Sephar, in the eastern hi
 #### Ages 8-10
 The place where they lived stretched from Mesha toward Sephar, in the eastern hill country.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 10:31
@@ -442,8 +374,9 @@ These were the sons of Shem by their families, languages, lands, and nations.
 #### Ages 8-10
 These were the sons of Shem, by their families, languages, lands, and nations.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- nation: A people with their own land, language, or family identity
+- language: The words a people use to speak with one another
 
 ---
 
@@ -457,38 +390,41 @@ These were the families of Noah's sons, listed by their family lines and nations
 These were the families of Noah's sons, listed by their family lines and nations. From them, the nations spread out over the earth after the flood.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The chapter closes by summarizing families, nations, and the spread after the flood.
+
+**Key Vocabulary**:
+- nation: A people with their own land, language, or family identity
+
+**Cross-References**:
+- Acts 17:26
 
 ---
 
 ## Chapter Summary
-Genesis 10 is a draft resource chapter. The chapter opens with "These are the family lines of Noah's sons: Shem, Ham, and Japheth. Sons were born to them after t...," moves through "He was the father of the Hivites, Arkites, and Sinites.," and closes with "These were the families of Noah's sons, listed by their family lines and nations. From them, the...." Review this summary for fuller theological detail before approval.
+The descendants of Japheth, Ham, and Shem spread into many lands after the flood. The chapter names peoples, territories, and cities, including Nimrod, Babel, Nineveh, Canaanite groups, and the family line of Shem. The table of nations prepares readers for Babel in the next chapter and for God's later promise to bless all families through Abraham.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God sees all nations**: The Bible names many peoples because the nations matter to God.
+2. **Families become peoples**: Genesis shows families growing into clans, lands, languages, and nations.
+3. **The story is moving toward blessing**: The nations named here will matter when God promises blessing through Abraham.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-This is the family line of Noah's sons: Shem, Ham, and Japheth. Sons were born to them after the flood. - Genesis 10:1
+These were the families of Noah's sons, listed by their family lines and nations. From them, the nations spread out over the earth after the flood. - Genesis 10:32
 
 ### Ages 8-10
-These are the family lines of Noah's sons: Shem, Ham, and Japheth. Sons were born to them after the flood. - Genesis 10:1
+These were the families of Noah's sons, listed by their family lines and nations. From them, the nations spread out over the earth after the flood. - Genesis 10:32
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 10 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 10 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

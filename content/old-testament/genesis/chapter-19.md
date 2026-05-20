@@ -1,14 +1,14 @@
 # Genesis Chapter 19
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 19 and should be reviewed before approval.
+Genesis 19 continues the covenant family story. Angels rescue Lot from Sodom before judgment falls, but Lot's family suffers from delay, looking back, fear, and further sin.
 
 ## Important Keywords
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- angel: A messenger sent from God
+- judgment: God's right decision about sin and evil
+- rescue: Being saved from danger
+- mercy: Kind help given to someone in need or guilt
+- sin: Disobeying God and going against his good way
 
 ## Verse-by-Verse Translation
 
@@ -21,8 +21,8 @@ The two angels came to Sodom in the evening. Lot was sitting at the city gate. W
 #### Ages 8-10
 The two angels arrived at Sodom in the evening, and Lot was sitting at the city gate. When he saw them, he got up to meet them and bowed with his face to the ground.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- angel: A messenger sent from God
 
 ---
 
@@ -35,9 +35,6 @@ Lot said, "My lords, please come to your servant's house. Wash your feet and spe
 #### Ages 8-10
 Lot said, "My lords, please turn aside to your servant's house. You can wash your feet and spend the night, then go on your way early." They answered, "No, we will spend the night in the square."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:3
@@ -48,9 +45,6 @@ But Lot urged them strongly, so they went with him and entered his house. He mad
 
 #### Ages 8-10
 But Lot urged them strongly, so they went with him and entered his house. He prepared a meal for them, baked bread without yeast, and they ate.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -63,9 +57,6 @@ Before they lay down, all the men from every part of Sodom, young and old, surro
 #### Ages 8-10
 Before they lay down, all the men from every part of Sodom, young and old, surrounded the house.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:5
@@ -76,9 +67,6 @@ They called to Lot, "Where are the men who came to you tonight? Bring them out t
 
 #### Ages 8-10
 They called to Lot, "Where are the men who came to you tonight? Bring them out to us so we can know them."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -91,9 +79,6 @@ Lot went outside to meet them and shut the door behind him.
 #### Ages 8-10
 Lot went outside to meet them and shut the door behind him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:7
@@ -104,12 +89,6 @@ He said, "No, my brothers. Please do not do this evil thing.
 
 #### Ages 8-10
 He said, "No, my brothers. Please do not act so wickedly.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
 
 ---
 
@@ -122,9 +101,6 @@ Look, I have two daughters who have not known a man. I will bring them out to yo
 #### Ages 8-10
 Look, I have two daughters who have not known a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:9
@@ -135,9 +111,6 @@ The men said, "Get out of our way!" Then they said, "This man came here as a for
 
 #### Ages 8-10
 The men said, "Get out of our way!" Then they said, "This man came here as a foreigner, and now he wants to judge us. We will treat you worse than them." They pushed hard against Lot and came near to break down the door.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -150,9 +123,6 @@ But the two visitors reached out, pulled Lot back into the house, and shut the d
 #### Ages 8-10
 But the two visitors reached out, pulled Lot back into the house, and shut the door.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:11
@@ -163,9 +133,6 @@ Then they struck the men at the doorway with blindness, from the youngest to the
 
 #### Ages 8-10
 Then they struck the men at the doorway with blindness, from the youngest to the oldest, so they could not find the door.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -178,12 +145,6 @@ The two visitors said to Lot, "Do you have anyone else here: sons-in-law, sons, 
 #### Ages 8-10
 The two visitors said to Lot, "Do you have anyone else here: sons-in-law, sons, daughters, or anyone in the city who belongs to you? Get them out of this place.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- law: God's instruction for his people
-
 ---
 
 ### Genesis 19:13
@@ -195,13 +156,6 @@ We are going to destroy this place. The outcry against its people has become gre
 #### Ages 8-10
 We are going to destroy this place, because the outcry against its people has become great before the Lord. The Lord has sent us to destroy it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 19:14
@@ -211,15 +165,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 So Lot went out and spoke to the men promised to marry his daughters. He said, "Hurry! Get out of this place, because the Lord is going to destroy the city!" But they thought he was joking.
 
 #### Ages 8-10
-So Lot went out and spoke to the men pledged to marry his daughters. He said, "Hurry, get out of this place, because the Lord is about to destroy the city!" But they thought he was joking.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- law: God's instruction for his people
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+So Lot went out and spoke to the men promised to marry his daughters. He said, "Hurry, get out of this place, because the Lord is about to destroy the city!" But they thought he was joking.
 
 ---
 
@@ -232,8 +178,8 @@ At dawn, the angels urged Lot, "Hurry! Take your wife and your two daughters who
 #### Ages 8-10
 At dawn, the angels urged Lot, "Hurry! Take your wife and your two daughters who are here, or you will be swept away when the city is punished."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- angel: A messenger sent from God
 
 ---
 
@@ -246,13 +192,6 @@ When Lot hesitated, the men took his hand, his wife's hand, and his two daughter
 #### Ages 8-10
 When Lot hesitated, the men grasped his hand, his wife's hand, and the hands of his two daughters. The Lord was merciful to him, and they led them safely out of the city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 19:17
@@ -264,8 +203,8 @@ As soon as they brought them out, one angel said, "Run for your lives! Do not lo
 #### Ages 8-10
 As soon as they brought them out, one angel said, "Run for your lives! Do not look back. Do not stop anywhere in the plain. Run to the mountains, or you will be swept away!"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- angel: A messenger sent from God
 
 ---
 
@@ -278,12 +217,6 @@ But Lot said to them, "No, my lords, please!
 #### Ages 8-10
 But Lot said to them, "No, my lords, please!
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 19:19
@@ -294,12 +227,6 @@ Your servant has found favor in your eyes, and you have shown great kindness by 
 
 #### Ages 8-10
 Your servant has found favor in your eyes, and you have shown great kindness by saving my life. But I cannot run to the mountains. Disaster may overtake me, and I will die.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
 
 ---
 
@@ -312,9 +239,6 @@ Look, that small town is near enough to run to. Let me escape there. It is only 
 #### Ages 8-10
 Look, this town is near enough to run to, and it is small. Let me escape there, and my life will be saved."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:21
@@ -326,8 +250,8 @@ The angel said to him, "Very well. I will grant this request too. I will not des
 #### Ages 8-10
 The angel said to him, "Very well. I will grant this request also. I will not overthrow the town you speak of.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- angel: A messenger sent from God
 
 ---
 
@@ -340,9 +264,6 @@ Hurry, escape there, because I cannot do anything until you reach it." That is w
 #### Ages 8-10
 Hurry, escape there, because I cannot do anything until you reach it." That is why the town was called Zoar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:23
@@ -353,9 +274,6 @@ By the time Lot reached Zoar, the sun had risen over the land.
 
 #### Ages 8-10
 By the time Lot reached Zoar, the sun had risen over the land.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -368,13 +286,6 @@ Then the Lord rained burning sulfur down on Sodom and Gomorrah from the Lord out
 #### Ages 8-10
 Then the Lord rained burning sulfur down on Sodom and Gomorrah from the Lord out of the heavens.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 19:25
@@ -385,9 +296,6 @@ He destroyed those cities, the whole plain, all the people in the cities, and wh
 
 #### Ages 8-10
 He overthrew those cities, the whole plain, all the people in the cities, and what grew on the ground.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -400,9 +308,6 @@ But Lot's wife looked back, and she became a pillar of salt.
 #### Ages 8-10
 But Lot's wife looked back, and she became a pillar of salt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:27
@@ -413,13 +318,6 @@ Early the next morning, Abraham went back to the place where he had stood before
 
 #### Ages 8-10
 Early the next morning, Abraham returned to the place where he had stood before the Lord.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -432,8 +330,8 @@ He looked down toward Sodom and Gomorrah and the whole plain. Smoke was rising f
 #### Ages 8-10
 He looked down toward Sodom and Gomorrah and the whole plain, and he saw smoke rising from the land like smoke from a furnace.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- sin: Disobeying God and going against his good way
 
 ---
 
@@ -447,10 +345,7 @@ So when God destroyed the cities of the plain, he remembered Abraham. He brought
 So when God destroyed the cities of the plain, he remembered Abraham and brought Lot out of the disaster that overthrew the cities where Lot had lived.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -463,9 +358,6 @@ Lot and his two daughters left Zoar and lived in the mountains, because Lot was 
 #### Ages 8-10
 Lot and his two daughters left Zoar and settled in the mountains, because he was afraid to stay in Zoar. They lived in a cave.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:31
@@ -476,9 +368,6 @@ The older daughter said to the younger, "Our father is old, and there is no man 
 
 #### Ages 8-10
 The older daughter said to the younger, "Our father is old, and there is no man around here to give us children in the usual way.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -491,9 +380,6 @@ Come, let us give our father wine to drink. Then we will lie with him, so we can
 #### Ages 8-10
 Come, let us give our father wine to drink and then lie with him, so we can preserve our family line through our father."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:33
@@ -504,9 +390,6 @@ That night, they gave their father wine to drink. The older daughter went in and
 
 #### Ages 8-10
 That night, they gave their father wine to drink. The older daughter went in and lay with her father, and he did not know when she lay down or got up.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -519,9 +402,6 @@ The next day, the older daughter said to the younger, "Last night I lay with my 
 #### Ages 8-10
 The next day, the older daughter said to the younger, "Last night I lay with my father. Let us give him wine again tonight, and you go in and lie with him, so we can preserve our family line through our father."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:35
@@ -532,9 +412,6 @@ So that night, they gave their father wine to drink again. The younger daughter 
 
 #### Ages 8-10
 So that night, they gave their father wine to drink again. The younger daughter went in and lay with him, and he did not know when she lay down or got up.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -547,9 +424,6 @@ Both of Lot's daughters became pregnant by their father.
 #### Ages 8-10
 Both of Lot's daughters became pregnant by their father.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 19:37
@@ -560,9 +434,6 @@ The older daughter had a son and named him Moab. He became the father of the Moa
 
 #### Ages 8-10
 The older daughter had a son and named him Moab. He became the father of the Moabites.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -575,39 +446,33 @@ The younger daughter also had a son and named him Ben-Ammi. He became the father
 #### Ages 8-10
 The younger daughter also had a son and named him Ben-Ammi. He became the father of the Ammonites.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 19 is a draft resource chapter. The chapter opens with "The two angels arrived at Sodom in the evening, and Lot was sitting at the city gate. When he saw...," moves through "Look, this town is near enough to run to, and it is small. Let me escape there, and my life will...," and closes with "The younger daughter also had a son and named him Ben-Ammi. He became the father of the Ammonites.." Review this summary for fuller theological detail before approval.
+Angels rescue Lot from Sodom before judgment falls, but Lot's family suffers from delay, looking back, fear, and further sin.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The two angels came to Sodom in the evening. Lot was sitting at the city gate. When he saw them, he got up to meet them and bowed with his face to the ground. - Genesis 19:1
+So when God destroyed the cities of the plain, he remembered Abraham. He brought Lot out of the disaster that destroyed the cities where Lot had lived. - Genesis 19:29
 
 ### Ages 8-10
-The two angels arrived at Sodom in the evening, and Lot was sitting at the city gate. When he saw them, he got up to meet them and bowed with his face to the ground. - Genesis 19:1
+So when God destroyed the cities of the plain, he remembered Abraham and brought Lot out of the disaster that overthrew the cities where Lot had lived. - Genesis 19:29
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 19 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 19 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

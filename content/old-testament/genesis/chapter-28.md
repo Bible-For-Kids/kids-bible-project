@@ -1,14 +1,14 @@
 # Genesis Chapter 28
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 28 and should be reviewed before approval.
+Genesis 28 continues the covenant family story. Jacob leaves home, dreams of a stairway reaching to heaven, hears God renew the promise, and names the place Bethel.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- command: Something God tells someone to do
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- dream: A picture or message seen while sleeping
+- promise: Words someone says and keeps
+- presence: Being with someone
+- Bethel: The place Jacob named "house of God"
+- worship: Honoring God with trust, praise, and obedience
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,6 @@ Isaac called Jacob, blessed him, and gave him a serious command. He said, "You s
 #### Ages 8-10
 Isaac called Jacob, blessed him, and commanded him, saying, "You shall not take a wife from the daughters of Canaan."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- command: Something God tells someone to do
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 28:2
@@ -39,9 +31,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Arise, go to Padan-aram, to the house of Bethuel your mother's father. Take a wife from there from the daughters of Laban, your mother's brother."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -54,12 +43,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "May God Almighty bless you, make you fruitful, and multiply you, so that you may become a multitude of people."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 28:4
@@ -70,13 +53,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "May he give you the blessing of Abraham, to you and to your descendants with you, so that you may inherit the land where you are a stranger, which God gave to Abraham."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessing: Good that comes from God
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -89,12 +65,6 @@ So Isaac sent Jacob away. Jacob went to Padan-aram, to Laban, the son of Bethuel
 #### Ages 8-10
 Isaac sent Jacob away, and Jacob went to Padan-aram to Laban, son of Bethuel the Syrian, the brother of Rebekah, who was the mother of Jacob and Esau.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 28:6
@@ -105,14 +75,6 @@ Esau saw that Isaac had blessed Jacob and sent him away to Padan-aram to take a 
 
 #### Ages 8-10
 Esau saw that Isaac had blessed Jacob and sent him to Padan-aram to take a wife from there. He also saw that Isaac had commanded him, "You shall not take a wife from the daughters of Canaan."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- command: Something God tells someone to do
-- Jacob: The man God also named Israel
 
 ---
 
@@ -125,12 +87,6 @@ Esau saw that Jacob obeyed his father and mother and had gone to Padan-aram.
 #### Ages 8-10
 Esau saw that Jacob obeyed his father and mother and had gone to Padan-aram.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 28:8
@@ -141,9 +97,6 @@ Esau also saw that the daughters of Canaan did not please Isaac his father.
 
 #### Ages 8-10
 Esau saw that the daughters of Canaan did not please Isaac his father.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -156,9 +109,6 @@ So Esau went to Ishmael and took Mahalath as a wife, in addition to the wives he
 #### Ages 8-10
 So Esau went to Ishmael and took Mahalath, daughter of Ishmael Abraham's son and sister of Nebajoth, to be his wife in addition to the wives he already had.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 28:10
@@ -169,12 +119,6 @@ Jacob left Beersheba and went toward Haran.
 
 #### Ages 8-10
 Jacob went out from Beersheba and went toward Haran.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -187,9 +131,6 @@ He came to a certain place and stayed there all night because the sun had set. H
 #### Ages 8-10
 He came to a certain place and stayed there all night because the sun had set. He took some stones from that place, put them near his head, and lay down there to sleep.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 28:12
@@ -201,12 +142,8 @@ Jacob dreamed, and behold, a ladder stood on the earth, with its top reaching to
 #### Ages 8-10
 He dreamed, and behold, a ladder was set up on the earth with its top reaching to heaven. The angels of God were ascending and descending on it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -219,14 +156,6 @@ The Lord stood above the stairway and said, "I am the Lord God of Abraham your f
 #### Ages 8-10
 The Lord stood above the stairway and said, "I am the Lord God of Abraham your father and the God of Isaac. The land where you lie I will give to you and to your descendants."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 28:14
@@ -237,12 +166,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Your descendants shall be like the dust of the earth. You shall spread abroad to the west, east, north, and south, and in you and in your descendants all the families of the earth shall be blessed."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
 
 ---
 
@@ -256,7 +179,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Look, I am with you and will keep you wherever you go. I will bring you back into this land, for I will not leave you until I have done what I have spoken to you."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+God promises presence, protection, return, and faithfulness to his word.
+
+**Cross-References**:
+- Hebrews 13:5
 
 ---
 
@@ -269,14 +195,6 @@ Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did
 #### Ages 8-10
 Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did not know it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 28:17
@@ -287,12 +205,6 @@ He was afraid and said, "How awesome this place is! This is none other than the 
 
 #### Ages 8-10
 He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -305,12 +217,6 @@ Jacob rose early in the morning. He took the stone he had set near his head, sto
 #### Ages 8-10
 Jacob rose early in the morning, took the stone he had put near his head, set it up as a pillar, and poured oil on top of it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 28:19
@@ -322,8 +228,8 @@ He named that place Bethel, though the city had first been called Luz.
 #### Ages 8-10
 He called the name of that place Bethel, though the city had been called Luz at first.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -336,13 +242,6 @@ Jacob made a vow, saying, "If God will be with me, keep me on this way I am goin
 #### Ages 8-10
 Jacob made a vow, saying, "If God will be with me, keep me in this way that I go, and give me bread to eat and clothing to wear,"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 28:21
@@ -353,14 +252,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "so that I come back to my father's house in peace, then the Lord shall be my God."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -373,42 +264,33 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "This stone, which I have set as a pillar, shall be God's house. Of all that you give me, I will surely give a tenth to you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ## Chapter Summary
-Genesis 28 is a draft resource chapter. The chapter opens with "Isaac called Jacob, blessed him, and commanded him, saying, "You shall not take a wife from the d...," moves through "He dreamed, and behold, a ladder was set up on the earth with its top reaching to heaven. The ang...," and closes with "This stone, which I have set as a pillar, shall be God's house. Of all that you give me, I will s...." Review this summary for fuller theological detail before approval.
+Jacob leaves home, dreams of a stairway reaching to heaven, hears God renew the promise, and names the place Bethel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Isaac called Jacob, blessed him, and gave him a serious command. He said, "You shall not take a wife from the daughters of Canaan." - Genesis 28:1
+"Look, I am with you. I will keep you everywhere you go, and I will bring you back into this land. I will not leave you until I have done what I have spoken to you." - Genesis 28:15
 
 ### Ages 8-10
-Isaac called Jacob, blessed him, and commanded him, saying, "You shall not take a wife from the daughters of Canaan." - Genesis 28:1
+"Look, I am with you and will keep you wherever you go. I will bring you back into this land, for I will not leave you until I have done what I have spoken to you." - Genesis 28:15
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 28 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 28 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

@@ -1,14 +1,16 @@
 # Genesis Chapter 3
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 3 and should be reviewed before approval.
+Genesis 3 tells how the serpent questioned God's word, how the man and woman disobeyed, and how sin brought fear, blame, pain, and exile. Yet God also spoke the first promise that the woman's offspring would crush the serpent.
 
 ## Important Keywords
-- cherubim: Mighty heavenly servants of God
-- cursed: Placed under judgment instead of blessing
+- serpent: The crafty creature that tempted the woman in Eden
+- sin: Disobeying God and going against his good way
+- curse: A judgment that brings sorrow instead of blessing
 - Eden: The garden place God prepared for the first people
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
+- exile: Being sent away from home
+- offspring: Children and later family who come after someone
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -22,13 +24,10 @@ The serpent was more crafty than any wild animal the Lord God had made. In the g
 The serpent was more crafty than any wild animal the Lord God had made. In the garden, he came to the woman and said, "Did God really say, 'You must not eat from any tree in the garden'?"
 
 **Translation Notes**:
-Keep the serpent's question clear: he challenges God's word without making the verse cartoonish or silly.
+Keep the serpent's question clear: he challenges God's word without making the scene silly.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - serpent: The crafty creature that tempted the woman in Eden
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 **Cross-References**:
 - 2 Corinthians 11:3
@@ -40,13 +39,10 @@ Keep the serpent's question clear: he challenges God's word without making the v
 **Original Reference**: Genesis 3:2 - The woman said to the serpent, "We may eat fruit from the trees of the garden,
 
 #### Ages 5-7
-The woman said to the serpent, "We may eat fruit from the trees in the garden.
+The woman said to the serpent, "We may eat fruit from the trees in the garden."
 
 #### Ages 8-10
-The woman said to the serpent, "We may eat fruit from the trees in the garden.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The woman said to the serpent, "We may eat fruit from the trees in the garden."
 
 **Key Vocabulary**:
 - serpent: The crafty creature that tempted the woman in Eden
@@ -57,16 +53,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:3 - but not the fruit of the tree which is in the middle of the garden. God has said, 'You shall not eat of it. You shall not touch it, lest you die.' "
 
 #### Ages 5-7
-But God said, 'You must not eat fruit from the tree in the middle of the garden. You must not touch it, or you will die.'"
+Then she said, "But God told us not to eat fruit from the tree in the middle of the garden. We must not touch it, or we will die."
 
 #### Ages 8-10
-But God said, 'You must not eat fruit from the tree in the middle of the garden, and you must not touch it, or you will die.'"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+Then she said, "But God told us not to eat fruit from the tree in the middle of the garden, and we must not touch it, or we will die."
 
 ---
 
@@ -74,13 +64,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:4 - The serpent said to the woman, "You won't really die,
 
 #### Ages 5-7
-The serpent said to the woman, "You will not surely die.
+The serpent said to the woman, "You will not surely die."
 
 #### Ages 8-10
 "You will not surely die," the serpent said to the woman.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - serpent: The crafty creature that tempted the woman in Eden
@@ -91,17 +78,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:5 - for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil."
 
 #### Ages 5-7
-God knows that when you eat it, your eyes will be opened. You will be like God, knowing good and evil."
+The serpent said, "God knows that when you eat it, your eyes will be opened. You will be like God, knowing good and evil."
 
 #### Ages 8-10
 "God knows that when you eat from it, your eyes will be opened. You will be like God, knowing good and evil."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
+- serpent: The crafty creature that tempted the woman in Eden
 
 ---
 
@@ -115,7 +98,11 @@ The woman saw that the fruit looked good to eat. It was beautiful, and she wante
 The woman saw that the tree was good for food, pleasing to the eyes, and desirable for gaining wisdom. She took some of its fruit and ate it. She also gave some to her husband, who was with her, and he ate it.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Show the temptation through sight, desire, and action without excusing the disobedience.
+
+**Key Vocabulary**:
+- sin: Disobeying God and going against his good way
+- promise: Words someone says and keeps
 
 ---
 
@@ -128,9 +115,6 @@ Then their eyes were opened. They knew they had no clothes on, so they sewed fig
 #### Ages 8-10
 Then the eyes of both of them were opened, and they realized they were naked. So they sewed fig leaves together and made coverings for themselves.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 3:8
@@ -141,14 +125,6 @@ Later, when the day grew cool, they heard the Lord God walking in the garden. Th
 
 #### Ages 8-10
 Then, in the cool of the day, the man and his wife heard the Lord God walking in the garden. They moved among the trees and hid from him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -161,14 +137,6 @@ But the Lord God called to the man, "Where are you?"
 #### Ages 8-10
 But the Lord God called to the man, "Where are you?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 3:10
@@ -179,9 +147,6 @@ The man said, "I heard you in the garden. I was afraid because I had no clothes 
 
 #### Ages 8-10
 The man answered, "I heard you in the garden, and I was afraid because I was naked, so I hid."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -194,12 +159,6 @@ God said, "Who told you that you had no clothes on? Did you eat from the tree I 
 #### Ages 8-10
 God said, "Who told you that you were naked? Have you eaten from the tree I commanded you not to eat from?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 3:12
@@ -210,9 +169,6 @@ The man said, "The woman you gave to be with me gave me fruit from the tree, and
 
 #### Ages 8-10
 The man said, "The woman you gave to be with me gave me fruit from the tree, and I ate it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -225,14 +181,8 @@ Then the Lord God said to the woman, "What have you done?" The woman said, "The 
 #### Ages 8-10
 Then the Lord God said to the woman, "What have you done?" The woman said, "The serpent deceived me, and I ate."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - serpent: The crafty creature that tempted the woman in Eden
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -240,20 +190,14 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:14 - Yahweh God said to the serpent, "Because you have done this, you are cursed above all livestock, and above every animal of the field. You shall go on your belly and you shall eat dust all the days of your life.
 
 #### Ages 5-7
-So the Lord God said to the serpent, "Because you have done this, you are cursed more than all livestock and wild animals. You will crawl on your belly and eat dust all your life.
+So the Lord God said to the serpent, "Because you have done this, you are cursed more than all livestock and wild animals. You will crawl on your belly and eat dust all your life."
 
 #### Ages 8-10
-So the Lord God said to the serpent, "Because you have done this, you are cursed above all livestock and wild animals. You will crawl on your belly and eat dust all the days of your life.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+So the Lord God said to the serpent, "Because you have done this, you are cursed above all livestock and wild animals. You will crawl on your belly and eat dust all the days of your life."
 
 **Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - serpent: The crafty creature that tempted the woman in Eden
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- curse: A judgment that brings sorrow instead of blessing
 
 ---
 
@@ -261,18 +205,20 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:15 - I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel."
 
 #### Ages 5-7
-I will put hatred between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel."
+God said, "I will put hatred between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel."
 
 #### Ages 8-10
-I will put hostility between you and the woman, and between your offspring and hers. He will crush your head, and you will strike his heel."
+God said, "I will put hostility between you and the woman, and between your offspring and hers. He will crush your head, and you will strike his heel."
 
 **Translation Notes**:
-This verse is often read as the first promise that evil will be defeated. Keep the serpent, woman, offspring, head, and heel details in order.
+This is often called the first gospel promise. Keep the serpent, woman, offspring, head, and heel details in order.
+
+**Key Vocabulary**:
+- offspring: Children and later family who come after someone
 
 **Cross-References**:
 - Romans 16:20
 - Hebrews 2:14
-- Revelation 12:9
 
 ---
 
@@ -285,29 +231,19 @@ To the woman, God said, "Having children will now bring pain. Your heart will tu
 #### Ages 8-10
 To the woman he said, "I will greatly increase your pain in childbearing. With pain you will give birth to children. Your desire will be for your husband, and he will rule over you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 3:17
 **Original Reference**: Genesis 3:17 - To Adam he said, "Because you have listened to your wife's voice, and ate from the tree, about which I commanded you, saying, 'You shall not eat of it,' the ground is cursed for your sake. You will eat from it with much labor all the days of your life.
 
 #### Ages 5-7
-To Adam, God said, "You listened to your wife and ate from the tree I commanded you not to eat from. Because of you, the ground is cursed. You will work hard and painfully to eat from it all your life.
+To Adam, God said, "You listened to your wife and ate from the tree I commanded you not to eat from. Because of you, the ground is cursed. You will work hard and painfully to eat from it all your life."
 
 #### Ages 8-10
-To Adam he said, "Because you listened to your wife and ate from the tree I commanded you not to eat from, the ground is cursed because of you. Through painful toil you will eat from it all the days of your life.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+To Adam he said, "Because you listened to your wife and ate from the tree I commanded you not to eat from, the ground is cursed because of you. Through painful toil you will eat from it all the days of your life."
 
 **Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
+- curse: A judgment that brings sorrow instead of blessing
 
 ---
 
@@ -315,13 +251,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:18 - It will yield thorns and thistles to you; and you will eat the herb of the field.
 
 #### Ages 5-7
-The ground will grow thorns and thistles for you. You will eat plants from the field.
+God said, "The ground will grow thorns and thistles for you. You will eat plants from the field."
 
 #### Ages 8-10
-It will produce thorns and thistles for you, and you will eat the plants of the field.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+God said, "It will produce thorns and thistles for you, and you will eat the plants of the field."
 
 ---
 
@@ -329,17 +262,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 3:19 - You will eat bread by the sweat of your face until you return to the ground, for you were taken out of it. For you are dust, and you shall return to dust."
 
 #### Ages 5-7
-You will eat food by the sweat of your face until you return to the ground. You came from dust, and to dust you will return."
+God said, "You will eat food by the sweat of your face until you return to the ground. You came from dust, and to dust you will return."
 
 #### Ages 8-10
-By the sweat of your face you will eat food until you return to the ground. You were taken from dust, and to dust you will return."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Cross-References**:
-- Genesis 2:7
-- Psalm 103:14
+God said, "By the sweat of your face you will eat food until you return to the ground. You were taken from dust, and to dust you will return."
 
 ---
 
@@ -351,9 +277,6 @@ Adam named his wife Eve, because she would become the mother of all living peopl
 
 #### Ages 8-10
 Adam named his wife Eve, because she would become the mother of all the living.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -367,12 +290,7 @@ The Lord God made clothes from animal skins for Adam and his wife, and he dresse
 The Lord God made clothes from animal skins for Adam and his wife and clothed them.
 
 **Translation Notes**:
-The clothing shows God caring for Adam and Eve after judgment. Do not add details about sacrifice beyond what the verse says.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+God clothes Adam and Eve after judgment. Do not add details about sacrifice that the verse itself does not state.
 
 **Cross-References**:
 - Genesis 22:8
@@ -388,15 +306,6 @@ Then the Lord God said, "The man has become like one of us, knowing good and evi
 #### Ages 8-10
 Then the Lord God said, "The man has become like one of us, knowing good and evil. He must not be allowed to reach out, take from the tree of life, eat, and live forever."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 3:23
@@ -408,14 +317,8 @@ So the Lord God sent the man out of the garden of Eden. The man would work the g
 #### Ages 8-10
 So the Lord God sent him out from the garden of Eden to work the ground from which he had been taken.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - Eden: The garden place God prepared for the first people
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -429,12 +332,10 @@ God drove the man out. Then he placed cherubim east of the garden of Eden, and a
 After he drove the man out, God placed cherubim east of the garden of Eden. A flaming sword flashed back and forth to guard the way to the tree of life.
 
 **Translation Notes**:
-Keep the guarded way to the tree of life clear without making the scene too frightening for children.
+Keep the guarded way to the tree of life clear without making the scene needlessly frightening.
 
 **Key Vocabulary**:
-- cherubim: Mighty heavenly servants of God
 - Eden: The garden place God prepared for the first people
-- God: The one true Creator and Lord over all
 
 **Cross-References**:
 - Revelation 22:14
@@ -442,34 +343,30 @@ Keep the guarded way to the tree of life clear without making the scene too frig
 ---
 
 ## Chapter Summary
-The serpent questions God's word, the man and woman disobey, and sin brings fear, blame, pain, and exile from Eden. Even in judgment, God gives a first promise that the woman's offspring will defeat the serpent.
+The serpent twisted God's command, the woman and the man ate the forbidden fruit, and their shame showed that sin had entered human life. God judged the serpent, the woman, and the man, but he also promised that the woman's offspring would defeat the serpent. God clothed Adam and Eve and sent them out of Eden, guarding the way to the tree of life.
 
 ## Key Lessons for Children
-1. **God tells the truth**: The serpent questioned God's word, but God's warning was true.
-2. **Sin brings sorrow**: Disobeying God brought fear, blame, pain, and exile.
-3. **God still gives hope**: God promised that the woman's offspring would defeat the serpent.
+1. **God tells the truth**: The serpent questioned God's word, but God's warning came to pass.
+2. **Sin brings sorrow**: Disobedience brought fear, hiding, blame, pain, and exile.
+3. **God still gives hope**: Even while judging sin, God promised that evil would not win forever.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-I will put hatred between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel." - Genesis 3:15
+God said, "I will put hatred between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel." - Genesis 3:15
 
 ### Ages 8-10
-I will put hostility between you and the woman, and between your offspring and hers. He will crush your head, and you will strike his heel." - Genesis 3:15
+God said, "I will put hostility between you and the woman, and between your offspring and hers. He will crush your head, and you will strike his heel." - Genesis 3:15
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 3 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

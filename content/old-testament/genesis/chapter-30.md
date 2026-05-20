@@ -1,14 +1,14 @@
 # Genesis Chapter 30
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 30 and should be reviewed before approval.
+Genesis 30 continues the covenant family story. Jacob's family grows through Rachel, Leah, Bilhah, and Zilpah, and God blesses Jacob's flocks as he serves Laban.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- children: Sons and daughters in a family
+- blessing: Good spoken or given by God
+- envy: Sad or angry wanting of what someone else has
+- labor: Hard work
+- providence: God ruling and caring even through events people cannot see clearly
 
 ## Verse-by-Verse Translation
 
@@ -21,11 +21,8 @@ When Rachel saw that she was not bearing children for Jacob, she envied her sist
 #### Ages 8-10
 When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, "Give me children, or else I die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- children: Sons and daughters in a family
 
 ---
 
@@ -38,12 +35,8 @@ Jacob became angry with Rachel and said, "Am I in God's place? God is the one wh
 #### Ages 8-10
 Jacob's anger burned against Rachel. He said, "Am I in God's place, who has kept you from bearing children?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- children: Sons and daughters in a family
 
 ---
 
@@ -56,8 +49,8 @@ Rachel said, "Here is my servant woman Bilhah. Take her as a wife, and she shall
 #### Ages 8-10
 Rachel said, "Here is my servant woman Bilhah. Take her as a wife, and she shall bear children for me, so that I may also have children through her."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- children: Sons and daughters in a family
 
 ---
 
@@ -70,12 +63,6 @@ So Rachel gave Bilhah her servant woman to Jacob as a wife, and Jacob received h
 #### Ages 8-10
 She gave Bilhah her servant woman to Jacob as a wife, and Jacob received her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:5
@@ -86,12 +73,6 @@ Bilhah conceived and bore Jacob a son.
 
 #### Ages 8-10
 Bilhah conceived and bore Jacob a son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -104,12 +85,6 @@ Rachel said, "God has judged me, and he has also heard my voice and given me a s
 #### Ages 8-10
 Rachel said, "God has judged me, and he has also heard my voice and given me a son." Therefore she named him Dan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 30:7
@@ -120,12 +95,6 @@ Bilhah, Rachel's servant woman, conceived again and bore Jacob a second son.
 
 #### Ages 8-10
 Bilhah, Rachel's servant woman, conceived again and bore Jacob a second son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -138,9 +107,6 @@ Rachel said, "With great wrestlings I have wrestled with my sister, and I have p
 #### Ages 8-10
 Rachel said, "With great wrestlings I have wrestled with my sister, and I have prevailed." She named him Naphtali.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 30:9
@@ -152,11 +118,8 @@ When Leah saw that she had stopped bearing children, she took Zilpah her servant
 #### Ages 8-10
 When Leah saw that she had stopped bearing children, she took Zilpah her servant woman and gave her to Jacob as a wife.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- children: Sons and daughters in a family
 
 ---
 
@@ -169,12 +132,6 @@ Zilpah, Leah's servant woman, bore Jacob a son.
 #### Ages 8-10
 Zilpah, Leah's servant woman, bore Jacob a son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:11
@@ -185,9 +142,6 @@ Leah said, "A troop comes!" So she named him Gad.
 
 #### Ages 8-10
 Leah said, "A troop comes." She named him Gad.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -200,12 +154,6 @@ Zilpah, Leah's servant woman, bore Jacob a second son.
 #### Ages 8-10
 Zilpah, Leah's servant woman, bore Jacob a second son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:13
@@ -216,12 +164,6 @@ Leah said, "I am happy, for the daughters will call me blessed." So she named hi
 
 #### Ages 8-10
 Leah said, "I am happy, for the daughters will call me blessed." She named him Asher.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
 
 ---
 
@@ -234,9 +176,6 @@ In the days of wheat harvest, Reuben went out and found mandrakes in the field. 
 #### Ages 8-10
 In the days of wheat harvest, Reuben went out and found mandrakes in the field and brought them to Leah his mother. Rachel said to Leah, "Please give me some of your son's mandrakes."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 30:15
@@ -247,12 +186,6 @@ Leah said to Rachel, "Is it a small thing that you have taken my husband? Would 
 
 #### Ages 8-10
 Leah said to her, "Is it a small matter that you have taken my husband? Would you take my son's mandrakes also?" Rachel said, "Therefore he may stay with you tonight in exchange for your son's mandrakes."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -265,12 +198,6 @@ When Jacob came in from the field in the evening, Leah went out to meet him and 
 #### Ages 8-10
 Jacob came from the field in the evening, and Leah went out to meet him. She said, "You must stay with me tonight, because I traded my son's mandrakes for this." So Jacob stayed with her that night.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:17
@@ -281,13 +208,6 @@ God listened to Leah, and she conceived and bore Jacob a fifth son.
 
 #### Ages 8-10
 God listened to Leah, and she conceived and bore Jacob a fifth son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -300,12 +220,6 @@ Leah said, "God has given me a reward, because I gave my servant woman to my hus
 #### Ages 8-10
 Leah said, "God has given me a reward, because I gave my servant woman to my husband." She named him Issachar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 30:19
@@ -316,12 +230,6 @@ Leah conceived again and bore Jacob a sixth son.
 
 #### Ages 8-10
 Leah conceived again and bore Jacob a sixth son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -334,12 +242,6 @@ Leah said, "God has given me a good gift. Now my husband will live with me, beca
 #### Ages 8-10
 Leah said, "God has given me a good gift. Now my husband will live with me, because I have borne him six sons." She named him Zebulun.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 30:21
@@ -350,9 +252,6 @@ Afterward Leah bore a daughter and named her Dinah.
 
 #### Ages 8-10
 Afterward she bore a daughter and named her Dinah.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -366,10 +265,7 @@ God remembered Rachel. God listened to her and opened her womb.
 God remembered Rachel, listened to her, and opened her womb.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -382,12 +278,6 @@ Rachel conceived and bore a son. She said, "God has taken away my reproach."
 #### Ages 8-10
 She conceived and bore a son. She said, "God has taken away my reproach."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 30:24
@@ -398,13 +288,6 @@ She named him Joseph and said, "The Lord shall add to me another son."
 
 #### Ages 8-10
 She named him Joseph and said, "The Lord shall add to me another son."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -417,12 +300,6 @@ After Rachel had borne Joseph, Jacob said to Laban, "Send me away, so I may go t
 #### Ages 8-10
 After Rachel bore Joseph, Jacob said to Laban, "Send me away, so I may go to my own place and to my own country."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:26
@@ -434,8 +311,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Give me my wives and my children, for whom I have served you, and let me go. You know the service I have done for you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- children: Sons and daughters in a family
 
 ---
 
@@ -448,14 +325,6 @@ Laban said to him, "Please, if I have found favor in your eyes, stay. I have lea
 #### Ages 8-10
 Laban said to him, "Please, if I have found favor in your eyes, stay. I have learned by experience that the Lord has blessed me for your sake."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 30:28
@@ -466,9 +335,6 @@ Then Laban said, "Name your wages, and I will give them."
 
 #### Ages 8-10
 He said, "Name your wages, and I will give them."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -481,12 +347,6 @@ Jacob said to him, "You know how I have served you, and how your livestock have 
 #### Ages 8-10
 Jacob said to him, "You know how I have served you and how your livestock have done with me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:30
@@ -497,14 +357,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You had little before I came, and now it has increased into a multitude. The Lord has blessed you since I came. Now when shall I provide for my own household also?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -517,12 +369,6 @@ Laban said, "What shall I give you?" Jacob said, "You shall not give me anything
 #### Ages 8-10
 Laban said, "What shall I give you?" Jacob said, "You shall not give me anything. If you will do this for me, I will again feed and keep your flock."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:32
@@ -533,9 +379,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Today I will pass through all your flock, removing every speckled and spotted animal, every brown sheep, and the spotted and speckled goats. These shall be my wages."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -548,9 +391,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "My righteousness will answer for me in the future, when my wages come before you. Any goat with me that is not speckled or spotted, and any sheep that is not brown, shall be counted as stolen."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 30:34
@@ -561,9 +401,6 @@ Laban said, "Let it be according to your word."
 
 #### Ages 8-10
 Laban said, "Let it be according to your word."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -576,9 +413,6 @@ That day Laban removed the male goats that were streaked and spotted, all the fe
 #### Ages 8-10
 That day Laban removed the male goats that were streaked and spotted, all the female goats that were speckled and spotted, every animal that had white on it, and all the brown sheep. He put them into the hands of his sons.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 30:36
@@ -589,12 +423,6 @@ Laban set three days' journey between himself and Jacob. Jacob kept the rest of 
 
 #### Ages 8-10
 He set three days' journey between himself and Jacob, and Jacob fed the rest of Laban's flocks.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -607,12 +435,6 @@ Jacob took fresh rods from poplar, hazel, and chestnut trees. He peeled white st
 #### Ages 8-10
 Jacob took fresh rods of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the rods.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:38
@@ -623,9 +445,6 @@ He set the peeled rods before the flocks in the gutters and watering troughs whe
 
 #### Ages 8-10
 He set the peeled rods before the flocks in the gutters and watering troughs where the flocks came to drink, so they would see them when they came to drink.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -638,9 +457,6 @@ The flocks bred near the rods and brought forth animals that were streaked, spec
 #### Ages 8-10
 The flocks bred near the rods and brought forth animals that were streaked, speckled, and spotted.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 30:40
@@ -651,12 +467,6 @@ Jacob separated the lambs. He set the faces of the flocks toward the streaked an
 
 #### Ages 8-10
 Jacob separated the lambs and set the faces of the flocks toward the streaked animals and all the brown animals in Laban's flock. He put his own flocks by themselves and did not put them with Laban's animals.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -669,12 +479,6 @@ Whenever the stronger animals were breeding, Jacob laid the rods before their ey
 #### Ages 8-10
 Whenever the stronger animals bred, Jacob laid the rods before their eyes in the watering troughs, so they would breed among the rods.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 30:42
@@ -685,12 +489,6 @@ But when the animals were weak, he did not put the rods there. So the weaker ani
 
 #### Ages 8-10
 But when the animals were weak, he did not put the rods there. So the weaker animals were Laban's, and the stronger animals were Jacob's.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -703,42 +501,33 @@ Jacob became very wealthy. He had many animals, female servants, male servants, 
 #### Ages 8-10
 Jacob increased greatly and had many animals, female servants, male servants, camels, and donkeys.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ## Chapter Summary
-Genesis 30 is a draft resource chapter. The chapter opens with "When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, "Give m...," moves through "God remembered Rachel, listened to her, and opened her womb.," and closes with "Jacob increased greatly and had many animals, female servants, male servants, camels, and donkeys.." Review this summary for fuller theological detail before approval.
+Jacob's family grows through Rachel, Leah, Bilhah, and Zilpah, and God blesses Jacob's flocks as he serves Laban.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-When Rachel saw that she was not bearing children for Jacob, she envied her sister. She said to Jacob, "Give me children, or else I die." - Genesis 30:1
+God remembered Rachel. God listened to her and opened her womb. - Genesis 30:22
 
 ### Ages 8-10
-When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, "Give me children, or else I die." - Genesis 30:1
+God remembered Rachel, listened to her, and opened her womb. - Genesis 30:22
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 30 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 30 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

@@ -1,13 +1,13 @@
 # Genesis Chapter 13
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 13 and should be reviewed before approval.
+Genesis 13 continues the covenant family story. Abram and Lot separate peacefully, Lot chooses the Jordan plain near Sodom, and the Lord renews his promise of land and offspring to Abram.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
+- land: The place God promised to give Abraham's family
+- peace: Wholeness and calm where conflict has been answered
+- offspring: Children and later family who come after someone
 
 ## Verse-by-Verse Translation
 
@@ -20,12 +20,6 @@ Abram went up from Egypt to the Negev with his wife and everything he had. Lot w
 #### Ages 8-10
 Abram went up from Egypt to the Negev with his wife and everything he had, and Lot went with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 13:2
@@ -36,9 +30,6 @@ Abram had become very rich in livestock, silver, and gold.
 
 #### Ages 8-10
 Abram had become very wealthy in livestock, silver, and gold.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -51,9 +42,6 @@ From the Negev, Abram traveled from place to place until he came back to Bethel,
 #### Ages 8-10
 From the Negev, Abram traveled from place to place until he came back to Bethel, to the place between Bethel and Ai where his tent had been earlier.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 13:4
@@ -64,14 +52,6 @@ That was the place where Abram had built an altar earlier. There Abram called on
 
 #### Ages 8-10
 It was the place where he had first built an altar, and there Abram called on the name of the Lord.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -84,9 +64,6 @@ Lot, who traveled with Abram, also had flocks, herds, and tents.
 #### Ages 8-10
 Lot, who was traveling with Abram, also had flocks, herds, and tents.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 13:6
@@ -98,8 +75,8 @@ The land could not support both of them living together, because they had so man
 #### Ages 8-10
 The land could not support both of them while they stayed together, because their possessions were so great.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -112,8 +89,8 @@ Abram's herders and Lot's herders began to quarrel. At that time, the Canaanites
 #### Ages 8-10
 Quarreling broke out between Abram's herders and Lot's herders. At that time, the Canaanites and Perizzites were also living in the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -126,9 +103,6 @@ So Abram said to Lot, "Let there be no quarrel between you and me, or between yo
 #### Ages 8-10
 So Abram said to Lot, "Let there be no quarreling between you and me, or between your herders and mine, because we are close relatives.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 13:9
@@ -140,8 +114,8 @@ Is not the whole land before you? Let us separate. If you go left, I will go rig
 #### Ages 8-10
 Is not the whole land before you? Let us part company. If you go left, I will go right. If you go right, I will go left."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -154,13 +128,8 @@ Lot looked around and saw that the whole plain of the Jordan was well watered, l
 #### Ages 8-10
 Lot looked around and saw that the whole plain of the Jordan was well watered, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -173,9 +142,6 @@ So Lot chose the whole plain of the Jordan for himself. Lot set out toward the e
 #### Ages 8-10
 So Lot chose for himself the whole plain of the Jordan and set out toward the east. The two men separated from each other.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 13:12
@@ -187,8 +153,8 @@ Abram lived in the land of Canaan, but Lot lived near the cities of the plain an
 #### Ages 8-10
 Abram lived in the land of Canaan, while Lot lived among the cities of the plain and moved his tents near Sodom.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -201,13 +167,6 @@ Now the people of Sodom were very wicked and sinned greatly against the Lord.
 #### Ages 8-10
 Now the people of Sodom were wicked and were sinning greatly against the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 13:14
@@ -218,13 +177,6 @@ After Lot separated from Abram, the Lord said to Abram, "Lift your eyes from whe
 
 #### Ages 8-10
 After Lot separated from Abram, the Lord said to Abram, "Lift up your eyes from where you are. Look north, south, east, and west.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -238,7 +190,11 @@ All the land you see I will give to you and your offspring forever.
 All the land you see I will give to you and your offspring forever.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
+- offspring: Children and later family who come after someone
 
 ---
 
@@ -251,8 +207,8 @@ I will make your offspring like the dust of the earth. If anyone could count the
 #### Ages 8-10
 I will make your offspring like the dust of the earth, so that if anyone could count the dust, then your offspring could be counted.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- offspring: Children and later family who come after someone
 
 ---
 
@@ -265,8 +221,8 @@ Go, walk through the land, from one end to the other, because I am giving it to 
 #### Ages 8-10
 Go, walk through the length and width of the land, because I am giving it to you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -279,44 +235,33 @@ So Abram moved his tents and lived near the great trees of Mamre at Hebron. Ther
 #### Ages 8-10
 So Abram moved his tents and went to live near the great trees of Mamre at Hebron. There he built an altar to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Genesis 13 is a draft resource chapter. The chapter opens with "Abram went up from Egypt to the Negev with his wife and everything he had, and Lot went with him.," moves through "Lot looked around and saw that the whole plain of the Jordan was well watered, like the garden of...," and closes with "So Abram moved his tents and went to live near the great trees of Mamre at Hebron. There he built...." Review this summary for fuller theological detail before approval.
+Abram and Lot separate peacefully, Lot chooses the Jordan plain near Sodom, and the Lord renews his promise of land and offspring to Abram.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abram went up from Egypt to the Negev with his wife and everything he had. Lot went with him. - Genesis 13:1
+All the land you see I will give to you and your offspring forever. - Genesis 13:15
 
 ### Ages 8-10
-Abram went up from Egypt to the Negev with his wife and everything he had, and Lot went with him. - Genesis 13:1
+All the land you see I will give to you and your offspring forever. - Genesis 13:15
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 13 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 13 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

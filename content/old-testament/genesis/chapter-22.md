@@ -1,14 +1,14 @@
 # Genesis Chapter 22
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 22 and should be reviewed before approval.
+Genesis 22 continues the covenant family story. God tests Abraham, Abraham offers Isaac in obedience, the Lord provides a ram, and the covenant promise is confirmed again.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- offering: A gift brought to the Lord in worship
+- test: A hard moment that reveals trust and obedience
+- obedience: Doing what God commands
+- sacrifice: An offering given to God in worship
+- provision: What God gives to meet a need
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -21,11 +21,8 @@ After these things happened, God tested Abraham. God called his name, "Abraham!"
 #### Ages 8-10
 After these things, God tested Abraham. He called to him, "Abraham!" Abraham answered, "Here I am."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- test: A hard moment that reveals trust and obedience
 
 ---
 
@@ -38,13 +35,6 @@ God said, "Take your son, your only son Isaac, the son you love, and go to the l
 #### Ages 8-10
 God said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains I will show you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- offering: A gift brought to the Lord in worship
-
 ---
 
 ### Genesis 22:3
@@ -55,13 +45,6 @@ Early the next morning, Abraham got up, saddled his donkey, and took two young s
 
 #### Ages 8-10
 Early the next morning, Abraham saddled his donkey. He took two of his young servants with him, along with Isaac his son. He split wood for the burnt offering and set out for the place God had told him about.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- offering: A gift brought to the Lord in worship
 
 ---
 
@@ -74,9 +57,6 @@ On the third day of traveling, Abraham lifted his eyes and saw the place far awa
 #### Ages 8-10
 On the third day, Abraham looked up and saw the place far away.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:5
@@ -87,9 +67,6 @@ Abraham said to his young servants, "Stay here with the donkey. The boy and I wi
 
 #### Ages 8-10
 Abraham said to his young servants, "Stay here with the donkey. The boy and I will go over there to worship, and then we will come back to you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -102,12 +79,6 @@ Abraham took the wood for the burnt offering and placed it on Isaac his son. Abr
 #### Ages 8-10
 Abraham took the wood for the burnt offering and placed it on Isaac his son. Abraham carried the fire and the knife, and the two of them walked on together.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- offering: A gift brought to the Lord in worship
-
 ---
 
 ### Genesis 22:7
@@ -118,12 +89,6 @@ Isaac spoke to Abraham his father and said, "My father." Abraham said, "Here I a
 
 #### Ages 8-10
 Isaac spoke to Abraham his father and said, "My father." Abraham answered, "Here I am, my son." Isaac said, "Here are the fire and the wood, but where is the lamb for the burnt offering?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- offering: A gift brought to the Lord in worship
 
 ---
 
@@ -136,13 +101,6 @@ Abraham said, "My son, God himself will provide the lamb for the burnt offering.
 #### Ages 8-10
 Abraham said, "My son, God himself will provide the lamb for the burnt offering." So the two of them went on together.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- offering: A gift brought to the Lord in worship
-
 ---
 
 ### Genesis 22:9
@@ -153,13 +111,6 @@ They came to the place God had told Abraham about. Abraham built an altar there,
 
 #### Ages 8-10
 They came to the place God had told him about. Abraham built an altar there, arranged the wood, bound Isaac his son, and laid him on the altar on top of the wood.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -172,9 +123,6 @@ Then Abraham reached out his hand and took the knife to offer his son.
 #### Ages 8-10
 Then Abraham reached out his hand and took the knife to offer his son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:11
@@ -185,13 +133,6 @@ But the angel of the Lord called from heaven, "Abraham, Abraham!" Abraham answer
 
 #### Ages 8-10
 But the angel of the Lord called to him from heaven, "Abraham, Abraham!" Abraham answered, "Here I am."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -204,12 +145,6 @@ The angel said, "Do not put your hand on the boy, and do not do anything to him.
 #### Ages 8-10
 He said, "Do not lay your hand on the boy, and do not do anything to him. Now I know that you fear God, because you have not held back your son, your only son, from me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 22:13
@@ -220,12 +155,6 @@ Abraham lifted his eyes and looked. There behind him was a ram, caught by its ho
 
 #### Ages 8-10
 Abraham looked up and saw a ram behind him, caught by its horns in a thicket. Abraham went and took the ram and offered it as a burnt offering instead of his son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- offering: A gift brought to the Lord in worship
 
 ---
 
@@ -239,11 +168,10 @@ Abraham named that place The Lord Will Provide. Even later people said, "On the 
 Abraham called that place The Lord Will Provide. As people still say, "On the mountain of the Lord it will be provided."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The Lord provides the ram; keep the focus on God's provision.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- John 1:29
 
 ---
 
@@ -256,13 +184,6 @@ The angel of the Lord called to Abraham from heaven a second time.
 #### Ages 8-10
 The angel of the Lord called to Abraham from heaven a second time.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 22:16
@@ -273,13 +194,6 @@ The angel said, "By myself I have sworn, says the Lord, because you have done th
 
 #### Ages 8-10
 He said, "By myself I have sworn, says the Lord, because you have done this and have not held back your son, your only son,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -292,9 +206,6 @@ I will surely bless you. I will make your offspring many, like the stars shining
 #### Ages 8-10
 I will surely bless you and greatly multiply your offspring like the stars of heaven and like the sand on the seashore. Your offspring will possess the gate of their enemies.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:18
@@ -305,12 +216,6 @@ Through your offspring all the nations of the earth will be blessed, because you
 
 #### Ages 8-10
 Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
 
 ---
 
@@ -323,9 +228,6 @@ Then Abraham went back to his young servants. They got up and traveled together 
 #### Ages 8-10
 Then Abraham returned to his young servants. They rose and went together to Beersheba, and Abraham lived at Beersheba.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:20
@@ -336,9 +238,6 @@ After these things, someone told Abraham, "Milkah has also had children for your
 
 #### Ages 8-10
 After these things, Abraham was told, "Milkah has also borne children to your brother Nahor:
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -351,9 +250,6 @@ Her children include Uz, the firstborn, Buz his brother, and Kemuel, the father 
 #### Ages 8-10
 Uz his firstborn, Buz his brother, Kemuel the father of Aram,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:22
@@ -364,9 +260,6 @@ There were also Kesed, Hazo, Pildash, Jidlaph, and Bethuel.
 
 #### Ages 8-10
 Kesed, Hazo, Pildash, Jidlaph, and Bethuel."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -379,9 +272,6 @@ Bethuel became the father of Rebekah. These eight children were born to Milkah a
 #### Ages 8-10
 Bethuel became the father of Rebekah. These eight children Milkah bore to Nahor, Abraham's brother.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 22:24
@@ -393,39 +283,33 @@ Nahor's concubine was named Reumah. She also had children: Tebah, Gaham, Tahash,
 #### Ages 8-10
 Nahor's concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maakah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 22 is a draft resource chapter. The chapter opens with "After these things, God tested Abraham. He called to him, "Abraham!" Abraham answered, "Here I am.," moves through "Abraham looked up and saw a ram behind him, caught by its horns in a thicket. Abraham went and to...," and closes with "Nahor's concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maakah.." Review this summary for fuller theological detail before approval.
+God tests Abraham, Abraham offers Isaac in obedience, the Lord provides a ram, and the covenant promise is confirmed again.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-After these things happened, God tested Abraham. God called his name, "Abraham!" and Abraham answered, "Here I am." - Genesis 22:1
+Abraham named that place The Lord Will Provide. Even later people said, "On the mountain of the Lord it will be provided." - Genesis 22:14
 
 ### Ages 8-10
-After these things, God tested Abraham. He called to him, "Abraham!" Abraham answered, "Here I am." - Genesis 22:1
+Abraham called that place The Lord Will Provide. As people still say, "On the mountain of the Lord it will be provided." - Genesis 22:14
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 22 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

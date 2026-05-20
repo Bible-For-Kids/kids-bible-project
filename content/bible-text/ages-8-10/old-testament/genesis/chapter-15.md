@@ -33,7 +33,7 @@ The Lord said to him, "I am the Lord, who brought you out of Ur of the Chaldeans
 Abram said, "Lord God, how can I know that I will possess it?"
 
 ### Genesis 15:9
-The Lord said, "Bring me a three-year-old heifer, a three-year-old goat, a three-year-old ram, a dove, and a young pigeon."
+The Lord said, "Bring me a three-year-old young cow, a three-year-old goat, a three-year-old male sheep, a dove, and a young pigeon."
 
 ### Genesis 15:10
 Abram brought all these to him, cut the animals in two, and arranged the halves opposite each other. He did not cut the birds in two.

@@ -1,14 +1,14 @@
 # Genesis Chapter 26
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 26 and should be reviewed before approval.
+Genesis 26 continues the covenant family story. The Lord renews the promise to Isaac, protects Rebekah, blesses Isaac in Gerar, and gives peace after disputes over wells.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- command: Something God tells someone to do
-- covenant: A serious promise relationship God makes
-- Egypt: The land where Israel had been enslaved
+- promise: Words someone says and keeps
+- blessing: Good spoken or given by God
+- well: A deep hole dug to bring up water
+- peace: Wholeness and calm where conflict has been answered
+- oath: A serious promise made before God
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ There was another famine in the land, not the same famine that had happened in A
 #### Ages 8-10
 There was a famine in the land, besides the earlier famine in Abraham's days. Isaac went to Abimelek king of the Philistines in Gerar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:2
@@ -34,14 +31,6 @@ The Lord appeared to Isaac and said, "Do not go down into Egypt. Stay in the lan
 
 #### Ages 8-10
 The Lord appeared to Isaac and said, "Do not go down to Egypt. Live in the land that I will tell you about."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -54,11 +43,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Stay in this land, and I will be with you and bless you. I will give all these countries to you and to your descendants, and I will keep the oath I swore to Abraham your father."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- oath: A serious promise made before God
 
 ---
 
@@ -71,12 +57,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will multiply your descendants like the stars of heaven. I will give all these countries to your descendants, and in your descendants all the nations of the earth will be blessed."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-
 ---
 
 ### Genesis 26:5
@@ -87,12 +67,6 @@ God said he would do this because Abraham had listened to his voice and had kept
 
 #### Ages 8-10
 God said this was because Abraham obeyed his voice and kept his charge, his commandments, his statutes, and his laws.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -105,9 +79,6 @@ So Isaac stayed in Gerar.
 #### Ages 8-10
 So Isaac lived in Gerar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:7
@@ -118,9 +89,6 @@ When the men of that place asked about Rebekah, Isaac said, "She is my sister." 
 
 #### Ages 8-10
 The men of the place asked about his wife, and Isaac said, "She is my sister." He was afraid to say, "She is my wife," because Rebekah was beautiful, and he thought the men might kill him for her.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -133,9 +101,6 @@ After Isaac had lived there a long time, Abimelek king of the Philistines looked
 #### Ages 8-10
 After Isaac had been there a long time, Abimelek king of the Philistines looked out a window and saw Isaac showing affection to Rebekah his wife.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:9
@@ -146,9 +111,6 @@ Abimelek called Isaac and said, "Surely she is your wife. Why did you say, 'She 
 
 #### Ages 8-10
 Abimelek called Isaac and said, "Surely she is your wife. Why did you say, 'She is my sister'?" Isaac answered, "Because I thought I might die because of her."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -161,12 +123,6 @@ Abimelek said, "What have you done to us? One of the people might easily have ta
 #### Ages 8-10
 Abimelek said, "What have you done to us? One of the people might easily have taken your wife, and you would have brought guilt on us."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- guilt: The blame that comes from doing wrong
-
 ---
 
 ### Genesis 26:11
@@ -177,12 +133,6 @@ Then Abimelek gave a command to all the people, saying, "Whoever harms this man 
 
 #### Ages 8-10
 Then Abimelek commanded all his people, "Whoever touches this man or his wife shall surely be put to death."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
 
 ---
 
@@ -195,14 +145,6 @@ Isaac planted seed in that land, and in the same year he gathered a hundred time
 #### Ages 8-10
 Isaac sowed seed in that land and received a hundredfold in the same year, and the Lord blessed him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 26:13
@@ -213,9 +155,6 @@ Isaac became great, and he kept growing stronger and richer until he became very
 
 #### Ages 8-10
 Isaac became great and continued to grow until he became very great.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -228,9 +167,6 @@ He had flocks, herds, and many servants, and the Philistines became jealous of h
 #### Ages 8-10
 He owned flocks, herds, and many servants, and the Philistines envied him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:15
@@ -242,8 +178,8 @@ The Philistines had stopped up all the wells that the servants of Abraham, Isaac
 #### Ages 8-10
 The Philistines had stopped up all the wells that his father's servants had dug in Abraham's days, filling them with earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -256,9 +192,6 @@ Abimelek said to Isaac, "Go away from us, because you have become much mightier 
 #### Ages 8-10
 Abimelek said to Isaac, "Go away from us, for you are much mightier than we are."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:17
@@ -269,9 +202,6 @@ So Isaac left that place. He set up his tent in the valley of Gerar and lived th
 
 #### Ages 8-10
 So Isaac left there, set up his tent in the valley of Gerar, and lived there.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -284,8 +214,8 @@ Isaac dug again the wells of water that had been dug in the days of Abraham his 
 #### Ages 8-10
 Isaac dug again the wells that had been dug in the days of Abraham his father, because the Philistines had stopped them after Abraham died. He gave them the same names his father had given them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -298,8 +228,8 @@ Isaac's servants dug in the valley and found a well of fresh, springing water th
 #### Ages 8-10
 Isaac's servants dug in the valley and found a well of springing water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -312,8 +242,8 @@ But the herdsmen of Gerar argued with Isaac's herdsmen and said, "The water is o
 #### Ages 8-10
 The herdsmen of Gerar argued with Isaac's herdsmen, saying, "The water is ours." Isaac named the well Esek, because they had argued with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -326,8 +256,8 @@ Then Isaac's servants dug another well, and the people argued over that one too.
 #### Ages 8-10
 They dug another well, and the people argued over that one too. Isaac named it Sitnah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -340,12 +270,8 @@ Isaac moved away from there and dug another well. This time no one argued about 
 #### Ages 8-10
 He moved from there and dug another well, and no one argued over it. He named it Rehoboth and said, "Now the Lord has made room for us, and we shall be fruitful in the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -357,9 +283,6 @@ From there Isaac went up to Beersheba.
 
 #### Ages 8-10
 Isaac went up from there to Beersheba.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -373,12 +296,7 @@ That same night the Lord appeared to him and said, "I am the God of Abraham your
 The Lord appeared to him that same night and said, "I am the God of Abraham your father. Do not fear, for I am with you. I will bless you and multiply your descendants for my servant Abraham's sake."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -391,13 +309,8 @@ Isaac built an altar there and called on the name of the Lord. He set up his ten
 #### Ages 8-10
 Isaac built an altar there, called on the name of the Lord, and set up his tent there. There his servants dug a well.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -410,9 +323,6 @@ Then Abimelek came to Isaac from Gerar with Ahuzzath, one of his friends, and Ph
 #### Ages 8-10
 Then Abimelek came to Isaac from Gerar with Ahuzzath, one of his friends, and Phicol, the chief captain of his army.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:27
@@ -423,9 +333,6 @@ Isaac said to them, "Why have you come to me, since you hated me and sent me awa
 
 #### Ages 8-10
 Isaac said to them, "Why have you come to me, since you hated me and sent me away from you?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -438,13 +345,8 @@ They answered, "We have clearly seen that the Lord is with you. So we said, 'Let
 #### Ages 8-10
 They said, "We have clearly seen that the Lord is with you. So we said, 'Let there be an oath between us and you, and let us make a covenant with you.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- oath: A serious promise made before God
 
 ---
 
@@ -457,14 +359,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Promise that you will do us no harm, just as we have not touched you and have done only good to you. We sent you away in peace, and now you are blessed by the Lord."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
 - promise: Words someone says and keeps
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- peace: Wholeness and calm where conflict has been answered
 
 ---
 
@@ -477,9 +374,6 @@ So Isaac made them a feast, and they ate and drank together.
 #### Ages 8-10
 Isaac made them a feast, and they ate and drank.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:31
@@ -491,11 +385,10 @@ Early in the morning, they rose and made a promise to each other. Then Isaac sen
 #### Ages 8-10
 They rose early in the morning and swore an oath to one another. Isaac sent them away, and they departed from him in peace.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
+- peace: Wholeness and calm where conflict has been answered
+- oath: A serious promise made before God
 
 ---
 
@@ -508,8 +401,8 @@ That same day Isaac's servants came and told him about the well they had dug. Th
 #### Ages 8-10
 That same day Isaac's servants came and told him about the well they had dug. They said, "We have found water."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -522,8 +415,8 @@ Isaac named the well Shebah. That is why the city is called Beersheba to this da
 #### Ages 8-10
 Isaac named it Shebah. Therefore the city is called Beersheba to this day.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -536,9 +429,6 @@ When Esau was 40 years old, he took Judith, the daughter of Beeri the Hittite, a
 #### Ages 8-10
 When Esau was 40 years old, he took Judith the daughter of Beeri the Hittite and Bashemath the daughter of Elon the Hittite as wives.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 26:35
@@ -550,39 +440,33 @@ These wives brought grief of mind to Isaac and Rebekah.
 #### Ages 8-10
 They were a grief of mind to Isaac and Rebekah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 26 is a draft resource chapter. The chapter opens with "There was a famine in the land, besides the earlier famine in Abraham's days. Isaac went to Abime...," moves through "Isaac dug again the wells that had been dug in the days of Abraham his father, because the Philis...," and closes with "They were a grief of mind to Isaac and Rebekah.." Review this summary for fuller theological detail before approval.
+The Lord renews the promise to Isaac, protects Rebekah, blesses Isaac in Gerar, and gives peace after disputes over wells.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord appeared to Isaac and said, "Do not go down into Egypt. Stay in the land I will show you." - Genesis 26:2
+That same night the Lord appeared to him and said, "I am the God of Abraham your father. Do not be afraid, for I am with you. I will bless you and multiply your children after you for the sake of my servant Abraham." - Genesis 26:24
 
 ### Ages 8-10
-There was a famine in the land, besides the earlier famine in Abraham's days. Isaac went to Abimelek king of the Philistines in Gerar. - Genesis 26:1
+The Lord appeared to him that same night and said, "I am the God of Abraham your father. Do not fear, for I am with you. I will bless you and multiply your descendants for my servant Abraham's sake." - Genesis 26:24
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 26 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

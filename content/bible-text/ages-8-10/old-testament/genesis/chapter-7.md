@@ -66,7 +66,7 @@ The waters rose and increased greatly over the earth, and the ark floated safely
 The waters rose greatly on the earth, and all the high mountains under the whole sky were covered.
 
 ### Genesis 7:20
-The waters rose more than fifteen cubits above the mountains and covered them.
+The waters rose more than 20 feet above the mountains and covered them.
 
 ### Genesis 7:21
 Every living thing that moved on land perished: birds, livestock, wild animals, all creatures that swarm over the earth, and all people.

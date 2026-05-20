@@ -1,11 +1,13 @@
 # Genesis Chapter 23
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 23 and should be reviewed before approval.
+Genesis 23 continues the covenant family story. Sarah dies, and Abraham buys the cave of Machpelah as a burial place in Canaan, showing his faith in God's promised land.
 
 ## Important Keywords
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- death: The end of earthly life
+- burial: Placing someone who has died in a grave or tomb
+- land: The place God promised to give Abraham's family
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -18,9 +20,6 @@ Sarah lived 127 years. Those were the years of Sarah's life.
 #### Ages 8-10
 Sarah lived 127 years; these were the years of Sarah's life.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:2
@@ -32,8 +31,8 @@ Sarah died at Kiriath Arba, which is Hebron, in the land of Canaan. Abraham came
 #### Ages 8-10
 Sarah died at Kiriath Arba, that is, Hebron, in the land of Canaan. Abraham came to mourn for Sarah and to weep for her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -46,9 +45,6 @@ Then Abraham stood up from beside his dead wife and spoke to the sons of Heth.
 #### Ages 8-10
 Then Abraham rose up from beside his dead wife and spoke to the sons of Heth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:4
@@ -60,8 +56,8 @@ He said, "I am a stranger and a traveler living among you. Please give me a buri
 #### Ages 8-10
 He said, "I am a stranger and a foreigner among you. Give me a burial place among you, so I may bury my dead out of my sight."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -74,9 +70,6 @@ The sons of Heth answered Abraham.
 #### Ages 8-10
 The sons of Heth answered Abraham.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:6
@@ -87,13 +80,6 @@ They said, "Listen to us, my lord. You are a mighty prince among us. Bury your d
 
 #### Ages 8-10
 They said to him, "Hear us, my lord. You are a mighty prince among us. Bury your dead in the best of our tombs. None of us will refuse you his tomb for burying your dead."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -106,8 +92,8 @@ Abraham stood and bowed low before the people of the land, the sons of Heth.
 #### Ages 8-10
 Abraham stood up and bowed before the people of the land, the sons of Heth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -120,9 +106,6 @@ He spoke with them and said, "If you are willing for me to bury my dead out of m
 #### Ages 8-10
 He spoke with them and said, "If you are willing for me to bury my dead out of my sight, listen to me and ask Ephron son of Zohar for me.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:9
@@ -134,8 +117,8 @@ Ask him to give me the cave of Machpelah, the cave he owns at the end of his fie
 #### Ages 8-10
 Ask him to give me the cave of Machpelah, which belongs to him and is at the end of his field. Let him sell it to me among you for its full price as a burial place."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
@@ -148,9 +131,6 @@ Ephron was sitting there among the sons of Heth. Ephron the Hittite answered Abr
 #### Ages 8-10
 Ephron was sitting among the sons of Heth. Ephron the Hittite answered Abraham in the hearing of all the sons of Heth, before everyone who came to the gate of his city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:11
@@ -161,12 +141,6 @@ He said, "No, my lord, listen to me. I give you the field, and I give you the ca
 
 #### Ages 8-10
 He said, "No, my lord, listen to me. I give you the field, and I give you the cave that is in it. In the presence of my people I give it to you. Bury your dead."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -179,8 +153,8 @@ Abraham bowed down before the people of the land.
 #### Ages 8-10
 Abraham bowed down before the people of the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -193,8 +167,8 @@ Then Abraham spoke to Ephron where the people could hear. He said, "Please liste
 #### Ages 8-10
 He spoke to Ephron in the hearing of the people of the land and said, "Please listen to me. I will pay the price of the field. Accept it from me, and I will bury my dead there."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -207,9 +181,6 @@ Ephron answered Abraham.
 #### Ages 8-10
 Ephron answered Abraham.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:15
@@ -221,11 +192,8 @@ He said, "My lord, listen to me. The land is worth 400 shekels of silver. What i
 #### Ages 8-10
 He said, "My lord, listen to me. The land is worth 400 shekels of silver. What is that between you and me? Bury your dead."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -238,9 +206,6 @@ Abraham listened to Ephron. Abraham weighed out the silver Ephron had named wher
 #### Ages 8-10
 Abraham listened to Ephron, and Abraham weighed out for him the silver he had named in the hearing of the sons of Heth: 400 shekels of silver, according to the merchants' standard.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:17
@@ -252,9 +217,6 @@ So Ephron's field in Machpelah, near Mamre, became sure as Abraham's. The field,
 #### Ages 8-10
 So Ephron's field in Machpelah, near Mamre, the field, the cave in it, and all the trees within its borders, were made sure
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 23:18
@@ -265,9 +227,6 @@ It became Abraham's possession in front of the sons of Heth and everyone who cam
 
 #### Ages 8-10
 as Abraham's possession in the presence of the sons of Heth, before all who came to the gate of his city.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -281,7 +240,10 @@ After this, Abraham buried Sarah his wife in the cave of the field of Machpelah 
 After this, Abraham buried Sarah his wife in the cave of the field of Machpelah near Mamre, that is, Hebron, in the land of Canaan.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+
+**Key Vocabulary**:
+- land: The place God promised to give Abraham's family
 
 ---
 
@@ -294,39 +256,36 @@ The field and the cave in it were made sure to Abraham as a burial place by the 
 #### Ages 8-10
 The field and the cave in it were made sure to Abraham as a burial place by the sons of Heth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- burial: Placing someone who has died in a grave or tomb
 
 ---
 
 ## Chapter Summary
-Genesis 23 is a draft resource chapter. The chapter opens with "Sarah lived 127 years; these were the years of Sarah's life.," moves through "He said, "No, my lord, listen to me. I give you the field, and I give you the cave that is in it....," and closes with "The field and the cave in it were made sure to Abraham as a burial place by the sons of Heth.." Review this summary for fuller theological detail before approval.
+Sarah dies, and Abraham buys the cave of Machpelah as a burial place in Canaan, showing his faith in God's promised land.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Sarah lived 127 years. Those were the years of Sarah's life. - Genesis 23:1
+After this, Abraham buried Sarah his wife in the cave of the field of Machpelah near Mamre, which is Hebron, in the land of Canaan. - Genesis 23:19
 
 ### Ages 8-10
-Sarah lived 127 years; these were the years of Sarah's life. - Genesis 23:1
+After this, Abraham buried Sarah his wife in the cave of the field of Machpelah near Mamre, that is, Hebron, in the land of Canaan. - Genesis 23:19
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 23 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 23 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

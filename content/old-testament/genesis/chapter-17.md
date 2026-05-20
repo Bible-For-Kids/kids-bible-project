@@ -1,14 +1,14 @@
 # Genesis Chapter 17
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 17 and should be reviewed before approval.
+Genesis 17 continues the covenant family story. God gives Abram the covenant sign of circumcision, changes Abram and Sarai's names, and promises that Sarah will bear Isaac.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- promise: Words someone says and keeps
+- offspring: Children and later family who come after someone
+- sign: Something given to point to a promise or truth
+- Isaac: Abraham and Sarah's promised son
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,6 @@ When Abram was 99 years old, the Lord appeared to him and said, "I am God Almigh
 #### Ages 8-10
 When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before me faithfully and be blameless.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 17:2
@@ -39,9 +31,6 @@ I will make my covenant between me and you, and I will make your family grow ver
 
 #### Ages 8-10
 I will make my covenant between me and you, and I will greatly increase your numbers."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -57,12 +46,6 @@ Abram fell facedown, and God spoke with him.
 #### Ages 8-10
 Abram fell facedown, and God spoke with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 17:4
@@ -74,12 +57,8 @@ God said, "As for me, this is my covenant with you: you will be the father of ma
 #### Ages 8-10
 God said, "As for me, this is my covenant with you: you will be the father of many nations.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -93,7 +72,7 @@ Your name will no longer be Abram. Your name will be Abraham, because I have mad
 No longer will you be called Abram. Your name will be Abraham, because I have made you the father of many nations.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The name change marks God's promise, not Abram changing himself.
 
 ---
 
@@ -105,9 +84,6 @@ I will make you very fruitful. I will make nations come from you, and kings will
 
 #### Ages 8-10
 I will make you very fruitful. I will make nations of you, and kings will come from you.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -121,11 +97,14 @@ I will keep my covenant between me and you and your offspring after you, for all
 I will establish my covenant as an everlasting covenant between me and you and your offspring after you for the generations to come. I will be your God and the God of your offspring after you.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- offspring: Children and later family who come after someone
+
+**Cross-References**:
+- Luke 1:72-73
 
 ---
 
@@ -138,11 +117,8 @@ I will give you and your offspring the land where you now live as a foreigner, a
 #### Ages 8-10
 I will give you and your offspring the land where you now live as a foreigner, all the land of Canaan, as an everlasting possession. I will be their God."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- offspring: Children and later family who come after someone
 
 ---
 
@@ -155,12 +131,9 @@ Then God said to Abraham, "As for you, you must keep my covenant, you and your o
 #### Ages 8-10
 Then God said to Abraham, "As for you, you must keep my covenant, you and your offspring after you for the generations to come.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- offspring: Children and later family who come after someone
 
 ---
 
@@ -173,11 +146,10 @@ This is my covenant sign that you must keep: every male among you must be circum
 #### Ages 8-10
 This is my covenant with you and your offspring after you, the covenant you must keep: every male among you shall be circumcised.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- offspring: Children and later family who come after someone
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -190,11 +162,9 @@ You must be circumcised in your flesh. This will be the sign of the covenant bet
 #### Ages 8-10
 You are to be circumcised in your flesh, and it will be the sign of the covenant between me and you.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- sign: Something given to point to a promise or truth
 
 ---
 
@@ -207,8 +177,8 @@ For all generations, every boy among you must be circumcised when he is eight da
 #### Ages 8-10
 For the generations to come, every male among you who is eight days old must be circumcised, including those born in your household or bought from a foreigner.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- offspring: Children and later family who come after someone
 
 ---
 
@@ -220,9 +190,6 @@ Whether born in your house or bought with your money, each one must be circumcis
 
 #### Ages 8-10
 Whether born in your household or bought with your money, they must be circumcised. My covenant in your flesh is to be an everlasting covenant.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -238,9 +205,6 @@ Any uncircumcised male who is not circumcised has broken my covenant and must be
 #### Ages 8-10
 Any uncircumcised male who has not been circumcised has broken my covenant and must be cut off from his people."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
 
@@ -255,12 +219,6 @@ God also said to Abraham, "As for Sarai your wife, do not call her Sarai anymore
 #### Ages 8-10
 God also said to Abraham, "As for Sarai your wife, you shall no longer call her Sarai. Her name will be Sarah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 17:16
@@ -271,9 +229,6 @@ I will bless her and give you a son by her. I will bless her, and nations and ki
 
 #### Ages 8-10
 I will bless her and will surely give you a son by her. I will bless her so that she will be the mother of nations, and kings of peoples will come from her."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -286,9 +241,6 @@ Abraham fell facedown and laughed. He said in his heart, "Can a son be born to a
 #### Ages 8-10
 Abraham fell facedown and laughed. He said in his heart, "Can a son be born to a man who is 100 years old? Can Sarah bear a child when she is 90?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 17:18
@@ -299,13 +251,6 @@ Abraham said to God, "If only Ishmael might live under your blessing!"
 
 #### Ages 8-10
 Abraham said to God, "If only Ishmael might live under your blessing!"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessing: Good that comes from God
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -318,12 +263,10 @@ Then God said, "Yes, but your wife Sarah will have a son, and you will name him 
 #### Ages 8-10
 Then God said, "Yes, but your wife Sarah will bear you a son, and you will name him Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
-- God: The one true Creator and Lord over all
+- offspring: Children and later family who come after someone
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -336,12 +279,6 @@ As for Ishmael, I have heard you. I will bless him, make him fruitful, and make 
 #### Ages 8-10
 As for Ishmael, I have heard you. I will bless him, make him fruitful, and greatly increase his numbers. He will be the father of twelve rulers, and I will make him into a great nation.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-
 ---
 
 ### Genesis 17:21
@@ -353,11 +290,9 @@ But I will make my covenant with Isaac, the son Sarah will have for you at this 
 #### Ages 8-10
 But I will establish my covenant with Isaac, whom Sarah will bear to you by this time next year."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -370,12 +305,6 @@ When God finished speaking with Abraham, God went up from him.
 #### Ages 8-10
 When God finished speaking with Abraham, he went up from him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 17:23
@@ -386,12 +315,6 @@ On that same day, Abraham took his son Ishmael and all the males in his househol
 
 #### Ages 8-10
 On that very day, Abraham took his son Ishmael and all the males in his household, those born in his house or bought with his money, and circumcised them as God had told him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -404,9 +327,6 @@ Abraham was 99 years old when he was circumcised.
 #### Ages 8-10
 Abraham was 99 years old when he was circumcised.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 17:25
@@ -417,9 +337,6 @@ His son Ishmael was 13 years old when he was circumcised.
 
 #### Ages 8-10
 His son Ishmael was 13 years old when he was circumcised.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -432,9 +349,6 @@ Abraham and his son Ishmael were circumcised on that same day.
 #### Ages 8-10
 Abraham and his son Ishmael were circumcised on that same day.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 17:27
@@ -446,39 +360,33 @@ All the males in Abraham's household were circumcised with him, whether born in 
 #### Ages 8-10
 All the males in Abraham's household were circumcised with him, whether born in his household or bought from a foreigner.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 17 is a draft resource chapter. The chapter opens with "When Abram was 99 years old, the Lord appeared to him and said, "I am God Almighty. Walk before m...," moves through "Any uncircumcised male who has not been circumcised has broken my covenant and must be cut off fr...," and closes with "All the males in Abraham's household were circumcised with him, whether born in his household or...." Review this summary for fuller theological detail before approval.
+God gives Abram the covenant sign of circumcision, changes Abram and Sarai's names, and promises that Sarah will bear Isaac.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abram fell facedown, and God spoke with him. - Genesis 17:3
+I will keep my covenant between me and you and your offspring after you, for all generations. It will be an everlasting covenant. I will be your God and the God of your offspring after you. - Genesis 17:7
 
 ### Ages 8-10
-Abram fell facedown, and God spoke with him. - Genesis 17:3
+I will establish my covenant as an everlasting covenant between me and you and your offspring after you for the generations to come. I will be your God and the God of your offspring after you. - Genesis 17:7
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 17 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

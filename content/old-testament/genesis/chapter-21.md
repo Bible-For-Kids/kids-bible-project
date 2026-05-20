@@ -1,14 +1,14 @@
 # Genesis Chapter 21
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 21 and should be reviewed before approval.
+Genesis 21 continues the covenant family story. Isaac is born as God promised, Hagar and Ishmael are preserved in the wilderness, and Abraham makes peace at Beersheba.
 
 ## Important Keywords
-- covenant: A serious promise relationship God makes
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- wilderness: A wild, dry place away from towns and farms
+- promise: Words someone says and keeps
+- Isaac: Abraham and Sarah's promised son
+- wilderness: A wild place away from settled towns
+- well: A deep hole dug to bring up water
+- oath: A serious promise made before God
 
 ## Verse-by-Verse Translation
 
@@ -22,11 +22,10 @@ The Lord cared for Sarah just as he had said. The Lord did for Sarah what he had
 The Lord cared for Sarah as he had said, and the Lord did for Sarah what he had promised.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
 
 ---
 
@@ -39,11 +38,8 @@ Sarah became pregnant and gave Abraham a son in his old age, at the very time Go
 #### Ages 8-10
 Sarah became pregnant and bore Abraham a son in his old age, at the very time God had promised him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- promise: Words someone says and keeps
 
 ---
 
@@ -56,8 +52,8 @@ Abraham named the son Sarah bore to him Isaac.
 #### Ages 8-10
 Abraham gave the name Isaac to the son Sarah bore him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -70,11 +66,8 @@ When Isaac was eight days old, Abraham circumcised him, just as God had commande
 #### Ages 8-10
 When his son Isaac was eight days old, Abraham circumcised him, as God had commanded.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -87,8 +80,8 @@ Abraham was 100 years old when his son Isaac was born.
 #### Ages 8-10
 Abraham was 100 years old when his son Isaac was born to him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -101,12 +94,6 @@ Sarah said, "God has brought me laughter. Everyone who hears about this will lau
 #### Ages 8-10
 Sarah said, "God has brought me laughter, and everyone who hears about this will laugh with me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 21:7
@@ -117,9 +104,6 @@ She also said, "Who would have told Abraham that Sarah would nurse children? Yet
 
 #### Ages 8-10
 She also said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -132,8 +116,8 @@ Isaac grew, and the day came for him to stop nursing. Abraham held a great feast
 #### Ages 8-10
 The child grew and was weaned, and on the day Isaac was weaned, Abraham held a great feast.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -146,9 +130,6 @@ Sarah saw the son Hagar the Egyptian had borne to Abraham laughing.
 #### Ages 8-10
 Sarah saw that the son Hagar the Egyptian had borne to Abraham was mocking.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:10
@@ -160,8 +141,8 @@ So Sarah said to Abraham, "Send away this servant woman and her son. That woman'
 #### Ages 8-10
 So she said to Abraham, "Get rid of that slave woman and her son, because that woman's son will never share in the inheritance with my son Isaac."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -174,9 +155,6 @@ This troubled Abraham very much because Ishmael was his son.
 #### Ages 8-10
 This matter distressed Abraham greatly because it concerned his son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:12
@@ -188,11 +166,8 @@ But God said to Abraham, "Do not be troubled about the boy and your servant woma
 #### Ages 8-10
 But God said to Abraham, "Do not be distressed about the boy and your slave woman. Listen to whatever Sarah tells you, because your offspring will be counted through Isaac.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- Isaac: Abraham and Sarah's promised son
 
 ---
 
@@ -205,9 +180,6 @@ I will also make the servant woman's son into a nation, because he is your offsp
 #### Ages 8-10
 I will also make the son of the slave woman into a nation, because he is your offspring."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:14
@@ -219,11 +191,8 @@ Early the next morning, Abraham gave Hagar bread and a skin of water. He placed 
 #### Ages 8-10
 Early the next morning, Abraham took bread and a skin of water and gave them to Hagar. He placed them on her shoulder and sent her away with the boy. She wandered in the wilderness of Beersheba.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -236,9 +205,6 @@ When the water in the skin was gone, Hagar put the boy under one of the bushes.
 #### Ages 8-10
 When the water in the skin was gone, she put the boy under one of the bushes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:16
@@ -249,9 +215,6 @@ Then she went and sat down a little way off, about a bowshot away. She said, "I 
 
 #### Ages 8-10
 Then she went and sat down about a bowshot away, because she thought, "I cannot watch the boy die." As she sat there, she began to sob.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -264,12 +227,6 @@ God heard the boy crying. The angel of God called to Hagar from heaven and said,
 #### Ages 8-10
 God heard the boy crying, and the angel of God called to Hagar from heaven. He said, "What is wrong, Hagar? Do not be afraid. God has heard the boy where he is.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 21:18
@@ -280,9 +237,6 @@ Get up, lift the boy, and take him by the hand. I will make him into a great nat
 
 #### Ages 8-10
 Get up, lift the boy up, and take him by the hand, because I will make him into a great nation."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -295,11 +249,8 @@ Then God opened Hagar's eyes, and she saw a well of water. She went, filled the 
 #### Ages 8-10
 Then God opened Hagar's eyes, and she saw a well of water. She went, filled the skin with water, and gave the boy a drink.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -312,12 +263,8 @@ God was with the boy as he grew up. He lived in the wilderness and became an arc
 #### Ages 8-10
 God was with the boy as he grew up. He lived in the wilderness and became an archer.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -330,12 +277,8 @@ Ishmael lived in the wilderness of Paran, and his mother got a wife for him from
 #### Ages 8-10
 While he lived in the wilderness of Paran, his mother got a wife for him from Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- wilderness: A wild, dry place away from towns and farms
+- wilderness: A wild place away from settled towns
 
 ---
 
@@ -348,12 +291,6 @@ At that time, Abimelek and Phicol, the commander of his army, said to Abraham, "
 #### Ages 8-10
 At that time, Abimelek and Phicol, the commander of his army, said to Abraham, "God is with you in everything you do.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 21:23
@@ -364,12 +301,6 @@ Now swear to me here before God that you will not deal falsely with me, my child
 
 #### Ages 8-10
 Now swear to me here before God that you will not deal falsely with me, my children, or my descendants. Show me and the land where you live the same kindness I have shown you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -382,9 +313,6 @@ Abraham said, "I swear it."
 #### Ages 8-10
 Abraham said, "I swear it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:25
@@ -396,8 +324,8 @@ Then Abraham complained to Abimelek about a well of water that Abimelek's servan
 #### Ages 8-10
 Then Abraham complained to Abimelek about a well of water that Abimelek's servants had seized.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -410,9 +338,6 @@ Abimelek said, "I do not know who did this. You did not tell me, and I only hear
 #### Ages 8-10
 Abimelek said, "I do not know who has done this. You did not tell me, and I only heard about it today."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:27
@@ -423,12 +348,6 @@ So Abraham brought sheep and cattle and gave them to Abimelek, and the two men m
 
 #### Ages 8-10
 So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a covenant.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- covenant: A serious promise relationship God makes
 
 ---
 
@@ -441,9 +360,6 @@ Abraham set seven female lambs from the flock by themselves.
 #### Ages 8-10
 Abraham set apart seven female lambs from the flock.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 21:29
@@ -454,9 +370,6 @@ Abimelek asked Abraham, "Why have you set these seven lambs apart?"
 
 #### Ages 8-10
 Abimelek asked Abraham, "What is the meaning of these seven lambs you have set apart?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -469,8 +382,8 @@ Abraham answered, "Accept these seven lambs from my hand as a witness that I dug
 #### Ages 8-10
 Abraham answered, "Accept these seven lambs from my hand as a witness that I dug this well."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- well: A deep hole dug to bring up water
 
 ---
 
@@ -483,8 +396,8 @@ That is why the place was called Beersheba, because the two men swore an oath th
 #### Ages 8-10
 That is why the place was called Beersheba, because the two men swore an oath there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- oath: A serious promise made before God
 
 ---
 
@@ -497,12 +410,6 @@ After they made the covenant at Beersheba, Abimelek and Phicol returned to the l
 #### Ages 8-10
 After they made the covenant at Beersheba, Abimelek and Phicol returned to the land of the Philistines.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- covenant: A serious promise relationship God makes
-
 ---
 
 ### Genesis 21:33
@@ -513,14 +420,6 @@ Abraham planted a tamarisk tree in Beersheba. There he called on the name of the
 
 #### Ages 8-10
 Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Everlasting God.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -533,17 +432,15 @@ Abraham stayed in the land of the Philistines for a long time.
 #### Ages 8-10
 Abraham stayed in the land of the Philistines for a long time.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 21 is a draft resource chapter. The chapter opens with "The Lord cared for Sarah as he had said, and the Lord did for Sarah what he had promised.," moves through "Get up, lift the boy up, and take him by the hand, because I will make him into a great nation.," and closes with "Abraham stayed in the land of the Philistines for a long time.." Review this summary for fuller theological detail before approval.
+Isaac is born as God promised, Hagar and Ishmael are preserved in the wilderness, and Abraham makes peace at Beersheba.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
@@ -556,16 +453,12 @@ The Lord cared for Sarah as he had said, and the Lord did for Sarah what he had 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 21 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

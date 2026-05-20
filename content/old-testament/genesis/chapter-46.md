@@ -1,14 +1,14 @@
 # Genesis Chapter 46
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 46 and should be reviewed before approval.
+Genesis 46 continues the covenant family story. God tells Jacob not to fear going to Egypt, Jacob's family travels there, and Joseph meets his father with tears.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
+- promise: Words someone says and keeps
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- family: People joined by parents, children, marriage, or covenant promise
+- fear: Deep concern, dread, or awe
+- reunion: Coming together again after being apart
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ Israel set out with everything he had. He came to Beersheba and offered sacrific
 #### Ages 8-10
 Israel journeyed with all that he had. He came to Beersheba and offered sacrifices to the God of his father Isaac.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 46:2
@@ -38,14 +31,6 @@ God spoke to Israel in visions during the night and said, "Jacob, Jacob." Jacob 
 
 #### Ages 8-10
 God spoke to Israel in visions of the night and said, "Jacob, Jacob." He answered, "Here I am."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
 
 ---
 
@@ -59,11 +44,11 @@ God said, "I am God, the God of your father. Do not be afraid to go down to Egyp
 God said, "I am God, the God of your father. Do not fear going down to Egypt, for I will make you into a great nation there.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- fear: Deep concern, dread, or awe
 
 ---
 
@@ -76,11 +61,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I will go down with you into Egypt, and I will surely bring you up again. Joseph's hand will close your eyes."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -93,14 +75,6 @@ Then Jacob left Beersheba. Israel's sons carried their father Jacob, their littl
 #### Ages 8-10
 Then Jacob arose from Beersheba. The sons of Israel carried Jacob their father, their little ones, and their wives in the wagons Pharaoh had sent to carry him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 46:6
@@ -112,12 +86,9 @@ They took their animals and the goods they had gained in the land of Canaan. Jac
 #### Ages 8-10
 They took their livestock and the goods they had gained in the land of Canaan. Jacob and all his offspring came into Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- family: People joined by parents, children, marriage, or covenant promise
 
 ---
 
@@ -130,12 +101,9 @@ Jacob brought his sons and grandsons, his daughters and granddaughters, and all 
 #### Ages 8-10
 He brought his sons and grandsons, his daughters and granddaughters, and all his offspring with him into Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- family: People joined by parents, children, marriage, or covenant promise
 
 ---
 
@@ -148,13 +116,8 @@ These are the names of the children of Israel who came into Egypt: Jacob and his
 #### Ages 8-10
 These are the names of the children of Israel who came into Egypt: Jacob and his sons. Reuben was Jacob's firstborn.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -167,9 +130,6 @@ The sons of Reuben were Hanoch, Phallu, Hezron, and Carmi.
 #### Ages 8-10
 The sons of Reuben were Hanoch, Phallu, Hezron, and Carmi.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:10
@@ -180,9 +140,6 @@ The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son o
 
 #### Ages 8-10
 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -195,9 +152,6 @@ The sons of Levi were Gershon, Kohath, and Merari.
 #### Ages 8-10
 The sons of Levi were Gershon, Kohath, and Merari.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:12
@@ -208,9 +162,6 @@ The sons of Judah were Er, Onan, Shelah, Pharez, and Zarah. Er and Onan died in 
 
 #### Ages 8-10
 The sons of Judah were Er, Onan, Shelah, Pharez, and Zarah. Er and Onan died in the land of Canaan. The sons of Pharez were Hezron and Hamul.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -223,9 +174,6 @@ The sons of Issachar were Tola, Phuvah, Job, and Shimron.
 #### Ages 8-10
 The sons of Issachar were Tola, Phuvah, Job, and Shimron.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:14
@@ -237,25 +185,16 @@ The sons of Zebulun were Sered, Elon, and Jahleel.
 #### Ages 8-10
 The sons of Zebulun were Sered, Elon, and Jahleel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:15
 **Original Reference**: Genesis 46:15 - These are the sons of Leah, whom she bore to Jacob in Paddan Aram, with his daughter Dinah. All the souls of his sons and his daughters were thirty-three.
 
 #### Ages 5-7
-These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three persons.
+These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. All his sons and daughters from Leah's line were thirty-three people.
 
 #### Ages 8-10
-These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. His sons and daughters from Leah's line numbered thirty-three persons.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
+These were the sons Leah bore to Jacob in Padan-aram, along with his daughter Dinah. His sons and daughters from Leah's line numbered thirty-three people.
 
 ---
 
@@ -268,9 +207,6 @@ The sons of Gad were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
 #### Ages 8-10
 The sons of Gad were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:17
@@ -282,25 +218,16 @@ The sons of Asher were Jimnah, Ishuah, Isui, Beriah, and their sister Serah. The
 #### Ages 8-10
 The sons of Asher were Jimnah, Ishuah, Isui, Beriah, and their sister Serah. The sons of Beriah were Heber and Malchiel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:18
 **Original Reference**: Genesis 46:18 - These are the sons of Zilpah, whom Laban gave to Leah, his daughter, and these she bore to Jacob, even sixteen souls.
 
 #### Ages 5-7
-These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen persons to Jacob.
+These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen people to Jacob.
 
 #### Ages 8-10
-These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen persons to Jacob.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
+These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen people to Jacob.
 
 ---
 
@@ -313,12 +240,6 @@ The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
 #### Ages 8-10
 The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 46:20
@@ -330,12 +251,8 @@ In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, 
 #### Ages 8-10
 To Joseph in Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera priest of On, bore to him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- priest: A worship leader who served at the holy place
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -348,25 +265,16 @@ The sons of Benjamin were Belah, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim
 #### Ages 8-10
 The sons of Benjamin were Belah, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:22
 **Original Reference**: Genesis 46:22 - These are the sons of Rachel, who were born to Jacob: all the souls were fourteen.
 
 #### Ages 5-7
-These were the children of Rachel who were born to Jacob, fourteen persons in all.
+These were the children of Rachel who were born to Jacob, fourteen people in all.
 
 #### Ages 8-10
-These were the children of Rachel who were born to Jacob, fourteen persons in all.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
+These were the children of Rachel who were born to Jacob, fourteen people in all.
 
 ---
 
@@ -379,9 +287,6 @@ The son of Dan was Hushim.
 #### Ages 8-10
 The son of Dan was Hushim.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:24
@@ -393,25 +298,16 @@ The sons of Naphtali were Jahzeel, Guni, Jezer, and Shillem.
 #### Ages 8-10
 The sons of Naphtali were Jahzeel, Guni, Jezer, and Shillem.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:25
 **Original Reference**: Genesis 46:25 - These are the sons of Bilhah, whom Laban gave to Rachel, his daughter, and these she bore to Jacob: all the souls were seven.
 
 #### Ages 5-7
-These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven persons to Jacob.
+These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven people to Jacob.
 
 #### Ages 8-10
-These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven persons to Jacob.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
+These were the children of Bilhah, whom Laban gave to his daughter Rachel. She bore these seven people to Jacob.
 
 ---
 
@@ -419,17 +315,14 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 46:26 - All the souls who came with Jacob into Egypt, who were his direct offspring, in addition to Jacob's sons' wives, all the souls were sixty-six.
 
 #### Ages 5-7
-All the persons who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six persons.
+All the people who came with Jacob into Egypt, who came from his own family, not counting the wives of Jacob's sons, were sixty-six people.
 
 #### Ages 8-10
-All the persons who came with Jacob into Egypt, who came from his own body, not counting the wives of Jacob's sons, were sixty-six persons.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+All the people who came with Jacob into Egypt, who came from his own body, not counting the wives of Jacob's sons, were sixty-six people.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
+- family: People joined by parents, children, marriage, or covenant promise
 
 ---
 
@@ -437,17 +330,13 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 **Original Reference**: Genesis 46:27 - The sons of Joseph, who were born to him in Egypt, were two souls. All the souls of the house of Jacob, who came into Egypt, were seventy.
 
 #### Ages 5-7
-Joseph had two sons who were born to him in Egypt. All the persons of Jacob's house who came into Egypt were seventy.
+Joseph had two sons who were born to him in Egypt. All the people of Jacob's house who came into Egypt were seventy.
 
 #### Ages 8-10
-Joseph's two sons were born to him in Egypt. All the persons of Jacob's house who came into Egypt were seventy.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph's two sons were born to him in Egypt. All the people of Jacob's house who came into Egypt were seventy.
 
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
@@ -460,12 +349,6 @@ Jacob sent Judah ahead to Joseph, so Joseph could show the way to Goshen. Then t
 #### Ages 8-10
 Jacob sent Judah ahead to Joseph to show the way before him to Goshen. Then they came into the land of Goshen.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 46:29
@@ -476,12 +359,6 @@ Joseph made ready his chariot and went up to Goshen to meet Israel his father. W
 
 #### Ages 8-10
 Joseph prepared his chariot and went up to Goshen to meet Israel his father. When he appeared before him, he fell on his father's neck and wept there a long time.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -494,12 +371,6 @@ Israel said to Joseph, "Now let me die, since I have seen your face and know you
 #### Ages 8-10
 Israel said to Joseph, "Now let me die, since I have seen your face and know that you are still alive."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 46:31
@@ -510,12 +381,6 @@ Joseph said to his brothers and to his father's household, "I will go up and tel
 
 #### Ages 8-10
 Joseph said to his brothers and to his father's household, "I will go up and tell Pharaoh, 'My brothers and my father's household have come to me from the land of Canaan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -528,9 +393,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'The men are shepherds, for they care for livestock. They have brought their flocks, their herds, and all they have.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 46:33
@@ -541,12 +403,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "When Pharaoh calls you and asks, 'What is your occupation?'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -559,39 +415,36 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because every shepherd is detestable to the Egyptians."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Egypt: The land where Joseph was taken and where Jacob's family later lived
 
 ---
 
 ## Chapter Summary
-Genesis 46 is a draft resource chapter. The chapter opens with "Israel journeyed with all that he had. He came to Beersheba and offered sacrifices to the God of...," moves through "These were the children of Zilpah, whom Laban gave to his daughter Leah. She bore these sixteen p...," and closes with "you shall say, 'Your servants have cared for livestock from our youth until now, both we and our...." Review this summary for fuller theological detail before approval.
+God tells Jacob not to fear going to Egypt, Jacob's family travels there, and Joseph meets his father with tears.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Israel set out with everything he had. He came to Beersheba and offered sacrifices to the God of his father Isaac. - Genesis 46:1
+God said, "I am God, the God of your father. Do not be afraid to go down to Egypt, because I will make you into a great nation there. - Genesis 46:3
 
 ### Ages 8-10
-Israel journeyed with all that he had. He came to Beersheba and offered sacrifices to the God of his father Isaac. - Genesis 46:1
+God said, "I am God, the God of your father. Do not fear going down to Egypt, for I will make you into a great nation there. - Genesis 46:3
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 46 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 46 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

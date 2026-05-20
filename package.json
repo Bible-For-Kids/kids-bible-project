@@ -10,6 +10,7 @@
     "start": "next start",
     "lint": "next lint",
     "generate:resources": "node scripts/generate-resource-chapters.js",
+    "review:genesis": "node scripts/review-genesis-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {

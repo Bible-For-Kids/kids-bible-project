@@ -1,14 +1,13 @@
 # Genesis Chapter 12
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 12 and should be reviewed before approval.
+Genesis 12 continues the covenant family story. God calls Abram to leave home, promises land, offspring, and blessing, and brings him to Canaan before Abram goes down to Egypt during famine.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
+- promise: Words someone says and keeps
+- blessing: Good spoken or given by God
+- famine: A time when there is very little food
+- altar: A special place where someone worshiped the Lord with an offering
 
 ## Verse-by-Verse Translation
 
@@ -22,11 +21,7 @@ The Lord said to Abram, "Leave your country, your people, and your father's hous
 The Lord said to Abram, "Leave your country, your people, and your father's household, and go to the land I will show you.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+Keep God as the one who initiates Abram's journey; Abram does not invent the promise.
 
 ---
 
@@ -40,10 +35,10 @@ I will make you into a great nation. I will bless you and make your name great, 
 I will make you into a great nation. I will bless you, make your name great, and you will be a blessing.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- blessing: Good that comes from God
+- blessing: Good spoken or given by God
 
 ---
 
@@ -57,10 +52,11 @@ I will bless those who bless you. Whoever dishonors you, I will curse. All famil
 I will bless those who bless you, and whoever curses you I will curse. All peoples on earth will be blessed through you."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This promise reaches beyond Abram's family to all families of the earth.
 
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
+**Cross-References**:
+- Galatians 3:8
+- Genesis 22:18
 
 ---
 
@@ -73,13 +69,6 @@ So Abram went, just as the Lord had told him. Lot went with him. Abram was 75 ye
 #### Ages 8-10
 So Abram went, as the Lord had told him, and Lot went with him. Abram was 75 years old when he left Harran.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 12:5
@@ -90,9 +79,6 @@ Abram took his wife Sarai, his nephew Lot, and everything they owned. He also to
 
 #### Ages 8-10
 Abram took his wife Sarai, his nephew Lot, all their possessions, and the people they had acquired in Harran. They set out for Canaan and arrived there.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -105,9 +91,6 @@ Abram traveled through the land to the great tree of Moreh at Shechem. At that t
 #### Ages 8-10
 Abram traveled through the land as far as the great tree of Moreh at Shechem. At that time, the Canaanites were in the land.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 12:7
@@ -119,13 +102,8 @@ The Lord appeared to Abram and said, "I will give this land to your offspring." 
 #### Ages 8-10
 The Lord appeared to Abram and said, "I will give this land to your offspring." So Abram built an altar there to the Lord, who had appeared to him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- altar: A special place where someone worshiped the Lord with an offering
 
 ---
 
@@ -138,13 +116,8 @@ From there Abram moved to the hills east of Bethel. He set up his tent, with Bet
 #### Ages 8-10
 From there Abram moved to the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- altar: A special place where someone worshiped the Lord with an offering
 
 ---
 
@@ -157,9 +130,6 @@ Then Abram kept traveling, moving toward the Negev.
 #### Ages 8-10
 Then Abram continued traveling toward the Negev.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 12:10
@@ -171,11 +141,8 @@ A famine came to the land. Abram went down to Egypt to stay there for a while, b
 #### Ages 8-10
 A famine came to the land, so Abram went down to Egypt to stay there for a while, because the famine was severe.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- famine: A time when there is very little food
 
 ---
 
@@ -188,12 +155,6 @@ As Abram was about to enter Egypt, he said to his wife Sarai, "I know you are a 
 #### Ages 8-10
 As he was about to enter Egypt, Abram said to his wife Sarai, "I know what a beautiful woman you are.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 12:12
@@ -204,9 +165,6 @@ When the Egyptians see you, they will say, 'This is his wife.' Then they will ki
 
 #### Ages 8-10
 When the Egyptians see you, they will say, 'This is his wife.' Then they will kill me but let you live.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -219,9 +177,6 @@ Please say you are my sister, so things will go well for me because of you, and 
 #### Ages 8-10
 Please say you are my sister, so I will be treated well because of you and my life will be spared."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 12:14
@@ -232,12 +187,6 @@ When Abram entered Egypt, the Egyptians saw that Sarai was very beautiful.
 
 #### Ages 8-10
 When Abram entered Egypt, the Egyptians saw that Sarai was very beautiful.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -250,12 +199,6 @@ Pharaoh's officials saw her and praised her to Pharaoh. So Sarai was taken into 
 #### Ages 8-10
 Pharaoh's officials saw her and praised her to Pharaoh, and Sarai was taken into Pharaoh's palace.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 12:16
@@ -266,12 +209,6 @@ Pharaoh treated Abram well because of Sarai. Abram received sheep, cattle, donke
 
 #### Ages 8-10
 Pharaoh treated Abram well because of her. Abram received sheep, cattle, male and female donkeys, male and female servants, and camels.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -284,14 +221,6 @@ But the Lord sent serious diseases on Pharaoh and his house because of Abram's w
 #### Ages 8-10
 But the Lord inflicted serious diseases on Pharaoh and his household because of Abram's wife Sarai.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 12:18
@@ -302,12 +231,6 @@ So Pharaoh called Abram and said, "What have you done to me? Why did you not tel
 
 #### Ages 8-10
 So Pharaoh called Abram and said, "What have you done to me? Why did you not tell me she was your wife?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -320,9 +243,6 @@ Why did you say, 'She is my sister,' so that I took her as my wife? Here is your
 #### Ages 8-10
 Why did you say, 'She is my sister,' so that I took her as my wife? Now then, here is your wife. Take her and go!"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 12:20
@@ -334,20 +254,15 @@ Then Pharaoh gave orders about Abram, and his men sent Abram away with his wife 
 #### Ages 8-10
 Then Pharaoh gave orders about Abram to his men, and they sent him away with his wife and everything he had.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ## Chapter Summary
-Genesis 12 is a draft resource chapter. The chapter opens with "The Lord said to Abram, "Leave your country, your people, and your father's household, and go to...," moves through "As he was about to enter Egypt, Abram said to his wife Sarai, "I know what a beautiful woman you...," and closes with "Then Pharaoh gave orders about Abram to his men, and they sent him away with his wife and everyth...." Review this summary for fuller theological detail before approval.
+God calls Abram to leave home, promises land, offspring, and blessing, and brings him to Canaan before Abram goes down to Egypt during famine.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
@@ -360,16 +275,12 @@ I will make you into a great nation. I will bless you, make your name great, and
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 12 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 12 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

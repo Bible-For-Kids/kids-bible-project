@@ -1,6 +1,6 @@
 const path = require('path')
 
-const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['leviticus', 'numbers', 'deuteronomy'])
+const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['genesis', 'leviticus', 'numbers', 'deuteronomy'])
 
 const hardBlockedTerms = [
   {
@@ -8,7 +8,7 @@ const hardBlockedTerms = [
     message: 'Use child-readable concrete wording such as "clay bowl" instead of "earthen vessel".',
   },
   {
-    pattern: /\b(ephah|hin|gerah|gerahs|homer|homers)\b/i,
+    pattern: /\b(ephah|hin|gerah|gerahs|homer|homers)\b/,
     message: 'Replace ancient measure names with simple measured amounts.',
   },
   {

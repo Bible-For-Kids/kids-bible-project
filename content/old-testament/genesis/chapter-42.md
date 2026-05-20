@@ -1,14 +1,14 @@
 # Genesis Chapter 42
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 42 and should be reviewed before approval.
+Genesis 42 continues the covenant family story. Joseph's brothers come to Egypt for grain, do not recognize him, and are tested while their guilt over Joseph returns to mind.
 
 ## Important Keywords
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- famine: A time when there is very little food
+- grain: Seeds from crops used for food
+- guilt: The blame and burden that come from doing wrong
+- testing: A key word that helps explain this chapter.
+- brothers: Sons in the same family
 
 ## Verse-by-Verse Translation
 
@@ -21,12 +21,8 @@ Jacob saw that there was grain in Egypt. He said to his sons, "Why are you stand
 #### Ages 8-10
 When Jacob saw that there was grain in Egypt, he said to his sons, "Why do you look at one another?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
+- grain: Seeds from crops used for food
 
 ---
 
@@ -39,11 +35,8 @@ He said, "I have heard there is grain in Egypt. Go down there and buy some for u
 #### Ages 8-10
 He said, "I have heard there is grain in Egypt. Go down and buy grain for us there, so we may live and not die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- grain: Seeds from crops used for food
 
 ---
 
@@ -56,11 +49,9 @@ So ten of Joseph's brothers went down to Egypt to buy grain.
 #### Ages 8-10
 Ten of Joseph's brothers went down to buy grain in Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- grain: Seeds from crops used for food
+- brothers: Sons in the same family
 
 ---
 
@@ -73,11 +64,8 @@ But Jacob did not send Benjamin, Joseph's brother, with them, because he said, "
 #### Ages 8-10
 But Jacob did not send Benjamin, Joseph's brother, with them, because he said, "Harm might happen to him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- brothers: Sons in the same family
 
 ---
 
@@ -90,11 +78,9 @@ The sons of Israel came to buy grain among the other people who were coming, bec
 #### Ages 8-10
 The sons of Israel came to buy grain among the other travelers, because the famine was also in the land of Canaan.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- famine: A time when there is very little food
+- grain: Seeds from crops used for food
 
 ---
 
@@ -107,8 +93,9 @@ Joseph was the ruler over the land, and he was the one selling grain to all the 
 #### Ages 8-10
 Joseph was governor over the land, and he was the one selling grain to all the people. Joseph's brothers came and bowed down before him with their faces to the ground.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- grain: Seeds from crops used for food
+- brothers: Sons in the same family
 
 ---
 
@@ -121,8 +108,8 @@ Joseph saw his brothers and knew who they were, but he acted like a stranger to 
 #### Ages 8-10
 Joseph saw his brothers and recognized them, but he treated them like strangers and spoke harshly to them. He asked, "Where do you come from?" They answered, "From the land of Canaan to buy food."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- brothers: Sons in the same family
 
 ---
 
@@ -135,8 +122,8 @@ Joseph recognized his brothers, but they did not recognize him.
 #### Ages 8-10
 Joseph recognized his brothers, but they did not recognize him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- brothers: Sons in the same family
 
 ---
 
@@ -149,9 +136,6 @@ Joseph remembered the dreams he had dreamed about them. He said, "You are spies.
 #### Ages 8-10
 Joseph remembered the dreams he had dreamed about them. He said to them, "You are spies. You have come to see the weakness of the land."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:10
@@ -162,12 +146,6 @@ They said to him, "No, my lord. Your servants have come to buy food.
 
 #### Ages 8-10
 They said to him, "No, my lord. Your servants have come to buy food.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -180,9 +158,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "We are all one man's sons. We are honest men. Your servants are not spies."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:12
@@ -193,9 +168,6 @@ Joseph said to them, "No. You have come to see where the land is weak."
 
 #### Ages 8-10
 He said to them, "No, you have come to see the weakness of the land."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -208,8 +180,8 @@ They said, "Your servants were twelve brothers, sons of one man in the land of C
 #### Ages 8-10
 They said, "Your servants were twelve brothers, sons of one man in the land of Canaan. The youngest is with our father today, and one is gone."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- brothers: Sons in the same family
 
 ---
 
@@ -222,9 +194,6 @@ Joseph said to them, "It is just as I said. You are spies.
 #### Ages 8-10
 Joseph said to them, "It is as I said to you. You are spies.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:15
@@ -235,12 +204,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "By this you shall be tested: as Pharaoh lives, you shall not leave this place unless your youngest brother comes here.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -253,12 +216,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Send one of you to bring your brother, while the rest of you stay in prison. Your words will be tested to see whether there is truth in you. If not, as Pharaoh lives, you are spies."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 42:17
@@ -269,9 +226,6 @@ Joseph put them all together in prison for three days.
 
 #### Ages 8-10
 He put them all together in prison for three days.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -284,12 +238,6 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 #### Ages 8-10
 On the third day, Joseph said to them, "Do this and live, for I fear God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 42:19
@@ -301,8 +249,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If you are honest men, let one of your brothers remain confined in prison. The rest of you may go and carry grain for the hunger of your households.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- famine: A time when there is very little food
+- grain: Seeds from crops used for food
+- brothers: Sons in the same family
 
 ---
 
@@ -314,9 +264,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Bring your youngest brother to me, so your words will be confirmed and you will not die." So they did so.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -330,7 +277,10 @@ They said to one another, "We are truly guilty because of our brother. We saw ho
 They said to one another, "We are truly guilty concerning our brother. We saw the distress of his soul when he begged us, but we would not listen. That is why this distress has come upon us."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+
+**Key Vocabulary**:
+- guilt: The blame and burden that come from doing wrong
 
 ---
 
@@ -343,12 +293,6 @@ Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you
 #### Ages 8-10
 Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now his blood is being required."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- sin: Disobeying God and going against his good way
-
 ---
 
 ### Genesis 42:23
@@ -359,9 +303,6 @@ They did not know that Joseph understood them, because he had been speaking to t
 
 #### Ages 8-10
 They did not know Joseph understood them, because he had been using an interpreter.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -374,9 +315,6 @@ Joseph turned away from them and wept. Then he came back and spoke to them. He t
 #### Ages 8-10
 Joseph turned away from them and wept. Then he returned and spoke to them. He took Simeon from them and bound him before their eyes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:25
@@ -388,11 +326,8 @@ Joseph commanded his servants to fill their bags with grain, to put each man's m
 #### Ages 8-10
 Joseph commanded that their bags be filled with grain, that each man's money be returned to his sack, and that they be given food for the journey. This was done for them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- command: Something God tells someone to do
+- grain: Seeds from crops used for food
 
 ---
 
@@ -405,8 +340,9 @@ The brothers loaded their grain on their donkeys and left.
 #### Ages 8-10
 They loaded their grain on their donkeys and departed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- grain: Seeds from crops used for food
+- brothers: Sons in the same family
 
 ---
 
@@ -419,9 +355,6 @@ At the place where they stopped for the night, one brother opened his sack to fe
 #### Ages 8-10
 At the place where they stopped for the night, one brother opened his sack to feed his donkey, and he saw his money in the mouth of his sack.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:28
@@ -433,11 +366,8 @@ He said to his brothers, "My money has been put back. It is here in my sack." Th
 #### Ages 8-10
 He said to his brothers, "My money has been returned. It is here in my sack." Their hearts sank, and they trembled, saying to one another, "What has God done to us?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- brothers: Sons in the same family
 
 ---
 
@@ -450,12 +380,6 @@ They came to their father Jacob in the land of Canaan and told him everything th
 #### Ages 8-10
 They came to Jacob their father in the land of Canaan and told him all that had happened to them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 42:30
@@ -466,12 +390,6 @@ They said, "The man who is lord of the land spoke sharply to us and treated us a
 
 #### Ages 8-10
 They said, "The man who is lord of the land spoke harshly to us and treated us as spies of the land.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -484,9 +402,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "We said to him, 'We are honest men. We are not spies.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:32
@@ -498,8 +413,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'We are twelve brothers, sons of our father. One is gone, and the youngest is today with our father in the land of Canaan.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- brothers: Sons in the same family
 
 ---
 
@@ -512,11 +427,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Then the man, the lord of the land, said to us, 'This is how I will know you are honest: leave one of your brothers with me, take food for the hunger of your households, and go.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+- famine: A time when there is very little food
+- grain: Seeds from crops used for food
+- brothers: Sons in the same family
 
 ---
 
@@ -529,9 +443,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Bring your youngest brother to me. Then I will know you are not spies but honest men. I will give your brother back to you, and you may trade in the land.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 42:35
@@ -542,9 +453,6 @@ As they emptied their sacks, each man's bundle of money was in his sack. When th
 
 #### Ages 8-10
 As they emptied their sacks, each man's bundle of money was in his sack. When they and their father saw the bundles of money, they were afraid.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -557,12 +465,6 @@ Jacob their father said to them, "You have taken my children from me. Joseph is 
 #### Ages 8-10
 Jacob their father said to them, "You have bereaved me of my children. Joseph is gone, Simeon is gone, and now you would take Benjamin. All these things are against me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 42:37
@@ -573,9 +475,6 @@ Reuben spoke to his father and said, "You may put my two sons to death if I do n
 
 #### Ages 8-10
 Reuben said to his father, "You may put my two sons to death if I do not bring Benjamin back to you. Put him in my hand, and I will bring him back."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -588,42 +487,33 @@ But Jacob said, "My son shall not go down with you. His brother is dead, and he 
 #### Ages 8-10
 But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If harm happens to him on the journey, you would bring my gray hair down to the grave in sorrow."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ## Chapter Summary
-Genesis 42 is a draft resource chapter. The chapter opens with "When Jacob saw that there was grain in Egypt, he said to his sons, "Why do you look at one another?," moves through "Bring your youngest brother to me, so your words will be confirmed and you will not die." So they...," and closes with "But Jacob said, "My son shall not go down with you. His brother is dead, and he alone is left. If...." Review this summary for fuller theological detail before approval.
+Joseph's brothers come to Egypt for grain, do not recognize him, and are tested while their guilt over Joseph returns to mind.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Jacob saw that there was grain in Egypt. He said to his sons, "Why are you standing here looking at one another?" - Genesis 42:1
+They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us." - Genesis 42:21
 
 ### Ages 8-10
-When Jacob saw that there was grain in Egypt, he said to his sons, "Why do you look at one another?" - Genesis 42:1
+They said to one another, "We are truly guilty concerning our brother. We saw the distress of his soul when he begged us, but we would not listen. That is why this distress has come upon us." - Genesis 42:21
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 42 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 42 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

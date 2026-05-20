@@ -1,14 +1,14 @@
 # Genesis Chapter 32
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 32 and should be reviewed before approval.
+Genesis 32 continues the covenant family story. Jacob prepares to meet Esau, prays in fear, sends gifts ahead, and wrestles through the night before God names him Israel.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- command: Something God tells someone to do
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- prayer: Speaking to God with trust, need, thanks, or praise
+- fear: Deep concern, dread, or awe
+- mercy: Kind help given to someone in need or guilt
+- Israel: The name God gave Jacob, and later the name of his family people
+- blessing: Good spoken or given by God
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ Jacob went on his way, and the angels of God met him.
 #### Ages 8-10
 Jacob continued on his way, and the angels of God met him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:2
@@ -38,13 +31,6 @@ When Jacob saw them, he said, "This is God's camp." So he named that place Mahan
 
 #### Ages 8-10
 When Jacob saw them, he said, "This is God's camp." He named that place Mahanaim.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -57,12 +43,6 @@ Jacob sent messengers ahead of him to his brother Esau, who was in the land of S
 #### Ages 8-10
 Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:4
@@ -73,13 +53,6 @@ He told them, "Say this to my lord Esau: 'Your servant Jacob says, I have stayed
 
 #### Ages 8-10
 He commanded them, "Say this to my lord Esau: 'Your servant Jacob says, I have lived with Laban and stayed there until now.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -92,12 +65,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'I have oxen, donkeys, flocks, male servants, and female servants. I have sent this message to my lord so I may find favor with you.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 32:6
@@ -108,12 +75,6 @@ The messengers came back to Jacob and said, "We went to your brother Esau, and h
 
 #### Ages 8-10
 The messengers returned to Jacob and said, "We came to your brother Esau, and he is coming to meet you with four hundred men."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -126,12 +87,6 @@ Jacob was very afraid and troubled. He divided the people with him, along with t
 #### Ages 8-10
 Jacob was greatly afraid and distressed. He divided the people with him, along with the flocks, herds, and camels, into two camps.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:8
@@ -142,9 +97,6 @@ He said, "If Esau comes to one group and attacks it, then the other group can es
 
 #### Ages 8-10
 He said, "If Esau comes to one camp and strikes it, then the camp that remains may escape."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -157,15 +109,6 @@ Then Jacob prayed, "O God of my father Abraham and God of my father Isaac, Lord,
 #### Ages 8-10
 Jacob prayed, "O God of my father Abraham and God of my father Isaac, Lord, you said to me, 'Return to your country and to your relatives, and I will do good to you.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 32:10
@@ -176,9 +119,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "I am not worthy of even the smallest of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two camps.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -191,8 +131,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Please rescue me from my brother Esau. I fear that he will come and strike me, along with the mothers and children.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- fear: Deep concern, dread, or awe
 
 ---
 
@@ -205,9 +145,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You said, 'I will surely do good to you and make your children like the sand of the sea, too many to count.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 32:13
@@ -218,12 +155,6 @@ Jacob stayed there that night. From what he had with him, he chose a gift for hi
 
 #### Ages 8-10
 Jacob stayed there that night and chose from what he had a gift for his brother Esau.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -236,9 +167,6 @@ He chose two hundred female goats and twenty male goats, two hundred female shee
 #### Ages 8-10
 He selected two hundred female goats, twenty male goats, two hundred ewes, and twenty rams.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 32:15
@@ -249,9 +177,6 @@ He also chose thirty milk camels with their young, forty cows and ten bulls, twe
 
 #### Ages 8-10
 He also selected thirty milk camels with their young, forty cows, ten bulls, twenty female donkeys, and ten young donkeys.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -264,12 +189,6 @@ Jacob put each herd by itself in the care of his servants. He said, "Go ahead of
 #### Ages 8-10
 He put them into the care of his servants, each herd by itself. He told his servants, "Go ahead of me, and leave space between herd and herd."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:17
@@ -280,9 +199,6 @@ He told the first servant, "When my brother Esau meets you and asks, 'Whose are 
 
 #### Ages 8-10
 He commanded the first servant, "When my brother Esau meets you and asks, 'Whose are you? Where are you going? Whose animals are these ahead of you?'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -295,13 +211,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "then say, 'They belong to your servant Jacob. They are a gift sent to my lord Esau, and Jacob himself is behind us.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 32:19
@@ -312,13 +221,6 @@ Jacob gave the same command to the second servant, the third servant, and all th
 
 #### Ages 8-10
 Jacob gave the same command to the second servant, the third servant, and all who followed the herds. He said, "Speak to Esau this way when you meet him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- Jacob: The man God also named Israel
 
 ---
 
@@ -331,12 +233,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Also say, 'Your servant Jacob is behind us.'" Jacob thought, "I will calm him with the gift sent ahead of me. After that I will see him face to face, and perhaps he will accept me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:21
@@ -347,12 +243,6 @@ So the gift went ahead of Jacob, but he stayed that night in the camp.
 
 #### Ages 8-10
 So the gift went ahead of him, while Jacob spent that night in the camp.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -365,12 +255,6 @@ During the night Jacob got up. He took his two wives, his two servant-women, and
 #### Ages 8-10
 That night Jacob got up and took his two wives, his two servant-women, and his eleven sons, and he crossed the ford of the Jabbok.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:23
@@ -381,9 +265,6 @@ He took them and sent them across the stream, and he sent over everything he had
 
 #### Ages 8-10
 He took them and sent them across the stream, along with everything he had.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -396,12 +277,6 @@ Jacob was left alone, and a man wrestled with him until daybreak.
 #### Ages 8-10
 Jacob was left alone, and a man wrestled with him until daybreak.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:25
@@ -412,12 +287,6 @@ When the man saw that he did not win against Jacob, he touched Jacob's hip, and 
 
 #### Ages 8-10
 When the man saw that he could not overpower Jacob, he touched the socket of Jacob's hip, and Jacob's hip was put out of joint as they wrestled.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -430,12 +299,6 @@ The man said, "Let me go, because the day is breaking." Jacob said, "I will not 
 #### Ages 8-10
 The man said, "Let me go, for the day is breaking." Jacob answered, "I will not let you go unless you bless me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:27
@@ -446,12 +309,6 @@ The man asked him, "What is your name?" He answered, "Jacob."
 
 #### Ages 8-10
 The man asked him, "What is your name?" He said, "Jacob."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -465,12 +322,13 @@ The man said, "Your name will no longer be Jacob, but Israel, because you have s
 The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Jacob is renamed Israel after struggling and receiving blessing; do not imply he defeated God by strength.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Israel: The name God gave Jacob, and later the name of his family people
+
+**Cross-References**:
+- Hosea 12:3-4
 
 ---
 
@@ -483,13 +341,6 @@ Jacob asked him, "Please tell me your name." But he said, "Why do you ask my nam
 #### Ages 8-10
 Jacob asked, "Please tell me your name." He answered, "Why do you ask my name?" And he blessed him there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:30
@@ -500,13 +351,6 @@ Jacob named the place Peniel, saying, "I have seen God face to face, and my life
 
 #### Ages 8-10
 Jacob named the place Peniel, saying, "I have seen God face to face, and my life has been preserved."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -519,12 +363,6 @@ As Jacob crossed Penuel, the sun rose, and he limped because of his hip.
 #### Ages 8-10
 The sun rose on Jacob as he crossed Penuel, and he was limping because of his hip.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 32:32
@@ -536,43 +374,36 @@ That is why the children of Israel do not eat the tendon by the hip joint to thi
 #### Ages 8-10
 For this reason, the children of Israel do not eat the tendon near the hip joint to this day, because the man touched the tendon at Jacob's hip.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Israel: The name God gave Jacob, and later the name of his family people
 
 ---
 
 ## Chapter Summary
-Genesis 32 is a draft resource chapter. The chapter opens with "Jacob continued on his way, and the angels of God met him.," moves through "He commanded the first servant, "When my brother Esau meets you and asks, 'Whose are you? Where a...," and closes with "For this reason, the children of Israel do not eat the tendon near the hip joint to this day, bec...." Review this summary for fuller theological detail before approval.
+Jacob prepares to meet Esau, prays in fear, sends gifts ahead, and wrestles through the night before God names him Israel.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Jacob went on his way, and the angels of God met him. - Genesis 32:1
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people, and you have overcome." - Genesis 32:28
 
 ### Ages 8-10
-Jacob continued on his way, and the angels of God met him. - Genesis 32:1
+The man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed." - Genesis 32:28
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 32 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 32 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

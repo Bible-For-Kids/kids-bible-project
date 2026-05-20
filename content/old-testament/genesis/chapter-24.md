@@ -1,14 +1,14 @@
 # Genesis Chapter 24
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 24 and should be reviewed before approval.
+Genesis 24 continues the covenant family story. Abraham's servant seeks a wife for Isaac, the Lord guides him to Rebekah, and Rebekah willingly leaves to become Isaac's wife.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- prayer: Speaking to God with trust, need, thanks, or praise
+- guidance: Help that shows the right way to go
+- kindness: Goodness shown in action toward another person
 - promise: Words someone says and keeps
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ## Verse-by-Verse Translation
 
@@ -21,14 +21,6 @@ Abraham was now very old, and the Lord had blessed Abraham in every part of his 
 #### Ages 8-10
 Abraham was old and well advanced in years, and the Lord had blessed Abraham in everything.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:2
@@ -39,9 +31,6 @@ Abraham spoke to the oldest servant in his house, the servant who cared for all 
 
 #### Ages 8-10
 Abraham said to the oldest servant in his household, the one who managed all he had, "Please put your hand under my thigh.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -54,14 +43,8 @@ I want you to make a promise by the Lord, the God of heaven and the God of earth
 #### Ages 8-10
 I want you to swear by the Lord, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I live.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
 - promise: Words someone says and keeps
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -74,9 +57,6 @@ Instead, go to my country and to my relatives, and take a wife there for my son 
 #### Ages 8-10
 Instead, go to my country and to my relatives, and take a wife for my son Isaac."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:5
@@ -87,9 +67,6 @@ The servant asked him, "What if the woman does not want to follow me back to thi
 
 #### Ages 8-10
 The servant said to him, "What if the woman is not willing to follow me to this land? Must I take your son back to the land you came from?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -102,9 +79,6 @@ Abraham said to him, "Be careful. Do not take my son back there.
 #### Ages 8-10
 Abraham said to him, "Be careful that you do not take my son back there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:7
@@ -116,13 +90,8 @@ The Lord God of heaven took me from my father's house and from the land of my fa
 #### Ages 8-10
 The Lord God of heaven took me from my father's house and from the land of my relatives. He spoke to me and swore to me, 'To your offspring I will give this land.' He will send his angel before you, and you will take a wife for my son from there.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
 
 ---
 
@@ -134,9 +103,6 @@ If the woman will not follow you, then you will be free from this promise to me.
 
 #### Ages 8-10
 If the woman is not willing to follow you, then you will be free from this oath of mine. Only do not take my son back there."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - promise: Words someone says and keeps
@@ -152,9 +118,6 @@ So the servant put his hand under the thigh of Abraham his master and made the p
 #### Ages 8-10
 So the servant put his hand under the thigh of Abraham his master and swore to him about this matter.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -169,9 +132,6 @@ Then the servant took ten of his master's camels and left, carrying many good th
 #### Ages 8-10
 Then the servant took ten of his master's camels and set out, carrying all kinds of good things from his master. He arose and went to Mesopotamia, to the city of Nahor.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:11
@@ -182,9 +142,6 @@ Near evening, he made the camels kneel outside the city by a well of water. It w
 
 #### Ages 8-10
 He made the camels kneel outside the city by a well of water in the evening, at the time when women came out to draw water.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -197,13 +154,8 @@ The servant prayed, "O Lord God of my master Abraham, please give me success tod
 #### Ages 8-10
 He prayed, "O Lord God of my master Abraham, please give me success today, and show kindness to my master Abraham.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- kindness: Goodness shown in action toward another person
 
 ---
 
@@ -216,9 +168,6 @@ Here I am standing by this well of water, and the daughters of the men of the ci
 #### Ages 8-10
 Here I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:14
@@ -230,8 +179,8 @@ May the young woman I speak to be the one you have chosen for Isaac. I will say,
 #### Ages 8-10
 May the young woman to whom I say, 'Please lower your jar so I may drink,' and who says, 'Drink, and I will water your camels also,' be the one you have appointed for your servant Isaac. By this I will know that you have shown kindness to my master."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- kindness: Goodness shown in action toward another person
 
 ---
 
@@ -244,8 +193,8 @@ Before he had even finished praying, Rebekah came out with her water jar on her 
 #### Ages 8-10
 Before he had finished speaking, Rebekah came out with her jar on her shoulder. She had been born to Bethuel, son of Milkah, the wife of Nahor, Abraham's brother.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -258,9 +207,6 @@ The young woman was very beautiful. She was a virgin and had never been with a m
 #### Ages 8-10
 The young woman was very beautiful, a virgin, and had never been with a man as a wife. She went down to the spring, filled her jar, and came up.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:17
@@ -271,9 +217,6 @@ The servant ran to meet her and said, "Please let me drink a little water from y
 
 #### Ages 8-10
 The servant ran to meet her and said, "Please let me drink a little water from your jar."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -286,12 +229,6 @@ She said, "Drink, my lord." Quickly she lowered the jar to her hand and gave him
 #### Ages 8-10
 She said, "Drink, my lord." She quickly lowered her jar to her hand and gave him a drink.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 24:19
@@ -302,9 +239,6 @@ When she finished giving him a drink, she said, "I will draw water for your came
 
 #### Ages 8-10
 When she had finished giving him a drink, she said, "I will draw water for your camels too, until they have finished drinking."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -317,9 +251,6 @@ She quickly emptied her jar into the trough and ran back to the well for more wa
 #### Ages 8-10
 She quickly emptied her jar into the trough and ran back to the well to draw more water, and she drew water for all his camels.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:21
@@ -330,13 +261,6 @@ The man watched her quietly, wondering whether the Lord had made his journey suc
 
 #### Ages 8-10
 The man watched her quietly, wondering whether the Lord had made his journey successful.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -349,9 +273,6 @@ When the camels had finished drinking, the man took out a gold nose ring and two
 #### Ages 8-10
 When the camels had finished drinking, the man took out a gold nose ring weighing half a shekel and two gold bracelets for her arms weighing ten shekels.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:23
@@ -362,9 +283,6 @@ He asked, "Whose daughter are you? Please tell me. Is there room in your father'
 
 #### Ages 8-10
 He asked, "Whose daughter are you? Please tell me, is there room in your father's house for us to spend the night?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -377,9 +295,6 @@ She said to him, "I am the daughter of Bethuel, the son Milkah bore to Nahor."
 #### Ages 8-10
 She said to him, "I am the daughter of Bethuel, the son Milkah bore to Nahor."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:25
@@ -391,9 +306,6 @@ She also said, "We have plenty of straw and feed, and there is room for you to s
 #### Ages 8-10
 She also said, "We have plenty of straw and feed, and room for you to spend the night."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:26
@@ -404,13 +316,6 @@ Then the man bowed his head and worshiped the Lord.
 
 #### Ages 8-10
 Then the man bowed his head and worshiped the Lord.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -424,13 +329,10 @@ He said, "Blessed be the Lord God of my master Abraham. The Lord has not stopped
 He said, "Blessed be the Lord God of my master Abraham. He has not left my master without his mercy and truth. As for me, the Lord has led me on the way to the house of my master's relatives."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- kindness: Goodness shown in action toward another person
 
 ---
 
@@ -443,9 +345,6 @@ The young woman ran home and told her mother's household all these things.
 #### Ages 8-10
 The young woman ran and told her mother's household about these things.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:29
@@ -457,8 +356,8 @@ Rebekah had a brother named Laban, and Laban ran out to the man at the well.
 #### Ages 8-10
 Rebekah had a brother named Laban, and Laban ran out to the man at the spring.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -471,8 +370,8 @@ Laban had seen the nose ring and the bracelets on his sister's arms. He had hear
 #### Ages 8-10
 When he saw the nose ring and the bracelets on his sister's arms, and when he heard Rebekah say, "This is what the man said to me," he went to the man. There he was, standing by the camels at the spring.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -485,14 +384,6 @@ Laban said, "Come in, you who are blessed by the Lord. Why are you standing outs
 #### Ages 8-10
 Laban said, "Come in, you who are blessed by the Lord. Why are you standing outside? I have prepared the house and a place for the camels."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:32
@@ -503,9 +394,6 @@ The servant came into the house. Laban unloaded the camels and gave them straw a
 
 #### Ages 8-10
 So the man came into the house. Laban unloaded the camels and gave straw and feed for them, and water to wash the feet of the servant and the men with him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -518,9 +406,6 @@ Food was set before the servant, but he said, "I will not eat until I have told 
 #### Ages 8-10
 Food was set before him to eat, but he said, "I will not eat until I have told my errand." Laban said, "Speak."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:34
@@ -531,9 +416,6 @@ The servant said, "I am Abraham's servant.
 
 #### Ages 8-10
 The servant said, "I am Abraham's servant.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -546,14 +428,6 @@ The Lord has blessed my master very much, and he has become great. The Lord has 
 #### Ages 8-10
 The Lord has greatly blessed my master, and he has become great. The Lord has given him flocks and herds, silver and gold, male and female servants, camels, and donkeys.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:36
@@ -565,9 +439,6 @@ Sarah, my master's wife, had a son for my master when she was old. My master has
 #### Ages 8-10
 Sarah, my master's wife, bore a son to my master when she was old, and my master has given that son everything he has.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:37
@@ -578,9 +449,6 @@ My master made me promise, saying, 'Do not take a wife for my son from the daugh
 
 #### Ages 8-10
 My master made me swear, saying, 'You must not take a wife for my son from the daughters of the Canaanites, in whose land I live.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - promise: Words someone says and keeps
@@ -596,9 +464,6 @@ Go instead to my father's house and to my family, and take a wife for my son.'
 #### Ages 8-10
 Instead, go to my father's house and to my family, and take a wife for my son.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:39
@@ -609,9 +474,6 @@ I said to my master, 'What if the woman will not follow me?'
 
 #### Ages 8-10
 I said to my master, 'What if the woman will not follow me?'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -624,13 +486,6 @@ He said to me, 'The Lord, before whom I walk, will send his angel with you and m
 #### Ages 8-10
 He said to me, 'The Lord, before whom I walk, will send his angel with you and make your way successful. You shall take a wife for my son from my family and from my father's house.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:41
@@ -641,9 +496,6 @@ You will be free from my promise when you come to my relatives. If they will not
 
 #### Ages 8-10
 Then you will be free from my oath when you come to my relatives. If they do not give her to you, you will be free from my oath.'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 **Key Vocabulary**:
 - promise: Words someone says and keeps
@@ -659,14 +511,6 @@ Today I came to the well and prayed, 'O Lord God of my master Abraham, please ma
 #### Ages 8-10
 Today I came to the spring and said, 'O Lord God of my master Abraham, if you will now make successful the way I am going,
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:43
@@ -677,9 +521,6 @@ Here I am standing by the well of water. When a young woman comes out to draw wa
 
 #### Ages 8-10
 see, I am standing by the spring of water. When the young woman comes out to draw water, and I say to her, "Please give me a little water from your jar to drink,"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -692,13 +533,6 @@ If she says, "Drink, and I will also draw water for your camels," let her be the
 #### Ages 8-10
 and she says to me, "Drink, and I will also draw water for your camels," let her be the woman whom the Lord has appointed for my master's son.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:45
@@ -710,8 +544,8 @@ Before I had finished speaking in my heart, Rebekah came out with her jar on her
 #### Ages 8-10
 Before I had finished speaking in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please let me drink.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -724,9 +558,6 @@ She quickly lowered her jar from her shoulder and said, 'Drink, and I will give 
 #### Ages 8-10
 She quickly lowered her jar from her shoulder and said, 'Drink, and I will give your camels water also.' So I drank, and she watered the camels too.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:47
@@ -737,9 +568,6 @@ Then I asked her, 'Whose daughter are you?' She said, 'The daughter of Bethuel, 
 
 #### Ages 8-10
 Then I asked her, 'Whose daughter are you?' She said, 'The daughter of Bethuel, Nahor's son, whom Milkah bore to him.' So I put the ring on her nose and the bracelets on her arms.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -752,15 +580,6 @@ I bowed my head and worshiped the Lord. I blessed the Lord God of my master Abra
 #### Ages 8-10
 I bowed my head, worshiped the Lord, and blessed the Lord God of my master Abraham, who had led me in the right way to take the daughter of my master's relative for his son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:49
@@ -771,9 +590,6 @@ Now tell me if you will deal kindly and faithfully with my master. If you will n
 
 #### Ages 8-10
 Now if you will deal kindly and faithfully with my master, tell me. If not, tell me, so I may turn to the right or to the left."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -786,13 +602,6 @@ Then Laban and Bethuel answered, "This matter comes from the Lord. We cannot say
 #### Ages 8-10
 Then Laban and Bethuel answered, "This matter comes from the Lord. We cannot speak to you either bad or good.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:51
@@ -804,12 +613,8 @@ Look, Rebekah is here before you. Take her and go, and let her become the wife o
 #### Ages 8-10
 Look, Rebekah is before you. Take her and go, and let her become the wife of your master's son, as the Lord has spoken."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -822,13 +627,6 @@ When Abraham's servant heard their words, he bowed down to the ground before the
 #### Ages 8-10
 When Abraham's servant heard their words, he bowed himself to the ground before the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:53
@@ -840,8 +638,8 @@ The servant brought out silver jewelry, gold jewelry, and clothing and gave them
 #### Ages 8-10
 The servant brought out silver jewelry, gold jewelry, and clothing and gave them to Rebekah. He also gave precious gifts to her brother and her mother.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -854,9 +652,6 @@ Then the servant and the men with him ate and drank and stayed all night. When t
 #### Ages 8-10
 Then he and the men with him ate and drank, and they stayed there all night. When they rose in the morning, he said, "Send me away to my master."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:55
@@ -868,8 +663,8 @@ Rebekah's brother and mother said, "Let the young woman stay with us a few days,
 #### Ages 8-10
 Her brother and her mother said, "Let the young woman stay with us a few days, at least ten. After that she may go."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -882,13 +677,6 @@ But the servant said, "Do not hold me back, since the Lord has made my journey s
 #### Ages 8-10
 But he said to them, "Do not delay me, since the Lord has made my journey successful. Send me away so I may go to my master."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 24:57
@@ -899,9 +687,6 @@ They said, "We will call the young woman and ask her ourselves."
 
 #### Ages 8-10
 They said, "We will call the young woman and ask her."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -914,8 +699,8 @@ They called Rebekah and asked her, "Will you go with this man?" She said, "I wil
 #### Ages 8-10
 They called Rebekah and said to her, "Will you go with this man?" She said, "I will go."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -928,8 +713,8 @@ So they sent away Rebekah their sister, her nurse, Abraham's servant, and his me
 #### Ages 8-10
 So they sent away Rebekah their sister, her nurse, Abraham's servant, and his men.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -942,11 +727,8 @@ They blessed Rebekah and said, "Our sister, may you become the mother of thousan
 #### Ages 8-10
 They blessed Rebekah and said to her, "Our sister, may you become the mother of thousands upon thousands, and may your offspring possess the gate of those who hate them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -959,8 +741,8 @@ Then Rebekah and her young women got up, climbed onto the camels, and followed t
 #### Ages 8-10
 Then Rebekah and her young women arose, mounted the camels, and followed the man. The servant took Rebekah and went on his way.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -973,9 +755,6 @@ Isaac had come from the way of Beer Lahai Roi, because he lived in the Negev.
 #### Ages 8-10
 Now Isaac had come from the way of Beer Lahai Roi, for he lived in the Negev.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:63
@@ -986,9 +765,6 @@ In the evening, Isaac went out into the field to meditate. He lifted his eyes an
 
 #### Ages 8-10
 Isaac went out into the field to meditate in the evening. He looked up and saw camels coming.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -1001,8 +777,8 @@ Rebekah lifted her eyes too. When she saw Isaac, she got down from the camel.
 #### Ages 8-10
 Rebekah also looked up, and when she saw Isaac, she got down from the camel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -1015,8 +791,8 @@ She had asked the servant, "Who is that man walking through the field to meet us
 #### Ages 8-10
 She had asked the servant, "Who is that man walking in the field to meet us?" The servant had said, "It is my master." So she took her veil and covered herself.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
@@ -1029,9 +805,6 @@ The servant told Isaac everything he had done.
 #### Ages 8-10
 The servant told Isaac all the things he had done.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 24:67
@@ -1043,39 +816,36 @@ Isaac brought Rebekah into the tent of Sarah his mother. Rebekah became his wife
 #### Ages 8-10
 Isaac brought Rebekah into the tent of Sarah his mother. He took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother's death.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rebekah: Isaac's wife and the mother of Jacob and Esau
 
 ---
 
 ## Chapter Summary
-Genesis 24 is a draft resource chapter. The chapter opens with "Abraham was old and well advanced in years, and the Lord had blessed Abraham in everything.," moves through "The servant said, "I am Abraham's servant.," and closes with "Isaac brought Rebekah into the tent of Sarah his mother. He took Rebekah, and she became his wife...." Review this summary for fuller theological detail before approval.
+Abraham's servant seeks a wife for Isaac, the Lord guides him to Rebekah, and Rebekah willingly leaves to become Isaac's wife.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abraham was now very old, and the Lord had blessed Abraham in every part of his life. - Genesis 24:1
+He said, "Blessed be the Lord God of my master Abraham. The Lord has not stopped showing mercy and truth to my master. The Lord has led me straight to the house of my master's relatives." - Genesis 24:27
 
 ### Ages 8-10
-Abraham was old and well advanced in years, and the Lord had blessed Abraham in everything. - Genesis 24:1
+He said, "Blessed be the Lord God of my master Abraham. He has not left my master without his mercy and truth. As for me, the Lord has led me on the way to the house of my master's relatives." - Genesis 24:27
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 24 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 24 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

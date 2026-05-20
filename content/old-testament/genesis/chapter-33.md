@@ -1,14 +1,14 @@
 # Genesis Chapter 33
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 33 and should be reviewed before approval.
+Genesis 33 continues the covenant family story. Jacob and Esau meet in peace, Jacob bows before his brother, and God's mercy turns a feared meeting into a reunion.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessing: Good that comes from God
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- peace: Wholeness and calm where conflict has been answered
+- mercy: Kind help given to someone in need or guilt
+- reunion: Coming together again after being apart
+- gift: Something given to another person
+- altar: A special place where someone worshiped the Lord with an offering
 
 ## Verse-by-Verse Translation
 
@@ -21,12 +21,6 @@ Jacob looked up and saw Esau coming with four hundred men. So he divided the chi
 #### Ages 8-10
 Jacob looked up and saw Esau coming with four hundred men. He divided the children among Leah, Rachel, and the two servant-women.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 33:2
@@ -37,9 +31,6 @@ He put the servant-women and their children first, Leah and her children next, a
 
 #### Ages 8-10
 He put the servant-women and their children in front, Leah and her children after them, and Rachel and Joseph last.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -52,12 +43,6 @@ Jacob went ahead of them. As he came near his brother, he bowed down to the grou
 #### Ages 8-10
 Jacob went ahead of them and bowed to the ground seven times as he approached his brother.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 33:4
@@ -68,12 +53,6 @@ But Esau ran to meet Jacob. He hugged him, put his arms around his neck, kissed 
 
 #### Ages 8-10
 Esau ran to meet him, embraced him, threw his arms around his neck, kissed him, and they wept.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -86,13 +65,6 @@ Esau looked up and saw the women and children. He asked, "Who are these with you
 #### Ages 8-10
 Esau looked up and saw the women and children. He asked, "Who are these with you?" Jacob answered, "They are the children God has graciously given your servant."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 33:6
@@ -103,9 +75,6 @@ Then the servant-women came near with their children, and they bowed down.
 
 #### Ages 8-10
 Then the servant-women and their children came near and bowed down.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -118,9 +87,6 @@ Leah and her children also came near and bowed down. After them, Joseph and Rach
 #### Ages 8-10
 Leah and her children also came near and bowed down. Afterward Joseph and Rachel came near and bowed down.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 33:8
@@ -131,13 +97,6 @@ Esau asked, "What did you mean by all those herds I met?" Jacob answered, "They 
 
 #### Ages 8-10
 Esau asked, "What did you mean by all those herds I met?" Jacob answered, "They were sent so I might find favor with my lord."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -150,9 +109,6 @@ Esau said, "I have enough, my brother. Keep what you have."
 #### Ages 8-10
 Esau said, "I have enough, my brother. Keep what is yours."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 33:10
@@ -164,12 +120,8 @@ Jacob said, "No, please. If you are pleased with me, accept my gift from my hand
 #### Ages 8-10
 Jacob said, "No, please. If I have found favor with you, accept my gift from my hand. Seeing your face is like seeing the face of God, because you have received me kindly.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- gift: Something given to another person
 
 ---
 
@@ -183,12 +135,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Please accept the blessing I have brought you, because God has dealt graciously with me, and I have enough." Jacob urged him, and Esau accepted it.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- blessing: Good that comes from God
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- gift: Something given to another person
 
 ---
 
@@ -201,9 +151,6 @@ Then Esau said, "Let us start our journey. I will go ahead of you."
 #### Ages 8-10
 Then Esau said, "Let us be on our way. I will go ahead of you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 33:13
@@ -214,13 +161,6 @@ Jacob said to him, "My lord knows that the children are tender, and the flocks a
 
 #### Ages 8-10
 Jacob said to him, "My lord knows that the children are tender, and the flocks and herds with young are with me. If they are driven too hard for one day, all the flock may die.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -233,12 +173,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Please let my lord go ahead of his servant. I will travel slowly, at the pace of the livestock and the children, until I come to my lord in Seir."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 33:15
@@ -249,13 +183,6 @@ Esau said, "Let me leave some of my people with you." Jacob said, "Why do that? 
 
 #### Ages 8-10
 Esau said, "Let me leave some of my people with you." Jacob answered, "Why is that needed? Let me simply find favor with my lord."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -268,9 +195,6 @@ So Esau turned back that day on his way to Seir.
 #### Ages 8-10
 So Esau returned that day on his way to Seir.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 33:17
@@ -281,12 +205,6 @@ Jacob traveled to Succoth. There he built a house for himself and shelters for h
 
 #### Ages 8-10
 Jacob traveled to Succoth, built a house for himself, and made shelters for his livestock. Therefore the place was named Succoth.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -299,11 +217,8 @@ After Jacob came from Padan-aram, he arrived safely at the city of Shechem in th
 #### Ages 8-10
 After coming from Padan-aram, Jacob arrived safely at the city of Shechem in the land of Canaan, and he camped in front of the city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- peace: Wholeness and calm where conflict has been answered
 
 ---
 
@@ -316,9 +231,6 @@ He bought the piece of field where he had set up his tent from the sons of Hamor
 #### Ages 8-10
 He bought the part of the field where he had pitched his tent from the sons of Hamor, Shechem's father, for one hundred pieces of money.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 33:20
@@ -330,44 +242,36 @@ There Jacob built an altar and called it El-elohe-Israel.
 #### Ages 8-10
 There he set up an altar and called it El-elohe-Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- altar: A special place where someone worshiped the Lord with an offering
 
 ---
 
 ## Chapter Summary
-Genesis 33 is a draft resource chapter. The chapter opens with "Jacob looked up and saw Esau coming with four hundred men. He divided the children among Leah, Ra...," moves through "Please accept the blessing I have brought you, because God has dealt graciously with me, and I ha...," and closes with "There he set up an altar and called it El-elohe-Israel.." Review this summary for fuller theological detail before approval.
+Jacob and Esau meet in peace, Jacob bows before his brother, and God's mercy turns a feared meeting into a reunion.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Jacob looked up and saw Esau coming with four hundred men. So he divided the children among Leah, Rachel, and the two servant-women. - Genesis 33:1
+"Please take the gift I brought you. God has been kind to me, and I have enough." Jacob urged him, and Esau accepted it. - Genesis 33:11
 
 ### Ages 8-10
-Jacob looked up and saw Esau coming with four hundred men. He divided the children among Leah, Rachel, and the two servant-women. - Genesis 33:1
+"Please accept the blessing I have brought you, because God has dealt graciously with me, and I have enough." Jacob urged him, and Esau accepted it. - Genesis 33:11
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 33 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 33 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

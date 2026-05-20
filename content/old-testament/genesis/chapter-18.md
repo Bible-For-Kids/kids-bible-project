@@ -1,14 +1,14 @@
 # Genesis Chapter 18
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 18 and should be reviewed before approval.
+Genesis 18 continues the covenant family story. The Lord appears to Abraham by the oaks of Mamre, promises Sarah a son, and lets Abraham plead for mercy before Sodom is judged.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- command: Something God tells someone to do
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
+- hospitality: Welcoming and caring for guests
+- mercy: Kind help given to someone in need or guilt
+- judgment: God's right decision about sin and evil
+- prayer: Speaking to God with trust, need, thanks, or praise
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ The Lord appeared to Abraham near the great trees of Mamre. Abraham was sitting 
 #### Ages 8-10
 The Lord appeared to Abraham near the great trees of Mamre while Abraham was sitting at the entrance of his tent in the heat of the day.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 18:2
@@ -38,9 +31,6 @@ Abraham looked up and saw three men standing nearby. When he saw them, he hurrie
 
 #### Ages 8-10
 Abraham looked up and saw three men standing nearby. When he saw them, he hurried from the tent entrance to meet them and bowed low to the ground.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -53,12 +43,6 @@ He said, "My lord, if I have found favor in your eyes, please do not pass by you
 #### Ages 8-10
 He said, "My lord, if I have found favor in your eyes, please do not pass by your servant.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 18:4
@@ -69,9 +53,6 @@ Let a little water be brought so you can wash your feet. Then rest under the tre
 
 #### Ages 8-10
 Let a little water be brought so you can wash your feet and rest under this tree.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -84,9 +65,6 @@ I will bring some bread so you can be refreshed. Then you may go on your way, si
 #### Ages 8-10
 Let me bring some bread so you can be refreshed. Then you may go on your way, since you have come to your servant." They said, "Very well. Do as you have said."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:6
@@ -97,9 +75,6 @@ Abraham hurried into the tent to Sarah and said, "Quick! Get fine flour, knead i
 
 #### Ages 8-10
 So Abraham hurried into the tent to Sarah and said, "Quick, get three seahs of fine flour, knead it, and make bread."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -112,9 +87,6 @@ Then Abraham ran to the herd, chose a tender young calf, and gave it to a servan
 #### Ages 8-10
 Then Abraham ran to the herd, chose a tender, good calf, and gave it to a servant, who hurried to prepare it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:8
@@ -125,9 +97,6 @@ Abraham brought curds, milk, and the calf that had been prepared. He set the foo
 
 #### Ages 8-10
 Abraham brought curds, milk, and the calf that had been prepared. He set the food before them and stood nearby under the tree while they ate.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -140,9 +109,6 @@ They asked him, "Where is your wife Sarah?" Abraham said, "There, in the tent."
 #### Ages 8-10
 They asked him, "Where is your wife Sarah?" Abraham said, "There, in the tent."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:10
@@ -153,9 +119,6 @@ Then one of them said, "I will surely return to you about this time next year, a
 
 #### Ages 8-10
 Then one of them said, "I will surely return to you about this time next year, and Sarah your wife will have a son." Sarah was listening at the tent entrance behind him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -168,9 +131,6 @@ Abraham and Sarah were very old, and Sarah was past the age for having children.
 #### Ages 8-10
 Abraham and Sarah were already very old, and Sarah was past the age of having children.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:12
@@ -182,12 +142,6 @@ So Sarah laughed to herself and said, "After I am worn out and my lord is old, w
 #### Ages 8-10
 So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I now have this pleasure?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 18:13
@@ -198,13 +152,6 @@ Then the Lord said to Abraham, "Why did Sarah laugh and say, 'Will I really have
 
 #### Ages 8-10
 Then the Lord said to Abraham, "Why did Sarah laugh and say, 'Will I really have a child now that I am old?'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -218,11 +165,10 @@ Is anything too hard for the Lord? I will return to you at the appointed time ne
 Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a key question about God's power; keep it clear and memorable.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Luke 1:37
 
 ---
 
@@ -235,9 +181,6 @@ Sarah was afraid, so she said, "I did not laugh." But he said, "Yes, you did lau
 #### Ages 8-10
 Sarah was afraid, so she lied and said, "I did not laugh." But he said, "Yes, you did laugh."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:16
@@ -248,9 +191,6 @@ When the men got up to leave, they looked down toward Sodom. Abraham walked with
 
 #### Ages 8-10
 When the men got up to leave, they looked down toward Sodom, and Abraham walked with them to send them on their way.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -263,13 +203,6 @@ Then the Lord said, "Shall I hide from Abraham what I am about to do?
 #### Ages 8-10
 Then the Lord said, "Shall I hide from Abraham what I am about to do?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 18:18
@@ -280,12 +213,6 @@ Abraham will surely become a great and powerful nation, and all nations on earth
 
 #### Ages 8-10
 Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
 
 ---
 
@@ -298,13 +225,8 @@ I have chosen him so he will teach his children and household after him to keep 
 #### Ages 8-10
 I have chosen him so that he will direct his children and household after him to keep the way of the Lord by doing what is right and just. Then the Lord will bring about for Abraham what he promised him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- command: Something God tells someone to do
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- promise: Words someone says and keeps
 
 ---
 
@@ -317,14 +239,6 @@ Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their s
 #### Ages 8-10
 Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very serious.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 18:21
@@ -335,9 +249,6 @@ I will go down and see if what they have done is as bad as the outcry that has c
 
 #### Ages 8-10
 I will go down and see whether what they have done is as bad as the outcry that has reached me. If not, I will know."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -350,13 +261,6 @@ The men turned away and went toward Sodom, but Abraham remained standing before 
 #### Ages 8-10
 The men turned away and went toward Sodom, but Abraham remained standing before the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 18:23
@@ -367,9 +271,6 @@ Abraham came near and said, "Will you really sweep away the righteous with the w
 
 #### Ages 8-10
 Abraham came near and said, "Will you really sweep away the righteous with the wicked?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -382,9 +283,6 @@ What if there are fifty righteous people in the city? Will you sweep it away and
 #### Ages 8-10
 What if there are fifty righteous people in the city? Will you really sweep it away and not spare the place for their sake?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 18:25
@@ -395,9 +293,6 @@ Far be it from you to do such a thing, to kill the righteous with the wicked. Wi
 
 #### Ages 8-10
 Far be it from you to do such a thing, to kill the righteous with the wicked. Will not the Judge of all the earth do what is right?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -410,13 +305,6 @@ The Lord said, "If I find fifty righteous people in Sodom, I will spare the whol
 #### Ages 8-10
 The Lord said, "If I find fifty righteous people in Sodom, I will spare the whole place for their sake."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 18:27
@@ -427,12 +315,6 @@ Then Abraham said, "I have been bold to speak to the Lord, though I am only dust
 
 #### Ages 8-10
 Then Abraham said, "I have been bold to speak to the Lord, though I am only dust and ashes.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -445,12 +327,6 @@ What if there are five fewer than fifty righteous people? Will you destroy the w
 #### Ages 8-10
 What if there are five fewer than fifty righteous people? Will you destroy the whole city because of five?" The Lord said, "If I find forty-five there, I will not destroy it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 18:29
@@ -461,12 +337,6 @@ Abraham spoke again, "What if only forty are found there?" The Lord said, "For t
 
 #### Ages 8-10
 Abraham spoke again, "What if only forty are found there?" The Lord said, "For the sake of forty, I will not do it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -479,12 +349,6 @@ Then Abraham said, "Please do not be angry, Lord, but let me speak. What if only
 #### Ages 8-10
 Then Abraham said, "Please do not be angry, Lord, but let me speak. What if only thirty are found there?" The Lord said, "If I find thirty there, I will not do it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 18:31
@@ -495,12 +359,6 @@ Abraham said, "I have been bold to speak to the Lord. What if only twenty are fo
 
 #### Ages 8-10
 Abraham said, "I have been bold to speak to the Lord. What if only twenty are found there?" The Lord said, "For the sake of twenty, I will not destroy it."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -513,12 +371,6 @@ Then Abraham said, "Please do not be angry, Lord, but let me speak just once mor
 #### Ages 8-10
 Then Abraham said, "Please do not be angry, Lord, but let me speak just once more. What if only ten are found there?" The Lord said, "For the sake of ten, I will not destroy it."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 18:33
@@ -530,43 +382,33 @@ When the Lord finished speaking with Abraham, he left, and Abraham returned home
 #### Ages 8-10
 When the Lord finished speaking with Abraham, he left, and Abraham returned home.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Genesis 18 is a draft resource chapter. The chapter opens with "The Lord appeared to Abraham near the great trees of Mamre while Abraham was sitting at the entra...," moves through "Then the Lord said, "Shall I hide from Abraham what I am about to do?," and closes with "When the Lord finished speaking with Abraham, he left, and Abraham returned home.." Review this summary for fuller theological detail before approval.
+The Lord appears to Abraham by the oaks of Mamre, promises Sarah a son, and lets Abraham plead for mercy before Sodom is judged.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-The Lord appeared to Abraham near the great trees of Mamre. Abraham was sitting at the entrance of his tent in the heat of the day. - Genesis 18:1
+Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son." - Genesis 18:14
 
 ### Ages 8-10
-The Lord appeared to Abraham near the great trees of Mamre while Abraham was sitting at the entrance of his tent in the heat of the day. - Genesis 18:1
+Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son." - Genesis 18:14
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 18 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 18 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

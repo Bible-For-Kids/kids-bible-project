@@ -1,14 +1,14 @@
 # Genesis Chapter 27
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 27 and should be reviewed before approval.
+Genesis 27 continues the covenant family story. Jacob deceives Isaac and receives the blessing meant for Esau, bringing grief, anger, and danger into the family.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- command: Something God tells someone to do
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
+- deceit: A lie or trick meant to hide the truth
+- blessing: Good spoken or given by God
+- firstborn: The child born first in a family
+- family: People joined by parents, children, marriage, or covenant promise
+- fear: Deep concern, dread, or awe
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ When Isaac was old, his eyes had grown dim so that he could not see. He called E
 #### Ages 8-10
 When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said, "My son." Esau answered, "Here I am."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:2
@@ -34,9 +31,6 @@ Isaac said, "See now, I am old, and I do not know the day when I will die."
 
 #### Ages 8-10
 Isaac said, "See now, I am old, and I do not know the day of my death."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -49,9 +43,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Please take your weapons, your quiver and your bow, and go out to the field to hunt some game for me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:4
@@ -62,9 +53,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Prepare the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -77,9 +65,6 @@ Rebekah heard Isaac speaking to Esau his son. Then Esau went out into the field 
 #### Ages 8-10
 Rebekah heard Isaac speaking to Esau his son. Esau went to the field to hunt game and bring it back.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:6
@@ -90,12 +75,6 @@ Rebekah spoke to Jacob her son and said, "Listen. I heard your father speaking t
 
 #### Ages 8-10
 Rebekah spoke to Jacob her son and said, "I heard your father speaking to Esau your brother."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -108,13 +87,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He said, 'Bring me game and prepare tasty food for me, so I may eat and bless you before the Lord before my death.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 27:8
@@ -125,12 +97,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Now therefore, my son, listen to my voice and do what I command you."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
 
 ---
 
@@ -143,9 +109,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Go to the flock and bring me two good young goats. I will prepare them as tasty food for your father, the kind he loves."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:10
@@ -156,9 +119,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You shall bring it to your father, so he may eat and bless you before his death."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -171,12 +131,6 @@ Jacob said to Rebekah his mother, "But Esau my brother is a hairy man, and I am 
 #### Ages 8-10
 Jacob said to Rebekah his mother, "Esau my brother is a hairy man, and I am a smooth man."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:12
@@ -188,11 +142,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Perhaps my father will feel me, and I will seem to him like a deceiver. Then I would bring a curse on myself and not a blessing."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessing: Good that comes from God
+- blessing: Good spoken or given by God
 
 ---
 
@@ -205,9 +156,6 @@ His mother said to him, "Let your curse be on me, my son. Only listen to my voic
 #### Ages 8-10
 His mother said to him, "Let your curse be on me, my son. Only obey my voice and go get them for me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:14
@@ -218,12 +166,6 @@ So Jacob went and got the goats and brought them to his mother. His mother made 
 
 #### Ages 8-10
 Jacob went, got the goats, and brought them to his mother. His mother prepared the tasty food his father loved.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -236,12 +178,6 @@ Rebekah took the fine clothes of Esau her older son, which were with her in the 
 #### Ages 8-10
 Rebekah took the good clothes of Esau her older son, which were with her in the house, and put them on Jacob her younger son.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:16
@@ -252,12 +188,6 @@ She put the skins of the young goats on Jacob's hands and on the smooth part of 
 
 #### Ages 8-10
 She put the skins of the young goats on his hands and on the smooth part of his neck.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -270,12 +200,6 @@ Then she put the tasty food and the bread she had prepared into the hands of her
 #### Ages 8-10
 Then she gave the tasty food and bread she had prepared to her son Jacob.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:18
@@ -286,12 +210,6 @@ Jacob went in to his father and said, "My father." Isaac answered, "Here I am. W
 
 #### Ages 8-10
 Jacob went to his father and said, "My father." Isaac said, "Here I am. Who are you, my son?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -304,11 +222,8 @@ Jacob said to his father, "I am Esau your firstborn. I have done as you told me.
 #### Ages 8-10
 Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so your soul may bless me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- firstborn: The child born first in a family
 
 ---
 
@@ -321,15 +236,6 @@ Isaac said to his son, "How did you find it so quickly, my son?" Jacob said, "Be
 #### Ages 8-10
 Isaac said to his son, "How did you find it so quickly, my son?" Jacob said, "Because the Lord your God brought it to me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 27:21
@@ -340,12 +246,6 @@ Isaac said to Jacob, "Come near, please, so I may touch you, my son, and know wh
 
 #### Ages 8-10
 Isaac said to Jacob, "Please come near, so I may feel you, my son, and know whether you are truly my son Esau or not."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -358,12 +258,6 @@ Jacob came near to Isaac his father. Isaac touched him and said, "The voice is J
 #### Ages 8-10
 Jacob came near to Isaac his father. Isaac felt him and said, "The voice is Jacob's voice, but the hands are Esau's hands."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:23
@@ -374,13 +268,6 @@ Isaac did not recognize Jacob, because Jacob's hands were hairy like Esau's hand
 
 #### Ages 8-10
 Isaac did not recognize him, because his hands were hairy like Esau's hands. So Isaac blessed him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Jacob: The man God also named Israel
 
 ---
 
@@ -393,12 +280,6 @@ Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am."
 #### Ages 8-10
 Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:25
@@ -409,12 +290,6 @@ Isaac said, "Bring the food near to me, and I will eat my son's wild game, so my
 
 #### Ages 8-10
 Isaac said, "Bring it near to me, and I will eat my son's game, so my soul may bless you." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -427,9 +302,6 @@ Then Isaac his father said to him, "Come near now and kiss me, my son."
 #### Ages 8-10
 Isaac his father said to him, "Come near now and kiss me, my son."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:27
@@ -441,15 +313,6 @@ Jacob came near and kissed him. Isaac smelled the smell of his clothes and bless
 #### Ages 8-10
 Jacob came near and kissed him. Isaac smelled his clothes and blessed him, saying, "See, the smell of my son is like the smell of a field that the Lord has blessed."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 27:28
@@ -460,12 +323,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "May God give you the dew of heaven, the richness of the earth, and plenty of grain and wine."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -479,12 +336,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Let peoples serve you and nations bow down to you. Be lord over your brothers, and let your mother's sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- cursed: Placed under judgment instead of blessing
-- Lord: God's covenant name used in many English Bibles
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -497,12 +349,8 @@ As soon as Isaac finished blessing Jacob, and Jacob had barely gone out from his
 #### Ages 8-10
 As soon as Isaac finished blessing Jacob, and Jacob had barely left his father's presence, Esau his brother came in from hunting.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessing: Good that comes from God
-- Jacob: The man God also named Israel
+- blessing: Good spoken or given by God
 
 ---
 
@@ -515,9 +363,6 @@ Esau had also made tasty food and brought it to his father. He said, "Let my fat
 #### Ages 8-10
 Esau also prepared tasty food and brought it to his father. He said, "Let my father arise and eat his son's game, so your soul may bless me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:32
@@ -529,8 +374,8 @@ Isaac his father said to him, "Who are you?" Esau answered, "I am your son, your
 #### Ages 8-10
 Isaac his father said to him, "Who are you?" He answered, "I am your son, your firstborn, Esau."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- firstborn: The child born first in a family
 
 ---
 
@@ -543,12 +388,6 @@ Isaac trembled very greatly and said, "Who was it, then, who hunted game and bro
 #### Ages 8-10
 Isaac trembled greatly and said, "Who was it, then, who hunted game and brought it to me? I ate it all before you came, and I blessed him. Yes, and he shall be blessed."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-
 ---
 
 ### Genesis 27:34
@@ -559,9 +398,6 @@ When Esau heard his father's words, he cried out with a great and very bitter cr
 
 #### Ages 8-10
 When Esau heard his father's words, he cried with a great and bitter cry and said, "Bless me, even me also, O my father!"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -574,11 +410,9 @@ Isaac said, "Your brother came with trickery and has taken away your blessing."
 #### Ages 8-10
 Isaac said, "Your brother came with deceit and has taken away your blessing."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessing: Good that comes from God
+- deceit: A lie or trick meant to hide the truth
+- blessing: Good spoken or given by God
 
 ---
 
@@ -591,12 +425,8 @@ Esau said, "Is he not rightly named Jacob? He has pushed me aside these two time
 #### Ages 8-10
 Esau said, "Is he not rightly named Jacob? He has pushed me aside these two times. He took away my birthright, and now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessing: Good that comes from God
-- Jacob: The man God also named Israel
+- blessing: Good spoken or given by God
 
 ---
 
@@ -609,12 +439,6 @@ Isaac answered Esau, "See, I have made him your lord, and I have given all his b
 #### Ages 8-10
 Isaac answered Esau, "I have made him your lord and given all his brothers to him as servants. I have sustained him with grain and wine. What can I do now for you, my son?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 27:38
@@ -626,11 +450,8 @@ Esau said to his father, "Do you have only one blessing, my father? Bless me, ev
 #### Ages 8-10
 Esau said to his father, "Do you have only one blessing, my father? Bless me, even me also, O my father!" Esau lifted up his voice and wept.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessing: Good that comes from God
+- blessing: Good spoken or given by God
 
 ---
 
@@ -643,9 +464,6 @@ Isaac his father answered him and said, "Your dwelling shall be of the richness 
 #### Ages 8-10
 Isaac his father answered him, "Your dwelling shall be of the richness of the earth and of the dew of heaven from above."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:40
@@ -656,9 +474,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "By your sword you shall live, and you shall serve your brother. But when you have dominion, you shall break his yoke from off your neck."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -671,13 +486,8 @@ Esau hated Jacob because of the blessing his father had given him. Esau said in 
 #### Ages 8-10
 Esau hated Jacob because of the blessing his father had given him. Esau said in his heart, "The days of mourning for my father are near. Then I will kill my brother Jacob."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- blessing: Good that comes from God
-- Jacob: The man God also named Israel
+- blessing: Good spoken or given by God
 
 ---
 
@@ -690,12 +500,6 @@ The words of Esau her older son were told to Rebekah. She sent for Jacob her you
 #### Ages 8-10
 Rebekah was told the words of Esau her older son. She sent for Jacob her younger son and said, "Your brother Esau is comforting himself by planning to kill you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 27:43
@@ -706,9 +510,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Now therefore, my son, obey my voice. Arise and flee to my brother Laban in Haran."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -721,9 +522,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Stay with him a few days, until your brother's fury turns away."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 27:45
@@ -734,9 +532,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "When your brother's anger turns away from you and he forgets what you have done to him, I will send and bring you back. Why should I lose both of you in one day?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -749,42 +544,33 @@ Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. 
 #### Ages 8-10
 Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife from the daughters of Heth, like these women of the land, what good will my life be to me?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ## Chapter Summary
-Genesis 27 is a draft resource chapter. The chapter opens with "When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son a...," moves through "Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am.," and closes with "Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a...." Review this summary for fuller theological detail before approval.
+Jacob deceives Isaac and receives the blessing meant for Esau, bringing grief, anger, and danger into the family.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-When Isaac was old, his eyes had grown dim so that he could not see. He called Esau, his oldest son, and said, "My son." Esau answered, "Here I am." - Genesis 27:1
+"May peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother's sons bow down to you. May everyone who curses you be cursed, and everyone who blesses you be blessed." - Genesis 27:29
 
 ### Ages 8-10
-When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said, "My son." Esau answered, "Here I am." - Genesis 27:1
+"Let peoples serve you and nations bow down to you. Be lord over your brothers, and let your mother's sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you." - Genesis 27:29
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 27 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

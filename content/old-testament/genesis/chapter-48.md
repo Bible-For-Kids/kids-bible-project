@@ -1,14 +1,14 @@
 # Genesis Chapter 48
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 48 and should be reviewed before approval.
+Genesis 48 continues the covenant family story. Jacob blesses Joseph's sons, placing Ephraim before Manasseh, and gives them a place among his own sons.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- Egypt: The land where Israel had been enslaved
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- blessing: Good spoken or given by God
+- adoption: Being received and counted as part of a family
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
+- faith: Trust in God and in what he has spoken
 
 ## Verse-by-Verse Translation
 
@@ -21,8 +21,9 @@ After these things, someone told Joseph, "Your father is sick." Joseph took his 
 #### Ages 8-10
 After these things, Joseph was told, "Your father is sick." So he took his two sons, Manasseh and Ephraim, with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -35,13 +36,6 @@ Someone told Jacob, "Your son Joseph has come to you." Israel gathered his stren
 #### Ages 8-10
 Jacob was told, "Your son Joseph has come to you." Israel strengthened himself and sat up on the bed.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 48:3
@@ -52,14 +46,6 @@ Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan 
 
 #### Ages 8-10
 Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan and blessed me.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -72,9 +58,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "He said to me, 'I will make you fruitful and multiply you. I will make you into a company of peoples, and I will give this land to your offspring after you as an everlasting possession.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 48:5
@@ -86,11 +69,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Now your two sons, Ephraim and Manasseh, who were born to you in Egypt before I came to you here, are mine. Ephraim and Manasseh shall be mine, as Reuben and Simeon are mine.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -103,9 +84,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Any children born to you after them shall be yours. In their inheritance, they will be called by the names of their brothers.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 48:7
@@ -116,9 +94,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "When I came from Padan, Rachel died beside me in the land of Canaan on the way, while there was still some distance to Ephrath. I buried her there on the way to Ephrath, that is, Bethlehem."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -131,12 +106,6 @@ Israel saw Joseph's sons and asked, "Who are these?"
 #### Ages 8-10
 When Israel saw Joseph's sons, he said, "Who are these?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 48:9
@@ -147,13 +116,6 @@ Joseph said to his father, "They are my sons, whom God has given me here." Israe
 
 #### Ages 8-10
 Joseph said to his father, "They are my sons, whom God has given me here." Israel said, "Please bring them to me, and I will bless them."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -166,12 +128,6 @@ Israel's eyes were dim because of his age, and he could not see well. Joseph bro
 #### Ages 8-10
 Israel's eyes were dim because of age, so he could not see well. Joseph brought them near to him, and Israel kissed them and embraced them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 48:11
@@ -182,13 +138,6 @@ Israel said to Joseph, "I did not think I would see your face again, and now God
 
 #### Ages 8-10
 Israel said to Joseph, "I did not expect to see your face again, and now God has also shown me your offspring."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
 
 ---
 
@@ -201,12 +150,6 @@ Joseph brought them out from between Israel's knees, and Joseph bowed with his f
 #### Ages 8-10
 Joseph brought them out from between Israel's knees, and he bowed with his face to the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 48:13
@@ -218,11 +161,9 @@ Joseph took them both, Ephraim in his right hand toward Israel's left hand, and 
 #### Ages 8-10
 Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near to him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -235,11 +176,9 @@ But Israel crossed his hands. He stretched out his right hand and put it on Ephr
 #### Ages 8-10
 But Israel stretched out his right hand and put it on Ephraim's head, though Ephraim was the younger, and his left hand on Manasseh's head, crossing his hands though Manasseh was the firstborn.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -253,12 +192,7 @@ Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaa
 Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has shepherded me all my life to this day,
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -271,12 +205,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "the Angel who has redeemed me from all evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into a multitude on the earth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-
 ---
 
 ### Genesis 48:17
@@ -288,8 +216,9 @@ When Joseph saw that his father had put his right hand on Ephraim's head, he was
 #### Ages 8-10
 When Joseph saw that his father had placed his right hand on Ephraim's head, he was displeased. He took his father's hand to move it from Ephraim's head to Manasseh's head.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -302,9 +231,6 @@ Joseph said to his father, "Not so, my father. This one is the firstborn. Put yo
 #### Ages 8-10
 Joseph said to his father, "Not so, my father. This one is the firstborn. Put your right hand on his head."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 48:19
@@ -316,8 +242,8 @@ But his father refused and said, "I know, my son, I know. Manasseh also will bec
 #### Ages 8-10
 But his father refused and said, "I know, my son, I know. Manasseh also will become a people, and he also will be great. Nevertheless, his younger brother will be greater than he, and his offspring will become a multitude of nations."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -330,13 +256,9 @@ Israel blessed them that day, saying, "By you Israel will bless, saying, 'May Go
 #### Ages 8-10
 Israel blessed them that day, saying, "By you Israel will bless, saying, 'May God make you like Ephraim and Manasseh.'" So he put Ephraim before Manasseh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
+- Ephraim: Joseph's younger son whom Jacob blessed before Manasseh
+- Manasseh: Joseph's older son whom Jacob blessed after Ephraim
 
 ---
 
@@ -349,13 +271,6 @@ Then Israel said to Joseph, "Look, I am dying, but God will be with you and brin
 #### Ages 8-10
 Then Israel said to Joseph, "Look, I am dying, but God will be with you and bring you back to the land of your fathers.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ### Genesis 48:22
@@ -367,39 +282,33 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "I have given you one portion more than your brothers, which I took from the Amorite with my sword and my bow."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 48 is a draft resource chapter. The chapter opens with "After these things, Joseph was told, "Your father is sick." So he took his two sons, Manasseh and...," moves through "Joseph brought them out from between Israel's knees, and he bowed with his face to the earth.," and closes with "I have given you one portion more than your brothers, which I took from the Amorite with my sword...." Review this summary for fuller theological detail before approval.
+Jacob blesses Joseph's sons, placing Ephraim before Manasseh, and gives them a place among his own sons.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-After these things, someone told Joseph, "Your father is sick." Joseph took his two sons, Manasseh and Ephraim, with him. - Genesis 48:1
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life to this day, - Genesis 48:15
 
 ### Ages 8-10
-After these things, Joseph was told, "Your father is sick." So he took his two sons, Manasseh and Ephraim, with him. - Genesis 48:1
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has shepherded me all my life to this day, - Genesis 48:15
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 48 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 48 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

@@ -1,12 +1,14 @@
 # Genesis Chapter 29
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 29 and should be reviewed before approval.
+Genesis 29 continues the covenant family story. Jacob arrives in Haran, marries Leah and Rachel through Laban's deceit, and the Lord sees Leah and gives her sons.
 
 ## Important Keywords
-- Jacob: The man God also named Israel
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- deceit: A lie or trick meant to hide the truth
+- marriage: The covenant joining of husband and wife
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
+- mercy: Kind help given to someone in need or guilt
 
 ## Verse-by-Verse Translation
 
@@ -19,12 +21,6 @@ Then Jacob lifted his feet and continued his journey until he came to the land o
 #### Ages 8-10
 Then Jacob continued on his journey and came to the land of the people of the east.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 29:2
@@ -35,9 +31,6 @@ He looked and saw a well in a field. Three flocks of sheep were lying beside it,
 
 #### Ages 8-10
 He looked and saw a well in the field, and three flocks of sheep were lying by it. The flocks were watered from that well, and a large stone covered the well's mouth.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -50,9 +43,6 @@ When all the flocks gathered there, the shepherds would roll the stone away from
 #### Ages 8-10
 When all the flocks gathered there, the shepherds rolled the stone from the well's mouth, watered the sheep, and then put the stone back in its place.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 29:4
@@ -63,12 +53,6 @@ Jacob said to the shepherds, "My brothers, where are you from?" They answered, "
 
 #### Ages 8-10
 Jacob said to them, "My brothers, where are you from?" They said, "We are from Haran."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -81,9 +65,6 @@ He said to them, "Do you know Laban, the son of Nahor?" They said, "We know him.
 #### Ages 8-10
 He said to them, "Do you know Laban, the son of Nahor?" They answered, "We know him."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 29:6
@@ -95,11 +76,8 @@ Jacob asked, "Is he well?" They answered, "He is well. And look, Rachel his daug
 #### Ages 8-10
 He asked, "Is he well?" They said, "He is well, and behold, Rachel his daughter is coming with the sheep."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -112,12 +90,6 @@ Jacob said, "Look, it is still bright day. It is not time for the animals to be 
 #### Ages 8-10
 Jacob said, "Look, it is still high day, and it is not time for the livestock to be gathered. Water the sheep and go feed them."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 29:8
@@ -128,9 +100,6 @@ They said, "We cannot until all the flocks are gathered together and the stone i
 
 #### Ages 8-10
 They said, "We cannot until all the flocks are gathered and the stone is rolled from the well's mouth. Then we water the sheep."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -143,11 +112,8 @@ While Jacob was still speaking with them, Rachel came with her father's sheep, f
 #### Ages 8-10
 While he was still speaking with them, Rachel came with her father's sheep, because she kept them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -160,11 +126,8 @@ When Jacob saw Rachel, the daughter of Laban his mother's brother, and saw Laban
 #### Ages 8-10
 When Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, he went near, rolled the stone from the well's mouth, and watered Laban's flock.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -177,11 +140,8 @@ Jacob kissed Rachel and lifted up his voice and wept.
 #### Ages 8-10
 Jacob kissed Rachel, lifted up his voice, and wept.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -194,11 +154,8 @@ Jacob told Rachel that he was her father's relative and that he was Rebekah's so
 #### Ages 8-10
 Jacob told Rachel that he was her father's relative and Rebekah's son. She ran and told her father.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -211,12 +168,6 @@ When Laban heard the news about Jacob, his sister's son, he ran to meet him. Lab
 #### Ages 8-10
 When Laban heard the news about Jacob, his sister's son, he ran to meet him, embraced him, kissed him, and brought him to his house. Jacob told Laban all these things.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 29:14
@@ -227,12 +178,6 @@ Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him 
 
 #### Ages 8-10
 Laban said to him, "Surely you are my bone and my flesh." Jacob stayed with him for a month.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -245,12 +190,6 @@ Then Laban said to Jacob, "Because you are my relative, should you serve me for 
 #### Ages 8-10
 Laban said to Jacob, "Because you are my relative, should you serve me for nothing? Tell me, what shall your wages be?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 29:16
@@ -262,8 +201,9 @@ Laban had two daughters. The name of the older daughter was Leah, and the name o
 #### Ages 8-10
 Laban had two daughters. The older was named Leah, and the younger was named Rachel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -276,8 +216,9 @@ Leah had tender eyes, but Rachel was beautiful and well favored.
 #### Ages 8-10
 Leah had tender eyes, but Rachel was beautiful and well favored.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -290,11 +231,8 @@ Jacob loved Rachel, so he said, "I will serve you seven years for Rachel, your y
 #### Ages 8-10
 Jacob loved Rachel and said, "I will serve you seven years for Rachel your younger daughter."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -307,9 +245,6 @@ Laban said, "It is better for me to give her to you than to give her to another 
 #### Ages 8-10
 Laban said, "It is better that I give her to you than to another man. Stay with me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 29:20
@@ -321,11 +256,8 @@ So Jacob served seven years for Rachel. Because he loved her, the years seemed t
 #### Ages 8-10
 Jacob served seven years for Rachel, and they seemed to him like only a few days because of his love for her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -338,12 +270,6 @@ Then Jacob said to Laban, "Give me my wife, for my days of service are finished,
 #### Ages 8-10
 Jacob said to Laban, "Give me my wife, for my days are fulfilled, so I may be with her as my wife."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 29:22
@@ -354,9 +280,6 @@ Laban gathered together all the men of the place and made a feast.
 
 #### Ages 8-10
 Laban gathered all the men of the place and made a feast.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -369,11 +292,8 @@ In the evening, Laban took Leah his daughter and brought her to Jacob, and she b
 #### Ages 8-10
 In the evening, Laban took Leah his daughter and brought her to Jacob, and she became his wife.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
@@ -386,8 +306,8 @@ Laban also gave his servant woman Zilpah to Leah to serve her.
 #### Ages 8-10
 Laban also gave Zilpah his servant woman to his daughter Leah to serve her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
@@ -400,11 +320,9 @@ In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have
 #### Ages 8-10
 In the morning, behold, it was Leah. Jacob said to Laban, "What is this you have done to me? Did I not serve you for Rachel? Why then have you deceived me?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -417,9 +335,6 @@ Laban said, "It must not be done this way in our country, to give the younger be
 #### Ages 8-10
 Laban said, "It is not done this way in our country, to give the younger before the firstborn."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 29:27
@@ -431,8 +346,9 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Complete her week, and we will give you Rachel also for the service you will serve with me for seven more years."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -445,11 +361,9 @@ Jacob did so and finished Leah's week. Then Laban gave him Rachel his daughter a
 #### Ages 8-10
 Jacob did so and completed Leah's week. Then Laban gave him Rachel his daughter as a wife also.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -462,8 +376,8 @@ Laban also gave his servant woman Bilhah to Rachel to serve her.
 #### Ages 8-10
 Laban also gave Bilhah his servant woman to his daughter Rachel to serve her.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -476,11 +390,9 @@ Jacob also received Rachel as his wife. He loved Rachel more than Leah, and he s
 #### Ages 8-10
 Jacob also received Rachel as his wife. He loved Rachel more than Leah and served Laban seven more years.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -493,12 +405,9 @@ When the Lord saw that Leah was unloved, he gave her children, but Rachel had no
 #### Ages 8-10
 When the Lord saw that Leah was unloved, he gave her children, but Rachel had no children.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Leah: Jacob's first wife and the mother of several sons of Israel
+- Rachel: Jacob's loved wife and the mother of Joseph and Benjamin
 
 ---
 
@@ -511,12 +420,8 @@ Leah conceived and bore a son. She named him Reuben, for she said, "Surely the L
 #### Ages 8-10
 Leah conceived and bore a son. She named him Reuben, saying, "Surely the Lord has looked on my affliction. Now my husband will love me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
@@ -529,12 +434,8 @@ Leah conceived again and bore a son. She said, "Because the Lord has heard that 
 #### Ages 8-10
 She conceived again and bore a son. She said, "Because the Lord has heard that I was unloved, he has given me this son also." She named him Simeon.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
@@ -547,8 +448,8 @@ Leah conceived again and bore a son. She said, "Now this time my husband will be
 #### Ages 8-10
 She conceived again and bore a son. She said, "Now this time my husband will be joined to me, because I have borne him three sons." Therefore he was named Levi.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
@@ -562,42 +463,38 @@ Leah conceived again and bore a son. She said, "Now I will praise the Lord." So 
 She conceived again and bore a son. She said, "Now I will praise the Lord." Therefore she named him Judah. Then she stopped bearing children for a time.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- Leah: Jacob's first wife and the mother of several sons of Israel
 
 ---
 
 ## Chapter Summary
-Genesis 29 is a draft resource chapter. The chapter opens with "Then Jacob continued on his journey and came to the land of the people of the east.," moves through "Jacob loved Rachel and said, "I will serve you seven years for Rachel your younger daughter.," and closes with "She conceived again and bore a son. She said, "Now I will praise the Lord." Therefore she named h...." Review this summary for fuller theological detail before approval.
+Jacob arrives in Haran, marries Leah and Rachel through Laban's deceit, and the Lord sees Leah and gives her sons.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Then Jacob lifted his feet and continued his journey until he came to the land of the people of the east. - Genesis 29:1
+Leah conceived again and bore a son. She said, "Now I will praise the Lord." So she named him Judah. Then she stopped bearing children for a time. - Genesis 29:35
 
 ### Ages 8-10
-Then Jacob continued on his journey and came to the land of the people of the east. - Genesis 29:1
+She conceived again and bore a son. She said, "Now I will praise the Lord." Therefore she named him Judah. Then she stopped bearing children for a time. - Genesis 29:35
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 29 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 29 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

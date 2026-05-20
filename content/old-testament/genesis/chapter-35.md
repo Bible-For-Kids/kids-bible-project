@@ -1,14 +1,14 @@
 # Genesis Chapter 35
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 35 and should be reviewed before approval.
+Genesis 35 continues the covenant family story. God sends Jacob back to Bethel, renews his name Israel and the covenant promises, and the chapter records Rachel and Isaac's deaths.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Bethel: The place Jacob named "house of God"
+- idol: A false god people worship instead of the true God
+- promise: Words someone says and keeps
+- Israel: The name God gave Jacob, and later the name of his family people
+- death: The end of earthly life
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,8 @@ God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to
 #### Ages 8-10
 God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -40,12 +35,6 @@ Then Jacob said to his household and to everyone with him, "Put away the foreign
 #### Ages 8-10
 Then Jacob said to his household and to everyone with him, "Put away the foreign gods among you, purify yourselves, and change your clothes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:3
@@ -57,12 +46,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Let us get up and go to Bethel. I will make an altar there to God, who answered me in the day of my distress and was with me on the way I went."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -75,12 +60,6 @@ They gave Jacob all the foreign gods they had and the earrings from their ears. 
 #### Ages 8-10
 They gave Jacob all the foreign gods they had and the earrings in their ears, and Jacob hid them under the oak near Shechem.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:5
@@ -91,13 +70,6 @@ Then they traveled on. The fear of God came upon the cities around them, so no o
 
 #### Ages 8-10
 Then they set out. The terror of God fell on the cities around them, so the people did not chase Jacob's sons.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -110,11 +82,8 @@ Jacob and all the people with him came to Luz, that is, Bethel, in the land of C
 #### Ages 8-10
 Jacob came to Luz, that is, Bethel, in the land of Canaan, he and all the people who were with him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Jacob: The man God also named Israel
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -127,14 +96,6 @@ Jacob built an altar there and called the place El-beth-el, because God had appe
 #### Ages 8-10
 He built an altar there and called the place El-beth-el, because God had appeared to him there when he fled from his brother.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:8
@@ -146,8 +107,8 @@ Deborah, Rebekah's nurse, died and was buried below Bethel under an oak tree. Th
 #### Ages 8-10
 Deborah, Rebekah's nurse, died and was buried below Bethel under an oak. The place was named Allon-bachuth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -160,14 +121,6 @@ God appeared to Jacob again after he came from Padan-aram, and God blessed him.
 #### Ages 8-10
 God appeared to Jacob again after he came from Padan-aram, and God blessed him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:10
@@ -179,13 +132,8 @@ God said to him, "Your name is Jacob. You will no longer be called Jacob; your n
 #### Ages 8-10
 God said to him, "Your name is Jacob. Your name will no longer be called Jacob, but Israel will be your name." So God named him Israel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Israel: The name God gave Jacob, and later the name of his family people
 
 ---
 
@@ -199,10 +147,7 @@ God said to him, "I am God Almighty. Have children and grow into many people. A 
 God said to him, "I am God Almighty. Be fruitful and multiply. A nation and a company of nations will come from you, and kings will come from your family line.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -215,9 +160,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The land I gave to Abraham and Isaac I will give to you, and I will give the land to your children after you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 35:13
@@ -228,13 +170,6 @@ Then God went up from Jacob at the place where he had spoken with him.
 
 #### Ages 8-10
 Then God went up from him at the place where he had spoken with him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
 
 ---
 
@@ -247,14 +182,6 @@ Jacob set up a stone pillar in the place where God had spoken with him. He poure
 #### Ages 8-10
 Jacob set up a pillar of stone in the place where God had spoken with him. He poured a drink offering on it and poured oil on it.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
-- offering: A gift brought to the Lord in worship
-
 ---
 
 ### Genesis 35:15
@@ -266,12 +193,8 @@ Jacob named the place where God had spoken with him Bethel.
 #### Ages 8-10
 Jacob named the place where God had spoken with him Bethel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Jacob: The man God also named Israel
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -284,8 +207,8 @@ Then they traveled from Bethel. When they were still some distance from Ephrath,
 #### Ages 8-10
 They traveled on from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and her labor was difficult.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Bethel: The place Jacob named "house of God"
 
 ---
 
@@ -298,9 +221,6 @@ While Rachel was having hard labor, the midwife said to her, "Do not be afraid. 
 #### Ages 8-10
 During her difficult labor, the midwife said to her, "Do not be afraid, because you have another son."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 35:18
@@ -311,9 +231,6 @@ As Rachel's life was leaving her, for she died, she named the baby Ben-oni. But 
 
 #### Ages 8-10
 As Rachel's life was leaving her, for she died, she named him Ben-oni. But his father named him Benjamin.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -326,9 +243,6 @@ Rachel died and was buried on the way to Ephrath, that is, Bethlehem.
 #### Ages 8-10
 Rachel died and was buried on the way to Ephrath, that is, Bethlehem.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 35:20
@@ -339,12 +253,6 @@ Jacob set up a pillar over her grave. That is the pillar of Rachel's grave to th
 
 #### Ages 8-10
 Jacob set up a pillar over her grave. It is the pillar of Rachel's grave to this day.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -357,11 +265,8 @@ Israel traveled on and set up his tent beyond the tower of Edar.
 #### Ages 8-10
 Israel traveled on and spread his tent beyond the tower of Edar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
+- Israel: The name God gave Jacob, and later the name of his family people
 
 ---
 
@@ -374,12 +279,8 @@ While Israel lived in that land, Reuben did a wrong thing with Bilhah, his fathe
 #### Ages 8-10
 While Israel lived in that land, Reuben did a wrong thing with Bilhah, his father's servant-wife, and Israel heard about it. Now Jacob's sons were twelve.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- Israel: The name God gave Jacob, and later the name of his family people
 
 ---
 
@@ -392,12 +293,6 @@ The sons of Leah were Reuben, Jacob's firstborn, Simeon, Levi, Judah, Issachar, 
 #### Ages 8-10
 The sons of Leah were Reuben, Jacob's firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:24
@@ -408,9 +303,6 @@ The sons of Rachel were Joseph and Benjamin.
 
 #### Ages 8-10
 The sons of Rachel were Joseph and Benjamin.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -423,9 +315,6 @@ The sons of Bilhah, Rachel's servant-woman, were Dan and Naphtali.
 #### Ages 8-10
 The sons of Bilhah, Rachel's servant-woman, were Dan and Naphtali.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 35:26
@@ -436,12 +325,6 @@ The sons of Zilpah, Leah's servant-woman, were Gad and Asher. These were Jacob's
 
 #### Ages 8-10
 The sons of Zilpah, Leah's servant-woman, were Gad and Asher. These were the sons of Jacob, born to him in Padan-aram.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -454,12 +337,6 @@ Jacob came to his father Isaac at Mamre, near the city of Arbah, that is, Hebron
 #### Ages 8-10
 Jacob came to his father Isaac at Mamre, at the city of Arbah, that is, Hebron, where Abraham and Isaac had lived as foreigners.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 35:28
@@ -470,9 +347,6 @@ Isaac lived one hundred eighty years.
 
 #### Ages 8-10
 Isaac lived one hundred eighty years.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -485,42 +359,33 @@ Isaac breathed his last and died. He was gathered to his people, old and full of
 #### Ages 8-10
 Isaac breathed his last and died, and he was gathered to his people, old and full of days. His sons Esau and Jacob buried him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
-
 ---
 
 ## Chapter Summary
-Genesis 35 is a draft resource chapter. The chapter opens with "God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeare...," moves through "Jacob named the place where God had spoken with him Bethel.," and closes with "Isaac breathed his last and died, and he was gathered to his people, old and full of days. His so...." Review this summary for fuller theological detail before approval.
+God sends Jacob back to Bethel, renews his name Israel and the covenant promises, and the chapter records Rachel and Isaac's deaths.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you ran away from your brother Esau." - Genesis 35:1
+God said to him, "I am God Almighty. Have children and grow into many people. A nation and a group of nations will come from you, and kings will come from your family. - Genesis 35:11
 
 ### Ages 8-10
-God said to Jacob, "Get up, go to Bethel, and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau." - Genesis 35:1
+God said to him, "I am God Almighty. Be fruitful and multiply. A nation and a company of nations will come from you, and kings will come from your family line. - Genesis 35:11
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 35 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 35 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

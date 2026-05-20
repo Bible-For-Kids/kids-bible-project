@@ -48,7 +48,7 @@ The two visitors said to Lot, "Do you have anyone else here: sons-in-law, sons, 
 We are going to destroy this place, because the outcry against its people has become great before the Lord. The Lord has sent us to destroy it."
 
 ### Genesis 19:14
-So Lot went out and spoke to the men pledged to marry his daughters. He said, "Hurry, get out of this place, because the Lord is about to destroy the city!" But they thought he was joking.
+So Lot went out and spoke to the men promised to marry his daughters. He said, "Hurry, get out of this place, because the Lord is about to destroy the city!" But they thought he was joking.
 
 ### Genesis 19:15
 At dawn, the angels urged Lot, "Hurry! Take your wife and your two daughters who are here, or you will be swept away when the city is punished."

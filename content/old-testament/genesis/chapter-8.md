@@ -1,14 +1,14 @@
 # Genesis Chapter 8
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 8 and should be reviewed before approval.
+Genesis 8 shows God remembering Noah as the floodwaters go down. Noah leaves the ark, worships the Lord, and God promises the ordered seasons will continue while the earth remains.
 
 ## Important Keywords
-- altar: A special place where offerings were given to the Lord
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- remembered: A key word that helps explain this chapter.
+- ark: The large boat God told Noah to build
+- altar: A special place where someone worshiped the Lord with an offering
+- offering: A gift brought to the Lord in worship
+- promise: Words someone says and keeps
 
 ## Verse-by-Verse Translation
 
@@ -22,10 +22,14 @@ God remembered Noah and all the animals with him in the ark. God sent a wind ove
 God remembered Noah and all the wild animals and livestock with him in the ark. He sent a wind over the earth, and the waters began to recede.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+In the Bible, God remembering means he acts faithfully; it does not mean he had forgotten.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- remembered: A key word that helps explain this chapter.
+- ark: The large boat God told Noah to build
+
+**Cross-References**:
+- Exodus 2:24
 
 ---
 
@@ -38,9 +42,6 @@ The springs of the deep and the windows of the heavens were closed. The rain fro
 #### Ages 8-10
 The springs of the deep and the floodgates of the heavens were closed, and the rain from the sky stopped.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:3
@@ -51,9 +52,6 @@ The waters kept going down from the earth. At the end of 150 days, the waters ha
 
 #### Ages 8-10
 The waters steadily receded from the earth. At the end of 150 days, the waters had gone down.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -66,8 +64,8 @@ On the seventeenth day of the seventh month, the ark came to rest on the mountai
 #### Ages 8-10
 On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -80,9 +78,6 @@ The waters kept going down until the tenth month. On the first day of the tenth 
 #### Ages 8-10
 The waters continued to recede until the tenth month. On the first day of the tenth month, the tops of the mountains became visible.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:6
@@ -94,8 +89,8 @@ After 40 days, Noah opened the window he had made in the ark.
 #### Ages 8-10
 After 40 days, Noah opened the window he had made in the ark.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -108,9 +103,6 @@ He sent out a raven. It kept flying back and forth until the waters dried up fro
 #### Ages 8-10
 He sent out a raven, and it kept flying back and forth until the waters had dried up from the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:8
@@ -121,9 +113,6 @@ Then Noah sent out a dove to see if the waters had gone down from the ground.
 
 #### Ages 8-10
 Then Noah sent out a dove to see if the waters had receded from the surface of the ground.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -136,8 +125,8 @@ But the dove found no place to rest its foot, because water still covered the wh
 #### Ages 8-10
 But the dove found no place to set its foot, because water still covered the whole earth. So it returned to Noah in the ark. He reached out his hand, took the dove, and brought it back inside.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -150,8 +139,8 @@ Noah waited seven more days. Then he sent the dove out from the ark again.
 #### Ages 8-10
 Noah waited seven more days and again sent the dove out from the ark.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -164,9 +153,6 @@ When the dove came back to him in the evening, Noah saw a fresh olive leaf in it
 #### Ages 8-10
 When the dove returned to him in the evening, Noah saw a freshly plucked olive leaf in its beak. Then Noah knew the waters had receded from the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:12
@@ -177,9 +163,6 @@ Noah waited seven more days and sent the dove out again. This time, it did not r
 
 #### Ages 8-10
 He waited seven more days and sent the dove out again, but this time it did not return to him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -192,8 +175,8 @@ In Noah's 601st year, on the first day of the first month, the water had dried f
 #### Ages 8-10
 In Noah's 601st year, on the first day of the first month, the water had dried from the earth. Noah removed the covering from the ark and saw that the ground was dry.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -206,9 +189,6 @@ By the twenty-seventh day of the second month, the earth was dry.
 #### Ages 8-10
 By the twenty-seventh day of the second month, the earth was dry.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:15
@@ -219,12 +199,6 @@ Then God said to Noah,
 
 #### Ages 8-10
 Then God said to Noah,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -237,8 +211,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Come out of the ark, you and your wife and your sons and their wives.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -251,9 +225,6 @@ Bring out every living creature with you: birds, animals, and all creatures that
 #### Ages 8-10
 Bring out every living creature with you: birds, animals, and every creature that moves along the ground. Let them spread over the earth, be fruitful, and increase in number."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 8:18
@@ -264,9 +235,6 @@ So Noah came out with his sons, his wife, and his sons' wives.
 
 #### Ages 8-10
 So Noah came out, together with his sons, his wife, and his sons' wives.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -279,8 +247,8 @@ All the animals, crawling creatures, and birds came out of the ark by their kind
 #### Ages 8-10
 All the animals, all the creatures that move along the ground, and all the birds came out of the ark, one kind after another.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -294,12 +262,14 @@ Then Noah built an altar to the Lord. He took some of every clean animal and cle
 Then Noah built an altar to the Lord. Taking some of every clean animal and clean bird, he offered burnt offerings on the altar.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep Noah's altar as worship after rescue, not as payment for rescue.
 
 **Key Vocabulary**:
-- altar: A special place where offerings were given to the Lord
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- altar: A special place where someone worshiped the Lord with an offering
+- offering: A gift brought to the Lord in worship
+
+**Cross-References**:
+- Psalm 116:17
 
 ---
 
@@ -311,14 +281,6 @@ The Lord smelled the pleasing aroma and said in his heart, "I will never again c
 
 #### Ages 8-10
 The Lord smelled the pleasing aroma and said in his heart, "Never again will I curse the ground because of humans, even though every inclination of the human heart is evil from childhood. Never again will I destroy all living creatures as I have done.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -332,38 +294,38 @@ As long as the earth remains, seedtime and harvest, cold and heat, summer and wi
 As long as the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night will never cease."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This promise concerns the continuing order of seasons while the earth remains.
+
+**Cross-References**:
+- Jeremiah 33:20
 
 ---
 
 ## Chapter Summary
-Genesis 8 is a draft resource chapter. The chapter opens with "God remembered Noah and all the wild animals and livestock with him in the ark. He sent a wind ov...," moves through "He waited seven more days and sent the dove out again, but this time it did not return to him.," and closes with "As long as the earth remains, seedtime and harvest, cold and heat, summer and winter, day and nig...." Review this summary for fuller theological detail before approval.
+God remembered Noah and all the living creatures in the ark, and the waters began to recede. Noah waited, sent out birds, and finally came out with his family and the animals when God commanded. Noah built an altar and worshiped. The Lord promised that he would not again curse the ground in the same way and that seedtime, harvest, cold, heat, summer, winter, day, and night would not cease while the earth remains.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God remembers with action**: When God remembered Noah, he moved the story toward rescue.
+2. **Waiting can be faithful**: Noah waited for God's timing before leaving the ark.
+3. **Worship follows rescue**: Noah's first recorded act after leaving the ark was worship.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-God remembered Noah and all the animals with him in the ark. God sent a wind over the earth, and the waters began to go down. - Genesis 8:1
+As long as the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night will not stop." - Genesis 8:22
 
 ### Ages 8-10
-God remembered Noah and all the wild animals and livestock with him in the ark. He sent a wind over the earth, and the waters began to recede. - Genesis 8:1
+As long as the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night will never cease." - Genesis 8:22
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 8 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

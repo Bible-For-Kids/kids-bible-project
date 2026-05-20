@@ -1,14 +1,14 @@
 # Genesis Chapter 44
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 44 and should be reviewed before approval.
+Genesis 44 continues the covenant family story. Joseph tests his brothers with the silver cup, and Judah offers himself in Benjamin's place to spare their father grief.
 
 ## Important Keywords
-- evil: What is wrong and against God
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
+- test: A hard moment that reveals trust and obedience
+- Judah: Jacob's son whose family line receives an important ruler promise
+- mercy: Kind help given to someone in need or guilt
+- substitute: Someone who stands in another person's place
+- repentance: Turning from sin with a changed heart
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ Joseph commanded the steward of his house, "Fill the men's sacks with as much fo
 #### Ages 8-10
 Joseph commanded the steward of his house, "Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:2
@@ -34,9 +31,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The steward did according to Joseph's word.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -49,9 +43,6 @@ As soon as morning was light, the men were sent away with their donkeys.
 #### Ages 8-10
 As soon as morning dawned, the men were sent away with their donkeys.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:4
@@ -62,12 +53,6 @@ They had only gone a short distance from the city when Joseph said to his stewar
 
 #### Ages 8-10
 They had gone only a short distance from the city when Joseph said to his steward, "Arise, follow the men. When you overtake them, say, 'Why have you repaid good with evil?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
 
 ---
 
@@ -80,13 +65,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Is this not the cup my lord drinks from and uses for divining? You have done evil in doing this.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 44:6
@@ -97,9 +75,6 @@ The steward caught up with them and spoke these words to them.
 
 #### Ages 8-10
 The steward overtook them and spoke these words to them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -112,12 +87,6 @@ They said to him, "Why does my lord say such things? Far be it from your servant
 #### Ages 8-10
 They said to him, "Why does my lord speak such words? Far be it from your servants to do such a thing.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 44:8
@@ -128,12 +97,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Look, we brought back to you from the land of Canaan the money we found in the mouths of our sacks. Why then would we steal silver or gold from your lord's house?
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -146,12 +109,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "If it is found with any of your servants, let him die, and we also will become my lord's slaves."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 44:10
@@ -162,9 +119,6 @@ The steward said, "Let it be as you say, but only the man who has the cup will b
 
 #### Ages 8-10
 He said, "Now let it be according to your words, but only the one with whom it is found shall be my slave. The rest of you will be innocent."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -177,9 +131,6 @@ Each man quickly lowered his sack to the ground, and each man opened his sack.
 #### Ages 8-10
 Each man quickly lowered his sack to the ground, and each man opened his sack.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:12
@@ -190,9 +141,6 @@ The steward searched, beginning with the oldest and ending with the youngest. Th
 
 #### Ages 8-10
 The steward searched, beginning with the oldest and ending with the youngest. The cup was found in Benjamin's sack.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -205,9 +153,6 @@ Then the brothers tore their clothes in sorrow. Each man loaded his donkey, and 
 #### Ages 8-10
 Then they tore their clothes in sorrow. Each man loaded his donkey, and they returned to the city.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:14
@@ -219,8 +164,8 @@ Judah and his brothers came to Joseph's house, where Joseph was still there. The
 #### Ages 8-10
 Judah and his brothers came to Joseph's house, where Joseph was still present, and they fell before him to the ground.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- Judah: Jacob's son whose family line receives an important ruler promise
 
 ---
 
@@ -233,9 +178,6 @@ Joseph said to them, "What have you done? Did you not know that a man like me ca
 #### Ages 8-10
 Joseph said to them, "What deed is this that you have done? Did you not know that a man like me can certainly divine?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:16
@@ -247,13 +189,8 @@ Judah said, "What can we say to my lord? What can we speak? How can we prove our
 #### Ages 8-10
 Judah said, "What can we say to my lord? What can we speak? How can we clear ourselves? God has found out the guilt of your servants. We are my lord's slaves, both we and the one in whose hand the cup was found."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
-- Lord: God's covenant name used in many English Bibles
+- Judah: Jacob's son whose family line receives an important ruler promise
 
 ---
 
@@ -266,9 +203,6 @@ Joseph said, "Far be it from me to do that. Only the man in whose hand the cup w
 #### Ages 8-10
 Joseph said, "Far be it from me to do that. The man in whose hand the cup was found shall be my slave, but the rest of you may go up in peace to your father."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:18
@@ -280,12 +214,8 @@ Then Judah came near to Joseph and said, "Please, my lord, let your servant spea
 #### Ages 8-10
 Then Judah came near to him and said, "Please, my lord, let your servant speak a word in my lord's ears, and do not let your anger burn against your servant, for you are like Pharaoh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
+- Judah: Jacob's son whose family line receives an important ruler promise
 
 ---
 
@@ -298,12 +228,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "My lord asked his servants, 'Do you have a father or a brother?'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 44:20
@@ -314,12 +238,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "We said to my lord, 'We have an old father and a young brother, the child of his old age. His brother is dead, and he alone is left of his mother, and his father loves him.'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -332,9 +250,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "You said to your servants, 'Bring him down to me, so I may set my eyes on him.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:22
@@ -345,12 +260,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "We said to my lord, 'The boy cannot leave his father, for if he leaves his father, his father will die.'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -363,9 +272,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "But you said to your servants, 'Unless your youngest brother comes down with you, you shall see my face no more.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:24
@@ -376,12 +282,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "When we went back to your servant my father, we told him my lord's words.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 
 ---
 
@@ -394,9 +294,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Our father said, 'Go again and buy us a little food.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:26
@@ -407,9 +304,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "But we said, 'We cannot go down. If our youngest brother is with us, then we will go down, because we cannot see the man's face unless our youngest brother is with us.'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -422,9 +316,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Your servant my father said to us, 'You know that my wife bore me two sons.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:28
@@ -435,9 +326,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "'One went out from me, and I said, Surely he has been torn in pieces, and I have not seen him since.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -450,9 +338,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'If you take this one from me also, and harm happens to him, you will bring my gray hair down to the grave in sorrow.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:30
@@ -463,9 +348,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Now, when I come to your servant my father and the boy is not with us, since his life is bound up in the boy's life,
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -478,9 +360,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "when he sees that the boy is not with us, he will die. Your servants will bring the gray hair of your servant our father down to the grave in sorrow.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 44:32
@@ -491,9 +370,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Your servant became responsible for the boy to my father, saying, 'If I do not bring him back to you, then I will bear the blame before my father forever.'
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -507,10 +383,7 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Now please let your servant remain instead of the boy as my lord's slave, and let the boy go up with his brothers.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -523,42 +396,33 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "For how can I go up to my father if the boy is not with me? I could not bear to see the evil that would come upon my father."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- evil: What is wrong and against God
-
 ---
 
 ## Chapter Summary
-Genesis 44 is a draft resource chapter. The chapter opens with "Joseph commanded the steward of his house, "Fill the men's sacks with food, as much as they can c...," moves through "Then Judah came near to him and said, "Please, my lord, let your servant speak a word in my lord'...," and closes with "For how can I go up to my father if the boy is not with me? I could not bear to see the evil that...." Review this summary for fuller theological detail before approval.
+Joseph tests his brothers with the silver cup, and Judah offers himself in Benjamin's place to spare their father grief.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The steward did just as Joseph said. - Genesis 44:2
+"Now please let your servant stay instead of the boy as my lord's slave, and let the boy go up with his brothers. - Genesis 44:33
 
 ### Ages 8-10
-"Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The steward did according to Joseph's word. - Genesis 44:2
+"Now please let your servant remain instead of the boy as my lord's slave, and let the boy go up with his brothers. - Genesis 44:33
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 44 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 44 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

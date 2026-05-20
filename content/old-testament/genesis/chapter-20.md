@@ -1,14 +1,13 @@
 # Genesis Chapter 20
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 20 and should be reviewed before approval.
+Genesis 20 continues the covenant family story. Abraham again says Sarah is his sister, God protects Sarah in Abimelech's house, and Abimelech returns her with gifts.
 
 ## Important Keywords
-- God: The one true Creator and Lord over all
-- guilt: The blame that comes from doing wrong
-- Lord: God's covenant name used in many English Bibles
-- sin: Disobeying God and going against his good way
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- protection: God keeping someone from harm or guarding his promise
+- truth: What is real, right, and faithful
+- mercy: Kind help given to someone in need or guilt
+- prayer: Speaking to God with trust, need, thanks, or praise
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +20,6 @@ Abraham moved on from there toward the Negev. He lived between Kadesh and Shur, 
 #### Ages 8-10
 Abraham moved on from there into the region of the Negev. He lived between Kadesh and Shur, and for a while he stayed in Gerar.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 20:2
@@ -34,9 +30,6 @@ Abraham said about his wife Sarah, "She is my sister." So Abimelek king of Gerar
 
 #### Ages 8-10
 Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -49,12 +42,6 @@ But God came to Abimelek in a dream at night and said, "You are as good as dead 
 #### Ages 8-10
 But God came to Abimelek in a dream one night and said to him, "You are as good as dead because of the woman you have taken. She is a married woman."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 20:4
@@ -66,12 +53,6 @@ Abimelek had not gone near her, so he said, "Lord, will you destroy an innocent 
 #### Ages 8-10
 Now Abimelek had not gone near her, so he said, "Lord, will you destroy an innocent nation?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 20:5
@@ -82,9 +63,6 @@ Did Abraham not say to me, 'She is my sister'? And Sarah herself said, 'He is my
 
 #### Ages 8-10
 Did Abraham not say to me, 'She is my sister'? And did Sarah not also say, 'He is my brother'? I did this with a clear heart and clean hands."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -98,10 +76,7 @@ Then God said to him in the dream, "Yes, I know you did this with a clear heart.
 Then God said to him in the dream, "Yes, I know you did this with a clear heart. I also kept you from sinning against me. That is why I did not let you touch her.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 ---
 
@@ -114,9 +89,6 @@ Now return the man's wife. He is a prophet, and he will pray for you, and you wi
 #### Ages 8-10
 Now return the man's wife, for he is a prophet. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 20:8
@@ -127,9 +99,6 @@ Early the next morning, Abimelek called all his officials and told them everythi
 
 #### Ages 8-10
 Early the next morning, Abimelek called all his officials and told them everything that had happened, and they were very afraid.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -142,13 +111,6 @@ Then Abimelek called Abraham and said, "What have you done to us? How have I sin
 #### Ages 8-10
 Then Abimelek called Abraham and said, "What have you done to us? How have I sinned against you, that you have brought such great guilt on me and my kingdom? You have done things to me that should not be done."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- guilt: The blame that comes from doing wrong
-- sin: Disobeying God and going against his good way
-
 ---
 
 ### Genesis 20:10
@@ -159,9 +121,6 @@ Abimelek asked Abraham, "What were you thinking when you did this?"
 
 #### Ages 8-10
 Abimelek asked Abraham, "What was your reason for doing this?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -174,12 +133,6 @@ Abraham said, "I thought, 'Surely there is no fear of God in this place, and the
 #### Ages 8-10
 Abraham said, "I thought, 'There is surely no fear of God in this place, and they will kill me because of my wife.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 20:12
@@ -190,9 +143,6 @@ Besides, she really is my sister, the daughter of my father but not the daughter
 
 #### Ages 8-10
 Besides, she really is my sister, the daughter of my father though not the daughter of my mother, and she became my wife.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -205,12 +155,6 @@ When God caused me to wander from my father's house, I said to Sarah, 'This is h
 #### Ages 8-10
 When God caused me to wander from my father's household, I said to Sarah, 'This is how you can show your love to me: everywhere we go, say of me, He is my brother.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 20:14
@@ -221,9 +165,6 @@ Then Abimelek brought sheep, cattle, male and female servants, and gave them to 
 
 #### Ages 8-10
 Then Abimelek brought sheep, cattle, and male and female servants and gave them to Abraham. He also returned Sarah, Abraham's wife, to him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -236,9 +177,6 @@ Abimelek said, "My land is before you. Live wherever you like."
 #### Ages 8-10
 Abimelek said, "My land is before you. Live wherever you like."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 20:16
@@ -249,9 +187,6 @@ To Sarah he said, "I am giving your brother a thousand pieces of silver. This sh
 
 #### Ages 8-10
 To Sarah he said, "I am giving your brother a thousand pieces of silver. This is to cover the offense before all who are with you, and you are completely vindicated."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -264,12 +199,6 @@ Then Abraham prayed to God, and God healed Abimelek, his wife, and his female se
 #### Ages 8-10
 Then Abraham prayed to God, and God healed Abimelek, his wife, and his female servants so they could have children again.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 20:18
@@ -281,43 +210,33 @@ The Lord had kept all the women in Abimelek's household from having children bec
 #### Ages 8-10
 The Lord had kept all the women in Abimelek's household from having children because of Abraham's wife Sarah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ## Chapter Summary
-Genesis 20 is a draft resource chapter. The chapter opens with "Abraham moved on from there into the region of the Negev. He lived between Kadesh and Shur, and f...," moves through "Abimelek asked Abraham, "What was your reason for doing this?," and closes with "The Lord had kept all the women in Abimelek's household from having children because of Abraham's...." Review this summary for fuller theological detail before approval.
+Abraham again says Sarah is his sister, God protects Sarah in Abimelech's house, and Abimelech returns her with gifts.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Abraham moved on from there toward the Negev. He lived between Kadesh and Shur, and for a while he stayed in Gerar. - Genesis 20:1
+Then God said to him in the dream, "Yes, I know you did this with a clear heart. That is why I kept you from sinning against me. I did not let you touch her. - Genesis 20:6
 
 ### Ages 8-10
-Abraham moved on from there into the region of the Negev. He lived between Kadesh and Shur, and for a while he stayed in Gerar. - Genesis 20:1
+Then God said to him in the dream, "Yes, I know you did this with a clear heart. I also kept you from sinning against me. That is why I did not let you touch her. - Genesis 20:6
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 20 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

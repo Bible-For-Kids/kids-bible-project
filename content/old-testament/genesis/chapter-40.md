@@ -1,13 +1,14 @@
 # Genesis Chapter 40
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 40 and should be reviewed before approval.
+Genesis 40 continues the covenant family story. Joseph interprets the cupbearer's and baker's dreams in prison, and the dreams come true, but the cupbearer forgets Joseph.
 
 ## Important Keywords
-- Egypt: The land where Israel had been enslaved
+- dream: A picture or message seen while sleeping
+- interpretation: Explaining the meaning of a dream or message
+- prison: A guarded place where prisoners are kept
+- forgotten: Left out of someone's thoughts or help
 - God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
 
 ## Verse-by-Verse Translation
 
@@ -20,13 +21,6 @@ After these things, the king of Egypt's cupbearer and baker did something that o
 #### Ages 8-10
 After these things, the cupbearer of the king of Egypt and his baker offended their lord, the king of Egypt.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 40:2
@@ -37,12 +31,6 @@ Pharaoh was angry with two of his officers: the chief cupbearer and the chief ba
 
 #### Ages 8-10
 Pharaoh was angry with two of his officers, the chief cupbearer and the chief baker.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -55,8 +43,8 @@ He put them under guard in the house of the captain of the guard, in the same pr
 #### Ages 8-10
 He put them under guard in the house of the captain of the guard, in the prison where Joseph was confined.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -69,8 +57,8 @@ The captain of the guard put Joseph in charge of them, and Joseph served them. T
 #### Ages 8-10
 The captain of the guard assigned Joseph to them, and Joseph served them. They stayed under guard for a season.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -83,11 +71,10 @@ One night both men dreamed dreams, each man his own dream with its own meaning. 
 #### Ages 8-10
 Both men had dreams in one night, each with his own dream and its meaning. They were the cupbearer and baker of the king of Egypt, and they were confined in the prison.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
+- dream: A picture or message seen while sleeping
+- interpretation: Explaining the meaning of a dream or message
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -100,9 +87,6 @@ In the morning Joseph came to them and looked at them, and he saw that they were
 #### Ages 8-10
 Joseph came to them in the morning and saw that they looked sad.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 40:7
@@ -114,11 +98,8 @@ Joseph asked Pharaoh's officers who were with him in his master's prison, "Why d
 #### Ages 8-10
 He asked Pharaoh's officers who were with him in his master's prison, "Why do you look so sad today?"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Pharaoh: The king of Egypt
+- prison: A guarded place where prisoners are kept
 
 ---
 
@@ -132,9 +113,11 @@ They said to him, "We have dreamed dreams, and there is no one to explain them."
 They said, "We have had dreams, and there is no one to interpret them." Joseph said, "Do not interpretations belong to God? Please tell me the dreams."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
 **Key Vocabulary**:
+- dream: A picture or message seen while sleeping
+- interpretation: Explaining the meaning of a dream or message
 - God: The one true Creator and Lord over all
 
 ---
@@ -148,8 +131,8 @@ The chief cupbearer told his dream to Joseph. He said, "In my dream, there was a
 #### Ages 8-10
 The chief cupbearer told his dream to Joseph and said, "In my dream, a vine was before me.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
 
 ---
 
@@ -162,9 +145,6 @@ On the vine were three branches. It seemed to bud, its blossoms opened, and its 
 #### Ages 8-10
 On the vine were three branches. As it budded, its blossoms came out, and its clusters ripened into grapes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 40:11
@@ -175,12 +155,6 @@ Pharaoh's cup was in my hand. I took the grapes, pressed them into Pharaoh's cup
 
 #### Ages 8-10
 Pharaoh's cup was in my hand. I took the grapes, pressed them into Pharaoh's cup, and gave the cup into Pharaoh's hand."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -193,8 +167,8 @@ Joseph said to him, "This is what it means: the three branches are three days.
 #### Ages 8-10
 Joseph said to him, "This is the interpretation: the three branches are three days.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- interpretation: Explaining the meaning of a dream or message
 
 ---
 
@@ -207,12 +181,6 @@ Within three days Pharaoh will lift up your head and restore you to your place. 
 #### Ages 8-10
 Within three days Pharaoh will lift up your head and restore you to your place. You will give Pharaoh's cup into his hand as you did before when you were his cupbearer.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 40:14
@@ -223,12 +191,6 @@ But when things go well for you, please remember me. Show kindness to me, mentio
 
 #### Ages 8-10
 But remember me when it goes well with you. Please show kindness to me, mention me to Pharaoh, and bring me out of this house.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -241,9 +203,6 @@ I was truly stolen away from the land of the Hebrews, and here also I have done 
 #### Ages 8-10
 I was stolen away from the land of the Hebrews, and here also I have done nothing that they should put me into the dungeon."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 40:16
@@ -255,8 +214,9 @@ When the chief baker saw that the meaning was good, he said to Joseph, "I also h
 #### Ages 8-10
 When the chief baker saw that the interpretation was good, he said to Joseph, "I also had a dream. There were three white baskets on my head.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- dream: A picture or message seen while sleeping
+- interpretation: Explaining the meaning of a dream or message
 
 ---
 
@@ -269,12 +229,6 @@ In the top basket were all kinds of baked foods for Pharaoh, but the birds were 
 #### Ages 8-10
 In the top basket were all kinds of baked foods for Pharaoh, and the birds were eating them out of the basket on my head."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 40:18
@@ -286,8 +240,8 @@ Joseph answered, "This is what it means: the three baskets are three days.
 #### Ages 8-10
 Joseph answered, "This is the interpretation: the three baskets are three days.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- interpretation: Explaining the meaning of a dream or message
 
 ---
 
@@ -300,12 +254,6 @@ Within three days Pharaoh will lift up your head from you and hang you on a tree
 #### Ages 8-10
 Within three days Pharaoh will lift up your head from you and hang you on a tree, and the birds will eat your flesh from you."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 40:20
@@ -316,12 +264,6 @@ On the third day, Pharaoh's birthday, Pharaoh made a feast for all his servants.
 
 #### Ages 8-10
 On the third day, Pharaoh's birthday, he made a feast for all his servants. He lifted up the heads of the chief cupbearer and the chief baker among his servants.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -334,12 +276,6 @@ He restored the chief cupbearer to his work again, and the cupbearer placed the 
 #### Ages 8-10
 He restored the chief cupbearer to his position, and the cupbearer placed the cup in Pharaoh's hand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 40:22
@@ -350,12 +286,6 @@ But Pharaoh hanged the chief baker, just as Joseph had explained to them.
 
 #### Ages 8-10
 But Pharaoh hanged the chief baker, just as Joseph had interpreted to them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -368,39 +298,33 @@ Yet the chief cupbearer did not remember Joseph. He forgot him.
 #### Ages 8-10
 Yet the chief cupbearer did not remember Joseph. He forgot him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 40 is a draft resource chapter. The chapter opens with "After these things, the cupbearer of the king of Egypt and his baker offended their lord, the kin...," moves through "Joseph said to him, "This is the interpretation: the three branches are three days.," and closes with "Yet the chief cupbearer did not remember Joseph. He forgot him.." Review this summary for fuller theological detail before approval.
+Joseph interprets the cupbearer's and baker's dreams in prison, and the dreams come true, but the cupbearer forgets Joseph.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-After these things, the king of Egypt's cupbearer and baker did something that offended their lord, the king of Egypt. - Genesis 40:1
+They said to him, "We have dreamed dreams, and there is no one to explain them." Joseph said to them, "Do not explanations belong to God? Please tell me your dreams." - Genesis 40:8
 
 ### Ages 8-10
-After these things, the cupbearer of the king of Egypt and his baker offended their lord, the king of Egypt. - Genesis 40:1
+They said, "We have had dreams, and there is no one to interpret them." Joseph said, "Do not interpretations belong to God? Please tell me the dreams." - Genesis 40:8
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 40 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 40 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

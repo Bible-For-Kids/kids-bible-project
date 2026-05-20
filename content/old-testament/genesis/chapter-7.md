@@ -1,12 +1,14 @@
 # Genesis Chapter 7
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 7 and should be reviewed before approval.
+Genesis 7 tells how Noah entered the ark with his family and the animals, just as the Lord commanded. The floodwaters rose over the earth, and the Lord preserved those inside the ark.
 
 ## Important Keywords
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- ark: The large boat God told Noah to build
+- judgment: God's right decision about sin and evil
+- obedience: Doing what God commands
+- flood: The great waters God sent in Noah's day
+- preserved: Kept alive or protected
 
 ## Verse-by-Verse Translation
 
@@ -20,11 +22,10 @@ Then the Lord said to Noah, "Go into the ark, you and your whole family, because
 Then the Lord said to Noah, "Go into the ark, you and your whole household, because I have found you righteous before me in this generation.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The Lord calls Noah into the ark; keep the action personal and commanded by God.
 
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -37,9 +38,6 @@ Take seven pairs of every kind of clean animal, a male and its mate. Take one pa
 #### Ages 8-10
 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:3
@@ -51,9 +49,6 @@ Also take seven pairs of every kind of bird, male and female, to keep their kind
 #### Ages 8-10
 Also take seven pairs of every kind of bird, male and female, to keep their kinds alive throughout the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:4
@@ -64,9 +59,6 @@ Seven days from now, I will send rain on the earth for 40 days and 40 nights. I 
 
 #### Ages 8-10
 Seven days from now I will send rain on the earth for 40 days and 40 nights. I will wipe from the face of the earth every living thing I have made."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -80,11 +72,10 @@ Noah did everything the Lord commanded him.
 Noah did everything the Lord commanded him.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Hebrews 11:7
 
 ---
 
@@ -97,8 +88,8 @@ Noah was 600 years old when the floodwaters came on the earth.
 #### Ages 8-10
 Noah was 600 years old when the floodwaters came on the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- flood: The great waters God sent in Noah's day
 
 ---
 
@@ -111,8 +102,9 @@ Noah and his wife, his sons, and his sons' wives entered the ark to escape the w
 #### Ages 8-10
 Noah and his wife, his sons, and his sons' wives entered the ark to escape the waters of the flood.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
+- flood: The great waters God sent in Noah's day
 
 ---
 
@@ -125,9 +117,6 @@ Clean animals, unclean animals, birds, and all creatures that move along the gro
 #### Ages 8-10
 Pairs of clean animals, unclean animals, birds, and all creatures that move along the ground came to Noah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:9
@@ -139,11 +128,8 @@ They came in pairs, male and female, and entered the ark, just as God commanded 
 #### Ages 8-10
 Male and female, they came to Noah and entered the ark, just as God had commanded Noah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -156,8 +142,8 @@ After seven days, the floodwaters came on the earth.
 #### Ages 8-10
 After seven days, the floodwaters came on the earth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- flood: The great waters God sent in Noah's day
 
 ---
 
@@ -170,8 +156,8 @@ In Noah's 600th year, on the seventeenth day of the second month, all the spring
 #### Ages 8-10
 In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens were opened.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- flood: The great waters God sent in Noah's day
 
 ---
 
@@ -184,9 +170,6 @@ Rain fell on the earth for 40 days and 40 nights.
 #### Ages 8-10
 Rain fell on the earth for 40 days and 40 nights.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:13
@@ -198,8 +181,8 @@ On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his
 #### Ages 8-10
 On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his wife, and the wives of his three sons.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -212,9 +195,6 @@ They entered with every kind of wild animal, livestock, crawling creature, and b
 #### Ages 8-10
 They entered with every kind of wild animal, livestock, creature that moves along the ground, and bird.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:15
@@ -226,8 +206,8 @@ Pairs of every creature with the breath of life came to Noah and entered the ark
 #### Ages 8-10
 Pairs of every creature that has the breath of life came to Noah and entered the ark.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -241,12 +221,10 @@ The animals that entered were male and female of every living thing, just as God
 The animals that entered were male and female of every living thing, as God had commanded Noah. Then the Lord shut him in.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The Lord shutting Noah in is a protective action, not a detail to skip.
 
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Matthew 24:37-39
 
 ---
 
@@ -259,8 +237,9 @@ For 40 days, the flood kept coming on the earth. The waters rose higher and high
 #### Ages 8-10
 For 40 days the flood kept coming on the earth. The waters rose higher and higher and lifted the ark high above the ground.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
+- flood: The great waters God sent in Noah's day
 
 ---
 
@@ -273,8 +252,8 @@ The waters grew strong and covered the land. The ark floated safely on top of th
 #### Ages 8-10
 The waters rose and increased greatly over the earth, and the ark floated safely on the surface of the water.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- ark: The large boat God told Noah to build
 
 ---
 
@@ -287,22 +266,16 @@ The waters rose higher and higher until all the high mountains under the whole s
 #### Ages 8-10
 The waters rose greatly on the earth, and all the high mountains under the whole sky were covered.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:20
 **Original Reference**: Genesis 7:20 - The waters rose fifteen cubits higher, and the mountains were covered.
 
 #### Ages 5-7
-The waters rose more than fifteen cubits above the mountains and covered them.
+The waters rose more than 20 feet above the mountains and covered them.
 
 #### Ages 8-10
-The waters rose more than fifteen cubits above the mountains and covered them.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The waters rose more than 20 feet above the mountains and covered them.
 
 ---
 
@@ -315,9 +288,6 @@ Every living thing that moved on land died: birds, livestock, wild animals, craw
 #### Ages 8-10
 Every living thing that moved on land perished: birds, livestock, wild animals, all creatures that swarm over the earth, and all people.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 7:22
@@ -328,9 +298,6 @@ Everything on dry land that had the breath of life in its nose died.
 
 #### Ages 8-10
 Everything on dry land that had the breath of life in its nostrils died.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -344,10 +311,13 @@ God wiped away every living thing on the earth: people, animals, crawling creatu
 Every living thing on the face of the earth was wiped away: people, animals, crawling creatures, and birds. Only Noah and those with him in the ark remained.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep both realities together: judgment outside the ark and preservation inside it.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- ark: The large boat God told Noah to build
+
+**Cross-References**:
+- 2 Peter 2:5
 
 ---
 
@@ -360,39 +330,36 @@ The waters flooded the earth for 150 days.
 #### Ages 8-10
 The waters flooded the earth for 150 days.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- flood: The great waters God sent in Noah's day
 
 ---
 
 ## Chapter Summary
-Genesis 7 is a draft resource chapter. The chapter opens with "Then the Lord said to Noah, "Go into the ark, you and your whole household, because I have found...," moves through "On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his wife, and the wi...," and closes with "The waters flooded the earth for 150 days.." Review this summary for fuller theological detail before approval.
+The Lord told Noah to enter the ark, bringing his family and the animals God named. Noah obeyed. Rain fell, the deep waters burst open, and the waters lifted the ark above the earth. Everything outside that breathed died, but Noah and those with him in the ark remained alive.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps his word**: The flood came just as God had said.
+2. **Obedience followed faith**: Noah entered the ark and did what the Lord commanded.
+3. **God preserves life**: Judgment was real, and so was the rescue God provided.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Take seven pairs of every kind of clean animal, a male and its mate. Take one pair of every kind of unclean animal, a male and its mate. - Genesis 7:2
+Noah did everything the Lord commanded him. - Genesis 7:5
 
 ### Ages 8-10
-Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate. - Genesis 7:2
+Noah did everything the Lord commanded him. - Genesis 7:5
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 7 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

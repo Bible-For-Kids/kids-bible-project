@@ -1,14 +1,14 @@
 # Genesis Chapter 4
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 4 and should be reviewed before approval.
+Genesis 4 follows Adam and Eve's sons, Cain and Abel. Sin moves from the garden into the family, but the Lord still speaks, warns, judges, and protects life from revenge.
 
 ## Important Keywords
-- cursed: Placed under judgment instead of blessing
-- Eden: The garden place God prepared for the first people
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
+- sin: Disobeying God and going against his good way
 - offering: A gift brought to the Lord in worship
+- curse: A judgment that brings sorrow instead of blessing
+- mercy: Kind help given to someone in need or guilt
+- generation: People living in the same time, or a step in a family line
 
 ## Verse-by-Verse Translation
 
@@ -21,13 +21,6 @@ Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said
 #### Ages 8-10
 Adam knew Eve his wife, and she became pregnant and gave birth to Cain. She said, "With the Lord's help, I have received a man."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 4:2
@@ -38,9 +31,6 @@ Later, Eve gave birth to Cain's brother Abel. Abel cared for sheep, and Cain wor
 
 #### Ages 8-10
 Later she gave birth to Cain's brother Abel. Abel kept flocks, and Cain worked the soil.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -53,13 +43,8 @@ After some time, Cain brought some fruit from the ground as an offering to the L
 #### Ages 8-10
 In the course of time, Cain brought some of the fruit of the soil as an offering to the Lord.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -72,13 +57,11 @@ Abel also brought an offering. He brought the firstborn from his flock and their
 #### Ages 8-10
 Abel also brought an offering from the firstborn of his flock and from their fat portions. The Lord looked with favor on Abel and his offering.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+
+**Cross-References**:
+- Hebrews 11:4
 
 ---
 
@@ -91,11 +74,7 @@ But the Lord did not look with favor on Cain and his offering. Cain became very 
 #### Ages 8-10
 But the Lord did not look with favor on Cain and his offering. So Cain became very angry, and his face was downcast.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
 
 ---
@@ -109,13 +88,6 @@ Then the Lord said to Cain, "Why are you angry? Why has your face fallen?
 #### Ages 8-10
 Then the Lord said to Cain, "Why are you angry? Why is your face downcast?
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 4:7
@@ -128,10 +100,13 @@ If you do what is right, will you not be accepted? But if you do not do what is 
 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door. It desires to have you, but you must rule over it."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the image of sin crouching at the door; it helps children picture temptation without treating sin as a toy.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
+
+**Cross-References**:
+- James 1:14-15
 
 ---
 
@@ -144,9 +119,6 @@ Cain said to his brother Abel, "Let us go out to the field." Away from home, whi
 #### Ages 8-10
 Cain said to his brother Abel, "Let us go out to the field." Away from home, while they were in the field, Cain attacked his brother Abel and killed him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:9
@@ -157,13 +129,6 @@ Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not k
 
 #### Ages 8-10
 Then the Lord said to Cain, "Where is your brother Abel?" Cain answered, "I do not know. Am I my brother's keeper?"
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -177,11 +142,10 @@ The Lord said, "What have you done? Your brother's blood is crying out to me fro
 The Lord said, "What have you done? Your brother's blood is crying out to me from the ground.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+The blood crying from the ground is a vivid justice image, not a literal conversation to overexplain.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Hebrews 12:24
 
 ---
 
@@ -194,11 +158,8 @@ Now you are cursed from the ground. It opened its mouth to receive your brother'
 #### Ages 8-10
 Now you are cursed from the ground, which opened its mouth to receive your brother's blood from your hand.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
+- curse: A judgment that brings sorrow instead of blessing
 
 ---
 
@@ -211,9 +172,6 @@ When you work the ground, it will no longer give you its strength. You will wand
 #### Ages 8-10
 When you work the ground, it will no longer yield its strength to you. You will be a restless wanderer on the earth."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:13
@@ -224,13 +182,6 @@ Cain said to the Lord, "My punishment is more than I can carry.
 
 #### Ages 8-10
 Cain said to the Lord, "My punishment is more than I can bear.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -243,9 +194,6 @@ Today you are sending me away from this ground. I will be hidden from your face.
 #### Ages 8-10
 Today you are driving me from the land, and I will be hidden from your face. I will be a restless wanderer on the earth, and whoever finds me may kill me."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:15
@@ -256,13 +204,6 @@ But the Lord said to him, "No. If anyone kills Cain, that person will be punishe
 
 #### Ages 8-10
 But the Lord said to him, "No. If anyone kills Cain, vengeance will come on that person sevenfold." Then the Lord put a mark on Cain so that no one who found him would kill him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
 
 ---
 
@@ -275,14 +216,6 @@ So Cain went away from the Lord's presence. He traveled east of Eden and lived i
 #### Ages 8-10
 So Cain went out from the Lord's presence. He traveled east of Eden and lived in the land of Nod.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Eden: The garden place God prepared for the first people
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
-
 ---
 
 ### Genesis 4:17
@@ -293,9 +226,6 @@ Cain knew his wife, and she became pregnant and gave birth to Enoch. Cain was bu
 
 #### Ages 8-10
 Cain knew his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -308,9 +238,6 @@ Enoch became the father of Irad. Irad became the father of Mehujael. Mehujael be
 #### Ages 8-10
 To Enoch was born Irad. Irad was the father of Mehujael, Mehujael was the father of Methushael, and Methushael was the father of Lamech.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:19
@@ -321,9 +248,6 @@ Lamech married two women. One was named Adah, and the other was named Zillah.
 
 #### Ages 8-10
 Lamech married two women. One was named Adah, and the other was named Zillah.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -336,9 +260,6 @@ Adah gave birth to Jabal. He was the father of people who live in tents and keep
 #### Ages 8-10
 Adah gave birth to Jabal. He was the father of those who live in tents and raise livestock.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:21
@@ -349,9 +270,6 @@ His brother was named Jubal. He was the father of people who play the lyre and p
 
 #### Ages 8-10
 His brother was named Jubal. He was the father of all who play the lyre and pipe.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -364,9 +282,6 @@ Zillah also had a son, Tubal-Cain. He made all kinds of tools from bronze and ir
 #### Ages 8-10
 Zillah also gave birth to Tubal-Cain, who forged all kinds of tools from bronze and iron. Tubal-Cain's sister was Naamah.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:23
@@ -378,8 +293,8 @@ Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear 
 #### Ages 8-10
 Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I have killed a man for wounding me, a young man for injuring me.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- sin: Disobeying God and going against his good way
 
 ---
 
@@ -392,9 +307,6 @@ If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
 #### Ages 8-10
 If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 4:25
@@ -405,12 +317,6 @@ Adam knew his wife again, and she gave birth to a son. She named him Seth and sa
 
 #### Ages 8-10
 Adam knew his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -424,42 +330,38 @@ Seth also had a son, and he named him Enosh. At that time, people began to call 
 Seth also had a son, and he named him Enosh. At that time, people began to call on the name of the Lord.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Calling on the Lord's name points to worship and dependence on God.
 
-**Key Vocabulary**:
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+**Cross-References**:
+- Romans 10:13
 
 ---
 
 ## Chapter Summary
-Genesis 4 is a draft resource chapter. The chapter opens with "Adam knew Eve his wife, and she became pregnant and gave birth to Cain. She said, "With the Lord'...," moves through "Today you are driving me from the land, and I will be hidden from your face. I will be a restless...," and closes with "Seth also had a son, and he named him Enosh. At that time, people began to call on the name of th...." Review this summary for fuller theological detail before approval.
+Cain and Abel brought offerings to the Lord, but Cain became angry when the Lord accepted Abel and not him. God warned Cain that sin was crouching nearby, but Cain killed his brother. The Lord judged Cain and sent him away, yet marked him so others would not kill him. The chapter also traces Cain's family and ends with Seth and Enosh, when people began calling on the Lord's name.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God sees the heart**: The Lord cared about more than the gift; he cared about the person bringing it.
+2. **Anger must be ruled**: God warned Cain before Cain acted, showing that sin should not be welcomed or followed.
+3. **Life belongs to God**: Abel's blood mattered to God, and even Cain's life was not left to revenge.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Adam knew his wife Eve, and she became pregnant. She gave birth to Cain and said, "With the Lord's help, I have received a man." - Genesis 4:1
+If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door. It wants to rule you, but you must rule over it." - Genesis 4:7
 
 ### Ages 8-10
-Adam knew Eve his wife, and she became pregnant and gave birth to Cain. She said, "With the Lord's help, I have received a man." - Genesis 4:1
+If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door. It desires to have you, but you must rule over it." - Genesis 4:7
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 4 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

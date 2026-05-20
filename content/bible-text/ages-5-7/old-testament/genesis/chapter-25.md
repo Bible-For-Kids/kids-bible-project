@@ -24,7 +24,7 @@ Midian's sons were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were Ketur
 Abraham gave everything he had to Isaac.
 
 ### Genesis 25:6
-Abraham also gave gifts to the sons of his concubines. While he was still alive, he sent them away from Isaac his son, toward the east country.
+Abraham also gave gifts to the sons of his other wives. While he was still alive, he sent them away from Isaac his son, toward the east country.
 
 ### Genesis 25:7
 Abraham lived 175 years.

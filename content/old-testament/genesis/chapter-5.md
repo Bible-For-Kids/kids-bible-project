@@ -1,14 +1,14 @@
 # Genesis Chapter 5
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 5 and should be reviewed before approval.
+Genesis 5 gives the family line from Adam to Noah. The repeated words about death show that Genesis 3 was true, while Enoch's walk with God and Noah's birth keep hope in the story.
 
 ## Important Keywords
-- blessed: Spoke good over someone or something
-- cursed: Placed under judgment instead of blessing
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- genealogy: A family line that tells who came from whom
+- generation: People living in the same time, or a step in a family line
+- death: The end of earthly life
+- walked with God: Lived in close faith and fellowship with God
+- comfort: Help and relief in sorrow or hard work
 
 ## Verse-by-Verse Translation
 
@@ -21,11 +21,11 @@ This is the written family line of Adam. When God created human beings, he made 
 #### Ages 8-10
 This is the written family line of Adam. When God created human beings, he made them in the likeness of God.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- generation: People living in the same time, or a step in a family line
+
+**Cross-References**:
+- Genesis 1:26-27
 
 ---
 
@@ -37,13 +37,6 @@ God created them male and female. He blessed them and called them mankind when t
 
 #### Ages 8-10
 He created them male and female, blessed them, and called them mankind when they were created.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- blessed: Spoke good over someone or something
-- God: The one true Creator and Lord over all
 
 ---
 
@@ -57,7 +50,7 @@ When Adam was 130 years old, he had a son who was like him, in his own image. Ad
 When Adam was 130 years old, he had a son in his own likeness and image. He named him Seth.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Keep the image-of-God family line connected to Genesis 1 without implying people stopped bearing God's image after sin.
 
 ---
 
@@ -70,9 +63,6 @@ After Seth was born, Adam lived 800 more years. He had other sons and daughters.
 #### Ages 8-10
 After Seth was born, Adam lived 800 years and had other sons and daughters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:5
@@ -83,9 +73,6 @@ Altogether, Adam lived 930 years. Then he died.
 
 #### Ages 8-10
 Altogether, Adam lived 930 years, and then he died.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -98,9 +85,6 @@ When Seth was 105 years old, he became the father of Enosh.
 #### Ages 8-10
 When Seth was 105 years old, he became the father of Enosh.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:7
@@ -111,9 +95,6 @@ After Enosh was born, Seth lived 807 more years. He had other sons and daughters
 
 #### Ages 8-10
 After Enosh was born, Seth lived 807 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -126,9 +107,6 @@ Altogether, Seth lived 912 years. Then he died.
 #### Ages 8-10
 Altogether, Seth lived 912 years, and then he died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:9
@@ -139,9 +117,6 @@ When Enosh was 90 years old, he became the father of Kenan.
 
 #### Ages 8-10
 When Enosh was 90 years old, he became the father of Kenan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -154,9 +129,6 @@ After Kenan was born, Enosh lived 815 more years. He had other sons and daughter
 #### Ages 8-10
 After Kenan was born, Enosh lived 815 years and had other sons and daughters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:11
@@ -167,9 +139,6 @@ Altogether, Enosh lived 905 years. Then he died.
 
 #### Ages 8-10
 Altogether, Enosh lived 905 years, and then he died.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -182,9 +151,6 @@ When Kenan was 70 years old, he became the father of Mahalalel.
 #### Ages 8-10
 When Kenan was 70 years old, he became the father of Mahalalel.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:13
@@ -195,9 +161,6 @@ After Mahalalel was born, Kenan lived 840 more years. He had other sons and daug
 
 #### Ages 8-10
 After Mahalalel was born, Kenan lived 840 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -210,9 +173,6 @@ Altogether, Kenan lived 910 years. Then he died.
 #### Ages 8-10
 Altogether, Kenan lived 910 years, and then he died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:15
@@ -223,9 +183,6 @@ When Mahalalel was 65 years old, he became the father of Jared.
 
 #### Ages 8-10
 When Mahalalel was 65 years old, he became the father of Jared.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -238,9 +195,6 @@ After Jared was born, Mahalalel lived 830 more years. He had other sons and daug
 #### Ages 8-10
 After Jared was born, Mahalalel lived 830 years and had other sons and daughters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:17
@@ -251,9 +205,6 @@ Altogether, Mahalalel lived 895 years. Then he died.
 
 #### Ages 8-10
 Altogether, Mahalalel lived 895 years, and then he died.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -266,9 +217,6 @@ When Jared was 162 years old, he became the father of Enoch.
 #### Ages 8-10
 When Jared was 162 years old, he became the father of Enoch.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:19
@@ -279,9 +227,6 @@ After Enoch was born, Jared lived 800 more years. He had other sons and daughter
 
 #### Ages 8-10
 After Enoch was born, Jared lived 800 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -294,9 +239,6 @@ Altogether, Jared lived 962 years. Then he died.
 #### Ages 8-10
 Altogether, Jared lived 962 years, and then he died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:21
@@ -307,9 +249,6 @@ When Enoch was 65 years old, he became the father of Methuselah.
 
 #### Ages 8-10
 When Enoch was 65 years old, he became the father of Methuselah.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -322,11 +261,8 @@ After Methuselah was born, Enoch walked faithfully with God for 300 years. He ha
 #### Ages 8-10
 After Methuselah was born, Enoch walked faithfully with God for 300 years and had other sons and daughters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- walked with God: Lived in close faith and fellowship with God
 
 ---
 
@@ -338,9 +274,6 @@ Altogether, Enoch lived 365 years.
 
 #### Ages 8-10
 Altogether, Enoch lived 365 years.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -354,10 +287,13 @@ Enoch walked faithfully with God. Then he was gone, because God took him.
 Enoch walked faithfully with God. Then he was no more, because God took him away.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Avoid adding details about Enoch beyond the text; the verse says he walked with God and God took him.
 
 **Key Vocabulary**:
-- God: The one true Creator and Lord over all
+- walked with God: Lived in close faith and fellowship with God
+
+**Cross-References**:
+- Hebrews 11:5
 
 ---
 
@@ -370,9 +306,6 @@ When Methuselah was 187 years old, he became the father of Lamech.
 #### Ages 8-10
 When Methuselah was 187 years old, he became the father of Lamech.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:26
@@ -383,9 +316,6 @@ After Lamech was born, Methuselah lived 782 more years. He had other sons and da
 
 #### Ages 8-10
 After Lamech was born, Methuselah lived 782 years and had other sons and daughters.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -398,9 +328,6 @@ Altogether, Methuselah lived 969 years. Then he died.
 #### Ages 8-10
 Altogether, Methuselah lived 969 years, and then he died.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:28
@@ -411,9 +338,6 @@ When Lamech was 182 years old, he had a son.
 
 #### Ages 8-10
 When Lamech was 182 years old, he had a son.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -427,12 +351,13 @@ Lamech named him Noah and said, "He will comfort us in our work and painful toil
 He named him Noah and said, "He will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Noah's name is tied to hope for comfort from painful work under the curse.
 
 **Key Vocabulary**:
-- cursed: Placed under judgment instead of blessing
-- Lord: God's covenant name used in many English Bibles
-- Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
+- comfort: Help and relief in sorrow or hard work
+
+**Cross-References**:
+- Genesis 3:17-19
 
 ---
 
@@ -445,9 +370,6 @@ After Noah was born, Lamech lived 595 more years. He had other sons and daughter
 #### Ages 8-10
 After Noah was born, Lamech lived 595 years and had other sons and daughters.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 5:31
@@ -458,9 +380,6 @@ Altogether, Lamech lived 777 years. Then he died.
 
 #### Ages 8-10
 Altogether, Lamech lived 777 years, and then he died.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -473,39 +392,33 @@ After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 #### Ages 8-10
 After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ## Chapter Summary
-Genesis 5 is a draft resource chapter. The chapter opens with "This is the written family line of Adam. When God created human beings, he made them in the liken...," moves through "Altogether, Mahalalel lived 895 years, and then he died.," and closes with "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.." Review this summary for fuller theological detail before approval.
+The chapter lists the generations from Adam through Seth down to Noah. Again and again, each person lives, has children, and dies, showing the heavy result of sin. Enoch stands out because he walked with God, and God took him. Lamech names Noah with hope that God will bring comfort from the painful ground.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God remembers families**: Names and years matter because real people lived before God.
+2. **Sin brought death**: The repeated deaths show that God's warning in Eden was true.
+3. **Walking with God matters**: Enoch's life shines as a short but beautiful witness in a long list.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-This is the written family line of Adam. When God created human beings, he made them in the likeness of God. - Genesis 5:1
+Enoch walked faithfully with God. Then he was gone, because God took him. - Genesis 5:24
 
 ### Ages 8-10
-This is the written family line of Adam. When God created human beings, he made them in the likeness of God. - Genesis 5:1
+Enoch walked faithfully with God. Then he was no more, because God took him away. - Genesis 5:24
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 5 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 5 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

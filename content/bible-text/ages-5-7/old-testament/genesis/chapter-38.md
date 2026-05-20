@@ -57,16 +57,16 @@ When Judah saw her, he thought she was a woman who took payment to be with men, 
 Judah turned aside to her by the road and said, "Please let me come in to you," for he did not know she was his daughter-in-law. She said, "What will you give me so you may come in to me?"
 
 ### Genesis 38:17
-Judah said, "I will send you a young goat from the flock." She said, "Will you give me something to keep as a pledge until you send it?"
+Judah said, "I will send you a young goat from the flock." She said, "Will you give me something to keep until you send it?"
 
 ### Genesis 38:18
-He said, "What pledge shall I give you?" She said, "Your signet, your bracelets, and the staff in your hand." He gave them to her and came in to her, and she became a mother by him.
+He said, "What should I give you to keep?" She said, "Your signet, your bracelets, and the staff in your hand." He gave them to her and came in to her, and she became a mother by him.
 
 ### Genesis 38:19
 Then Tamar got up and went away. She took off her veil and put her widow's clothes back on.
 
 ### Genesis 38:20
-Judah sent the young goat by his friend the Adullamite, so he could get back the pledge from the woman's hand, but his friend could not find her.
+Judah sent the young goat by his friend the Adullamite, so he could get back the things he had left with the woman, but his friend could not find her.
 
 ### Genesis 38:21
 Hirah asked the men of that place, "Where is the woman who was by the roadside?" They said, "There was no such woman in this place."
@@ -75,7 +75,7 @@ Hirah asked the men of that place, "Where is the woman who was by the roadside?"
 Hirah returned to Judah and said, "I cannot find her. The men of the place also said, 'There was no such woman in this place.'"
 
 ### Genesis 38:23
-Judah said, "Let her keep the pledge, or we will be shamed. I sent this young goat, but you did not find her."
+Judah said, "Let her keep those things, or we will be shamed. I sent this young goat, but you did not find her."
 
 ### Genesis 38:24
 About three months later, someone told Judah, "Tamar your daughter-in-law has acted like an unfaithful woman, and now she is going to have a baby." Judah said, "Bring her out, and let her be burned."

@@ -1,14 +1,14 @@
 # Genesis Chapter 45
 
 ## Book Overview
-Genesis tells how God made the world, how sin entered human life, and how God began his covenant promises through the first families. This resource chapter supports Genesis 45 and should be reviewed before approval.
+Genesis 45 continues the covenant family story. Joseph reveals himself, forgives his brothers, and explains that God sent him ahead to preserve life during famine.
 
 ## Important Keywords
-- command: Something God tells someone to do
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Israel: God's covenant people descended from Jacob
-- Jacob: The man God also named Israel
+- forgiveness: Letting go of guilt because mercy has been given
+- providence: God ruling and caring even through events people cannot see clearly
+- famine: A time when there is very little food
+- family: People joined by parents, children, marriage, or covenant promise
+- rescue: Being saved from danger
 
 ## Verse-by-Verse Translation
 
@@ -21,9 +21,6 @@ Joseph could not hold back his tears in front of everyone standing near him. He 
 #### Ages 8-10
 Joseph could no longer control himself before all who stood by him. He cried, "Make everyone leave me!" So no one stood with Joseph when he made himself known to his brothers.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:2
@@ -34,12 +31,6 @@ Joseph wept so loudly that the Egyptians heard him, and Pharaoh's household hear
 
 #### Ages 8-10
 He wept aloud, and the Egyptians heard it, and Pharaoh's household heard about it.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -52,9 +43,6 @@ Joseph said to his brothers, "I am Joseph. Is my father still alive?" His brothe
 #### Ages 8-10
 Joseph said to his brothers, "I am Joseph. Is my father still alive?" His brothers could not answer him, because they were terrified before him.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:4
@@ -65,12 +53,6 @@ Joseph said to his brothers, "Please come near to me." They came near. He said, 
 
 #### Ages 8-10
 Joseph said to his brothers, "Please come near to me." They came near, and he said, "I am Joseph your brother, whom you sold into Egypt.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -84,10 +66,10 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 "Now do not be grieved or angry with yourselves because you sold me here, for God sent me before you to preserve life.
 
 **Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+Joseph does not excuse the brothers' sin, but he sees God's saving purpose over it.
 
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
+**Cross-References**:
+- Genesis 50:20
 
 ---
 
@@ -100,8 +82,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "The famine has been in the land for two years, and there are still five years in which there will be no plowing or harvest.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- famine: A time when there is very little food
 
 ---
 
@@ -114,12 +96,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "God sent me before you to preserve a remnant for you on the earth and to keep you alive by a great deliverance.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- God: The one true Creator and Lord over all
-
 ---
 
 ### Genesis 45:8
@@ -130,15 +106,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "So it was not you who sent me here, but God. He has made me like a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -151,14 +118,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Hurry and go up to my father. Tell him, 'This is what your son Joseph says: God has made me lord of all Egypt. Come down to me. Do not delay.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- God: The one true Creator and Lord over all
-- Lord: God's covenant name used in many English Bibles
-
 ---
 
 ### Genesis 45:10
@@ -169,9 +128,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "'You shall live in the land of Goshen, and you will be near me, you and your children and grandchildren, your flocks, your herds, and all you have.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -184,8 +140,8 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'There I will provide for you, because five years of famine still remain. Otherwise you and your household and all you have may become poor.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
+**Key Vocabulary**:
+- famine: A time when there is very little food
 
 ---
 
@@ -198,9 +154,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "Your eyes see, and the eyes of my brother Benjamin see, that it is my mouth speaking to you.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:13
@@ -211,12 +164,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "Tell my father about all my honor in Egypt and about all you have seen. Hurry and bring my father down here."
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -229,9 +176,6 @@ Then Joseph threw his arms around his brother Benjamin's neck and wept, and Benj
 #### Ages 8-10
 Then Joseph fell on his brother Benjamin's neck and wept, and Benjamin wept on Joseph's neck.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:15
@@ -242,9 +186,6 @@ Joseph kissed all his brothers and wept over them. After that, his brothers talk
 
 #### Ages 8-10
 Joseph kissed all his brothers and wept over them. After that, his brothers talked with him.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
 
 ---
 
@@ -257,12 +198,6 @@ The news reached Pharaoh's house: "Joseph's brothers have come." Pharaoh and his
 #### Ages 8-10
 The report was heard in Pharaoh's house: "Joseph's brothers have come." Pharaoh and his servants were pleased.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
-
 ---
 
 ### Genesis 45:17
@@ -273,12 +208,6 @@ Pharaoh said to Joseph, "Tell your brothers, 'Do this: load your animals and go 
 
 #### Ages 8-10
 Pharaoh said to Joseph, "Tell your brothers, 'Do this: load your animals and go back to the land of Canaan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -291,12 +220,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Bring your father and your households to me. I will give you the good of the land of Egypt, and you will eat the best of the land.'
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 45:19
@@ -307,12 +230,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 
 #### Ages 8-10
 "You are also commanded to tell them, 'Take wagons from the land of Egypt for your little ones and your wives. Bring your father and come.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -325,12 +242,6 @@ Preserve the verse meaning, sequence, people, places, and theological claim. Exp
 #### Ages 8-10
 "'Do not worry about your possessions, because the best of all the land of Egypt is yours.'"
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-
 ---
 
 ### Genesis 45:21
@@ -341,14 +252,6 @@ The sons of Israel did this. Joseph gave them wagons by Pharaoh's command, and h
 
 #### Ages 8-10
 The sons of Israel did so. Joseph gave them wagons according to Pharaoh's command, and he gave them food for the journey.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- command: Something God tells someone to do
-- Israel: God's covenant people descended from Jacob
-- Pharaoh: The king of Egypt
 
 ---
 
@@ -361,9 +264,6 @@ He gave each brother a change of clothes, but to Benjamin he gave three hundred 
 #### Ages 8-10
 He gave each of them a change of clothes, but to Benjamin he gave three hundred pieces of silver and five changes of clothes.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:23
@@ -374,12 +274,6 @@ Joseph sent this to his father: ten donkeys loaded with the good things of Egypt
 
 #### Ages 8-10
 To his father he sent ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain, bread, and food for his father's journey.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
 
 ---
 
@@ -392,9 +286,6 @@ Then Joseph sent his brothers away. As they left, he said to them, "Do not quarr
 #### Ages 8-10
 Then Joseph sent his brothers away, and as they departed he said to them, "Do not quarrel on the way."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
 ---
 
 ### Genesis 45:25
@@ -405,13 +296,6 @@ They went up out of Egypt and came to their father Jacob in the land of Canaan.
 
 #### Ages 8-10
 They went up out of Egypt and came to their father Jacob in the land of Canaan.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
 
 ---
 
@@ -424,13 +308,6 @@ They told him, "Joseph is still alive! He is ruler over all the land of Egypt." 
 #### Ages 8-10
 They told him, "Joseph is still alive, and he is ruler over all the land of Egypt." Jacob's heart became numb, because he did not believe them.
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Egypt: The land where Israel had been enslaved
-- Jacob: The man God also named Israel
-
 ---
 
 ### Genesis 45:27
@@ -441,12 +318,6 @@ But when they told him all Joseph's words, and when he saw the wagons Joseph had
 
 #### Ages 8-10
 But when they told him all Joseph's words, and when he saw the wagons Joseph had sent to carry him, the spirit of Jacob their father revived.
-
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Jacob: The man God also named Israel
 
 ---
 
@@ -459,42 +330,33 @@ Israel said, "It is enough. Joseph my son is still alive. I will go and see him 
 #### Ages 8-10
 Israel said, "It is enough. Joseph my son is still alive. I will go and see him before I die."
 
-**Translation Notes**:
-Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.
-
-**Key Vocabulary**:
-- Israel: God's covenant people descended from Jacob
-
 ---
 
 ## Chapter Summary
-Genesis 45 is a draft resource chapter. The chapter opens with "Joseph could no longer control himself before all who stood by him. He cried, "Make everyone leav...," moves through "Joseph kissed all his brothers and wept over them. After that, his brothers talked with him.," and closes with "Israel said, "It is enough. Joseph my son is still alive. I will go and see him before I die.." Review this summary for fuller theological detail before approval.
+Joseph reveals himself, forgives his brothers, and explains that God sent him ahead to preserve life during famine.
 
 ## Key Lessons for Children
-1. **Listen carefully to God's word**: This chapter should be read in the order God gave it, with every person, place, and command kept clear.
-2. **God teaches his people**: Even hard chapters show something true about God, people, worship, sin, rescue, or covenant life.
+1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
+2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
+3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
 
 ## Memory Verses by Age
 
 ### Ages 5-7
-Joseph wept so loudly that the Egyptians heard him, and Pharaoh's household heard about it. - Genesis 45:2
+"Now do not be upset or angry with yourselves because you sold me here. God sent me ahead of you to save life. - Genesis 45:5
 
 ### Ages 8-10
-Joseph could no longer control himself before all who stood by him. He cried, "Make everyone leave me!" So no one stood with Joseph when he made himself known to his brothers. - Genesis 45:1
+"Now do not be grieved or angry with yourselves because you sold me here, for God sent me before you to preserve life. - Genesis 45:5
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What picture did this chapter help you see in your mind?
+2. What did God say, do, promise, or show?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
+1. How does this chapter move God's promise story forward?
+2. Which detail should be explained carefully so the meaning stays true?
 
 ## Prayer
-Lord, help us understand Genesis 45 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.
-
-<!-- Draft Resource Note -->
-This resource chapter was generated from the age-range Bible text and WEB original-reference text. It must receive human theological and child-readability review before being added to `content/bible-text/approved-chapters.json`.
-<!-- End Draft Resource Note -->
+Lord, help us read Genesis 45 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
