@@ -7,7 +7,7 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy'];
+const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua'];
 
 const BOOK_NAMES = {
   genesis: 'Genesis',
@@ -15,6 +15,7 @@ const BOOK_NAMES = {
   leviticus: 'Leviticus',
   numbers: 'Numbers',
   deuteronomy: 'Deuteronomy',
+  joshua: 'Joshua',
 };
 
 const BOOK_OVERVIEWS = {
@@ -28,6 +29,8 @@ const BOOK_OVERVIEWS = {
     'Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord.',
   deuteronomy:
     'Deuteronomy records Moses speaking to Israel before they enter the land, calling them to remember the Lord and keep his covenant.',
+  joshua:
+    'Joshua tells how the Lord brought Israel into the promised land, gave them victories, divided the land, and called them to serve him faithfully.',
 };
 
 const CHAPTER_SUMMARIES = {
@@ -65,6 +68,9 @@ const VOCABULARY = {
   Israel: 'God\'s covenant people descended from Jacob',
   Jacob: 'The man God also named Israel',
   judgment: 'God\'s right decision about sin',
+  Jericho: 'The first city Israel faced after crossing the Jordan',
+  Jordan: 'The river Israel crossed when the Lord brought them into the promised land',
+  Joshua: 'The servant God appointed to lead Israel after Moses',
   law: 'God\'s instruction for his people',
   Levites: 'The tribe set apart for service connected with worship',
   Lord: 'God\'s covenant name used in many English Bibles',
@@ -75,6 +81,8 @@ const VOCABULARY = {
   Pharaoh: 'The king of Egypt',
   priest: 'A worship leader who served at the holy place',
   promise: 'Words someone says and keeps',
+  Rahab: 'The woman in Jericho who protected Israel\'s spies and trusted the Lord',
+  refuge: 'A safe place God provided for someone who needed protection until a fair hearing',
   Sabbath: 'A day of holy rest',
   sacrifice: 'An offering given in worship',
   serpent: 'The crafty creature that tempted the woman in Eden',
@@ -334,6 +342,9 @@ function getTranslationNote(bookSlug, chapterNumber, verseNumber) {
   }
   if (bookSlug === 'deuteronomy') {
     return 'Preserve Moses\' covenant teaching and the reason for obedience. Keep commands clear without turning them into slogans.';
+  }
+  if (bookSlug === 'joshua') {
+    return 'Preserve the Lord\'s promise, Israel\'s obedience or disobedience, and the real places in the conquest and land-allotment story. Keep judgment language accurate but child-readable.';
   }
   return 'Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.';
 }
