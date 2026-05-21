@@ -23,6 +23,8 @@
     "review:ruth": "node scripts/review-ruth-resources.js",
     "import:1-samuel": "node scripts/import-1-samuel.js",
     "review:1-samuel": "node scripts/review-1-samuel-resources.js",
+    "import:2-samuel": "node scripts/import-2-samuel.js",
+    "review:2-samuel": "node scripts/review-2-samuel-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {

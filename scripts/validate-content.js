@@ -154,6 +154,10 @@ const expectedVerseCounts = {
     23, 52, 35, 23, 58, 30, 24, 42, 15, 23, 29, 22,
     44, 25, 12, 25, 11, 31, 13,
   ]),
+  ...chapterCounts('old-testament/2-samuel', [
+    27, 32, 39, 12, 25, 23, 29, 18, 13, 19, 27, 31,
+    39, 33, 37, 23, 29, 33, 43, 26, 22, 51, 39, 25,
+  ]),
 };
 
 const theologicalGuardrails = [
