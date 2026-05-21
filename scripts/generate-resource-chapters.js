@@ -7,7 +7,7 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const TESTAMENT = 'old-testament';
 const AGE_RANGES = ['5-7', '8-10'];
 
-const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel'];
+const BOOKS = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings'];
 
 const BOOK_NAMES = {
   genesis: 'Genesis',
@@ -20,6 +20,7 @@ const BOOK_NAMES = {
   ruth: 'Ruth',
   '1-samuel': '1 Samuel',
   '2-samuel': '2 Samuel',
+  '1-kings': '1 Kings',
 };
 
 const BOOK_OVERVIEWS = {
@@ -43,6 +44,8 @@ const BOOK_OVERVIEWS = {
     '1 Samuel tells how the Lord answered Hannah, called Samuel, judged corrupt leadership, gave Israel a king, rejected Saul for disobedience, and began raising up David.',
   '2-samuel':
     '2 Samuel tells how the Lord established David as king, made covenant promises to his house, exposed David\'s sin and its sorrow, and showed both judgment and mercy.',
+  '1-kings':
+    '1 Kings tells how Solomon received wisdom and built the temple, how his heart turned away, how the kingdom divided, and how the Lord spoke through prophets like Elijah.',
 };
 
 const CHAPTER_SUMMARIES = {
@@ -102,6 +105,12 @@ const VOCABULARY = {
   Saul: 'Israel\'s first king, who later disobeyed the Lord',
   Shiloh: 'The place where the tabernacle stood in Samuel\'s early days',
   Zion: 'The stronghold city David captured, also called the city of David',
+  Ahab: 'A wicked king of Israel who worshiped Baal',
+  Elijah: 'The prophet who called Israel back to the Lord',
+  Jeroboam: 'The first king of the northern kingdom of Israel after the kingdom divided',
+  Rehoboam: 'Solomon\'s son who became king of Judah after the kingdom divided',
+  Solomon: 'David\'s son who became king and asked the Lord for wisdom',
+  temple: 'The house Solomon built for worshiping the Lord in Jerusalem',
   law: 'God\'s instruction for his people',
   Levites: 'The tribe set apart for service connected with worship',
   Lord: 'God\'s covenant name used in many English Bibles',
@@ -388,6 +397,9 @@ function getTranslationNote(bookSlug, chapterNumber, verseNumber) {
   }
   if (bookSlug === '2-samuel') {
     return 'Preserve the Lord\'s covenant promises to David, David\'s kingship, the seriousness of David\'s sin, and the grief that follows rebellion. Keep adult and violent details truthful, restrained, and child-readable.';
+  }
+  if (bookSlug === '1-kings') {
+    return 'Preserve the Lord\'s covenant promises, Solomon\'s wisdom and failure, the divided kingdom, true worship, idolatry, and the prophet\'s word. Keep judgment and adult details truthful, restrained, and child-readable.';
   }
   return 'Preserve the verse meaning, sequence, people, places, and theological claim. Expand this note during review if the wording could confuse a child.';
 }

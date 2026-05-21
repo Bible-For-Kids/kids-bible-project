@@ -158,6 +158,10 @@ const expectedVerseCounts = {
     27, 32, 39, 12, 25, 23, 29, 18, 13, 19, 27, 31,
     39, 33, 37, 23, 29, 33, 43, 26, 22, 51, 39, 25,
   ]),
+  ...chapterCounts('old-testament/1-kings', [
+    53, 46, 28, 34, 18, 38, 51, 66, 28, 29, 43,
+    33, 34, 31, 34, 34, 24, 46, 21, 43, 29, 53,
+  ]),
 };
 
 const theologicalGuardrails = [
