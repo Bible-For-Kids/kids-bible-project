@@ -1,6 +1,6 @@
 const path = require('path')
 
-const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings'])
+const ENFORCED_BIBLE_TEXT_BOOKS = new Set(['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings'])
 
 const hardBlockedTerms = [
   {
@@ -432,6 +432,7 @@ function finalPolish(text) {
     .replace(/\bwater for impurity\b/g, 'cleansing water')
     .replace(/\bHis being unclean is yet on him\b/g, 'He is still unclean')
     .replace(/\bsweet sweet-smelling incense\b/g, 'sweet-smelling incense')
+    .replace(/\bsweet-smelling sweet-smelling incense\b/g, 'sweet-smelling incense')
     .replace(/\bsweet-smelling incense pans\b/g, 'incense pans')
     .replace(/\bsweet-smelling incense pan\b/g, 'incense pan')
     .replace(/\ba incense pan\b/g, 'an incense pan')

@@ -17,7 +17,7 @@ interface ApprovedChapterManifest {
 
 const AGE_RANGES: AgeRange[] = ['5-7', '8-10']
 const TESTAMENT = 'old-testament' as const
-const BOOK_ORDER = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings']
+const BOOK_ORDER = ['genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings']
 
 export async function getBibleCatalog(): Promise<BibleBookSummary[]> {
   const approvedChapters = await getApprovedChapterMap()

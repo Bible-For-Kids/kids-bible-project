@@ -27,6 +27,8 @@
     "review:2-samuel": "node scripts/review-2-samuel-resources.js",
     "import:1-kings": "node scripts/import-1-kings.js",
     "review:1-kings": "node scripts/review-1-kings-resources.js",
+    "import:2-kings": "node scripts/import-2-kings.js",
+    "review:2-kings": "node scripts/review-2-kings-resources.js",
     "validate:content": "node scripts/validate-content.js"
   },
   "dependencies": {
