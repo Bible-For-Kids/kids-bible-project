@@ -10,6 +10,9 @@ Genesis 6 shows human wickedness spreading across the earth, but Noah finds favo
 - righteous: Right before God, shown by trust and obedience
 - covenant: A serious promise relationship God makes
 - ark: The large boat God told Noah to build
+- sons of God: A difficult phrase in Genesis 6. The passage keeps the phrase but does not plainly explain exactly who they were.
+- Nephilim: A hard ancient name. Genesis describes them as mighty, famous men from long ago.
+- mighty men: Powerful, well-known men from long ago
 
 ## Verse-by-Verse Translation
 
@@ -33,6 +36,13 @@ The sons of God saw that the daughters of humans were beautiful. They took the w
 #### Ages 8-10
 The sons of God saw that the daughters of humans were beautiful, and they took as wives any they chose.
 
+**Translation Notes**:
+The phrase "sons of God" is difficult, and faithful readers have understood it in different ways. Keep the Bible's phrase in the text, and explain that the passage focuses on their taking any wives they chose as human wickedness grows.
+
+**Key Vocabulary**:
+- sons of God: A difficult phrase in Genesis 6. The passage keeps the phrase but does not plainly explain exactly who they were.
+- daughters of humans: Women from human families
+
 ---
 
 ### Genesis 6:3
@@ -50,10 +60,22 @@ Then the Lord said, "My Spirit will not contend with humans forever, for they ar
 **Original Reference**: Genesis 6:4 - The Nephilim were in the earth in those days, and also after that, when God's sons came in to men's daughters and had children with them. Those were the mighty men who were of old, men of renown.
 
 #### Ages 5-7
-The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, famous men.
+The Nephilim were on the earth in those days, and also later. This was when the sons of God and the daughters of humans had children together. Those were the mighty men from long ago, famous men.
 
 #### Ages 8-10
-The Nephilim were on the earth in those days, and also afterward. They were the mighty men of long ago, men well known in their time.
+The Nephilim were on the earth in those days, and also afterward, when the sons of God and the daughters of humans had children together. Those were the mighty men of long ago, men well known in their time.
+
+**Translation Notes**:
+This verse is difficult. It says the Nephilim were on the earth in those days and afterward, when the sons of God and daughters of humans had children. It connects these events with mighty, famous men from long ago, but the child-facing wording should not force an explanation the verse itself does not settle.
+
+**Key Vocabulary**:
+- Nephilim: A hard ancient name. Genesis says they were on earth in those days and later, and describes them as mighty, famous men from long ago.
+- sons of God: The difficult phrase from verse 2; the passage does not plainly explain exactly who they were.
+- had children together: The verse connects these births with the mighty men from long ago without telling every detail.
+- mighty men: Powerful, well-known men from long ago
+
+**Cross-References**:
+- Numbers 13:33
 
 ---
 

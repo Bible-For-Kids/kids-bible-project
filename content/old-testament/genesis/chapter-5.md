@@ -7,7 +7,7 @@ Genesis 5 gives the family line from Adam to Noah. The repeated words about deat
 - genealogy: A family line that tells who came from whom
 - generation: People living in the same time, or a step in a family line
 - death: The end of earthly life
-- walked with God: Lived in close faith and fellowship with God
+- walked with God: Lived in close trust, fellowship, and faithfulness with God; this means more than taking a walk
 - comfort: Help and relief in sorrow or hard work
 
 ## Verse-by-Verse Translation
@@ -261,8 +261,11 @@ After Methuselah was born, Enoch walked faithfully with God for 300 years. He ha
 #### Ages 8-10
 After Methuselah was born, Enoch walked faithfully with God for 300 years and had other sons and daughters.
 
+**Translation Notes**:
+"Walked with God" is a Bible picture for close fellowship and faithful life with God. The age text says "walked faithfully with God" so children do not think the verse only means taking a walk.
+
 **Key Vocabulary**:
-- walked with God: Lived in close faith and fellowship with God
+- walked faithfully with God: Lived in close trust, fellowship, and faithfulness with God; more than taking a walk
 
 ---
 
@@ -287,10 +290,11 @@ Enoch walked faithfully with God. Then he was gone, because God took him.
 Enoch walked faithfully with God. Then he was no more, because God took him away.
 
 **Translation Notes**:
-Avoid adding details about Enoch beyond the text; the verse says he walked with God and God took him.
+Avoid adding details about Enoch beyond the text. Genesis says he walked with God and God took him; Hebrews 11:5 later says Enoch did not see death.
 
 **Key Vocabulary**:
-- walked with God: Lived in close faith and fellowship with God
+- walked faithfully with God: Lived in close trust, fellowship, and faithfulness with God; more than taking a walk
+- God took him: God brought Enoch away from ordinary earthly life; Genesis does not explain every detail
 
 **Cross-References**:
 - Hebrews 11:5

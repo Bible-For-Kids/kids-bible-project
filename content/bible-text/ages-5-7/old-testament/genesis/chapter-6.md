@@ -18,7 +18,7 @@ The sons of God saw that the daughters of humans were beautiful. They took the w
 Then the Lord said, "My Spirit will not struggle with humans forever, because they are flesh and will die. Their days will be 120 years."
 
 ### Genesis 6:4
-The Nephilim were on the earth in those days, and also later. They were mighty men from long ago, famous men.
+The Nephilim were on the earth in those days, and also later. This was when the sons of God and the daughters of humans had children together. Those were the mighty men from long ago, famous men.
 
 ### Genesis 6:5
 The Lord saw that human evil had become very great on the earth. Every plan in people's hearts was only evil all the time.

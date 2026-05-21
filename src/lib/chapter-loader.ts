@@ -17,6 +17,7 @@ export interface ChapterData {
   book: string
   chapter: number
   verses: VerseData[]
+  importantKeywords?: string[]
   summary?: string | null
   keyLessons?: string[]
   memoryVerses?: Record<'ages5to7' | 'ages8to10', string | null>
@@ -45,6 +46,7 @@ export async function loadChapterContent(bookSlug: string, chapterNumber: number
   }
 
   const summary = rawContent ? extractSection(rawContent, '## Chapter Summary')?.trim() ?? null : null
+  const importantKeywords = rawContent ? extractBulletList(rawContent, '## Important Keywords') : undefined
   const keyLessons = rawContent ? extractList(rawContent, '## Key Lessons for Children') : undefined
   const memoryVerses = rawContent ? extractMemoryVerses(rawContent) : undefined
   const discussionQuestions = rawContent ? extractDiscussionQuestions(rawContent) : undefined
@@ -54,6 +56,7 @@ export async function loadChapterContent(bookSlug: string, chapterNumber: number
     book: capitalize(bookSlug),
     chapter: chapterNumber,
     verses,
+    importantKeywords,
     summary,
     keyLessons,
     memoryVerses,
