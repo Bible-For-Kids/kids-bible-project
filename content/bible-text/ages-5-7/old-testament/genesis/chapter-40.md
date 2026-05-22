@@ -21,7 +21,7 @@ He put them under guard in the house of the captain of the guard, in the same pr
 The captain of the guard put Joseph in charge of them, and Joseph served them. They stayed under guard for some time.
 
 ### Genesis 40:5
-One night both men dreamed dreams, each man his own dream with its own meaning. They were the cupbearer and the baker of the king of Egypt, and they were kept in the prison.
+One night both men had dreams. Each man had his own dream with its own meaning. They were the cupbearer and the baker of the king of Egypt, and they were kept in the prison.
 
 ### Genesis 40:6
 In the morning Joseph came to them and looked at them, and he saw that they were sad.
@@ -30,7 +30,7 @@ In the morning Joseph came to them and looked at them, and he saw that they were
 Joseph asked Pharaoh's officers who were with him in his master's prison, "Why do your faces look so sad today?"
 
 ### Genesis 40:8
-They said to him, "We have dreamed dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings belong to God? Please tell me your dreams."
+They said to him, "We have had dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings of dreams belong to God? Please tell me your dreams."
 
 ### Genesis 40:9
 The head cupbearer told his dream to Joseph. He said, "In my dream, there was a vine in front of me.
@@ -48,7 +48,7 @@ Joseph said to him, "This is what it means: the three branches are three days.
 Within three days Pharaoh will lift up your head, honor you again, and restore you to your place. You will put Pharaoh's cup into his hand just as you used to do when you were his cupbearer.
 
 ### Genesis 40:14
-But when things go well for you, please remember me. Show kindness to me, mention me to Pharaoh, and bring me out of this house.
+But when things go well for you, please remember me. Show kindness to me, mention me to Pharaoh, and bring me out of this prison house.
 
 ### Genesis 40:15
 I was truly stolen away from the land of the Hebrews, and here also I have done nothing that should have put me into this prison."

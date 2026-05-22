@@ -1,7 +1,7 @@
 # Numbers Chapter 33
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses records Israel's journeys from Egypt to the plains of Moab, step by step.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Moses records Israel's journeys from Egypt to the plains of Moab, step by step.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ These are the travels of the people of Israel, when they went out of the land of
 #### Ages 8-10
 These are the travels of the people of Israel, when they went out of the land of Egypt by their armies under the hand of Moses and Aaron.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Egypt: The land where Israel had been enslaved
@@ -42,8 +39,17 @@ Moses wrote the starting points of their travels by the command of the Lord. The
 Moses wrote the starting points of their travels by the command of the Lord. These are their travels according to their starting points.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Moses records Israel's journeys from Egypt to the plains of Moab, step by step. The Lord then commands Israel to drive out the inhabitants of Canaan, destroy their idols, and divide the land by lot.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses writing Israel's journey stages on a scroll
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 33 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses writing Israel's journey stages on a scroll
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Lord: God's covenant name used in many English Bibles
@@ -61,9 +67,6 @@ They traveled from Rameses in the first month, on the fifteenth day of the first
 #### Ages 8-10
 They traveled from Rameses in the first month, on the fifteenth day of the first month; on the next day after the Passover, the people of Israel went out with a high hand in the sight of all the Egyptians,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -78,9 +81,6 @@ while the Egyptians were burying all their firstborn, whom the Lord had struck a
 
 #### Ages 8-10
 while the Egyptians were burying all their firstborn, whom the Lord had struck among them. The Lord also executed judgments on their gods.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -97,9 +97,6 @@ The people of Israel traveled from Rameses, and camped in Succoth.
 #### Ages 8-10
 The people of Israel traveled from Rameses, and camped in Succoth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -113,9 +110,6 @@ They traveled from Succoth, and camped in Etham, which is in the edge of the wil
 
 #### Ages 8-10
 They traveled from Succoth, and camped in Etham, which is in the edge of the wilderness.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -131,9 +125,6 @@ They traveled from Etham, and turned back to Pihahiroth, which is before Baal Ze
 #### Ages 8-10
 They traveled from Etham, and turned back to Pihahiroth, which is before Baal Zephon, and they camped before Migdol.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:8
@@ -144,9 +135,6 @@ They traveled from before Hahiroth, and crossed through the middle of the sea in
 
 #### Ages 8-10
 They traveled from before Hahiroth, and crossed through the middle of the sea into the wilderness. They went three days' travel in the wilderness of Etham, and camped in Marah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -162,9 +150,6 @@ They traveled from Marah, and came to Elim. In Elim, there were twelve springs o
 #### Ages 8-10
 They traveled from Marah, and came to Elim. In Elim, there were twelve springs of water and seventy palm trees, and they camped there.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:10
@@ -176,9 +161,6 @@ They traveled from Elim, and camped by the Red Sea.
 #### Ages 8-10
 They traveled from Elim, and camped by the Red Sea.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:11
@@ -189,9 +171,6 @@ They traveled from the Red Sea, and camped in the wilderness of Sin.
 
 #### Ages 8-10
 They traveled from the Red Sea, and camped in the wilderness of Sin.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -208,9 +187,6 @@ They traveled from the wilderness of Sin, and camped in Dophkah.
 #### Ages 8-10
 They traveled from the wilderness of Sin, and camped in Dophkah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
 - wilderness: A wild, dry place away from towns and farms
@@ -226,9 +202,6 @@ They traveled from Dophkah, and camped in Alush.
 #### Ages 8-10
 They traveled from Dophkah, and camped in Alush.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:14
@@ -240,9 +213,6 @@ They traveled from Alush, and camped in Rephidim, where there was no water for t
 #### Ages 8-10
 They traveled from Alush, and camped in Rephidim, where there was no water for the people to drink.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:15
@@ -253,9 +223,6 @@ They traveled from Rephidim, and camped in the wilderness of Sinai.
 
 #### Ages 8-10
 They traveled from Rephidim, and camped in the wilderness of Sinai.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -271,9 +238,6 @@ They traveled from the wilderness of Sinai, and camped in Kibroth Hattaavah.
 #### Ages 8-10
 They traveled from the wilderness of Sinai, and camped in Kibroth Hattaavah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
 
@@ -288,9 +252,6 @@ They traveled from Kibroth Hattaavah, and camped in Hazeroth.
 #### Ages 8-10
 They traveled from Kibroth Hattaavah, and camped in Hazeroth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:18
@@ -301,9 +262,6 @@ They traveled from Hazeroth, and camped in Rithmah.
 
 #### Ages 8-10
 They traveled from Hazeroth, and camped in Rithmah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -316,9 +274,6 @@ They traveled from Rithmah, and camped in Rimmon Perez.
 #### Ages 8-10
 They traveled from Rithmah, and camped in Rimmon Perez.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:20
@@ -329,9 +284,6 @@ They traveled from Rimmon Perez, and camped in Libnah.
 
 #### Ages 8-10
 They traveled from Rimmon Perez, and camped in Libnah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -344,9 +296,6 @@ They traveled from Libnah, and camped in Rissah.
 #### Ages 8-10
 They traveled from Libnah, and camped in Rissah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:22
@@ -357,9 +306,6 @@ They traveled from Rissah, and camped in Kehelathah.
 
 #### Ages 8-10
 They traveled from Rissah, and camped in Kehelathah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -372,9 +318,6 @@ They traveled from Kehelathah, and camped in Mount Shepher.
 #### Ages 8-10
 They traveled from Kehelathah, and camped in Mount Shepher.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:24
@@ -385,9 +328,6 @@ They traveled from Mount Shepher, and camped in Haradah.
 
 #### Ages 8-10
 They traveled from Mount Shepher, and camped in Haradah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -400,9 +340,6 @@ They traveled from Haradah, and camped in Makheloth.
 #### Ages 8-10
 They traveled from Haradah, and camped in Makheloth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:26
@@ -413,9 +350,6 @@ They traveled from Makheloth, and camped in Tahath.
 
 #### Ages 8-10
 They traveled from Makheloth, and camped in Tahath.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -428,9 +362,6 @@ They traveled from Tahath, and camped in Terah.
 #### Ages 8-10
 They traveled from Tahath, and camped in Terah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:28
@@ -441,9 +372,6 @@ They traveled from Terah, and camped in Mithkah.
 
 #### Ages 8-10
 They traveled from Terah, and camped in Mithkah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -456,9 +384,6 @@ They traveled from Mithkah, and camped in Hashmonah.
 #### Ages 8-10
 They traveled from Mithkah, and camped in Hashmonah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:30
@@ -469,9 +394,6 @@ They traveled from Hashmonah, and camped in Moseroth.
 
 #### Ages 8-10
 They traveled from Hashmonah, and camped in Moseroth.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -484,9 +406,6 @@ They traveled from Moseroth, and camped in Bene Jaakan.
 #### Ages 8-10
 They traveled from Moseroth, and camped in Bene Jaakan.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:32
@@ -497,9 +416,6 @@ They traveled from Bene Jaakan, and camped in Hor Haggidgad.
 
 #### Ages 8-10
 They traveled from Bene Jaakan, and camped in Hor Haggidgad.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -512,9 +428,6 @@ They traveled from Hor Haggidgad, and camped in Jotbathah.
 #### Ages 8-10
 They traveled from Hor Haggidgad, and camped in Jotbathah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:34
@@ -525,9 +438,6 @@ They traveled from Jotbathah, and camped in Abronah.
 
 #### Ages 8-10
 They traveled from Jotbathah, and camped in Abronah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -540,9 +450,6 @@ They traveled from Abronah, and camped in Ezion Geber.
 #### Ages 8-10
 They traveled from Abronah, and camped in Ezion Geber.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:36
@@ -553,9 +460,6 @@ They traveled from Ezion Geber, and camped at Kadesh in the wilderness of Zin.
 
 #### Ages 8-10
 They traveled from Ezion Geber, and camped at Kadesh in the wilderness of Zin.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -571,9 +475,6 @@ They traveled from Kadesh, and camped in Mount Hor, in the edge of the land of E
 #### Ages 8-10
 They traveled from Kadesh, and camped in Mount Hor, in the edge of the land of Edom.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:38
@@ -584,9 +485,6 @@ Aaron the priest went up into Mount Hor at the command of the Lord and died ther
 
 #### Ages 8-10
 Aaron the priest went up into Mount Hor at the command of the Lord and died there, in the fortieth year after the people of Israel had come out of the land of Egypt, in the fifth month, on the first day of the month.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -606,9 +504,6 @@ Aaron was one hundred twenty-three years old when he died in Mount Hor.
 #### Ages 8-10
 Aaron was one hundred twenty-three years old when he died in Mount Hor.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -622,9 +517,6 @@ The Canaanite king of Arad, who lived in the southern land in the land of Canaan
 
 #### Ages 8-10
 The Canaanite king of Arad, who lived in the southern land in the land of Canaan, heard of the coming of the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -640,9 +532,6 @@ They traveled from Mount Hor, and camped in Zalmonah.
 #### Ages 8-10
 They traveled from Mount Hor, and camped in Zalmonah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:42
@@ -653,9 +542,6 @@ They traveled from Zalmonah, and camped in Punon.
 
 #### Ages 8-10
 They traveled from Zalmonah, and camped in Punon.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -668,9 +554,6 @@ They traveled from Punon, and camped in Oboth.
 #### Ages 8-10
 They traveled from Punon, and camped in Oboth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:44
@@ -681,9 +564,6 @@ They traveled from Oboth, and camped in Iye Abarim, in the border of Moab.
 
 #### Ages 8-10
 They traveled from Oboth, and camped in Iye Abarim, in the border of Moab.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -696,9 +576,6 @@ They traveled from Iyim, and camped in Dibon Gad.
 #### Ages 8-10
 They traveled from Iyim, and camped in Dibon Gad.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:46
@@ -709,9 +586,6 @@ They traveled from Dibon Gad, and camped in Almon Diblathaim.
 
 #### Ages 8-10
 They traveled from Dibon Gad, and camped in Almon Diblathaim.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -724,9 +598,6 @@ They traveled from Almon Diblathaim, and camped in the mountains of Abarim, befo
 #### Ages 8-10
 They traveled from Almon Diblathaim, and camped in the mountains of Abarim, before Nebo.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:48
@@ -737,9 +608,6 @@ They traveled from the mountains of Abarim, and camped in the plains of Moab by 
 
 #### Ages 8-10
 They traveled from the mountains of Abarim, and camped in the plains of Moab by the Jordan at Jericho.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -752,9 +620,6 @@ They camped by the Jordan, from Beth Jeshimoth even to Abel Shittim in the plain
 #### Ages 8-10
 They camped by the Jordan, from Beth Jeshimoth even to Abel Shittim in the plains of Moab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:50
@@ -765,9 +630,6 @@ The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -785,9 +647,6 @@ Speak to the people of Israel, and tell them, "When you pass over the Jordan int
 #### Ages 8-10
 Speak to the people of Israel, and tell them, "When you pass over the Jordan into the land of Canaan,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -802,9 +661,6 @@ then you must drive out all the people who live there of the land from before yo
 #### Ages 8-10
 then you must drive out all the people who live there of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:53
@@ -815,9 +671,6 @@ You must take possession of the land, and live there; for I have given the land 
 
 #### Ages 8-10
 You must take possession of the land, and live there; for I have given the land to you to possess it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -830,9 +683,6 @@ Divide the land by lot for your families. Give larger families more land and sma
 #### Ages 8-10
 Divide the land by lot for your families. Give larger families more inheritance and smaller families less inheritance. Each family must receive the place the lot shows, according to its tribe.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:55
@@ -844,9 +694,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "But if you do not drive out the people who live there of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you live.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 33:56
@@ -857,9 +704,6 @@ It must happen that as I thought to do to them, so I will do to you."
 
 #### Ages 8-10
 It must happen that as I thought to do to them, so I will do to you."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -881,12 +725,11 @@ These are the travels of the people of Israel, when they went out of the land of
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God remembers the journey?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God remembers the journey"?
+2. How does this chapter also help explain "The land must not keep its idols"?
 ## Prayer
 Lord, help us understand Numbers 33 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

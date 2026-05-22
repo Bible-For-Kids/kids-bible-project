@@ -37,7 +37,7 @@ Abraham said of his wife Sarah, "She is my sister." So Abimelek king of Gerar se
 **Original Reference**: Genesis 20:3 - But God came to Abimelech in a dream of the night, and said to him, "Behold, you are a dead man, because of the woman whom you have taken; for she is a man's wife."
 
 #### Ages 5-7
-But God came to Abimelek in a dream at night and said, "You are as good as dead because of the woman you have taken. She is a married woman."
+But God came to Abimelek in a dream at night and said, "You are going to die because of the woman you have taken. She is a married woman."
 
 #### Ages 8-10
 But God came to Abimelek in a dream one night and said to him, "You are as good as dead because of the woman you have taken. She is a married woman."
@@ -90,7 +90,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 20:7 - Now therefore, restore the man's wife. For he is a prophet, and he will pray for you, and you will live. If you don't restore her, know for sure that you will die, you, and all who are yours."
 
 #### Ages 5-7
-Now return the man's wife. He is my prophet, a man who speaks for me, and he will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
+Now return the man's wife. He is my prophet, a man who speaks for me. He will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
 
 #### Ages 8-10
 Now return the man's wife, for he is a prophet, a man who speaks for me. He will pray for you, and you will live. But if you do not return her, know that you and all who belong to you will surely die."
@@ -156,7 +156,7 @@ Besides, she really is my sister, the daughter of my father though not the daugh
 **Original Reference**: Genesis 20:13 - When God caused me to wander from my father's house, I said to her, 'This is your kindness which you shall show to me. Everywhere that we go, say of me, "He is my brother." ' "
 
 #### Ages 5-7
-When God caused me to wander from my father's house, I said to Sarah, 'This is how you can show love to me: everywhere we go, say about me, He is my brother.'"
+When God caused me to wander from my father's house, I said to Sarah, 'This is how you can show faithful love to me: everywhere we go, say about me, He is my brother.'"
 
 #### Ages 8-10
 When God caused me to wander from my father's household, I said to Sarah, 'This is how you can show your love to me: everywhere we go, say of me, He is my brother.'"

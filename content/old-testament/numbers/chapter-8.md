@@ -1,7 +1,7 @@
 # Numbers Chapter 8
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on aaron lights the lamps, and the Levites are cleansed and offered before the Lord for service.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Aaron lights the lamps, and the Levites are cleansed and offered before the Lord for service.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to Aaron, and tell him, 'When you light the lamps, the seven lamps must give light in front of the lamp stand.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -56,9 +50,6 @@ Aaron did so. He lit its lamps to light the area in front of the lamp stand, as 
 
 #### Ages 8-10
 Aaron did so. He lit its lamps to light the area in front of the lamp stand, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -77,9 +68,6 @@ The lampstand was made from hammered gold. From its base to its flower shapes, i
 #### Ages 8-10
 The lampstand was made from hammered gold. From its base to its flower shapes, it was hammered work. It was made according to the pattern the Lord had shown Moses.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -95,9 +83,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -115,9 +100,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Take the Levites from among the people of Israel, and cleanse them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -133,9 +115,6 @@ You must do this to make them clean for worship: sprinkle cleansing water on the
 #### Ages 8-10
 You must do this to cleanse them: sprinkle cleansing water on them, let them shave their whole bodies with a razor, let them wash their clothes, and let them cleanse themselves.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 8:8
@@ -146,9 +125,6 @@ Then they must take a young bull with its grain gift of fine flour mixed with oi
 
 #### Ages 8-10
 Then they must take a young bull with its grain offering of fine flour mixed with oil. You must take another young bull as a sin offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -165,9 +141,6 @@ You must present the Levites before the Tent of Meeting. You must assemble the w
 #### Ages 8-10
 You must present the Levites before the Tent of Meeting. You must assemble the whole community of the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -182,9 +155,6 @@ You must present the Levites before the Lord. The people of Israel must lay thei
 
 #### Ages 8-10
 You must present the Levites before the Lord. The people of Israel must lay their hands on the Levites,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -202,9 +172,6 @@ Aaron must lift the Levites before the Lord as an offering from the people of Is
 
 #### Ages 8-10
 Aaron must lift the Levites before the Lord as an offering from the people of Israel, so they may do the Lord's service.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -224,9 +191,6 @@ The Levites must lay their hands on the heads of the bulls. Then you must offer 
 #### Ages 8-10
 The Levites must lay their hands on the heads of the bulls. Then you must offer one bull as a sin offering and the other as a burned offering to the Lord, to make atonement for the Levites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - Levites: The tribe set apart for service connected with worship
@@ -244,9 +208,6 @@ You must place the Levites before Aaron and his sons, and lift them before the L
 
 #### Ages 8-10
 You must place the Levites before Aaron and his sons, and lift them before the Lord as an offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -267,8 +228,17 @@ Thus you must separate the Levites from among the people of Israel, and the Levi
 Thus you must separate the Levites from among the people of Israel, and the Levites must be mine.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Aaron lights the lamps, and the Levites are cleansed and offered before the Lord for service. God says the Levites belong to him in place of Israel's firstborn and gives them work at the Tent of Meeting.
 
+<!-- Illustration Prompt -->
+**Scene**: The Levites standing ready for service after being cleansed
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 8 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: The Levites standing ready for service after being cleansed
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -283,9 +253,6 @@ After that, the Levites may go in to serve at the Tent of Meeting. You must clea
 
 #### Ages 8-10
 After that, the Levites may go in to serve at the Tent of Meeting. You must cleanse them and lift them before the Lord as an offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -303,9 +270,6 @@ They are fully given to me from among the people of Israel. I have taken the Lev
 #### Ages 8-10
 They are fully given to me from among the people of Israel. I have taken the Levites for myself instead of every firstborn among the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -319,9 +283,6 @@ For all the firstborn among the people of Israel are mine, both people and anima
 
 #### Ages 8-10
 For all the firstborn among the people of Israel are mine, both people and animals. On the day that I struck all the firstborn in the land of Egypt, I made them holy for myself.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -339,9 +300,6 @@ I have taken the Levites instead of all the firstborn among the people of Israel
 #### Ages 8-10
 I have taken the Levites instead of all the firstborn among the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -356,9 +314,6 @@ I have given the Levites as a gift to Aaron and his sons from among the people o
 
 #### Ages 8-10
 I have given the Levites as a gift to Aaron and his sons from among the people of Israel. They will do the people's service at the Tent of Meeting and make atonement for Israel, so no plague will strike the people when they come near the holy place."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -378,9 +333,6 @@ Moses, and Aaron, and all the people of Israel did so to the Levites. According 
 #### Ages 8-10
 Moses, and Aaron, and all the community of the people of Israel did so to the Levites. According to all that the Lord commanded Moses concerning the Levites, so the people of Israel did to them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -398,9 +350,6 @@ The Levites cleansed themselves and washed their clothes. Aaron lifted them befo
 
 #### Ages 8-10
 The Levites cleansed themselves and washed their clothes. Aaron lifted them before the Lord as an offering, and Aaron made atonement for them to cleanse them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -420,9 +369,6 @@ After that, the Levites went in to do their service in the Tent of Meeting befor
 #### Ages 8-10
 After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as the Lord had commanded Moses concerning the Levites, so they did to them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Levites: The tribe set apart for service connected with worship
@@ -441,9 +387,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -460,9 +403,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "This is what belongs to the Levites: from twenty-five years old and older, they must come to serve in the work of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -477,9 +417,6 @@ and from the age of fifty years they must retire from doing the work, and must s
 #### Ages 8-10
 and from the age of fifty years they must retire from doing the work, and must serve no more,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 8:26
@@ -490,9 +427,6 @@ They may help their brothers at the Tent of Meeting and keep the duties, but the
 
 #### Ages 8-10
 They may help their brothers at the Tent of Meeting and keep the duties, but they must not do the heavy service work. This is how you must have the Levites do their duties."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -517,12 +451,11 @@ Aaron lights the lamps, and the Levites are cleansed and offered before the Lord
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God gives light for worship?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God gives light for worship"?
+2. How does this chapter also help explain "God prepares his servants"?
 ## Prayer
 Lord, help us understand Numbers 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

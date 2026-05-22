@@ -102,7 +102,7 @@ The thin heads swallowed the seven full, good heads. Then Pharaoh woke and saw t
 **Original Reference**: Genesis 41:8 - In the morning, his spirit was troubled, and he sent and called for all of Egypt's magicians and wise men. Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
 
 #### Ages 5-7
-In the morning, Pharaoh's heart was troubled. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
+In the morning, Pharaoh felt troubled inside. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
 
 #### Ages 8-10
 In the morning, Pharaoh's heart was troubled. He called all the magicians and wise men of Egypt and told them his dreams, but no one could explain what they meant.
@@ -203,7 +203,7 @@ Pharaoh said to Joseph, "I have dreamed a dream, and no one can explain it. I ha
 **Original Reference**: Genesis 41:16 - Joseph answered Pharaoh, saying, "It isn't in me. God will give Pharaoh an answer of peace."
 
 #### Ages 5-7
-Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer of peace."
+Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer that brings peace."
 
 #### Ages 8-10
 Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer of peace."
@@ -511,10 +511,10 @@ Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one 
 **Original Reference**: Genesis 41:40 - You shall be over my house. All my people will be ruled according to your word. Only in the throne I will be greater than you."
 
 #### Ages 5-7
-"You shall be over my house, and all my people will obey your word. Only in the throne will I be greater than you."
+"You shall be over my house, and all my people will obey your word. Only on the throne will I be greater than you."
 
 #### Ages 8-10
-"You shall be over my house, and all my people will obey your command. Only in the throne will I be greater than you."
+"You shall be over my house, and all my people will obey your command. Only on the throne will I be greater than you."
 
 ---
 
@@ -575,10 +575,10 @@ Pharaoh said to Joseph, "I am Pharaoh, but without your command no one in all Eg
 **Original Reference**: Genesis 41:45 - Pharaoh called Joseph's name Zaphenath-Paneah. He gave him Asenath, the daughter of Potiphera priest of On as a wife. Joseph went out over the land of Egypt.
 
 #### Ages 5-7
-Pharaoh gave Joseph the name Zaphnath-paaneah. He also gave Joseph Asenath, the daughter of Potiphera priest of On, as his wife. Joseph went out over the land of Egypt.
+Pharaoh gave Joseph the name Zaphnath-paaneah. He also gave Joseph Asenath, the daughter of Potiphera, the priest of On, as his wife. Joseph went out over the land of Egypt.
 
 #### Ages 8-10
-Pharaoh named Joseph Zaphnath-paaneah and gave him Asenath, the daughter of Potiphera priest of On, as his wife. Joseph went throughout the land of Egypt.
+Pharaoh named Joseph Zaphnath-paaneah and gave him Asenath, the daughter of Potiphera, the priest of On, as his wife. Joseph went throughout the land of Egypt.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -603,7 +603,7 @@ Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph l
 **Original Reference**: Genesis 41:47 - In the seven plenteous years the earth produced abundantly.
 
 #### Ages 5-7
-During the seven years of plenty, the land brought out food by handfuls.
+During the seven years of plenty, the land brought out handful after handful of food.
 
 #### Ages 8-10
 During the seven plentiful years, the land produced more and more food.
@@ -639,10 +639,10 @@ Joseph stored grain like the sand of the sea, so much that he stopped counting i
 **Original Reference**: Genesis 41:50 - To Joseph were born two sons before the year of famine came, whom Asenath, the daughter of Potiphera priest of On, bore to him.
 
 #### Ages 5-7
-Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 #### Ages 8-10
-Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 **Key Vocabulary**:
 - famine: A time when there is very little food

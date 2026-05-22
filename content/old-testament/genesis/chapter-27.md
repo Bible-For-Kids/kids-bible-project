@@ -52,7 +52,7 @@ Isaac said, "See now, I am old, and I do not know the day of my death."
 "Then make me the tasty food I love and bring it to me to eat, so that I may bless you from my heart before I die."
 
 #### Ages 8-10
-"Prepare the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
+"Prepare the tasty food I love and bring it to me to eat, so that I may bless you from my heart before I die."
 
 ---
 
@@ -220,7 +220,7 @@ Jacob went to his father and said, "My father." Isaac said, "Here I am. Who are 
 Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please sit up and eat my wild game, so you may bless me from your heart."
 
 #### Ages 8-10
-Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so your soul may bless me."
+Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so you may bless me from your heart."
 
 **Key Vocabulary**:
 - firstborn: The child born first in a family
@@ -289,7 +289,7 @@ Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am."
 Isaac said, "Bring the food near to me, and I will eat my son's wild game, so I may bless you from my heart." Jacob brought it near, and Isaac ate. Jacob also brought him wine, and he drank.
 
 #### Ages 8-10
-Isaac said, "Bring it near to me, and I will eat my son's game, so my soul may bless you." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
+Isaac said, "Bring it near to me, and I will eat my son's game, so I may bless you from my heart." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
 
 ---
 
@@ -358,10 +358,10 @@ As soon as Isaac finished blessing Jacob, and Jacob had barely left his father's
 **Original Reference**: Genesis 27:31 - He also made savory food, and brought it to his father. He said to his father, "Let my father arise, and eat of his son's venison, that your soul may bless me."
 
 #### Ages 5-7
-Esau had also made tasty food and brought it to his father. He said, "Let my father sit up and eat of his son's wild game, so your soul may bless me."
+Esau had also made tasty food and brought it to his father. He said, "Let my father sit up and eat of his son's wild game, so you may bless me from your heart."
 
 #### Ages 8-10
-Esau also prepared tasty food and brought it to his father. He said, "Let my father arise and eat his son's game, so your soul may bless me."
+Esau also prepared tasty food and brought it to his father. He said, "Let my father arise and eat his son's game, so you may bless me from your heart."
 
 ---
 

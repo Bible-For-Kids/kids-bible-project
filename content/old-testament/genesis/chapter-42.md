@@ -73,7 +73,7 @@ But Jacob did not send Benjamin, Joseph's brother, with them, because he said, "
 **Original Reference**: Genesis 42:5 - The sons of Israel came to buy among those who came, for the famine was in the land of Canaan.
 
 #### Ages 5-7
-The sons of Israel came to buy grain among the other people who were coming, because the famine was also in the land of Canaan.
+The sons of Israel came to buy grain among the other travelers, because the famine was also in the land of Canaan.
 
 #### Ages 8-10
 The sons of Israel came to buy grain among the other travelers, because the famine was also in the land of Canaan.
@@ -244,7 +244,7 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 **Original Reference**: Genesis 42:19 - If you are honest men, then let one of your brothers be bound in your prison; but you go, carry grain for the famine of your houses.
 
 #### Ages 5-7
-"If you are honest men, let one of your brothers stay here in prison. The rest of you may go and carry grain for the hunger of your households.
+"If you are honest men, let one of your brothers stay here in prison. The rest of you may go and carry grain home to feed your hungry households.
 
 #### Ages 8-10
 "If you are honest men, let one of your brothers remain confined in prison. The rest of you may go and carry grain for the hunger of your households.
@@ -271,7 +271,7 @@ On the third day, Joseph said to them, "Do this and live, for I fear God.
 **Original Reference**: Genesis 42:21 - They said to one another, "We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn't listen. Therefore this distress has come upon us."
 
 #### Ages 5-7
-They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us."
+They said to one another, "We are truly guilty because of our brother. We saw how frightened and troubled he was when he begged us, but we would not listen. That is why this trouble has come to us."
 
 #### Ages 8-10
 They said to one another, "We are truly guilty because of our brother. We saw how distressed he was when he begged us, but we would not listen. That is why this trouble has come upon us."
@@ -299,7 +299,7 @@ Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you
 **Original Reference**: Genesis 42:23 - They didn't know that Joseph understood them; for there was an interpreter between them.
 
 #### Ages 5-7
-They did not know that Joseph understood them, because he had been speaking to them through someone who translated their words.
+They did not know that Joseph understood them, because a man had been standing between them to translate their words.
 
 #### Ages 8-10
 They did not know Joseph understood them, because he had been using someone who translated their words.

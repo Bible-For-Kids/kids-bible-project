@@ -9,6 +9,8 @@ Genesis 15 continues the covenant family story. The Lord promises Abram offsprin
 - righteousness: Being counted right before God
 - covenant: A serious promise relationship God makes
 - offspring: Children and later family who come after someone
+- vision: A message from God that someone sees or receives
+- heir: The person who receives a family place or inheritance
 
 ## Verse-by-Verse Translation
 
@@ -20,6 +22,13 @@ After these things, the Lord spoke to Abram in a vision, like a message he could
 
 #### Ages 8-10
 After these things, the word of the Lord came to Abram in a vision: "Do not be afraid, Abram. I am your shield. Your reward will be very great."
+
+**Translation Notes**:
+The Lord answers Abram after the danger and choices of Genesis 14. "Shield" pictures God's protection, not a physical shield Abram holds.
+
+**Key Vocabulary**:
+- vision: A message from God that someone sees or receives
+- shield: Protection
 
 ---
 
@@ -45,6 +54,7 @@ Abram said, "You have given me no offspring, so a servant in my household will b
 
 **Key Vocabulary**:
 - offspring: Children and later family who come after someone
+- heir: The person who receives a family place or inheritance
 
 ---
 
@@ -70,6 +80,16 @@ The Lord brought Abram outside and said, "Look up at the sky and count the stars
 
 **Key Vocabulary**:
 - offspring: Children and later family who come after someone
+
+<!-- Illustration Prompt -->
+**Scene**: Abram standing under the night sky as the Lord promises offspring like the stars
+**Style**: Majestic children's Bible night landscape, full of wonder
+**Characters**: Abram looking up; no visible human form for God
+**Setting**: Outside Abram's tent under a vast sky filled with countless stars
+**Action**: Abram looks up as the Lord tells him to count the stars if he can
+**Emotional Tone**: Wonder, reassurance, promise
+**Age Appropriateness**: Peaceful and awe-filled, not frightening
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -115,6 +135,9 @@ Abram said, "Lord God, how will I know that it will truly be mine?"
 #### Ages 8-10
 Abram said, "Lord God, how can I know that I will possess it?"
 
+**Translation Notes**:
+Abram's question asks for assurance about God's land promise. The chapter answers with the Lord's covenant action.
+
 ---
 
 ### Genesis 15:9
@@ -132,10 +155,13 @@ The Lord said, "Bring me a three-year-old young cow, a three-year-old goat, a th
 **Original Reference**: Genesis 15:10 - He brought him all these, and divided them in the middle, and laid each half opposite the other; but he didn't divide the birds.
 
 #### Ages 5-7
-Abram brought all these to God. He cut the animals in two and placed the halves opposite each other, but he did not cut the birds.
+Abram brought all these to God. He cut the animals in two and placed the halves across from each other, but he did not cut the birds.
 
 #### Ages 8-10
 Abram brought all these to him, cut the animals in two, and arranged the halves opposite each other. He did not cut the birds in two.
+
+**Translation Notes**:
+This is an ancient covenant ceremony. Keep the animal details because the later smoking firepot and flaming torch pass between the pieces.
 
 ---
 
@@ -159,6 +185,16 @@ As the sun was going down, Abram fell into a deep sleep. Thick, frightening dark
 #### Ages 8-10
 As the sun was setting, Abram fell into a deep sleep, and thick, dreadful darkness came over him.
 
+<!-- Illustration Prompt -->
+**Scene**: Abram in deep sleep as thick darkness falls during the covenant ceremony
+**Style**: Serious children's Bible illustration with dramatic but restrained lighting
+**Characters**: Abram asleep nearby; no visible human form for God
+**Setting**: Open land at sunset with the arranged covenant pieces shown respectfully
+**Action**: Darkness settles as Abram receives God's words about the future
+**Emotional Tone**: Awe, holy seriousness, trembling hope
+**Age Appropriateness**: Avoid graphic animal detail; show the pieces simply and from a distance
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 15:13
@@ -169,6 +205,9 @@ Then the Lord said to Abram, "Know this: the family that comes after you will li
 
 #### Ages 8-10
 Then the Lord said to Abram, "Know for certain that your offspring will be strangers in a land that is not theirs. They will be enslaved and mistreated for 400 years.
+
+**Translation Notes**:
+This looks ahead to Israel's future suffering and rescue, but the verse itself does not name Egypt. Keep the future promise clear without adding later details too soon.
 
 **Key Vocabulary**:
 - offspring: Children and later family who come after someone
@@ -190,7 +229,7 @@ But I will judge the nation they serve, and afterward they will come out with ma
 **Original Reference**: Genesis 15:15 - but you will go to your fathers in peace. You will be buried at a good old age.
 
 #### Ages 5-7
-You will go to your ancestors in peace. You will be buried at a good old age.
+You will die in peace and be buried at a good old age.
 
 #### Ages 8-10
 You will go to your ancestors in peace and be buried at a good old age.
@@ -206,6 +245,9 @@ In the fourth generation, your family will come back here, because the sin of th
 #### Ages 8-10
 In the fourth generation, your offspring will come back here, because the sin of the Amorites has not yet reached its full measure."
 
+**Translation Notes**:
+The Lord's timing includes both mercy and judgment. Do not make the Amorites' judgment sound random; the verse ties it to sin reaching its full measure.
+
 **Key Vocabulary**:
 - offspring: Children and later family who come after someone
 
@@ -219,6 +261,16 @@ When the sun had set and darkness had fallen, a smoking firepot and a flaming to
 
 #### Ages 8-10
 When the sun had set and darkness had fallen, a smoking firepot and a flaming torch passed between the pieces.
+
+<!-- Illustration Prompt -->
+**Scene**: A smoking firepot and flaming torch passing between the covenant pieces
+**Style**: Reverent, mysterious children's Bible illustration with deep night and warm firelight
+**Characters**: No human form for God; Abram nearby
+**Setting**: Night over the covenant ceremony
+**Action**: The smoking firepot and flaming torch pass between the pieces, showing the Lord's covenant promise
+**Emotional Tone**: Holy awe, solemn promise, wonder
+**Age Appropriateness**: Keep the focus on light in darkness; avoid graphic sacrifice detail
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -234,6 +286,7 @@ On that day, the Lord made a covenant with Abram and said, "I give this land to 
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 - covenant: A serious promise relationship God makes
+- land: The place God promised to give Abram's family
 - offspring: Children and later family who come after someone
 
 ---
@@ -272,12 +325,12 @@ Amorites, Canaanites, Girgashites, and Jebusites."
 ---
 
 ## Chapter Summary
-The Lord promises Abram offspring as many as the stars, counts Abram's faith as righteousness, and makes a covenant about the land.
+The Lord spoke to Abram in a vision and told him not to be afraid, promising to be his shield and great reward. Abram asked how the promise would continue when he still had no child. The Lord brought him outside, pointed him to the countless stars, and promised that Abram's offspring would be like them. Abram believed the Lord, and the Lord counted it to him as righteousness. Then the Lord made a covenant about the land, spoke about Abram's family's future suffering and rescue, and showed the covenant with a smoking firepot and flaming torch passing between the pieces.
 
 ## Key Lessons for Children
-1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
-2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
-3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
+1. **God meets fear with promise**: The Lord told Abram, "Do not be afraid."
+2. **Faith trusts God's word**: Abram believed the Lord, and the Lord counted it as righteousness.
+3. **God binds himself to his promise**: The covenant scene shows the Lord giving Abram a solemn promise about offspring and land.
 
 ## Memory Verses by Age
 
@@ -290,12 +343,14 @@ Abram believed the Lord, and the Lord counted it to him as righteousness. - Gene
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What did the Lord tell Abram when Abram was afraid?
+2. What did the Lord ask Abram to count in the sky?
+3. What did Abram do when the Lord promised him a family?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. Why was Abram worried about having no child?
+2. What does Genesis 15:6 teach about faith and righteousness?
+3. How does the smoking firepot and flaming torch scene show the seriousness of God's covenant?
 
 ## Prayer
-Lord, help us read Genesis 15 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, when we are afraid, help us hear your word and trust your promise. Thank you that Abram believed you and that you are faithful to every covenant word you speak. Amen.

@@ -12,7 +12,7 @@ Genesis
 Jacob heard Laban's sons talking. They said, "Jacob has taken everything that belonged to our father. He has become rich from what was our father's."
 
 ### Genesis 31:2
-Jacob also saw that Laban did not look at him with kindness like before.
+Jacob also saw that Laban no longer looked at him with kindness like before.
 
 ### Genesis 31:3
 Then the Lord said to Jacob, "Go back to the land of your fathers and to your family. I will be with you."
@@ -27,7 +27,7 @@ He said to them, "I can see that your father does not treat me kindly like befor
 "You know that I served your father with all my strength.
 
 ### Genesis 31:7
-"Your father has tricked me and changed my pay many times, but God has not let him harm me.
+"Your father has tricked me and changed my pay ten times, but God has not let him harm me.
 
 ### Genesis 31:8
 "If he said, 'The speckled animals will be your pay,' then the flocks had speckled young. If he said, 'The streaked animals will be your pay,' then the flocks had streaked young.
@@ -129,7 +129,7 @@ Then Jacob became angry and argued with Laban. Jacob said to him, "What wrong ha
 "In the day, the heat wore me out. At night, the cold kept me awake, and sleep left my eyes.
 
 ### Genesis 31:41
-"For twenty years I lived in your house. I served fourteen years for your two daughters and six years for your flocks, and you changed my pay many times.
+"For twenty years I lived in your house. I served fourteen years for your two daughters and six years for your flocks, and you changed my pay ten times.
 
 ### Genesis 31:42
 "If the God of my father, the God of Abraham and the One Isaac honors and fears, had not been with me, you would have sent me away with nothing. God saw my trouble and the work of my hands, and last night he corrected you."

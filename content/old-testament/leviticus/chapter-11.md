@@ -1,7 +1,7 @@
 # Leviticus Chapter 11
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives Israel food laws about animals, fish, birds, insects, and crawling things.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives Israel food laws about animals, fish, birds, insects, and crawling things.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying to them,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying to them,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel, saying, 'These are the living things which you may eat among all the animals that are on the earth.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -58,9 +52,6 @@ Any animal that has a split hoof, with the hoof divided in two, and chews the cu
 #### Ages 8-10
 Any animal that has a split hoof, with the hoof divided in two, and chews the cud may be eaten.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:4
@@ -71,9 +62,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "But among those animals, you must not eat these, even if they chew the cud or have a split hoof: the camel, because it chews the cud but doesn't have a divided hoof, is unclean to you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -86,9 +74,6 @@ The hyrax, because it chews the cud but doesn't have a divided hoof, is not clea
 #### Ages 8-10
 The hyrax, because it chews the cud but doesn't have a divided hoof, is unclean to you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:6
@@ -99,9 +84,6 @@ The hare, because it chews the cud but doesn't have a divided hoof, is not clean
 
 #### Ages 8-10
 The hare, because it chews the cud but doesn't have a divided hoof, is unclean to you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -114,9 +96,6 @@ The pig, because it has a split hoof divided in two, but doesn't chew the cud, i
 #### Ages 8-10
 The pig, because it has a split hoof divided in two, but doesn't chew the cud, is unclean to you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:8
@@ -127,9 +106,6 @@ You must not eat their meat. You must not touch their dead bodies. They are not 
 
 #### Ages 8-10
 You must not eat their meat. You must not touch their dead bodies. They are unclean to you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -142,9 +118,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "These you may eat of all that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:10
@@ -155,9 +128,6 @@ All that don't have fins and scales in the seas and rivers, all that move in the
 
 #### Ages 8-10
 All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are things the Lord said you must not eat,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -170,9 +140,6 @@ and you must detest them. You must not eat of their meat, and you must detest th
 #### Ages 8-10
 and you must detest them. You must not eat of their meat, and you must detest their dead bodies.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:12
@@ -183,9 +150,6 @@ Whatever has no fins nor scales in the waters is something the Lord said you mus
 
 #### Ages 8-10
 Whatever has no fins nor scales in the waters is something the Lord said you must not eat.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -198,9 +162,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must detest these among the birds; they must not be eaten because they are a hateful thing: the eagle, the vulture, the black vulture,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:14
@@ -211,9 +172,6 @@ the red kite, any kind of black kite,
 
 #### Ages 8-10
 the red kite, any kind of black kite,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -226,9 +184,6 @@ any kind of raven,
 #### Ages 8-10
 any kind of raven,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:16
@@ -239,9 +194,6 @@ the horned owl, the screech owl, the gull, any kind of hawk,
 
 #### Ages 8-10
 the horned owl, the screech owl, the gull, any kind of hawk,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -254,9 +206,6 @@ the little owl, the cormorant, the great owl,
 #### Ages 8-10
 the little owl, the cormorant, the great owl,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:18
@@ -267,9 +216,6 @@ the white owl, the desert owl, the osprey,
 
 #### Ages 8-10
 the white owl, the desert owl, the osprey,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - desert: A dry wilderness place
@@ -285,9 +231,6 @@ the stork, any kind of heron, the hoopoe, and the bat.
 #### Ages 8-10
 the stork, any kind of heron, the hoopoe, and the bat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:20
@@ -298,9 +241,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "All flying insects that walk on all fours are things the Lord said you must not eat.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -313,9 +253,6 @@ Yet you may eat these: of all winged crawling things that walk on four legs, tha
 #### Ages 8-10
 Yet you may eat these: of all winged crawling things that walk on four legs, that have long, jointed legs for hopping on the earth.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:22
@@ -326,9 +263,6 @@ Even of these you may eat: any kind of locust, any kind of katydid, any kind of 
 
 #### Ages 8-10
 Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -341,9 +275,6 @@ But all winged crawling things that have four feet are things the Lord said you 
 #### Ages 8-10
 But all winged crawling things that have four feet are things the Lord said you must not eat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:24
@@ -354,9 +285,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "By these you will become unclean: whoever touches their dead body will be unclean until the evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -369,9 +297,6 @@ Whoever carries any part of their dead body must wash his clothes, and not be cl
 #### Ages 8-10
 Whoever carries any part of their dead body must wash his clothes, and be unclean until the evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:26
@@ -382,9 +307,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is unclean to you. Everyone who touches them will be unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -397,9 +319,6 @@ Whatever goes on its paws, among all animals that walk on four legs, they are no
 #### Ages 8-10
 Whatever goes on its paws, among all animals that walk on four legs, they are unclean to you. Whoever touches their dead body will be unclean until the evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:28
@@ -410,9 +329,6 @@ Whoever carries their dead body must wash his clothes, and not be clean for wors
 
 #### Ages 8-10
 Whoever carries their dead body must wash his clothes, and be unclean until the evening. They are unclean to you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -425,9 +341,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "These are the ones that are unclean to you among the small crawling things that crawl on the earth: the weasel, the rat, any kind of great lizard,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:30
@@ -438,9 +351,6 @@ the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon
 
 #### Ages 8-10
 the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -453,9 +363,6 @@ These are the ones that are not clean for worship for you among all that crawl. 
 #### Ages 8-10
 These are the ones that are unclean to you among all that crawl. Whoever touches them when they are dead will be unclean until the evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:32
@@ -466,9 +373,6 @@ Anything they fall on when they are dead will not be clean for worship; whether 
 
 #### Ages 8-10
 Anything they fall on when they are dead will be unclean; whether it is any container of wood, or clothing, or skin, or sack, whatever container it is, with which any work is done, it must be put into water, and it will be unclean until the evening. Then it will be clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -481,9 +385,6 @@ Every clay bowl into which any of them falls and all that is in it will not be c
 #### Ages 8-10
 Every clay bowl into which any of them falls and all that is in it will be unclean. You must break it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:34
@@ -494,9 +395,6 @@ Any food that could be eaten, if it is soaked in water, will not be clean for wo
 
 #### Ages 8-10
 Any food that could be eaten, if it is soaked in water, will be unclean. All drink that may be drunk in every such container will be unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -509,9 +407,6 @@ Everything that part of their dead body falls on will not be clean for worship; 
 #### Ages 8-10
 Everything that part of their dead body falls on will be unclean; whether oven, or range for pots, it must be broken in pieces. They are unclean, and will be unclean to you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:36
@@ -522,9 +417,6 @@ Nevertheless a spring or a cistern in which water is gathered will be clean for 
 
 #### Ages 8-10
 Nevertheless a spring or a cistern in which water is gathered will be clean, but that which touches their dead body will be unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -537,9 +429,6 @@ If part of their dead body falls on seed meant to be planted, it is clean for wo
 #### Ages 8-10
 If part of their dead body falls on seed meant to be planted, it is clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:38
@@ -550,9 +439,6 @@ But if water has been put on the seed, and part of their dead body falls on it, 
 
 #### Ages 8-10
 But if water has been put on the seed, and part of their dead body falls on it, it is unclean to you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -565,9 +451,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If any animal of which you may eat dies, whoever touches its dead body will be unclean until the evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:40
@@ -578,9 +461,6 @@ Whoever eats of its dead body must wash his clothes, and not be clean for worshi
 
 #### Ages 8-10
 Whoever eats of its dead body must wash his clothes, and be unclean until the evening. Whoever also carries its dead body must wash his clothes, and be unclean until the evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -593,9 +473,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Every small crawling thing that crawls on the earth is a hateful thing. It must not be eaten.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:42
@@ -607,9 +484,6 @@ Whatever goes on its belly, and whatever walks on four legs, or whatever has man
 #### Ages 8-10
 Whatever goes on its belly, and whatever walks on four legs, or whatever has many feet, even all small crawling things that crawl on the earth, you must not eat them; for they are a hateful thing.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 11:43
@@ -620,9 +494,6 @@ You must not make yourselves detestable with any small crawling thing that crawl
 
 #### Ages 8-10
 You must not make yourselves detestable with any small crawling thing that crawls. Do not make yourselves unclean with them.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -636,7 +507,18 @@ For I am the Lord your God. Keep yourselves holy, and be holy, because I am holy
 For I am the Lord your God. Keep yourselves holy, and be holy, because I am holy. Do not make yourselves unclean with any small crawling thing on the earth.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The food laws are not flattened into ordinary diet advice. They teach Israel to be holy because the Lord is holy.
+**Cross-References**:
+- 1 Peter 1:15-16
+<!-- Illustration Prompt -->
+**Scene**: Clean and unclean animals shown in separate groups as Moses teaches Israel
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Moses, families, animals in the distance
+**Setting**: Israelite camp
+**Action**: The people learn the Lord's food laws
+**Emotional Tone**: Orderly, thoughtful, holy
+**Age Appropriateness**: Gentle teaching scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -654,9 +536,6 @@ For I am the Lord who brought you up out of the land of Egypt, to be your God. Y
 
 #### Ages 8-10
 For I am the Lord who brought you up out of the land of Egypt, to be your God. You must therefore be holy, for I am holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -676,9 +555,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that crawls on the earth,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 
@@ -692,9 +568,6 @@ to make a distinction between what is not clean for worship and what is clean fo
 
 #### Ages 8-10
 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -716,12 +589,11 @@ Any animal that has a split hoof, with the hoof divided in two, and chews the cu
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 11 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

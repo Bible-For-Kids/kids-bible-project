@@ -42,7 +42,7 @@ These are the names of Esau's sons: Eliphaz, son of Esau's wife Adah, and Reuel,
 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ### Genesis 36:12
-Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
+Timna was a lesser wife of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
 
 ### Genesis 36:13
 The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Esau's wife Bashemath.
@@ -78,7 +78,7 @@ Lotan's children were Hori and Hemam, and Lotan's sister was Timna.
 Shobal's children were Alvan, Manahath, Ebal, Shepho, and Onam.
 
 ### Genesis 36:24
-Zibeon's children were Ajah and Anah. This was the Anah who found the mules in the wilderness while feeding the donkeys of his father Zibeon.
+Zibeon's children were Ajah and Anah. This was the Anah who found the hot springs in the wilderness while feeding the donkeys of his father Zibeon.
 
 ### Genesis 36:25
 Anah's children were Dishon and Aholibamah, the daughter of Anah.

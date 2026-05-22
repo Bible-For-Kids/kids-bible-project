@@ -1,7 +1,7 @@
 # Leviticus Chapter 13
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives priests instructions for examining serious skin disease and marks of mildew in clothes.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives priests instructions for examining serious skin disease and marks of mildew in clothes.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man has a swelling, a scab, or a bright spot on his skin, and it looks like a serious skin disease, he must be brought to Aaron the priest or to one of Aaron's sons, the priests.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - priest: A worship leader who served at the holy place
@@ -60,7 +54,18 @@ The priest must look closely at the mark on the skin. If the hair in the mark ha
 The priest must examine the mark on the skin. If the hair in the mark has turned white, and the mark looks deeper than the skin around it, it is a serious skin disease. The priest must say the man is unclean.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The priest's careful examination is preserved. These laws are about being clean or not clean for worship, not about blaming a sick person.
+**Cross-References**:
+- Leviticus 14:2-3
+<!-- Illustration Prompt -->
+**Scene**: A priest carefully examining a skin mark from a respectful distance
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priest and Israelite
+**Setting**: Outside a family tent
+**Action**: The priest looks carefully before making a decision
+**Emotional Tone**: Careful, serious, protective
+**Age Appropriateness**: No graphic skin detail
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -76,9 +81,6 @@ But if the bright spot is white and does not look deeper than the skin, and the 
 #### Ages 8-10
 But if the bright spot is white and does not look deeper than the skin, and the hair has not turned white, the priest must keep the person with the mark apart for seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -92,9 +94,6 @@ On the seventh day, the priest must look at him again. If the mark has stopped s
 
 #### Ages 8-10
 On the seventh day, the priest must examine him again. If the mark has stopped spreading, the priest must keep him apart for seven more days.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -110,9 +109,6 @@ On the next seventh day, the priest must look at him again. If the mark has fade
 #### Ages 8-10
 On the next seventh day, the priest must examine him again. If the mark has faded and has not spread, the priest must say he is clean. It was only a scab. The man must wash his clothes, and he will be clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -126,9 +122,6 @@ But if the scab spreads on the skin after the man has shown himself to the pries
 
 #### Ages 8-10
 But if the scab spreads on the skin after the man has shown himself to the priest to be made clean, he must show himself to the priest again.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -144,9 +137,6 @@ The priest must look at him. If the scab has spread on the skin, the priest must
 #### Ages 8-10
 The priest must examine him. If the scab has spread on the skin, the priest must say he is unclean. It is a serious disease.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -160,9 +150,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When a man has a serious skin disease, he must be brought to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -178,9 +165,6 @@ The priest must look closely. If there is a white swelling on the skin, and it h
 #### Ages 8-10
 The priest must examine him. If there is a white swelling on the skin, and it has turned the hair white, and there is raw skin in the swelling,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -194,9 +178,6 @@ it is a long-lasting serious disease in his skin. The priest must say he is not 
 
 #### Ages 8-10
 it is a long-lasting serious disease in his skin. The priest must say he is unclean. The priest must not keep him apart for more watching, because the disease is already clear.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -212,9 +193,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "But if the serious disease breaks out all over the skin, and it covers the person from head to foot, as far as the priest can see,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -228,9 +206,6 @@ then the priest must look closely. If the disease has covered all his body and t
 
 #### Ages 8-10
 then the priest must examine him. If the disease has covered all his body and the skin has all turned white, the priest must say the person is clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -246,9 +221,6 @@ But whenever raw skin appears on him, he is not clean for worship.
 #### Ages 8-10
 But whenever raw skin appears on him, he is unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:15
@@ -259,9 +231,6 @@ The priest must look at the raw skin and say he is not clean for worship, becaus
 
 #### Ages 8-10
 The priest must examine the raw skin and say he is unclean, because the raw skin is unclean. It is a serious disease.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -277,9 +246,6 @@ But if the raw skin turns white again, the person must come back to the priest.
 #### Ages 8-10
 But if the raw skin turns white again, the person must come back to the priest.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -293,9 +259,6 @@ The priest must look at him. If the mark has turned white, the priest must say t
 
 #### Ages 8-10
 The priest must examine him. If the mark has turned white, the priest must say the person is clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -311,9 +274,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "When the body has a boil on its skin, and it has healed,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:19
@@ -324,9 +284,6 @@ and in the place of the boil there is a white swelling, or a bright spot, reddis
 
 #### Ages 8-10
 and in the place of the boil there is a white swelling, or a bright spot, reddish-white, then it must be shown to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -342,9 +299,6 @@ The priest must examine it. If its appearance is deeper than the skin, and its h
 #### Ages 8-10
 The priest must examine it. If its appearance is deeper than the skin, and its hair has turned white, then the priest must say he is unclean. It is the serious mark on the skin. It has broken out in the boil.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -358,9 +312,6 @@ But if the priest examines it, and there are no white hairs in it, and it isn't 
 
 #### Ages 8-10
 But if the priest examines it, and there are no white hairs in it, and it isn't deeper than the skin, but is dim, then the priest must keep him apart seven days.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -376,9 +327,6 @@ If it spreads in the skin, then the priest must say he is not clean for worship.
 #### Ages 8-10
 If it spreads in the skin, then the priest must say he is unclean. It is a mark of disease.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -392,9 +340,6 @@ But if the bright spot stays in its place, and hasn't spread, it is the scar fro
 
 #### Ages 8-10
 But if the bright spot stays in its place, and hasn't spread, it is the scar from the boil; and the priest must say he is clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -410,9 +355,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Or when the body has a burn from fire on its skin, and the raw skin of the burn becomes a bright spot, reddish-white, or white,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:25
@@ -423,9 +365,6 @@ then the priest must examine it; and if the hair in the bright spot has turned w
 
 #### Ages 8-10
 then the priest must examine it; and if the hair in the bright spot has turned white, and its appearance is deeper than the skin, it is serious disease. It has broken out in the burning, and the priest must say he is unclean. It is the serious mark on the skin.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -441,9 +380,6 @@ But if the priest examines it, and there is no white hair in the bright spot, an
 #### Ages 8-10
 But if the priest examines it, and there is no white hair in the bright spot, and it isn't deeper than the skin, but has faded, then the priest must keep him apart seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -457,9 +393,6 @@ The priest must examine him on the seventh day. If it has spread in the skin, th
 
 #### Ages 8-10
 The priest must examine him on the seventh day. If it has spread in the skin, then the priest must say he is unclean. It is the serious mark on the skin.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -475,9 +408,6 @@ If the bright spot stays in its place, and hasn't spread in the skin, but is fad
 #### Ages 8-10
 If the bright spot stays in its place, and hasn't spread in the skin, but is faded, it is the swelling from the burn, and the priest must say he is clean, for it is the scar from the burn.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -492,9 +422,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "When a man or woman has a mark of disease on the head or on the beard,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:30
@@ -505,9 +432,6 @@ then the priest must examine the disease mark; and if its appearance is deeper t
 
 #### Ages 8-10
 then the priest must examine the mark of disease; and if its appearance is deeper than the skin, and the hair in it is yellow and thin, then the priest must say he is unclean. It is an itch. It is serious disease of the head or of the beard.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -523,9 +447,6 @@ If the priest looks at the itchy mark and it does not look deeper than the skin,
 #### Ages 8-10
 If the priest examines the itchy mark and it does not look deeper than the skin, and there is no black hair in it, the priest must keep the person with the itch apart for seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -539,9 +460,6 @@ On the seventh day the priest must examine the disease mark; and if the itch has
 
 #### Ages 8-10
 On the seventh day the priest must examine the mark of disease; and if the itch hasn't spread, and there is no yellow hair in it, and the appearance of the itch isn't deeper than the skin,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -557,9 +475,6 @@ Then the person must shave, but he must not shave the itchy place. The priest mu
 #### Ages 8-10
 Then the person must shave, but he must not shave the itchy place. The priest must keep the person with the itch apart for seven more days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -573,9 +488,6 @@ On the seventh day, the priest must examine the itch; and if the itch hasn't spr
 
 #### Ages 8-10
 On the seventh day, the priest must examine the itch; and if the itch hasn't spread in the skin, and its appearance isn't deeper than the skin, then the priest must say he is clean. He must wash his clothes and be clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -591,9 +503,6 @@ But if the itch spreads on the skin after the priest said he was clean for worsh
 #### Ages 8-10
 But if the itch spreads on the skin after the priest said he was clean,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:36
@@ -604,9 +513,6 @@ then the priest must examine him; and if the itch has spread in the skin, the pr
 
 #### Ages 8-10
 then the priest must examine him; and if the itch has spread in the skin, the priest must not look for the yellow hair; he is unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -622,9 +528,6 @@ But if the priest sees that the itch has stopped spreading and black hair has gr
 #### Ages 8-10
 But if the priest sees that the itch has stopped spreading and black hair has grown in it, then the itch is healed. He is clean. The priest must say he is clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -639,9 +542,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "When a man or a woman has bright spots in the skin of the body, even white bright spots,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:39
@@ -652,9 +552,6 @@ then the priest must examine them. If the bright spots on the skin of their body
 
 #### Ages 8-10
 then the priest must examine them. If the bright spots on the skin of their body are a dull white, it is a harmless rash. It has broken out in the skin. He is clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -670,9 +567,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man's hair has fallen from his head, he is bald. He is clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:41
@@ -683,9 +577,6 @@ If his hair has fallen off from the front part of his head, he is bald on the fo
 
 #### Ages 8-10
 If his hair has fallen off from the front part of his head, he is bald on the forehead. He is clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -698,9 +589,6 @@ But if a reddish-white disease mark is in the bald head or the bald forehead, it
 #### Ages 8-10
 But if a reddish-white mark of disease is in the bald head or the bald forehead, it is serious disease breaking out in his bald head or his bald forehead.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:43
@@ -711,9 +599,6 @@ Then the priest must examine him. If the swelling of the disease mark is reddish
 
 #### Ages 8-10
 Then the priest must examine him. If the swelling of the mark of disease is reddish-white in his bald head, or in his bald forehead, like the appearance of serious disease in the skin of the body,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -729,9 +614,6 @@ he has a serious disease. He is not clean for worship. The priest must surely sa
 #### Ages 8-10
 he has a serious disease. He is unclean. The priest must surely say he is unclean. His mark of disease is on his head.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -746,9 +628,6 @@ The person with the serious skin disease must wear torn clothes, leave his hair 
 #### Ages 8-10
 The person with the serious skin disease must wear torn clothes, leave the hair of his head loose, cover his upper lip, and call out, "Unclean! Unclean!"
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:46
@@ -759,9 +638,6 @@ As long as the mark of disease is on him, he is not clean for worship. He must l
 
 #### Ages 8-10
 As long as the mark of disease is on him, he is unclean. He must live alone outside the camp.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -774,9 +650,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "A mark like mildew can also appear in a garment, whether the garment is made from wool or linen.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:48
@@ -788,9 +661,6 @@ It may appear in woven threads of linen or wool, in leather, or in anything made
 #### Ages 8-10
 It may appear in woven threads of linen or wool, in leather, or in anything made from leather.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:49
@@ -801,9 +671,6 @@ If the mark is greenish or reddish in the clothing, the leather, the woven threa
 
 #### Ages 8-10
 If the mark is greenish or reddish in the garment, the leather, the woven threads, or anything made from leather, it is a serious mildew mark. It must be shown to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -819,9 +686,6 @@ The priest must look at the mark and keep the thing with the mark separate for s
 #### Ages 8-10
 The priest must examine the mark and keep the thing with the mark apart for seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -836,9 +700,6 @@ On the seventh day, he must look at the mark again. If the mark has spread in th
 #### Ages 8-10
 On the seventh day, he must examine the mark again. If the mark has spread in the garment, the woven threads, the leather, or anything made from leather, it is a destructive mildew. It is unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:52
@@ -850,9 +711,6 @@ He must burn the clothing, the woven cloth, or the leather thing where the mark 
 #### Ages 8-10
 He must burn the garment, the woven cloth, or the leather thing where the mark is found, because it is a destructive mildew. It must be burned in the fire.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:53
@@ -863,9 +721,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "But if the priest examines it and the mark has not spread in the garment, the woven threads, or the leather thing,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -880,9 +735,6 @@ then the priest must tell them to wash the thing with the mark. Then he must kee
 
 #### Ages 8-10
 then the priest must tell them to wash the thing with the mark. Then he must keep it apart for seven more days.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -899,9 +751,6 @@ After the thing is washed, the priest must look at it again. If the mark has not
 #### Ages 8-10
 After the thing is washed, the priest must examine it again. If the mark has not changed color, even if it has not spread, it is unclean. It must be burned in the fire, whether the mildew is on the inside or the outside.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -915,9 +764,6 @@ But if the priest looks and the mark has faded after washing, he must tear the m
 
 #### Ages 8-10
 But if the priest looks and the mark has faded after washing, he must tear the marked part out of the garment, the leather, or the woven cloth.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -933,9 +779,6 @@ If the mark appears again in the clothing, the woven cloth, or anything made fro
 #### Ages 8-10
 If the mark appears again in the garment, the woven cloth, or anything made from leather, it is spreading. Whatever has the mark must be burned in the fire.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:58
@@ -947,9 +790,6 @@ But if the mark leaves the clothing, woven cloth, or leather thing after it is w
 #### Ages 8-10
 But if the mark leaves the garment, woven cloth, or leather thing after it is washed, it must be washed a second time, and it will be clean."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 13:59
@@ -960,9 +800,6 @@ This is the law for mildew marks in clothing made from wool or linen, in woven c
 
 #### Ages 8-10
 This is the law for mildew marks in garments made from wool or linen, in woven cloth, or in leather things. It teaches when to say something is clean and when to say it is unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -987,12 +824,11 @@ But if the scab spreads on the skin after the man has shown himself to the pries
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 13 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

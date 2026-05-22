@@ -1,7 +1,7 @@
 # Leviticus Chapter 17
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord commands Israel to bring sacrifices to the Tent of Meeting and not offer them in other places.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord commands Israel to bring sacrifices to the Tent of Meeting and not offer them in other places.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to Aaron, and to his sons, and to all the people of Israel, and say to them, 'This is the thing which the Lord has commanded:
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -60,9 +54,6 @@ Whatever man there is of the house of Israel who kills a bull, or lamb, or goat 
 #### Ages 8-10
 Whatever man there is of the house of Israel who kills a bull, or lamb, or goat in the camp, or who kills it outside the camp,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -76,9 +67,6 @@ and hasn't brought it to the door of the Tent of Meeting to offer it as an offer
 
 #### Ages 8-10
 and hasn't brought it to the door of the Tent of Meeting to offer it as an offering to the Lord before the Lord's tabernacle: that man will be held guilty for bloodshed. He has shed blood. That man must be removed from among his people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -96,9 +84,6 @@ This is so that the people of Israel may bring their sacrifices, which they sacr
 
 #### Ages 8-10
 This is so that the people of Israel may bring their sacrifices, which they sacrifice in the open field, that they may bring them to the Lord, to the door of the Tent of Meeting, to the priest, and sacrifice them for sacrifices of peace offerings to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -118,9 +103,6 @@ The priest must sprinkle the blood on the Lord's altar at the door of the Tent o
 #### Ages 8-10
 The priest must sprinkle the blood on the Lord's altar at the door of the Tent of Meeting, and burn the fat for a pleasant aroma to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -138,9 +120,6 @@ They must no longer offer their sacrifices to the goat idols, by following them 
 #### Ages 8-10
 They must no longer offer their sacrifices to the goat idols, by following them unfaithfully. This must be a lasting rule to them for all their generations.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - sacrifice: An offering given in worship
 
@@ -154,9 +133,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must say to them, 'Any man there is of the house of Israel, or of the foreigners who live among them, who offers a burned offering or sacrifice,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -174,9 +150,6 @@ and doesn't bring it to the door of the Tent of Meeting to sacrifice it to the L
 #### Ages 8-10
 and doesn't bring it to the door of the Tent of Meeting to sacrifice it to the Lord, that man must be removed from his people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - sacrifice: An offering given in worship
@@ -193,9 +166,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Any man of the house of Israel, or of the foreigners who live among them, who eats any kind of blood, I will set my face against that person who eats blood, and will remove him from among his people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -211,7 +181,18 @@ For the life of the body is in the blood. I have given it to you on the altar to
 For the life of the body is in the blood. I have given it to you on the altar to make atonement for your lives; for it is the blood that makes atonement by reason of the life.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The verse explains why blood is treated with reverence: life belongs to the Lord, and God gives blood on the altar for atonement.
+**Cross-References**:
+- Hebrews 9:22
+<!-- Illustration Prompt -->
+**Scene**: A priest standing by the altar as Moses teaches that life belongs to the Lord
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Moses, priest, listening Israelites
+**Setting**: Tent of Meeting courtyard
+**Action**: The people hear why sacrifices must be brought to the Lord
+**Emotional Tone**: Reverent, serious, clear
+**Age Appropriateness**: No graphic blood shown
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -228,9 +209,6 @@ Therefore I have said to the people of Israel, "No person among you may eat bloo
 #### Ages 8-10
 Therefore I have said to the people of Israel, "No person among you may eat blood, nor may any foreigner who lives among you eat blood."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -244,9 +222,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Whatever man there is of the people of Israel, or of the foreigners who live among them, who takes in hunting any animal or bird that may be eaten, he must pour out its blood, and cover it with dust.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -262,9 +237,6 @@ For as to the life of every living body, its blood is with its life. Therefore I
 #### Ages 8-10
 For as to the life of every living body, its blood is with its life. Therefore I said to the people of Israel, "You must not eat the blood of any living body; for the life of every living body is its blood. Whoever eats it must be removed."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -279,9 +251,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, must wash his clothes, and bathe himself in water, and be unclean until the evening. Then he will be clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 17:16
@@ -292,9 +261,6 @@ But if he doesn't wash them, or bathe his body, then he carries his guilt.' "
 
 #### Ages 8-10
 But if he doesn't wash them, or bathe his body, then he carries his guilt.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -319,12 +285,11 @@ The priest must sprinkle the blood on the Lord's altar at the door of the Tent o
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

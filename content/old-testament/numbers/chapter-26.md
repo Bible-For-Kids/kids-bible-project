@@ -1,7 +1,7 @@
 # Numbers Chapter 26
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on after the terrible sickness, the Lord commands a second count of Israel.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. After the terrible sickness, the Lord commands a second count of Israel.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ After the terrible sickness, the Lord spoke to Moses and to Eleazar the son of A
 #### Ages 8-10
 After the terrible sickness, the Lord spoke to Moses and to Eleazar the son of Aaron the priest, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -42,9 +39,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count all the community of the people of Israel, from twenty years old and older, by their family groups, all who are able to serve in Israel's army."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -58,9 +52,6 @@ Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan
 
 #### Ages 8-10
 Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -76,9 +67,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Count, from twenty years old and older, as the Lord commanded Moses and the people of Israel." These are those that came out of the land of Egypt.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -98,9 +86,6 @@ Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of th
 #### Ages 8-10
 Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -115,9 +100,6 @@ of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.
 #### Ages 8-10
 of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:7
@@ -128,9 +110,6 @@ These are the families of the Reubenites; and those counted from them were forty
 
 #### Ages 8-10
 These are the families of the Reubenites; and those counted from them were forty-three thousand seven hundred thirty.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -143,9 +122,6 @@ The son of Pallu: Eliab.
 #### Ages 8-10
 The son of Pallu: Eliab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:9
@@ -156,9 +132,6 @@ The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram 
 
 #### Ages 8-10
 The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram who were called by the community, who rebelled against Moses and against Aaron in the company of Korah when they rebelled against the Lord;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -177,9 +150,6 @@ and the earth opened its mouth, and swallowed them up together with Korah when t
 #### Ages 8-10
 and the earth opened its mouth, and swallowed them up together with Korah when that company died; at the time the fire devoured two hundred fifty men, and they became a sign.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:11
@@ -190,9 +160,6 @@ Even so, the sons of Korah didn't die.
 
 #### Ages 8-10
 Even so, the sons of Korah didn't die.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -205,9 +172,6 @@ The sons of Simeon after their families: of Nemuel, the family of the Nemuelites
 #### Ages 8-10
 The sons of Simeon after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:13
@@ -218,9 +182,6 @@ of Zerah, the family of the Zerahites; of Shaul, the family of the Shaulites.
 
 #### Ages 8-10
 of Zerah, the family of the Zerahites; of Shaul, the family of the Shaulites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -233,9 +194,6 @@ These are the families of the Simeonites, twenty-two thousand two hundred.
 #### Ages 8-10
 These are the families of the Simeonites, twenty-two thousand two hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:15
@@ -246,9 +204,6 @@ The sons of Gad after their families: of Zephon, the family of the Zephonites; o
 
 #### Ages 8-10
 The sons of Gad after their families: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni, the family of the Shunites;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -261,9 +216,6 @@ of Ozni, the family of the Oznites; of Eri, the family of the Erites;
 #### Ages 8-10
 of Ozni, the family of the Oznites; of Eri, the family of the Erites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:17
@@ -274,9 +226,6 @@ of Arod, the family of the Arodites; of Areli, the family of the Arelites.
 
 #### Ages 8-10
 of Arod, the family of the Arodites; of Areli, the family of the Arelites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -289,9 +238,6 @@ These are the families of the sons of Gad according to those counted from them, 
 #### Ages 8-10
 These are the families of the sons of Gad according to those counted from them, forty thousand and five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:19
@@ -302,9 +248,6 @@ The sons of Judah: Er and Onan. Er and Onan died in the land of Canaan.
 
 #### Ages 8-10
 The sons of Judah: Er and Onan. Er and Onan died in the land of Canaan.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -317,9 +260,6 @@ The sons of Judah after their families were: of Shelah, the family of the Shelan
 #### Ages 8-10
 The sons of Judah after their families were: of Shelah, the family of the Shelanites; of Perez, the family of the Perezites; of Zerah, the family of the Zerahites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:21
@@ -330,9 +270,6 @@ The sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the f
 
 #### Ages 8-10
 The sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -345,9 +282,6 @@ These are the families of Judah according to those counted from them, seventy-si
 #### Ages 8-10
 These are the families of Judah according to those counted from them, seventy-six thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:23
@@ -358,9 +292,6 @@ The sons of Issachar after their families: of Tola, the family of the Tolaites; 
 
 #### Ages 8-10
 The sons of Issachar after their families: of Tola, the family of the Tolaites; of Puvah, the family of the Punites;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -373,9 +304,6 @@ of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronit
 #### Ages 8-10
 of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:25
@@ -386,9 +314,6 @@ These are the families of Issachar according to those counted from them, sixty-f
 
 #### Ages 8-10
 These are the families of Issachar according to those counted from them, sixty-four thousand three hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -401,9 +326,6 @@ The sons of Zebulun after their families: of Sered, the family of the Seredites;
 #### Ages 8-10
 The sons of Zebulun after their families: of Sered, the family of the Seredites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:27
@@ -414,9 +336,6 @@ These are the families of the Zebulunites according to those counted from them, 
 
 #### Ages 8-10
 These are the families of the Zebulunites according to those counted from them, sixty thousand five hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -429,9 +348,6 @@ The sons of Joseph after their families: Manasseh and Ephraim.
 #### Ages 8-10
 The sons of Joseph after their families: Manasseh and Ephraim.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:29
@@ -442,9 +358,6 @@ The sons of Manasseh: of Machir, the family of the Machirites; and Machir became
 
 #### Ages 8-10
 The sons of Manasseh: of Machir, the family of the Machirites; and Machir became the father of Gilead; of Gilead, the family of the Gileadites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -457,9 +370,6 @@ These are the sons of Gilead: of Iezer, the family of the Iezerites; of Helek, t
 #### Ages 8-10
 These are the sons of Gilead: of Iezer, the family of the Iezerites; of Helek, the family of the Helekites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:31
@@ -470,9 +380,6 @@ and Asriel, the family of the Asrielites; and Shechem, the family of the Shechem
 
 #### Ages 8-10
 and Asriel, the family of the Asrielites; and Shechem, the family of the Shechemites;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -485,9 +392,6 @@ and Shemida, the family of the Shemidaites; and Hepher, the family of the Hepher
 #### Ages 8-10
 and Shemida, the family of the Shemidaites; and Hepher, the family of the Hepherites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:33
@@ -498,9 +402,6 @@ Zelophehad the son of Hepher had no sons, but daughters: and the names of the da
 
 #### Ages 8-10
 Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -513,9 +414,6 @@ These are the families of Manasseh. Those who were counted from them were fifty-
 #### Ages 8-10
 These are the families of Manasseh. Those who were counted from them were fifty-two thousand seven hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:35
@@ -526,9 +424,6 @@ These are the sons of Ephraim after their families: of Shuthelah, the family of 
 
 #### Ages 8-10
 These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthelahites; of Becher, the family of the Becherites; of Tahan, the family of the Tahanites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -541,9 +436,6 @@ These are the sons of Shuthelah: of Eran, the family of the Eranites.
 #### Ages 8-10
 These are the sons of Shuthelah: of Eran, the family of the Eranites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:37
@@ -554,9 +446,6 @@ These are the families of the sons of Ephraim according to those counted from th
 
 #### Ages 8-10
 These are the families of the sons of Ephraim according to those counted from them, thirty-two thousand five hundred. These are the sons of Joseph after their families.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -569,9 +458,6 @@ The sons of Benjamin after their families: of Bela, the family of the Belaites; 
 #### Ages 8-10
 The sons of Benjamin after their families: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:39
@@ -582,9 +468,6 @@ of Shephupham, the family of the Shuphamites; of Hupham, the family of the Hupha
 
 #### Ages 8-10
 of Shephupham, the family of the Shuphamites; of Hupham, the family of the Huphamites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -597,9 +480,6 @@ The sons of Bela were Ard and Naaman: the family of the Ardites; and of Naaman, 
 #### Ages 8-10
 The sons of Bela were Ard and Naaman: the family of the Ardites; and of Naaman, the family of the Naamites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:41
@@ -610,9 +490,6 @@ These are the sons of Benjamin after their families; and those counted from them
 
 #### Ages 8-10
 These are the sons of Benjamin after their families; and those counted from them were forty-five thousand six hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -625,9 +502,6 @@ These are the sons of Dan after their families: of Shuham, the family of the Shu
 #### Ages 8-10
 These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:43
@@ -638,9 +512,6 @@ All the families of the Shuhamites, according to those counted from them, were s
 
 #### Ages 8-10
 All the families of the Shuhamites, according to those counted from them, were sixty-four thousand four hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -653,9 +524,6 @@ The sons of Asher after their families: of Imnah, the family of the Imnites; of 
 #### Ages 8-10
 The sons of Asher after their families: of Imnah, the family of the Imnites; of Ishvi, the family of the Ishvites; of Beriah, the family of the Berites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:45
@@ -666,9 +534,6 @@ Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the f
 
 #### Ages 8-10
 Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -681,9 +546,6 @@ The name of the daughter of Asher was Serah.
 #### Ages 8-10
 The name of the daughter of Asher was Serah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:47
@@ -694,9 +556,6 @@ These are the families of the sons of Asher according to those counted from them
 
 #### Ages 8-10
 These are the families of the sons of Asher according to those counted from them, fifty-three thousand and four hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -709,9 +568,6 @@ The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeel
 #### Ages 8-10
 The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:49
@@ -722,9 +578,6 @@ of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites
 
 #### Ages 8-10
 of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -737,9 +590,6 @@ These are the families of Naphtali according to their families; and those counte
 #### Ages 8-10
 These are the families of Naphtali according to their families; and those counted from them were forty-five thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:51
@@ -750,9 +600,6 @@ These are those counted from the people of Israel, six hundred one thousand seve
 
 #### Ages 8-10
 These are those counted from the people of Israel, six hundred one thousand seven hundred thirty.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -767,9 +614,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -787,9 +631,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Divide the land among these tribes as their inheritance, using the number of names that were counted.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:54
@@ -800,9 +641,6 @@ Give a larger share of land to the larger tribe and a smaller share to the small
 
 #### Ages 8-10
 Give a larger inheritance to the larger tribe and a smaller inheritance to the smaller tribe. Each tribe's inheritance must fit the number of people counted.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -815,9 +653,6 @@ Even so, the land must be divided by lot. Each tribe must receive its share by i
 #### Ages 8-10
 Even so, the land must be divided by lot. Each tribe must receive its inheritance by its father's family name.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:56
@@ -829,9 +664,6 @@ The lot will help divide the land between the larger tribes and the smaller trib
 #### Ages 8-10
 The lot will help divide the inheritance between the larger tribes and the smaller tribes."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:57
@@ -842,9 +674,6 @@ These are those counted from the Levites after their families: of Gershon, the f
 
 #### Ages 8-10
 These are those counted from the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -860,9 +689,6 @@ These are the families of Levi: the family of the Libnites, the family of the He
 #### Ages 8-10
 These are the families of Levi: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, and the family of the Korahites. Kohath became the father of Amram.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 26:59
@@ -873,9 +699,6 @@ The name of Amram's wife was Jochebed, the daughter of Levi, who was born to Lev
 
 #### Ages 8-10
 The name of Amram's wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt. She bore to Amram Aaron and Moses, and Miriam their sister.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -893,9 +716,6 @@ To Aaron were born Nadab and Abihu, Eleazar and Ithamar.
 #### Ages 8-10
 To Aaron were born Nadab and Abihu, Eleazar and Ithamar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -909,9 +729,6 @@ Nadab and Abihu died when they offered strange fire before the Lord.
 
 #### Ages 8-10
 Nadab and Abihu died when they offered strange fire before the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -928,9 +745,6 @@ Those who were counted from them were twenty-three thousand, every male from a m
 #### Ages 8-10
 Those who were counted from them were twenty-three thousand, every male from a month old and older; for they were not counted among the people of Israel, because there was no inheritance given them among the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -944,9 +758,6 @@ These are those who were counted by Moses and Eleazar the priest, who counted th
 
 #### Ages 8-10
 These are those who were counted by Moses and Eleazar the priest, who counted the people of Israel in the plains of Moab by the Jordan at Jericho.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -965,8 +776,17 @@ But among these there was not a man of them who were counted by Moses and Aaron 
 But among these there was not a man of them who were counted by Moses and Aaron the priest, who counted the people of Israel in the wilderness of Sinai.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: After the terrible sickness, the Lord commands a second count of Israel. The new generation is counted for inheritance in the land, and the chapter shows that the first wilderness generation has passed away except Caleb and Joshua.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses and Eleazar counting the new generation on the plains of Moab
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 26 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses and Eleazar counting the new generation on the plains of Moab
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -984,9 +804,6 @@ For the Lord had said of them, "They will surely die in the wilderness." There w
 
 #### Ages 8-10
 For the Lord had said of them, "They will surely die in the wilderness." There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -1013,12 +830,11 @@ After the terrible sickness, the Lord commands a second count of Israel. The new
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God prepares the next generation?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God prepares the next generation"?
+2. How does this chapter also help explain "God's warning came to pass"?
 ## Prayer
 Lord, help us understand Numbers 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

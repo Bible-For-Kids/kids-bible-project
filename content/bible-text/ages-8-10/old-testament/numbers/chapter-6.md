@@ -57,7 +57,7 @@ He must also bring a basket of bread made without yeast: cakes of fine flour mix
 The priest must present them before the Lord, and must offer his sin offering and his burned offering.
 
 ### Numbers 6:17
-He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
+He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of bread made without yeast. The priest must offer also its grain offering and its drink offering.
 
 ### Numbers 6:18
 The Nazirite must shave the hair of his separation at the door of the Tent of Meeting. Then he must take the hair shaved from his head and put it on the fire under the peace offering.

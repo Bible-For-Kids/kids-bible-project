@@ -100,7 +100,7 @@ Sarah said, "God has brought me laughter, and everyone who hears about this will
 **Original Reference**: Genesis 21:7 - She said, "Who would have said to Abraham that Sarah would nurse children? For I have borne him a son in his old age."
 
 #### Ages 5-7
-She also said, "Who would have told Abraham that Sarah would nurse children? Yet I have given him a son in his old age."
+She also said, "Who would have told Abraham that Sarah would nurse a child? Yet I have given him a son in his old age."
 
 #### Ages 8-10
 She also said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age."
@@ -125,7 +125,7 @@ The child grew and was weaned, and on the day Isaac was weaned, Abraham held a g
 **Original Reference**: Genesis 21:9 - Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.
 
 #### Ages 5-7
-Sarah saw the son Hagar the Egyptian had borne to Abraham laughing.
+Sarah saw the son Hagar the Egyptian had borne to Abraham laughing at Isaac.
 
 #### Ages 8-10
 Sarah saw that the son Hagar the Egyptian had borne to Abraham was mocking.
@@ -245,7 +245,7 @@ Get up, lift the boy up, and take him by the hand, because I will make him into 
 **Original Reference**: Genesis 21:19 - God opened her eyes, and she saw a well of water. She went, filled the container with water, and gave the boy a drink.
 
 #### Ages 5-7
-Then God opened Hagar's eyes, and she saw a well of water. She went, filled the skin with water, and gave the boy a drink.
+Then God opened Hagar's eyes, and she saw a well of water. She went, filled the water-skin, and gave the boy a drink.
 
 #### Ages 8-10
 Then God opened Hagar's eyes, and she saw a well of water. She went, filled the skin with water, and gave the boy a drink.

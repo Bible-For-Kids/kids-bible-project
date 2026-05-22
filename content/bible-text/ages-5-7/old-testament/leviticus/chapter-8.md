@@ -12,7 +12,7 @@ Leviticus
 The Lord spoke to Moses, saying,
 
 ### Leviticus 8:2
-"Take Aaron and his sons with him, and the clothes, and the anointing oil, and the bull of the offering for sin, and the two male sheep, and the basket of unleavened bread;
+"Take Aaron and his sons with him, and the clothes, and the anointing oil, and the bull of the offering for sin, and the two male sheep, and the basket of bread made without yeast;
 
 ### Leviticus 8:3
 and assemble all the people at the door of the Tent of Meeting."
@@ -30,7 +30,7 @@ Moses brought Aaron and his sons, and washed them with water.
 He put the long shirt on Aaron, tied the waistband around him, put the robe on him, and put the priestly vest on him. Then he tied the woven belt of the vest around him to hold it in place.
 
 ### Leviticus 8:8
-He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
+He placed the chest piece on him. He put the Urim and Thummim in the chest piece.
 
 ### Leviticus 8:9
 He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
@@ -84,7 +84,7 @@ He brought Aaron's sons; and Moses put some of the blood on the tip of their rig
 He took the fat, the fat tail, all the fat that was on the inner parts, the cover of the liver, the two kidneys and their fat, and the right thigh;
 
 ### Leviticus 8:26
-and out of the basket of unleavened bread that was before the Lord, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
+From the basket of bread made without yeast that was before the Lord, he took one cake made without yeast, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 
 ### Leviticus 8:27
 He put all these in Aaron's hands and in his sons' hands, and lifted them before the Lord as an offering.

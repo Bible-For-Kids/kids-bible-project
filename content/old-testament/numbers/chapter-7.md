@@ -1,7 +1,7 @@
 # Numbers Chapter 7
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on after the holy tent is set up, the leaders of Israel bring gifts for its service and offerings for the altar.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. After the holy tent is set up, the leaders of Israel bring gifts for its service and offerings for the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ On the day that Moses had finished setting up the tent, and had anointed it and 
 #### Ages 8-10
 On the day that Moses had finished setting up the tent, and had anointed it and made it holy with all its furniture, and the altar with all its containers, and had anointed and made them holy;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - holy: Set apart for God
@@ -41,9 +38,6 @@ the leaders of Israel, the leaders of their family groups, offered. These were t
 #### Ages 8-10
 the princes of Israel, the heads of their family groups, offered. These were the princes of the tribes. These are they who were over those who were counted;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -57,9 +51,6 @@ and they brought their offering before the Lord, six covered wagons and twelve o
 
 #### Ages 8-10
 and they brought their offering before the Lord, six covered wagons and twelve oxen; a wagon for every two of the princes, and for each one an ox. They presented them before the tent.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -78,9 +69,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -97,9 +85,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Accept these from them, that they may be used in doing the service of the Tent of Meeting; and you must give them to the Levites, to every man according to his service."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -113,9 +98,6 @@ Moses took the wagons and the oxen, and gave them to the Levites.
 
 #### Ages 8-10
 Moses took the wagons and the oxen, and gave them to the Levites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -132,9 +114,6 @@ He gave two wagons and four oxen to the sons of Gershon, according to their serv
 #### Ages 8-10
 He gave two wagons and four oxen to the sons of Gershon, according to their service.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:8
@@ -145,9 +124,6 @@ He gave four wagons and eight oxen to the sons of Merari, according to their ser
 
 #### Ages 8-10
 He gave four wagons and eight oxen to the sons of Merari, according to their service, under the direction of Ithamar the son of Aaron the priest.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -164,9 +140,6 @@ But to the sons of Kohath he gave none, because the service of the holy place be
 #### Ages 8-10
 But to the sons of Kohath he gave none, because the service of the holy place belonged to them; they carried it on their shoulders.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -181,9 +154,6 @@ The leaders gave offerings for the dedication of the altar in the day that it wa
 #### Ages 8-10
 The princes gave offerings for the dedication of the altar in the day that it was anointed. The princes gave their offerings before the altar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -197,9 +167,6 @@ The Lord said to Moses, "They must offer their offering, each leader on his day,
 
 #### Ages 8-10
 The Lord said to Moses, "They must offer their offering, each prince on his day, for the dedication of the altar."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -219,9 +186,6 @@ Whoever offered his offering the first day was Nahshon the son of Amminadab, of 
 #### Ages 8-10
 Whoever offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -235,9 +199,6 @@ and his offering was: one silver platter, the weight of which was one hundred th
 
 #### Ages 8-10
 and his offering was: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -254,9 +215,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:15
@@ -267,9 +225,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -284,9 +239,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -303,9 +255,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Nahshon the son of Amminadab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -321,9 +270,6 @@ On the second day Nethanel the son of Zuar, leader of Issachar, gave his offerin
 #### Ages 8-10
 On the second day Nethanel the son of Zuar, prince of Issachar, gave his offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -337,9 +283,6 @@ He offered for his offering: one silver platter, the weight of which was one hun
 
 #### Ages 8-10
 He offered for his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -356,9 +299,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:21
@@ -369,9 +309,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -386,9 +323,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -405,9 +339,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, five male lambs a year old. This was the offering of Nethanel the son of Zuar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -423,9 +354,6 @@ On the third day Eliab the son of Helon, leader of the descendants of Zebulun,
 #### Ages 8-10
 On the third day Eliab the son of Helon, leader of the descendants of Zebulun,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:25
@@ -436,9 +364,6 @@ gave his offering: one silver platter, the weight of which was a hundred and thi
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was a hundred and thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -455,9 +380,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:27
@@ -468,9 +390,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -485,9 +404,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -504,9 +420,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Eliab the son of Helon.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -522,9 +435,6 @@ On the fourth day Elizur the son of Shedeur, leader of the descendants of Reuben
 #### Ages 8-10
 On the fourth day Elizur the son of Shedeur, leader of the descendants of Reuben,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:31
@@ -535,9 +445,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -554,9 +461,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:33
@@ -567,9 +471,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -584,9 +485,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -603,9 +501,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Elizur the son of Shedeur.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -621,9 +516,6 @@ On the fifth day Shelumiel the son of Zurishaddai, leader of the descendants of 
 #### Ages 8-10
 On the fifth day Shelumiel the son of Zurishaddai, leader of the descendants of Simeon,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:37
@@ -634,9 +526,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -653,9 +542,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:39
@@ -666,9 +552,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -683,9 +566,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -702,9 +582,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old: this was the offering of Shelumiel the son of Zurishaddai.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -720,9 +597,6 @@ On the sixth day, Eliasaph the son of Deuel, leader of the descendants of Gad,
 #### Ages 8-10
 On the sixth day, Eliasaph the son of Deuel, leader of the descendants of Gad,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:43
@@ -733,9 +607,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -752,9 +623,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:45
@@ -765,9 +633,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -782,9 +647,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -801,9 +663,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Eliasaph the son of Deuel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -819,9 +678,6 @@ On the seventh day Elishama the son of Ammihud, leader of the descendants of Eph
 #### Ages 8-10
 On the seventh day Elishama the son of Ammihud, leader of the descendants of Ephraim,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:49
@@ -832,9 +688,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -851,9 +704,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:51
@@ -864,9 +714,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -881,9 +728,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -900,9 +744,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Elishama the son of Ammihud.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -918,9 +759,6 @@ On the eighth day Gamaliel the son of Pedahzur, leader of the descendants of Man
 #### Ages 8-10
 On the eighth day Gamaliel the son of Pedahzur, leader of the descendants of Manasseh,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:55
@@ -931,9 +769,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -950,9 +785,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:57
@@ -963,9 +795,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -980,9 +809,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -999,9 +825,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Gamaliel the son of Pedahzur.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -1017,9 +840,6 @@ On the ninth day Abidan the son of Gideoni, leader of the descendants of Benjami
 #### Ages 8-10
 On the ninth day Abidan the son of Gideoni, leader of the descendants of Benjamin,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:61
@@ -1030,9 +850,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -1049,9 +866,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:63
@@ -1062,9 +876,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1079,9 +890,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1098,9 +906,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Abidan the son of Gideoni.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -1116,9 +921,6 @@ On the tenth day Ahiezer the son of Ammishaddai, leader of the descendants of Da
 #### Ages 8-10
 On the tenth day Ahiezer the son of Ammishaddai, leader of the descendants of Dan,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:67
@@ -1129,9 +931,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -1148,9 +947,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:69
@@ -1161,9 +957,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1178,9 +971,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1197,9 +987,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Ahiezer the son of Ammishaddai.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -1215,9 +1002,6 @@ On the eleventh day Pagiel the son of Ochran, leader of the descendants of Asher
 #### Ages 8-10
 On the eleventh day Pagiel the son of Ochran, leader of the descendants of Asher,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:73
@@ -1228,9 +1012,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -1247,9 +1028,6 @@ one golden ladle of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden ladle of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:75
@@ -1260,9 +1038,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1277,9 +1052,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1296,9 +1068,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Pagiel the son of Ochran.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -1314,9 +1083,6 @@ On the twelfth day Ahira the son of Enan, leader of the descendants of Naphtali,
 #### Ages 8-10
 On the twelfth day Ahira the son of Enan, leader of the descendants of Naphtali,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:79
@@ -1327,9 +1093,6 @@ gave his offering: one silver platter, the weight of which was one hundred thirt
 
 #### Ages 8-10
 gave his offering: one silver platter, the weight of which was one hundred thirty silver pieces, one silver bowl of seventy silver pieces, by the weight used at the holy place; both of them full of fine flour mixed with oil for a grain offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -1346,9 +1109,6 @@ one golden spoon of ten silver pieces, full of sweet-smelling incense;
 #### Ages 8-10
 one golden spoon of ten silver pieces, full of sweet-smelling incense;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 7:81
@@ -1359,9 +1119,6 @@ one young bull, one male sheep, one year-old male lamb, for a burned offering;
 
 #### Ages 8-10
 one young bull, one male sheep, one male lamb a year old, for a burned offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1376,9 +1133,6 @@ one male goat as an offering for sin;
 
 #### Ages 8-10
 one male goat for a sin offering;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -1395,9 +1149,6 @@ and for the sacrifice of peace offerings, two head of cattle, five male sheep, f
 #### Ages 8-10
 and for the sacrifice of peace offerings, two head of cattle, five male sheep, five male goats, and five male lambs a year old. This was the offering of Ahira the son of Enan.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -1412,9 +1163,6 @@ This was the dedication offering of the altar, on the day when it was anointed, 
 
 #### Ages 8-10
 This was the dedication offering of the altar, on the day when it was anointed, by the princes of Israel: twelve silver platters, twelve silver bowls, twelve golden ladles;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -1432,9 +1180,6 @@ each silver platter weighing one hundred thirty silver pieces, and each bowl sev
 #### Ages 8-10
 each silver platter weighing one hundred thirty silver pieces, and each bowl seventy; all the silver of the containers two thousand four hundred silver pieces, by the weight used at the holy place;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -1448,9 +1193,6 @@ the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pi
 
 #### Ages 8-10
 the twelve golden ladles, full of sweet-smelling incense, weighing ten silver pieces apiece, by the weight used at the holy place; all the gold of the ladles weighed one hundred twenty silver pieces;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -1466,9 +1208,6 @@ all the cattle for the burned offering twelve bulls, the male sheep twelve, the 
 #### Ages 8-10
 all the cattle for the burned offering twelve bulls, the male sheep twelve, the male lambs a year old twelve, and their grain offering; and twelve male goats for a sin offering;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -1483,9 +1222,6 @@ and all the cattle for the sacrifice of peace offerings: twenty-four bulls, sixt
 
 #### Ages 8-10
 and all the cattle for the sacrifice of peace offerings: twenty-four bulls, sixty male sheep, sixty male goats, and sixty male lambs a year old. This was the dedication offering of the altar, after it was anointed.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -1504,8 +1240,17 @@ When Moses went into the Tent of Meeting to speak with the Lord, he heard his vo
 When Moses went into the Tent of Meeting to speak with the Lord, he heard his voice speaking to him from above the atonement cover that was on the ark of the Testimony, from between the two cherubim; and he spoke to him.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: After the holy tent is set up, the leaders of Israel bring gifts for its service and offerings for the altar. Each tribe is named, each gift is counted, and Moses hears the Lord speaking from above the cover of the ark.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses entering the Tent of Meeting after the tribal leaders bring their gifts
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 7 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses entering the Tent of Meeting after the tribal leaders bring their gifts
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - cherubim: Mighty heavenly servants of God
@@ -1533,12 +1278,11 @@ and they brought their offering before the Lord, six covered wagons and twelve o
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God receives worship from every tribe?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God receives worship from every tribe"?
+2. How does this chapter also help explain "God speaks to guide his people"?
 ## Prayer
 Lord, help us understand Numbers 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

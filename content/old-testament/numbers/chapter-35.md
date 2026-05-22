@@ -1,7 +1,7 @@
 # Numbers Chapter 35
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives towns to the Levites and appoints cities of refuge for people who kill someone without meaning to.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives towns to the Levites and appoints cities of refuge for people who kill someone without meaning to.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -21,9 +21,6 @@ The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 #### Ages 8-10
 The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Command the people of Israel to give to the Levites cities to live in out of their inheritance. You must give pasture lands for the cities around them to the Levites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -59,9 +53,6 @@ They must have the cities to live in. Their pasture lands must be for their anim
 #### Ages 8-10
 They must have the cities to live in. Their pasture lands must be for their livestock, and for their possessions, and for all their animals.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:4
@@ -72,9 +63,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The pasture lands of the cities, which you must give to the Levites, must be from the wall of the city and outward one thousand arm-lengths around it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -90,9 +78,6 @@ You must measure outside of the city for the east side two thousand arm-lengths,
 #### Ages 8-10
 You must measure outside of the city for the east side two thousand arm-lengths, and for the south side two thousand arm-lengths, and for the west side two thousand arm-lengths, and for the north side two thousand arm-lengths, the city being in the middle. This must be the pasture lands of their cities.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:6
@@ -103,9 +88,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The cities which you must give to the Levites, they must be the six cities of refuge, which you must give for the person who killed someone to flee to. Besides them you must give forty-two cities.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -121,9 +103,6 @@ All the cities which you must give to the Levites must be forty-eight cities tog
 #### Ages 8-10
 All the cities which you must give to the Levites must be forty-eight cities together with their pasture lands.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -137,9 +116,6 @@ Concerning the cities which you must give of the possession of the people of Isr
 
 #### Ages 8-10
 Concerning the cities which you must give of the possession of the people of Israel, from the many you must take many, and from the few you must take few. Everyone according to his inheritance which he inherits must give some of his cities to the Levites."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -155,9 +131,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -175,9 +148,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'When you pass over the Jordan into the land of Canaan,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -193,10 +163,18 @@ then choose cities to be safe places for you. If someone kills another person wi
 then appoint cities of refuge for yourselves. If someone kills another person without meaning to, he may flee there.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives towns to the Levites and appoints cities of refuge for people who kill someone without meaning to. The chapter protects justice by distinguishing murder from manslaughter and warns Israel not to make the land unclean before the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: A city of refuge gate open for someone seeking a fair hearing
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 35 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: A city of refuge gate open for someone seeking a fair hearing
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 ---
-
 ### Numbers 35:12
 **Original Reference**: Numbers 35:12 - The cities shall be for your refuge from the avenger, that the man slayer not die until he stands before the congregation for judgment.
 
@@ -205,9 +183,6 @@ These cities will be safe places from the relative who avenges the death, so the
 
 #### Ages 8-10
 These cities will be places of refuge from the avenger, so the person who killed someone will not die before he stands before the community for judgment.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - judgment: God's right decision about sin
@@ -223,9 +198,6 @@ The cities which you must give must be for you six cities of refuge.
 #### Ages 8-10
 The cities which you must give must be for you six cities of refuge.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:14
@@ -237,9 +209,6 @@ You must give three cities beyond the Jordan, and you must give three cities in 
 #### Ages 8-10
 You must give three cities beyond the Jordan, and you must give three cities in the land of Canaan. They must be cities of refuge.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:15
@@ -250,9 +219,6 @@ These six safe cities will be for the people of Israel and for people from other
 
 #### Ages 8-10
 These six cities of refuge will be for the people of Israel and for foreigners living among them. Anyone who kills someone without meaning to may flee there.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -268,9 +234,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "But if he struck him with an instrument of iron, so that he died, he is a murderer. The murderer must be put to death.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:17
@@ -281,9 +244,6 @@ If he struck him with a stone in the hand, by which a man may die, and he died, 
 
 #### Ages 8-10
 If he struck him with a stone in the hand, by which a man may die, and he died, he is a murderer. The murderer must be put to death.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -296,9 +256,6 @@ Or if he struck him with a weapon of wood in the hand, by which a man may die, a
 #### Ages 8-10
 Or if he struck him with a weapon of wood in the hand, by which a man may die, and he died, he is a murderer. The murderer must be put to death.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:19
@@ -309,9 +266,6 @@ The close relative who avenges the death must put the murderer to death when he 
 
 #### Ages 8-10
 The close relative who avenges the death must put the murderer to death when he meets him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -324,9 +278,6 @@ If he shoved someone out of hatred, or threw something at him while hiding and w
 #### Ages 8-10
 If he shoved someone out of hatred, or threw something at him while lying in wait, and the person died,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:21
@@ -337,9 +288,6 @@ or if he struck him with his hand in hatred and the person died, then the one wh
 
 #### Ages 8-10
 or if he struck him with his hand in hostility and the person died, then the one who struck him must be put to death. He is a murderer. The close relative who avenges the death must put the murderer to death when he meets him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -352,9 +300,6 @@ But if he shoved someone suddenly without hatred, or threw something without hid
 #### Ages 8-10
 But if he shoved someone suddenly without hostility, or threw something without lying in wait,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:23
@@ -365,9 +310,6 @@ or if he dropped or threw a stone that could kill someone, but he did not see th
 
 #### Ages 8-10
 or if he dropped or threw a stone that could kill someone, but he did not see the person, and the person died, and he was not his enemy and was not trying to harm him,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -380,9 +322,6 @@ then the whole group must judge between the person who struck him and the relati
 #### Ages 8-10
 then the community must judge between the person who struck him and the relative who avenges the death, according to these rules.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:25
@@ -393,9 +332,6 @@ The whole group must rescue the person who killed someone from the relative who 
 
 #### Ages 8-10
 The community must rescue the person who killed someone from the relative who avenges the death and send him back to the city of refuge where he had fled. He must live there until the high priest dies, the priest who was anointed with holy oil.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -412,9 +348,6 @@ But if the person who killed someone goes outside the border of his safe city wh
 #### Ages 8-10
 But if the person who killed someone goes outside the border of his city of refuge where he had fled,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:27
@@ -426,9 +359,6 @@ and the relative who avenges the death finds him outside the border of his safe 
 #### Ages 8-10
 and the relative who avenges the death finds him outside the border of his city of refuge and kills him, that relative is not guilty of bloodshed,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:28
@@ -439,9 +369,6 @@ because he should have stayed in his safe city until the high priest died. But a
 
 #### Ages 8-10
 because he should have stayed in his city of refuge until the high priest died. But after the high priest dies, the person who killed someone may return to the land he owns.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -457,9 +384,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "These things must be a rule for you through all your generations, in all the places where you live.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 
@@ -474,9 +398,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "If someone kills a person, the murderer must be put to death only when witnesses say what happened. One witness alone must not speak against a person so that he dies.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:31
@@ -488,9 +409,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Do not take ransom money to spare the life of a murderer who is guilty of death. He must be put to death.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 35:32
@@ -501,9 +419,6 @@ Do not take money from someone who has run to his safe city, so that he may retu
 
 #### Ages 8-10
 Do not take ransom money from someone who has fled to his city of refuge, so that he may return to the land before the priest dies.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -519,9 +434,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "So do not make the land where you live unclean. Shed blood makes the land unclean. No atonement can be made for the land because of blood shed in it, except by the blood of the one who shed it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 
@@ -535,9 +447,6 @@ Do not make the land where you live not clean before God, because I live there t
 
 #### Ages 8-10
 Do not make the land where you live unclean, because I live there too. I, the Lord, live among the people of Israel.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -564,12 +473,11 @@ They must have the cities to live in. Their pasture lands must be for their live
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God cares about justice?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God cares about justice"?
+2. How does this chapter also help explain "Life matters before God"?
 ## Prayer
 Lord, help us understand Numbers 35 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

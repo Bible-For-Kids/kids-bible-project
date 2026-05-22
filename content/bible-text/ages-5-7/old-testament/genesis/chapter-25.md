@@ -60,7 +60,7 @@ These were Ishmael's sons. Their names were remembered by their towns and camps.
 Ishmael lived 137 years. Then he breathed his last and died, and he was gathered to his people.
 
 ### Genesis 25:18
-The family that came after him lived from Havilah to Shur, which is near Egypt as you go toward Assyria. Ishmael died near all his brothers.
+The family that came after him lived from Havilah to Shur, which is near Egypt as you go toward Assyria. They lived near, but apart from, all their relatives.
 
 ### Genesis 25:19
 This is the family line of Isaac, Abraham's son. Abraham became the father of Isaac.

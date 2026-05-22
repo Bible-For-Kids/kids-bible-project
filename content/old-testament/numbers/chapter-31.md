@@ -1,7 +1,7 @@
 # Numbers Chapter 31
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord commands judgment on Midian because of the sin at Peor.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord commands judgment on Midian because of the sin at Peor.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Avenge the people of Israel on the Midianites. Afterward you must be gathered to your people in death."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -56,9 +50,6 @@ Moses told the people, "Choose men from among you and arm them for battle. They 
 
 #### Ages 8-10
 Moses told the people, "Choose men from among you and arm them for battle. They must go against Midian to carry out the Lord's vengeance on Midian.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -76,9 +67,6 @@ You must send one thousand out of every tribe, throughout all the tribes of Isra
 #### Ages 8-10
 You must send one thousand out of every tribe, throughout all the tribes of Israel, to the battle."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -93,9 +81,6 @@ So Israel gave one thousand men from each tribe, twelve thousand men armed for b
 #### Ages 8-10
 So Israel gave one thousand men from each tribe, twelve thousand men armed for battle.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -109,9 +94,6 @@ Moses sent them, one thousand of every tribe, to the battle with Phinehas the so
 
 #### Ages 8-10
 Moses sent them, one thousand of every tribe, to the battle with Phinehas the son of Eleazar the priest, to the battle, with the holy tent tools and the trumpets for the alarm in his hand.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -129,9 +111,6 @@ They fought against Midian, as the Lord commanded Moses. They killed every male.
 #### Ages 8-10
 They fought against Midian, as the Lord commanded Moses. They killed every male.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -148,9 +127,6 @@ They killed the kings of Midian with the rest of those who were killed: Evi, Rek
 #### Ages 8-10
 They killed the kings of Midian with the rest of those who were killed: Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian. They also killed Balaam the son of Beor with the sword.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:9
@@ -161,9 +137,6 @@ The people of Israel took the women of Midian captive with their little ones; an
 
 #### Ages 8-10
 The people of Israel took the women of Midian captive with their little ones; and all their livestock, all their flocks, and all their goods, they took as plunder.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -179,9 +152,6 @@ All their cities in the places in which they lived, and all their camps, they bu
 #### Ages 8-10
 All their cities in the places in which they lived, and all their camps, they burned with fire.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:11
@@ -193,9 +163,6 @@ They took all the captives, and all the plunder, both people and animals.
 #### Ages 8-10
 They took all the captives, and all the plunder, both people and animals.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:12
@@ -206,9 +173,6 @@ They brought the captives and the plunder, to Moses, and to Eleazar the priest, 
 
 #### Ages 8-10
 They brought the captives and the plunder, to Moses, and to Eleazar the priest, and to the community of the people of Israel, to the camp at the plains of Moab, which are by the Jordan at Jericho.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -226,9 +190,6 @@ Moses and Eleazar the priest, with all the leaders of the whole group, went out 
 #### Ages 8-10
 Moses and Eleazar the priest, with all the princes of the community, went out to meet them outside of the camp.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 - priest: A worship leader who served at the holy place
@@ -244,9 +205,6 @@ Moses was angry with the army officers, the captains of thousands and hundreds, 
 #### Ages 8-10
 Moses was angry with the army officers, the captains of thousands and hundreds, who came back from the battle.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -261,9 +219,6 @@ Moses said to them, "Have you saved all the women alive?
 #### Ages 8-10
 Moses said to them, "Have you saved all the women alive?
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -277,9 +232,6 @@ These women followed Balaam's counsel and led the people of Israel to act unfait
 
 #### Ages 8-10
 These women followed Balaam's counsel and led the people of Israel to act unfaithfully against the Lord at Peor. That is why the plague came among the Lord's community.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -297,9 +249,6 @@ Now kill every male among the little ones, and kill every woman who has lived as
 #### Ages 8-10
 Now kill every male among the little ones, and kill every woman who has had sexual relations with a man.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:18
@@ -310,9 +259,6 @@ But keep alive for yourselves all the girls who have not lived as a man's wife.
 
 #### Ages 8-10
 But keep alive for yourselves all the girls who have not had sexual relations with a man.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -325,9 +271,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Stay outside the camp for seven days. Whoever killed anyone, and whoever touched someone who was killed, must purify himself on the third day and on the seventh day. Your captives must do the same.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:20
@@ -339,9 +282,6 @@ You must purify every garment, and all that is made of skin, and all work of goa
 #### Ages 8-10
 You must purify every garment, and all that is made of skin, and all work of goats' hair, and all things made of wood."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:21
@@ -352,9 +292,6 @@ Eleazar the priest said to the men of war who went to the battle, "This is the r
 
 #### Ages 8-10
 Eleazar the priest said to the men of war who went to the battle, "This is the rule of the law which the Lord has commanded Moses:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -374,9 +311,6 @@ however the gold, and the silver, the bronze, the iron, the tin, and the lead,
 #### Ages 8-10
 however the gold, and the silver, the bronze, the iron, the tin, and the lead,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:23
@@ -389,10 +323,18 @@ Everything that can go through fire must pass through fire, and it will be clean
 Everything that can go through fire must pass through fire, and it will be clean. But it must also be purified with cleansing water. Everything that cannot go through fire must pass through water.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord commands judgment on Midian because of the sin at Peor. Israel fights, Balaam is killed, the people and spoils are purified, and a portion from the battle is given to the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Priests and soldiers outside the camp purifying metal items and dividing the spoils
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 31 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Priests and soldiers outside the camp purifying metal items and dividing the spoils
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 ---
-
 ### Numbers 31:24
 **Original Reference**: Numbers 31:24 - You shall wash your clothes on the seventh day, and you shall be clean. Afterward you shall come into the camp."
 
@@ -401,9 +343,6 @@ You must wash your clothes on the seventh day, and you will be clean. Afterward 
 
 #### Ages 8-10
 You must wash your clothes on the seventh day, and you will be clean. Afterward you will come into the camp."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -415,9 +354,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -435,9 +371,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count the plunder that was taken, both people and animals, you, and Eleazar the priest, and the heads of the family households of the community;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -452,9 +385,6 @@ and divide the plunder into two parts: between the men skilled in war, who went 
 #### Ages 8-10
 and divide the plunder into two parts: between the men skilled in war, who went out to battle, and all the community.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:28
@@ -465,9 +395,6 @@ From the soldiers who went to battle, set aside a tribute for the Lord: one out 
 
 #### Ages 8-10
 From the soldiers who went to battle, set aside a tribute for the Lord: one out of every five hundred people, cattle, donkeys, and sheep.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -483,9 +410,6 @@ Take it from their half, and give it to Eleazar the priest, for the Lord's offer
 
 #### Ages 8-10
 Take it from their half, and give it to Eleazar the priest, for the Lord's offering lifted before the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -503,9 +427,6 @@ Of the people of Israel's half, you must take one out of every fifty, of the peo
 
 #### Ages 8-10
 Of the people of Israel's half, you must take one out of every fifty, of the people, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of the Lord's tent."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -525,9 +446,6 @@ Moses and Eleazar the priest did as the Lord commanded Moses.
 #### Ages 8-10
 Moses and Eleazar the priest did as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -545,9 +463,6 @@ Now the plunder, over and above the plunder which the men of war took, was six h
 #### Ages 8-10
 Now the plunder, over and above the plunder which the men of war took, was six hundred seventy-five thousand sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:33
@@ -558,9 +473,6 @@ seventy-two thousand head of cattle,
 
 #### Ages 8-10
 seventy-two thousand head of cattle,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -573,9 +485,6 @@ sixty-one thousand donkeys,
 #### Ages 8-10
 sixty-one thousand donkeys,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:35
@@ -586,9 +495,6 @@ There were thirty-two thousand girls who had not lived as a man's wife.
 
 #### Ages 8-10
 There were thirty-two thousand girls who had not had sexual relations with a man.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -601,9 +507,6 @@ The half, which was the portion of those who went out to war, was in number thre
 #### Ages 8-10
 The half, which was the portion of those who went out to war, was in number three hundred thirty-seven thousand five hundred sheep;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:37
@@ -614,9 +517,6 @@ and the Lord's tribute of the sheep was six hundred seventy-five.
 
 #### Ages 8-10
 and the Lord's tribute of the sheep was six hundred seventy-five.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -633,9 +533,6 @@ The cattle were thirty-six thousand, of which the Lord's tribute was seventy-two
 #### Ages 8-10
 The cattle were thirty-six thousand, of which the Lord's tribute was seventy-two.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -650,9 +547,6 @@ The donkeys were thirty thousand five hundred, of which the Lord's tribute was s
 
 #### Ages 8-10
 The donkeys were thirty thousand five hundred, of which the Lord's tribute was sixty-one.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -669,9 +563,6 @@ The people were sixteen thousand, of whom the Lord's tribute was thirty-two peop
 #### Ages 8-10
 The people were sixteen thousand, of whom the Lord's tribute was thirty-two people.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -686,9 +577,6 @@ Moses gave the tribute, which was the Lord's offering lifted before the Lord, to
 
 #### Ages 8-10
 Moses gave the tribute, which was the Lord's offering lifted before the Lord, to Eleazar the priest, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -708,9 +596,6 @@ Of the people of Israel's half, which Moses divided off from the men who fought
 #### Ages 8-10
 Of the people of Israel's half, which Moses divided off from the men who fought
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
@@ -726,9 +611,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 (now the community's half was three hundred thirty-seven thousand five hundred sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:44
@@ -739,9 +621,6 @@ thirty-six thousand head of cattle,
 
 #### Ages 8-10
 thirty-six thousand head of cattle,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -754,9 +633,6 @@ thirty thousand five hundred donkeys,
 #### Ages 8-10
 thirty thousand five hundred donkeys,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:46
@@ -768,9 +644,6 @@ and sixteen thousand people),
 #### Ages 8-10
 and sixteen thousand people),
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:47
@@ -781,9 +654,6 @@ even of the people of Israel's half, Moses took one out of every fifty, both peo
 
 #### Ages 8-10
 even of the people of Israel's half, Moses took one out of every fifty, both people and animals, and gave them to the Levites, who performed the duty of the Lord's tent, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -803,9 +673,6 @@ The officers who were over the thousands of the army, the captains of thousands,
 #### Ages 8-10
 The officers who were over the thousands of the army, the captains of thousands, and the captains of hundreds, came near to Moses.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -819,9 +686,6 @@ They said to Moses, "Your servants have counted the soldiers under our command, 
 
 #### Ages 8-10
 They said to Moses, "Your servants have counted the soldiers under our command, and not one man of us is missing.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -837,9 +701,6 @@ We have brought the Lord's offering, what every man found: gold ornaments, armle
 
 #### Ages 8-10
 We have brought the Lord's offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our people before the Lord."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -858,9 +719,6 @@ Moses and Eleazar the priest took their gold, even all the worked jewelry.
 #### Ages 8-10
 Moses and Eleazar the priest took their gold, even all the worked jewelry.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 - priest: A worship leader who served at the holy place
@@ -875,9 +733,6 @@ All the gold of the offering lifted before the Lord that they offered up to the 
 
 #### Ages 8-10
 All the gold of the offering lifted before the Lord that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty silver pieces.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -895,9 +750,6 @@ The men of war had taken plunder, every man for himself.
 #### Ages 8-10
 The men of war had taken plunder, every man for himself.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 31:54
@@ -908,9 +760,6 @@ Moses and Eleazar the priest took the gold from the captains of thousands and hu
 
 #### Ages 8-10
 Moses and Eleazar the priest took the gold from the captains of thousands and hundreds and brought it into the Tent of Meeting as a reminder for the people of Israel before the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -939,12 +788,11 @@ The Lord commands judgment on Midian because of the sin at Peor. Israel fights, 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God judges sin that leads people away?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God judges sin that leads people away"?
+2. How does this chapter also help explain "Victory still belongs to the Lord"?
 ## Prayer
 Lord, help us understand Numbers 31 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

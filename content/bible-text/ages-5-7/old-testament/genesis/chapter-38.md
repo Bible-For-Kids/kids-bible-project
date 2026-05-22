@@ -42,13 +42,13 @@ What Onan did displeased the Lord, so the Lord put him to death also.
 Then Judah said to Tamar, his daughter-in-law, "Stay as a widow in your father's house until my son Shelah grows up." A widow is a woman whose husband has died. Judah was thinking, "He might die too, like his brothers." So Tamar went and lived in her father's house.
 
 ### Genesis 38:12
-After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted after his sadness, he went up to Timnath to the men who were cutting the wool from his sheep, with his friend Hirah the Adullamite.
+After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted after his sadness, he went up to Timnah to the men who were cutting the wool from his sheep, with his friend Hirah the Adullamite.
 
 ### Genesis 38:13
-Someone told Tamar, "Look, your father-in-law is going up to Timnath to cut the wool from his sheep."
+Someone told Tamar, "Look, your father-in-law is going up to Timnah to cut the wool from his sheep."
 
 ### Genesis 38:14
-Tamar took off her widow's clothes, covered herself with a veil, wrapped herself, and sat in an open place by the road to Timnath. She saw that Shelah had grown up, but she had not been given to him as his wife.
+Tamar took off her widow's clothes, covered herself with a veil, wrapped herself, and sat at the gate of Enaim, beside the road to Timnah. She saw that Shelah had grown up, but she had not been given to him as his wife.
 
 ### Genesis 38:15
 When Judah saw her, he thought she was a woman who took payment to be with men in a way meant only for marriage, because her face was covered.
@@ -69,7 +69,7 @@ Then Tamar got up and went away. She took off her veil and put her widow's cloth
 Judah sent the young goat by his friend the Adullamite, so he could get back the things he had left with the woman, but his friend could not find her.
 
 ### Genesis 38:21
-Hirah asked the men of that place, "Where is the woman who took payment by the roadside?" They said, "There was no such woman in this place."
+Hirah asked the men of that place, "Where is the woman who took payment at Enaim by the road?" They said, "There was no such woman in this place."
 
 ### Genesis 38:22
 Hirah returned to Judah and said, "I cannot find her. The men of the place also said, 'There was no such woman in this place.'"

@@ -24,7 +24,7 @@ The Lord spoke to Moses, saying,
 In the first month, on the fourteenth day of the month in the evening, is the Lord's Passover.
 
 ### Leviticus 23:6
-On the fifteenth day of the same month is the feast of unleavened bread to the Lord. Seven days you must eat unleavened bread.
+On the fifteenth day of the same month is the feast of bread made without yeast to the Lord. For seven days you must eat bread made without yeast.
 
 ### Leviticus 23:7
 On the first day you must have a holy gathering. You must do no regular work.

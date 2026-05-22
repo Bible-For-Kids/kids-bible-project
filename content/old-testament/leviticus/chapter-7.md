@@ -1,7 +1,7 @@
 # Leviticus Chapter 7
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord continues instructions for guilt offerings and peace offerings, including how the priests receive their portions and how the people must eat the offering at the proper time.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord continues instructions for guilt offerings and peace offerings, including how the priests receive their portions and how the people must eat the offering at the proper time.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, an
 #### Ages 8-10
 "This is the law of the guilt offering: It is most holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - holy: Set apart for God
@@ -41,9 +38,6 @@ In the place where they kill the burned offering, he must kill the guilt offerin
 #### Ages 8-10
 In the place where they kill the burned offering, he must kill the guilt offering; and its blood he must sprinkle around on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - guilt: The blame that comes from doing wrong
@@ -60,9 +54,6 @@ He must offer all of its fat: the fat tail, and the fat that covers the inner pa
 #### Ages 8-10
 He must offer all of its fat: the fat tail, and the fat that covers the inner parts,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:4
@@ -74,9 +65,6 @@ and he must take away the two kidneys, and the fat that is on them, near the low
 #### Ages 8-10
 and he must take away the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:5
@@ -87,9 +75,6 @@ and the priest must burn them on the altar for an offering burned on the altar t
 
 #### Ages 8-10
 and the priest must burn them on the altar for an offering burned on the altar to the Lord: it is a guilt offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -109,9 +94,6 @@ Every male among the priests may eat of it. It must be eaten in a holy place. It
 #### Ages 8-10
 Every male among the priests may eat of it. It must be eaten in a holy place. It is most holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -125,9 +107,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "As is the sin offering, so is the guilt offering; there is one law for them. The priest who makes atonement with them must have it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -147,9 +126,6 @@ The priest who offers any man's burned offering must have for himself the skin o
 #### Ages 8-10
 The priest who offers any man's burned offering must have for himself the skin of the burned offering which he has offered.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - priest: A worship leader who served at the holy place
@@ -164,9 +140,6 @@ Every grain gift that is baked in the oven, and all that is prepared in the pan 
 
 #### Ages 8-10
 Every grain offering that is baked in the oven, and all that is prepared in the pan and on the griddle, must be the priest's who offers it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -183,9 +156,6 @@ Every grain gift, mixed with oil or dry, belongs to all the sons of Aaron, one a
 #### Ages 8-10
 Every grain offering, mixed with oil or dry, belongs to all the sons of Aaron, one as well as another.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - offering: A gift brought to the Lord in worship
@@ -201,9 +171,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "This is the law of the sacrifice of peace offerings, which one must offer to the Lord:
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 - Lord: God's covenant name used in many English Bibles
@@ -216,13 +183,24 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:12 - If he offers it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil.
 
 #### Ages 5-7
-If he offers it for a thanksgiving, then he must offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil.
+If he offers it for thanksgiving, then with the thanksgiving sacrifice he must bring cakes made without yeast mixed with oil, thin wafers made without yeast spread with oil, and cakes mixed with oil.
 
 #### Ages 8-10
-If he offers it for a thanksgiving, then he must offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil.
+If he offers it for thanksgiving, then with the thanksgiving sacrifice he must bring cakes made without yeast mixed with oil, wafers made without yeast spread with oil, and cakes mixed with oil.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The bread details are kept, but 'unleavened' is explained as bread made without yeast so children can picture the food.
+**Cross-References**:
+- Leviticus 2:11
+<!-- Illustration Prompt -->
+**Scene**: Thanksgiving breads and cakes brought with a peace offering
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Worshiper and priest
+**Setting**: Near the altar
+**Action**: The worshiper brings different breads for thanksgiving
+**Emotional Tone**: Thankful, joyful, reverent
+**Age Appropriateness**: Food and worship focus
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - sacrifice: An offering given in worship
@@ -233,13 +211,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 7:13 - He shall offer his offering with the sacrifice of his peace offerings for thanksgiving with cakes of leavened bread.
 
 #### Ages 5-7
-He must offer his offering with the sacrifice of his peace offerings for thanksgiving with cakes of leavened bread.
+With his thanksgiving peace offering, he must also bring cakes of bread made with yeast.
 
 #### Ages 8-10
-He must offer his offering with the sacrifice of his peace offerings for thanksgiving with cakes of leavened bread.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+With his thanksgiving peace offering, he must also bring cakes of bread made with yeast.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -255,9 +230,6 @@ Of it he must offer one out of each offering for a special offering to the Lord.
 
 #### Ages 8-10
 Of it he must offer one out of each offering for a special offering to the Lord. It must be the priest's who sprinkles the blood of the peace offerings.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -276,9 +248,6 @@ The flesh of the sacrifice of his peace offerings for thanksgiving must be eaten
 #### Ages 8-10
 The flesh of the sacrifice of his peace offerings for thanksgiving must be eaten on the day of his offering. He must not leave any of it until the morning.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -293,9 +262,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "But if the sacrifice of his offering is a vow, or a gift someone chooses to bring, it must be eaten on the day that he offers his sacrifice. On the next day what remains of it must be eaten,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -312,9 +278,6 @@ but what remains of the meat of the sacrifice on the third day must be burned wi
 #### Ages 8-10
 but what remains of the meat of the sacrifice on the third day must be burned with fire.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - sacrifice: An offering given in worship
 
@@ -328,9 +291,6 @@ If any of the meat of the sacrifice of his peace offerings is eaten on the third
 
 #### Ages 8-10
 If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it must not be credited to the person who offers it. It will be a hateful thing, and the person who eats any of it will bear his sin.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - sacrifice: An offering given in worship
@@ -347,9 +307,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "The meat that touches any unclean thing must not be eaten. It must be burned with fire. As for the meat, everyone who is clean may eat it;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:20
@@ -360,9 +317,6 @@ But if someone is not clean for worship and still eats meat from the Lord's peac
 
 #### Ages 8-10
 But if someone is unclean and still eats meat from the Lord's peace offering, that person must be removed from his people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -379,9 +333,6 @@ If someone touches anything not clean for worship, whether from a person, an ani
 
 #### Ages 8-10
 If someone touches anything unclean, whether from a person, an animal, or something God calls detestable, and then eats meat from the Lord's peace offering, that person must be removed from his people.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -400,9 +351,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -419,9 +367,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel, saying, 'You must eat no fat, of bull, or sheep, or goat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -436,9 +381,6 @@ The fat of that which dies of itself, and the fat of that which is torn of anima
 #### Ages 8-10
 The fat of that which dies of itself, and the fat of that which is torn of animals, may be used for any other service, but you must in no way eat of it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:25
@@ -449,9 +391,6 @@ For whoever eats the fat of the animal which men offer as an offering burned on 
 
 #### Ages 8-10
 For whoever eats the fat of the animal which men offer as an offering burned on the altar to the Lord, even the person who eats it must be removed from his people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -470,9 +409,6 @@ You must not eat any blood, whether it is of bird or of animal, in any of your d
 #### Ages 8-10
 You must not eat any blood, whether it is of bird or of animal, in any of your dwellings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:27
@@ -484,9 +420,6 @@ Whoever it is who eats any blood, that person must be removed from his people.' 
 #### Ages 8-10
 Whoever it is who eats any blood, that person must be removed from his people.' "
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 7:28
@@ -497,9 +430,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -516,9 +446,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to the people of Israel, saying, 'Whoever offers the sacrifice of his peace offerings to the Lord must bring his offering to the Lord out of the sacrifice of his peace offerings.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -538,9 +465,6 @@ With his own hands he must bring the offerings burned for the Lord. He must brin
 #### Ages 8-10
 With his own hands he must bring the offerings burned for the Lord. He must bring the fat with the breast, that the breast may be lifted before the Lord as an offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -556,9 +480,6 @@ The priest must burn the fat on the altar, but the breast must be Aaron's and hi
 
 #### Ages 8-10
 The priest must burn the fat on the altar, but the breast must be Aaron's and his sons'.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -576,9 +497,6 @@ The right thigh you must give to the priest for a special offering out of the sa
 #### Ages 8-10
 The right thigh you must give to the priest for a special offering out of the sacrifices of your peace offerings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - priest: A worship leader who served at the holy place
@@ -594,9 +512,6 @@ He among the sons of Aaron who offers the blood of the peace offerings, and the 
 #### Ages 8-10
 He among the sons of Aaron who offers the blood of the peace offerings, and the fat, must have the right thigh for a portion.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -610,9 +525,6 @@ For the breast lifted before the Lord and the contributed thigh I have taken fro
 
 #### Ages 8-10
 For the breast lifted before the Lord and the contributed thigh I have taken from the people of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the people of Israel.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -631,9 +543,6 @@ This is the set apart portion of Aaron, and the set apart portion of his sons, o
 #### Ages 8-10
 This is the set apart portion of Aaron, and the set apart portion of his sons, out of the offerings burned for the Lord, in the day when he presented them to minister to the Lord in the priest's office;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -651,9 +560,6 @@ which the Lord commanded to be given them of the people of Israel, in the day th
 #### Ages 8-10
 which the Lord commanded to be given them of the people of Israel, in the day that he anointed them. It is their portion forever for all their generations.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -669,9 +575,6 @@ This is the law of the burned offering, the grain gift, the offering for sin, th
 
 #### Ages 8-10
 This is the law of the burned offering, the grain offering, the sin offering, the guilt offering, the setting apart, and the sacrifice of peace offerings
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -690,9 +593,6 @@ which the Lord commanded Moses in Mount Sinai in the day that he commanded the p
 
 #### Ages 8-10
 which the Lord commanded Moses in Mount Sinai in the day that he commanded the people of Israel to offer their offerings to the Lord, in the wilderness of Sinai.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -721,12 +621,11 @@ In the place where they kill the burned offering, he must kill the guilt offerin
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 7 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -26,7 +26,7 @@ Abram went up from Egypt to the Negev with his wife and everything he had, and L
 **Original Reference**: Genesis 13:2 - Abram was very rich in livestock, in silver, and in gold.
 
 #### Ages 5-7
-Abram had become very rich. He had many animals, and he had silver and gold.
+Abram had become very rich. He had many flocks and herds, and he had silver and gold.
 
 #### Ages 8-10
 Abram had become very wealthy in livestock, silver, and gold.
@@ -53,6 +53,16 @@ That was the place where Abram had built an altar earlier. There Abram called on
 #### Ages 8-10
 It was the place where he had first built an altar, and there Abram called on the name of the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Abram returning to the altar between Bethel and Ai
+**Style**: Warm children's Bible landscape with tents and a remembered worship place
+**Characters**: Abram, Sarai, Lot, and household members nearby
+**Setting**: The place between Bethel and Ai where Abram had pitched his tent before
+**Action**: Abram calls on the name of the Lord at the altar he had built earlier
+**Emotional Tone**: Return, worship, steadiness
+**Age Appropriateness**: Peaceful worship scene, no graphic offering detail
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 13:5
@@ -70,7 +80,7 @@ Lot, who was traveling with Abram, also had flocks, herds, and tents.
 **Original Reference**: Genesis 13:6 - The land was not able to bear them, that they might live together; for their possessions were so great that they couldn't live together.
 
 #### Ages 5-7
-There was not enough room for both families to live close together, because they had so many animals and belongings.
+The land could not support both families while they lived close together, because they had so many animals and belongings.
 
 #### Ages 8-10
 The land could not support both of them while they stayed together, because they had so many animals and possessions.
@@ -117,13 +127,23 @@ Is not the whole land before you? Let us part company. If you go left, I will go
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
 
+<!-- Illustration Prompt -->
+**Scene**: Abram and Lot deciding to separate because the land cannot support both households
+**Style**: Clear children's Bible scene with two large camps and many animals
+**Characters**: Abram, Lot, herders, flocks, herds, and tents
+**Setting**: Open land with Canaanites and Perizzites living in the wider area
+**Action**: Abram offers Lot first choice so the arguing can stop
+**Emotional Tone**: Tension, peacemaking, family care
+**Age Appropriateness**: Show disagreement calmly, without anger or threat
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 13:10
 **Original Reference**: Genesis 13:10 - Lot lifted up his eyes, and saw all the plain of the Jordan, that it was well-watered everywhere, before Yahweh destroyed Sodom and Gomorrah, like the garden of Yahweh, like the land of Egypt, as you go to Zoar.
 
 #### Ages 5-7
-Lot looked around and saw the whole plain of the Jordan. It had plenty of water, like the garden of the Lord and like Egypt. This was before the Lord destroyed Sodom and Gomorrah.
+Lot lifted his eyes and saw the whole plain of the Jordan. It had plenty of water everywhere, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
 
 #### Ages 8-10
 Lot looked around and saw that the whole plain of the Jordan had plenty of water, like the garden of the Lord and like the land of Egypt. This was before the Lord destroyed Sodom and Gomorrah.
@@ -142,13 +162,23 @@ So Lot chose the whole plain of the Jordan for himself. Lot set out toward the e
 #### Ages 8-10
 So Lot chose for himself the whole plain of the Jordan and set out toward the east. The two men separated from each other.
 
+<!-- Illustration Prompt -->
+**Scene**: Lot looking over the well-watered plain of the Jordan
+**Style**: Rich landscape illustration with a subtle warning tone
+**Characters**: Lot looking out over the plain; Abram in the background
+**Setting**: A high viewpoint over the Jordan plain, with green watered land and distant cities
+**Action**: Lot chooses the plain and begins moving east
+**Emotional Tone**: Choice, beauty, quiet warning
+**Age Appropriateness**: No destruction shown; keep Sodom only as distant city shapes
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 13:12
 **Original Reference**: Genesis 13:12 - Abram lived in the land of Canaan, and Lot lived in the cities of the plain, and moved his tent as far as Sodom.
 
 #### Ages 5-7
-Abram lived in the land of Canaan, but Lot lived near the cities of the plain and moved his tents near Sodom.
+Abram lived in the land of Canaan, but Lot lived near the cities of the plain and moved his tents as far as Sodom.
 
 #### Ages 8-10
 Abram lived in the land of Canaan, while Lot lived among the cities of the plain and moved his tents near Sodom.
@@ -166,6 +196,9 @@ Now the people of Sodom were very wicked and sinned greatly against the Lord.
 
 #### Ages 8-10
 Now the people of Sodom were wicked and were sinning greatly against the Lord.
+
+**Translation Notes**:
+Verse 13 helps readers understand that Lot's good-looking choice also moved him near a spiritually dangerous place. Do not import later events from Genesis 19 into this verse.
 
 ---
 
@@ -190,7 +223,7 @@ All the land you see I will give to you and to the children and families who com
 All the land you see I will give to you and your offspring forever.
 
 **Translation Notes**:
-This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+The Lord renews the land promise after Lot leaves. Abram does not lose the promise because he lets Lot choose first.
 
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
@@ -202,7 +235,7 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 13:16 - I will make your offspring as the dust of the earth, so that if a man can count the dust of the earth, then your offspring may also be counted.
 
 #### Ages 5-7
-I will make the family that comes after you like the dust of the earth. If anyone could count the dust, then your family could be counted.
+I will make the children and families who come after you like the dust of the earth. If anyone could count the dust, then your family could be counted.
 
 #### Ages 8-10
 I will make your offspring like the dust of the earth, so that if anyone could count the dust, then your offspring could be counted.
@@ -224,6 +257,16 @@ Go, walk through the length and width of the land, because I am giving it to you
 **Key Vocabulary**:
 - land: The place God promised to give Abraham's family
 
+<!-- Illustration Prompt -->
+**Scene**: Abram looking north, south, east, and west as the Lord promises the land
+**Style**: Wide, majestic children's Bible landscape
+**Characters**: Abram standing on high ground; no visible human form for God
+**Setting**: The land of Canaan stretching in every direction
+**Action**: Abram lifts his eyes and looks across the promised land before walking through it
+**Emotional Tone**: Promise, wonder, reassurance
+**Age Appropriateness**: Peaceful and hopeful, focused on God's promise
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 13:18
@@ -235,15 +278,25 @@ So Abram moved his tents and lived near the great trees of Mamre at Hebron. Ther
 #### Ages 8-10
 So Abram moved his tents and went to live near the great trees of Mamre at Hebron. There he built an altar to the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Abram living near the great trees of Mamre and building an altar
+**Style**: Gentle children's Bible illustration with strong trees and warm evening light
+**Characters**: Abram and his household settling near Hebron
+**Setting**: The great trees of Mamre, tents nearby, and an altar being built
+**Action**: Abram settles in the promised land and worships the Lord
+**Emotional Tone**: Peace, worship, rooted promise
+**Age Appropriateness**: Safe settlement scene, no conflict shown
+<!-- End Illustration Prompt -->
+
 ---
 
 ## Chapter Summary
-Abram and Lot separate peacefully, Lot chooses the Jordan plain near Sodom, and the Lord renews his promise of land and offspring to Abram.
+Abram returned from Egypt to the place where he had called on the Lord before. Abram and Lot had so many animals and tents that the land could not support them together, so Abram sought peace and let Lot choose where to go. Lot chose the well-watered Jordan plain and moved near Sodom, whose people were very wicked. After Lot left, the Lord told Abram to look in every direction and promised the land and offspring like the dust of the earth. Abram moved to Mamre at Hebron and built an altar to the Lord.
 
 ## Key Lessons for Children
-1. **God keeps the story moving**: Even family conflict, journeys, and danger cannot stop the promises God has spoken.
-2. **People need mercy and truth**: The chapter shows real human choices while keeping God as the faithful one.
-3. **Details matter**: Names, places, blessings, and promises should be kept clear because they carry the story forward.
+1. **Peace matters in God's family story**: Abram chose a peaceful separation instead of fighting with Lot.
+2. **Good-looking choices still need wisdom**: Lot chose watered land, but he moved near wicked Sodom.
+3. **God's promise stands firm**: After Lot left, the Lord repeated his promise of land and offspring to Abram.
 
 ## Memory Verses by Age
 
@@ -256,12 +309,14 @@ All the land you see I will give to you and your offspring forever. - Genesis 13
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. Why could Abram and Lot not live close together anymore?
+2. What land did Lot choose?
+3. What did the Lord tell Abram to look at?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. How did Abram seek peace with Lot?
+2. Why does Genesis 13:13 change how we understand Lot's choice?
+3. What did the Lord promise Abram after Lot left?
 
 ## Prayer
-Lord, help us read Genesis 13 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, help us seek peace without forgetting your promises. Give us wisdom when choices look good, and teach us to trust that your word stands firm. Amen.

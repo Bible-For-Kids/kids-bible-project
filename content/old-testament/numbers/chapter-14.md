@@ -1,7 +1,7 @@
 # Numbers Chapter 14
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel cries out, refuses to enter the land, and wants to turn back to Egypt.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Israel cries out, refuses to enter the land, and wants to turn back to Egypt.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ All the people lifted up their voice, and cried; and the people wept that night.
 #### Ages 8-10
 All the community lifted up their voice, and cried; and the people wept that night.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:2
@@ -34,9 +31,6 @@ All the people of Israel complained against Moses and against Aaron. The whole g
 
 #### Ages 8-10
 All the people of Israel complained against Moses and against Aaron. The whole community said to them, "We wish that we had died in the land of Egypt, or that we had died in this wilderness!
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -56,9 +50,6 @@ Why does the Lord bring us to this land, to fall by the sword? Our wives and our
 #### Ages 8-10
 Why does the Lord bring us to this land, to fall by the sword? Our wives and our little ones will be captured or killed! Wouldn't it be better for us to return into Egypt?"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 - Lord: God's covenant name used in many English Bibles
@@ -75,9 +66,6 @@ They said to one another, "Let's choose a leader, and let's return into Egypt."
 #### Ages 8-10
 They said to one another, "Let's choose a leader, and let's return into Egypt."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 
@@ -91,9 +79,6 @@ Then Moses and Aaron fell on their faces before all the people of Israel.
 
 #### Ages 8-10
 Then Moses and Aaron fell on their faces before all the gathered people of the community of the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -111,9 +96,6 @@ Joshua the son of Nun and Caleb the son of Jephunneh, who were of those who spie
 #### Ages 8-10
 Joshua the son of Nun and Caleb the son of Jephunneh, who were of those who spied out the land, tore their clothes.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:7
@@ -124,9 +106,6 @@ They spoke to all the people of Israel and said, "The land we passed through to 
 
 #### Ages 8-10
 They spoke to all the people of Israel and said, "The land we passed through to spy out is an exceedingly good land.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -141,9 +120,6 @@ If the Lord is pleased with us, he will bring us into that land and give it to u
 
 #### Ages 8-10
 If the Lord is pleased with us, he will bring us into that land and give it to us, a land flowing with milk and honey.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -160,9 +136,6 @@ Only do not rebel against the Lord, and do not be afraid of the people of the la
 #### Ages 8-10
 Only do not rebel against the Lord, and do not be afraid of the people of the land. They are like bread for us to eat. Their protection has gone away from them, and the Lord is with us. Do not be afraid of them."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -177,9 +150,6 @@ But all the people threatened to stone them with stones. The Lord's glory appear
 
 #### Ages 8-10
 But all the community threatened to stone them with stones. The Lord's glory appeared in the Tent of Meeting to all the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -197,9 +167,6 @@ The Lord said to Moses, "How long will this people despise me? And how long will
 #### Ages 8-10
 The Lord said to Moses, "How long will this people despise me? And how long will they not believe in me, for all the signs which I have worked among them?
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -216,9 +183,6 @@ I will strike them with the terrible sickness, and disinherit them, and will mak
 #### Ages 8-10
 I will strike them with the terrible sickness, and disinherit them, and will make you into a nation greater and mightier than they."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:13
@@ -229,9 +193,6 @@ Moses said to the Lord, "Then the Egyptians will hear it; for you brought up thi
 
 #### Ages 8-10
 Moses said to the Lord, "Then the Egyptians will hear it; for you brought up this people in your might from among them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -249,9 +210,6 @@ They will tell it to the people who live there of this land. They have heard tha
 #### Ages 8-10
 They will tell it to the people who live there of this land. They have heard that you the Lord are among this people; for you the Lord are seen face to face, and your cloud stands over them, and you go before them, in a pillar of cloud by day, and in a pillar of fire by night.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -267,9 +225,6 @@ Now if you killed this people as one man, then the nations which have heard the 
 #### Ages 8-10
 Now if you killed this people as one man, then the nations which have heard the fame of you will speak, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:16
@@ -280,9 +235,6 @@ Because the Lord was not able to bring this people into the land which he swore 
 
 #### Ages 8-10
 Because the Lord was not able to bring this people into the land which he swore to them, therefore he has killed them in the wilderness.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -300,9 +252,6 @@ Now please let the power of the Lord be great, as you have spoken, saying,
 #### Ages 8-10
 Now please let the power of the Lord be great, as you have spoken, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 
@@ -316,9 +265,6 @@ The Lord is slow to anger, and abundant in loving kindness, forgiving sin and di
 
 #### Ages 8-10
 The Lord is slow to anger, and abundant in loving kindness, forgiving sin and disobedience; and he will by no means clear the guilty, visiting the sin of the fathers on the children, on the third and on the fourth generation.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -337,8 +283,17 @@ Please pardon the sin of this people according to the greatness of your loving k
 Please pardon the sin of this people according to the greatness of your loving kindness, and just as you have forgiven this people, from Egypt even until now."
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Israel cries out, refuses to enter the land, and wants to turn back to Egypt. Moses intercedes, the Lord pardons yet judges that generation to wander forty years, and the people fail again when they try to go up without the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses praying while the frightened people gather near the camp after the spies' report
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 14 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses praying while the frightened people gather near the camp after the spies' report
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 - sin: Disobeying God and going against his good way
@@ -353,9 +308,6 @@ The Lord said, "I have pardoned according to your word;
 
 #### Ages 8-10
 The Lord said, "I have pardoned according to your word;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -372,9 +324,6 @@ but truly, as I live, and as all the earth will be filled with the Lord's glory-
 #### Ages 8-10
 but truly, as I live, and as all the earth will be filled with the Lord's glory-
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -389,9 +338,6 @@ because all those men who have seen my glory, and my signs, which I worked in Eg
 
 #### Ages 8-10
 because all those men who have seen my glory, and my signs, which I worked in Egypt and in the wilderness, yet have tested me these ten times, and have not listened to my voice;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -408,9 +354,6 @@ surely they will not see the land which I swore to their fathers, nor will any o
 #### Ages 8-10
 surely they will not see the land which I swore to their fathers, nor will any of those who despised me see it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:24
@@ -422,9 +365,6 @@ But my servant Caleb, because he had another spirit with him, and has followed m
 #### Ages 8-10
 But my servant Caleb, because he had another spirit with him, and has followed me fully, I will bring him into the land into which he went. His children will possess it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:25
@@ -435,9 +375,6 @@ Since the Amalekite and the Canaanite live in the valley, tomorrow turn and go i
 
 #### Ages 8-10
 Since the Amalekite and the Canaanite live in the valley, tomorrow turn and go into the wilderness by the way to the Red Sea."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -452,9 +389,6 @@ The Lord spoke to Moses and to Aaron, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -473,9 +407,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "How long will I bear with this evil community that complain against me? I have heard the complaints of the people of Israel, which they complain against me.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - evil: What is wrong and against God
 - Israel: God's covenant people descended from Jacob
@@ -490,9 +421,6 @@ Tell them, 'As I live, says the Lord, surely as you have spoken in my ears, so I
 
 #### Ages 8-10
 Tell them, 'As I live, says the Lord, surely as you have spoken in my ears, so I will do to you.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -509,9 +437,6 @@ Your dead bodies will fall in this wilderness; and all who were counted from you
 #### Ages 8-10
 Your dead bodies will fall in this wilderness; and all who were counted from you, according to your whole number, from twenty years old and older, who have complained against me,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
 
@@ -526,9 +451,6 @@ surely you will not come into the land concerning which I swore that I would mak
 #### Ages 8-10
 surely you will not come into the land concerning which I swore that I would make you live there, except Caleb the son of Jephunneh, and Joshua the son of Nun.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:31
@@ -540,9 +462,6 @@ But I will bring your little ones, whom you said would be captured, into it, and
 #### Ages 8-10
 But I will bring your little ones, whom you said would be captured, into it, and they will know the land which you have rejected.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:32
@@ -553,9 +472,6 @@ But as for you, your dead bodies will fall in this wilderness.
 
 #### Ages 8-10
 But as for you, your dead bodies will fall in this wilderness.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -571,9 +487,6 @@ Your children will wander in the wilderness for forty years. They will carry the
 #### Ages 8-10
 Your children will wander in the wilderness for forty years. They will bear your unfaithfulness until this generation has died in the wilderness.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
 
@@ -588,9 +501,6 @@ You spied out the land for forty days. So for forty years, one year for each day
 #### Ages 8-10
 You spied out the land for forty days. So for forty years, one year for each day, you will carry the guilt of your sins. Then you will know what it means for me to stand against you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:35
@@ -601,9 +511,6 @@ I, the Lord, have spoken. I will surely do this to all this rebellious group who
 
 #### Ages 8-10
 I, the Lord, have spoken. I will surely do this to all this evil community who are gathered together against me. In this wilderness they will die, and there they will die."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - evil: What is wrong and against God
@@ -622,9 +529,6 @@ The men whom Moses sent to spy out the land, who returned and made all the peopl
 #### Ages 8-10
 The men whom Moses sent to spy out the land, who returned and made all the community complain against him by bringing up a bad report against the land,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - evil: What is wrong and against God
 - Moses: The servant God used to lead Israel out of Egypt
@@ -639,9 +543,6 @@ even those men who brought up a bad report of the land, died by the terrible sic
 
 #### Ages 8-10
 even those men who brought up a bad report of the land, died by the terrible sickness before the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - evil: What is wrong and against God
@@ -659,9 +560,6 @@ But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those
 #### Ages 8-10
 But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those men who went to spy out the land.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 14:39
@@ -672,9 +570,6 @@ Moses told these words to all the people of Israel, and the people mourned great
 
 #### Ages 8-10
 Moses told these words to all the people of Israel, and the people mourned greatly.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -691,9 +586,6 @@ They rose up early in the morning and went up to the top of the mountain, saying
 #### Ages 8-10
 They rose up early in the morning and went up to the top of the mountain, saying, "We are here, and will go up to the place which the Lord has promised; for we have sinned."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -708,9 +600,6 @@ Moses said, "Why now do you disobey the command of the Lord, since it will not s
 
 #### Ages 8-10
 Moses said, "Why now do you disobey the command of the Lord, since it will not succeed?
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -729,9 +618,6 @@ Don't go up, for the Lord isn't among you; that way you won't be struck down bef
 #### Ages 8-10
 Don't go up, for the Lord isn't among you; that way you won't be struck down before your enemies.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -747,9 +633,6 @@ For there the Amalekite and the Canaanite are before you, and you will fall by t
 #### Ages 8-10
 For there the Amalekite and the Canaanite are before you, and you will fall by the sword because you turned back from following the Lord; therefore the Lord will not be with you."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -764,9 +647,6 @@ But they presumed to go up to the top of the mountain. Nevertheless, the ark of 
 
 #### Ages 8-10
 But they presumed to go up to the top of the mountain. Nevertheless, the ark of the Lord's covenant and Moses didn't leave the camp.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -784,9 +664,6 @@ Then the Amalekites came down, and the Canaanites who lived in that mountain, an
 
 #### Ages 8-10
 Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and beat them down, as far as Hormah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -808,12 +685,11 @@ All the community lifted up their voice, and cried; and the people wept that nig
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Unbelief brings sorrow?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Unbelief brings sorrow"?
+2. How does this chapter also help explain "God is merciful and just"?
 ## Prayer
 Lord, help us understand Numbers 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

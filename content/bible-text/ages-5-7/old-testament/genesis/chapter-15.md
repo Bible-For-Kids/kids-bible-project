@@ -36,7 +36,7 @@ Abram said, "Lord God, how will I know that it will truly be mine?"
 The Lord said, "Bring me a young cow, a goat, and a male sheep, each three years old, along with a dove and a young pigeon."
 
 ### Genesis 15:10
-Abram brought all these to God. He cut the animals in two and placed the halves opposite each other, but he did not cut the birds.
+Abram brought all these to God. He cut the animals in two and placed the halves across from each other, but he did not cut the birds.
 
 ### Genesis 15:11
 Large birds came down toward the dead animals, but Abram drove them away.
@@ -51,7 +51,7 @@ Then the Lord said to Abram, "Know this: the family that comes after you will li
 But I will judge the nation they serve. Afterward, they will come out with many belongings.
 
 ### Genesis 15:15
-You will go to your ancestors in peace. You will be buried at a good old age.
+You will die in peace and be buried at a good old age.
 
 ### Genesis 15:16
 In the fourth generation, your family will come back here, because the sin of the Amorites has not yet reached its full measure."

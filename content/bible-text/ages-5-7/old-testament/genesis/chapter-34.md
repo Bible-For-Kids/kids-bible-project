@@ -75,7 +75,7 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 "The men will agree to live with us and become one people only if every male among us receives the same sign they have.
 
 ### Genesis 34:23
-"Will not their animals, their goods, and all their other animals become ours? Let us agree with them, and they will live with us."
+"Will not their animals, their goods, and everything they own become ours? Let us agree with them, and they will live with us."
 
 ### Genesis 34:24
 All the men who went out of the city gate listened to Hamor and Shechem. Every male in the city received the sign of circumcision.

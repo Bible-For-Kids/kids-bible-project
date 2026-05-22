@@ -126,7 +126,7 @@ Pharaoh said to his servants, "Can we find a man like this, in whom is the Spiri
 Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as wise and understanding as you.
 
 ### Genesis 41:40
-"You shall be over my house, and all my people will obey your command. Only in the throne will I be greater than you."
+"You shall be over my house, and all my people will obey your command. Only on the throne will I be greater than you."
 
 ### Genesis 41:41
 Pharaoh said to Joseph, "See, I have set you over all the land of Egypt."
@@ -141,7 +141,7 @@ He had Joseph ride in his second royal chariot, and people called out before him
 Pharaoh said to Joseph, "I am Pharaoh, but without your command no one in all Egypt shall lift hand or foot."
 
 ### Genesis 41:45
-Pharaoh named Joseph Zaphnath-paaneah and gave him Asenath, the daughter of Potiphera priest of On, as his wife. Joseph went throughout the land of Egypt.
+Pharaoh named Joseph Zaphnath-paaneah and gave him Asenath, the daughter of Potiphera, the priest of On, as his wife. Joseph went throughout the land of Egypt.
 
 ### Genesis 41:46
 Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph left Pharaoh's presence and went through all the land of Egypt.
@@ -156,7 +156,7 @@ Joseph gathered all the food from the seven good years in Egypt and stored it in
 Joseph stored grain like the sand of the sea, so much that he stopped counting it because it could not be measured.
 
 ### Genesis 41:50
-Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 ### Genesis 41:51
 Joseph named the firstborn Manasseh, saying, "God has made me forget all my hardship and all my father's house."

@@ -27,7 +27,7 @@ Then Sarai said to Abram, "The wrong done to me is your fault. I put my servant 
 Abram said, "Your servant is in your hands. Do with her what you think is best." Then Sarai treated Hagar harshly, and Hagar ran away.
 
 ### Genesis 16:7
-The angel of the Lord found Hagar near a spring in the wilderness, the spring beside the road to Shur.
+The angel of the Lord found Hagar near a spring of water in the wilderness, the spring beside the road to Shur.
 
 ### Genesis 16:8
 He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from Sarai, the woman I serve."
@@ -45,7 +45,7 @@ The angel of the Lord said, "You are pregnant and will have a son. Name him Ishm
 He will be like a wild donkey of a man, hard to hold back. He will fight against many people, and many people will fight against him. He will live in conflict with all his brothers."
 
 ### Genesis 16:13
-Hagar gave this name to the Lord who spoke to her: "You are the God who sees me." She said, "I have now seen the One who sees me."
+Hagar gave this name to the Lord who spoke to her: "You are the God who sees me." She said, "Here I have seen the One who sees me."
 
 ### Genesis 16:14
 That is why the well was called Beer Lahai Roi. It is between Kadesh and Bered.

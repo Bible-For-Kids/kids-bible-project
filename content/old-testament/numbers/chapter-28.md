@@ -1,7 +1,7 @@
 # Numbers Chapter 28
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives Israel the regular offerings for each day, each Sabbath, each new month, Passover, and the Feast of Weeks.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives Israel the regular offerings for each day, each Sabbath, each new month, Passover, and the Feast of Weeks.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Command the people of Israel, and tell them, 'See that you present my offering, my food for my offerings burned on the altar, as a pleasing smell to me, in their due season.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -61,8 +55,17 @@ You must tell them, 'This is the offering burned on the altar which you must off
 You must tell them, 'This is the offering burned on the altar which you must offer to the Lord: male lambs a year old with nothing wrong with them, two each day, for a continual burned offering.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives Israel the regular offerings for each day, each Sabbath, each new month, Passover, and the Feast of Weeks. Israel's calendar is shaped by worship, remembrance, and offerings brought before the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Morning and evening offerings marking the rhythm of worship
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 28 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Morning and evening offerings marking the rhythm of worship
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -80,9 +83,6 @@ You must offer the one lamb in the morning, and you must offer the other lamb at
 #### Ages 8-10
 You must offer the one lamb in the morning, and you must offer the other lamb at evening,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 28:5
@@ -93,9 +93,6 @@ with a small measured amount of fine flour for a grain gift, mixed with one four
 
 #### Ages 8-10
 with one tenth-measure of fine flour for a grain offering, mixed with one fourth-measure of beaten oil.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -110,9 +107,6 @@ It is a continual burned offering which was appointed at Mount Sinai for a pleas
 
 #### Ages 8-10
 It is a continual burned offering which was appointed at Mount Sinai for a pleasing smell, an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -131,9 +125,6 @@ Its drink gift must be one fourth-measure for each lamb. You must pour out a dri
 #### Ages 8-10
 Its drink offering must be one fourth-measure for each lamb. You must pour out a drink offering of drink that can make someone drunk to the Lord in the holy place.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -150,9 +141,6 @@ The other lamb you must offer at evening. As the grain gift of the morning, and 
 
 #### Ages 8-10
 The other lamb you must offer at evening. As the grain offering of the morning, and as its drink offering, you must offer it, an offering burned on the altar, for a pleasing smell to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -171,9 +159,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the Sabbath day, you must offer two male lambs a year old with nothing wrong with them, and two tenth-measures of fine flour for a grain offering mixed with oil, and its drink offering:
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - Sabbath: A day of holy rest
@@ -189,9 +174,6 @@ this is the burned offering of every Sabbath, in addition to the continual burne
 #### Ages 8-10
 this is the burned offering of every Sabbath, in addition to the continual burned offering and its drink offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - Sabbath: A day of holy rest
@@ -206,9 +188,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "In the beginnings of your months, you must offer a burned offering to the Lord: two young bulls, one male sheep, seven male lambs a year old with nothing wrong with them,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -226,9 +205,6 @@ and three small measured amounts of fine flour for a grain gift mixed with oil, 
 #### Ages 8-10
 and three tenth-measures of fine flour for a grain offering mixed with oil, for each bull; and two tenths of fine flour for a grain offering mixed with oil, for the one male sheep;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -242,9 +218,6 @@ and one tenth of fine flour mixed with oil for a grain gift to every lamb, as a 
 
 #### Ages 8-10
 and one tenth of fine flour mixed with oil for a grain offering to every lamb, as a burned offering of a pleasing smell, an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -263,9 +236,6 @@ Their drink gifts must be a half-measure of wine for a bull, one third-measure f
 #### Ages 8-10
 Their drink offerings must be a half-measure of wine for a bull, one third-measure for the male sheep, and one fourth-measure for a lamb. This is the burned offering of every month throughout the months of the year.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -279,9 +249,6 @@ Also, one male goat as an offering for sin to the Lord must be offered in additi
 
 #### Ages 8-10
 Also, one male goat for a sin offering to the Lord must be offered in addition to the continual burned offering and its drink offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -300,9 +267,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "In the first month, on the fourteenth day of the month, is the Lord's Passover.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -314,13 +278,10 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 **Original Reference**: Numbers 28:17 - On the fifteenth day of this month shall be a feast. Unleavened bread shall be eaten for seven days.
 
 #### Ages 5-7
-On the fifteenth day of this month there must be a feast. Unleavened bread must be eaten for seven days.
+On the fifteenth day of this month there must be a feast. Bread made without yeast must be eaten for seven days.
 
 #### Ages 8-10
-On the fifteenth day of this month there must be a feast. Unleavened bread must be eaten for seven days.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+On the fifteenth day of this month there must be a feast. Bread made without yeast must be eaten for seven days.
 
 ---
 
@@ -332,9 +293,6 @@ On the first day there must be a holy gathering. You must do no regular work,
 
 #### Ages 8-10
 On the first day there must be a holy gathering. You must do no regular work,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -349,9 +307,6 @@ but you must bring an offering burned on the altar, a burned offering to the Lor
 
 #### Ages 8-10
 but you must bring an offering burned on the altar, a burned offering to the Lord: two young bulls, one male sheep, and seven male lambs a year old. They must have nothing wrong with them,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -370,9 +325,6 @@ with their grain gift, fine flour mixed with oil. You must offer three tenths fo
 #### Ages 8-10
 with their grain offering, fine flour mixed with oil. You must offer three tenths for a bull, and two tenths for the male sheep.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -387,9 +339,6 @@ You must offer one tenth for every lamb of the seven lambs;
 #### Ages 8-10
 You must offer one tenth for every lamb of the seven lambs;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 28:22
@@ -400,9 +349,6 @@ and one male goat as an offering for sin, to make atonement for you, to help mak
 
 #### Ages 8-10
 and one male goat for a sin offering, to make atonement for you.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -421,9 +367,6 @@ You must offer these in addition to the burned offering of the morning, which is
 #### Ages 8-10
 You must offer these in addition to the burned offering of the morning, which is for a continual burned offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -437,9 +380,6 @@ In this way you must offer daily, for seven days, the food of the offering burne
 
 #### Ages 8-10
 In this way you must offer daily, for seven days, the food of the offering burned on the altar, a pleasing smell to the Lord. It must be offered in addition to the continual burned offering and its drink offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -458,9 +398,6 @@ On the seventh day you must have a holy gathering. You must do no regular work.
 #### Ages 8-10
 On the seventh day you must have a holy gathering. You must do no regular work.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -474,9 +411,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Also in the day of the first fruits, when you offer a new grain offering to the Lord in your feast of weeks, you must have a holy gathering. You must do no regular work;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -495,9 +429,6 @@ but you must offer a burned offering for a pleasing smell to the Lord: two young
 #### Ages 8-10
 but you must offer a burned offering for a pleasing smell to the Lord: two young bulls, one male sheep, seven male lambs a year old;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -514,9 +445,6 @@ and their grain gift, fine flour mixed with oil, three tenths for each bull, two
 #### Ages 8-10
 and their grain offering, fine flour mixed with oil, three tenths for each bull, two tenths for the one male sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -531,9 +459,6 @@ one tenth for every lamb of the seven lambs;
 #### Ages 8-10
 one tenth for every lamb of the seven lambs;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 28:30
@@ -544,9 +469,6 @@ and one male goat, to make atonement for you, to help make things right with God
 
 #### Ages 8-10
 and one male goat, to make atonement for you.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -562,9 +484,6 @@ Besides the continual burned offering and its grain gift, you must offer them an
 
 #### Ages 8-10
 Besides the continual burned offering and its grain offering, you must offer them and their drink offerings. See that they have nothing wrong with them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -589,12 +508,11 @@ with one tenth-measure of fine flour for a grain offering, mixed with one fourth
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Worship is steady?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Worship is steady"?
+2. How does this chapter also help explain "God orders Israel's time"?
 ## Prayer
 Lord, help us understand Numbers 28 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

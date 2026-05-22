@@ -36,7 +36,7 @@ He said, "If Esau comes to one group and attacks it, then the other group can es
 Then Jacob prayed, "O God of my father Abraham and God of my father Isaac, Lord, you told me, 'Return to your country and to your family, and I will do good to you.'
 
 ### Genesis 32:10
-"I am not worthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two large groups.
+"I am not worthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan River with only my staff, and now I have become two large groups.
 
 ### Genesis 32:11
 "Please save me from my brother Esau. I am afraid he will come and strike me, mothers and children together.

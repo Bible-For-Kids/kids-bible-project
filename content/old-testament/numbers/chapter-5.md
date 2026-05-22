@@ -1,7 +1,7 @@
 # Numbers Chapter 5
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord teaches Israel to keep the camp clean for worship, to confess wrong and pay back what was taken, and to bring hidden marital unfaithfulness before him.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord teaches Israel to keep the camp clean for worship, to confess wrong and pay back what was taken, and to bring hidden marital unfaithfulness before him.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Command the people of Israel to send outside the camp anyone with a serious skin disease, anyone with a discharge, and anyone unclean because of a dead body.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Israel: God's covenant people descended from Jacob
@@ -58,9 +52,6 @@ Send both men and women outside the camp, so they do not make the camp not clean
 #### Ages 8-10
 Send both men and women outside the camp, so they do not make the camp unclean, because I live among the people."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:4
@@ -71,9 +62,6 @@ The people of Israel did so, and put them outside of the camp; as the Lord spoke
 
 #### Ages 8-10
 The people of Israel did so, and put them outside of the camp; as the Lord spoke to Moses, so the people of Israel did.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -92,9 +80,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -110,9 +95,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Speak to the people of Israel: 'When a man or woman commits any sin that people commit, so as to act unfaithfully against the Lord, and that person is guilty,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -132,8 +114,17 @@ then that person must tell the truth about the sin he did. He must pay back the 
 then that person must confess the sin he committed. He must pay back the whole amount for the wrong, add one fifth more, and give it to the person he wronged.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord teaches Israel to keep the camp clean for worship, to confess wrong and pay back what was taken, and to bring hidden marital unfaithfulness before him. God cares about holiness in the camp, truth between neighbors, and faithfulness in marriage.
 
+<!-- Illustration Prompt -->
+**Scene**: A person bringing payment back after telling the truth about a wrong
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 5 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: A person bringing payment back after telling the truth about a wrong
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - sin: Disobeying God and going against his good way
@@ -148,9 +139,6 @@ But if the person who was wronged has no close relative to receive the payment b
 
 #### Ages 8-10
 But if the person who was wronged has no close relative to receive the restitution, then the restitution belongs to the Lord and must be given to the priest, along with the male sheep used to make atonement for the guilty person.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -170,9 +158,6 @@ Every special offering of all the holy things of the people of Israel, which the
 #### Ages 8-10
 Every special offering of all the holy things of the people of Israel, which they present to the priest, must be his.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -190,9 +175,6 @@ Every man's holy things must be his; whatever any man gives the priest, it must 
 #### Ages 8-10
 Every man's holy things must be his; whatever any man gives the priest, it must be his.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - priest: A worship leader who served at the holy place
@@ -207,9 +189,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -227,9 +206,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel and tell them: If a man's wife turns away from faithfulness to him,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -244,9 +220,6 @@ and another man acts with her in the way only her husband should, but it is hidd
 #### Ages 8-10
 and another man has sexual relations with her, but it is hidden from her husband and kept secret, and there is no witness and she is not caught,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:14
@@ -258,9 +231,6 @@ and a spirit of jealousy comes over her husband, whether she has truly made hers
 #### Ages 8-10
 and a spirit of jealousy comes over her husband, whether she has truly made herself unclean or not,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:15
@@ -271,9 +241,6 @@ then the man must bring his wife to the priest. He must also bring her offering:
 
 #### Ages 8-10
 then the man must bring his wife to the priest. He must also bring her offering: a tenth-measure of barley flour. He must not pour oil on it or put sweet-smelling incense on it, because it is a grain offering for jealousy, a reminder offering that brings sin to mind.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -291,9 +258,6 @@ The priest must bring her near, and bring her before the Lord.
 #### Ages 8-10
 The priest must bring her near, and bring her before the Lord.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - priest: A worship leader who served at the holy place
@@ -310,9 +274,6 @@ The priest must take holy water in a clay bowl. Then he must take some dust from
 #### Ages 8-10
 The priest must take holy water in a clay bowl. Then he must take some dust from the floor of the tent and put it into the water.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - priest: A worship leader who served at the holy place
@@ -328,9 +289,6 @@ The priest must bring the woman before the Lord, loosen her hair, and put the re
 
 #### Ages 8-10
 The priest must bring the woman before the Lord, loosen her hair, and put the reminder grain offering in her hands. In his own hand the priest must hold the bitter water connected with the curse.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -349,9 +307,6 @@ The priest must have her make an oath. He must say to her, "If no man has acted 
 #### Ages 8-10
 The priest must have her make an oath. He must say to her, "If no man has had sexual relations with you, and if you have not turned away and made yourself unclean while married to your husband, then this bitter water connected with the curse will not harm you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -366,9 +321,6 @@ But if you have turned away while married to your husband, and if another man ha
 #### Ages 8-10
 But if you have turned away while married to your husband, and if another man has had sexual relations with you besides your husband,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:21
@@ -379,9 +331,6 @@ then the priest must put the woman under the oath of the curse and say, "May the
 
 #### Ages 8-10
 then the priest must put the woman under the oath of the curse and say, "May the Lord make your case a warning among your people if the Lord allows your thigh to waste away and your body to swell.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -399,9 +348,6 @@ May this water connected with the curse go into your body, make your body swell,
 #### Ages 8-10
 May this water connected with the curse go into your body, make your body swell, and make your thigh waste away." The woman must say, "Amen. Amen."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:23
@@ -412,9 +358,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The priest must write these curses in a book, and he must wipe them into the bitter water.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -430,9 +373,6 @@ He must make the woman drink the bitter water connected with the curse; and the 
 #### Ages 8-10
 He must make the woman drink the bitter water connected with the curse; and the water connected with the curse must enter into her and become bitter.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:25
@@ -443,9 +383,6 @@ The priest must take the jealousy grain gift from the woman's hand, lift the gra
 
 #### Ages 8-10
 The priest must take the jealousy grain offering from the woman's hand, lift the grain offering before the Lord, and bring it to the altar.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -465,9 +402,6 @@ The priest must take a handful of the grain gift as the reminder part and burn i
 #### Ages 8-10
 The priest must take a handful of the grain offering as the reminder part and burn it on the altar. After that, he must have the woman drink the water.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -484,9 +418,6 @@ When he has made her drink the water, if she has made herself not clean for wors
 #### Ages 8-10
 When he has made her drink the water, if she has made herself unclean and has acted unfaithfully against her husband, the water connected with the curse will become bitter inside her. Her body will swell, her thigh will waste away, and her case will become a warning among her people.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:28
@@ -498,9 +429,6 @@ But if the woman has not made herself not clean for worship and is clean, then s
 #### Ages 8-10
 But if the woman has not made herself unclean and is clean, then she will be free and able to have children.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 5:29
@@ -511,9 +439,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "This is the law about jealousy, when a wife turns away while married to her husband and makes herself unclean,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -528,9 +453,6 @@ or when the spirit of jealousy comes on a man, and he is jealous of his wife; th
 
 #### Ages 8-10
 or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he must bring the woman before the Lord, and the priest must carry out this whole law for her.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -548,9 +470,6 @@ The man must be free from guilt, but the woman must carry her guilt if she is gu
 
 #### Ages 8-10
 The man must be free from guilt, but the woman must carry her guilt if she is guilty.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -575,12 +494,11 @@ The people of Israel did so, and put them outside of the camp; as the Lord spoke
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God lives among his people?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God lives among his people"?
+2. How does this chapter also help explain "God cares about truth"?
 ## Prayer
 Lord, help us understand Numbers 5 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

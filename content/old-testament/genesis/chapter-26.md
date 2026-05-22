@@ -63,7 +63,7 @@ The Lord appeared to Isaac and said, "Do not go down to Egypt. Live in the land 
 **Original Reference**: Genesis 26:5 - because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my laws."
 
 #### Ages 5-7
-God said he would do this because Abraham had listened to his voice and had kept what God commanded, taught, and required.
+God said he would do this because Abraham had listened to his voice and had kept God's commands, instructions, and laws.
 
 #### Ages 8-10
 God said this was because Abraham obeyed his voice and kept what God commanded, taught, and required.
@@ -96,7 +96,7 @@ The men of the place asked about his wife, and Isaac said, "She is my sister." H
 **Original Reference**: Genesis 26:8 - When he had been there a long time, Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was caressing Rebekah, his wife.
 
 #### Ages 5-7
-After Isaac had lived there a long time, Abimelek king of the Philistines looked out of a window and saw Isaac showing loving closeness with Rebekah his wife.
+After Isaac had lived there a long time, Abimelek king of the Philistines looked out of a window and saw Isaac showing special affection to Rebekah his wife.
 
 #### Ages 8-10
 After Isaac had been there a long time, Abimelek king of the Philistines looked out a window and saw Isaac showing affection to Rebekah his wife.

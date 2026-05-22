@@ -78,4 +78,4 @@ Kesed, Hazo, Pildash, Jidlaph, and Bethuel."
 Bethuel became the father of Rebekah. These eight children Milkah bore to Nahor, Abraham's brother.
 
 ### Genesis 22:24
-Nahor's concubine, a woman joined to him but not with the same place as a wife, was named Reumah. She also bore Tebah, Gaham, Tahash, and Maakah.
+Nahor's lesser wife, a woman joined to him but not with the same place as a wife, was named Reumah. She also bore Tebah, Gaham, Tahash, and Maakah.

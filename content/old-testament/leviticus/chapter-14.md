@@ -1,7 +1,7 @@
 # Leviticus Chapter 14
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives the ceremony for restoring a person healed from serious skin disease and the rules for mildew in a house.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives the ceremony for restoring a person healed from serious skin disease and the rules for mildew in a house.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "This must be the law of the person with the serious skin disease on the day he is made clean: He must be brought to the priest,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 - priest: A worship leader who served at the holy place
@@ -57,9 +51,6 @@ and the priest must go out of the camp. The priest must examine him. If the seri
 
 #### Ages 8-10
 and the priest must go out of the camp. The priest must examine him. If the serious mark on the skin is healed in the person with the serious skin disease,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -76,7 +67,18 @@ then the priest must tell them to bring these things for the person being made c
 then the priest must tell them to bring these things for the person being made clean: two live birds that were clean, a piece of cedar wood, red thread, and a leafy hyssop branch.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The ceremony's objects are kept and explained with concrete words, such as leafy hyssop branch and red thread, so children can picture the cleansing rite.
+**Cross-References**:
+- Leviticus 13:59
+<!-- Illustration Prompt -->
+**Scene**: A priest holding cedar wood, red thread, and a leafy hyssop branch for cleansing
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priest and healed person
+**Setting**: Outside the camp
+**Action**: The priest prepares the cleansing ceremony
+**Emotional Tone**: Hopeful, clean, restored
+**Age Appropriateness**: No frightening disease details
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -93,9 +95,6 @@ The priest must tell them to kill one of the birds in a clay bowl held over fres
 #### Ages 8-10
 The priest must tell them to kill one of the birds in a clay bowl held over fresh flowing water.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - priest: A worship leader who served at the holy place
@@ -111,9 +110,6 @@ The priest must take the living bird, the cedar wood, the red thread, and the le
 #### Ages 8-10
 The priest must take the living bird, the cedar wood, the red thread, and the leafy hyssop branch. He must dip them, along with the living bird, into the blood of the bird killed over the fresh flowing water.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:7
@@ -124,9 +120,6 @@ He must sprinkle on the person who is being made clean from the serious disease 
 
 #### Ages 8-10
 He must sprinkle on the person who is being made clean from the serious disease seven times, and must say he is clean, and must let the living bird go into the open field.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -139,9 +132,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Whoever is being made clean must wash his clothes, and shave off all his hair, and bathe himself in water; and he will be clean. After that he must come into the camp, but must stay outside his tent seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:9
@@ -153,9 +143,6 @@ It must be on the seventh day, that he must shave all his hair off his head and 
 #### Ages 8-10
 It must be on the seventh day, that he must shave all his hair off his head and his beard and his eyebrows, even all his hair he must shave off. He must wash his clothes, and he must bathe his body in water. Then he will be clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:10
@@ -166,9 +153,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "On the eighth day he must take two male lambs with nothing wrong with them, one female lamb a year old with nothing wrong with it, three tenth-measures of fine flour for a grain offering, mixed with oil, and one small measure of oil.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -183,9 +167,6 @@ The priest who helps make him clean must bring the man who is being made clean, 
 
 #### Ages 8-10
 The priest who helps make him clean must bring the man who is being made clean, and those things, before the Lord, at the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -202,9 +183,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "The priest must take one of the male lambs, and offer it as a guilt offering, with the small measure of oil, and lift them before the Lord as an offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -224,9 +202,6 @@ He must kill the male lamb in the place where they kill the offering for sin and
 #### Ages 8-10
 He must kill the male lamb in the place where they kill the sin offering and the burned offering, in the holy place; for as the sin offering is the priest's, so is the guilt offering. It is most holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - holy: Set apart for God
@@ -245,9 +220,6 @@ The priest must take some of the blood of the guilt offering, and the priest mus
 #### Ages 8-10
 The priest must take some of the blood of the guilt offering, and the priest must put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - offering: A gift brought to the Lord in worship
@@ -264,9 +236,6 @@ The priest must take some of the small measure of oil, and pour it into the palm
 #### Ages 8-10
 The priest must take some of the small measure of oil, and pour it into the palm of his own left hand.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -280,9 +249,6 @@ The priest must dip his right finger in the oil that is in his left hand, and mu
 
 #### Ages 8-10
 The priest must dip his right finger in the oil that is in his left hand, and must sprinkle some of the oil with his finger seven times before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -300,9 +266,6 @@ The priest must put some of the rest of the oil that is in his hand on the tip o
 #### Ages 8-10
 The priest must put some of the rest of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, over the blood of the guilt offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - offering: A gift brought to the Lord in worship
@@ -318,9 +281,6 @@ The rest of the oil that is in the priest's hand he must put on the head of the 
 
 #### Ages 8-10
 The rest of the oil that is in the priest's hand he must put on the head of the person who is being made clean, and the priest must make atonement for him before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -340,9 +300,6 @@ The priest must offer the offering for sin and make atonement for the man as he 
 #### Ages 8-10
 The priest must offer the sin offering and make atonement for the person being made clean. Afterward, the priest must kill the burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -360,9 +317,6 @@ then the priest must offer the burned offering and the grain gift on the altar. 
 
 #### Ages 8-10
 then the priest must offer the burned offering and the grain offering on the altar. The priest must make atonement for him, and he will be clean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -382,9 +336,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If he is poor, and can't afford so much, then he must take one male lamb for a guilt offering to be lifted before the Lord, to make atonement for him, and one tenth-measure of fine flour mixed with oil for a grain offering, and a small measure of oil;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -403,9 +354,6 @@ and two doves, or two young pigeons, such as he is able to afford; and the one m
 #### Ages 8-10
 and two doves, or two young pigeons, such as he is able to afford; and the one must be a sin offering, and the other a burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -420,9 +368,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "On the eighth day he must bring them to be made clean to the priest, to the door of the Tent of Meeting, before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -439,9 +384,6 @@ The priest must take the lamb of the guilt offering, and the small measure of oi
 
 #### Ages 8-10
 The priest must take the lamb of the guilt offering, and the small measure of oil, and the priest must lift them before the Lord as an offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -461,9 +403,6 @@ He must kill the lamb of the guilt offering. The priest must take some of the bl
 #### Ages 8-10
 He must kill the lamb of the guilt offering. The priest must take some of the blood of the guilt offering and put it on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - offering: A gift brought to the Lord in worship
@@ -480,9 +419,6 @@ The priest must pour some of the oil into the palm of his own left hand;
 #### Ages 8-10
 The priest must pour some of the oil into the palm of his own left hand;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -496,9 +432,6 @@ and the priest must sprinkle with his right finger some of the oil that is in hi
 
 #### Ages 8-10
 and the priest must sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -516,9 +449,6 @@ Then the priest must put some of the oil that is in his hand on the tip of the r
 #### Ages 8-10
 Then the priest must put some of the oil that is in his hand on the tip of the right ear of the person who is being made clean, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - offering: A gift brought to the Lord in worship
@@ -534,9 +464,6 @@ The rest of the oil that is in the priest's hand he must put on the head of the 
 
 #### Ages 8-10
 The rest of the oil that is in the priest's hand he must put on the head of the person who is being made clean, to make atonement for him before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -556,9 +483,6 @@ He must offer one of the doves, or of the young pigeons, whichever he is able to
 #### Ages 8-10
 He must offer one of the doves, or of the young pigeons, whichever he is able to afford,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:31
@@ -569,9 +493,6 @@ He must offer what the man can afford: one bird for an offering for sin, and the
 
 #### Ages 8-10
 He must offer what the man can afford: one bird for a sin offering, and the other for a burned offering, along with the grain offering. The priest must make atonement before the Lord for the person being made clean."
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -591,9 +512,6 @@ This is the law for him in whom is the serious skin-disease mark, who is not abl
 #### Ages 8-10
 This is the law for him in whom is the serious mark on the skin, who is not able to afford the sacrifice to be made clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 - sacrifice: An offering given in worship
@@ -608,9 +526,6 @@ The Lord spoke to Moses and to Aaron, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -629,9 +544,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "When you have come into the land of Canaan, which I give to you for a possession, and I put a spreading mildew in a house in the land of your possession,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:35
@@ -642,9 +554,6 @@ then whoever owns the house must come and tell the priest, saying, 'There seems 
 
 #### Ages 8-10
 then whoever owns the house must come and tell the priest, saying, 'There seems to me to be some sort of mark of disease in the house.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -659,9 +568,6 @@ Before the priest goes in to look at the mark, he must tell them to empty the ho
 
 #### Ages 8-10
 Before the priest goes in to examine the mark, he must tell them to empty the house. Then the things in the house will not become unclean. After that, the priest must go in and inspect the house.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -678,9 +584,6 @@ He must examine the disease mark; and if the disease mark is in the walls of the
 #### Ages 8-10
 He must examine the mark of disease; and if the mark of disease is in the walls of the house with sunken streaks, greenish or reddish, and it appears to be deeper than the wall,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:38
@@ -691,9 +594,6 @@ then the priest must go out of the house to the door of the house, and close the
 
 #### Ages 8-10
 then the priest must go out of the house to the door of the house, and close the house seven days.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -709,9 +609,6 @@ The priest must come again on the seventh day, and look. If the disease mark has
 #### Ages 8-10
 The priest must come again on the seventh day, and look. If the mark of disease has spread in the walls of the house,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -725,9 +622,6 @@ then the priest must tell them to take out the stones with the mark and throw th
 
 #### Ages 8-10
 then the priest must tell them to take out the stones with the mark and throw them into an unclean place outside the city.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -744,9 +638,6 @@ The inside of the house must be scraped all over. The scraped-off plaster must b
 #### Ages 8-10
 The inside of the house must be scraped all over. The scraped-off plaster must be poured out in an unclean place outside the city.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:42
@@ -757,9 +648,6 @@ They must take other stones, and put them in the place of those stones; and he m
 
 #### Ages 8-10
 They must take other stones, and put them in the place of those stones; and he must take other mortar, and must repair the house with fresh plaster.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -772,9 +660,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If the mark of disease comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:44
@@ -785,9 +670,6 @@ then the priest must come in and look; and if the disease mark has spread in the
 
 #### Ages 8-10
 then the priest must come in and look; and if the mark of disease has spread in the house, it is a destructive mildew in the house. It is unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -803,9 +685,6 @@ The house must be torn down. Its stones, wood, and plaster must be carried out o
 #### Ages 8-10
 The house must be torn down. Its stones, wood, and plaster must be carried out of the city to an unclean place.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:46
@@ -816,9 +695,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Moreover whoever goes into the house while it is shut up will be unclean until the evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -831,9 +707,6 @@ Whoever lies down in the house must wash his clothes; and whoever eats in the ho
 #### Ages 8-10
 Whoever lies down in the house must wash his clothes; and whoever eats in the house must wash his clothes.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:48
@@ -844,9 +717,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If the priest comes in and examines it, and the mark of disease hasn't spread in the house, after the house was plastered, then the priest must say the house is clean, because the mark of disease is healed.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -862,9 +732,6 @@ To make the house clean he must take two birds, a piece of cedar wood, red threa
 #### Ages 8-10
 To make the house clean he must take two birds, a piece of cedar wood, red thread, and a leafy hyssop branch.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:50
@@ -875,9 +742,6 @@ He must kill one of the birds in a clay bowl held over fresh flowing water.
 
 #### Ages 8-10
 He must kill one of the birds in a clay bowl held over fresh flowing water.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -890,9 +754,6 @@ He must take the cedar wood, the leafy hyssop branch, the red thread, and the li
 #### Ages 8-10
 He must take the cedar wood, the leafy hyssop branch, the red thread, and the living bird. He must dip them in the blood of the bird that was killed and in the fresh flowing water, and then sprinkle the house seven times.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:52
@@ -904,9 +765,6 @@ He must make the house clean with the bird's blood, the fresh flowing water, the
 #### Ages 8-10
 He must make the house clean with the bird's blood, the fresh flowing water, the living bird, the cedar wood, the leafy hyssop branch, and the red thread.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:53
@@ -917,9 +775,6 @@ Then he must let the living bird go out of the city into the open field. In this
 
 #### Ages 8-10
 Then he must let the living bird go out of the city into the open field. In this way he must make atonement for the house, and it will be clean."
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -935,9 +790,6 @@ This is the law for any serious skin-disease mark, and for an itch,
 #### Ages 8-10
 This is the law for any serious mark on the skin, and for an itch,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 
@@ -952,9 +804,6 @@ and for the destructive mildew of a piece of clothing, and for a house,
 #### Ages 8-10
 and for the destructive mildew of a garment, and for a house,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:56
@@ -966,9 +815,6 @@ and for a swelling, and for a scab, and for a bright spot;
 #### Ages 8-10
 and for a swelling, and for a scab, and for a bright spot;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 14:57
@@ -979,9 +825,6 @@ to teach when it is not clean for worship, and when it is clean for worship. Thi
 
 #### Ages 8-10
 to teach when it is unclean, and when it is clean. This is the law of serious disease.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -1006,12 +849,11 @@ The priest must tell them to kill one of the birds in a clay bowl held over fres
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 14 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -39,7 +39,7 @@ The Lord spoke to Moses, saying,
 "Say to the people of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he must still keep the Passover to the Lord.
 
 ### Numbers 9:11
-In the second month, on the fourteenth day at evening they must keep it; they must eat it with unleavened bread and bitter herbs.
+In the second month, on the fourteenth day at evening they must keep it; they must eat it with bread made without yeast and bitter herbs.
 
 ### Numbers 9:12
 They must leave none of it until the morning, nor break a bone of it. According to all the rule of the Passover they must keep it.

@@ -1,7 +1,7 @@
 # Leviticus Chapter 26
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord sets before Israel blessings for covenant obedience and warnings for covenant disobedience.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord sets before Israel blessings for covenant obedience and warnings for covenant disobedience.
 
 ## Important Keywords
 - covenant: A serious promise relationship God makes
@@ -21,9 +21,6 @@ Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, an
 #### Ages 8-10
 "You must make for yourselves no idols, and you must not raise up a carved image or a pillar, and you must not place any figured stone in your land, to bow down to it; for I am the Lord your God.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - Lord: God's covenant name used in many English Bibles
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must keep my Sabbaths, and have reverence for my holy place. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -59,9 +53,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If you walk in my rules and keep my commands, and do them,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:4
@@ -72,9 +63,6 @@ then I will give you your rains in their season, and the land will yield its inc
 
 #### Ages 8-10
 then I will give you your rains in their season, and the land will yield its increase, and the trees of the field will yield their fruit.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -87,9 +75,6 @@ Your threshing will continue until the vintage, and the vintage will continue un
 #### Ages 8-10
 Your threshing will continue until the vintage, and the vintage will continue until the sowing time. You will eat your bread until you are full, and live in your land safely.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:6
@@ -100,9 +85,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "I will give peace in the land, and you will lie down, and no one will make you afraid. I will remove evil animals out of the land, no sword will go through your land.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - evil: What is wrong and against God
@@ -118,9 +100,6 @@ You will chase your enemies, and they will fall before you by the sword.
 #### Ages 8-10
 You will chase your enemies, and they will fall before you by the sword.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:8
@@ -132,9 +111,6 @@ Five of you will chase a hundred, and a hundred of you will chase ten thousand; 
 #### Ages 8-10
 Five of you will chase a hundred, and a hundred of you will chase ten thousand; and your enemies will fall before you by the sword.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:9
@@ -145,9 +121,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "I will have respect for you, make you fruitful, multiply you, and will establish my covenant with you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -163,9 +136,6 @@ You will eat old supplies kept for a long time, and you will move out the old be
 #### Ages 8-10
 You will eat old supplies kept for a long time, and you will move out the old because of the new.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:11
@@ -176,9 +146,6 @@ I will set my tent among you, and I will not reject you.
 
 #### Ages 8-10
 I will set my tent among you, and I will not reject you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -192,7 +159,19 @@ I will walk among you, and will be your God, and you will be my people.
 I will walk among you, and will be your God, and you will be my people.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The blessings and warnings are covenant language. The chapter ends with mercy because the Lord promises to remember his covenant.
+**Cross-References**:
+- Genesis 17:7
+- Revelation 21:3
+<!-- Illustration Prompt -->
+**Scene**: Two paths before Israel: fruitful fields under covenant blessing and a solemn road of warning
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Israelite families listening to Moses
+**Setting**: Camp at Sinai with fields pictured beyond
+**Action**: The people hear blessings and warnings of the covenant
+**Emotional Tone**: Serious, hopeful, weighty
+**Age Appropriateness**: Symbolic, not frightening
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -207,9 +186,6 @@ I am the Lord your God, who brought you out of the land of Egypt, that you shoul
 
 #### Ages 8-10
 I am the Lord your God, who brought you out of the land of Egypt, that you should not be their slaves. I have broken the bars of your yoke, and made you walk upright.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -228,9 +204,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "But if you will not listen to me, and will not do all these commands,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:15
@@ -241,9 +214,6 @@ and if you reject my rules, and if you reject my commands, so that you will not 
 
 #### Ages 8-10
 and if you reject my rules, and if you reject my commands, so that you will not do all my commands, but break my covenant,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -259,9 +229,6 @@ I also will do this to you: I will appoint terror over you, even wasting disease
 #### Ages 8-10
 I also will do this to you: I will appoint terror over you, even wasting disease and fever, that will weaken the eyes, and make life fade away. You will sow your seed in vain, for your enemies will eat it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:17
@@ -272,9 +239,6 @@ I will set my face against you, and you will be struck before your enemies. Thos
 
 #### Ages 8-10
 I will set my face against you, and you will be struck before your enemies. Those who hate you will rule over you; and you will flee when no one pursues you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -287,9 +251,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If you in spite of these things will not listen to me, then I will discipline you seven times more for your sins.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:19
@@ -300,9 +261,6 @@ I will break the pride of your power, and I will make your sky like iron, and yo
 
 #### Ages 8-10
 I will break the pride of your power, and I will make your sky like iron, and your soil like bronze.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -315,9 +273,6 @@ Your strength will be spent in vain; for your land won't yield its increase, nei
 #### Ages 8-10
 Your strength will be spent in vain; for your land won't yield its increase, neither will the trees of the land yield their fruit.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:21
@@ -328,9 +283,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If you walk contrary to me, and won't listen to me, then I will bring seven times more troubles on you according to your sins.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -343,9 +295,6 @@ I will send the wild animals among you, which will rob you of your children, des
 #### Ages 8-10
 I will send the wild animals among you, which will rob you of your children, destroy your livestock, and make you few in number. Your roads will become desolate.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:23
@@ -356,9 +305,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If by these things you won't be turned back to me, but will walk contrary to me,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -371,9 +317,6 @@ then I will also walk contrary to you; and I will strike you, even I, seven time
 #### Ages 8-10
 then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:25
@@ -384,9 +327,6 @@ I will bring a sword upon you that will execute the vengeance of the covenant. Y
 
 #### Ages 8-10
 I will bring a sword upon you that will execute the vengeance of the covenant. You will be gathered together within your cities, and I will send the pestilence among you. You will be delivered into the hand of the enemy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -402,9 +342,6 @@ When I break your staff of bread, ten women will bake your bread in one oven, an
 #### Ages 8-10
 When I break your staff of bread, ten women will bake your bread in one oven, and they will give your bread back by weight. You will eat, but you will not be satisfied.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:27
@@ -415,9 +352,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If you in spite of this won't listen to me, but walk contrary to me,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -430,9 +364,6 @@ then I will walk contrary to you in wrath. I will also discipline you seven time
 #### Ages 8-10
 then I will walk contrary to you in wrath. I will also discipline you seven times for your sins.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:29
@@ -443,9 +374,6 @@ You will eat the flesh of your sons, and you will eat the flesh of your daughter
 
 #### Ages 8-10
 You will eat the flesh of your sons, and you will eat the flesh of your daughters.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -458,9 +386,6 @@ I will destroy your high places, and cut down your sweet-smelling incense altars
 #### Ages 8-10
 I will destroy your high places, and cut down your sweet-smelling incense altars, and cast your dead bodies upon the bodies of your idols; and I will reject you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:31
@@ -471,9 +396,6 @@ I will lay your cities waste, and will bring your sanctuaries to desolation. I w
 
 #### Ages 8-10
 I will lay your cities waste, and will bring your sanctuaries to desolation. I will not take delight in the sweet fragrance of your offerings.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -486,9 +408,6 @@ I will bring the land into desolation, and your enemies that live in it will be 
 #### Ages 8-10
 I will bring the land into desolation, and your enemies that live in it will be astonished at it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:33
@@ -499,9 +418,6 @@ I will scatter you among the nations, and I will draw out the sword after you. Y
 
 #### Ages 8-10
 I will scatter you among the nations, and I will draw out the sword after you. Your land will be a desolation, and your cities will be a waste.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -514,9 +430,6 @@ Then the land will enjoy its Sabbaths as long as it lies desolate and you are in
 #### Ages 8-10
 Then the land will enjoy its Sabbaths as long as it lies desolate and you are in your enemies' land. Even then the land will rest and enjoy its Sabbaths.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:35
@@ -527,9 +440,6 @@ As long as it lies desolate it will have rest, even the rest which it didn't hav
 
 #### Ages 8-10
 As long as it lies desolate it will have rest, even the rest which it didn't have in your Sabbaths when you lived on it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -542,9 +452,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "As for those of you who are left, I will send a faintness into their hearts in the lands of their enemies. The sound of a driven leaf will put them to flight; and they will flee, as one flees from the sword. They will fall when no one pursues.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:37
@@ -555,9 +462,6 @@ They will stumble over one another, as it were before the sword, when no one pur
 
 #### Ages 8-10
 They will stumble over one another, as it were before the sword, when no one pursues. You will have no power to stand before your enemies.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -570,9 +474,6 @@ You will perish among the nations. The land of your enemies will eat you up.
 #### Ages 8-10
 You will perish among the nations. The land of your enemies will eat you up.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 26:39
@@ -583,9 +484,6 @@ Those of you who are left will waste away in their sin in your enemies' lands; a
 
 #### Ages 8-10
 Those of you who are left will waste away in their sin in your enemies' lands; and also in the sins of their fathers they will waste away with them.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -601,9 +499,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If they confess their sin and the sin of their fathers, in their unfaithfulness by which they were unfaithful against me; and also that because they walked contrary to me,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
 
@@ -618,9 +513,6 @@ I also walked contrary to them, and brought them into the land of their enemies;
 #### Ages 8-10
 I also walked contrary to them, and brought them into the land of their enemies; if then their uncircumcised heart is humbled, and they then accept the punishment of their sin,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
 
@@ -634,9 +526,6 @@ then I will remember my covenant with Jacob, my covenant with Isaac, and also my
 
 #### Ages 8-10
 then I will remember my covenant with Jacob, my covenant with Isaac, and also my covenant with Abraham; and I will remember the land.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -653,9 +542,6 @@ The land also will be left by them, and will enjoy its Sabbaths while it lies de
 #### Ages 8-10
 The land also will be left by them, and will enjoy its Sabbaths while it lies desolate without them; and they will accept the punishment of their sin because they rejected my commands, and they rejected my rules.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
 
@@ -669,9 +555,6 @@ Yet for all that, when they are in the land of their enemies, I will not reject 
 
 #### Ages 8-10
 Yet for all that, when they are in the land of their enemies, I will not reject them, nor will I hate them, to destroy them utterly and to break my covenant with them; for I am the Lord their God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -690,9 +573,6 @@ But I will for their sake remember the covenant of their ancestors, whom I broug
 #### Ages 8-10
 But I will for their sake remember the covenant of their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the Lord.' "
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
 - Egypt: The land where Israel had been enslaved
@@ -710,9 +590,6 @@ These are the rules, commands, and laws, which the Lord made between him and the
 
 #### Ages 8-10
 These are the rules, commands, and laws, which the Lord made between him and the people of Israel in Mount Sinai by Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -740,12 +617,11 @@ then I will give you your rains in their season, and the land will yield its inc
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 26 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

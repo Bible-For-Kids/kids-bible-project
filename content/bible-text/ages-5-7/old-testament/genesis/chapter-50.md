@@ -75,7 +75,7 @@ Joseph said to them, "Do not be afraid. Am I in the place of God?
 Joseph lived in Egypt, he and his father's household. Joseph lived one hundred ten years.
 
 ### Genesis 50:23
-Joseph saw Ephraim's children to the third generation. The children of Machir, Manasseh's son, were also brought up on Joseph's knees.
+Joseph saw Ephraim's children to the third generation. The children of Machir, Manasseh's son, were also placed on Joseph's knees when they were born.
 
 ### Genesis 50:24
 Joseph said to his brothers, "I am dying, but God will surely come to help you. He will bring you up out of this land to the land he promised with a serious promise to Abraham, Isaac, and Jacob."

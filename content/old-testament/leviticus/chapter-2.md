@@ -1,7 +1,7 @@
 # Leviticus Chapter 2
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for grain offerings made with flour, oil, incense, and salt, but without yeast or honey burned on the altar.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives instructions for grain offerings made with flour, oil, incense, and salt, but without yeast or honey burned on the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, an
 #### Ages 8-10
 "When someone brings a grain offering to the Lord, the offering must be fine flour. He must pour oil on it and put sweet-smelling incense on it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -39,9 +36,6 @@ He must bring it to Aaron's sons, the priests. The priest must take a handful of
 
 #### Ages 8-10
 He must bring it to Aaron's sons, the priests. The priest must take a handful of the flour and oil, with all the sweet-smelling incense, and burn that part on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -61,9 +55,6 @@ The rest of the grain gift belongs to Aaron and his sons. It is a most holy part
 #### Ages 8-10
 The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -82,9 +73,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If you bring a grain offering baked in an oven, it must be made of fine flour mixed with oil and no yeast. It may be flat cakes or thin wafers spread with oil.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -98,9 +86,6 @@ If your grain gift is cooked on a griddle, it must be made of fine flour mixed w
 
 #### Ages 8-10
 If your grain offering is cooked on a griddle, it must be made of fine flour mixed with oil and no yeast.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -116,9 +101,6 @@ You must break it into pieces and pour oil on it. It is a grain gift.
 #### Ages 8-10
 You must break it into pieces and pour oil on it. It is a grain offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -133,9 +115,6 @@ If your grain gift is cooked in a pan, it must be made of fine flour with oil.
 #### Ages 8-10
 If your grain offering is cooked in a pan, it must be made of fine flour with oil.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -149,9 +128,6 @@ You must bring the grain gift made from these things to the Lord. It must be giv
 
 #### Ages 8-10
 You must bring the grain offering made from these things to the Lord. It must be given to the priest, and he must bring it to the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -171,9 +147,6 @@ The priest must take from the grain gift the part burned before the Lord and bur
 #### Ages 8-10
 The priest must take from the grain offering the part burned before the Lord and burn it on the altar. It is an offering burned on the altar, a pleasing aroma to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -191,9 +164,6 @@ The rest of the grain gift belongs to Aaron and his sons. It is a most holy part
 
 #### Ages 8-10
 The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the offerings burned for the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -213,9 +183,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "No grain offering you bring to the Lord may be made with yeast. You must not burn any yeast or honey as an offering burned on the altar to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -232,9 +199,6 @@ You may bring yeast and honey to the Lord as a firstfruits gift, but they must n
 
 #### Ages 8-10
 You may bring yeast and honey to the Lord as a firstfruits offering, but they must not be burned on the altar as a pleasing aroma.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -254,7 +218,18 @@ You must put salt on every grain gift. Do not leave out the salt of God's covena
 You must put salt on every grain offering. Do not leave out the salt of God's covenant from your grain offering. Bring salt with all your offerings.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+Salt is kept in the wording because the verse connects it to God's covenant. The younger text explains the grain offering as a grain gift while preserving the required oil, incense, and salt.
+**Cross-References**:
+- Numbers 18:19
+<!-- Illustration Prompt -->
+**Scene**: A priest holding grain, oil, incense, and salt for a grain offering
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priest and worshiper
+**Setting**: Beside the altar at the holy tent
+**Action**: The worshiper brings a grain gift prepared as the Lord commanded
+**Emotional Tone**: Thankful, careful, reverent
+**Age Appropriateness**: Peaceful worship scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -272,9 +247,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If you bring a grain offering of firstfruits to the Lord, bring fresh heads of grain roasted by fire and crushed.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -291,9 +263,6 @@ You must put oil on it and lay sweet-smelling incense on it. It is a grain gift.
 #### Ages 8-10
 You must put oil on it and lay sweet-smelling incense on it. It is a grain offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -307,9 +276,6 @@ The priest must burn part of the crushed grain and oil, with all the sweet-smell
 
 #### Ages 8-10
 The priest must burn part of the crushed grain and oil, with all the sweet-smelling incense, as the part burned before the Lord. It is an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -338,12 +304,11 @@ The rest of the grain offering belongs to Aaron and his sons. It is a most holy 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 2 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

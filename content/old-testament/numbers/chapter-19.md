@@ -1,7 +1,7 @@
 # Numbers Chapter 19
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives the law of the red young cow and the cleansing water made from its ashes.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives the law of the red young cow and the cleansing water made from its ashes.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "This is the rule the Lord commanded: Tell the people of Israel to bring you a red young cow without defect, one that has never worn a yoke for work.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -61,9 +55,6 @@ You must give her to Eleazar the priest. He must bring her outside the camp, and
 #### Ages 8-10
 You must give her to Eleazar the priest. He must bring her outside the camp, and someone must kill her in front of him.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -77,9 +68,6 @@ Eleazar the priest must take some of her blood with his finger, and sprinkle her
 
 #### Ages 8-10
 Eleazar the priest must take some of her blood with his finger, and sprinkle her blood toward the front of the Tent of Meeting seven times.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -95,9 +83,6 @@ The young cow must be burned while Eleazar watches. Its skin, meat, blood, and w
 #### Ages 8-10
 The young cow must be burned while Eleazar watches. Its skin, meat, blood, and waste must all be burned.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:6
@@ -108,9 +93,6 @@ The priest must take a piece of cedar wood, a leafy hyssop branch, and red threa
 
 #### Ages 8-10
 The priest must take a piece of cedar wood, a leafy hyssop branch, and red thread, and throw it into the middle of the burning of the young cow.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -126,9 +108,6 @@ Then the priest must wash his clothes and wash his body in water. Afterward he m
 #### Ages 8-10
 Then the priest must wash his clothes and bathe his body in water. Afterward he may come into the camp, but he will be unclean until evening.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -143,9 +122,6 @@ The person who burns the cow must wash his clothes in water and wash his body in
 #### Ages 8-10
 The person who burns the cow must wash his clothes in water and bathe his body in water. He will be unclean until evening.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:9
@@ -156,9 +132,6 @@ A clean person must gather the ashes of the young cow and store them outside the
 
 #### Ages 8-10
 A clean person must gather the ashes of the young cow and store them outside the camp in a clean place. They must be kept for the people of Israel to make cleansing water. It is a sin offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -176,9 +149,6 @@ The person who gathers the ashes of the young cow must wash his clothes and will
 #### Ages 8-10
 The person who gathers the ashes of the young cow must wash his clothes and will be unclean until evening. This will be a lasting rule for the people of Israel and for the foreigner who lives among them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -193,9 +163,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Whoever touches a dead body will be unclean for seven days.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:12
@@ -207,9 +174,6 @@ He must purify himself with water on the third day, and on the seventh day he wi
 #### Ages 8-10
 He must purify himself with water on the third day, and on the seventh day he will be clean. But if he does not purify himself on the third day, he will not be clean on the seventh day.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:13
@@ -220,9 +184,6 @@ Whoever touches a dead person and does not purify himself makes the Lord's tent 
 
 #### Ages 8-10
 Whoever touches a dead person and does not purify himself makes the Lord's tent unclean. That person must be removed from Israel. Because the cleansing water was not sprinkled on him, he is still unclean.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -241,9 +202,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "This is the law when someone dies in a tent: everyone who comes into the tent, and everyone already in the tent, will be unclean for seven days.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 
@@ -258,9 +216,6 @@ Every open container without a cover tied on it will not be clean for worship.
 #### Ages 8-10
 Every open container without a cover tied on it will be unclean.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:16
@@ -272,9 +227,6 @@ Whoever is outside and touches someone killed with a sword, a dead body, a human
 #### Ages 8-10
 Whoever is outside and touches someone killed with a sword, a dead body, a human bone, or a grave will be unclean for seven days.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:17
@@ -285,9 +237,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "For the person who is unclean, they must take some ashes from the burned sin offering and pour fresh flowing water over them in a container.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -305,10 +254,18 @@ A clean person must take a leafy hyssop branch, dip it in the water, and sprinkl
 A clean person must take a leafy hyssop branch, dip it in the water, and sprinkle it on the tent, on all the containers, on the people who were there, and on the person who touched a bone, someone who was killed, someone who died, or a grave.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives the law of the red young cow and the cleansing water made from its ashes. Because death makes a person not clean for worship, God provides a way for Israel to be cleansed and come near rightly.
 
+<!-- Illustration Prompt -->
+**Scene**: A clean person dipping a leafy hyssop branch into cleansing water outside the camp
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 19 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: A clean person dipping a leafy hyssop branch into cleansing water outside the camp
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 ---
-
 ### Numbers 19:19
 **Original Reference**: Numbers 19:19 - The clean person shall sprinkle on the unclean on the third day, and on the seventh day. On the seventh day, he shall purify him. He shall wash his clothes and bathe himself in water, and shall be clean at evening.
 
@@ -317,9 +274,6 @@ The clean person must sprinkle the water on the person not clean for worship on 
 
 #### Ages 8-10
 The clean person must sprinkle the water on the unclean person on the third day and on the seventh day. On the seventh day, he must purify him. Then the person must wash his clothes, bathe in water, and be clean in the evening.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -331,9 +285,6 @@ But if someone is not clean for worship and does not purify himself, that person
 
 #### Ages 8-10
 But if someone is unclean and does not purify himself, that person must be removed from the gathered people, because he has made the Lord's holy place unclean. The cleansing water has not been sprinkled on him. He is unclean.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -351,9 +302,6 @@ This will be a lasting rule for them. Whoever sprinkles the cleansing water must
 #### Ages 8-10
 This will be a lasting rule for them. Whoever sprinkles the cleansing water must wash his clothes, and whoever touches the cleansing water will be unclean until evening.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 19:22
@@ -364,9 +312,6 @@ Whatever the person who is not clean for worship touches will not be clean for w
 
 #### Ages 8-10
 Whatever the unclean person touches will be unclean, and whoever touches it will be unclean until evening."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -388,12 +333,11 @@ You must give her to Eleazar the priest. He must bring her outside the camp, and
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Death is serious before God?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Death is serious before God"?
+2. How does this chapter also help explain "God provides cleansing"?
 ## Prayer
 Lord, help us understand Numbers 19 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

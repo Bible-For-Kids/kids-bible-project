@@ -21,7 +21,7 @@ So ten of Joseph's brothers went down to Egypt to buy grain.
 But Jacob did not send Benjamin, Joseph's brother, with them, because he said, "Something bad might happen to him."
 
 ### Genesis 42:5
-The sons of Israel came to buy grain among the other people who were coming, because the famine was also in the land of Canaan.
+The sons of Israel came to buy grain among the other travelers, because the famine was also in the land of Canaan.
 
 ### Genesis 42:6
 Joseph was the ruler over the land, and he was the one selling grain to all the people. Joseph's brothers came and bowed down before him with their faces to the ground.
@@ -63,19 +63,19 @@ Joseph put them all together in prison for three days.
 On the third day, Joseph said to them, "Do this and live, for I fear God.
 
 ### Genesis 42:19
-"If you are honest men, let one of your brothers stay here in prison. The rest of you may go and carry grain for the hunger of your households.
+"If you are honest men, let one of your brothers stay here in prison. The rest of you may go and carry grain home to feed your hungry households.
 
 ### Genesis 42:20
 "But bring your youngest brother to me, so your words will be proven true and you will not die." So they agreed.
 
 ### Genesis 42:21
-They said to one another, "We are truly guilty because of our brother. We saw how frightened he was when he begged us, but we would not listen. That is why this trouble has come to us."
+They said to one another, "We are truly guilty because of our brother. We saw how frightened and troubled he was when he begged us, but we would not listen. That is why this trouble has come to us."
 
 ### Genesis 42:22
 Reuben answered them, "Did I not tell you, 'Do not sin against the boy'? But you would not listen. Now we are being held responsible for what happened to him."
 
 ### Genesis 42:23
-They did not know that Joseph understood them, because he had been speaking to them through someone who translated their words.
+They did not know that Joseph understood them, because a man had been standing between them to translate their words.
 
 ### Genesis 42:24
 Joseph turned away from them and wept. Then he came back and spoke to them. He took Simeon from them and had him tied up before their eyes.

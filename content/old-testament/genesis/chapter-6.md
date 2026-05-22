@@ -20,7 +20,7 @@ Genesis 6 shows human wickedness spreading across the earth, but Noah finds favo
 **Original Reference**: Genesis 6:1 - When men began to multiply on the surface of the ground, and daughters were born to them,
 
 #### Ages 5-7
-People began to spread out and grow in number on the earth, and daughters were born to them.
+People began to spread out over the earth. Their families grew, and daughters were born to them.
 
 #### Ages 8-10
 When human beings began to increase in number on the earth, daughters were born to them.
@@ -31,7 +31,7 @@ When human beings began to increase in number on the earth, daughters were born 
 **Original Reference**: Genesis 6:2 - God's sons saw that men's daughters were beautiful, and they took any that they wanted for themselves as wives.
 
 #### Ages 5-7
-The sons of God saw that the daughters of humans were beautiful. They took the women they chose as wives.
+The sons of God saw that the daughters of humans were beautiful. They took any women they wanted as wives.
 
 #### Ages 8-10
 The sons of God saw that the daughters of humans were beautiful, and they took as wives any they chose.
@@ -60,7 +60,7 @@ Then the Lord said, "My Spirit will not contend with humans forever, for they ar
 **Original Reference**: Genesis 6:4 - The Nephilim were in the earth in those days, and also after that, when God's sons came in to men's daughters and had children with them. Those were the mighty men who were of old, men of renown.
 
 #### Ages 5-7
-The Nephilim were on the earth in those days, and also later. This was when the sons of God and the daughters of humans had children together. Those were the mighty men from long ago, famous men.
+The Nephilim were on the earth in those days, and also later. This was when the sons of God and the daughters of humans had children together. Those were the mighty men from long ago, men with famous names.
 
 #### Ages 8-10
 The Nephilim were on the earth in those days, and also afterward, when the sons of God and the daughters of humans had children together. Those were the mighty men of long ago, men well known in their time.
@@ -83,7 +83,7 @@ This verse is difficult. It says the Nephilim were on the earth in those days an
 **Original Reference**: Genesis 6:5 - Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man's heart was continually only evil.
 
 #### Ages 5-7
-The Lord saw that human evil had become very great on the earth. Every plan in people's hearts was only evil all the time.
+The Lord saw that human evil had grown very great across the earth. Every plan and thought in people's hearts was only evil, all the time.
 
 #### Ages 8-10
 The Lord saw that human wickedness had become great on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.
@@ -103,7 +103,7 @@ Do not soften the spread of evil into mere bad choices; the verse speaks about t
 **Original Reference**: Genesis 6:6 - Yahweh was sorry that he had made man on the earth, and it grieved him in his heart.
 
 #### Ages 5-7
-The Lord was grieved that he had made human beings on the earth. His heart was filled with sorrow.
+The Lord was grieved that he had made human beings on the earth. Sorrow filled his heart.
 
 #### Ages 8-10
 The Lord regretted that he had made human beings on the earth, and his heart was deeply grieved.
@@ -114,7 +114,7 @@ The Lord regretted that he had made human beings on the earth, and his heart was
 **Original Reference**: Genesis 6:7 - Yahweh said, "I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them."
 
 #### Ages 5-7
-So the Lord said, "I will wipe from the earth the humans I created, and also animals, crawling creatures, and birds, because I am grieved that I made them."
+So the Lord said, "I will wipe from the face of the earth the humans I created. I will also wipe away animals, crawling creatures, and birds of the sky, because I am grieved that I made them."
 
 #### Ages 8-10
 So the Lord said, "I will wipe from the face of the earth the human beings I created, along with animals, crawling creatures, and birds, because I am grieved that I made them."
@@ -153,6 +153,16 @@ This is the account of Noah. Noah was a righteous man, blameless among the peopl
 **Key Vocabulary**:
 - righteous: Right before God, shown by trust and obedience
 
+<!-- Illustration Prompt -->
+**Scene**: Noah walking faithfully with God while the world around him has turned violent
+**Style**: Children's book illustration, reverent, grounded, and serious
+**Characters**: Noah, with his family nearby; no visible human form for God
+**Setting**: An ancient settlement with signs of trouble kept non-graphic
+**Action**: Noah walks steadily while people around him turn away from what is good
+**Emotional Tone**: Serious, faithful, hopeful
+**Age Appropriateness**: No direct violence or frightening detail shown
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 6:10
@@ -181,7 +191,7 @@ Now the earth was corrupt in God's sight and was full of violence.
 **Original Reference**: Genesis 6:12 - God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth.
 
 #### Ages 5-7
-God looked at the earth and saw that it was corrupt. All people had corrupted their ways.
+God looked over the earth and saw that it was corrupt. All people on the earth had corrupted their ways.
 
 #### Ages 8-10
 God saw how corrupt the earth had become, for all flesh had corrupted its way on the earth.
@@ -192,7 +202,7 @@ God saw how corrupt the earth had become, for all flesh had corrupted its way on
 **Original Reference**: Genesis 6:13 - God said to Noah, "I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
 #### Ages 5-7
-So God said to Noah, "I am going to bring an end to people and living creatures, because the earth is full of violence because of them. I will destroy them along with the earth.
+So God said to Noah, "I am going to bring an end to people and living creatures, because the earth is full of violence because of them. I will destroy them with the earth.
 
 #### Ages 8-10
 So God said to Noah, "I am going to put an end to all flesh, because the earth is filled with violence because of them. I am surely going to destroy them with the earth.
@@ -203,7 +213,7 @@ So God said to Noah, "I am going to put an end to all flesh, because the earth i
 **Original Reference**: Genesis 6:14 - Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.
 
 #### Ages 5-7
-Make yourself a large ark from gopher wood. Build rooms inside it, and cover the whole ark inside and outside with sticky tar so water cannot come in.
+Make yourself a large ark from gopher wood. Build rooms inside it. Cover the whole ark inside and outside with sticky tar so water cannot come in.
 
 #### Ages 8-10
 Make yourself a great ark of gopher wood. Make rooms inside it and cover it with pitch, a sticky tar, inside and outside so the waters cannot come in.
@@ -239,13 +249,23 @@ Make a roof for the ark, leaving an opening about 18 inches high near the top fo
 **Key Vocabulary**:
 - ark: The large boat God told Noah to build
 
+<!-- Illustration Prompt -->
+**Scene**: Noah beginning the great ark according to God's instructions
+**Style**: Warm, detailed children's Bible illustration
+**Characters**: Noah and his family working together
+**Setting**: Open land with stacks of wood, tools, and the rising frame of the ark
+**Action**: Rooms, decks, a side door, and a high opening are being built into the ark
+**Emotional Tone**: Steady obedience, awe, preparation
+**Age Appropriateness**: Safe and practical, focused on construction rather than danger
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 6:17
 **Original Reference**: Genesis 6:17 - I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die.
 
 #### Ages 5-7
-I am going to bring floodwaters on the earth to destroy every creature under the sky that has the breath of life. Everything on earth will die.
+I myself am going to bring floodwaters over the earth. They will destroy every creature under the sky that has the breath of life. Everything on earth will die.
 
 #### Ages 8-10
 I am going to bring floodwaters on the earth to destroy every creature under the heavens that has the breath of life. Everything on earth will perish.
@@ -277,7 +297,7 @@ The covenant promise begins before the flood; keep God as the one who establishe
 **Original Reference**: Genesis 6:19 - Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female.
 
 #### Ages 5-7
-Bring two of every kind of living creature into the ark. Keep them alive with you. They must be male and female.
+Bring two of every kind of living creature into the ark with you, to keep them alive. They must be male and female.
 
 #### Ages 8-10
 You are to bring into the ark two of every kind of living creature, male and female, to keep them alive with you.
@@ -291,10 +311,20 @@ You are to bring into the ark two of every kind of living creature, male and fem
 **Original Reference**: Genesis 6:20 - Of the birds after their kind, of the livestock after their kind, of every creeping thing of the ground after its kind, two of every sort will come to you, to keep them alive.
 
 #### Ages 5-7
-Two of every kind of bird, animal, and crawling creature will come to you, so they may be kept alive.
+Two of every kind of bird, farm animal, and crawling creature will come to you, so they may be kept alive.
 
 #### Ages 8-10
 Two of every kind of bird, animal, and crawling creature will come to you to be kept alive.
+
+<!-- Illustration Prompt -->
+**Scene**: The promise that living creatures will be kept alive through the ark
+**Style**: Hopeful children's book illustration with natural detail
+**Characters**: Noah listening to God's command; pairs of birds and animals nearby
+**Setting**: The ark standing ready on dry land
+**Action**: Creatures gather in peaceful pairs as Noah prepares to keep them alive
+**Emotional Tone**: Hope, care, solemn rescue
+**Age Appropriateness**: Gentle animal focus, no flood danger shown in this scene
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -302,7 +332,7 @@ Two of every kind of bird, animal, and crawling creature will come to you to be 
 **Original Reference**: Genesis 6:21 - Take with you some of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them."
 
 #### Ages 5-7
-Take every kind of food that can be eaten. Store it as food for you and for them.
+Take every kind of food that can be eaten. Gather it and store it as food for you and for them.
 
 #### Ages 8-10
 Take every kind of food that can be eaten and store it as food for you and for them.
@@ -339,12 +369,14 @@ But Noah found favor in the eyes of the Lord. - Genesis 6:8
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What did the Lord see on the earth?
+2. How was Noah different from the people around him?
+3. What did God tell Noah to build?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. Why is Genesis 6:8 important after the words about judgment?
+2. How do the ark instructions show that rescue came from God's plan?
+3. What does covenant mean in this chapter?
 
 ## Prayer
-Lord, help us read Genesis 6 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, you see every heart and you grieve evil. Thank you for showing favor and giving a rescue plan. Help us walk with you and do what you command. Amen.

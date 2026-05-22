@@ -57,7 +57,7 @@ Also, one male goat for a sin offering to the Lord must be offered in addition t
 "In the first month, on the fourteenth day of the month, is the Lord's Passover.
 
 ### Numbers 28:17
-On the fifteenth day of this month there must be a feast. Unleavened bread must be eaten for seven days.
+On the fifteenth day of this month there must be a feast. Bread made without yeast must be eaten for seven days.
 
 ### Numbers 28:18
 On the first day there must be a holy gathering. You must do no regular work,

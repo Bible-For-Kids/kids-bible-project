@@ -1,7 +1,7 @@
 # Numbers Chapter 13
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses sends twelve men to spy out Canaan, and they return with fruit from the land.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Moses sends twelve men to spy out Canaan, and they return with fruit from the land.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Send men to spy out the land of Canaan, the land I am giving to the people of Israel. Send one leader from each tribe of their fathers."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -56,9 +50,6 @@ Moses sent them from the wilderness of Paran according to the command of the Lor
 
 #### Ages 8-10
 Moses sent them from the wilderness of Paran according to the command of the Lord. All of them were men who were heads of the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -78,9 +69,6 @@ These were their names: Of the tribe of Reuben, Shammua the son of Zaccur.
 #### Ages 8-10
 These were their names: Of the tribe of Reuben, Shammua the son of Zaccur.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:5
@@ -91,9 +79,6 @@ Of the tribe of Simeon, Shaphat the son of Hori.
 
 #### Ages 8-10
 Of the tribe of Simeon, Shaphat the son of Hori.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -106,9 +91,6 @@ Of the tribe of Judah, Caleb the son of Jephunneh.
 #### Ages 8-10
 Of the tribe of Judah, Caleb the son of Jephunneh.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:7
@@ -119,9 +101,6 @@ Of the tribe of Issachar, Igal the son of Joseph.
 
 #### Ages 8-10
 Of the tribe of Issachar, Igal the son of Joseph.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -134,9 +113,6 @@ Of the tribe of Ephraim, Hoshea the son of Nun.
 #### Ages 8-10
 Of the tribe of Ephraim, Hoshea the son of Nun.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:9
@@ -147,9 +123,6 @@ Of the tribe of Benjamin, Palti the son of Raphu.
 
 #### Ages 8-10
 Of the tribe of Benjamin, Palti the son of Raphu.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -162,9 +135,6 @@ Of the tribe of Zebulun, Gaddiel the son of Sodi.
 #### Ages 8-10
 Of the tribe of Zebulun, Gaddiel the son of Sodi.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:11
@@ -175,9 +145,6 @@ Of the tribe of Joseph, of the tribe of Manasseh, Gaddi the son of Susi.
 
 #### Ages 8-10
 Of the tribe of Joseph, of the tribe of Manasseh, Gaddi the son of Susi.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -190,9 +157,6 @@ Of the tribe of Dan, Ammiel the son of Gemalli.
 #### Ages 8-10
 Of the tribe of Dan, Ammiel the son of Gemalli.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:13
@@ -203,9 +167,6 @@ Of the tribe of Asher, Sethur the son of Michael.
 
 #### Ages 8-10
 Of the tribe of Asher, Sethur the son of Michael.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -218,9 +179,6 @@ Of the tribe of Naphtali, Nahbi the son of Vophsi.
 #### Ages 8-10
 Of the tribe of Naphtali, Nahbi the son of Vophsi.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:15
@@ -232,9 +190,6 @@ Of the tribe of Gad, Geuel the son of Machi.
 #### Ages 8-10
 Of the tribe of Gad, Geuel the son of Machi.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:16
@@ -245,9 +200,6 @@ These are the names of the men who Moses sent to spy out the land. Moses called 
 
 #### Ages 8-10
 These are the names of the men who Moses sent to spy out the land. Moses called Hoshea the son of Nun Joshua.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -263,9 +215,6 @@ Moses sent them to spy out the land of Canaan, and said to them, "Go up this way
 #### Ages 8-10
 Moses sent them to spy out the land of Canaan, and said to them, "Go up this way by the southern land, and go up into the hill country.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -280,9 +229,6 @@ See the land, what it is; and the people who live there, whether they are strong
 #### Ages 8-10
 See the land, what it is; and the people who live there, whether they are strong or weak, whether they are few or many;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:19
@@ -293,9 +239,6 @@ and what the land is that they live in, whether it is good or bad; and what citi
 
 #### Ages 8-10
 and what the land is that they live in, whether it is good or bad; and what cities they are that they live in, whether in camps, or in strongholds;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -308,9 +251,6 @@ and what the land is, whether it is fertile or poor, whether there is wood there
 #### Ages 8-10
 and what the land is, whether it is fertile or poor, whether there is wood there, or not. Be courageous, and bring some of the fruit of the land." Now the time was the time of the first-ripe grapes.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:21
@@ -321,9 +261,6 @@ So they went up, and spied out the land from the wilderness of Zin to Rehob, to 
 
 #### Ages 8-10
 So they went up, and spied out the land from the wilderness of Zin to Rehob, to the entrance of Hamath.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -338,9 +275,6 @@ They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and 
 
 #### Ages 8-10
 They went up by the southern land, and came to Hebron; and Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -357,10 +291,18 @@ They came to the valley of Eshcol, and cut down from there a branch with one clu
 They came to the valley of Eshcol, and cut down from there a branch with one cluster of grapes, and they bore it on a staff between two. They also brought some of the pomegranates and figs.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Moses sends twelve men to spy out Canaan, and they return with fruit from the land. Caleb urges courage, but most of the spies frighten the people with a bad report about the strong cities and tall people in the land.
 
+<!-- Illustration Prompt -->
+**Scene**: Two spies carrying a huge cluster of grapes from the valley of Eshcol
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 13 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Two spies carrying a huge cluster of grapes from the valley of Eshcol
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 ---
-
 ### Numbers 13:24
 **Original Reference**: Numbers 13:24 - That place was called the valley of Eshcol, because of the cluster which the children of Israel cut down from there.
 
@@ -369,9 +311,6 @@ That place was called the Valley of Eshcol, because the people of Israel cut dow
 
 #### Ages 8-10
 That place was called the Valley of Eshcol, because the people of Israel cut down a cluster of grapes there.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -387,9 +326,6 @@ They returned from spying out the land at the end of forty days.
 #### Ages 8-10
 They returned from spying out the land at the end of forty days.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:26
@@ -400,9 +336,6 @@ They went and came to Moses, to Aaron, and to all the people of Israel, to the w
 
 #### Ages 8-10
 They went and came to Moses, to Aaron, and to all the community of the people of Israel, to the wilderness of Paran, to Kadesh; and brought back word to them and to all the community. They showed them the fruit of the land.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -421,9 +354,6 @@ They told him, and said, "We came to the land where you sent us. Surely it flows
 #### Ages 8-10
 They told him, and said, "We came to the land where you sent us. Surely it flows with milk and honey, and this is its fruit.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:28
@@ -434,9 +364,6 @@ However, the people who live in the land are strong, and the cities are fortifie
 
 #### Ages 8-10
 However, the people who live in the land are strong, and the cities are fortified and very large. Moreover, we saw the descendants of Anak there.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -449,9 +376,6 @@ Amalek lives in the land of the southern land. The Hittite, the Jebusite, and th
 #### Ages 8-10
 Amalek lives in the land of the southern land. The Hittite, the Jebusite, and the Amorite live in the hill country. The Canaanite lives by the sea, and along the side of the Jordan."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:30
@@ -462,9 +386,6 @@ Caleb quieted the people before Moses, and said, "Let's go up at once, and posse
 
 #### Ages 8-10
 Caleb quieted the people before Moses, and said, "Let's go up at once, and possess it; for we are well able to overcome it!"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
@@ -480,9 +401,6 @@ But the men who went up with him said, "We aren't able to go up against the peop
 #### Ages 8-10
 But the men who went up with him said, "We aren't able to go up against the people; for they are stronger than we."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 13:32
@@ -493,9 +411,6 @@ They spread a bad report about the land they had spied out. They said, "The land
 
 #### Ages 8-10
 They spread a bad report about the land they had spied out. They said, "The land we walked through to spy out seems to swallow up the people who live there. All the people we saw there were very tall.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - evil: What is wrong and against God
@@ -511,9 +426,6 @@ There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were
 
 #### Ages 8-10
 There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -535,12 +447,11 @@ Moses sends twelve men to spy out Canaan, and they return with fruit from the la
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God's promise must be trusted?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God's promise must be trusted"?
+2. How does this chapter also help explain "Fear can spread quickly"?
 ## Prayer
 Lord, help us understand Numbers 13 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -27,7 +27,7 @@ Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and c
 **Original Reference**: Genesis 39:2 - Yahweh was with Joseph, and he was a prosperous man. He was in the house of his master the Egyptian.
 
 #### Ages 5-7
-The Lord was with Joseph, and Joseph did well. He lived in the house of his Egyptian master.
+The Lord was with Joseph, and things went well for him. He lived in the house of his Egyptian master.
 
 #### Ages 8-10
 The Lord was with Joseph, and he prospered while he lived in the house of his Egyptian master.
@@ -38,7 +38,7 @@ The Lord was with Joseph, and he prospered while he lived in the house of his Eg
 **Original Reference**: Genesis 39:3 - His master saw that Yahweh was with him, and that Yahweh made all that he did prosper in his hand.
 
 #### Ages 5-7
-Joseph's master saw that the Lord was with him and that the Lord made everything Joseph did succeed in his hands.
+Joseph's master saw that the Lord was with Joseph and made everything Joseph did succeed.
 
 #### Ages 8-10
 His master saw that the Lord was with Joseph and that the Lord made everything he did succeed.
@@ -96,7 +96,7 @@ After these things, his master's wife looked at Joseph and said, "Be with me in 
 **Original Reference**: Genesis 39:8 - But he refused, and said to his master's wife, "Behold, my master doesn't know what is with me in the house, and he has put all that he has into my hand.
 
 #### Ages 5-7
-But Joseph refused. He said to his master's wife, "My master does not need to worry about anything in the house, and he has put everything he has into my hand.
+But Joseph refused. He said to his master's wife, "My master does not need to worry about anything in the house, and he has trusted me with everything he owns.
 
 #### Ages 8-10
 But Joseph refused and said to his master's wife, "My master does not concern himself with what is in the house, and he has committed all he has to my hand.

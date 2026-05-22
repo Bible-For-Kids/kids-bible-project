@@ -9,13 +9,13 @@ Genesis
 ## Verses
 
 ### Genesis 37:1
-Jacob lived in the land of Canaan, the land where his father had lived as a stranger.
+Jacob made his home in the land of Canaan, where his father had lived as a stranger.
 
 ### Genesis 37:2
-This is the story of Jacob's family. Joseph was seventeen years old, and he was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
+This is the story of Jacob's family. Joseph was seventeen years old, and he cared for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
 
 ### Genesis 37:3
-Israel loved Joseph more than all his other children because Joseph had been born to him in his old age, and he made Joseph a special coat of many colors.
+Israel loved Joseph more than all his other children because Joseph had been born to him in his old age. Israel made Joseph a special coat of many colors.
 
 ### Genesis 37:4
 When Joseph's brothers saw that their father loved him more than all of them, they hated Joseph and could not speak kindly to him.
@@ -36,10 +36,10 @@ His brothers said to him, "Will you really rule over us? Will you really have po
 Then Joseph dreamed another dream and told it to his brothers. He said, "I have dreamed another dream. This time the sun, the moon, and eleven stars bowed down to me."
 
 ### Genesis 37:10
-When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down to the ground before you?"
+When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down low to the ground before you?"
 
 ### Genesis 37:11
-Joseph's brothers were jealous of him, but his father kept the saying in his mind and wondered about it.
+Joseph's brothers were jealous of him, but his father kept thinking about what Joseph had said.
 
 ### Genesis 37:12
 One day Joseph's brothers went to care for their father's flock in Shechem.
@@ -66,13 +66,13 @@ When Joseph's brothers saw him far away, before he came close to them, they made
 They said to one another, "Look, here comes that dreamer.
 
 ### Genesis 37:20
-Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
+Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' Then we will see what becomes of his dreams."
 
 ### Genesis 37:21
 But Reuben heard this and rescued Joseph from their hands. He said, "Let us not kill him."
 
 ### Genesis 37:22
-Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
+Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not raise your hands to hurt him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
 
 ### Genesis 37:23
 When Joseph came to his brothers, they stripped off his coat, the coat of many colors that he was wearing.
@@ -87,10 +87,10 @@ Then they sat down to eat. When they looked up, they saw a group of Ishmaelites 
 Judah said to his brothers, "What do we gain if we kill our brother and hide his blood?
 
 ### Genesis 37:27
-Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own family." His brothers agreed.
+Come, let us sell him to the Ishmaelites. Let us not be the ones to kill him with our own hands, because he is our brother, our own family." His brothers agreed.
 
 ### Genesis 37:28
-When Midianite merchants passed by, the brothers pulled Joseph up out of the pit. They sold Joseph to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
+When Midianite merchants passed by, the brothers pulled Joseph up out of the deep pit. They sold Joseph to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
 
 ### Genesis 37:29
 When Reuben came back to the pit, Joseph was not there. Reuben tore his clothes in sorrow.

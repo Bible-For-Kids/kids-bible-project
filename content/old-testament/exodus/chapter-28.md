@@ -62,10 +62,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:4 - These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest's office.
 
 #### Ages 5-7
-"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
+"These are the clothes they must make: a chest piece, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron and his sons, so they may serve me as priests."
 
 #### Ages 8-10
-"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
+"These are the clothes they must make: a chest piece, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
 
 **Key Vocabulary**:
 - Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
@@ -205,10 +205,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:15 - "You shall make a breastplate of judgment, the work of the skillful workman; like the work of the ephod you shall make it; of gold, of blue, and purple, and scarlet, and fine twined linen, you shall make it.
 
 #### Ages 5-7
-"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and fine twisted linen."
+"Make the chest piece of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and fine twisted linen."
 
 #### Ages 8-10
-"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and finely twisted linen."
+"Make the chest piece of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and finely twisted linen."
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -288,10 +288,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:22 - You shall make on the breastplate chains like cords, of braided work of pure gold.
 
 #### Ages 5-7
-"Make twisted chains of pure gold for the breastplate."
+"Make twisted chains of pure gold for the chest piece."
 
 #### Ages 8-10
-"Make braided chains of pure gold for the breastplate."
+"Make braided chains of pure gold for the chest piece."
 
 ---
 
@@ -299,10 +299,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:23 - You shall make on the breastplate two rings of gold, and shall put the two rings on the two ends of the breastplate.
 
 #### Ages 5-7
-"Make two gold rings for the breastplate, and put the rings on its two ends."
+"Make two gold rings for the chest piece, and put the rings on its two ends."
 
 #### Ages 8-10
-"Make two gold rings for the breastplate, and put the two rings on its two ends."
+"Make two gold rings for the chest piece, and put the two rings on its two ends."
 
 ---
 
@@ -310,10 +310,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:24 - You shall put the two braided chains of gold in the two rings at the ends of the breastplate.
 
 #### Ages 5-7
-"Put the two twisted gold chains through the two rings at the ends of the breastplate."
+"Put the two twisted gold chains through the two rings at the ends of the chest piece."
 
 #### Ages 8-10
-"Put the two braided gold chains through the two rings at the ends of the breastplate."
+"Put the two braided gold chains through the two rings at the ends of the chest piece."
 
 ---
 
@@ -335,10 +335,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:26 - You shall make two rings of gold, and you shall put them on the two ends of the breastplate, on its edge, which is toward the side of the ephod inward.
 
 #### Ages 5-7
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
+"Make two gold rings and put them on the two inner ends of the chest piece, on the edge next to the priestly vest."
 
 #### Ages 8-10
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
+"Make two gold rings and put them on the two inner ends of the chest piece, on the edge next to the priestly vest."
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -363,10 +363,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:28 - They shall bind the breastplate by its rings to the rings of the ephod with a lace of blue, that it may be on the skillfully woven band of the ephod, and that the breastplate may not swing out from the ephod.
 
 #### Ages 5-7
-"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord. Then the breastplate will stay above the waistband and will not come loose."
+"Tie the chest piece by its rings to the rings of the priestly vest with a blue cord. Then the chest piece will stay above the waistband and will not come loose."
 
 #### Ages 8-10
-"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord, so it stays above the woven waistband and does not come loose from the priestly vest."
+"Tie the chest piece by its rings to the rings of the priestly vest with a blue cord, so it stays above the woven waistband and does not come loose from the priestly vest."
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -377,10 +377,10 @@ Exodus 28 continues the rescue-and-covenant story. The Lord sets apart Aaron and
 **Original Reference**: Exodus 28:29 - Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually.
 
 #### Ages 5-7
-"When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment. This will be a steady reminder before the Lord."
+"When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the chest piece of judgment. This will be a steady reminder before the Lord."
 
 #### Ages 8-10
-"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment, as a continual reminder before the Lord."
+"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the chest piece of judgment, as a continual reminder before the Lord."
 
 **Translation Notes**:
 This is a good memory verse for the chapter. Preserve the exact rescue, command, promise, or worship focus of the verse.
@@ -396,10 +396,10 @@ This is a good memory verse for the chapter. Preserve the exact rescue, command,
 **Original Reference**: Exodus 28:30 - You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron's heart, when he goes in before Yahweh. Aaron shall bear the judgment of the children of Israel on his heart before Yahweh continually.
 
 #### Ages 5-7
-"Put the Urim and the Thummim in the breastplate of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will carry the judgment of the Israelites over his heart before the Lord."
+"Put the Urim and the Thummim in the chest piece of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will carry the judgment of the Israelites over his heart before the Lord."
 
 #### Ages 8-10
-"Put the Urim and the Thummim in the breastplate of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will always carry the judgment of the Israelites over his heart before the Lord."
+"Put the Urim and the Thummim in the chest piece of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will always carry the judgment of the Israelites over his heart before the Lord."
 
 **Key Vocabulary**:
 - Aaron: Moses' brother, whom God gave as Moses' helper and later as high priest
@@ -588,10 +588,10 @@ The Lord sets apart Aaron and his sons as priests and describes the holy clothes
 ## Memory Verses by Age
 
 ### Ages 5-7
-"When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment. This will be a steady reminder before the Lord." - Exodus 28:29
+"When Aaron goes into the Holy Place, he will carry the names of the sons of Israel over his heart on the chest piece of judgment. This will be a steady reminder before the Lord." - Exodus 28:29
 
 ### Ages 8-10
-"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment, as a continual reminder before the Lord." - Exodus 28:29
+"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the chest piece of judgment, as a continual reminder before the Lord." - Exodus 28:29
 
 ## Discussion Questions by Age
 

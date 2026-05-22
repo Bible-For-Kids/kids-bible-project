@@ -1,7 +1,7 @@
 # Numbers Chapter 6
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives rules for a Nazirite promise, when someone is specially set apart for him for a time.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives rules for a Nazirite promise, when someone is specially set apart for him for a time.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Speak to the people of Israel and tell them: When a man or woman makes a special Nazirite vow to be set apart for the Lord,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -60,9 +54,6 @@ that person must stay away from wine and other drink that can make someone drunk
 #### Ages 8-10
 that person must stay away from wine and other drink that can make someone drunk. He must not drink vinegar made from wine or another drink that can make someone drunk, and he must not drink grape juice or eat grapes, fresh or dried.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 6:4
@@ -74,9 +65,6 @@ During all the days of his Nazirite promise, he must eat nothing from the grapev
 #### Ages 8-10
 During all the days of his Nazirite vow, he must eat nothing from the grapevine, not even the seeds or skins.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 6:5
@@ -87,9 +75,6 @@ During all the days of his special promise, no razor must touch his head. Until 
 
 #### Ages 8-10
 During all the days of his special vow, no razor must touch his head. Until the days he promised to the Lord are finished, he must be holy and let the hair on his head grow long.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -108,9 +93,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "All the days that he separates himself to the Lord he must not go near a dead body.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -126,9 +108,6 @@ He must not make himself not clean for worship for his father, mother, brother, 
 #### Ages 8-10
 He must not make himself unclean for his father, mother, brother, or sister when they die, because the sign of his separation to God is on his head.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 
@@ -142,9 +121,6 @@ All the days of his Nazirite promise he is holy to the Lord.
 
 #### Ages 8-10
 All the days of his separation he is holy to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -162,9 +138,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "If someone dies very suddenly beside him and his special separation becomes unclean, he must shave his head on the day he is made clean. On the seventh day, he must shave it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 6:10
@@ -175,9 +148,6 @@ On the eighth day he must bring two doves or two young pigeons to the priest, to
 
 #### Ages 8-10
 On the eighth day he must bring two doves or two young pigeons to the priest, to the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -192,9 +162,6 @@ The priest must offer one bird as an offering for sin and the other as a burned 
 
 #### Ages 8-10
 The priest must offer one bird as a sin offering and the other as a burned offering. The priest must make atonement for him because of the dead body, and the man must make his head holy again that same day.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -214,9 +181,6 @@ He must begin again the days of his Nazirite promise to the Lord and bring a yea
 #### Ages 8-10
 He must begin again the days of his separation to the Lord and bring a year-old male lamb as a guilt offering. The earlier days will not count, because his separation became unclean.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - Lord: God's covenant name used in many English Bibles
@@ -234,9 +198,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "This is the law of the Nazirite: when the days of his separation are fulfilled, he must be brought to the door of the Tent of Meeting,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 
@@ -250,9 +211,6 @@ He must bring his offering to the Lord: one year-old male lamb with nothing wron
 
 #### Ages 8-10
 He must bring his offering to the Lord: one year-old male lamb without defect as a burned offering, one year-old female lamb without defect as a sin offering, and one male sheep without defect as a peace offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -271,9 +229,6 @@ He must also bring a basket of bread made without yeast: cakes of fine flour mix
 #### Ages 8-10
 He must also bring a basket of bread made without yeast: cakes of fine flour mixed with oil, and thin wafers spread with oil, along with their grain offering and drink offerings.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -287,9 +242,6 @@ The priest must present them before the Lord, and must offer his offering for si
 
 #### Ages 8-10
 The priest must present them before the Lord, and must offer his sin offering and his burned offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -307,10 +259,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of bread made without yeast. The priest must offer also its grain gift and its drink gift.
 
 #### Ages 8-10
-He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of unleavened bread. The priest must offer also its grain offering and its drink offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+He must offer the male sheep for a sacrifice of peace offerings to the Lord, with the basket of bread made without yeast. The priest must offer also its grain offering and its drink offering.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -330,9 +279,6 @@ The Nazirite must shave the hair of his Nazirite promise at the door of the Tent
 #### Ages 8-10
 The Nazirite must shave the hair of his separation at the door of the Tent of Meeting. Then he must take the hair shaved from his head and put it on the fire under the peace offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - sacrifice: An offering given in worship
 
@@ -347,9 +293,6 @@ After the Nazirite has shaved the hair of his Nazirite promise, the priest must 
 #### Ages 8-10
 After the Nazirite has shaved the hair of his separation, the priest must take the boiled shoulder of the male sheep, one cake without yeast from the basket, and one thin wafer without yeast, and put them in the Nazirite's hands.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -363,9 +306,6 @@ and the priest must lift them before the Lord as an offering. They are holy for 
 
 #### Ages 8-10
 and the priest must lift them before the Lord as an offering. They are holy for the priest, together with the breast lifted before the Lord and the thigh that is offered. After that the Nazirite may drink wine.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -385,9 +325,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "This is the law for the Nazirite who makes a vow and brings his offering to the Lord for his separation, besides anything else he can afford. He must do what he vowed according to the law of his separation.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 - Lord: God's covenant name used in many English Bibles
@@ -406,9 +343,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -424,9 +358,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Speak to Aaron and to his sons, saying, 'This is how you must bless the people of Israel.' You must tell them,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -444,8 +375,17 @@ The Lord bless you, and keep you.
 The Lord bless you, and keep you.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives rules for a Nazirite promise, when someone is specially set apart for him for a time. Then the Lord gives Aaron and his sons words of blessing to place his name on Israel.
 
+<!-- Illustration Prompt -->
+**Scene**: Aaron lifting his hands to bless the people with the Lord's words
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 6 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Aaron lifting his hands to bless the people with the Lord's words
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -460,9 +400,6 @@ The Lord make his face to shine on you, and be gracious to you.
 
 #### Ages 8-10
 The Lord make his face to shine on you, and be gracious to you.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -479,9 +416,6 @@ The Lord lift up his face toward you, and give you peace.
 #### Ages 8-10
 The Lord lift up his face toward you, and give you peace.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -496,9 +430,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "So they must put my name on the people of Israel; and I will bless them."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -523,12 +454,11 @@ During all the days of his Nazirite vow, he must eat nothing from the grapevine,
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God receives special devotion?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God receives special devotion"?
+2. How does this chapter also help explain "God blesses his people"?
 ## Prayer
 Lord, help us understand Numbers 6 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

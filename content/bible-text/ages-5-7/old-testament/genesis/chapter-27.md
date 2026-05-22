@@ -99,7 +99,7 @@ Jacob came near and kissed him. Isaac smelled the smell of his clothes and bless
 As soon as Isaac finished blessing Jacob, and Jacob had barely gone out from his father's presence, Esau his brother came in from hunting.
 
 ### Genesis 27:31
-Esau had also made tasty food and brought it to his father. He said, "Let my father sit up and eat of his son's wild game, so your soul may bless me."
+Esau had also made tasty food and brought it to his father. He said, "Let my father sit up and eat of his son's wild game, so you may bless me from your heart."
 
 ### Genesis 27:32
 Isaac his father said to him, "Who are you?" Esau answered, "I am your son, your firstborn, Esau."

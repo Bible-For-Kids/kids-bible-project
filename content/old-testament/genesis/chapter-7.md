@@ -33,7 +33,7 @@ The Lord calls Noah into the ark; keep the action personal and commanded by God.
 **Original Reference**: Genesis 7:2 - You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.
 
 #### Ages 5-7
-Take seven pairs of every kind of animal God called clean, a male and its mate. Take one pair of every kind of animal not called clean, a male and its mate.
+Take seven pairs of every kind of clean animal, a male and its mate. Take one pair of every kind of animal not called clean, a male and its mate.
 
 #### Ages 8-10
 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate.
@@ -55,7 +55,7 @@ Also take seven pairs of every kind of bird, male and female, to keep their kind
 **Original Reference**: Genesis 7:4 - In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground."
 
 #### Ages 5-7
-Seven days from now, I will send rain on the earth for 40 days and 40 nights. I will wipe from the earth every living thing I have made."
+Seven days from now, I will send rain on the earth for 40 days and 40 nights. I will wipe from the face of the earth every living thing I have made."
 
 #### Ages 8-10
 Seven days from now I will send rain on the earth for 40 days and 40 nights. I will wipe from the face of the earth every living thing I have made."
@@ -106,13 +106,23 @@ Noah and his wife, his sons, and his sons' wives entered the ark to escape the w
 - ark: The large boat God told Noah to build
 - flood: The great waters God sent in Noah's day
 
+<!-- Illustration Prompt -->
+**Scene**: Noah's family entering the ark as the Lord commands
+**Style**: Children's Bible illustration, realistic and calm
+**Characters**: Noah, his wife, his sons, and his sons' wives
+**Setting**: The open door of the ark before the flood begins
+**Action**: The family steps into the ark in obedience to the Lord's word
+**Emotional Tone**: Trust, seriousness, shelter
+**Age Appropriateness**: No panic or disaster imagery
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 7:8
 **Original Reference**: Genesis 7:8 - Clean animals, unclean animals, birds, and everything that creeps on the ground
 
 #### Ages 5-7
-The animals God called clean, the animals not called clean, the birds, and all creatures that move along the ground came to Noah.
+The clean animals, the animals not called clean, the birds, and all creatures that crawl on the ground came to Noah.
 
 #### Ages 8-10
 Pairs of clean animals, unclean animals, birds, and all creatures that move along the ground came to Noah.
@@ -130,6 +140,16 @@ Male and female, they came to Noah and entered the ark, just as God had commande
 
 **Key Vocabulary**:
 - ark: The large boat God told Noah to build
+
+<!-- Illustration Prompt -->
+**Scene**: Animals entering the ark in pairs
+**Style**: Rich, orderly children's book scene with many recognizable animals
+**Characters**: Noah guiding the entrance; pairs of clean and unclean animals, birds, and crawling creatures
+**Setting**: The ark door with dry ground beneath it
+**Action**: Male and female pairs come to Noah and enter the ark
+**Emotional Tone**: Wonder, order, quiet urgency
+**Age Appropriateness**: Peaceful animal movement, not chaotic or frightening
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -151,7 +171,7 @@ After seven days, the floodwaters came on the earth.
 **Original Reference**: Genesis 7:11 - In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky's windows opened.
 
 #### Ages 5-7
-In Noah's 600th year, on the seventeenth day of the second month, water burst up from the great deep, and rain poured down as the windows of the heavens opened.
+In Noah's 600th year, on the seventeenth day of the second month, the springs of the great deep burst open. The windows of the heavens opened, and rain poured down.
 
 #### Ages 8-10
 In Noah's 600th year, on the seventeenth day of the second month, all the springs of the great deep burst open, and the floodgates of the heavens opened.
@@ -190,7 +210,7 @@ On that same day, Noah entered the ark with his sons Shem, Ham, and Japheth, his
 **Original Reference**: Genesis 7:14 - they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort.
 
 #### Ages 5-7
-They entered with every kind of wild animal, farm animal, crawling creature, and bird.
+They entered with every kind of wild animal, farm animal, crawling creature, and flying bird.
 
 #### Ages 8-10
 They entered with every kind of wild animal, livestock, creature that moves along the ground, and bird.
@@ -226,6 +246,16 @@ The Lord shutting Noah in is a protective action, not a detail to skip.
 **Cross-References**:
 - Matthew 24:37-39
 
+<!-- Illustration Prompt -->
+**Scene**: The Lord shuts Noah safely inside the ark
+**Style**: Reverent children's Bible illustration with warm light at the ark door
+**Characters**: Noah and his family just inside the ark; no visible human form for God
+**Setting**: The side door of the ark
+**Action**: The door is closed, showing God's protection over those inside
+**Emotional Tone**: Safety, awe, solemn protection
+**Age Appropriateness**: Comforting and secure, without showing suffering outside
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 7:17
@@ -247,13 +277,23 @@ For 40 days the flood kept coming on the earth. The waters rose higher and highe
 **Original Reference**: Genesis 7:18 - The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters.
 
 #### Ages 5-7
-The waters grew strong and covered the land. The ark floated safely on top of the water.
+The waters grew strong and deep over the earth, and the ark floated on top of the water.
 
 #### Ages 8-10
 The waters rose and increased greatly over the earth, and the ark floated safely on the surface of the water.
 
 **Key Vocabulary**:
 - ark: The large boat God told Noah to build
+
+<!-- Illustration Prompt -->
+**Scene**: The floodwaters lifting the ark above the earth
+**Style**: Majestic but child-safe biblical landscape
+**Characters**: No people visible outside; the ark is the focus
+**Setting**: Rain, rising waters, and the ark floating on the surface
+**Action**: The waters rise higher and lift the ark
+**Emotional Tone**: Serious judgment, protected rescue
+**Age Appropriateness**: Avoid graphic danger; show the ark's preservation clearly
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -272,7 +312,7 @@ The waters rose greatly on the earth, and all the high mountains under the whole
 **Original Reference**: Genesis 7:20 - The waters rose fifteen cubits higher, and the mountains were covered.
 
 #### Ages 5-7
-The waters rose more than 20 feet above the mountains and covered them.
+The waters rose more than 20 feet above the mountains, covering them completely.
 
 #### Ages 8-10
 The waters rose more than 20 feet above the mountains and covered them.
@@ -294,7 +334,7 @@ Every living thing that moved on land perished: birds, livestock, wild animals, 
 **Original Reference**: Genesis 7:22 - All on the dry land, in whose nostrils was the breath of the spirit of life, died.
 
 #### Ages 5-7
-Everything on dry land that had the breath of life in its nose died.
+Everything on dry land that had the breath of life in its nostrils died.
 
 #### Ages 8-10
 Everything on dry land that had the breath of life in its nostrils died.
@@ -305,7 +345,7 @@ Everything on dry land that had the breath of life in its nostrils died.
 **Original Reference**: Genesis 7:23 - Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.
 
 #### Ages 5-7
-God wiped away every living thing on the earth: people, animals, crawling creatures, and birds. Only Noah and those with him in the ark remained.
+God wiped away every living thing on the face of the ground: people, animals, crawling creatures, and birds of the sky. Only Noah and those with him in the ark remained alive.
 
 #### Ages 8-10
 Every living thing on the face of the earth was wiped away: people, animals, crawling creatures, and birds. Only Noah and those with him in the ark remained.
@@ -354,12 +394,14 @@ Noah did everything the Lord commanded him. - Genesis 7:5
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. Who went into the ark?
+2. What did the Lord do after Noah and the animals entered?
+3. How long did the waters flood the earth?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. How does this chapter show that Noah obeyed the Lord?
+2. Why is "the Lord shut him in" an important detail?
+3. How does this chapter show both judgment and rescue?
 
 ## Prayer
-Lord, help us read Genesis 7 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, you keep your word in judgment and in rescue. Help us trust you, obey your commands, and remember that you preserve life according to your promise. Amen.

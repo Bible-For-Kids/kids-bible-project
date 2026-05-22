@@ -1,7 +1,7 @@
 # Leviticus Chapter 5
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord teaches Israel to tell the truth, confess sin, and bring offerings when they have become guilty.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord teaches Israel to tell the truth, confess sin, and bring offerings when they have become guilty.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -22,7 +22,18 @@ If someone hears a public call to tell the truth, and he saw what happened or kn
 If someone hears a public call to testify, and he has seen or knows what happened, he must tell the truth. If he does not speak up, he carries guilt.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The legal wording is untangled so a child can see the duty clearly: someone who knows the truth must not hide it.
+**Cross-References**:
+- Proverbs 12:22
+<!-- Illustration Prompt -->
+**Scene**: A person standing before leaders to tell the truth
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Witness, elders, listening people
+**Setting**: Israelite camp
+**Action**: The witness speaks honestly about what happened
+**Emotional Tone**: Brave, honest, serious
+**Age Appropriateness**: Calm courtroom-like scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -38,9 +49,6 @@ Or if someone touches something not clean for worship, such as the dead body of 
 #### Ages 8-10
 Or if someone touches something unclean, such as the dead body of an unclean animal, livestock, or small crawling thing, and he did not realize it at first, he is guilty when he finds out.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 5:3
@@ -52,9 +60,6 @@ Or if someone touches anything from a person that makes him not clean for worshi
 #### Ages 8-10
 Or if someone touches human uncleanness, whatever kind of uncleanness it is, and he did not know it at first, he is guilty when he finds out.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 5:4
@@ -65,9 +70,6 @@ Or if someone makes a careless promise out loud, whether to do something bad or 
 
 #### Ages 8-10
 Or if someone makes a careless oath with his lips, whether to do evil or good, and he did not understand what he had done at first, he is guilty when he finds out.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - evil: What is wrong and against God
@@ -83,9 +85,6 @@ When he is guilty in one of these ways, he must tell the truth about the sin he 
 #### Ages 8-10
 When he is guilty in one of these ways, he must confess the sin he has committed.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 5:6
@@ -96,9 +95,6 @@ Then he must bring the Lord a guilt offering for the sin he did: a female lamb o
 
 #### Ages 8-10
 Then he must bring his guilt offering to the Lord for the sin he committed: a female lamb or goat from the flock as a sin offering. The priest must make atonement for him concerning his sin.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -118,9 +114,6 @@ If he cannot afford a lamb, he must bring the Lord two doves or two young pigeon
 #### Ages 8-10
 If he cannot afford a lamb, he must bring the Lord two doves or two young pigeons as his guilt offering for the sin he committed. One bird is for a sin offering, and the other is for a burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - Lord: God's covenant name used in many English Bibles
@@ -139,9 +132,6 @@ He must bring them to the priest. First the priest must offer the bird for the o
 #### Ages 8-10
 He must bring them to the priest. First the priest must offer the bird for the sin offering. He must remove its head at the neck, but not separate it completely.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - priest: A worship leader who served at the holy place
@@ -158,9 +148,6 @@ The priest must sprinkle some of the blood from the offering for sin on the side
 #### Ages 8-10
 The priest must sprinkle some of the blood from the sin offering on the side of the altar. The rest of the blood must be poured out at the base of the altar. It is a sin offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -176,9 +163,6 @@ Then the priest must offer the second bird as a burned offering, in the way God 
 
 #### Ages 8-10
 Then the priest must offer the second bird as a burned offering, according to the rule. The priest must make atonement for him concerning the sin he committed, and he will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -198,9 +182,6 @@ If he cannot afford two doves or two young pigeons, he must bring a small measur
 #### Ages 8-10
 If he cannot afford two doves or two young pigeons, he must bring a tenth-measure of fine flour as his offering for the sin he committed. He must not put oil or sweet-smelling incense on it, because it is a sin offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -215,9 +196,6 @@ He must bring it to the priest. The priest must take a handful as the part burne
 
 #### Ages 8-10
 He must bring it to the priest. The priest must take a handful as the part burned before the Lord and burn it on the altar with the offerings burned to the Lord. It is a sin offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -237,9 +215,6 @@ The priest must make atonement for him before the Lord for any of these sins, an
 #### Ages 8-10
 The priest must make atonement for him concerning any of these sins, and he will be forgiven. The rest belongs to the priest, like the grain offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -258,9 +233,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -276,9 +248,6 @@ If someone acts unfaithfully and sins without knowing it in the Lord's holy thin
 
 #### Ages 8-10
 If someone acts unfaithfully and sins without knowing it regarding the Lord's holy things, he must bring the Lord a guilt offering: a male sheep from the flock with nothing wrong with it, valued in silver by the holy-place weight.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -298,9 +267,6 @@ He must pay back what he did wrong with the holy thing and add one fifth more. H
 #### Ages 8-10
 He must pay back what he did wrong regarding the holy thing and add one fifth more. He must give it to the priest. The priest must make atonement for him with the male sheep of the guilt offering, and he will be forgiven.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -319,9 +285,6 @@ If someone sins by doing anything the Lord commanded not to be done, even if he 
 #### Ages 8-10
 If someone sins by doing anything the Lord commanded not to be done, even if he did not know it at first, he is still guilty and carries his guilt.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - Lord: God's covenant name used in many English Bibles
@@ -337,9 +300,6 @@ He must bring the priest a male sheep from the flock with nothing wrong with it 
 
 #### Ages 8-10
 He must bring the priest a male sheep from the flock with nothing wrong with it as a guilt offering, according to its value. The priest must make atonement for him concerning the sin he committed without knowing it, and he will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -358,9 +318,6 @@ It is a guilt offering. He truly is guilty before the Lord.
 
 #### Ages 8-10
 It is a guilt offering. He is certainly guilty before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -388,12 +345,11 @@ If someone hears a public call to testify, and he has seen or knows what happene
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 5 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

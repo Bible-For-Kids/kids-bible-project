@@ -60,7 +60,7 @@ Let a little water be brought so you can wash your feet and rest under this tree
 **Original Reference**: Genesis 18:5 - I will get a piece of bread so you can refresh your heart. After that you may go your way, now that you have come to your servant." They said, "Very well, do as you have said."
 
 #### Ages 5-7
-I will bring some bread so you can be refreshed. Then you may go on your way, since you have come to your servant." They said, "Very well. Do as you have said."
+I will bring some bread so you can be refreshed. Then you may go on your way, since you have come near your servant." They said, "Very well. Do as you have said."
 
 #### Ages 8-10
 Let me bring some bread so you can be refreshed. Then you may go on your way, since you have come to your servant." They said, "Very well. Do as you have said."
@@ -93,7 +93,7 @@ Then Abraham ran to the herd, chose a tender, good calf, and gave it to a servan
 **Original Reference**: Genesis 18:8 - He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate.
 
 #### Ages 5-7
-Abraham brought curds, milk, and the calf that had been prepared. He set the food before them, and he stood nearby under the tree while they ate.
+Abraham brought curds, milk, and the calf that had been prepared. He set the food before them and stood nearby under the tree while they ate.
 
 #### Ages 8-10
 Abraham brought curds, milk, and the calf that had been prepared. He set the food before them and stood nearby under the tree while they ate.
@@ -137,7 +137,7 @@ Abraham and Sarah were already very old, and Sarah was past the age of having ch
 **Original Reference**: Genesis 18:12 - Sarah laughed within herself, saying, "After I have grown old will I have pleasure, my lord being old also?"
 
 #### Ages 5-7
-So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I have this pleasure?"
+So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I have this joy?"
 
 #### Ages 8-10
 So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I now have this pleasure?"
@@ -289,7 +289,7 @@ What if there are fifty righteous people in the city? Will you really sweep it a
 **Original Reference**: Genesis 18:25 - May it be far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?"
 
 #### Ages 5-7
-Far be it from you to do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
+Surely you would not do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
 
 #### Ages 8-10
 Far be it from you to do such a thing, to kill the righteous with the wicked. Will not the Judge of all the earth do what is right?"

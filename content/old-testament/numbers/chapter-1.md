@@ -1,7 +1,7 @@
 # Numbers Chapter 1
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord tells Moses to count the men of Israel who are old enough to serve in the army, tribe by tribe and name by name.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord tells Moses to count the men of Israel who are old enough to serve in the army, tribe by tribe and name by name.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on t
 #### Ages 8-10
 The Lord spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 - Lord: God's covenant name used in many English Bibles
@@ -42,9 +39,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count all the community of the people of Israel, by their families and family groups, name by name, every male, one by one,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -58,9 +52,6 @@ from twenty years old and older, all who are able to serve in Israel's army. You
 
 #### Ages 8-10
 from twenty years old and older, all who are able to serve in Israel's army. You and Aaron must count them by their divisions.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -77,9 +68,6 @@ With you there will be a man of every tribe, each one a leader of his family gro
 #### Ages 8-10
 With you there will be a man of every tribe, each one a leader of his family group.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:5
@@ -90,9 +78,6 @@ These are the names of the men who must stand with you: Of Reuben: Elizur the so
 
 #### Ages 8-10
 These are the names of the men who must stand with you: Of Reuben: Elizur the son of Shedeur.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -105,9 +90,6 @@ Of Simeon: Shelumiel the son of Zurishaddai.
 #### Ages 8-10
 Of Simeon: Shelumiel the son of Zurishaddai.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:7
@@ -118,9 +100,6 @@ Of Judah: Nahshon the son of Amminadab.
 
 #### Ages 8-10
 Of Judah: Nahshon the son of Amminadab.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -133,9 +112,6 @@ Of Issachar: Nethanel the son of Zuar.
 #### Ages 8-10
 Of Issachar: Nethanel the son of Zuar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:9
@@ -146,9 +122,6 @@ Of Zebulun: Eliab the son of Helon.
 
 #### Ages 8-10
 Of Zebulun: Eliab the son of Helon.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -161,9 +134,6 @@ Of the descendants of Joseph: of Ephraim: Elishama the son of Ammihud; of Manass
 #### Ages 8-10
 Of the descendants of Joseph: of Ephraim: Elishama the son of Ammihud; of Manasseh: Gamaliel the son of Pedahzur.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:11
@@ -174,9 +144,6 @@ Of Benjamin: Abidan the son of Gideoni.
 
 #### Ages 8-10
 Of Benjamin: Abidan the son of Gideoni.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -189,9 +156,6 @@ Of Dan: Ahiezer the son of Ammishaddai.
 #### Ages 8-10
 Of Dan: Ahiezer the son of Ammishaddai.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:13
@@ -202,9 +166,6 @@ Of Asher: Pagiel the son of Ochran.
 
 #### Ages 8-10
 Of Asher: Pagiel the son of Ochran.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -217,9 +178,6 @@ Of Gad: Eliasaph the son of Deuel.
 #### Ages 8-10
 Of Gad: Eliasaph the son of Deuel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:15
@@ -231,9 +189,6 @@ Of Naphtali: Ahira the son of Enan."
 #### Ages 8-10
 Of Naphtali: Ahira the son of Enan."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:16
@@ -244,9 +199,6 @@ These were the ones called from the whole group, the leaders of the tribes of th
 
 #### Ages 8-10
 These are those who were called of the community, the princes of the tribes of their fathers; they were the heads of the thousands of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -261,9 +213,6 @@ Moses and Aaron took these men who were named.
 
 #### Ages 8-10
 Moses and Aaron took these men who were named.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -280,9 +229,6 @@ They assembled all the people together on the first day of the second month; and
 #### Ages 8-10
 They assembled all the community together on the first day of the second month; and they declared their ancestry by their families and family groups, name by name, from twenty years old and older, one by one.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:19
@@ -293,9 +239,6 @@ As the Lord commanded Moses, so he counted them in the wilderness of Sinai.
 
 #### Ages 8-10
 As the Lord commanded Moses, so he counted them in the wilderness of Sinai.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -314,9 +257,6 @@ The descendants of Reuben, Israel's firstborn, their generations, by their famil
 #### Ages 8-10
 The descendants of Reuben, Israel's firstborn, their generations, by their families and family groups, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -331,9 +271,6 @@ those counted from them, of the tribe of Reuben, were forty-six thousand five hu
 #### Ages 8-10
 those counted from them, of the tribe of Reuben, were forty-six thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:22
@@ -344,9 +281,6 @@ Of the descendants of Simeon, by their family lines, by their families and famil
 
 #### Ages 8-10
 Of the descendants of Simeon, by their family lines, by their families and family groups, those counted from them, name by name, one by one, every male from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -359,9 +293,6 @@ those counted from them, of the tribe of Simeon, were fifty-nine thousand three 
 #### Ages 8-10
 those counted from them, of the tribe of Simeon, were fifty-nine thousand three hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:24
@@ -372,9 +303,6 @@ Of the descendants of Gad, by their family lines, by their families and family g
 
 #### Ages 8-10
 Of the descendants of Gad, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -387,9 +315,6 @@ those counted from them, of the tribe of Gad, were forty-five thousand six hundr
 #### Ages 8-10
 those counted from them, of the tribe of Gad, were forty-five thousand six hundred fifty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:26
@@ -400,9 +325,6 @@ Of the descendants of Judah, by their family lines, by their families and family
 
 #### Ages 8-10
 Of the descendants of Judah, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -415,9 +337,6 @@ those counted from them, of the tribe of Judah, were seventy-four thousand six h
 #### Ages 8-10
 those counted from them, of the tribe of Judah, were seventy-four thousand six hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:28
@@ -428,9 +347,6 @@ Of the descendants of Issachar, by their family lines, by their families and fam
 
 #### Ages 8-10
 Of the descendants of Issachar, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -443,9 +359,6 @@ those counted from them, of the tribe of Issachar, were fifty-four thousand four
 #### Ages 8-10
 those counted from them, of the tribe of Issachar, were fifty-four thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:30
@@ -456,9 +369,6 @@ Of the descendants of Zebulun, by their family lines, by their families and fami
 
 #### Ages 8-10
 Of the descendants of Zebulun, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -471,9 +381,6 @@ those counted from them, of the tribe of Zebulun, were fifty-seven thousand four
 #### Ages 8-10
 those counted from them, of the tribe of Zebulun, were fifty-seven thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:32
@@ -484,9 +391,6 @@ Of the descendants of Joseph: of Ephraim, their generations, by their families a
 
 #### Ages 8-10
 Of the descendants of Joseph: of Ephraim, their generations, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -499,9 +403,6 @@ those counted from them, of the tribe of Ephraim, were forty thousand five hundr
 #### Ages 8-10
 those counted from them, of the tribe of Ephraim, were forty thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:34
@@ -512,9 +413,6 @@ Of the descendants of Manasseh, by their family lines, by their families and fam
 
 #### Ages 8-10
 Of the descendants of Manasseh, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -527,9 +425,6 @@ those counted from them, of the tribe of Manasseh, were thirty-two thousand two 
 #### Ages 8-10
 those counted from them, of the tribe of Manasseh, were thirty-two thousand two hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:36
@@ -540,9 +435,6 @@ Of the descendants of Benjamin, by their family lines, by their families and fam
 
 #### Ages 8-10
 Of the descendants of Benjamin, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -555,9 +447,6 @@ those counted from them, of the tribe of Benjamin, were thirty-five thousand fou
 #### Ages 8-10
 those counted from them, of the tribe of Benjamin, were thirty-five thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:38
@@ -568,9 +457,6 @@ Of the descendants of Dan, by their family lines, by their families and family g
 
 #### Ages 8-10
 Of the descendants of Dan, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -583,9 +469,6 @@ those counted from them, of the tribe of Dan, were sixty-two thousand seven hund
 #### Ages 8-10
 those counted from them, of the tribe of Dan, were sixty-two thousand seven hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:40
@@ -596,9 +479,6 @@ Of the descendants of Asher, by their family lines, by their families and family
 
 #### Ages 8-10
 Of the descendants of Asher, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -611,9 +491,6 @@ those counted from them, of the tribe of Asher, were forty-one thousand five hun
 #### Ages 8-10
 those counted from them, of the tribe of Asher, were forty-one thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:42
@@ -624,9 +501,6 @@ Of the descendants of Naphtali, by their family lines, by their families and fam
 
 #### Ages 8-10
 Of the descendants of Naphtali, by their family lines, by their families and family groups, name by name, from twenty years old and older, all who were able to serve in the army:
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -639,9 +513,6 @@ those counted from them, of the tribe of Naphtali, were fifty-three thousand fou
 #### Ages 8-10
 those counted from them, of the tribe of Naphtali, were fifty-three thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:44
@@ -652,9 +523,6 @@ These are those who were counted, whom Moses and Aaron counted, and the twelve m
 
 #### Ages 8-10
 These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his family group.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -672,9 +540,6 @@ So all those counted from the people of Israel by their family groups, from twen
 #### Ages 8-10
 So all those counted from the people of Israel by their family groups, from twenty years old and older, all who were able to serve in Israel's army-
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -689,9 +554,6 @@ all those who were counted were six hundred three thousand five hundred fifty.
 #### Ages 8-10
 all those who were counted were six hundred three thousand five hundred fifty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 1:47
@@ -702,9 +564,6 @@ But the Levites by their ancestral tribe were not counted among them.
 
 #### Ages 8-10
 But the Levites by their ancestral tribe were not counted among them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -719,9 +578,6 @@ For the Lord spoke to Moses, saying,
 
 #### Ages 8-10
 For the Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -739,9 +595,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Only the tribe of Levi you must not count, neither must you count of them among the people of Israel;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -755,9 +608,6 @@ but appoint the Levites over the Tent of the Testimony, and over all its furnish
 
 #### Ages 8-10
 but appoint the Levites over the Tent of the Testimony, and over all its furnishings, and over all that belongs to it. They must carry the tent and all its furnishings; and they must take care of it, and must camp around it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -774,9 +624,6 @@ When the tent is to move, the Levites must take it down; and when the tent is to
 #### Ages 8-10
 When the tent is to move, the Levites must take it down; and when the tent is to be set up, the Levites must set it up. The foreigner who comes near must be put to death.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 - tabernacle: The holy tent where the Lord met with Israel
@@ -791,9 +638,6 @@ The people of Israel must set up their tents, every man by his own camp, and eve
 
 #### Ages 8-10
 The people of Israel must set up their tents, every man by his own camp, and every man by his own banner, according to their divisions.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -810,8 +654,17 @@ But the Levites must camp around the Tent of the Testimony, that there may be no
 But the Levites must camp around the Tent of the Testimony, that there may be no wrath on the community of the people of Israel. The Levites must be responsible for the Tent of the Testimony."
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord tells Moses to count the men of Israel who are old enough to serve in the army, tribe by tribe and name by name. The Levites are not counted with the army because God gives them the work of guarding and serving around the holy tent.
 
+<!-- Illustration Prompt -->
+**Scene**: Levite families camping around the Tent of the Testimony while Israel rests in ordered camps
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 1 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Levite families camping around the Tent of the Testimony while Israel rests in ordered camps
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -827,9 +680,6 @@ Thus the people of Israel did. According to all that the Lord commanded Moses, s
 
 #### Ages 8-10
 Thus the people of Israel did. According to all that the Lord commanded Moses, so they did.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -857,12 +707,11 @@ from twenty years old and older, all who are able to serve in Israel's army. You
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God knows his people by name?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God knows his people by name"?
+2. How does this chapter also help explain "God guards worship"?
 ## Prayer
 Lord, help us understand Numbers 1 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

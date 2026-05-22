@@ -66,7 +66,7 @@ The captain of the guard assigned Joseph to them, and Joseph served them. They s
 **Original Reference**: Genesis 40:5 - They both dreamed a dream, each man his dream, in one night, each man according to the interpretation of his dream, the cup bearer and the baker of the king of Egypt, who were bound in the prison.
 
 #### Ages 5-7
-One night both men dreamed dreams, each man his own dream with its own meaning. They were the cupbearer and the baker of the king of Egypt, and they were kept in the prison.
+One night both men had dreams. Each man had his own dream with its own meaning. They were the cupbearer and the baker of the king of Egypt, and they were kept in the prison.
 
 #### Ages 8-10
 Both men had dreams in one night, each with his own dream and its meaning. They were the cupbearer and baker of the king of Egypt, and they were confined in the prison.
@@ -107,7 +107,7 @@ He asked Pharaoh's officers who were with him in his master's prison, "Why do yo
 **Original Reference**: Genesis 40:8 - They said to him, "We have dreamed a dream, and there is no one who can interpret it." Joseph said to them, "Don't interpretations belong to God? Please tell it to me."
 
 #### Ages 5-7
-They said to him, "We have dreamed dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings belong to God? Please tell me your dreams."
+They said to him, "We have had dreams, and there is no one to explain what they mean." Joseph said to them, "Do not the meanings of dreams belong to God? Please tell me your dreams."
 
 #### Ages 8-10
 They said, "We have had dreams, and there is no one to explain what they mean." Joseph said, "Do not the meanings belong to God? Please tell me the dreams."
@@ -187,7 +187,7 @@ Within three days Pharaoh will lift up your head, honor you again, and restore y
 **Original Reference**: Genesis 40:14 - But remember me when it is well with you. Please show kindness to me, and make mention of me to Pharaoh, and bring me out of this house.
 
 #### Ages 5-7
-But when things go well for you, please remember me. Show kindness to me, mention me to Pharaoh, and bring me out of this house.
+But when things go well for you, please remember me. Show kindness to me, mention me to Pharaoh, and bring me out of this prison house.
 
 #### Ages 8-10
 But remember me when it goes well with you. Please show kindness to me, mention me to Pharaoh, and bring me out of this house.

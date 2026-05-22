@@ -1,7 +1,7 @@
 # Numbers Chapter 4
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives the Kohathites, Gershonites, and Merarites their work for carrying the holy tent and its furnishings.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives the Kohathites, Gershonites, and Merarites their work for carrying the holy tent and its furnishings.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count the sons of Kohath from among the sons of Levi, by their families and family groups,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:3
@@ -55,9 +49,6 @@ from thirty years old and older even until fifty years old, all who enter into t
 #### Ages 8-10
 from thirty years old and older even until fifty years old, all who enter into the service to do the work in the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:4
@@ -68,9 +59,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "This is the service of the sons of Kohath in the Tent of Meeting, regarding the most holy things.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -86,9 +74,6 @@ When the camp moves forward, Aaron must go in with his sons; and they must take 
 #### Ages 8-10
 When the camp moves forward, Aaron must go in with his sons; and they must take down the curtain of the screen, cover the ark of the Testimony with it,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -103,9 +88,6 @@ put a covering of sealskin on it, spread a blue cloth over it, and put in its po
 #### Ages 8-10
 put a covering of sealskin on it, spread a blue cloth over it, and put in its poles.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:7
@@ -116,9 +98,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "On the table of show bread they must spread a blue cloth, and put on it the dishes, the spoons, the bowls, and the cups with which to pour out; and the continual bread must be on it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -131,9 +110,6 @@ They must spread on them a red thread cloth, and cover it with a covering of sea
 #### Ages 8-10
 They must spread on them a red thread cloth, and cover it with a covering of sealskin, and must put in its poles.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:9
@@ -144,9 +120,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "They must take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil containers, with which they minister to it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -159,9 +132,6 @@ They must put it and all its containers within a covering of sealskin, and must 
 #### Ages 8-10
 They must put it and all its containers within a covering of sealskin, and must put it on the frame.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:11
@@ -172,9 +142,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "On the golden altar they must spread a blue cloth, and cover it with a covering of sealskin, and must put in its poles.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -190,9 +157,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "They must take all the service tools with which they minister in the holy place, and put them in a blue cloth, cover them with a covering of sealskin, and must put them on the frame.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -207,9 +171,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "They must take away the ashes from the altar, and spread a purple cloth on it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -223,9 +184,6 @@ They must put on it all its containers with which they minister about it, the fi
 
 #### Ages 8-10
 They must put on it all its containers with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins-all the containers of the altar; and they must spread on it a covering of sealskin, and put in its poles.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -242,8 +200,17 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 "When Aaron and his sons have finished covering the holy place and all the furniture of the holy place, as the camp moves forward; after that, the sons of Kohath will come to carry it; but they must not touch the holy place, or else they die. The sons of Kohath must carry these things belonging to the Tent of Meeting.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives the Kohathites, Gershonites, and Merarites their work for carrying the holy tent and its furnishings. Each family group receives a careful task so the holy things are moved with reverence.
 
+<!-- Illustration Prompt -->
+**Scene**: Priests covering the holy furniture before the Levites carry it
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 4 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Priests covering the holy furniture before the Levites carry it
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -258,9 +225,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The duty of Eleazar the son of Aaron the priest must be the oil for the light, the sweet-smelling incense, the continual grain offering, and the anointing oil, the requirements of all the tent, and of all that is in it, the holy place, and its furnishings."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -280,9 +244,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -300,9 +261,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Don't let the tribe of the families of the Kohathites be destroyed from among the Levites;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -316,9 +274,6 @@ but thus do to them, that they may live, and not die, when they approach the mos
 
 #### Ages 8-10
 but thus do to them, that they may live, and not die, when they approach the most holy things: Aaron and his sons must go in and appoint everyone to his service and to his burden;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -335,9 +290,6 @@ but they must not go in to see the holy place even for a moment, or else they di
 #### Ages 8-10
 but they must not go in to see the holy place even for a moment, or else they die."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -351,9 +303,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -371,9 +320,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count the sons of Gershon also, by their family groups, by their families;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:23
@@ -384,9 +330,6 @@ you must count them from thirty years old and older until fifty years old: all w
 
 #### Ages 8-10
 you must count them from thirty years old and older until fifty years old: all who enter in to wait on the service, to do the work in the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -399,9 +342,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "This is the service of the families of the Gershonites, in serving and in bearing burdens:
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:25
@@ -412,9 +352,6 @@ they must carry the curtains of the tent and the Tent of Meeting, its covering, 
 
 #### Ages 8-10
 they must carry the curtains of the tent and the Tent of Meeting, its covering, the covering of sealskin that is on it, the screen for the door of the Tent of Meeting,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -429,9 +366,6 @@ the hangings of the court, the screen for the door of the gate of the court whic
 
 #### Ages 8-10
 the hangings of the court, the screen for the door of the gate of the court which is by the tent and around the altar, their cords, and all the instruments of their service, and whatever must be done with them. They must serve in there.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -448,9 +382,6 @@ At the command of Aaron and his sons must be all the service of the sons of the 
 #### Ages 8-10
 At the command of Aaron and his sons must be all the service of the sons of the Gershonites, in all their burden and in all their service; and you must appoint their duty to them in all their responsibilities.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - command: Something God tells someone to do
@@ -465,9 +396,6 @@ This is the service of the families of the sons of the Gershonites in the Tent o
 
 #### Ages 8-10
 This is the service of the families of the sons of the Gershonites in the Tent of Meeting. Their duty must be under the hand of Ithamar the son of Aaron the priest.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -484,9 +412,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "As for the sons of Merari, you must count them by their families and family groups;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:30
@@ -498,9 +423,6 @@ you must count them from thirty years old and older even to fifty years old-ever
 #### Ages 8-10
 you must count them from thirty years old and older even to fifty years old-everyone who enters on the service, to do the work of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:31
@@ -511,9 +433,6 @@ This is the duty of their burden, according to all their service in the Tent of 
 
 #### Ages 8-10
 This is the duty of their burden, according to all their service in the Tent of Meeting: the tent's boards, its bars, its pillars, its sockets,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -529,9 +448,6 @@ the pillars of the court around it, their sockets, their pins, their cords, with
 #### Ages 8-10
 the pillars of the court around it, their sockets, their pins, their cords, with all their instruments, and with all their service. You must appoint the instruments of the duty of their burden to them by name.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:33
@@ -542,9 +458,6 @@ This is the service of the families of the sons of Merari, according to all thei
 
 #### Ages 8-10
 This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -561,9 +474,6 @@ Moses and Aaron and the leaders of the whole group counted the sons of the Kohat
 #### Ages 8-10
 Moses and Aaron and the princes of the community counted the sons of the Kohathites by their families, and by their family groups,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -579,9 +489,6 @@ from thirty years old and older even to fifty years old, everyone who entered in
 #### Ages 8-10
 from thirty years old and older even to fifty years old, everyone who entered into the service for work in the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:36
@@ -593,9 +500,6 @@ Those who were counted from them by their families were two thousand seven hundr
 #### Ages 8-10
 Those who were counted from them by their families were two thousand seven hundred fifty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:37
@@ -606,9 +510,6 @@ These are those counted from the families of the Kohathites, all who served in t
 
 #### Ages 8-10
 These are those counted from the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted as the Lord commanded through Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -627,9 +528,6 @@ Those who were counted from the sons of Gershon, by their families, and by their
 #### Ages 8-10
 Those who were counted from the sons of Gershon, by their families, and by their family groups,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:39
@@ -640,9 +538,6 @@ from thirty years old and older even to fifty years old-everyone who entered int
 
 #### Ages 8-10
 from thirty years old and older even to fifty years old-everyone who entered into the service for work in the Tent of Meeting,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -655,9 +550,6 @@ even those counted from them, by their families and family groups, were two thou
 #### Ages 8-10
 even those counted from them, by their families and family groups, were two thousand six hundred thirty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:41
@@ -668,9 +560,6 @@ These are those counted from the families of the sons of Gershon, all who served
 
 #### Ages 8-10
 These are those counted from the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the command of the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -690,9 +579,6 @@ Those who were counted from the families of the sons of Merari, by their familie
 #### Ages 8-10
 Those who were counted from the families of the sons of Merari, by their families and family groups,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:43
@@ -703,9 +589,6 @@ from thirty years old and older even to fifty years old-everyone who entered int
 
 #### Ages 8-10
 from thirty years old and older even to fifty years old-everyone who entered into the service for work in the Tent of Meeting,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -718,9 +601,6 @@ even those counted from them by their families, were three thousand two hundred.
 #### Ages 8-10
 even those counted from them by their families, were three thousand two hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:45
@@ -731,9 +611,6 @@ These are those counted from the families of the sons of Merari, whom Moses and 
 
 #### Ages 8-10
 These are those counted from the families of the sons of Merari, whom Moses and Aaron counted as the Lord commanded through Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -752,9 +629,6 @@ All those counted from the Levites whom Moses and Aaron and the leaders of Israe
 #### Ages 8-10
 All those counted from the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their family groups,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -772,9 +646,6 @@ from thirty years old and older even to fifty years old, everyone who entered in
 #### Ages 8-10
 from thirty years old and older even to fifty years old, everyone who entered in to do the work of service and the work of bearing burdens in the Tent of Meeting,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:48
@@ -786,9 +657,6 @@ even those counted from them, were eight thousand five hundred eighty.
 #### Ages 8-10
 even those counted from them, were eight thousand five hundred eighty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 4:49
@@ -799,9 +667,6 @@ According to the command of the Lord they were counted by Moses, everyone accord
 
 #### Ages 8-10
 According to the command of the Lord they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -829,12 +694,11 @@ from thirty years old and older even until fifty years old, all who enter into t
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Holy things are handled carefully?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Holy things are handled carefully"?
+2. How does this chapter also help explain "Every servant has a place"?
 ## Prayer
 Lord, help us understand Numbers 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

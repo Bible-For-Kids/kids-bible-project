@@ -281,7 +281,7 @@ Bethuel became the father of Rebekah. These eight children Milkah bore to Nahor,
 Nahor also had a woman named Reumah. She had children too: Tebah, Gaham, Tahash, and Maakah.
 
 #### Ages 8-10
-Nahor's concubine, a woman joined to him but not with the same place as a wife, was named Reumah. She also bore Tebah, Gaham, Tahash, and Maakah.
+Nahor's lesser wife, a woman joined to him but not with the same place as a wife, was named Reumah. She also bore Tebah, Gaham, Tahash, and Maakah.
 
 ---
 

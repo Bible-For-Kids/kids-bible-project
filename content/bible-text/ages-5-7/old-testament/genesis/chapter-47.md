@@ -30,10 +30,10 @@ Pharaoh spoke to Joseph and said, "Your father and your brothers have come to yo
 Then Joseph brought in Jacob his father and set him before Pharaoh. Jacob blessed Pharaoh.
 
 ### Genesis 47:8
-Pharaoh asked Jacob, "How many are the days of the years of your life?"
+Pharaoh asked Jacob, "How many years have you lived?"
 
 ### Genesis 47:9
-Jacob said to Pharaoh, "The days of the years of my journey are one hundred thirty years. My years have been few and hard, and they have not reached the years of my fathers during their journeys."
+Jacob said to Pharaoh, "My journey through life has lasted one hundred thirty years. My years have been few and hard, and they have not reached the years of my fathers during their journeys."
 
 ### Genesis 47:10
 Jacob blessed Pharaoh and went out from Pharaoh's presence.

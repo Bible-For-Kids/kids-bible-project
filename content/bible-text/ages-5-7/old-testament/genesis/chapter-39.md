@@ -12,10 +12,10 @@ Genesis
 Joseph was brought down to Egypt. Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought Joseph from the Ishmaelites who had brought him there.
 
 ### Genesis 39:2
-The Lord was with Joseph, and Joseph did well. He lived in the house of his Egyptian master.
+The Lord was with Joseph, and things went well for him. He lived in the house of his Egyptian master.
 
 ### Genesis 39:3
-Joseph's master saw that the Lord was with him and that the Lord made everything Joseph did succeed in his hands.
+Joseph's master saw that the Lord was with Joseph and made everything Joseph did succeed.
 
 ### Genesis 39:4
 Potiphar was pleased with Joseph and trusted him as his servant. Potiphar put Joseph in charge of his house and placed everything he had under Joseph's care.
@@ -30,7 +30,7 @@ Potiphar left everything he had in Joseph's care. He did not worry about anythin
 After these things, Potiphar's wife looked at Joseph and said, "Be with me in a way that only a husband and wife should be."
 
 ### Genesis 39:8
-But Joseph refused. He said to his master's wife, "My master does not need to worry about anything in the house, and he has put everything he has into my hand.
+But Joseph refused. He said to his master's wife, "My master does not need to worry about anything in the house, and he has trusted me with everything he owns.
 
 ### Genesis 39:9
 No one in this house is greater than I am. He has kept nothing back from me except you, because you are his wife. How then could I do this great evil thing and sin against God?"

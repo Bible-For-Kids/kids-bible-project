@@ -1,7 +1,7 @@
 # Numbers Chapter 18
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives priests and Levites their duties, their boundaries, and their portions from Israel's offerings and tithes.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives priests and Levites their duties, their boundaries, and their portions from Israel's offerings and tithes.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord said to Aaron, "You and your sons and your family group with you must b
 #### Ages 8-10
 The Lord said to Aaron, "You and your sons and your family group with you must bear the sin of the holy place; and you and your sons with you must bear the sin of your priesthood.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -42,9 +39,6 @@ Bring your brothers also, the tribe of Levi, the tribe of your father, near with
 #### Ages 8-10
 Bring your brothers also, the tribe of Levi, the tribe of your father, near with you, that they may be joined to you, and minister to you; but you and your sons with you must be before the Tent of the Testimony.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 18:3
@@ -55,9 +49,6 @@ They must keep your commands and the duty of the whole Tent; only they must not 
 
 #### Ages 8-10
 They must keep your commands and the duty of the whole Tent; only they must not come near to the holy tent tools and to the altar, that they not die, neither they nor you.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -74,9 +65,6 @@ They must be joined to you and keep the responsibility of the Tent of Meeting, f
 #### Ages 8-10
 They must be joined to you and keep the responsibility of the Tent of Meeting, for all the service of the Tent. A foreigner must not come near to you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 18:5
@@ -87,9 +75,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "You must perform the duty of the holy place and the duty of the altar, that there be no more wrath on the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -106,9 +91,6 @@ I myself have taken your brothers the Levites from among the people of Israel. T
 
 #### Ages 8-10
 I myself have taken your brothers the Levites from among the people of Israel. They are a gift to you, dedicated to the Lord, to do the service of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -127,9 +109,6 @@ You and your sons with you must keep your priesthood for everything of the altar
 #### Ages 8-10
 You and your sons with you must keep your priesthood for everything of the altar, and for that within the curtain. You must serve. I give you the service of the priesthood as a gift. The foreigner who comes near must be put to death."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -143,9 +122,6 @@ The Lord spoke to Aaron, "I myself have put you in charge of my lifted offerings
 
 #### Ages 8-10
 The Lord spoke to Aaron, "I myself have put you in charge of my lifted offerings, all the holy things the people of Israel bring. I have given them to you and to your sons as a lasting portion.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -165,9 +141,6 @@ This part of the most holy gifts from the fire must be yours: every grain gift, 
 #### Ages 8-10
 This part of the most holy gifts from the fire must be yours: every grain offering, every sin offering, and every guilt offering that the people bring to me. They must be most holy for you and for your sons.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
 - holy: Set apart for God
@@ -185,9 +158,6 @@ You must eat of it like the most holy gifts. Every male must eat of it. It will 
 #### Ages 8-10
 You must eat of it like the most holy things. Every male must eat of it. It will be holy to you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -201,9 +171,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "This is yours too: the offerings lifted before the Lord from the people of Israel. I have given them to you, to your sons, and to your daughters as a lasting portion. Everyone in your house who is clean may eat them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -221,9 +188,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "I have given to you all the best of the oil, all the best of the vintage, and of the grain, the first fruits of them which they give to the Lord.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -238,9 +202,6 @@ The first-ripe fruits of all that is in their land, which they bring to the Lord
 
 #### Ages 8-10
 The first-ripe fruits of all that is in their land, which they bring to the Lord, must be yours. Everyone who is clean in your house must eat of it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -257,9 +218,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Everything devoted in Israel must be yours.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -273,9 +231,6 @@ Every firstborn offered to the Lord, whether human or animal, must be yours. But
 
 #### Ages 8-10
 Every firstborn offered to the Lord, whether human or animal, must be yours. But firstborn sons and firstborn unclean animals must be redeemed.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -292,9 +247,6 @@ From one month old and older, they must be bought back for five silver pieces, b
 #### Ages 8-10
 From one month old and older, they must be redeemed for five silver pieces, by the weight used at the holy place.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -308,9 +260,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "But you must not redeem the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat. They are holy. You must sprinkle their blood on the altar, and must burn their fat for an offering burned on the altar, for a pleasing smell to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -330,9 +279,6 @@ Their meat must be yours too. The breast lifted before the Lord and the right th
 #### Ages 8-10
 Their meat must be yours too. The breast lifted before the Lord and the right thigh must be yours.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -347,9 +293,6 @@ All the lifted offerings from the holy things that the people of Israel offer to
 
 #### Ages 8-10
 All the lifted offerings from the holy things that the people of Israel offer to the Lord, I have given to you, to your sons, and to your daughters as a lasting portion. It is a lasting covenant before the Lord for you and your offspring, called a covenant of salt."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -370,8 +313,17 @@ The Lord said to Aaron, "You must have no inheritance in their land, neither mus
 The Lord said to Aaron, "You must have no inheritance in their land, neither must you have any portion among them. I am your portion and your inheritance among the people of Israel.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives priests and Levites their duties, their boundaries, and their portions from Israel's offerings and tithes. Holy service is a gift, but it must be carried with responsibility before the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Levites receiving portions for their service while priests stand near the holy tent
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 18 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Levites receiving portions for their service while priests stand near the holy tent
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -389,9 +341,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "To the descendants of Levi, I have given Israel's tithes as their inheritance. This is for the service they do at the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -405,9 +354,6 @@ From now on, the people of Israel must not come near the Tent of Meeting, or the
 
 #### Ages 8-10
 From now on, the people of Israel must not come near the Tent of Meeting, or they will carry guilt for sin and die.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -424,9 +370,6 @@ The Levites must do the service of the Tent of Meeting, and they must carry the 
 #### Ages 8-10
 The Levites must do the service of the Tent of Meeting, and they must carry the guilt if they do wrong in that service. This will be a lasting rule for all your generations. Among the people of Israel, they must have no inheritance.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -442,9 +385,6 @@ I have given the Levites the tithes, the one-tenth gifts, that the people of Isr
 
 #### Ages 8-10
 I have given the Levites the tithes that the people of Israel lift before the Lord. That is why I said to them, "They must have no inheritance among the people of Israel." ' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -464,9 +404,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -482,9 +419,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Speak to the Levites and tell them, 'When you receive from the people of Israel the tithe I have given you as your inheritance, you must give a tithe of that tithe back to the Lord as an offering lifted before him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -504,9 +438,6 @@ This lifted offering will be counted for you like grain from the place where gra
 #### Ages 8-10
 This lifted offering will be counted for you like grain from the threshing floor or like the full amount from the winepress.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -521,9 +452,6 @@ In this way, you also must give the Lord an offering lifted before him from all 
 
 #### Ages 8-10
 In this way, you also must give the Lord an offering lifted before him from all the tithes you receive from the people of Israel. You must give the Lord's lifted offering to Aaron the priest.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -543,9 +471,6 @@ Out of all your gifts, you must offer every offering lifted before the Lord, of 
 #### Ages 8-10
 Out of all your gifts, you must offer every offering lifted before the Lord, of all its best parts, even the holy part of it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -563,9 +488,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Tell them, 'When you lift the best part before the Lord, it will be counted for the Levites like grain from the threshing floor and like wine from the winepress.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -580,9 +502,6 @@ You may eat it anywhere, you and your households, for it is your reward in retur
 #### Ages 8-10
 You may eat it anywhere, you and your households, for it is your reward in return for your service in the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 18:32
@@ -593,9 +512,6 @@ You must bear no sin by reason of it, when you have lifted before the Lord from 
 
 #### Ages 8-10
 You must bear no sin by reason of it, when you have lifted before the Lord from it its best. You must not profane the holy things of the people of Israel, that you not die.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -622,12 +538,11 @@ They must keep your commands and the duty of the whole Tent; only they must not 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God provides for his servants?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God provides for his servants"?
+2. How does this chapter also help explain "Holy work carries responsibility"?
 ## Prayer
 Lord, help us understand Numbers 18 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

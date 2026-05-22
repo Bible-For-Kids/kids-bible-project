@@ -37,29 +37,39 @@ export default async function RootLayout({
         <div className="flex min-h-screen flex-col">
           <header className="border-b border-blue-100 bg-white shadow-sm">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-              <div className="flex h-16 items-center justify-between">
-                <div className="flex items-center space-x-2">
+              <div className="flex min-h-16 items-center justify-between gap-4 py-3">
+                <Link href="/" className="flex shrink-0 items-center gap-2" aria-label="Kids Bible Project home">
                   <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-blue-400 to-green-400">
                     <BookOpen className="h-5 w-5 text-white" />
                   </div>
-                  <h1 className="text-xl font-bold text-gray-900">Kids Bible Project</h1>
-                </div>
-                <nav className="hidden space-x-8 md:flex">
-                  <Link href="/" className="text-gray-700 transition-colors hover:text-blue-600">
+                  <h1 className="whitespace-nowrap text-lg font-bold text-gray-900 sm:text-xl">Kids Bible Project</h1>
+                </Link>
+                <nav className="hidden min-w-0 flex-1 items-center justify-end gap-2 md:flex" aria-label="Primary navigation">
+                  <Link
+                    href="/"
+                    className="shrink-0 whitespace-nowrap rounded-md px-3 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-blue-50 hover:text-blue-700"
+                  >
                     Home
                   </Link>
-                  <Link href="/bible" className="text-gray-700 transition-colors hover:text-blue-600">
+                  <Link
+                    href="/bible"
+                    className="shrink-0 whitespace-nowrap rounded-md px-3 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-blue-50 hover:text-blue-700"
+                  >
                     Bible Reader
                   </Link>
-                  {catalog.map(book => (
-                    <Link
-                      key={book.slug}
-                      href={`/bible/${book.slug}/${book.chapters[0]}`}
-                      className="text-gray-700 transition-colors hover:text-blue-600"
-                    >
-                      {book.name}
-                    </Link>
-                  ))}
+                  <div className="hidden min-w-0 flex-1 items-center border-l border-slate-200 pl-2 lg:flex">
+                    <div className="header-book-scroll flex w-full min-w-0 gap-1 overflow-x-auto py-1" aria-label="Books">
+                      {catalog.map(book => (
+                        <Link
+                          key={book.slug}
+                          href={`/bible/${book.slug}/${book.chapters[0]}`}
+                          className="shrink-0 whitespace-nowrap rounded-md px-2.5 py-1.5 text-sm font-medium text-gray-700 transition-colors hover:bg-blue-50 hover:text-blue-700"
+                        >
+                          {book.name}
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
                 </nav>
               </div>
             </div>

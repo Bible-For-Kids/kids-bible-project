@@ -15,7 +15,7 @@ Abraham moved on from there toward the Negev. He lived between Kadesh and Shur, 
 Abraham said about his wife Sarah, "She is my sister." So Abimelek king of Gerar sent for Sarah and took her into his house.
 
 ### Genesis 20:3
-But God came to Abimelek in a dream at night and said, "You are as good as dead because of the woman you have taken. She is a married woman."
+But God came to Abimelek in a dream at night and said, "You are going to die because of the woman you have taken. She is a married woman."
 
 ### Genesis 20:4
 Abimelek had not gone near her, so he said, "Lord, will you destroy an innocent nation?
@@ -27,7 +27,7 @@ Did Abraham not say to me, 'She is my sister'? And Sarah herself said, 'He is my
 Then God said to him in the dream, "Yes, I know you did this without knowing the truth. That is why I kept you from sinning against me. I did not let you touch her.
 
 ### Genesis 20:7
-Now return the man's wife. He is my prophet, a man who speaks for me, and he will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
+Now return the man's wife. He is my prophet, a man who speaks for me. He will pray for you, and you will live. But if you do not return her, you and all who belong to you will surely die."
 
 ### Genesis 20:8
 Early the next morning, Abimelek called all his officials and told them everything. The men were very afraid.
@@ -45,7 +45,7 @@ Abraham said, "I thought, 'Surely there is no fear of God in this place, and the
 Besides, she really is my sister, the daughter of my father but not the daughter of my mother. And she became my wife.
 
 ### Genesis 20:13
-When God caused me to wander from my father's house, I said to Sarah, 'This is how you can show love to me: everywhere we go, say about me, He is my brother.'"
+When God caused me to wander from my father's house, I said to Sarah, 'This is how you can show faithful love to me: everywhere we go, say about me, He is my brother.'"
 
 ### Genesis 20:14
 Then Abimelek brought sheep, cattle, male and female servants, and gave them to Abraham. He also returned Sarah, Abraham's wife, to him.

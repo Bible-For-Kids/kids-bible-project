@@ -1,7 +1,7 @@
 # Leviticus Chapter 8
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on moses gathers the people and sets apart Aaron and his sons for priestly service.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. Moses gathers the people and sets apart Aaron and his sons for priestly service.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -35,13 +32,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 8:2 - "Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;
 
 #### Ages 5-7
-"Take Aaron and his sons with him, and the clothes, and the anointing oil, and the bull of the offering for sin, and the two male sheep, and the basket of unleavened bread;
+"Take Aaron and his sons with him, and the clothes, and the anointing oil, and the bull of the offering for sin, and the two male sheep, and the basket of bread made without yeast;
 
 #### Ages 8-10
-"Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two male sheep, and the basket of unleavened bread;
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+"Take Aaron and his sons with him, and the clothes, and the anointing oil, and the bull of the sin offering, and the two male sheep, and the basket of bread made without yeast;
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -59,9 +53,6 @@ and assemble all the people at the door of the Tent of Meeting."
 #### Ages 8-10
 and assemble all the community at the door of the Tent of Meeting."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 8:4
@@ -72,9 +63,6 @@ Moses did as the Lord commanded him; and the whole group was assembled at the do
 
 #### Ages 8-10
 Moses did as the Lord commanded him; and the community was assembled at the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -92,9 +80,6 @@ Moses said to the whole group, "This is the thing which the Lord has commanded t
 #### Ages 8-10
 Moses said to the community, "This is the thing which the Lord has commanded to be done."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -111,9 +96,6 @@ Moses brought Aaron and his sons, and washed them with water.
 #### Ages 8-10
 Moses brought Aaron and his sons, and washed them with water.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -129,22 +111,30 @@ He put the long shirt on Aaron, tied the waistband around him, put the robe on h
 #### Ages 8-10
 He put the long shirt on Aaron, tied the waistband around him, put the robe on him, and put the priestly vest on him. Then he tied the woven belt of the vest around him to hold it in place.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 8:8
 **Original Reference**: Leviticus 8:8 - He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
 
 #### Ages 5-7
-He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
+He placed the chest piece on him. He put the Urim and Thummim in the chest piece.
 
 #### Ages 8-10
-He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
+He placed the chest piece on him. He put the Urim and Thummim in the chest piece.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+Priestly clothing terms are made concrete. 'Chest piece' helps children picture the object while preserving that the Urim and Thummim were placed there.
+**Cross-References**:
+- Exodus 28:29-30
+<!-- Illustration Prompt -->
+**Scene**: Moses dressing Aaron in the priestly clothes
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Moses, Aaron, Aaron's sons, gathered people
+**Setting**: Entrance of the Tent of Meeting
+**Action**: Aaron is clothed and set apart for priestly service
+**Emotional Tone**: Holy, careful, expectant
+**Age Appropriateness**: Ceremonial and respectful
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -156,9 +146,6 @@ He set the head wrap on his head. He set the golden plate, the holy crown, on th
 
 #### Ages 8-10
 He set the head wrap on his head. He set the golden plate, the holy crown, on the front of the head wrap, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -177,9 +164,6 @@ Moses took the anointing oil, and anointed the holy tent and all that was in it,
 #### Ages 8-10
 Moses took the anointing oil, and anointed the tabernacle and all that was in it, and made them holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Moses: The servant God used to lead Israel out of Egypt
@@ -196,9 +180,6 @@ He sprinkled it on the altar seven times, and anointed the altar and all its con
 #### Ages 8-10
 He sprinkled it on the altar seven times, and anointed the altar and all its containers, and the basin and its base, to make them holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - holy: Set apart for God
@@ -214,9 +195,6 @@ He poured some of the anointing oil on Aaron's head, and anointed him, to make h
 #### Ages 8-10
 He poured some of the anointing oil on Aaron's head, and anointed him, to make him holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -231,9 +209,6 @@ Moses brought Aaron's sons, dressed them in long shirts, tied waistbands on them
 
 #### Ages 8-10
 Moses brought Aaron's sons, dressed them in long shirts, tied waistbands on them, and put headbands on them, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -252,9 +227,6 @@ He brought the bull of the offering for sin, and Aaron and his sons laid their h
 #### Ages 8-10
 He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - offering: A gift brought to the Lord in worship
@@ -270,9 +242,6 @@ He killed it; and Moses took the blood, and put it around on the horns of the al
 
 #### Ages 8-10
 He killed it; and Moses took the blood, and put it around on the horns of the altar with his finger, and purified the altar, and poured out the blood at the base of the altar, and made it holy, to make atonement for it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -291,9 +260,6 @@ He took all the fat that was on the inner parts, and the cover of the liver, and
 #### Ages 8-10
 He took all the fat that was on the inner parts, and the cover of the liver, and the two kidneys, and their fat; and Moses burned it on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Moses: The servant God used to lead Israel out of Egypt
@@ -308,9 +274,6 @@ But the bull, and its skin, and its meat, and its waste, he burned with fire out
 
 #### Ages 8-10
 But the bull, and its skin, and its meat, and its waste, he burned with fire outside the camp, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -328,9 +291,6 @@ He presented the male sheep of the burned offering. Aaron and his sons laid thei
 #### Ages 8-10
 He presented the male sheep of the burned offering. Aaron and his sons laid their hands on the head of the male sheep.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - offering: A gift brought to the Lord in worship
@@ -345,9 +305,6 @@ He killed it; and Moses sprinkled the blood around on the altar.
 
 #### Ages 8-10
 He killed it; and Moses sprinkled the blood around on the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -364,9 +321,6 @@ He cut the male sheep into its pieces; and Moses burned the head, and the pieces
 #### Ages 8-10
 He cut the male sheep into its pieces; and Moses burned the head, and the pieces, and the fat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -380,9 +334,6 @@ He washed the inner parts and the legs with water; and Moses burned the whole ma
 
 #### Ages 8-10
 He washed the inner parts and the legs with water; and Moses burned the whole male sheep on the altar. It was a burned offering for a pleasant aroma. It was an offering burned on the altar to the Lord, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -402,9 +353,6 @@ He presented the other male sheep, the male sheep of setting apart. Aaron and hi
 #### Ages 8-10
 He presented the other male sheep, the male sheep of setting apart. Aaron and his sons laid their hands on the head of the male sheep.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -418,9 +366,6 @@ He killed it; and Moses took some of its blood, and put it on the tip of Aaron's
 
 #### Ages 8-10
 He killed it; and Moses took some of its blood, and put it on the tip of Aaron's right ear, and on the thumb of his right hand, and on the great toe of his right foot.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -436,9 +381,6 @@ He brought Aaron's sons; and Moses put some of the blood on the tip of their rig
 
 #### Ages 8-10
 He brought Aaron's sons; and Moses put some of the blood on the tip of their right ear, and on the thumb of their right hand, and on the great toe of their right foot; and Moses sprinkled the blood around on the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -456,22 +398,16 @@ He took the fat, the fat tail, all the fat that was on the inner parts, the cove
 #### Ages 8-10
 He took the fat, the fat tail, all the fat that was on the inner parts, the cover of the liver, the two kidneys and their fat, and the right thigh;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 8:26
 **Original Reference**: Leviticus 8:26 - and out of the basket of unleavened bread that was before Yahweh, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 
 #### Ages 5-7
-and out of the basket of unleavened bread that was before the Lord, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
+From the basket of bread made without yeast that was before the Lord, he took one cake made without yeast, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 
 #### Ages 8-10
-and out of the basket of unleavened bread that was before the Lord, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+From the basket of bread made without yeast that was before the Lord, he took one cake made without yeast, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -487,9 +423,6 @@ He put all these in Aaron's hands and in his sons' hands, and lifted them before
 
 #### Ages 8-10
 He put all these in Aaron's hands and in his sons' hands, and lifted them before the Lord as an offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -507,9 +440,6 @@ Moses took them from their hands, and burned them on the altar on the burned off
 
 #### Ages 8-10
 Moses took them from their hands, and burned them on the altar on the burned offering. They were a setting apart offering for a pleasant aroma. It was an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -529,9 +459,6 @@ Moses took the breast, and lifted it before the Lord as an offering. It was Mose
 #### Ages 8-10
 Moses took the breast, and lifted it before the Lord as an offering. It was Moses' portion of the male sheep of setting apart, as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -548,9 +475,6 @@ Moses took some of the anointing oil, and some of the blood which was on the alt
 
 #### Ages 8-10
 Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons' garments with him, and made Aaron, his garments, his sons, and his sons' garments holy with him.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -569,9 +493,6 @@ Moses said to Aaron and to his sons, "Boil the meat at the door of the Tent of M
 #### Ages 8-10
 Moses said to Aaron and to his sons, "Boil the meat at the door of the Tent of Meeting, and there eat it and the bread that is in the basket of setting apart, as I commanded, saying, 'Aaron and his sons must eat it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -587,9 +508,6 @@ What remains of the meat and of the bread you must burn with fire.
 #### Ages 8-10
 What remains of the meat and of the bread you must burn with fire.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 8:33
@@ -601,9 +519,6 @@ You must not go out from the door of the Tent of Meeting for seven days, until t
 #### Ages 8-10
 You must not go out from the door of the Tent of Meeting for seven days, until the days of your setting apart are fulfilled: for he must set apart you seven days.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 8:34
@@ -614,9 +529,6 @@ What has been done today, so the Lord has commanded to do, to make atonement for
 
 #### Ages 8-10
 What has been done today, so the Lord has commanded to do, to make atonement for you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -635,9 +547,6 @@ You must stay at the door of the Tent of Meeting day and night seven days, and k
 #### Ages 8-10
 You must stay at the door of the Tent of Meeting day and night seven days, and keep the Lord's command, that you don't die: for so I am commanded."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Lord: God's covenant name used in many English Bibles
@@ -653,9 +562,6 @@ Aaron and his sons did all the things which the Lord commanded by Moses.
 
 #### Ages 8-10
 Aaron and his sons did all the things which the Lord commanded by Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -683,12 +589,11 @@ Moses did as the Lord commanded him; and the community was assembled at the door
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 8 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

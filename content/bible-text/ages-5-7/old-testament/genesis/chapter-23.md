@@ -12,7 +12,7 @@ Genesis
 Sarah lived 127 years. Those were the years of Sarah's life.
 
 ### Genesis 23:2
-Sarah died at Kiriath Arba, which is Hebron, in the land of Canaan. Abraham came to mourn for Sarah and cry for her.
+Sarah died at Kiriath Arba, which is Hebron, in the land of Canaan. Abraham came to mourn for Sarah and weep for her.
 
 ### Genesis 23:3
 Then Abraham stood up from beside his dead wife and spoke to the sons of Heth.

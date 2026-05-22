@@ -1,7 +1,7 @@
 # Numbers Chapter 22
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on balak fears Israel and sends for Balaam to curse them, but God tells Balaam to speak only the word he gives.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Balak fears Israel and sends for Balaam to curse them, but God tells Balaam to speak only the word he gives.
 
 ## Important Keywords
 - blessed: Spoke good over someone or something
@@ -21,9 +21,6 @@ The people of Israel traveled, and camped in the plains of Moab beyond the Jorda
 #### Ages 8-10
 The people of Israel traveled, and camped in the plains of Moab beyond the Jordan at Jericho.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -37,9 +34,6 @@ Balak the son of Zippor saw all that Israel had done to the Amorites.
 
 #### Ages 8-10
 Balak the son of Zippor saw all that Israel had done to the Amorites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -55,9 +49,6 @@ Moab was very afraid of the people, because they were many. Moab was distressed 
 #### Ages 8-10
 Moab was very afraid of the people, because they were many. Moab was distressed because of the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -72,9 +63,6 @@ Moab said to the elders of Midian, "Now this crowd will lick up all that is arou
 #### Ages 8-10
 Moab said to the elders of Midian, "Now this crowd will lick up all that is around us, as the ox licks up the grass of the field." Balak the son of Zippor was king of Moab at that time.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:5
@@ -85,9 +73,6 @@ He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, 
 
 #### Ages 8-10
 He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, "there is a people who came out of Egypt. they cover the surface of the earth, and they are staying opposite me.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -102,9 +87,6 @@ Please come now therefore, and curse this people for me; for they are too mighty
 
 #### Ages 8-10
 Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I will prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - blessed: Spoke good over someone or something
@@ -121,9 +103,6 @@ The elders of Moab and the elders of Midian departed with the rewards of divinat
 #### Ages 8-10
 The elders of Moab and the elders of Midian departed with the rewards of divination in their hand. They came to Balaam, and spoke to him the words of Balak.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:8
@@ -134,9 +113,6 @@ He said to them, "Lodge here this night, and I will bring you word again, as the
 
 #### Ages 8-10
 He said to them, "Lodge here this night, and I will bring you word again, as the Lord must speak to me." The princes of Moab stayed with Balaam.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -153,9 +129,6 @@ God came to Balaam, and said, "Who are these men with you?"
 #### Ages 8-10
 God came to Balaam, and said, "Who are these men with you?"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 
@@ -169,9 +142,6 @@ Balaam said to God, "Balak the son of Zippor, king of Moab, has said to me,
 
 #### Ages 8-10
 Balaam said to God, "Balak the son of Zippor, king of Moab, has said to me,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -187,9 +157,6 @@ the people that has come out of Egypt covers the surface of the earth. Now, come
 #### Ages 8-10
 the people that has come out of Egypt covers the surface of the earth. Now, come curse me them. Perhaps I will be able to fight against them, and must drive them out.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 
@@ -203,9 +170,6 @@ God said to Balaam, "You must not go with them. You must not curse the people, f
 
 #### Ages 8-10
 God said to Balaam, "You must not go with them. You must not curse the people, for they are blessed."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - blessed: Spoke good over someone or something
@@ -222,9 +186,6 @@ Balaam rose up in the morning, and said to the leaders of Balak, "Go to your lan
 #### Ages 8-10
 Balaam rose up in the morning, and said to the princes of Balak, "Go to your land; for the Lord refuses to permit me to go with you."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -240,9 +201,6 @@ The leaders of Moab rose up, and they went to Balak, and said, "Balaam refuses t
 #### Ages 8-10
 The princes of Moab rose up, and they went to Balak, and said, "Balaam refuses to come with us."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:15
@@ -253,9 +211,6 @@ Balak again sent leaders, more, and more honorable than they.
 
 #### Ages 8-10
 Balak again sent princes, more, and more honorable than they.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -268,9 +223,6 @@ They came to Balaam, and said to him, "Balak the son of Zippor says, 'Please let
 #### Ages 8-10
 They came to Balaam, and said to him, "Balak the son of Zippor says, 'Please let nothing hinder you from coming to me,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:17
@@ -282,9 +234,6 @@ for I will promote you to very great honor, and whatever you say to me I will do
 #### Ages 8-10
 for I will promote you to very great honor, and whatever you say to me I will do. Please come therefore, and curse this people for me.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:18
@@ -295,9 +244,6 @@ Balaam answered the servants of Balak, "If Balak would give me his house full of
 
 #### Ages 8-10
 Balaam answered the servants of Balak, "If Balak would give me his house full of silver and gold, I can't go beyond the word of the Lord my God, to do less or more.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -315,9 +261,6 @@ Now therefore please stay here tonight as well, that I may know what else the Lo
 #### Ages 8-10
 Now therefore please stay here tonight as well, that I may know what else the Lord will speak to me."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -333,9 +276,6 @@ God came to Balaam at night, and said to him, "If the men have come to call you,
 #### Ages 8-10
 God came to Balaam at night, and said to him, "If the men have come to call you, rise up, go with them; but only the word which I speak to you, that you must do."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 
@@ -350,9 +290,6 @@ Balaam rose up in the morning, and saddled his donkey, and went with the leaders
 #### Ages 8-10
 Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:22
@@ -363,9 +300,6 @@ God's anger burned because Balaam went. The Lord's angel stood in the road again
 
 #### Ages 8-10
 God's anger burned because Balaam went. The Lord's angel stood in the road against him. Balaam was riding on his donkey, and his two servants were with him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -383,9 +317,6 @@ The donkey saw the Lord's angel standing in the way, with his sword drawn in his
 #### Ages 8-10
 The donkey saw the Lord's angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -400,9 +331,6 @@ Then the Lord's angel stood in a narrow path between the vineyards, a wall being
 
 #### Ages 8-10
 Then the Lord's angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -419,9 +347,6 @@ The donkey saw the Lord's angel, and she pressed herself against the wall, and c
 #### Ages 8-10
 The donkey saw the Lord's angel, and she pressed herself against the wall, and crushed Balaam's foot against the wall. He struck her again.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -437,9 +362,6 @@ The Lord's angel went further, and stood in a narrow place, where there was no w
 #### Ages 8-10
 The Lord's angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -454,9 +376,6 @@ The donkey saw the Lord's angel, and she lay down under Balaam. Balaam's anger b
 
 #### Ages 8-10
 The donkey saw the Lord's angel, and she lay down under Balaam. Balaam's anger burned, and he struck the donkey with his staff.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -474,8 +393,17 @@ The Lord opened the mouth of the donkey, and she said to Balaam, "What have I do
 The Lord opened the mouth of the donkey, and she said to Balaam, "What have I done to you, that you have struck me these three times?"
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Balak fears Israel and sends for Balaam to curse them, but God tells Balaam to speak only the word he gives. On the road, the Lord opens the donkey's mouth and Balaam's eyes, showing that Balaam is under God's rule.
 
+<!-- Illustration Prompt -->
+**Scene**: Balaam startled as his donkey speaks and the angel stands in the road
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 22 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Balaam startled as his donkey speaks and the angel stands in the road
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -491,9 +419,6 @@ Balaam said to the donkey, "Because you have mocked me, I wish there were a swor
 #### Ages 8-10
 Balaam said to the donkey, "Because you have mocked me, I wish there were a sword in my hand, for now I would have killed you."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:30
@@ -505,9 +430,6 @@ The donkey said to Balaam, "Am I not your donkey, on which you have ridden all y
 #### Ages 8-10
 The donkey said to Balaam, "Am I not your donkey, on which you have ridden all your life long until today? Was I ever in the habit of doing so to you?" He said, "No."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:31
@@ -518,9 +440,6 @@ Then the Lord opened the eyes of Balaam, and he saw the Lord's angel standing in
 
 #### Ages 8-10
 Then the Lord opened the eyes of Balaam, and he saw the Lord's angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -537,9 +456,6 @@ The Lord's angel said to him, "Why have you struck your donkey these three times
 #### Ages 8-10
 The Lord's angel said to him, "Why have you struck your donkey these three times? I have come out to stand against you, because your way is wrong before me.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -555,9 +471,6 @@ The donkey saw me and turned away from me these three times. If she had not turn
 #### Ages 8-10
 The donkey saw me and turned away from me these three times. If she had not turned away, I would have killed you by now and kept her alive."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:34
@@ -568,9 +481,6 @@ Balaam said to the Lord's angel, "I have sinned; for I didn't know that you stoo
 
 #### Ages 8-10
 Balaam said to the Lord's angel, "I have sinned; for I didn't know that you stood in the way against me. Now therefore, if it displeases you, I will go back again."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -587,9 +497,6 @@ The Lord's angel said to Balaam, "Go with the men; but only the word that I will
 #### Ages 8-10
 The Lord's angel said to Balaam, "Go with the men; but only the word that I will speak to you, that you must speak." So Balaam went with the princes of Balak.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -605,9 +512,6 @@ When Balak heard that Balaam had come, he went out to meet him to the City of Mo
 #### Ages 8-10
 When Balak heard that Balaam had come, he went out to meet him to the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:37
@@ -619,9 +523,6 @@ Balak said to Balaam, "Didn't I earnestly send for you to summon you? Why didn't
 #### Ages 8-10
 Balak said to Balaam, "Didn't I earnestly send for you to summon you? Why didn't you come to me? Am I not able indeed to promote you to honor?"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:38
@@ -632,9 +533,6 @@ Balaam said to Balak, "I have come to you. Have I now any power at all to speak 
 
 #### Ages 8-10
 Balaam said to Balak, "I have come to you. Have I now any power at all to speak anything? The word that God puts in my mouth, that must I speak."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -650,9 +548,6 @@ Balaam went with Balak, and they came to Kiriath Huzoth.
 #### Ages 8-10
 Balaam went with Balak, and they came to Kiriath Huzoth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:40
@@ -664,9 +559,6 @@ Balak sacrificed cattle and sheep, and sent to Balaam, and to the leaders who we
 #### Ages 8-10
 Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who were with him.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 22:41
@@ -677,9 +569,6 @@ In the morning, Balak took Balaam, and brought him up into the high places of Ba
 
 #### Ages 8-10
 In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -701,12 +590,11 @@ The people of Israel traveled, and camped in the plains of Moab beyond the Jorda
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God rules over curses and blessings?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God rules over curses and blessings"?
+2. How does this chapter also help explain "God opens blind eyes"?
 ## Prayer
 Lord, help us understand Numbers 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -9,6 +9,7 @@ Genesis 4 follows Adam and Eve's sons, Cain and Abel. Sin moves from the garden 
 - curse: A judgment that brings sorrow instead of blessing
 - mercy: Kind help given to someone in need or guilt
 - generation: People living in the same time, or a step in a family line
+- revenge: Trying to pay someone back for harm with more harm
 
 ## Verse-by-Verse Translation
 
@@ -38,7 +39,7 @@ Later she gave birth to Cain's brother Abel. Abel kept flocks, and Cain worked t
 **Original Reference**: Genesis 4:3 - As time passed, Cain brought an offering to Yahweh from the fruit of the ground.
 
 #### Ages 5-7
-After some time, Cain brought some fruit from the ground as an offering to the Lord.
+After some time, Cain brought some crops from the ground as an offering to the Lord.
 
 #### Ages 8-10
 In the course of time, Cain brought some of the fruit of the soil as an offering to the Lord.
@@ -52,10 +53,10 @@ In the course of time, Cain brought some of the fruit of the soil as an offering
 **Original Reference**: Genesis 4:4 - Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,
 
 #### Ages 5-7
-Abel also brought an offering. He brought the firstborn from his flock and the best rich parts from them. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering. He brought firstborn animals from his flock and their best rich parts. The Lord looked with favor on Abel and his offering.
 
 #### Ages 8-10
-Abel also brought an offering from the firstborn of his flock and from their rich fat portions. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering from the firstborn of his flock and from their rich fat portions. The Lord looked with favor on Abel and on his offering.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -63,13 +64,23 @@ Abel also brought an offering from the firstborn of his flock and from their ric
 **Cross-References**:
 - Hebrews 11:4
 
+<!-- Illustration Prompt -->
+**Scene**: Cain and Abel bringing offerings to the Lord
+**Style**: Reverent children's Bible illustration with simple, grounded details
+**Characters**: Cain with crops from the ground; Abel with firstborn animals from his flock
+**Setting**: Open land outside Eden, with fields and sheep nearby
+**Action**: The brothers bring offerings in worship
+**Emotional Tone**: Serious, watchful, worshipful
+**Age Appropriateness**: Keep the animal offering modest and non-graphic
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 4:5
 **Original Reference**: Genesis 4:5 - but he didn't respect Cain and his offering. Cain was very angry, and the expression on his face fell.
 
 #### Ages 5-7
-But the Lord did not look with favor on Cain and his offering. Cain became very angry, and his face fell.
+But the Lord did not look with favor on Cain and his offering. Cain became very angry, and his face fell low.
 
 #### Ages 8-10
 But the Lord did not look with favor on Cain and his offering. So Cain became very angry, and his face was downcast.
@@ -108,16 +119,39 @@ Keep the image of sin crouching at the door; it helps children picture temptatio
 **Cross-References**:
 - James 1:14-15
 
+<!-- Illustration Prompt -->
+**Scene**: The Lord warning Cain while sin is pictured as danger crouching near a doorway
+**Style**: Symbolic children's Bible illustration, clear but not frightening
+**Characters**: Cain with an angry, downcast face; no visible form for God
+**Setting**: Near a simple doorway or field edge
+**Action**: Cain hears the warning that sin is crouching at the door
+**Emotional Tone**: Urgent, merciful, serious
+**Age Appropriateness**: Show sin symbolically as a shadow or danger, not as a monster
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 4:8
 **Original Reference**: Genesis 4:8 - Cain said to Abel, his brother, "Let's go into the field." While they were in the field, Cain rose up against Abel, his brother, and killed him.
 
 #### Ages 5-7
-Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were in the field, Cain attacked his brother Abel and killed him.
 
 #### Ages 8-10
-Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were in the field, Cain attacked his brother Abel and killed him.
+
+**Translation Notes**:
+Keep the fact of Abel's death clear, but do not add graphic detail. The verse's sorrow is enough.
+
+<!-- Illustration Prompt -->
+**Scene**: Cain leading Abel out into the field before the violence
+**Style**: Somber children's Bible illustration
+**Characters**: Cain and Abel walking into an open field
+**Setting**: A quiet field away from home
+**Action**: Cain leads Abel away; the image should stop before the attack
+**Emotional Tone**: Tense, sad, foreboding
+**Age Appropriateness**: Do not show the killing or injury
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -167,10 +201,10 @@ Now you are cursed from the ground, which opened its mouth to receive your broth
 **Original Reference**: Genesis 4:12 - From now on, when you till the ground, it won't yield its strength to you. You will be a fugitive and a wanderer in the earth."
 
 #### Ages 5-7
-When you work the ground, it will no longer give you its strength. You will wander on the earth without a settled home."
+When you work the ground, it will no longer give you its strength. You will wander over the earth without a settled home."
 
 #### Ages 8-10
-When you work the ground, it will no longer yield its strength to you. You will be a restless wanderer on the earth."
+When you work the ground, it will no longer yield its strength to you. You will be a restless wanderer over the earth."
 
 ---
 
@@ -255,10 +289,10 @@ Lamech married two women. One was named Adah, and the other was named Zillah.
 **Original Reference**: Genesis 4:20 - Adah gave birth to Jabal, who was the father of those who dwell in tents and have livestock.
 
 #### Ages 5-7
-Adah gave birth to Jabal. He was the father of people who live in tents and keep farm animals.
+Adah gave birth to Jabal. He became the father of people who live in tents and keep farm animals.
 
 #### Ages 8-10
-Adah gave birth to Jabal. He was the father of those who live in tents and raise livestock.
+Adah gave birth to Jabal. He became the father of those who live in tents and raise livestock.
 
 ---
 
@@ -266,10 +300,10 @@ Adah gave birth to Jabal. He was the father of those who live in tents and raise
 **Original Reference**: Genesis 4:21 - His brother's name was Jubal, who was the father of all who handle the harp and pipe.
 
 #### Ages 5-7
-His brother was named Jubal. He was the father of people who play musical instruments, like lyres and pipes.
+His brother was named Jubal. He became the father of people who play musical instruments, like lyres and pipes.
 
 #### Ages 8-10
-His brother was named Jubal. He was the father of all who play musical instruments, like the lyre and pipe.
+His brother was named Jubal. He became the father of all who play musical instruments, like the lyre and pipe.
 
 ---
 
@@ -288,10 +322,10 @@ Zillah also gave birth to Tubal-Cain, who forged all kinds of tools from bronze 
 **Original Reference**: Genesis 4:23 - Lamech said to his wives, "Adah and Zillah, hear my voice. You wives of Lamech, listen to my speech, for I have slain a man for wounding me, a young man for bruising me.
 
 #### Ages 5-7
-Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I have killed a man for wounding me, a young man for hurting me.
+Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I killed a man for wounding me, a young man for hurting me.
 
 #### Ages 8-10
-Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I have killed a man for wounding me, a young man for injuring me.
+Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I killed a man for wounding me, a young man for injuring me.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -302,10 +336,16 @@ Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear 
 **Original Reference**: Genesis 4:24 - If Cain will be avenged seven times, truly Lamech seventy-seven times."
 
 #### Ages 5-7
-If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
+If anyone who kills Cain would be paid back seven times, then anyone who hurts Lamech will be paid back seventy-seven times."
 
 #### Ages 8-10
-If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
+If Cain is avenged seven times, then Lamech will be avenged seventy-seven times."
+
+**Translation Notes**:
+Lamech is boasting about revenge. Ages 5-7 uses "paid back" so the meaning is readable without leaving "avenged" unexplained.
+
+**Key Vocabulary**:
+- avenged: Paid back for wrong in judgment or revenge
 
 ---
 
@@ -335,10 +375,20 @@ Calling on the Lord's name points to worship and dependence on God.
 **Cross-References**:
 - Romans 10:13
 
+<!-- Illustration Prompt -->
+**Scene**: Seth's family beginning to call on the name of the Lord
+**Style**: Warm children's Bible illustration with quiet hope
+**Characters**: Seth, Enosh, and family members gathered simply
+**Setting**: Early family settlement outside Eden
+**Action**: People pray and call on the Lord's name
+**Emotional Tone**: Hopeful, humble, worshipful
+**Age Appropriateness**: Gentle and peaceful after the chapter's sorrow
+<!-- End Illustration Prompt -->
+
 ---
 
 ## Chapter Summary
-Cain and Abel brought offerings to the Lord, but Cain became angry when the Lord accepted Abel and not him. God warned Cain that sin was crouching nearby, but Cain killed his brother. The Lord judged Cain and sent him away, yet marked him so others would not kill him. The chapter also traces Cain's family and ends with Seth and Enosh, when people began calling on the Lord's name.
+Cain and Abel brought offerings to the Lord, but Cain became angry when the Lord accepted Abel and his offering. God warned Cain that sin was crouching nearby, but Cain killed his brother in the field. The Lord judged Cain and sent him away, yet marked him so others would not kill him. Cain's family built a city and developed tents, music, and metal tools, but Lamech boasted about revenge. The chapter ends with Seth, Enosh, and people beginning to call on the Lord's name.
 
 ## Key Lessons for Children
 1. **God sees the heart**: The Lord cared about more than the gift; he cared about the person bringing it.
@@ -356,12 +406,14 @@ If you do what is right, will you not be accepted? But if you do not do what is 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What did Cain and Abel bring to the Lord?
+2. What warning did the Lord give Cain about sin?
+3. How did hope appear again at the end of the chapter?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. Why is the picture of sin crouching at the door important?
+2. How did the Lord judge Cain and still protect his life from revenge?
+3. What do Lamech's words show about sin spreading in human life?
 
 ## Prayer
 Lord, help us read Genesis 4 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

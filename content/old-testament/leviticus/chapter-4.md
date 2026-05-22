@@ -1,7 +1,7 @@
 # Leviticus Chapter 4
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives offerings for sins done without knowing it, whether by a priest, the whole community, a leader, or one of the people.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives offerings for sins done without knowing it, whether by a priest, the whole community, a leader, or one of the people.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -41,7 +38,18 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "Speak to the people of Israel, saying, 'If anyone sins unintentionally, in any of the things which the Lord has commanded not to be done, and does any one of them,
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+This chapter is about sins done without knowing it. The wording keeps that idea so children do not think only intentional sin matters before the holy Lord.
+**Cross-References**:
+- Numbers 15:27-28
+<!-- Illustration Prompt -->
+**Scene**: A priest listening as a worshiper brings an offering for sin
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priest and worshiper
+**Setting**: Near the altar at the holy tent
+**Action**: The worshiper comes humbly for atonement
+**Emotional Tone**: Serious, hopeful, merciful
+**Age Appropriateness**: Respectful and non-graphic
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -58,9 +66,6 @@ if the anointed priest sins so as to bring guilt on the people, then let him off
 
 #### Ages 8-10
 if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin he committed a young bull with nothing wrong with it to the Lord for a sin offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -80,9 +85,6 @@ He must bring the bull to the door of the Tent of Meeting before the Lord; and h
 #### Ages 8-10
 He must bring the bull to the door of the Tent of Meeting before the Lord; and he must lay his hand on the head of the bull, and kill the bull before the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -98,9 +100,6 @@ The anointed priest must take some of the blood of the bull, and bring it to the
 #### Ages 8-10
 The anointed priest must take some of the blood of the bull, and bring it to the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -114,9 +113,6 @@ The priest must dip his finger in the blood, and sprinkle some of the blood seve
 
 #### Ages 8-10
 The priest must dip his finger in the blood, and sprinkle some of the blood seven times before the Lord, before the curtain of the holy place.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -134,9 +130,6 @@ The priest must put some of the blood on the horns of the altar of sweet-smellin
 
 #### Ages 8-10
 The priest must put some of the blood on the horns of the altar of sweet-smelling incense before the Lord, which is in the Tent of Meeting; and he must pour out the rest of the blood of the bull at the base of the altar of burned offering, which is at the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -156,9 +149,6 @@ He must take all the fat of the bull of the offering for sin from it: the fat th
 #### Ages 8-10
 He must take all the fat of the bull of the sin offering from it: the fat that covers the inner parts, and all the fat that is on the inner parts,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -174,9 +164,6 @@ and the two kidneys, and the fat that is on them, near the lower back, and the c
 #### Ages 8-10
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must remove,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 4:10
@@ -187,9 +174,6 @@ as it is removed from the bull of the sacrifice of peace offerings. The priest m
 
 #### Ages 8-10
 as it is removed from the bull of the sacrifice of peace offerings. The priest must burn them on the altar of burned offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -208,9 +192,6 @@ He must carry the bull's skin, all its meat, with its head, and with its legs, i
 #### Ages 8-10
 He must carry the bull's skin, all its meat, with its head, and with its legs, its inner parts, and its waste
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 4:12
@@ -222,9 +203,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 -all the rest of the bull-outside of the camp to a clean place where the ashes are poured out, and burn it on wood with fire. It must be burned where the ashes are poured out.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 4:13
@@ -235,9 +213,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If the whole community of Israel sins, and the thing is hidden from the eyes of the gathered people, and they have done any of the things which the Lord has commanded not to be done, and are guilty;
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -255,9 +230,6 @@ when the sin in which they have sinned is known, then the whole group must offer
 #### Ages 8-10
 when the sin in which they have sinned is known, then the gathered people must offer a young bull for a sin offering, and bring it before the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -272,9 +244,6 @@ The elders of the whole group must place their hands on the head of the bull bef
 
 #### Ages 8-10
 The elders of the community must lay their hands on the head of the bull before the Lord; and the bull must be killed before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -291,9 +260,6 @@ The anointed priest must bring some of the blood of the bull to the Tent of Meet
 #### Ages 8-10
 The anointed priest must bring some of the blood of the bull to the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -307,9 +273,6 @@ The priest must dip his finger in the blood and sprinkle it seven times before t
 
 #### Ages 8-10
 The priest must dip his finger in the blood and sprinkle it seven times before the Lord, before the curtain.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -326,9 +289,6 @@ He must put some of the blood on the horns of the altar which is before the Lord
 
 #### Ages 8-10
 He must put some of the blood on the horns of the altar which is before the Lord, that is in the Tent of Meeting; and the rest of the blood he must pour out at the base of the altar of burned offering, which is at the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -347,9 +307,6 @@ All its fat he must take from it, and burn it on the altar.
 #### Ages 8-10
 All its fat he must take from it, and burn it on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -363,9 +320,6 @@ Thus must he do with the bull; as he did with the bull of the offering for sin, 
 
 #### Ages 8-10
 Thus must he do with the bull; as he did with the bull of the sin offering, so must he do with this; and the priest must make atonement for them, and they will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -385,9 +339,6 @@ He must carry the bull outside the camp, and burn it as he burned the first bull
 #### Ages 8-10
 He must carry the bull outside the camp, and burn it as he burned the first bull. It is the sin offering for the gathered people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -402,9 +353,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When a ruler sins, and without knowing it does any one of all the things which the Lord his God has commanded not to be done, and is guilty,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -422,9 +370,6 @@ if his sin in which he has sinned is made known to him, he must bring as his off
 #### Ages 8-10
 if his sin in which he has sinned is made known to him, he must bring as his offering a goat, a male with nothing wrong with it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -439,9 +384,6 @@ He must place his hand on the head of the goat, and kill it in the place where t
 
 #### Ages 8-10
 He must lay his hand on the head of the goat, and kill it in the place where they kill the burned offering before the Lord. It is a sin offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -460,9 +402,6 @@ The priest must take some of the blood of the offering for sin with his finger, 
 #### Ages 8-10
 The priest must take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burned offering. He must pour out the rest of its blood at the base of the altar of burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -479,9 +418,6 @@ All its fat he must burn on the altar, like the fat of the sacrifice of peace of
 
 #### Ages 8-10
 All its fat he must burn on the altar, like the fat of the sacrifice of peace offerings; and the priest must make atonement for him concerning his sin, and he will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -501,9 +437,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If anyone of the common people sins without knowing it, in doing any of the things which the Lord has commanded not to be done, and is guilty,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -518,9 +451,6 @@ if his sin he committed is made known to him, then he must bring for his offerin
 
 #### Ages 8-10
 if his sin he committed is made known to him, then he must bring for his offering a goat, a female with nothing wrong with it, for his sin he committed.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -537,9 +467,6 @@ He must place his hand on the head of the offering for sin, and kill the offerin
 #### Ages 8-10
 He must lay his hand on the head of the sin offering, and kill the sin offering in the place of burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -554,9 +481,6 @@ The priest must take some of its blood with his finger, and put it on the horns 
 
 #### Ages 8-10
 The priest must take some of its blood with his finger, and put it on the horns of the altar of burned offering; and the rest of its blood he must pour out at the base of the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -573,9 +497,6 @@ All its fat he must take away, like the fat is taken away from the sacrifice of 
 
 #### Ages 8-10
 All its fat he must take away, like the fat is taken away from the sacrifice of peace offerings; and the priest must burn it on the altar for a pleasant aroma to the Lord; and the priest must make atonement for him, and he will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -595,9 +516,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If he brings a lamb as his offering for a sin offering, he must bring a female with nothing wrong with it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -613,9 +531,6 @@ He must place his hand on the head of the offering for sin, and kill it for an o
 #### Ages 8-10
 He must lay his hand on the head of the sin offering, and kill it for a sin offering in the place where they kill the burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -630,9 +545,6 @@ The priest must take some of the blood of the offering for sin with his finger, 
 
 #### Ages 8-10
 The priest must take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burned offering; and all the rest of its blood he must pour out at the base of the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -650,9 +562,6 @@ He must remove all its fat, like the fat of the lamb is removed from the sacrifi
 
 #### Ages 8-10
 He must remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest must burn them on the altar, on the offerings burned for the Lord. The priest must make atonement for him concerning his sin, and he will be forgiven.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -681,12 +590,11 @@ if the anointed priest sins so as to bring guilt on the people, then let him off
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 4 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -1,7 +1,7 @@
 # Leviticus Chapter 20
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives serious warnings and judgments against idolatry, forbidden family sins, and practices that defile the land.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives serious warnings and judgments against idolatry, forbidden family sins, and practices that defile the land.
 
 ## Important Keywords
 - cursed: Placed under judgment instead of blessing
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Moreover, you must tell the people of Israel, 'Any one of the people of Israel, or of the foreigners who live in Israel, who gives any of his children to Molech must surely be put to death. The people of the land must stone that person with stones.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -56,9 +50,6 @@ I also will set my face against that person, and will remove him from among his 
 
 #### Ages 8-10
 I also will set my face against that person, and will remove him from among his people, because he has given of his children to Molech, to make my holy place unclean, and to dishonor my holy name.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -74,9 +65,6 @@ If the people of the land all hide their eyes from that person when he gives of 
 #### Ages 8-10
 If the people of the land all hide their eyes from that person when he gives of his children to Molech, and don't put him to death,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:5
@@ -87,9 +75,6 @@ then I will set my face against that man and against his family, and will remove
 
 #### Ages 8-10
 then I will set my face against that man and against his family, and will remove him, and all who follow him in being unfaithful with Molech, from among their people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -102,9 +87,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "The person that turns to those who are mediums and wizards, to be unfaithful by following them, I will even set my face against that person, and will remove him from among his people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:7
@@ -115,9 +97,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Keep yourselves holy, and be holy; for I am the Lord your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -136,9 +115,6 @@ You must keep my rules, and do them. I am the Lord who makes holy you.
 #### Ages 8-10
 You must keep my rules, and do them. I am the Lord who makes holy you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -155,9 +131,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "For everyone who curses his father or his mother must surely be put to death. He has cursed his father or his mother. He is responsible for his own death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - cursed: Placed under judgment instead of blessing
 
@@ -172,9 +145,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "The man who commits adultery with another man's wife, even whoever commits adultery with his neighbor's wife, the adulterer and the adulteress must surely be put to death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:11
@@ -186,9 +156,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "The man who has sexual relations with his father's wife has dishonored his father. Both of them must surely be put to death. They are responsible for their own death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:12
@@ -199,9 +166,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man has sexual relations with his daughter-in-law, both of them must surely be put to death. They have committed a perversion. They are responsible for their own death.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -217,9 +181,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man has sexual relations with a male, as with a woman, both of them have committed a hateful thing. They must surely be put to death. They are responsible for their own death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:14
@@ -230,9 +191,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man takes a wife and her mother, it is wickedness. They must be burned with fire, both he and they, that there may be no wickedness among you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -245,9 +203,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man has sexual relations with an animal, he must surely be put to death; and you must kill the animal.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:16
@@ -259,9 +214,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a woman approaches any animal and has sexual relations with it, you must kill the woman and the animal. They must surely be put to death. They are responsible for their own death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:17
@@ -272,9 +224,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man takes his sister-his father's daughter, or his mother's daughter-and has sexual relations with her, it is a shameful thing. They must be removed in the sight of their people. He has had sexual relations with his sister. He carries his guilt.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -290,9 +239,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man has sexual relations with a woman having her monthly period, and has sexual relations with her, they have wrongly exposed her monthly bleeding. Both of them must be removed from among their people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:19
@@ -303,9 +249,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with your mother's sister or your father's sister. This would dishonor a close relative. They carry their guilt.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -320,9 +263,6 @@ If a man acts as only a husband and wife should with his uncle's wife, he has di
 
 #### Ages 8-10
 If a man has sexual relations with his uncle's wife, he has dishonored his uncle. They carry their guilt. They must die childless.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -339,9 +279,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a man takes his brother's wife, it is an impurity. He has dishonored his brother. They must be childless.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:22
@@ -352,9 +289,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must therefore keep all my rules and all my commands, and do them, that the land where I am bringing you to live may not vomit you out.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -367,9 +301,6 @@ You must not walk in the customs of the nation which I am casting out before you
 #### Ages 8-10
 You must not walk in the customs of the nation which I am casting out before you; for they did all these things, and therefore I rejected them.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:24
@@ -380,9 +311,6 @@ But I have said to you, "You must inherit their land, and I will give it to you 
 
 #### Ages 8-10
 But I have said to you, "You must inherit their land, and I will give it to you to possess it, a land flowing with milk and honey." I am the Lord your God, who has separated you from the peoples.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -400,9 +328,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must therefore know the difference between clean animals and unclean animals, and between unclean birds and clean birds. You must not make yourselves detestable by eating any animal, bird, or crawling thing that I have separated from you as unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 20:26
@@ -415,7 +340,18 @@ You will be holy to me, for I, the Lord, am holy, and have set you apart from th
 You will be holy to me, for I, the Lord, am holy, and have set you apart from the peoples, that you should be mine.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+This chapter contains severe judgments. The resource summary and questions should keep the seriousness without making the details graphic for children.
+**Cross-References**:
+- Leviticus 19:2
+<!-- Illustration Prompt -->
+**Scene**: Israel gathered to hear the Lord's call to be holy and separate from evil practices
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Moses, elders, gathered families
+**Setting**: Israelite camp
+**Action**: The people listen to solemn covenant warnings
+**Emotional Tone**: Sober, holy, attentive
+**Age Appropriateness**: No punishment scene shown
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -432,9 +368,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "A man or a woman that is a medium or is a wizard must surely be put to death. They must be stoned with stones. They are responsible for their own death.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -456,12 +389,11 @@ then I will set my face against that man and against his family, and will remove
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

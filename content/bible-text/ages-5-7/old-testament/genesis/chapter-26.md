@@ -21,7 +21,7 @@ The Lord appeared to Isaac and said, "Do not go down into Egypt. Stay in the lan
 "I will make your children after you as many as the stars of the sky. I will give them all these countries, and through your family all the nations of the earth will be blessed."
 
 ### Genesis 26:5
-God said he would do this because Abraham had listened to his voice and had kept what God commanded, taught, and required.
+God said he would do this because Abraham had listened to his voice and had kept God's commands, instructions, and laws.
 
 ### Genesis 26:6
 So Isaac stayed in Gerar.
@@ -30,7 +30,7 @@ So Isaac stayed in Gerar.
 When the men of that place asked about Rebekah, Isaac said, "She is my sister." He was afraid to say, "She is my wife," because Rebekah was beautiful, and he thought the men might kill him because of her.
 
 ### Genesis 26:8
-After Isaac had lived there a long time, Abimelek king of the Philistines looked out of a window and saw Isaac showing loving closeness with Rebekah his wife.
+After Isaac had lived there a long time, Abimelek king of the Philistines looked out of a window and saw Isaac showing special affection to Rebekah his wife.
 
 ### Genesis 26:9
 Abimelek called Isaac and said, "Surely she is your wife. Why did you say, 'She is my sister'?" Isaac answered, "Because I thought I might die because of her."

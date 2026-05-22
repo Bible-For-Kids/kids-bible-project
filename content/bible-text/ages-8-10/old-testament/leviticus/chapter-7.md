@@ -42,10 +42,10 @@ Every grain offering, mixed with oil or dry, belongs to all the sons of Aaron, o
 "This is the law of the sacrifice of peace offerings, which one must offer to the Lord:
 
 ### Leviticus 7:12
-If he offers it for a thanksgiving, then he must offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil.
+If he offers it for thanksgiving, then with the thanksgiving sacrifice he must bring cakes made without yeast mixed with oil, wafers made without yeast spread with oil, and cakes mixed with oil.
 
 ### Leviticus 7:13
-He must offer his offering with the sacrifice of his peace offerings for thanksgiving with cakes of leavened bread.
+With his thanksgiving peace offering, he must also bring cakes of bread made with yeast.
 
 ### Leviticus 7:14
 Of it he must offer one out of each offering for a special offering to the Lord. It must be the priest's who sprinkles the blood of the peace offerings.

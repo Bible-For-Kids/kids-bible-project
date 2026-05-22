@@ -21,7 +21,7 @@ Exodus
 "Bring Aaron and his sons to the entrance of the tent of meeting, and wash them with water."
 
 ### Exodus 29:5
-"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the breastplate. Fasten the priestly vest on him with its woven waistband."
+"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the chest piece. Fasten the priestly vest on him with its woven waistband."
 
 ### Exodus 29:6
 "Put the head wrap on his head, and put the holy crown on the head wrap."

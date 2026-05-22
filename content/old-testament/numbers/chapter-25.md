@@ -1,7 +1,7 @@
 # Numbers Chapter 25
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel sins at Baal Peor through idolatry and sexual unfaithfulness, and the Lord sends judgment.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Israel sins at Baal Peor through idolatry and sexual unfaithfulness, and the Lord sends judgment.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Israel stayed at Shittim, and the people began to act as only husbands and wives
 #### Ages 8-10
 Israel stayed at Shittim, and the people began to sin sexually with the daughters of Moab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - sin: Disobeying God and going against his good way
@@ -39,9 +36,6 @@ The Moabite women invited the people to the sacrifices for their gods. The peopl
 #### Ages 8-10
 The Moabite women invited the people to the sacrifices for their gods. The people ate and bowed down to those gods.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 25:3
@@ -52,9 +46,6 @@ Israel joined himself to Baal Peor, and the Lord's anger burned against Israel.
 
 #### Ages 8-10
 Israel joined himself to Baal Peor, and the Lord's anger burned against Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -71,9 +62,6 @@ The Lord said to Moses, "Take all the chiefs of the people who joined this sin, 
 
 #### Ages 8-10
 The Lord said to Moses, "Take all the chiefs of the people who joined this sin, and put them to death before the Lord in the open sunlight, so the fierce anger of the Lord may turn away from Israel."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -92,9 +80,6 @@ Moses said to the judges of Israel, "Each of you must put to death the men under
 #### Ages 8-10
 Moses said to the judges of Israel, "Each of you must put to death the men under you who joined themselves to Baal Peor."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
@@ -109,9 +94,6 @@ One of the people of Israel came and brought to his brothers a Midianite woman i
 
 #### Ages 8-10
 One of the people of Israel came and brought to his brothers a Midianite woman in the sight of Moses, and in the sight of all the community of the people of Israel, while they were weeping at the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -128,9 +110,6 @@ When Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose 
 #### Ages 8-10
 When Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from the middle of the community, and took a spear in his hand.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - priest: A worship leader who served at the holy place
@@ -146,9 +125,6 @@ He followed the Israelite man into the tent and put both the man and the woman t
 #### Ages 8-10
 He followed the Israelite man into the tent and put both the man and the woman to death there. Then the plague stopped among the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -163,9 +139,6 @@ Those who died by the terrible sickness were twenty-four thousand.
 #### Ages 8-10
 Those who died by the terrible sickness were twenty-four thousand.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 25:10
@@ -176,9 +149,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -195,9 +165,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Phinehas, son of Eleazar and grandson of Aaron the priest, has turned my wrath away from the people of Israel. He was zealous for my honor among them, so I did not destroy the people of Israel in my jealousy.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -216,8 +183,17 @@ Therefore say, 'I give to him my covenant of peace.
 Therefore say, 'I give to him my covenant of peace.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Israel sins at Baal Peor through idolatry and sexual unfaithfulness, and the Lord sends judgment. Phinehas acts with zeal for the Lord's honor, the terrible sickness stops, and God gives him a covenant of peace.
 
+<!-- Illustration Prompt -->
+**Scene**: Phinehas receiving the Lord's covenant of peace after the plague stops
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 25 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Phinehas receiving the Lord's covenant of peace after the plague stops
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
 
@@ -231,9 +207,6 @@ It will be for him, and for his children after him, the covenant of an everlasti
 
 #### Ages 8-10
 It will be for him, and for his children after him, the covenant of an everlasting priesthood, because he was jealous for his God, and made atonement for the people of Israel.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -252,9 +225,6 @@ Now the name of the man of Israel who was killed with the Midianite woman, was Z
 #### Ages 8-10
 Now the name of the man of Israel who was killed with the Midianite woman, was Zimri, the son of Salu, a prince of a family group among the Simeonites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -269,9 +239,6 @@ The name of the Midianite woman who was killed was Cozbi, the daughter of Zur. H
 #### Ages 8-10
 The name of the Midianite woman who was killed was Cozbi, the daughter of Zur. He was head of the people of a family group in Midian.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 25:16
@@ -282,9 +249,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -302,9 +266,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Treat the Midianites as enemies and strike them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 25:18
@@ -315,9 +276,6 @@ They treated you as enemies with their tricks. They deceived you in the matter o
 
 #### Ages 8-10
 They treated you as enemies with their tricks. They deceived you in the matter of Peor and in the matter of Cozbi, the daughter of a Midianite leader, their sister, who was killed on the day of the plague at Peor."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -339,12 +297,11 @@ The Moabite women invited the people to the sacrifices for their gods. The peopl
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Idolatry destroys faithfulness?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Idolatry destroys faithfulness"?
+2. How does this chapter also help explain "God is jealous for his honor"?
 ## Prayer
 Lord, help us understand Numbers 25 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -153,7 +153,7 @@ Joseph does not excuse the brothers' sin, but he sees God's saving purpose over 
 **Original Reference**: Genesis 45:12 - Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you.
 
 #### Ages 5-7
-"Your eyes see, and the eyes of my brother Benjamin see, that it is my mouth speaking to you.
+"You see with your own eyes, and my brother Benjamin sees, that I am the one speaking to you.
 
 #### Ages 8-10
 "Your eyes see, and the eyes of my brother Benjamin see, that it is my mouth speaking to you.

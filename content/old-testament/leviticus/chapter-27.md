@@ -1,7 +1,7 @@
 # Leviticus Chapter 27
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions about special promises, dedicated people, animals, houses, fields, and tithes.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives instructions about special promises, dedicated people, animals, houses, fields, and tithes.
 
 ## Important Keywords
 - holy: Set apart for God
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -41,7 +38,18 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "Speak to the people of Israel, and say to them, 'When a man sets apart a person to the Lord in a vow, according to your valuation,
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+Special promises to the Lord are treated as serious. The wording keeps the idea of valuation without leaving children with unexplained ancient money terms.
+**Cross-References**:
+- Numbers 30:2
+<!-- Illustration Prompt -->
+**Scene**: An Israelite bringing a special promised gift to the priest
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Worshiper and priest
+**Setting**: Entrance of the Tent of Meeting
+**Action**: The worshiper honors a promise made to the Lord
+**Emotional Tone**: Sincere, careful, holy
+**Age Appropriateness**: Peaceful offering scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -59,9 +67,6 @@ your valuation of a male from twenty years old to sixty years old must be fifty 
 #### Ages 8-10
 your valuation of a male from twenty years old to sixty years old must be fifty silver pieces, by the weight used at the holy place.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -76,9 +81,6 @@ If she is a female, then your valuation must be thirty silver pieces.
 #### Ages 8-10
 If she is a female, then your valuation must be thirty silver pieces.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:5
@@ -89,9 +91,6 @@ If the person is from five years old to twenty years old, then your valuation mu
 
 #### Ages 8-10
 If the person is from five years old to twenty years old, then your valuation must be for a male twenty silver pieces, and for a female ten silver pieces.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -104,9 +103,6 @@ If the person is from a month old to five years old, then your valuation must be
 #### Ages 8-10
 If the person is from a month old to five years old, then your valuation must be for a male five silver pieces, and for a female your valuation must be three silver pieces.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:7
@@ -118,9 +114,6 @@ If the person is from sixty years old and upward; if he is a male, then your val
 #### Ages 8-10
 If the person is from sixty years old and upward; if he is a male, then your valuation must be fifteen silver pieces, and for a female ten silver pieces.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:8
@@ -131,9 +124,6 @@ But if he is poorer than your valuation, then he must be set before the priest, 
 
 #### Ages 8-10
 But if he is poorer than your valuation, then he must be set before the priest, and the priest must assign a value to him. The priest must assign a value according to his ability to pay.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -148,9 +138,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If it is an animal of which men offer an offering to the Lord, all that any man gives of such to the Lord becomes holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -169,9 +156,6 @@ He must not alter it, nor exchange it, a good for a bad, or a bad for a good. If
 #### Ages 8-10
 He must not alter it, nor exchange it, a good for a bad, or a bad for a good. If he must at all exchange animal for animal, then both it and that for which it is exchanged will be holy.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -185,9 +169,6 @@ If it is any animal not clean for worship, of which they do not offer as an offe
 
 #### Ages 8-10
 If it is any unclean animal, of which they do not offer as an offering to the Lord, then he must set the animal before the priest;
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -206,9 +187,6 @@ and the priest must evaluate it, whether it is good or bad. As the priest evalua
 #### Ages 8-10
 and the priest must evaluate it, whether it is good or bad. As the priest evaluates it, so it must be.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -223,9 +201,6 @@ But if he will indeed redeem it, then he must add one fifth more of it to its va
 #### Ages 8-10
 But if he will indeed redeem it, then he must add one fifth more of it to its valuation.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:14
@@ -236,9 +211,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When a man dedicates his house to be holy to the Lord, then the priest must evaluate it, whether it is good or bad. As the priest evaluates it, so it must stand.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -257,9 +229,6 @@ If whoever dedicates it will redeem his house, then he must add one fifth more o
 #### Ages 8-10
 If whoever dedicates it will redeem his house, then he must add one fifth more of the money of your valuation to it, and it must be his.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:16
@@ -270,9 +239,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man dedicates to the Lord part of the field of his possession, then your valuation must be according to the seed for it. The sowing of a large measure of barley must be valued at fifty silver pieces.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -289,9 +255,6 @@ If he dedicates his field from the Year of Jubilee, according to your valuation 
 #### Ages 8-10
 If he dedicates his field from the Year of Jubilee, according to your valuation it must stand.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:18
@@ -302,9 +265,6 @@ But if he dedicates his field after the Jubilee, then the priest must count to h
 
 #### Ages 8-10
 But if he dedicates his field after the Jubilee, then the priest must count to him the money according to the years that remain to the Year of Jubilee; and an abatement must be made from your valuation.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -320,9 +280,6 @@ If whoever dedicated the field will indeed redeem it, then he must add one fifth
 #### Ages 8-10
 If whoever dedicated the field will indeed redeem it, then he must add one fifth more of the money of your valuation to it, and it must remain his.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:20
@@ -334,9 +291,6 @@ If he will not redeem the field, or if he has sold the field to another man, it 
 #### Ages 8-10
 If he will not redeem the field, or if he has sold the field to another man, it must not be redeemed any more;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:21
@@ -347,9 +301,6 @@ but the field, when it goes out in the Jubilee, will be holy to the Lord, as a d
 
 #### Ages 8-10
 but the field, when it goes out in the Jubilee, will be holy to the Lord, as a devoted field. It must be owned by the priests.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -367,9 +318,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If he dedicates a field to the Lord which he has bought, which is not of the field of his possession,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -384,9 +332,6 @@ then the priest must count to him the worth of your valuation up to the Year of 
 
 #### Ages 8-10
 then the priest must count to him the worth of your valuation up to the Year of Jubilee; and he must give your valuation on that day, as a holy thing to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -405,9 +350,6 @@ In the Year of Jubilee the field must return to him from whom it was bought, eve
 #### Ages 8-10
 In the Year of Jubilee the field must return to him from whom it was bought, even to him to whom the possession of the land belongs.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:25
@@ -418,9 +360,6 @@ All your valuations must be by the weight used at the holy place: twenty small w
 
 #### Ages 8-10
 All your valuations must be by the weight used at the holy place: twenty small weight units to the silver piece.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -435,9 +374,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "However the firstborn among animals, which belongs to the Lord as a firstborn, no man may dedicate, whether an ox or a sheep. It is the Lord's.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -454,9 +390,6 @@ If it is an animal not clean for worship, then he must buy it back according to 
 #### Ages 8-10
 If it is an unclean animal, then he must buy it back according to your valuation, and must add to it one fifth more of it; or if it isn't redeemed, then it must be sold according to your valuation.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:28
@@ -467,9 +400,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Notwithstanding, no devoted thing that a man devotes to the Lord of all that he has, whether of man or animal, or of the field of his possession, must be sold or redeemed. Everything that is permanently devoted is most holy to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -487,9 +417,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "No one devoted to destruction, who must be devoted from among men, must be ransomed. He must surely be put to death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:30
@@ -500,9 +427,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is the Lord's. It is holy to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -520,9 +444,6 @@ If a man redeems anything of his tithe, he must add one fifth more to it.
 #### Ages 8-10
 If a man redeems anything of his tithe, he must add one fifth more to it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 27:32
@@ -533,9 +454,6 @@ All the tithe of the herds or the flocks, whatever passes under the rod, the ten
 
 #### Ages 8-10
 All the tithe of the herds or the flocks, whatever passes under the rod, the tenth will be holy to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -553,9 +471,6 @@ He must not examine whether it is good or bad, neither must he exchange it. If h
 #### Ages 8-10
 He must not examine whether it is good or bad, neither must he exchange it. If he exchanges it at all, then both it and that for which it is exchanged will be holy. It must not be redeemed.' "
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -569,9 +484,6 @@ These are the commands which the Lord commanded Moses for the people of Israel o
 
 #### Ages 8-10
 These are the commands which the Lord commanded Moses for the people of Israel on Mount Sinai.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -599,12 +511,11 @@ your valuation of a male from twenty years old to sixty years old must be fifty 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 27 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -167,10 +167,10 @@ Then Judah said to Tamar his daughter-in-law, "Remain a widow in your father's h
 **Original Reference**: Genesis 38:12 - After many days, Shua's daughter, the wife of Judah, died. Judah was comforted, and went up to his sheep shearers to Timnah, he and his friend Hirah, the Adullamite.
 
 #### Ages 5-7
-After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted after his sadness, he went up to Timnath to the men who were cutting the wool from his sheep, with his friend Hirah the Adullamite.
+After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted after his sadness, he went up to Timnah to the men who were cutting the wool from his sheep, with his friend Hirah the Adullamite.
 
 #### Ages 8-10
-After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted, he went up to the men cutting the wool from his sheep at Timnath with his friend Hirah the Adullamite.
+After a long time, Judah's wife, the daughter of Shuah, died. When Judah was comforted, he went up to the men cutting the wool from his sheep at Timnah with his friend Hirah the Adullamite.
 
 **Key Vocabulary**:
 - Judah: Jacob's son whose family line receives an important ruler promise
@@ -181,10 +181,10 @@ After a long time, Judah's wife, the daughter of Shuah, died. When Judah was com
 **Original Reference**: Genesis 38:13 - Tamar was told, "Behold, your father-in-law is going up to Timnah to shear his sheep."
 
 #### Ages 5-7
-Someone told Tamar, "Look, your father-in-law is going up to Timnath to cut the wool from his sheep."
+Someone told Tamar, "Look, your father-in-law is going up to Timnah to cut the wool from his sheep."
 
 #### Ages 8-10
-Tamar was told, "Your father-in-law is going up to Timnath to cut the wool from his sheep."
+Tamar was told, "Your father-in-law is going up to Timnah to cut the wool from his sheep."
 
 **Key Vocabulary**:
 - Tamar: The woman in Judah's family story through whom Perez was born
@@ -195,10 +195,10 @@ Tamar was told, "Your father-in-law is going up to Timnath to cut the wool from 
 **Original Reference**: Genesis 38:14 - She took off the garments of her widowhood, and covered herself with her veil, and wrapped herself, and sat in the gate of Enaim, which is on the way to Timnah; for she saw that Shelah was grown up, and she wasn't given to him as a wife.
 
 #### Ages 5-7
-Tamar took off her widow's clothes, covered herself with a veil, wrapped herself, and sat in an open place by the road to Timnath. She saw that Shelah had grown up, but she had not been given to him as his wife.
+Tamar took off her widow's clothes, covered herself with a veil, wrapped herself, and sat at the gate of Enaim, beside the road to Timnah. She saw that Shelah had grown up, but she had not been given to him as his wife.
 
 #### Ages 8-10
-She took off her widow's clothes, covered herself with a veil, wrapped herself, and sat in an open place by the road to Timnath. She saw that Shelah had grown up, but she had not been given to him as his wife.
+She took off her widow's clothes, covered herself with a veil, wrapped herself, and sat at the gate of Enaim, beside the road to Timnah. She saw that Shelah had grown up, but she had not been given to him as his wife.
 
 **Key Vocabulary**:
 - Tamar: The woman in Judah's family story through whom Perez was born
@@ -290,10 +290,10 @@ Judah sent the young goat by his friend the Adullamite to receive his things bac
 **Original Reference**: Genesis 38:21 - Then he asked the men of her place, saying, "Where is the prostitute, that was at Enaim by the road?" They said, "There has been no prostitute here."
 
 #### Ages 5-7
-Hirah asked the men of that place, "Where is the woman who took payment by the roadside?" They said, "There was no such woman in this place."
+Hirah asked the men of that place, "Where is the woman who took payment at Enaim by the road?" They said, "There was no such woman in this place."
 
 #### Ages 8-10
-Hirah asked the men of that place, "Where is the woman who took payment by the roadside?" They said, "There was no such woman in this place."
+Hirah asked the men of that place, "Where is the woman who took payment at Enaim by the road?" They said, "There was no such woman in this place."
 
 ---
 

@@ -63,7 +63,7 @@ But you must not eat meat that still has its lifeblood in it.
 **Original Reference**: Genesis 9:5 - I will surely require accounting for your life's blood. At the hand of every animal I will require it. At the hand of man, even at the hand of every man's brother, I will require the life of man.
 
 #### Ages 5-7
-For your life-blood, I will call anyone to answer for taking human life. I will require it from every animal and from every human being.
+For your life-blood, I will call anyone to answer for taking human life. I will require an answer from every animal and from every human being.
 
 #### Ages 8-10
 For your lifeblood, I will require an answer. I will call every animal and every human being to answer for taking human life.
@@ -87,6 +87,7 @@ Keep the image of God as the reason human life must not be murdered.
 
 **Key Vocabulary**:
 - blood: A word often connected with life in Genesis
+- image of God: The special way God made human beings to represent him
 
 **Cross-References**:
 - Genesis 1:26-27
@@ -102,6 +103,16 @@ As for you, have children and grow in number. Spread out over the earth and beco
 
 #### Ages 8-10
 As for you, be fruitful and increase in number. Multiply on the earth and become many."
+
+<!-- Illustration Prompt -->
+**Scene**: God blessing Noah's family and teaching that human life is precious
+**Style**: Reverent children's Bible illustration with a broad, hopeful landscape
+**Characters**: Noah, his sons, and their families; no visible human form for God
+**Setting**: Dry earth after the flood, with open space ahead
+**Action**: Noah's family stands together as God's blessing and commands are spoken
+**Emotional Tone**: New beginning, responsibility, dignity
+**Age Appropriateness**: Do not illustrate bloodshed; focus on the value of life
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -134,7 +145,7 @@ Then God said to Noah and to his sons with him,
 **Original Reference**: Genesis 9:10 - and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, of all that go out of the ship, even every animal of the earth.
 
 #### Ages 5-7
-I also make it with every living creature with you: the birds, the farm animals, and all the wild animals, every creature that came out of the ark.
+I also make it with every living creature with you: the birds, the farm animals, and all the wild animals, every creature that came out of the ark with you.
 
 #### Ages 8-10
 I also establish it with every living creature that was with you: the birds, the livestock, and all the wild animals, every creature that came out of the ark.
@@ -187,6 +198,16 @@ The rainbow is God's covenant sign, not a magical object.
 
 **Cross-References**:
 - Ezekiel 1:28
+
+<!-- Illustration Prompt -->
+**Scene**: The rainbow in the clouds as God's covenant sign
+**Style**: Bright, majestic children's Bible landscape with real sky and clouds
+**Characters**: Noah's family looking up in wonder; living creatures nearby
+**Setting**: Open earth after rain, with the rainbow stretching across the sky
+**Action**: The covenant sign appears in the clouds
+**Emotional Tone**: Wonder, relief, promise, peace
+**Age Appropriateness**: Hopeful and safe, with no flood danger shown
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -276,7 +297,7 @@ These three were Noah's sons, and from them the whole earth was populated.
 **Original Reference**: Genesis 9:20 - Noah began to be a farmer, and planted a vineyard.
 
 #### Ages 5-7
-Noah began to work the soil, and he planted a vineyard.
+Noah began to work the soil, and he planted a vineyard, a field of grapevines.
 
 #### Ages 8-10
 Noah began to work the soil and planted a vineyard.
@@ -291,6 +312,9 @@ Noah drank some of the wine and became drunk. He lay inside his tent with no cov
 
 #### Ages 8-10
 When he drank some of its wine, he became drunk and lay uncovered inside his tent.
+
+**Translation Notes**:
+Keep this scene modest and sober. The verse shows Noah's shame after drunkenness, not a moment to make humorous or visually explicit.
 
 ---
 
@@ -309,10 +333,23 @@ Ham, the father of Canaan, saw his father uncovered and told his two brothers ou
 **Original Reference**: Genesis 9:23 - Shem and Japheth took a garment, and laid it on both their shoulders, went in backwards, and covered the nakedness of their father. Their faces were backwards, and they didn't see their father's nakedness.
 
 #### Ages 5-7
-Shem and Japheth took a piece of clothing and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not see him uncovered.
+Shem and Japheth took a piece of clothing and laid it across their shoulders. They walked backward and covered their father. Their faces were turned away, so they did not look at him uncovered.
 
 #### Ages 8-10
 But Shem and Japheth took a garment, laid it across their shoulders, walked backward, and covered their father. Their faces were turned away, so they did not see him uncovered.
+
+**Translation Notes**:
+Shem and Japheth honor their father by covering him without looking. Illustrations should show their care and restraint without showing Noah uncovered.
+
+<!-- Illustration Prompt -->
+**Scene**: Shem and Japheth respectfully covering Noah
+**Style**: Quiet, modest children's Bible illustration
+**Characters**: Shem and Japheth carrying a garment backward; Ham outside the tent may be shown at a distance
+**Setting**: The outside and doorway of Noah's tent
+**Action**: The brothers cover their father while keeping their faces turned away
+**Emotional Tone**: Sobriety, honor, family sadness
+**Age Appropriateness**: No nudity, no exposed body, no comedic tone
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -359,7 +396,7 @@ He also said, "Praise be to the Lord, the God of Shem. Let Canaan be Shem's serv
 **Original Reference**: Genesis 9:27 - May God enlarge Japheth. Let him dwell in the tents of Shem. Let Canaan be his servant."
 
 #### Ages 5-7
-May God give Japheth more room. May Japheth live in the tents of Shem, and may Canaan be Japheth's servant."
+May God give Japheth more room. May Japheth live in the tents of Shem, and may Canaan be his servant."
 
 #### Ages 8-10
 May God extend Japheth's territory. May Japheth live in the tents of Shem, and may Canaan be Japheth's servant."
@@ -407,12 +444,14 @@ I have set my rainbow in the clouds. When its colors stretch across the sky, it 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What sign did God put in the clouds?
+2. What did God promise about floodwaters?
+3. How did Shem and Japheth show care for their father?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. Why does Genesis 9:6 say human life is precious?
+2. Who is included in God's covenant promise?
+3. Why should Noah's family failure be read carefully and modestly?
 
 ## Prayer
-Lord, help us read Genesis 9 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, thank you for valuing every life made in your image and for giving the rainbow as a sign of your covenant. Help us honor you, honor others, and trust your promises. Amen.

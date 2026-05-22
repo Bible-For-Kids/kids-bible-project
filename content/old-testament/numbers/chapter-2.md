@@ -1,7 +1,7 @@
 # Numbers Chapter 2
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord arranges Israel's camp around the Tent of Meeting, with each tribe under its banner and in its appointed place.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord arranges Israel's camp around the Tent of Meeting, with each tribe under its banner and in its appointed place.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "The people of Israel must camp every man by his own banner, with the banners of their family groups. They must camp around the Tent of Meeting at a distance from it."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -58,9 +52,6 @@ Those who camp on the east side toward the sunrise must be of the banner of the 
 #### Ages 8-10
 Those who camp on the east side toward the sunrise must be of the banner of the camp of Judah, according to their divisions. The leader of the descendants of Judah must be Nahshon the son of Amminadab.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:4
@@ -71,9 +62,6 @@ His group, and those counted from them, were seventy-four thousand six hundred.
 
 #### Ages 8-10
 His division, and those counted from them, were seventy-four thousand six hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -86,9 +74,6 @@ Those who camp next to him must be the tribe of Issachar. The leader of the desc
 #### Ages 8-10
 Those who camp next to him must be the tribe of Issachar. The leader of the descendants of Issachar must be Nethanel the son of Zuar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:6
@@ -99,9 +84,6 @@ His group, and those counted from them, were fifty-four thousand four hundred.
 
 #### Ages 8-10
 His division, and those counted from them, were fifty-four thousand four hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -114,9 +96,6 @@ The tribe of Zebulun: the leader of the descendants of Zebulun must be Eliab the
 #### Ages 8-10
 The tribe of Zebulun: the leader of the descendants of Zebulun must be Eliab the son of Helon.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:8
@@ -127,9 +106,6 @@ His group, and those counted from them, were fifty-seven thousand four hundred.
 
 #### Ages 8-10
 His division, and those counted from them, were fifty-seven thousand four hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -142,9 +118,6 @@ All who were counted from the camp of Judah were one hundred eighty-six thousand
 #### Ages 8-10
 All who were counted from the camp of Judah were one hundred eighty-six thousand four hundred, according to their divisions. They must set out first.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:10
@@ -155,9 +128,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "On the south side must be the banner of the camp of Reuben according to their divisions. The leader of the descendants of Reuben must be Elizur the son of Shedeur.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -170,9 +140,6 @@ His group, and those counted from them, were forty-six thousand five hundred.
 #### Ages 8-10
 His division, and those counted from them, were forty-six thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:12
@@ -183,9 +150,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Those who camp next to him must be the tribe of Simeon. The leader of the descendants of Simeon must be Shelumiel the son of Zurishaddai.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -198,9 +162,6 @@ His group, and those counted from them, were fifty-nine thousand three hundred.
 #### Ages 8-10
 His division, and those counted from them, were fifty-nine thousand three hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:14
@@ -211,9 +172,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The tribe of Gad: the leader of the descendants of Gad must be Eliasaph the son of Reuel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -226,9 +184,6 @@ His group, and those counted from them, were forty-five thousand six hundred fif
 #### Ages 8-10
 His division, and those counted from them, were forty-five thousand six hundred fifty.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:16
@@ -239,9 +194,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "All who were counted from the camp of Reuben were one hundred fifty-one thousand four hundred fifty, according to their armies. They must set out second.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -255,8 +207,17 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 "Then the Tent of Meeting must set out, with the camp of the Levites in the middle of the camps. As they camp, so must they set out, every man in his place, by their banners.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord arranges Israel's camp around the Tent of Meeting, with each tribe under its banner and in its appointed place. When Israel camps and when Israel travels, the Lord keeps his people ordered around his presence.
 
+<!-- Illustration Prompt -->
+**Scene**: Israel's tribes arranged by banners around the Tent of Meeting
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 2 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Israel's tribes arranged by banners around the Tent of Meeting
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
 
@@ -271,9 +232,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the west side must be the banner of the camp of Ephraim according to their divisions. The leader of the descendants of Ephraim must be Elishama the son of Ammihud.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:19
@@ -284,9 +242,6 @@ His group, and those counted from them, were forty thousand five hundred.
 
 #### Ages 8-10
 His division, and those counted from them, were forty thousand five hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -299,9 +254,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Next to him must be the tribe of Manasseh. The leader of the descendants of Manasseh must be Gamaliel the son of Pedahzur.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:21
@@ -312,9 +264,6 @@ His group, and those counted from them, were thirty-two thousand two hundred.
 
 #### Ages 8-10
 His division, and those counted from them, were thirty-two thousand two hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -327,9 +276,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "The tribe of Benjamin: the leader of the descendants of Benjamin must be Abidan the son of Gideoni.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:23
@@ -340,9 +286,6 @@ His army, and those counted from them, were thirty-five thousand four hundred.
 
 #### Ages 8-10
 His army, and those counted from them, were thirty-five thousand four hundred.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -355,9 +298,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "All who were counted from the camp of Ephraim were one hundred eight thousand one hundred, according to their divisions. They must set out third.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:25
@@ -368,9 +308,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "On the north side must be the banner of the camp of Dan according to their divisions. The leader of the descendants of Dan must be Ahiezer the son of Ammishaddai.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -383,9 +320,6 @@ His group, and those counted from them, were sixty-two thousand seven hundred.
 #### Ages 8-10
 His division, and those counted from them, were sixty-two thousand seven hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:27
@@ -396,9 +330,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Those who camp next to him must be the tribe of Asher. The leader of the descendants of Asher must be Pagiel the son of Ochran.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -411,9 +342,6 @@ His group, and those counted from them, were forty-one thousand and five hundred
 #### Ages 8-10
 His division, and those counted from them, were forty-one thousand and five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:29
@@ -424,9 +352,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "The tribe of Naphtali: the leader of the descendants of Naphtali must be Ahira the son of Enan.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -439,9 +364,6 @@ His group, and those counted from them, were fifty-three thousand four hundred.
 #### Ages 8-10
 His division, and those counted from them, were fifty-three thousand four hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:31
@@ -453,9 +375,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "All who were counted from the camp of Dan were one hundred fifty-seven thousand six hundred. They must set out last by their banners."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 2:32
@@ -466,9 +385,6 @@ These are those counted from the people of Israel by their family groups. All wh
 
 #### Ages 8-10
 These are those counted from the people of Israel by their family groups. All who were counted from the camps according to their armies were six hundred three thousand five hundred fifty.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -483,9 +399,6 @@ But the Levites were not counted among the people of Israel, as the Lord command
 
 #### Ages 8-10
 But the Levites were not counted among the people of Israel, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -504,9 +417,6 @@ Thus the people of Israel did. According to all that the Lord commanded Moses, s
 
 #### Ages 8-10
 Thus the people of Israel did. According to all that the Lord commanded Moses, so they camped by their banners, and so they set out, everyone by their families, according to their family groups.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -534,12 +444,11 @@ The Lord arranges Israel's camp around the Tent of Meeting, with each tribe unde
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God gives order to his people?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God gives order to his people"?
+2. How does this chapter also help explain "God's presence is central"?
 ## Prayer
 Lord, help us understand Numbers 2 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

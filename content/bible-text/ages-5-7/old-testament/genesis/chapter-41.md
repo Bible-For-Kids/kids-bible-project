@@ -30,7 +30,7 @@ After them, seven thin heads of grain grew up, dried out by the hot east wind.
 The thin heads of grain swallowed up the seven full, good heads. Then Pharaoh woke up and realized it was a dream.
 
 ### Genesis 41:8
-In the morning, Pharaoh's heart was troubled. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
+In the morning, Pharaoh felt troubled inside. He called for all the magicians and wise men of Egypt and told them his dreams, but no one could tell Pharaoh what they meant.
 
 ### Genesis 41:9
 Then the head cupbearer spoke to Pharaoh and said, "Today I remember my wrongs.
@@ -54,7 +54,7 @@ Then Pharaoh sent for Joseph. They quickly brought him out of the prison pit. Jo
 Pharaoh said to Joseph, "I had a dream, and no one can explain it. I have heard that when you hear a dream, you can tell what it means."
 
 ### Genesis 41:16
-Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer of peace."
+Joseph answered Pharaoh, "I cannot do that by myself. God will give Pharaoh an answer that brings peace."
 
 ### Genesis 41:17
 Then Pharaoh said to Joseph, "In my dream, I stood on the bank of the river.
@@ -126,7 +126,7 @@ Pharaoh said to his servants, "Can we find anyone like this man, one in whom the
 Then Pharaoh said to Joseph, "Since God has shown you all this, there is no one as wise and understanding as you.
 
 ### Genesis 41:40
-"You shall be over my house, and all my people will obey your word. Only in the throne will I be greater than you."
+"You shall be over my house, and all my people will obey your word. Only on the throne will I be greater than you."
 
 ### Genesis 41:41
 Pharaoh said to Joseph, "See, I have put you over all the land of Egypt."
@@ -141,13 +141,13 @@ He had Joseph ride in the second royal chariot, and people cried out before him,
 Pharaoh said to Joseph, "I am Pharaoh, but without your word no one in all Egypt shall lift a hand or foot."
 
 ### Genesis 41:45
-Pharaoh gave Joseph the name Zaphnath-paaneah. He also gave Joseph Asenath, the daughter of Potiphera priest of On, as his wife. Joseph went out over the land of Egypt.
+Pharaoh gave Joseph the name Zaphnath-paaneah. He also gave Joseph Asenath, the daughter of Potiphera, the priest of On, as his wife. Joseph went out over the land of Egypt.
 
 ### Genesis 41:46
 Joseph was thirty years old when he stood before Pharaoh king of Egypt. Then Joseph left Pharaoh's presence and traveled through all Egypt.
 
 ### Genesis 41:47
-During the seven years of plenty, the land brought out food by handfuls.
+During the seven years of plenty, the land brought out handful after handful of food.
 
 ### Genesis 41:48
 Joseph gathered all the food from those seven good years in Egypt and stored it in the cities. He put the food from the fields around each city inside that city.
@@ -156,7 +156,7 @@ Joseph gathered all the food from those seven good years in Egypt and stored it 
 Joseph stored up grain like the sand of the sea, so much that he stopped counting it because it could not be measured.
 
 ### Genesis 41:50
-Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera priest of On.
+Before the years of famine came, Joseph had two sons. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 ### Genesis 41:51
 Joseph named the firstborn Manasseh, saying, "God has made me forget all my trouble and all my father's house."

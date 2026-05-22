@@ -41,7 +41,7 @@ Lot said, "My lords, please turn aside to your servant's house. You can wash you
 **Original Reference**: Genesis 19:3 - He urged them greatly, and they came in with him, and entered into his house. He made them a feast, and baked unleavened bread, and they ate.
 
 #### Ages 5-7
-But Lot urged them strongly, so they went with him and entered his house. He made a meal for them, baked bread without yeast, and they ate.
+But Lot urged them strongly, so they went with him and entered his house. He made a meal for them, baked flat bread without yeast, and they ate.
 
 #### Ages 8-10
 But Lot urged them strongly, so they went with him and entered his house. He prepared a meal for them, baked bread without yeast, and they ate.
@@ -96,7 +96,7 @@ He said, "No, my brothers. Please do not act so wickedly.
 **Original Reference**: Genesis 19:8 - See now, I have two virgin daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only don't do anything to these men, because they have come under the shadow of my roof."
 
 #### Ages 5-7
-Look, I have two daughters who have never slept with a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
+Look, I have two daughters who have never been with a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
 
 #### Ages 8-10
 Look, I have two daughters who have never slept with a man. I will bring them out to you, and you can do to them as you wish. But do nothing to these men, because they have come under the protection of my roof."

@@ -18,7 +18,7 @@ They fought against King Bera of Sodom, King Birsha of Gomorrah, King Shinab of 
 All these kings joined forces in the Valley of Siddim, which is the Salt Sea.
 
 ### Genesis 14:4
-For twelve years, those kings had been under Kedorlaomer's rule. In the thirteenth year, they turned against him.
+For twelve years, those kings had served Kedorlaomer. In the thirteenth year, they turned against him.
 
 ### Genesis 14:5
 In the fourteenth year, Kedorlaomer and the kings with him came and defeated the Rephaites, Zuzites, Emites, and Horites in their lands.
@@ -45,7 +45,7 @@ The four kings took all the goods and food from Sodom and Gomorrah. Then they we
 They also took Abram's nephew Lot and everything he owned, because Lot was living in Sodom.
 
 ### Genesis 14:13
-One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite. Mamre was the brother of Eshkol and Aner, and these men had promised to help Abram.
+One man escaped and told Abram the Hebrew. Abram was living near the great trees of Mamre the Amorite. Mamre was the brother of Eshkol and Aner, and these men were Abram's allies.
 
 ### Genesis 14:14
 When Abram heard that his relative had been captured, he called out 318 trained men born in his household. He chased the enemy all the way to Dan.
@@ -66,7 +66,7 @@ Melchizedek king of Salem brought out bread and wine. He was priest of God Most 
 Melchizedek blessed Abram and said, "Blessed be Abram by God Most High, Maker of heaven and earth.
 
 ### Genesis 14:20
-And blessed be God Most High, who gave your enemies into your hand." Then Abram gave him a tenth of everything.
+And blessed be God Most High, who gave your enemies into your hand." Then Abram gave Melchizedek a tenth of everything.
 
 ### Genesis 14:21
 The king of Sodom said to Abram, "Give me the people, and keep the goods for yourself."
@@ -75,7 +75,7 @@ The king of Sodom said to Abram, "Give me the people, and keep the goods for you
 But Abram said to the king of Sodom, "I have lifted my hand to the Lord, God Most High, Maker of heaven and earth.
 
 ### Genesis 14:23
-I will not take even a thread or a sandal strap from you. Then you could never say, 'I made Abram rich.'
+I will not take even a thread, a sandal strap, or anything that belongs to you. Then you can never say, 'I made Abram rich.'
 
 ### Genesis 14:24
 I will take only what my men have eaten and the share for Aner, Eshkol, and Mamre. Let them take their share."

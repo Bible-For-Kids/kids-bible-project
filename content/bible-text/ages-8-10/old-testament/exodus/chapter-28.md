@@ -18,7 +18,7 @@ Exodus
 "Speak to all the skilled people whom I have filled with a spirit of wisdom. They must make Aaron's clothes to set him apart, so he may serve me as priest."
 
 ### Exodus 28:4
-"These are the clothes they must make: a breastplate, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
+"These are the clothes they must make: a chest piece, a priestly vest, a robe, a woven long shirt, a head wrap, and a waistband. They must make holy clothes for Aaron your brother and for his sons, so they may serve me as priests."
 
 ### Exodus 28:5
 "They must use gold, blue, purple, and red thread yarn, and fine linen."
@@ -51,7 +51,7 @@ Exodus
 "and make two chains of pure gold, braided like cords. Attach the braided chains to the settings."
 
 ### Exodus 28:15
-"Make the breastplate of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and finely twisted linen."
+"Make the chest piece of judgment with skilled work. Make it like the priestly vest, from gold, blue, purple, and red thread yarn, and finely twisted linen."
 
 ### Exodus 28:16
 "It must be square and folded double, a span long and a span wide."
@@ -72,31 +72,31 @@ Exodus
 "The stones must have the names of the sons of Israel, twelve names for the twelve tribes. Each name must be engraved like a seal, one name on each stone."
 
 ### Exodus 28:22
-"Make braided chains of pure gold for the breastplate."
+"Make braided chains of pure gold for the chest piece."
 
 ### Exodus 28:23
-"Make two gold rings for the breastplate, and put the two rings on its two ends."
+"Make two gold rings for the chest piece, and put the two rings on its two ends."
 
 ### Exodus 28:24
-"Put the two braided gold chains through the two rings at the ends of the breastplate."
+"Put the two braided gold chains through the two rings at the ends of the chest piece."
 
 ### Exodus 28:25
 "Fasten the other ends of the two chains to the two settings, and put them on the front of the priestly vest's shoulder pieces."
 
 ### Exodus 28:26
-"Make two gold rings and put them on the two inner ends of the breastplate, on the edge next to the priestly vest."
+"Make two gold rings and put them on the two inner ends of the chest piece, on the edge next to the priestly vest."
 
 ### Exodus 28:27
 "Make two more gold rings and put them on the lower front of the two shoulder pieces of the priestly vest, near the place where it is joined, above the woven waistband."
 
 ### Exodus 28:28
-"Tie the breastplate by its rings to the rings of the priestly vest with a blue cord, so it stays above the woven waistband and does not come loose from the priestly vest."
+"Tie the chest piece by its rings to the rings of the priestly vest with a blue cord, so it stays above the woven waistband and does not come loose from the priestly vest."
 
 ### Exodus 28:29
-"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the breastplate of judgment, as a continual reminder before the Lord."
+"When Aaron enters the Holy Place, he will carry the names of the sons of Israel over his heart on the chest piece of judgment, as a continual reminder before the Lord."
 
 ### Exodus 28:30
-"Put the Urim and the Thummim in the breastplate of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will always carry the judgment of the Israelites over his heart before the Lord."
+"Put the Urim and the Thummim in the chest piece of judgment. They must be over Aaron's heart when he goes before the Lord. Aaron will always carry the judgment of the Israelites over his heart before the Lord."
 
 ### Exodus 28:31
 "Make the robe of the priestly vest entirely blue."

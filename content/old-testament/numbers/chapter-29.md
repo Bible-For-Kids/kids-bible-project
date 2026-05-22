@@ -1,7 +1,7 @@
 # Numbers Chapter 29
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives the offerings for the seventh month, including the day of trumpet sound, the day of atonement, and the feast with many offerings over seven days.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives the offerings for the seventh month, including the day of trumpet sound, the day of atonement, and the feast with many offerings over seven days.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -21,9 +21,6 @@ Numbers follows Israel through the wilderness, showing the people counted, teste
 #### Ages 8-10
 "In the seventh month, on the first day of the month, you must have a holy gathering; you must do no regular work. It is a day of blowing of trumpets to you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -37,9 +34,6 @@ You must offer a burned offering for a pleasing smell to the Lord: one young bul
 
 #### Ages 8-10
 You must offer a burned offering for a pleasing smell to the Lord: one young bull, one male sheep, seven male lambs a year old with nothing wrong with them;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -57,9 +51,6 @@ and their grain gift, fine flour mixed with oil: three tenths for the bull, two 
 #### Ages 8-10
 and their grain offering, fine flour mixed with oil: three tenths for the bull, two tenths for the male sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -74,9 +65,6 @@ and one tenth for every lamb of the seven lambs;
 #### Ages 8-10
 and one tenth for every lamb of the seven lambs;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:5
@@ -87,9 +75,6 @@ and one male goat as an offering for sin, to make atonement for you, to help mak
 
 #### Ages 8-10
 and one male goat for a sin offering, to make atonement for you;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -107,9 +92,6 @@ in addition to the burned offering of the new moon with its grain gift, and the 
 
 #### Ages 8-10
 in addition to the burned offering of the new moon with its grain offering, and the continual burned offering with its grain offering, and their drink offerings, according to their command, for a pleasing smell, an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -129,9 +111,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the tenth day of this seventh month you must have a holy gathering. You will humble yourselves. You must do no kind of work;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -145,9 +124,6 @@ but you must offer a burned offering to the Lord for a pleasing smell: one young
 
 #### Ages 8-10
 but you must offer a burned offering to the Lord for a pleasing smell: one young bull, one male sheep, seven male lambs a year old, all with nothing wrong with them;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -165,9 +141,6 @@ and their grain gift, fine flour mixed with oil: three tenths for the bull, two 
 #### Ages 8-10
 and their grain offering, fine flour mixed with oil: three tenths for the bull, two tenths for the one male sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -182,9 +155,6 @@ one tenth for every lamb of the seven lambs;
 #### Ages 8-10
 one tenth for every lamb of the seven lambs;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:11
@@ -195,9 +165,6 @@ one male goat as an offering for sin, in addition to the offering for sin of ato
 
 #### Ages 8-10
 one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burned offering, and its grain offering, and their drink offerings.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -216,8 +183,17 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 "On the fifteenth day of the seventh month you must have a holy gathering. You must do no regular work. You must keep a feast to the Lord seven days.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives the offerings for the seventh month, including the day of trumpet sound, the day of atonement, and the feast with many offerings over seven days. The repeated offerings show worship that is costly, ordered, and centered on the Lord.
 
+<!-- Illustration Prompt -->
+**Scene**: Families gathering for the seventh-month feast while priests prepare offerings
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 29 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Families gathering for the seventh-month feast while priests prepare offerings
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -233,9 +209,6 @@ You must offer a burned offering, an offering burned on the altar, a pleasing sm
 
 #### Ages 8-10
 You must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: thirteen young bulls, two male sheep, fourteen male lambs a year old, all with nothing wrong with them;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -254,9 +227,6 @@ and their grain gift, fine flour mixed with oil: three tenths for every bull of 
 #### Ages 8-10
 and their grain offering, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each male sheep of the two male sheep,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -271,9 +241,6 @@ and one tenth for every lamb of the fourteen lambs;
 #### Ages 8-10
 and one tenth for every lamb of the fourteen lambs;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:16
@@ -284,9 +251,6 @@ and one male goat as an offering for sin, in addition to the continual burned of
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, its grain offering, and its drink offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -303,9 +267,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the second day you must offer twelve young bulls, two male sheep, and fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:18
@@ -316,9 +277,6 @@ and their grain gift and their drink gifts for the bulls, for the male sheep, an
 
 #### Ages 8-10
 and their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -335,9 +293,6 @@ and one male goat as an offering for sin, in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering and their drink offerings.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -353,9 +308,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the third day: eleven bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:21
@@ -366,9 +318,6 @@ and their grain gift and their drink gifts for the bulls, for the male sheep, an
 
 #### Ages 8-10
 and their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -385,9 +334,6 @@ and one male goat as an offering for sin, in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, and its grain offering, and its drink offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -403,9 +349,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the fourth day ten bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:24
@@ -416,9 +359,6 @@ their grain gift and their drink gifts for the bulls, for the male sheep, and fo
 
 #### Ages 8-10
 their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -435,9 +375,6 @@ and one male goat as an offering for sin; in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and its drink offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -453,9 +390,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the fifth day: nine bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:27
@@ -466,9 +400,6 @@ and their grain gift and their drink gifts for the bulls, for the male sheep, an
 
 #### Ages 8-10
 and their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -485,9 +416,6 @@ and one male goat as an offering for sin, in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, and its grain offering, and its drink offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -503,9 +431,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the sixth day: eight bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:30
@@ -516,9 +441,6 @@ and their grain gift and their drink gifts for the bulls, for the male sheep, an
 
 #### Ages 8-10
 and their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -535,9 +457,6 @@ and one male goat as an offering for sin; in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and the drink offerings of it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -553,9 +472,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the seventh day: seven bulls, two male sheep, fourteen male lambs a year old with nothing wrong with them;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:33
@@ -566,9 +482,6 @@ and their grain gift and their drink gifts for the bulls, for the male sheep, an
 
 #### Ages 8-10
 and their grain offering and their drink offerings for the bulls, for the male sheep, and for the lambs, according to their number, after the command,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -585,9 +498,6 @@ and one male goat as an offering for sin; in addition to the continual burned of
 #### Ages 8-10
 and one male goat for a sin offering; in addition to the continual burned offering, its grain offering, and its drink offering.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -603,9 +513,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "On the eighth day you must have a special holy gathering. You must do no regular work;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 29:36
@@ -616,9 +523,6 @@ but you must offer a burned offering, an offering burned on the altar, a pleasin
 
 #### Ages 8-10
 but you must offer a burned offering, an offering burned on the altar, a pleasing smell to the Lord: one bull, one male sheep, seven male lambs a year old with nothing wrong with them;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -637,9 +541,6 @@ their grain gift and their drink gifts for the bull, for the male sheep, and for
 #### Ages 8-10
 their grain offering and their drink offerings for the bull, for the male sheep, and for the lambs, must be according to their number, after the command,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - offering: A gift brought to the Lord in worship
@@ -654,9 +555,6 @@ and one male goat as an offering for sin, in addition to the continual burned of
 
 #### Ages 8-10
 and one male goat for a sin offering, in addition to the continual burned offering, with its grain offering, and its drink offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -673,9 +571,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "You must offer these to the Lord in your set feasts, in addition to your serious promises and your gifts people choose to bring-for your burned offerings, your grain offerings, your drink offerings, and your peace offerings.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -690,9 +585,6 @@ Moses told the people of Israel according to all that the Lord commanded Moses.
 
 #### Ages 8-10
 Moses told the people of Israel according to all that the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -720,12 +612,11 @@ one male goat for a sin offering, in addition to the sin offering of atonement, 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God is worshiped with reverence?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God is worshiped with reverence"?
+2. How does this chapter also help explain "God gives holy seasons"?
 ## Prayer
 Lord, help us understand Numbers 29 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

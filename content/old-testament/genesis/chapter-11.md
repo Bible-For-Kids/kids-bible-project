@@ -30,7 +30,7 @@ Now the whole earth had one language and the same words.
 **Original Reference**: Genesis 11:2 - As they traveled from the east, they found a plain in the land of Shinar, and they lived there.
 
 #### Ages 5-7
-As people moved east, they found a wide plain in Shinar and settled there.
+As people traveled east, they found a wide plain in the land of Shinar and settled there.
 
 #### Ages 8-10
 As people moved east, they found a plain in Shinar and settled there.
@@ -41,7 +41,7 @@ As people moved east, they found a plain in Shinar and settled there.
 **Original Reference**: Genesis 11:3 - They said to one another, "Come, let's make bricks, and burn them thoroughly." They had brick for stone, and they used tar for mortar.
 
 #### Ages 5-7
-They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and sticky tar to hold the bricks together.
+They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone, and sticky tar to hold the bricks together.
 
 #### Ages 8-10
 They said to one another, "Come, let us make bricks and bake them thoroughly." They used brick instead of stone and tar instead of mortar to hold the bricks together.
@@ -66,16 +66,29 @@ Keep the people's motive clear: they wanted a name for themselves and feared bei
 **Cross-References**:
 - Genesis 1:28
 
+<!-- Illustration Prompt -->
+**Scene**: The people of Shinar making bricks and building a city with a tower
+**Style**: Dramatic children's Bible illustration with strong brick texture and a wide plain
+**Characters**: Many builders working together, carrying bricks and spreading sticky tar
+**Setting**: A broad plain in Shinar with a rising city and tower
+**Action**: The people build upward and say they want to make a great name for themselves
+**Emotional Tone**: Ambition, pride, tension
+**Age Appropriateness**: Busy and impressive but not celebratory; avoid making pride look heroic
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 11:5
 **Original Reference**: Genesis 11:5 - Yahweh came down to see the city and the tower, which the children of men built.
 
 #### Ages 5-7
-But the Lord came down to see the city and the tower the people were building.
+But the Lord came down to see the city and the tower that the people were building.
 
 #### Ages 8-10
 But the Lord came down to see the city and the tower the people were building.
+
+**Translation Notes**:
+The wording is intentionally striking: the tower is meant to reach high, but the Lord still "comes down" to see it.
 
 ---
 
@@ -97,7 +110,7 @@ The Lord said, "They are one people, and they all have one language. This is onl
 **Original Reference**: Genesis 11:7 - Come, let's go down, and there confuse their language, that they may not understand one another's speech."
 
 #### Ages 5-7
-Come, let us go down and mix up their language, so they will not understand one another."
+Come, let us go down and mix up their language, so they will not understand one another's words."
 
 #### Ages 8-10
 Come, let us go down and confuse their language, so they will not understand one another's speech."
@@ -134,7 +147,7 @@ That is why the city was called Babel, because there the Lord mixed up the langu
 That is why it was called Babel, because there the Lord confused the language of the whole earth. From there, the Lord scattered them over all the earth.
 
 **Translation Notes**:
-This is a good memory verse for the chapter. Preserve the exact promise, warning, or worship focus of the verse.
+The name Babel is tied to the Lord confusing language there. Keep the reason for the name connected to the Lord's action in the verse.
 
 **Key Vocabulary**:
 - Babel: The city where the Lord confused human language
@@ -143,6 +156,16 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 
 **Cross-References**:
 - Acts 2:6
+
+<!-- Illustration Prompt -->
+**Scene**: The unfinished city of Babel as people scatter in different directions
+**Style**: Wide children's Bible scene with clear movement away from the city
+**Characters**: Families and workers leaving in groups, speaking with confusion but not panic
+**Setting**: The stopped city and tower in Shinar, with roads leading outward
+**Action**: The Lord scatters the people over the earth, and the building stops
+**Emotional Tone**: Sobering, humbling, purposeful
+**Age Appropriateness**: Show confusion and movement without fear or chaos
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -376,7 +399,7 @@ Sarai had no children, because she was not able to have a child.
 Now Sarai was childless because she was not able to have children.
 
 **Translation Notes**:
-Sarai being barren matters for the coming promise of Isaac.
+Sarai being childless matters for the coming promise of Isaac, but do not import that later promise into this verse.
 
 **Cross-References**:
 - Genesis 18:11
@@ -387,10 +410,20 @@ Sarai being barren matters for the coming promise of Isaac.
 **Original Reference**: Genesis 11:31 - Terah took Abram his son, Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife. They went from Ur of the Chaldees, to go into the land of Canaan. They came to Haran and lived there.
 
 #### Ages 5-7
-Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai. They left Ur of the Chaldeans to go to Canaan. But when they came to Harran, they settled there.
+Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai, Abram's wife. They left Ur of the Chaldeans to go to Canaan. But when they came to Harran, they settled there.
 
 #### Ages 8-10
 Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai. They left Ur of the Chaldeans to go to Canaan, but when they came to Harran, they settled there.
+
+<!-- Illustration Prompt -->
+**Scene**: Terah's family leaving Ur and traveling toward Canaan
+**Style**: Gentle journey illustration with ancient travel details
+**Characters**: Terah, Abram, Sarai, Lot, and household members traveling together
+**Setting**: A road from Ur of the Chaldeans toward Canaan, with Harran ahead
+**Action**: The family leaves one place, travels with belongings, and later settles in Harran
+**Emotional Tone**: Transition, quiet sorrow, expectation
+**Age Appropriateness**: Safe travel scene, no hardship shown graphically
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -424,12 +457,14 @@ That is why it was called Babel, because there the Lord confused the language of
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What did the people in Shinar try to build?
+2. Why did they want to make a great name for themselves?
+3. What happened to their language and their city?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. How does Babel show pride against God's command to fill the earth?
+2. Why is it important that the Lord "came down" to see the city and tower?
+3. How does the family line at the end prepare for Abram's story?
 
 ## Prayer
-Lord, help us read Genesis 11 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, keep us from trying to make our own name great apart from you. Help us trust your rule over human plans and follow your promise story with humble hearts. Amen.

@@ -104,7 +104,7 @@ Judah said to Israel his father, "Send the boy with me, and we will get up and g
 **Original Reference**: Genesis 43:9 - I'll be collateral for him. From my hand will you require him. If I don't bring him to you, and set him before you, then let me bear the blame forever;
 
 #### Ages 5-7
-"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then I will carry the blame forever.
+"I will be responsible for him. Hold me responsible. If I do not bring him back and set him before you, then I will carry the blame forever.
 
 #### Ages 8-10
 "I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then let me carry the blame forever.

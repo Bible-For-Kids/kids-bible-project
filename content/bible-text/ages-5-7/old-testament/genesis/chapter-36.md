@@ -42,10 +42,10 @@ These are the names of Esau's sons: Eliphaz, the son of Esau's wife Adah, and Re
 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ### Genesis 36:12
-Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
+Timna was a lesser wife of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the descendants of Adah, Esau's wife.
 
 ### Genesis 36:13
-The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the sons connected with Bashemath, Esau's wife.
+The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Bashemath, Esau's wife.
 
 ### Genesis 36:14
 These were the sons of Esau's wife Aholibamah, the daughter of Anah and granddaughter of Zibeon. She had Jeush, Jaalam, and Korah for Esau.
@@ -54,7 +54,7 @@ These were the sons of Esau's wife Aholibamah, the daughter of Anah and granddau
 These were the family leaders from Esau's sons. From Eliphaz, Esau's firstborn son, came leader Teman, leader Omar, leader Zepho, and leader Kenaz.
 
 ### Genesis 36:16
-Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
 
 ### Genesis 36:17
 These were the sons of Esau's son Reuel: leader Nahath, leader Zerah, leader Shammah, and leader Mizzah. These leaders came from Reuel in the land of Edom, and they were connected with Esau's wife Bashemath.
@@ -78,7 +78,7 @@ The children of Lotan were Hori and Hemam, and Lotan's sister was Timna.
 The children of Shobal were Alvan, Manahath, Ebal, Shepho, and Onam.
 
 ### Genesis 36:24
-The children of Zibeon were Ajah and Anah. This was the Anah who found the mules in the wilderness while he was feeding the donkeys of his father Zibeon.
+The children of Zibeon were Ajah and Anah. This was the Anah who found the hot springs in the wilderness while he was feeding the donkeys of his father Zibeon.
 
 ### Genesis 36:25
 The children of Anah were Dishon and Aholibamah, the daughter of Anah.

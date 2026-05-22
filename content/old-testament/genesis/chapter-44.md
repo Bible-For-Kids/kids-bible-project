@@ -38,7 +38,7 @@ Joseph commanded the manager of his house, "Fill the men's sacks with food, as m
 **Original Reference**: Genesis 44:3 - As soon as the morning was light, the men were sent away, they and their donkeys.
 
 #### Ages 5-7
-As soon as morning was light, the men were sent away with their donkeys.
+As soon as the morning was light, the men were sent away with their donkeys.
 
 #### Ages 8-10
 As soon as morning dawned, the men were sent away with their donkeys.
@@ -159,7 +159,7 @@ Then they tore their clothes in sorrow. Each man loaded his donkey, and they ret
 **Original Reference**: Genesis 44:14 - Judah and his brothers came to Joseph's house, and he was still there. They fell on the ground before him.
 
 #### Ages 5-7
-Judah and his brothers came to Joseph's house, where Joseph was still there. They fell before him to the ground.
+Judah and his brothers came to Joseph's house, where Joseph was still there, and they fell before him to the ground.
 
 #### Ages 8-10
 Judah and his brothers came to Joseph's house, where Joseph was still present, and they fell before him to the ground.
@@ -198,7 +198,7 @@ Judah said, "What can we say to my lord? What can we speak? How can we clear our
 **Original Reference**: Genesis 44:17 - He said, "Far be it from me that I should do so. The man in whose hand the cup is found, he will be my slave; but as for you, go up in peace to your father."
 
 #### Ages 5-7
-Joseph said, "I would never do that. Only the man in whose hand the cup was found shall be my slave. The rest of you may go up in peace to your father."
+Joseph said, "I would never do that. Only the man with whom the cup was found shall be my slave. The rest of you may go up in peace to your father."
 
 #### Ages 8-10
 Joseph said, "I would never do that. The man in whose hand the cup was found shall be my slave, but the rest of you may go up in peace to your father."

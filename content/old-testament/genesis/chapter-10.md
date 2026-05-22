@@ -60,7 +60,7 @@ The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim.
 **Original Reference**: Genesis 10:5 - Of these were the islands of the nations divided in their lands, everyone after his language, after their families, in their nations.
 
 #### Ages 5-7
-From these families came peoples who spread out to the coastlands and far lands. Each people had its own language, family group, and nation.
+From these families came peoples who spread out to the coastlands and far lands. Each people had its own land, language, family group, and nation.
 
 #### Ages 8-10
 From these families, the coastland peoples spread out into their own lands. Each people had its own language, family group, and nation.
@@ -68,6 +68,16 @@ From these families, the coastland peoples spread out into their own lands. Each
 **Key Vocabulary**:
 - nation: A people with their own land, language, or family identity
 - language: The words a people use to speak with one another
+
+<!-- Illustration Prompt -->
+**Scene**: Noah's descendants spreading into coastlands and far lands
+**Style**: Children's Bible map illustration with warm colors and clear family branches
+**Characters**: Small family groups traveling together, shown respectfully and simply
+**Setting**: Coastlands, hills, rivers, and distant lands marked as places families settle
+**Action**: Families move outward into their own lands, languages, family groups, and nations
+**Emotional Tone**: Wonder, breadth, God's care over many peoples
+**Age Appropriateness**: Peaceful movement and map-like clarity, no conflict or conquest shown
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -155,6 +165,16 @@ He also built Resen between Nineveh and Calah. It was a great city.
 #### Ages 8-10
 He also built Resen between Nineveh and Calah, which was a great city.
 
+<!-- Illustration Prompt -->
+**Scene**: The early cities connected with Nimrod's kingdom
+**Style**: Ancient city landscape, detailed but restrained for children
+**Characters**: Builders and travelers shown small beside city walls and gates
+**Setting**: Shinar and Assyria, with Babel, Nineveh, Calah, and Resen suggested as city places
+**Action**: Cities rise in the land while the chapter names early kingdoms
+**Emotional Tone**: Serious, historical, watchful
+**Age Appropriateness**: Do not glorify power or empire; keep the scene historical and nonviolent
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 10:13
@@ -216,7 +236,7 @@ He was the father of the Hivites, Arkites, and Sinites.
 **Original Reference**: Genesis 10:18 - the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.
 
 #### Ages 5-7
-He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out.
+He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out into new places.
 
 #### Ages 8-10
 He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out.
@@ -398,6 +418,16 @@ The chapter closes by summarizing families, nations, and the spread after the fl
 **Cross-References**:
 - Acts 17:26
 
+<!-- Illustration Prompt -->
+**Scene**: The families of Noah's sons spreading over the earth after the flood
+**Style**: Family-tree-meets-map illustration for children
+**Characters**: Shem, Ham, and Japheth represented by three family branches with many descendants
+**Setting**: A broad earth map with lands, coastlands, hills, and city names lightly marked
+**Action**: The three family lines branch outward into many nations
+**Emotional Tone**: Expansive, orderly, expectant
+**Age Appropriateness**: Clear and welcoming, emphasizing that many peoples matter to God
+<!-- End Illustration Prompt -->
+
 ---
 
 ## Chapter Summary
@@ -419,12 +449,14 @@ These were the families of Noah's sons, listed by their family lines and nations
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. Who were Noah's three sons?
+2. What did their families grow into?
+3. What kinds of lands and places does this chapter name?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. Why might the Bible list many peoples and nations by name?
+2. How does Genesis 10 prepare for Babel in Genesis 11?
+3. How does this chapter prepare for God's promise to bless all families through Abraham?
 
 ## Prayer
-Lord, help us read Genesis 10 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.
+Lord, you see every family, land, language, and nation. Help us remember that all peoples matter to you and that your promise story reaches farther than we can see. Amen.

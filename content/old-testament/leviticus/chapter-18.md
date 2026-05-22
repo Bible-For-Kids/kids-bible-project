@@ -1,7 +1,7 @@
 # Leviticus Chapter 18
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord warns Israel not to copy the practices of Egypt or Canaan and gives boundaries for family and marriage purity.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord warns Israel not to copy the practices of Egypt or Canaan and gives boundaries for family and marriage purity.
 
 ## Important Keywords
 - Egypt: The land where Israel had been enslaved
@@ -21,9 +21,6 @@ The Lord said to Moses,
 #### Ages 8-10
 The Lord said to Moses,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to the people of Israel, and say to them, 'I am the Lord your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -61,7 +55,18 @@ You must not do as they do in the land of Egypt, where you lived. You must not d
 You must not do as they do in the land of Egypt, where you lived. You must not do as they do in the land of Canaan, where I am bringing you. You must not follow their rules.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The chapter begins by warning Israel not to copy Egypt or Canaan. That frame is kept so the family boundaries are heard as covenant holiness, not random rules.
+**Cross-References**:
+- Leviticus 20:22-24
+<!-- Illustration Prompt -->
+**Scene**: Moses teaching families to follow the Lord instead of the customs of Egypt or Canaan
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Moses and Israelite families
+**Setting**: Open place in the camp
+**Action**: The people listen to covenant boundaries for family holiness
+**Emotional Tone**: Serious, protective, clear
+**Age Appropriateness**: Teaching scene with no sexual imagery
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -76,9 +81,6 @@ You must do my commands. You must keep my rules and walk in them. I am the Lord 
 
 #### Ages 8-10
 You must do my commands. You must keep my rules and walk in them. I am the Lord your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -96,9 +98,6 @@ You must therefore keep my rules and my commands. If a man does them, he will li
 #### Ages 8-10
 You must therefore keep my rules and my commands. If a man does them, he will live by them. I am the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -113,9 +112,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "None of you must approach any close relatives, to have sexual relations with them: I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -132,9 +128,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your father, or with your mother: she is your mother. You must not have sexual relations with her.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:8
@@ -145,9 +138,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with your father's wife. This would dishonor your father.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -160,9 +150,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:10
@@ -173,9 +160,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with your son's daughter, or of your daughter's daughter, for they are your own close family.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -188,9 +172,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your father's wife's daughter, conceived by your father, since she is your sister.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:12
@@ -201,9 +182,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with your father's sister. She is your father's close female relative.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -216,9 +194,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your mother's sister, for she is your mother's close female relative.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:14
@@ -230,9 +205,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your father's brother. You must not approach his wife. She is your aunt.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:15
@@ -243,9 +215,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with your daughter-in-law. She is your son's wife. You must not have sexual relations with her.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - law: God's instruction for his people
@@ -261,9 +230,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your brother's wife. This would dishonor your brother.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:17
@@ -274,9 +240,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with a woman and her daughter. You must not take her son's daughter, or her daughter's daughter, to have sexual relations with her. They are close female relatives. It is wickedness.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -289,9 +252,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not take a wife in addition to her sister, to be a rival, to have sexual relations with her, while her sister is still alive.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:19
@@ -302,9 +262,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not come near a woman to have sexual relations with her while she is unclean because of her monthly period.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -317,9 +274,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with your neighbor's wife, because that would make you unclean with her.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:21
@@ -330,9 +284,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not give any of your children as a sacrifice to Molech. You must not dishonor the name of your God. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -351,9 +302,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must not have sexual relations with a man as with a woman. That is detestable.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:23
@@ -364,9 +312,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must not have sexual relations with any animal, because that would make you unclean. No woman may go to an animal to have sexual relations with it. It is a perversion.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -379,9 +324,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Do not make yourselves unclean in any of these things. The nations I am driving out before you did these things and became unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:25
@@ -392,9 +334,6 @@ Even the land became not clean because of their sin. So I punished its sin, and 
 
 #### Ages 8-10
 Even the land became unclean because of their sin. So I punished its sin, and the land vomited out its people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -410,9 +349,6 @@ You therefore must keep my rules and my commands, and must not do any of these h
 #### Ages 8-10
 You therefore must keep my rules and my commands, and must not do any of these hateful things; neither the native-born, nor the foreigner who lives among you
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:27
@@ -423,9 +359,6 @@ The people who lived in the land before you did all these hateful things, and th
 
 #### Ages 8-10
 The people who lived in the land before you did all these hateful things, and the land became unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -438,9 +371,6 @@ If you make the land not clean, it may vomit you out too, just as it vomited out
 #### Ages 8-10
 If you make the land unclean, it may vomit you out too, just as it vomited out the nation before you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:29
@@ -452,9 +382,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "For whoever does any of these hateful things, even the people who do them must be removed from among their people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 18:30
@@ -465,9 +392,6 @@ So keep my requirements. Do not practice any of the hateful customs that were pr
 
 #### Ages 8-10
 So keep my requirements. Do not practice any of the hateful customs that were practiced before you, and do not make yourselves unclean with them. I am the Lord your God.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -494,12 +418,11 @@ You must not do as they do in the land of Egypt, where you lived. You must not d
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 18 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

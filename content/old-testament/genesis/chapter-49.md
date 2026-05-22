@@ -71,10 +71,10 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 **Original Reference**: Genesis 49:6 - My soul, don't come into their council. My glory, don't be united to their assembly; for in their anger they killed men. In their self-will they hamstrung cattle.
 
 #### Ages 5-7
-"Let my soul not join their secret plans. Let my honor not be joined to their gathering, because in their anger they killed men, and because they did what they wanted, they crippled oxen.
+"Let me not join their secret plans. Let my honor not be joined to their gathering, because in their anger they killed men, and because they did what they wanted, they crippled oxen.
 
 #### Ages 8-10
-"Let my soul not enter their secret plans. Let my honor not join their gathering, for in their anger they killed men, and because they did what they wanted, they crippled oxen.
+"Let me not enter their secret plans. Let my honor not join their gathering, for in their anger they killed men, and because they did what they wanted, they crippled oxen.
 
 ---
 
@@ -141,10 +141,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:11 - Binding his foal to the vine, his donkey's colt to the choice vine; he has washed his garments in wine, his robes in the blood of grapes.
 
 #### Ages 5-7
-"He ties his young donkey to the vine, and his donkey's colt to the best vine. Wine will be so plentiful it is pictured like water for washing clothes.
+"He ties his young donkey to the vine, and his donkey's colt to the best vine. Wine will be so plentiful it is pictured like water for washing clothes and like red grape juice for washing robes.
 
 #### Ages 8-10
-"He ties his donkey to the vine, and his donkey's colt to the choice vine. Wine will be so plentiful it is pictured like water for washing clothes.
+"He ties his donkey to the vine, and his donkey's colt to the choice vine. Wine will be so plentiful it is pictured like water for washing clothes and like red grape juice for washing robes.
 
 ---
 
@@ -152,10 +152,10 @@ Keep Judah's ruler promise intact; do not flatten scepter and ruler's staff into
 **Original Reference**: Genesis 49:12 - His eyes will be red with wine, his teeth white with milk.
 
 #### Ages 5-7
-"His eyes are bright with wine, and his teeth are white with milk.
+"His eyes are red with wine, and his teeth are white with milk.
 
 #### Ages 8-10
-"His eyes are bright with wine, and his teeth are white with milk.
+"His eyes are red with wine, and his teeth are white with milk.
 
 ---
 
@@ -257,10 +257,10 @@ This is a good memory verse for the chapter. Preserve the exact promise, warning
 **Original Reference**: Genesis 49:21 - "Naphtali is a doe set free, who bears beautiful fawns.
 
 #### Ages 5-7
-"Naphtali is a deer set free. He gives beautiful words.
+"Naphtali is a deer set free, with beautiful fawns.
 
 #### Ages 8-10
-"Naphtali is a deer set free. He gives beautiful words.
+"Naphtali is a deer set free, with beautiful fawns.
 
 ---
 

@@ -1,7 +1,7 @@
 # Leviticus Chapter 9
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on on the eighth day, Aaron begins priestly service and offers sacrifices for himself and the people.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. On the eighth day, Aaron begins priestly service and offers sacrifices for himself and the people.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ On the eighth day, Moses called Aaron and his sons, and the elders of Israel;
 #### Ages 8-10
 On the eighth day, Moses called Aaron and his sons, and the elders of Israel;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -39,9 +36,6 @@ and he said to Aaron, "Take a calf from the herd for an offering for sin, and a 
 
 #### Ages 8-10
 and he said to Aaron, "Take a calf from the herd for a sin offering, and a male sheep for a burned offering, with nothing wrong with it, and offer them before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -61,9 +55,6 @@ You must speak to the people of Israel, saying, 'Take a male goat for an offerin
 #### Ages 8-10
 You must speak to the people of Israel, saying, 'Take a male goat for a sin offering; and a calf and a lamb, both a year old, with nothing wrong with it, for a burned offering;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - offering: A gift brought to the Lord in worship
@@ -79,9 +70,6 @@ and a bull and a male sheep for peace offerings, to sacrifice before the Lord; a
 
 #### Ages 8-10
 and a bull and a male sheep for peace offerings, to sacrifice before the Lord; and a grain offering mixed with oil: for today the Lord appears to you.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -100,9 +88,6 @@ They brought what Moses commanded before the Tent of Meeting. All the whole grou
 #### Ages 8-10
 They brought what Moses commanded before the Tent of Meeting. All the community came near and stood before the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -119,9 +104,6 @@ Moses said, "This is the thing which the Lord commanded that you should do; and 
 #### Ages 8-10
 Moses said, "This is the thing which the Lord commanded that you should do; and the Lord's glory must appear to you."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -137,9 +119,6 @@ Moses said to Aaron, "Draw near to the altar, and offer your offering for sin, a
 
 #### Ages 8-10
 Moses said to Aaron, "Draw near to the altar, and offer your sin offering, and your burned offering, and make atonement for yourself, and for the people; and offer the offering of the people, and make atonement for them, as the Lord commanded."
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -159,9 +138,6 @@ So Aaron came near to the altar, and killed the calf of the offering for sin, wh
 #### Ages 8-10
 So Aaron came near to the altar, and killed the calf of the sin offering, which was for himself.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
@@ -179,9 +155,6 @@ The sons of Aaron presented the blood to him; and he dipped his finger in the bl
 #### Ages 8-10
 The sons of Aaron presented the blood to him; and he dipped his finger in the blood, and put it on the horns of the altar, and poured out the blood at the base of the altar;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
@@ -196,9 +169,6 @@ but the fat, and the kidneys, and the cover from the liver of the offering for s
 
 #### Ages 8-10
 but the fat, and the kidneys, and the cover from the liver of the sin offering, he burned upon the altar, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -218,9 +188,6 @@ The meat and the skin he burned with fire outside the camp.
 #### Ages 8-10
 The meat and the skin he burned with fire outside the camp.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 9:12
@@ -231,9 +198,6 @@ He killed the burned offering; and Aaron's sons delivered the blood to him, and 
 
 #### Ages 8-10
 He killed the burned offering; and Aaron's sons delivered the blood to him, and he sprinkled it around on the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -251,9 +215,6 @@ They delivered the burned offering to him, piece by piece, and the head. He burn
 #### Ages 8-10
 They delivered the burned offering to him, piece by piece, and the head. He burned them upon the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -268,9 +229,6 @@ He washed the inner parts and the legs, and burned them on the burned offering o
 
 #### Ages 8-10
 He washed the inner parts and the legs, and burned them on the burned offering on the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -287,9 +245,6 @@ He presented the people's offering, and took the goat of the offering for sin wh
 #### Ages 8-10
 He presented the people's offering, and took the goat of the sin offering which was for the people, and killed it, and offered it for sin, like the first.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sin: Disobeying God and going against his good way
@@ -305,9 +260,6 @@ He presented the burned offering, and offered it according to the rule.
 #### Ages 8-10
 He presented the burned offering, and offered it according to the rule.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -321,9 +273,6 @@ He presented the grain gift, and filled his hand from there, and burned it upon 
 
 #### Ages 8-10
 He presented the grain offering, and filled his hand from there, and burned it upon the altar, in addition to the burned offering of the morning.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -339,9 +288,6 @@ He also killed the bull and the male sheep, the sacrifice of peace offerings, wh
 
 #### Ages 8-10
 He also killed the bull and the male sheep, the sacrifice of peace offerings, which was for the people. Aaron's sons delivered to him the blood, which he sprinkled around on the altar;
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -359,9 +305,6 @@ and the fat of the bull and of the male sheep, the fat tail, and that which cove
 #### Ages 8-10
 and the fat of the bull and of the male sheep, the fat tail, and that which covers the inner parts, and the kidneys, and the cover of the liver;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 9:20
@@ -372,9 +315,6 @@ and they put the fat upon the breasts, and he burned the fat on the altar.
 
 #### Ages 8-10
 and they put the fat upon the breasts, and he burned the fat on the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -389,9 +329,6 @@ Aaron lifted the breasts and the right thigh before the Lord as an offering, as 
 
 #### Ages 8-10
 Aaron lifted the breasts and the right thigh before the Lord as an offering, as Moses commanded.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -411,9 +348,6 @@ Aaron lifted up his hands toward the people, and blessed them; and he came down 
 #### Ages 8-10
 Aaron lifted up his hands toward the people, and blessed them; and he came down from offering the sin offering, and the burned offering, and the peace offerings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - blessed: Spoke good over someone or something
@@ -430,9 +364,6 @@ Moses and Aaron went into the Tent of Meeting, and came out, and blessed the peo
 
 #### Ages 8-10
 Moses and Aaron went into the Tent of Meeting, and came out, and blessed the people; and the Lord's glory appeared to all the people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -453,7 +384,18 @@ Fire came out from before the Lord, and burned up the burned offering and the fa
 Fire came out from before the Lord, and burned up the burned offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The fire from before the Lord is kept as the climactic sign of God's presence receiving the offering. The people's worship response is preserved.
+**Cross-References**:
+- Exodus 40:34-35
+<!-- Illustration Prompt -->
+**Scene**: Fire from before the Lord consuming the offering as the people bow
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Aaron, Moses, priests, gathered Israelites
+**Setting**: The altar before the Tent of Meeting
+**Action**: The people see the Lord's glory and fall on their faces
+**Emotional Tone**: Awe, reverence, wonder
+**Age Appropriateness**: Dramatic but not frightening
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -481,12 +423,11 @@ They brought what Moses commanded before the Tent of Meeting. All the community 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -1,7 +1,7 @@
 # Leviticus Chapter 16
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on after the death of Aaron's sons, the Lord gives the Day of Atonement.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. After the death of Aaron's sons, the Lord gives the Day of Atonement.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses after the death of the two sons of Aaron, when they came
 #### Ages 8-10
 The Lord spoke to Moses after the death of the two sons of Aaron, when they came near before the Lord, and died;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -40,9 +37,6 @@ and the Lord said to Moses, "Tell Aaron your brother not to come at just any tim
 
 #### Ages 8-10
 and the Lord said to Moses, "Tell Aaron your brother not to come at just any time into the Most Holy Place within the curtain, before the atonement cover which is on the ark; or else he will die; for I will appear in the cloud on the atonement cover.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -62,9 +56,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Aaron must come into the holy place with a young bull for a sin offering, and a male sheep for a burned offering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -82,9 +73,6 @@ He must put on the holy linen long shirt. He must wear linen pants on his body, 
 #### Ages 8-10
 He must put on the holy linen long shirt. He must wear linen pants on his body, tie on the linen waistband, and put on the linen head wrap. These are the holy clothes. He must wash his body with water, and put them on.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -98,9 +86,6 @@ He must take from the whole group of the people of Israel two male goats for an 
 
 #### Ages 8-10
 He must take from the community of the people of Israel two male goats for a sin offering, and one male sheep for a burned offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -117,9 +102,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Aaron must offer the bull of the sin offering, which is for himself, and make atonement for himself and for his house.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -138,9 +120,6 @@ He must take the two goats, and set them before the Lord at the door of the Tent
 #### Ages 8-10
 He must take the two goats, and set them before the Lord at the door of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -155,9 +134,6 @@ Aaron must cast lots for the two goats: one lot for the Lord, and the other lot 
 
 #### Ages 8-10
 Aaron must cast lots for the two goats: one lot for the Lord, and the other lot for the scapegoat.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -174,9 +150,6 @@ Aaron must present the goat on which the lot fell for the Lord, and offer it as 
 
 #### Ages 8-10
 Aaron must present the goat on which the lot fell for the Lord, and offer it as a sin offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -196,9 +169,6 @@ But the goat on which the lot fell for the scapegoat must be presented alive bef
 #### Ages 8-10
 But the goat on which the lot fell for the scapegoat must be presented alive before the Lord, to make atonement for him, to send him away as the scapegoat into the wilderness.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -217,9 +187,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Aaron must present the bull of the sin offering, which is for himself, and must make atonement for himself and for his house, and must kill the bull of the sin offering which is for himself.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - atonement: God making a way for sin to be covered and forgiven
@@ -237,9 +204,6 @@ He must take an incense pan full of fiery coals from the altar before the Lord. 
 #### Ages 8-10
 He must take an incense pan full of fiery coals from the altar before the Lord. He must also take two handfuls of finely crushed sweet-smelling incense and bring them inside the curtain.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -255,9 +219,6 @@ He must put the sweet-smelling incense on the fire before the Lord. The cloud of
 
 #### Ages 8-10
 He must put the sweet-smelling incense on the fire before the Lord. The cloud of incense must cover the atonement cover over the covenant chest, so that he will not die.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -276,9 +237,6 @@ He must take some of the blood of the bull, and sprinkle it with his finger on t
 #### Ages 8-10
 He must take some of the blood of the bull, and sprinkle it with his finger on the atonement cover on the east; and before the atonement cover he must sprinkle some of the blood with his finger seven times.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 
@@ -292,9 +250,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Then he must kill the goat of the sin offering that is for the people, and bring his blood within the curtain, and do with his blood as he did with the blood of the bull, and sprinkle it on the atonement cover and before the atonement cover.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -312,9 +267,6 @@ He must make atonement for the Holy Place because the people of Israel were not 
 #### Ages 8-10
 He must make atonement for the Holy Place because the people of Israel were unclean, and because of all their wrongs and sins. He must do the same for the Tent of Meeting, which stands with them among their uncleanness.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - holy: Set apart for God
@@ -331,9 +283,6 @@ No one must be in the Tent of Meeting when he enters to make atonement in the Ho
 #### Ages 8-10
 No one must be in the Tent of Meeting when he enters to make atonement in the Holy Place, until he comes out, and has made atonement for himself and for his household, and for all the gathered people of Israel.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - holy: Set apart for God
@@ -349,9 +298,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "He must go out to the altar that is before the Lord and make atonement for it, and must take some of the bull's blood, and some of the goat's blood, and put it around on the horns of the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -370,9 +316,6 @@ He must sprinkle some of the blood on the altar with his finger seven times. In 
 #### Ages 8-10
 He must sprinkle some of the blood on the altar with his finger seven times. In this way he must make it clean and holy from the uncleanness of the people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -388,9 +331,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "When he has finished atoning for the Holy Place, the Tent of Meeting, and the altar, he must present the live goat.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - holy: Set apart for God
@@ -405,9 +345,6 @@ Aaron must lay both his hands on the head of the live goat, and confess over him
 
 #### Ages 8-10
 Aaron must lay both his hands on the head of the live goat, and confess over him all the sins of the people of Israel, and all their wrongs, even all their sins; and he must put them on the head of the goat, and must send him away into the wilderness by the hand of a man who is ready.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -426,7 +363,18 @@ The goat must carry all their sins on himself to a solitary land, and he must re
 The goat must carry all their sins on himself to a solitary land, and he must release the goat in the wilderness.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The live goat is not treated as magic. The wording keeps the sign given in the chapter: Israel's sins are carried away into the wilderness.
+**Cross-References**:
+- Hebrews 9:7
+<!-- Illustration Prompt -->
+**Scene**: The live goat being led away toward the wilderness on the Day of Atonement
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: High priest, appointed man, gathered Israelites
+**Setting**: Edge of the camp facing the wilderness
+**Action**: The goat is sent away from the camp
+**Emotional Tone**: Solemn, hopeful, cleansed
+**Age Appropriateness**: No graphic sacrifice shown
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -442,9 +390,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Aaron must come into the Tent of Meeting, and must take off the linen garments which he put on when he went into the Holy Place, and must leave them there.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -459,9 +404,6 @@ Then he must bathe himself in water in a holy place, put on his clothes, and com
 
 #### Ages 8-10
 Then he must bathe himself in water in a holy place, put on his garments, and come out and offer his burned offering and the burned offering of the people, and make atonement for himself and for the people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -479,9 +421,6 @@ The fat of the offering for sin he must burn on the altar.
 #### Ages 8-10
 The fat of the sin offering he must burn on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -498,9 +437,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Whoever lets the goat go as the scapegoat must wash his clothes, and bathe his body in water, and afterward he must come into the camp.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 16:27
@@ -511,9 +447,6 @@ The bull for the offering for sin, and the goat for the offering for sin, whose 
 
 #### Ages 8-10
 The bull for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the Holy Place, must be carried outside the camp; and they must burn their skins, their flesh, and their waste with fire.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -532,9 +465,6 @@ Whoever burns them must wash his clothes, and bathe his body in water, and after
 #### Ages 8-10
 Whoever burns them must wash his clothes, and bathe his body in water, and afterward he must come into the camp.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 16:29
@@ -546,9 +476,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "It must be a rule to you forever: in the seventh month, on the tenth day of the month, you must humble yourselves, and must do no kind of work, whether native-born or a foreigner who lives among you;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 16:30
@@ -559,9 +486,6 @@ for on this day must atonement be made for you, to cleanse you. You will be clea
 
 #### Ages 8-10
 for on this day must atonement be made for you, to cleanse you. You will be clean from all your sins before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -579,9 +503,6 @@ It is a Sabbath of quiet holy rest to you, and you must humble yourselves. It is
 #### Ages 8-10
 It is a Sabbath of quiet holy rest to you, and you must humble yourselves. It is a lasting rule.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Sabbath: A day of holy rest
 
@@ -595,9 +516,6 @@ The priest, who is anointed and who is set apart to be priest in his father's pl
 
 #### Ages 8-10
 The priest, who is anointed and who is set apart to be priest in his father's place, must make the atonement, and must put on the linen garments, even the holy garments.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -615,9 +533,6 @@ Then he must make atonement for the Most Holy Place; and he must make atonement 
 #### Ages 8-10
 Then he must make atonement for the Most Holy Place; and he must make atonement for the Tent of Meeting and for the altar; and he must make atonement for the priests and for all the people of the gathered people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - atonement: God making a way for sin to be covered and forgiven
@@ -633,9 +548,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "This must be a lasting rule for you, to make atonement for the people of Israel once in the year because of all their sins." It was done as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -664,12 +576,11 @@ He must take from the community of the people of Israel two male goats for a sin
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

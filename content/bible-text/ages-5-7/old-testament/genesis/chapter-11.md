@@ -12,22 +12,22 @@ Genesis
 At that time, the whole earth had one language and the same words.
 
 ### Genesis 11:2
-As people moved east, they found a wide plain in Shinar and settled there.
+As people traveled east, they found a wide plain in the land of Shinar and settled there.
 
 ### Genesis 11:3
-They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone and sticky tar to hold the bricks together.
+They said to each other, "Come, let us make bricks and bake them hard." They used brick instead of stone, and sticky tar to hold the bricks together.
 
 ### Genesis 11:4
 Then they said, "Come, let us build ourselves a city and a tower with its top reaching toward the heavens. Let us make a great name for ourselves, so we will not be scattered over the whole earth."
 
 ### Genesis 11:5
-But the Lord came down to see the city and the tower the people were building.
+But the Lord came down to see the city and the tower that the people were building.
 
 ### Genesis 11:6
 The Lord said, "They are one people, and they all have one language. This is only the beginning of what they will do. Nothing they plan will be held back from them.
 
 ### Genesis 11:7
-Come, let us go down and mix up their language, so they will not understand one another."
+Come, let us go down and mix up their language, so they will not understand one another's words."
 
 ### Genesis 11:8
 So the Lord scattered them from there over the whole earth, and they stopped building the city.
@@ -99,7 +99,7 @@ Abram and Nahor both married. Abram's wife was Sarai. Nahor's wife was Milcah, t
 Sarai had no children, because she was not able to have a child.
 
 ### Genesis 11:31
-Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai. They left Ur of the Chaldeans to go to Canaan. But when they came to Harran, they settled there.
+Terah took his son Abram, his grandson Lot, and his daughter-in-law Sarai, Abram's wife. They left Ur of the Chaldeans to go to Canaan. But when they came to Harran, they settled there.
 
 ### Genesis 11:32
 Terah lived 205 years, and he died in Harran.

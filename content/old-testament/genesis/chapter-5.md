@@ -16,16 +16,26 @@ Genesis 5 gives the family line from Adam to Noah. The repeated words about deat
 **Original Reference**: Genesis 5:1 - This is the book of the generations of Adam. In the day that God created man, he made him in God's likeness.
 
 #### Ages 5-7
-This is the written family line of Adam. When God created human beings, he made them in the likeness of God.
+This is the written family line that began with Adam. When God created human beings, he made them in the likeness of God.
 
 #### Ages 8-10
-This is the written family line of Adam. When God created human beings, he made them in the likeness of God.
+This is the written family line that began with Adam. When God created human beings, he made them in the likeness of God.
 
 **Key Vocabulary**:
 - generation: People living in the same time, or a step in a family line
 
 **Cross-References**:
 - Genesis 1:26-27
+
+<!-- Illustration Prompt -->
+**Scene**: A written family line beginning with Adam
+**Style**: Warm children's Bible illustration with a scroll or simple family line
+**Characters**: Adam and Eve with later family shown gently in the background
+**Setting**: Early earth outside Eden
+**Action**: The family line begins and continues through many generations
+**Emotional Tone**: Remembering, solemn, hopeful
+**Age Appropriateness**: Calm and respectful, not crowded or confusing
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -284,10 +294,10 @@ Altogether, Enoch lived 365 years.
 **Original Reference**: Genesis 5:24 - Enoch walked with God, and he was not found, for God took him.
 
 #### Ages 5-7
-Enoch walked faithfully with God. Then he was gone, because God took him.
+Enoch walked faithfully with God. Then he was not there anymore, because God took him.
 
 #### Ages 8-10
-Enoch walked faithfully with God. Then he was no more, because God took him away.
+Enoch walked faithfully with God. Then he was not found, because God took him away.
 
 **Translation Notes**:
 Avoid adding details about Enoch beyond the text. Genesis says he walked with God and God took him; Hebrews 11:5 later says Enoch did not see death.
@@ -298,6 +308,16 @@ Avoid adding details about Enoch beyond the text. Genesis says he walked with Go
 
 **Cross-References**:
 - Hebrews 11:5
+
+<!-- Illustration Prompt -->
+**Scene**: Enoch walking faithfully with God
+**Style**: Reverent children's Bible illustration with gentle light
+**Characters**: Enoch walking; no visible form for God, only a warm sign of God's presence
+**Setting**: Early earth beneath open sky
+**Action**: Enoch walks in faithful fellowship with God
+**Emotional Tone**: Peaceful, mysterious, hopeful
+**Age Appropriateness**: Do not show Enoch dying; keep the mystery gentle
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -349,10 +369,10 @@ When Lamech was 182 years old, he had a son.
 **Original Reference**: Genesis 5:29 - He named him Noah, saying, "This one will comfort us in our work and in the toil of our hands, caused by the ground which Yahweh has cursed."
 
 #### Ages 5-7
-Lamech named him Noah and said, "He will comfort us in our work and in the painful toil of our hands from the ground the Lord has cursed."
+Lamech named him Noah and said, "This child will comfort us in our work and in the painful toil of our hands from the ground the Lord has cursed."
 
 #### Ages 8-10
-He named him Noah and said, "He will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."
+He named him Noah and said, "This child will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."
 
 **Translation Notes**:
 Noah's name is tied to hope for comfort from painful work under the curse.
@@ -362,6 +382,16 @@ Noah's name is tied to hope for comfort from painful work under the curse.
 
 **Cross-References**:
 - Genesis 3:17-19
+
+<!-- Illustration Prompt -->
+**Scene**: Lamech naming baby Noah with hope for comfort
+**Style**: Tender children's Bible illustration
+**Characters**: Lamech holding or looking at baby Noah, family nearby
+**Setting**: A simple early home near worked ground
+**Action**: Lamech names Noah and speaks hope about comfort from painful toil
+**Emotional Tone**: Weary hope, tenderness, expectation
+**Age Appropriateness**: Safe family scene with no frightening elements
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -391,10 +421,10 @@ Altogether, Lamech lived 777 years, and then he died.
 **Original Reference**: Genesis 5:32 - Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.
 
 #### Ages 5-7
-After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
+When Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 
 #### Ages 8-10
-After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
+When Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 
 ---
 
@@ -409,20 +439,22 @@ The chapter lists the generations from Adam through Seth down to Noah. Again and
 ## Memory Verses by Age
 
 ### Ages 5-7
-Enoch walked faithfully with God. Then he was gone, because God took him. - Genesis 5:24
+Enoch walked faithfully with God. Then he was not there anymore, because God took him. - Genesis 5:24
 
 ### Ages 8-10
-Enoch walked faithfully with God. Then he was no more, because God took him away. - Genesis 5:24
+Enoch walked faithfully with God. Then he was not found, because God took him away. - Genesis 5:24
 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What picture did this chapter help you see in your mind?
-2. What did God say, do, promise, or show?
+1. What repeated words do you hear again and again in this family line?
+2. What was different about Enoch?
+3. Why did Lamech give Noah a hopeful name?
 
 ### Ages 8-10
-1. How does this chapter move God's promise story forward?
-2. Which detail should be explained carefully so the meaning stays true?
+1. How does the repeated phrase "then he died" connect back to Genesis 3?
+2. What does it mean that Enoch walked faithfully with God?
+3. How does Noah's birth point toward comfort in a world under the curse?
 
 ## Prayer
 Lord, help us read Genesis 5 with humble hearts. Teach us to see what your word says, trust your promises, and tell the story truthfully. Amen.

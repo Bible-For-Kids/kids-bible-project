@@ -1,7 +1,7 @@
 # Leviticus Chapter 21
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives special holiness instructions for the priests, including mourning, marriage, family conduct, and who may serve near the altar.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives special holiness instructions for the priests, including mourning, marriage, family conduct, and who may serve near the altar.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord said to Moses, "Speak to the priests, Aaron's sons, and say to them, 'A
 #### Ages 8-10
 The Lord said to Moses, "Speak to the priests, Aaron's sons, and say to them, 'A priest must not make himself unclean by touching a dead person among his people,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -42,9 +39,6 @@ except for his relatives that are near to him: for his mother, for his father, f
 #### Ages 8-10
 except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:3
@@ -55,9 +49,6 @@ or for his unmarried sister who is close to him and has never had a husband. For
 
 #### Ages 8-10
 or for his unmarried sister who is close to him and has never had a husband. For her, he may make himself unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -70,9 +61,6 @@ As a leader among his people, he must not do this for others in a way that disho
 #### Ages 8-10
 As a leader among his people, he must not make himself unclean in a way that dishonors himself.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:5
@@ -83,9 +71,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "They must not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -99,7 +84,18 @@ They must be holy to their God and must not dishonor God's name. They bring the 
 They must be holy to their God and must not dishonor God's name. They bring the Lord's offerings burned on the altar, the food offerings of their God, so they must be holy.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The priests have special boundaries because they serve near the altar and bear the Lord's holy name before the people.
+**Cross-References**:
+- Exodus 28:36-38
+<!-- Illustration Prompt -->
+**Scene**: Priests standing near the altar in clean priestly clothes
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priests and Moses
+**Setting**: Holy tent courtyard
+**Action**: The priests prepare to serve with reverence
+**Emotional Tone**: Holy, ordered, respectful
+**Age Appropriateness**: Ceremonial scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -118,9 +114,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "They must not marry a woman who is living in sexual sin or has been dishonored. A priest must not marry a woman divorced from her husband; for he is holy to his God.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - holy: Set apart for God
@@ -137,9 +130,6 @@ You must treat the priest as holy, because he offers the food of your God. He mu
 
 #### Ages 8-10
 You must treat the priest as holy, because he offers the food of your God. He must be holy to you, because I, the Lord who makes you holy, am holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -158,9 +148,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a priest's daughter dishonors herself through sexual sin, she dishonors her father. She must be burned with fire.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 - sin: Disobeying God and going against his good way
@@ -176,9 +163,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Whoever is the high priest among his brothers, upon whose head the anointing oil is poured, and who is set apart to put on the garments, must not let the hair of his head hang loose, or tear his clothes.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -193,9 +177,6 @@ He must not go near any dead body in a way that makes him not clean for worship,
 #### Ages 8-10
 He must not go near any dead body or make himself unclean, not even for his father or mother.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:12
@@ -206,9 +187,6 @@ He must not leave the holy place or dishonor the holy place of his God, because 
 
 #### Ages 8-10
 He must not leave the holy place or dishonor the holy place of his God, because the special anointing oil of his God is on him. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -227,9 +205,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "He must marry a virgin from his own people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:14
@@ -240,9 +215,6 @@ He must not marry a widow, a divorced woman, a woman who has been dishonored, or
 
 #### Ages 8-10
 He must not marry a widow, a divorced woman, a woman who has been dishonored, or a woman living in sexual sin. He must marry a virgin from his own people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -257,9 +229,6 @@ He must not dishonor his children among his people, because I am the Lord who ma
 
 #### Ages 8-10
 He must not dishonor his children among his people, because I am the Lord who makes him holy.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -277,9 +246,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -296,9 +262,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Say to Aaron, 'In every generation, none of your descendants who has a serious physical condition may come near to offer the food of his God.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - God: The one true Creator and Lord over all
@@ -314,9 +277,6 @@ A man with a serious physical condition must not come near: a blind man, a man w
 #### Ages 8-10
 A man with a serious physical condition must not come near: a blind man, a lame man, a man with a face shaped differently, or a man with another body difference,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:19
@@ -327,9 +287,6 @@ or a man who has an injured foot, or an injured hand,
 
 #### Ages 8-10
 or a man who has an injured foot, or an injured hand,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -342,9 +299,6 @@ or a man with a bent back, a very short body, an eye problem, an itching disease
 #### Ages 8-10
 or a man with a bent back, a very short body, an eye problem, an itching disease, scabs, or damaged male body parts.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 21:21
@@ -355,9 +309,6 @@ No descendant of Aaron the priest who has a serious physical condition may come 
 
 #### Ages 8-10
 No descendant of Aaron the priest who has a serious physical condition may come near to offer the Lord's offerings burned on the altar. Since he has that condition, he must not come near to offer the food of his God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -377,9 +328,6 @@ He may still eat the food of his God, both the most holy food and the holy food.
 #### Ages 8-10
 He may still eat the food of his God, both the most holy food and the holy food.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - holy: Set apart for God
@@ -394,9 +342,6 @@ But he must not come near the curtain or the altar, because of his physical cond
 
 #### Ages 8-10
 But he must not come near the curtain or the altar, because of his physical condition, so that he does not dishonor my holy places. I am the Lord who makes them holy.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -414,9 +359,6 @@ So Moses spoke to Aaron, and to his sons, and to all the people of Israel.
 
 #### Ages 8-10
 So Moses spoke to Aaron, and to his sons, and to all the people of Israel.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -443,12 +385,11 @@ or for his unmarried sister who is close to him and has never had a husband. For
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

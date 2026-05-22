@@ -1068,6 +1068,16 @@ function polishNumbersText(text, ageRange, reference) {
     .replace(/\bNo atonement can be made for the land\b/g, 'No atonement can be made for the land')
     .replace(/\baccording to the holy place weight\b/g, 'by the weight used at the holy place')
     .replace(/\bholy place weight\b/g, 'weight used at the holy place')
+    .replace(/\bUnleavened bread\b/g, 'Bread made without yeast')
+    .replace(/\bUnleavened cake\b/g, 'Cake made without yeast')
+    .replace(/\bUnleavened cakes\b/g, 'Cakes made without yeast')
+    .replace(/\bUnleavened wafer\b/g, 'Thin wafer made without yeast')
+    .replace(/\bUnleavened wafers\b/g, 'Thin wafers made without yeast')
+    .replace(/\bunleavened bread\b/g, 'bread made without yeast')
+    .replace(/\bunleavened cake\b/g, 'cake made without yeast')
+    .replace(/\bunleavened cakes\b/g, 'cakes made without yeast')
+    .replace(/\bunleavened wafer\b/g, 'thin wafer made without yeast')
+    .replace(/\bunleavened wafers\b/g, 'thin wafers made without yeast')
     .replace(/\bbeing made clean water\b/g, 'cleansing water')
     .replace(/\bwater of being made clean\b/g, 'cleansing water')
     .replace(/\bthe water of being made clean\b/g, 'the cleansing water')
@@ -1146,11 +1156,6 @@ function polishNumbersText(text, ageRange, reference) {
       .replace(/\bvows\b/g, 'special promises')
       .replace(/\bholy convocation\b/g, 'holy gathering')
       .replace(/\bholy convocations\b/g, 'holy gatherings')
-      .replace(/\bunleavened bread\b/g, 'bread made without yeast')
-      .replace(/\bunleavened cake\b/g, 'cake made without yeast')
-      .replace(/\bunleavened cakes\b/g, 'cakes made without yeast')
-      .replace(/\bunleavened wafer\b/g, 'thin wafer made without yeast')
-      .replace(/\bunleavened wafers\b/g, 'thin wafers made without yeast')
       .replace(/\bmale lamb a year old\b/g, 'year-old male lamb')
       .replace(/\bfemale lamb a year old\b/g, 'year-old female lamb');
   }
@@ -1263,7 +1268,7 @@ function replaceResourceOverview(content, chapterNumber) {
   if (!data) return content;
 
   const firstSentence = data.summary.match(/^.*?\./)?.[0] || data.summary;
-  const overview = `${BOOK_OVERVIEW} This chapter focuses on ${firstSentence.charAt(0).toLowerCase()}${firstSentence.slice(1)}`;
+  const overview = `${BOOK_OVERVIEW} ${firstSentence}`;
 
   return content.replace(
     /(## Book Overview\s*\r?\n+)([\s\S]*?)(\r?\n\r?\n## Important Keywords)/,
@@ -1317,16 +1322,28 @@ function replaceResourceAgeText(content, reference, ageRange, text) {
   if (!text) return content;
 
   const heading = ageRange === '5-7' ? '#### Ages 5-7' : '#### Ages 8-10';
-  const nextHeading = ageRange === '5-7' ? '#### Ages 8-10' : '**Translation Notes**:';
-  const escapedReference = escapeRegex(reference);
-  const escapedHeading = escapeRegex(heading);
-  const escapedNextHeading = escapeRegex(nextHeading);
-  const regex = new RegExp(
-    `(### ${escapedReference}[\\s\\S]*?${escapedHeading}\\s*\\r?\\n)([\\s\\S]*?)(\\r?\\n\\r?\\n${escapedNextHeading})`,
-    'm'
-  );
+  const verseHeading = `### ${reference}`;
+  const verseStart = content.indexOf(verseHeading);
+  if (verseStart === -1) return content;
 
-  return content.replace(regex, `$1${text}$3`);
+  const nextVerseMatch = content.slice(verseStart + verseHeading.length).match(/\r?\n### Numbers \d+:\d+\s*\r?\n/);
+  const verseEnd = nextVerseMatch
+    ? verseStart + verseHeading.length + nextVerseMatch.index
+    : content.length;
+
+  const before = content.slice(0, verseStart);
+  let section = content.slice(verseStart, verseEnd);
+  const after = content.slice(verseEnd);
+  const headingMatch = section.match(new RegExp(`^${escapeRegex(heading)}\\s*$`, 'm'));
+  if (!headingMatch) return content;
+
+  const bodyStart = headingMatch.index + headingMatch[0].length;
+  const rest = section.slice(bodyStart);
+  const nextBlockIndex = rest.search(/\r?\n\r?\n(?:#### |\*\*|---|<!--|### |## )/);
+  const bodyEnd = nextBlockIndex === -1 ? section.length : bodyStart + nextBlockIndex;
+  section = `${section.slice(0, bodyStart)}\n${text}${section.slice(bodyEnd)}`;
+
+  return `${before}${section}${after}`;
 }
 
 function extractVerses(content) {

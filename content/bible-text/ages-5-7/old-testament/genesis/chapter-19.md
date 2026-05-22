@@ -15,7 +15,7 @@ The two angels came to Sodom in the evening. Lot was sitting at the city gate. W
 Lot said, "My lords, please come to your servant's house. Wash your feet and spend the night. Then you can get up early and go on your way." They said, "No, we will spend the night in the square."
 
 ### Genesis 19:3
-But Lot urged them strongly, so they went with him and entered his house. He made a meal for them, baked bread without yeast, and they ate.
+But Lot urged them strongly, so they went with him and entered his house. He made a meal for them, baked flat bread without yeast, and they ate.
 
 ### Genesis 19:4
 Before they lay down, all the men from every part of Sodom, young and old, surrounded the house.
@@ -30,7 +30,7 @@ Lot went outside to meet them and shut the door behind him.
 He said, "No, my brothers. Please do not do this evil thing.
 
 ### Genesis 19:8
-Look, I have two daughters who have never slept with a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
+Look, I have two daughters who have never been with a man. I will bring them out to you, and you may do to them as you wish. But do not do anything to these men, because they have come under my roof for protection."
 
 ### Genesis 19:9
 The men said, "Get out of our way!" Then they said, "This man came here as a foreigner, and now he wants to judge us. We will treat you worse than them." They pushed hard against Lot and came near to break the door.

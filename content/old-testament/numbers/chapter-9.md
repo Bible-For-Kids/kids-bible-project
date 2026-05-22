@@ -1,7 +1,7 @@
 # Numbers Chapter 9
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel keeps the Passover in the wilderness, and the Lord gives a gracious way for those who are unclean or far away to keep it later.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Israel keeps the Passover in the wilderness, and the Lord gives a gracious way for those who are unclean or far away to keep it later.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses in the wilderness of Sinai, in the first month of the se
 #### Ages 8-10
 The Lord spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 - Lord: God's covenant name used in many English Bibles
@@ -42,9 +39,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Let the people of Israel keep the Passover in its appointed season.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -60,9 +54,6 @@ On the fourteenth day of this month, at evening, you must keep it in its appoint
 #### Ages 8-10
 On the fourteenth day of this month, at evening, you must keep it in its appointed season. You must keep it according to all its rules and according to all its commands."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 9:4
@@ -73,9 +64,6 @@ Moses told the people of Israel that they should keep the Passover.
 
 #### Ages 8-10
 Moses told the people of Israel that they should keep the Passover.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -92,9 +80,6 @@ They kept the Passover in the first month, on the fourteenth day of the month at
 
 #### Ages 8-10
 They kept the Passover in the first month, on the fourteenth day of the month at evening, in the wilderness of Sinai. According to all that the Lord commanded Moses, so the people of Israel did.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -114,9 +99,6 @@ There were certain men, who were not clean for worship because of a dead body of
 #### Ages 8-10
 There were certain men, who were unclean because of the dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -132,9 +114,6 @@ Those men said to him, "We are not clean for worship because of a dead body of a
 
 #### Ages 8-10
 Those men said to him, "We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of the Lord in its appointed season among the people of Israel?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -153,9 +132,6 @@ Moses answered them, "Wait, that I may hear what the Lord will command concernin
 #### Ages 8-10
 Moses answered them, "Wait, that I may hear what the Lord will command concerning you."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Lord: God's covenant name used in many English Bibles
@@ -173,9 +149,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -192,9 +165,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Say to the people of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he must still keep the Passover to the Lord.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -210,10 +180,7 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 In the second month, on the fourteenth day at evening they must keep it; they must eat it with bread made without yeast and bitter herbs.
 
 #### Ages 8-10
-In the second month, on the fourteenth day at evening they must keep it; they must eat it with unleavened bread and bitter herbs.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+In the second month, on the fourteenth day at evening they must keep it; they must eat it with bread made without yeast and bitter herbs.
 
 ---
 
@@ -225,9 +192,6 @@ They must leave none of it until the morning, nor break a bone of it. According 
 
 #### Ages 8-10
 They must leave none of it until the morning, nor break a bone of it. According to all the rule of the Passover they must keep it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -242,9 +206,6 @@ But the man who is clean, and is not on a travel, and fails to keep the Passover
 
 #### Ages 8-10
 But the man who is clean, and is not on a travel, and fails to keep the Passover, that person must be removed from his people. Because he didn't offer the offering of the Lord in its appointed season, that man must carry his guilt.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -264,9 +225,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "If a foreigner lives among you, and desires to keep the Passover to the Lord, then he must do so according to the rule of the Passover, and according to its command. You must have one rule, both for the foreigner, and for the person who is born in the land.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Lord: God's covenant name used in many English Bibles
@@ -284,9 +242,6 @@ On the day that the tent was raised up, the cloud covered the tent, even the Ten
 #### Ages 8-10
 On the day that the tent was raised up, the cloud covered the tent, even the Tent of the Testimony. At evening it was over the tent, as it were the appearance of fire, until morning.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
 
@@ -301,9 +256,6 @@ So it was continually. The cloud covered it, and the appearance of fire by night
 #### Ages 8-10
 So it was continually. The cloud covered it, and the appearance of fire by night.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 9:17
@@ -316,8 +268,17 @@ Whenever the cloud was taken up from over the Tent, then after that the people o
 Whenever the cloud was taken up from over the Tent, then after that the people of Israel traveled; and in the place where the cloud remained, there the people of Israel camped.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Israel keeps the Passover in the wilderness, and the Lord gives a gracious way for those who are unclean or far away to keep it later. The cloud over the holy tent shows when Israel should camp and when Israel should travel.
 
+<!-- Illustration Prompt -->
+**Scene**: The cloud lifting from the holy tent as Israel prepares to travel
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 9 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: The cloud lifting from the holy tent as Israel prepares to travel
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -331,9 +292,6 @@ At the command of the Lord, the people of Israel traveled, and at the command of
 
 #### Ages 8-10
 At the command of the Lord, the people of Israel traveled, and at the command of the Lord they camped. As long as the cloud remained on the tent they remained camped.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -353,9 +311,6 @@ When the cloud stayed on the tent many days, then the people of Israel kept the 
 #### Ages 8-10
 When the cloud stayed on the tent many days, then the people of Israel kept the Lord's command, and didn't travel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Israel: God's covenant people descended from Jacob
@@ -374,9 +329,6 @@ Sometimes the cloud was a few days on the tent; then according to the command of
 #### Ages 8-10
 Sometimes the cloud was a few days on the tent; then according to the command of the Lord they remained camped, and according to the command of the Lord they traveled.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Lord: God's covenant name used in many English Bibles
@@ -394,9 +346,6 @@ Sometimes the cloud was from evening until morning; and when the cloud was taken
 #### Ages 8-10
 Sometimes the cloud was from evening until morning; and when the cloud was taken up in the morning, they traveled; or by day and by night, when the cloud was taken up, they traveled.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 9:22
@@ -407,9 +356,6 @@ Whether it was two days, or a month, or a year that the cloud stayed on the tent
 
 #### Ages 8-10
 Whether it was two days, or a month, or a year that the cloud stayed on the tent, remaining on it, the people of Israel remained camped, and didn't travel; but when it was taken up, they traveled.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -425,9 +371,6 @@ At the command of the Lord they camped, and at the command of the Lord they trav
 
 #### Ages 8-10
 At the command of the Lord they camped, and at the command of the Lord they traveled. They kept the Lord's command, at the command of the Lord by Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -455,12 +398,11 @@ Moses told the people of Israel that they should keep the Passover. - Numbers 9:
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God wants rescue remembered?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God wants rescue remembered"?
+2. How does this chapter also help explain "God leads his people"?
 ## Prayer
 Lord, help us understand Numbers 9 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

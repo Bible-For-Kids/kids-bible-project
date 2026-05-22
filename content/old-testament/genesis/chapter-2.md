@@ -8,6 +8,12 @@ Genesis 2 looks closely at the seventh day, the garden of Eden, the first man, G
 ### Genesis 2:1
 **Original Reference**: Genesis 2:1 - The heavens, the earth, and all their hosts were completed.
 
+#### Ages 5-7
+So the heavens and the earth were finished. Everything in them was complete.
+
+#### Ages 8-10
+So the heavens and the earth were completed, along with everything in them.
+
 **Translation Notes**:
 This verse closes the six days of creation by saying God's ordered world was complete.
 
@@ -21,6 +27,12 @@ This verse closes the six days of creation by saying God's ordered world was com
 ### Genesis 2:2
 **Original Reference**: Genesis 2:2 - On the seventh day, God finished his work and rested from it.
 
+#### Ages 5-7
+By the seventh day, God had finished all his work. So on that day, God rested from all he had made.
+
+#### Ages 8-10
+By the seventh day, God had finished the work he had been doing. On the seventh day, he rested from all his work.
+
 **Translation Notes**:
 God's rest is not because he was tired. It shows completion and sets a pattern of holy rest.
 
@@ -32,6 +44,12 @@ God's rest is not because he was tired. It shows completion and sets a pattern o
 
 ### Genesis 2:3
 **Original Reference**: Genesis 2:3 - God blessed the seventh day and made it holy because he rested from his creative work.
+
+#### Ages 5-7
+God blessed the seventh day and made it special. On that day, he rested from all his work of creation.
+
+#### Ages 8-10
+God blessed the seventh day and made it holy, because on it he rested from all the work he had done in creation.
 
 **Key Vocabulary**:
 - Blessed: Spoke good over something
@@ -46,6 +64,12 @@ God's rest is not because he was tired. It shows completion and sets a pattern o
 ### Genesis 2:4
 **Original Reference**: Genesis 2:4 - This is the account of the heavens and earth when the Lord God made them.
 
+#### Ages 5-7
+This is the story of the heavens and the earth when they were created. This is what happened when the Lord God made the earth and the heavens.
+
+#### Ages 8-10
+This is the account of the heavens and the earth when they were created, when the Lord God made the earth and the heavens.
+
 **Translation Notes**:
 This verse begins a closer look at creation, especially the garden and the first people.
 
@@ -53,6 +77,12 @@ This verse begins a closer look at creation, especially the garden and the first
 
 ### Genesis 2:5
 **Original Reference**: Genesis 2:5 - No field shrub or field plant had yet sprung up, because there was no rain and no person to work the ground.
+
+#### Ages 5-7
+No field bushes had grown on the earth yet. No field plants had sprung up yet, because the Lord God had not sent rain, and there was no person to work the ground.
+
+#### Ages 8-10
+No shrub of the field had yet appeared on the earth, and no plant of the field had yet sprung up. The Lord God had not sent rain on the earth, and there was no man to work the ground.
 
 **Translation Notes**:
 This verse speaks about field plants and cultivated growth. It should not be worded as if Genesis 1 never happened. For children, keep the focus on the garden scene before rain and human work.
@@ -66,10 +96,22 @@ This verse speaks about field plants and cultivated growth. It should not be wor
 ### Genesis 2:6
 **Original Reference**: Genesis 2:6 - Water came up from the earth and watered the ground.
 
+#### Ages 5-7
+But water came up from the earth. It watered the whole surface of the ground.
+
+#### Ages 8-10
+But water came up from the earth and watered the whole surface of the ground.
+
 ---
 
 ### Genesis 2:7
 **Original Reference**: Genesis 2:7 - The Lord God formed the man from dust and breathed life into him.
+
+#### Ages 5-7
+Then the Lord God formed the man from dust from the ground. God breathed life into him, and the man became a living person.
+
+#### Ages 8-10
+Then the Lord God formed the man from the dust of the ground. He breathed the breath of life into his nostrils, and the man became a living being.
 
 **Translation Notes**:
 This verse shows both humility and honor: the man is formed from dust, and his life comes from God.
@@ -88,6 +130,12 @@ This verse shows both humility and honor: the man is formed from dust, and his l
 ### Genesis 2:8
 **Original Reference**: Genesis 2:8 - The Lord God planted a garden in Eden and placed the man there.
 
+#### Ages 5-7
+The Lord God planted a garden in Eden, toward the east. He put the man he had formed there.
+
+#### Ages 8-10
+Now the Lord God planted a garden in Eden, in the east. There he put the man he had formed.
+
 **Key Vocabulary**:
 - Eden: The place where God planted the garden
 
@@ -95,6 +143,12 @@ This verse shows both humility and honor: the man is formed from dust, and his l
 
 ### Genesis 2:9
 **Original Reference**: Genesis 2:9 - God made beautiful, food-giving trees grow, including the tree of life and the tree of the knowledge of good and evil.
+
+#### Ages 5-7
+The Lord God made beautiful trees grow from the ground. They were good for food. In the middle of the garden were the tree of life and the tree of knowing good and evil.
+
+#### Ages 8-10
+The Lord God made every kind of tree grow from the ground. They were pleasing to look at and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.
 
 **Translation Notes**:
 The tree of life and the tree of the knowledge of good and evil should keep their names, with simple explanation supplied in vocabulary or discussion.
@@ -108,10 +162,22 @@ The tree of life and the tree of the knowledge of good and evil should keep thei
 ### Genesis 2:10
 **Original Reference**: Genesis 2:10 - A river flowed from Eden to water the garden and divided into four rivers.
 
+#### Ages 5-7
+A river flowed out from Eden to water the garden. From there, it divided into four rivers.
+
+#### Ages 8-10
+A river flowed from Eden to water the garden. From there it divided and became four rivers.
+
 ---
 
 ### Genesis 2:11
 **Original Reference**: Genesis 2:11 - The first river, Pishon, flowed around Havilah, a land with gold.
+
+#### Ages 5-7
+The first river was named Pishon. It flowed around the whole land of Havilah, where there was gold.
+
+#### Ages 8-10
+The first river is named Pishon. It winds through the whole land of Havilah, where there is gold.
 
 **Key Vocabulary**:
 - Pishon: The name of a river
@@ -122,6 +188,12 @@ The tree of life and the tree of the knowledge of good and evil should keep thei
 ### Genesis 2:12
 **Original Reference**: Genesis 2:12 - Havilah had good gold, bdellium, and onyx stone.
 
+#### Ages 5-7
+The gold of that land was good. A sweet-smelling resin and onyx stones were also there.
+
+#### Ages 8-10
+The gold of that land is good. Bdellium and onyx stone are also found there.
+
 **Key Vocabulary**:
 - Bdellium: A valuable sweet-smelling resin
 - Onyx: A valuable stone
@@ -131,10 +203,22 @@ The tree of life and the tree of the knowledge of good and evil should keep thei
 ### Genesis 2:13
 **Original Reference**: Genesis 2:13 - The second river, Gihon, flowed around Cush.
 
+#### Ages 5-7
+The second river was named Gihon. It flowed around the whole land of Cush.
+
+#### Ages 8-10
+The second river is named Gihon. It winds through the whole land of Cush.
+
 ---
 
 ### Genesis 2:14
 **Original Reference**: Genesis 2:14 - The third river was Tigris, and the fourth was Euphrates.
+
+#### Ages 5-7
+The third river was named Tigris. It flowed east of Assyria. The fourth river was named Euphrates.
+
+#### Ages 8-10
+The third river is named Tigris. It runs east of Assyria. The fourth river is the Euphrates.
 
 **Key Vocabulary**:
 - Tigris: The name of a river
@@ -144,6 +228,12 @@ The tree of life and the tree of the knowledge of good and evil should keep thei
 
 ### Genesis 2:15
 **Original Reference**: Genesis 2:15 - God placed the man in Eden to work and keep the garden.
+
+#### Ages 5-7
+The Lord God took the man and put him in the garden of Eden. The man was to work it and care for it.
+
+#### Ages 8-10
+The Lord God took the man and placed him in the garden of Eden to work it and take care of it.
 
 **Translation Notes**:
 Work appears before sin enters the story. It is part of humanity's good calling.
@@ -157,6 +247,12 @@ Work appears before sin enters the story. It is part of humanity's good calling.
 ### Genesis 2:16
 **Original Reference**: Genesis 2:16 - God commanded the man that he could freely eat from every tree in the garden.
 
+#### Ages 5-7
+The Lord God gave the man this command: "You may freely eat fruit from any tree in the garden.
+
+#### Ages 8-10
+The Lord God commanded the man, "You may freely eat from any tree in the garden.
+
 **Translation Notes**:
 Begin with God's generous permission before the warning in the next verse.
 
@@ -164,6 +260,12 @@ Begin with God's generous permission before the warning in the next verse.
 
 ### Genesis 2:17
 **Original Reference**: Genesis 2:17 - God warned the man not to eat from the tree of the knowledge of good and evil, or he would surely die.
+
+#### Ages 5-7
+But you must not eat from the tree of knowing good and evil. If you eat from it, you will surely die."
+
+#### Ages 8-10
+But you must not eat from the tree of the knowledge of good and evil. When you eat from it, you will surely die."
 
 **Translation Notes**:
 The warning should stay clear. For young children, use direct language without graphic detail.
@@ -177,6 +279,12 @@ The warning should stay clear. For young children, use direct language without g
 ### Genesis 2:18
 **Original Reference**: Genesis 2:18 - God said it was not good for the man to be alone and would make a suitable helper for him.
 
+#### Ages 5-7
+Then the Lord God said, "It is not good for the man to be alone. I will make a helper who is right for him."
+
+#### Ages 8-10
+The Lord God said, "It is not good for the man to be alone. I will make a helper suitable for him."
+
 **Translation Notes**:
 "Helper" is not a lesser role. In Scripture, help is often strong, faithful support.
 
@@ -189,6 +297,12 @@ The warning should stay clear. For young children, use direct language without g
 ### Genesis 2:19
 **Original Reference**: Genesis 2:19 - God brought the animals and birds to the man to see what he would name them.
 
+#### Ages 5-7
+The Lord God had formed every land animal and every bird from the ground. He brought them to the man to see what he would call them. Whatever the man called each living creature became its name.
+
+#### Ages 8-10
+The Lord God had formed every wild animal and every bird of the sky from the ground. He brought them to the man to see what he would name them. Whatever the man called each living creature became its name.
+
 **Translation Notes**:
 "Had formed" helps avoid a sequence contradiction with Genesis 1, while preserving that God is the maker of animals and birds.
 
@@ -197,10 +311,22 @@ The warning should stay clear. For young children, use direct language without g
 ### Genesis 2:20
 **Original Reference**: Genesis 2:20 - The man named the animals, but no suitable helper was found for him.
 
+#### Ages 5-7
+The man named the tame animals, the birds of the sky, and the wild animals. But no helper right for the man was found.
+
+#### Ages 8-10
+So the man gave names to all the livestock, the birds of the sky, and all the wild animals. But for Adam, no suitable helper was found.
+
 ---
 
 ### Genesis 2:21
 **Original Reference**: Genesis 2:21 - God caused the man to sleep deeply, took one of his ribs, and closed the place.
+
+#### Ages 5-7
+So the Lord God caused the man to fall into a deep sleep. While the man slept, God took one of his ribs and closed up the place.
+
+#### Ages 8-10
+So the Lord God caused the man to fall into a deep sleep. While he slept, God took one of the man's ribs and closed up the place with flesh.
 
 **Translation Notes**:
 Keep this gentle for children. The focus is God's careful making, not medical detail.
@@ -210,10 +336,22 @@ Keep this gentle for children. The focus is God's careful making, not medical de
 ### Genesis 2:22
 **Original Reference**: Genesis 2:22 - God made a woman from the rib and brought her to the man.
 
+#### Ages 5-7
+The Lord God made a woman from the rib he had taken from the man. Then God brought her to the man.
+
+#### Ages 8-10
+Then the Lord God made a woman from the rib he had taken from the man, and he brought her to the man.
+
 ---
 
 ### Genesis 2:23
 **Original Reference**: Genesis 2:23 - The man recognized the woman as bone of his bones and flesh of his flesh.
+
+#### Ages 5-7
+The man said, "At last! This one is bone from my bones and flesh from my flesh. She will be called woman, because she was taken from man."
+
+#### Ages 8-10
+The man said, "This one, at last, is bone of my bones and flesh of my flesh. She will be called woman, because she was taken out of man."
 
 **Translation Notes**:
 "At last" captures the man's joyful recognition that the woman corresponds to him.
@@ -222,6 +360,12 @@ Keep this gentle for children. The focus is God's careful making, not medical de
 
 ### Genesis 2:24
 **Original Reference**: Genesis 2:24 - A man leaves his father and mother, is joined to his wife, and the two become one flesh.
+
+#### Ages 5-7
+That is why a man leaves his father and mother and joins with his wife. The two become one flesh.
+
+#### Ages 8-10
+That is why a man leaves his father and mother and is joined to his wife, and the two become one flesh.
 
 **Translation Notes**:
 This verse establishes marriage as a deep covenant union.
@@ -234,6 +378,12 @@ This verse establishes marriage as a deep covenant union.
 
 ### Genesis 2:25
 **Original Reference**: Genesis 2:25 - The man and his wife were naked and unashamed.
+
+#### Ages 5-7
+The man and his wife were both without clothes. They were safe together and felt no shame.
+
+#### Ages 8-10
+The man and his wife were both naked, and they felt no shame.
 
 **Translation Notes**:
 For ages 5-7, the wording may explain the meaning as safety and no shame while still preserving the fact that they had no clothes.

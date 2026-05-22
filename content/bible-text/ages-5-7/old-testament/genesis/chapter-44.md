@@ -15,7 +15,7 @@ Joseph commanded the manager of his house, "Fill the men's sacks with as much fo
 "Put my cup, the silver cup, in the mouth of the youngest one's sack, along with his grain money." The manager did just as Joseph said.
 
 ### Genesis 44:3
-As soon as morning was light, the men were sent away with their donkeys.
+As soon as the morning was light, the men were sent away with their donkeys.
 
 ### Genesis 44:4
 They had only gone a short distance from the city when Joseph said to his manager, "Get up. Follow the men. When you catch them, say, 'Why have you repaid good with evil?
@@ -48,7 +48,7 @@ The manager searched, beginning with the oldest and ending with the youngest. Th
 Then the brothers tore their clothes in sorrow. Each man loaded his donkey, and they returned to the city.
 
 ### Genesis 44:14
-Judah and his brothers came to Joseph's house, where Joseph was still there. They fell before him to the ground.
+Judah and his brothers came to Joseph's house, where Joseph was still there, and they fell before him to the ground.
 
 ### Genesis 44:15
 Joseph said to them, "What have you done? Did you not know that a man like me can surely learn hidden things?"
@@ -57,7 +57,7 @@ Joseph said to them, "What have you done? Did you not know that a man like me ca
 Judah said, "What can we say to my lord? What can we speak? How can we prove ourselves innocent? God has found out the guilt of your servants. We are my lord's slaves, both we and the one with whom the cup was found."
 
 ### Genesis 44:17
-Joseph said, "I would never do that. Only the man in whose hand the cup was found shall be my slave. The rest of you may go up in peace to your father."
+Joseph said, "I would never do that. Only the man with whom the cup was found shall be my slave. The rest of you may go up in peace to your father."
 
 ### Genesis 44:18
 Then Judah came near to Joseph and said, "Please, my lord, let your servant speak to you. Do not be angry with your servant, for you are like Pharaoh himself.

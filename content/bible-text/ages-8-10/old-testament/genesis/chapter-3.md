@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 3:1
-The serpent was more crafty than any wild animal the Lord God had made. In the garden, he came to the woman and said, "Did God really say, 'You must not eat from any tree in the garden'?"
+The serpent was more crafty than any wild animal the Lord God had made. In the garden, he came to the woman and asked, "Did God really say, 'You must not eat from any tree in the garden'?"
 
 ### Genesis 3:2
 The woman said to the serpent, "We may eat fruit from the trees in the garden."
@@ -30,7 +30,7 @@ The woman looked at the tree and saw that its fruit was good for food, pleasing 
 Then the eyes of both of them were opened, and they realized they were naked. So they sewed fig leaves together and made coverings for themselves.
 
 ### Genesis 3:8
-Then, in the cool of the day, the man and his wife heard the Lord God walking in the garden. They moved among the trees and hid from him.
+Then, in the cool of the day, the man and his wife heard the Lord God walking in the garden. They hid from him among the trees of the garden.
 
 ### Genesis 3:9
 But the Lord God called to the man, "Where are you?"
@@ -78,4 +78,4 @@ Then the Lord God said, "The man has become like one of us, knowing good and evi
 So the Lord God sent him out from the garden of Eden to work the ground from which he had been taken.
 
 ### Genesis 3:24
-After he drove the man out, God placed cherubim east of the garden of Eden. A flaming sword flashed back and forth to guard the way to the tree of life.
+After he drove the man out, God placed cherubim east of the garden of Eden. A flaming sword flashed back and forth, guarding the way to the tree of life.

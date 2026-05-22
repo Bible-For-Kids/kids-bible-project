@@ -27,7 +27,7 @@ Jacob heard Laban's sons saying, "Jacob has taken everything that belonged to ou
 **Original Reference**: Genesis 31:2 - Jacob saw the expression on Laban's face, and, behold, it was not toward him as before.
 
 #### Ages 5-7
-Jacob also saw that Laban did not look at him with kindness like before.
+Jacob also saw that Laban no longer looked at him with kindness like before.
 
 #### Ages 8-10
 Jacob noticed that Laban's attitude toward him was no longer the same as before.
@@ -82,7 +82,7 @@ He said to them, "I can see that your father's attitude toward me has changed, b
 **Original Reference**: Genesis 31:7 - Your father has deceived me, and changed my wages ten times, but God didn't allow him to hurt me.
 
 #### Ages 5-7
-"Your father has tricked me and changed my pay many times, but God has not let him harm me.
+"Your father has tricked me and changed my pay ten times, but God has not let him harm me.
 
 #### Ages 8-10
 "Your father has deceived me and changed my wages ten times, but God has not allowed him to harm me.
@@ -471,7 +471,7 @@ Jacob became angry and confronted Laban. He said, "What is my offense? What sin 
 **Original Reference**: Genesis 31:41 - These twenty years I have been in your house. I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
 
 #### Ages 5-7
-"For twenty years I lived in your house. I served fourteen years for your two daughters and six years for your flocks, and you changed my pay many times.
+"For twenty years I lived in your house. I served fourteen years for your two daughters and six years for your flocks, and you changed my pay ten times.
 
 #### Ages 8-10
 "For twenty years I lived in your house. I served you fourteen years for your two daughters and six years for your flock, and you changed my wages ten times.

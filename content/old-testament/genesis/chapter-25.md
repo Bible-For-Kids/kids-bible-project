@@ -206,10 +206,10 @@ Ishmael lived 137 years. Then he breathed his last and died, and he was gathered
 **Original Reference**: Genesis 25:18 - They lived from Havilah to Shur that is before Egypt, as you go toward Assyria. He lived opposite all his relatives.
 
 #### Ages 5-7
-The family that came after him lived from Havilah to Shur, which is near Egypt as you go toward Assyria. Ishmael died near all his brothers.
+The family that came after him lived from Havilah to Shur, which is near Egypt as you go toward Assyria. They lived near, but apart from, all their relatives.
 
 #### Ages 8-10
-His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. He died near all his brothers.
+His descendants lived from Havilah to Shur, which is east of Egypt as you go toward Assyria. They lived opposite all their relatives.
 
 ---
 

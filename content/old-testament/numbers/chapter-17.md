@@ -1,7 +1,7 @@
 # Numbers Chapter 17
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord tells each tribe to bring a staff, and Aaron's staff buds, blossoms, and produces almonds.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord tells each tribe to bring a staff, and Aaron's staff buds, blossoms, and produces almonds.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel, and take rods from them, one for each family group, of all their princes according to their family groups, twelve rods. Write each man's name on his rod.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -56,9 +50,6 @@ You must write Aaron's name on Levi's rod. There must be one rod for each head o
 
 #### Ages 8-10
 You must write Aaron's name on Levi's rod. There must be one rod for each head of their family groups.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -74,9 +65,6 @@ You must lay them up in the Tent of Meeting before the covenant, where I meet wi
 #### Ages 8-10
 You must lay them up in the Tent of Meeting before the covenant, where I meet with you.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
 
@@ -91,9 +79,6 @@ It must happen that the rod of the man whom I will choose must bud. I will make 
 #### Ages 8-10
 It must happen that the rod of the man whom I will choose must bud. I will make the complaints of the people of Israel, which they bring against you, cease from me."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -107,9 +92,6 @@ Moses spoke to the people of Israel; and all their leaders gave him rods, for ea
 
 #### Ages 8-10
 Moses spoke to the people of Israel; and all their princes gave him rods, for each prince one, according to their family groups, a total of twelve rods. Aaron's rod was among their rods.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -126,9 +108,6 @@ Moses laid up the rods before the Lord in the Tent of the Testimony.
 
 #### Ages 8-10
 Moses laid up the rods before the Lord in the Tent of the Testimony.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -147,8 +126,17 @@ On the next day, Moses went into the Tent of the Testimony; and Aaron's rod for 
 On the next day, Moses went into the Tent of the Testimony; and Aaron's rod for the house of Levi had sprouted, budded, produced blossoms, and bore ripe almonds.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord tells each tribe to bring a staff, and Aaron's staff buds, blossoms, and produces almonds. This sign confirms that the Lord has chosen Aaron's family for priestly service and warns Israel to stop grumbling.
 
+<!-- Illustration Prompt -->
+**Scene**: Aaron's staff covered with buds, blossoms, and almonds before the Lord
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 17 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Aaron's staff covered with buds, blossoms, and almonds before the Lord
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -163,9 +151,6 @@ Moses brought out all the rods from before the Lord to all the people of Israel.
 
 #### Ages 8-10
 Moses brought out all the rods from before the Lord to all the people of Israel. They looked, and each man took his rod.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -183,9 +168,6 @@ The Lord said to Moses, "Put back the rod of Aaron before the covenant, to be ke
 
 #### Ages 8-10
 The Lord said to Moses, "Put back the rod of Aaron before the covenant, to be kept for a token against the children of rebellion; that you may make an end of their complaining against me, that they not die."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -205,9 +187,6 @@ Moses did so. As the Lord commanded him, so he did.
 #### Ages 8-10
 Moses did so. As the Lord commanded him, so he did.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -224,9 +203,6 @@ The people of Israel spoke to Moses, saying, "we perish! We are undone! We are a
 #### Ages 8-10
 The people of Israel spoke to Moses, saying, "we perish! We are undone! We are all undone!
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
@@ -241,9 +217,6 @@ Everyone who keeps approaching the Lord's tent, dies! Will we all perish?"
 
 #### Ages 8-10
 Everyone who keeps approaching the Lord's tent, dies! Will we all perish?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -270,12 +243,11 @@ You must write Aaron's name on Levi's rod. There must be one rod for each head o
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God confirms his choice?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God confirms his choice"?
+2. How does this chapter also help explain "God warns to protect life"?
 ## Prayer
 Lord, help us understand Numbers 17 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

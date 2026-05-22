@@ -21,7 +21,7 @@ The sons of Gomer were Ashkenaz, Riphath, and Togarmah.
 The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim.
 
 ### Genesis 10:5
-From these families came peoples who spread out to the coastlands and far lands. Each people had its own language, family group, and nation.
+From these families came peoples who spread out to the coastlands and far lands. Each people had its own land, language, family group, and nation.
 
 ### Genesis 10:6
 The sons of Ham were Cush, Mizraim, Put, and Canaan.
@@ -60,7 +60,7 @@ Canaan was also the father of the Jebusites, Amorites, and Girgashites.
 He was the father of the Hivites, Arkites, and Sinites.
 
 ### Genesis 10:18
-He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out.
+He was also the father of the Arvadites, Zemarites, and Hamathites. Later, the Canaanite families spread out into new places.
 
 ### Genesis 10:19
 The land of the Canaanites reached from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, Zeboyim, and Lasha.

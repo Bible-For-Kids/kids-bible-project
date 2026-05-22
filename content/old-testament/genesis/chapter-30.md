@@ -430,10 +430,10 @@ He set three days' journey between himself and Jacob, and Jacob fed the rest of 
 **Original Reference**: Genesis 30:37 - Jacob took to himself rods of fresh poplar, almond, and plane tree, peeled white streaks in them, and made the white appear which was in the rods.
 
 #### Ages 5-7
-Jacob took fresh sticks from poplar, hazel, and chestnut trees. He peeled white streaks in them, making the white show in the sticks.
+Jacob took fresh sticks from poplar, almond, and plane trees. He peeled white streaks in them, making the white show in the sticks.
 
 #### Ages 8-10
-Jacob took fresh sticks of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the sticks.
+Jacob took fresh sticks of poplar, almond, and plane wood, peeled white streaks in them, and made the white show in the sticks.
 
 ---
 

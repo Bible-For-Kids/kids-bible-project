@@ -1,7 +1,7 @@
 # Numbers Chapter 21
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on israel faces enemies, complains again, and suffers from fiery serpents.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Israel faces enemies, complains again, and suffers from fiery serpents.
 
 ## Important Keywords
 - desert: A dry wilderness place
@@ -21,9 +21,6 @@ The Canaanite, the king of Arad, who lived in the southern land, heard that Isra
 #### Ages 8-10
 The Canaanite, the king of Arad, who lived in the southern land, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -37,9 +34,6 @@ Israel made a serious promise to the Lord, and said, "If you will indeed deliver
 
 #### Ages 8-10
 Israel made a serious promise to the Lord, and said, "If you will indeed deliver this people into my hand, then I will completely destroy their cities."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -58,9 +52,6 @@ The Lord listened to the voice of Israel, and delivered up the Canaanites; and t
 #### Ages 8-10
 The Lord listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -77,9 +68,6 @@ They traveled from Mount Hor by the way to the Red Sea, to go around the land of
 #### Ages 8-10
 They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom. The person of the people was very discouraged because of the travel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:5
@@ -90,9 +78,6 @@ The people spoke against God and against Moses: "Why have you brought us up out 
 
 #### Ages 8-10
 The people spoke against God and against Moses: "Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and we hate this disgusting food!"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -111,9 +96,6 @@ The Lord sent venomous snakes among the people, and they bit the people. Many pe
 #### Ages 8-10
 The Lord sent venomous snakes among the people, and they bit the people. Many people of Israel died.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -130,9 +112,6 @@ The people came to Moses, and said, "We have sinned, because we have spoken agai
 #### Ages 8-10
 The people came to Moses, and said, "We have sinned, because we have spoken against the Lord and against you. Pray to the Lord, that he take away the serpents from us." Moses prayed for the people.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -148,9 +127,6 @@ The Lord said to Moses, "Make a venomous snake, and set it on a pole. It must ha
 
 #### Ages 8-10
 The Lord said to Moses, "Make a venomous snake, and set it on a pole. It must happen that everyone who is bitten, when he sees it, will live."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -169,8 +145,17 @@ Moses made a serpent of bronze, and set it on the pole. If a serpent had bitten 
 Moses made a serpent of bronze, and set it on the pole. If a serpent had bitten any man, when he looked at the serpent of bronze, he lived.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Israel faces enemies, complains again, and suffers from fiery serpents. When Moses prays, the Lord provides the bronze serpent for healing, then leads Israel onward and gives victory over Sihon and Og.
 
+<!-- Illustration Prompt -->
+**Scene**: Israelites looking toward the bronze serpent lifted high on a pole
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 21 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Israelites looking toward the bronze serpent lifted high on a pole
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 - serpent: The crafty creature that tempted the woman in Eden
@@ -186,9 +171,6 @@ The people of Israel traveled, and camped in Oboth.
 #### Ages 8-10
 The people of Israel traveled, and camped in Oboth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -202,9 +184,6 @@ They traveled from Oboth, and camped at Iyeabarim, in the wilderness which is be
 
 #### Ages 8-10
 They traveled from Oboth, and camped at Iyeabarim, in the wilderness which is before Moab, toward the sunrise.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -220,9 +199,6 @@ From there they traveled, and camped in the valley of Zered.
 #### Ages 8-10
 From there they traveled, and camped in the valley of Zered.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:13
@@ -233,9 +209,6 @@ From there they traveled, and camped on the other side of the Arnon, which is in
 
 #### Ages 8-10
 From there they traveled, and camped on the other side of the Arnon, which is in the wilderness that comes out of the border of the Amorites; for the Arnon is the border of Moab, between Moab and the Amorites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -250,9 +223,6 @@ Therefore it is said in the book of the Wars of the Lord, "Vaheb in Suphah, the 
 
 #### Ages 8-10
 Therefore it is said in the book of the Wars of the Lord, "Vaheb in Suphah, the valleys of the Arnon,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -269,9 +239,6 @@ the slope of the valleys that incline toward the dwelling of Ar, leans on the bo
 #### Ages 8-10
 the slope of the valleys that incline toward the dwelling of Ar, leans on the border of Moab."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:16
@@ -282,9 +249,6 @@ From there they traveled to Beer; that is the well of which the Lord said to Mos
 
 #### Ages 8-10
 From there they traveled to Beer; that is the well of which the Lord said to Moses, "Gather the people together, and I will give them water."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -302,9 +266,6 @@ Then Israel sang this song: "Spring up, well! Sing to it,
 #### Ages 8-10
 Then Israel sang this song: "Spring up, well! Sing to it,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -318,9 +279,6 @@ the well, which the leaders dug, which the nobles of the people dug, with the sc
 
 #### Ages 8-10
 the well, which the princes dug, which the nobles of the people dug, with the scepter, and with their poles." From the wilderness they traveled to Mattanah;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -336,9 +294,6 @@ and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
 #### Ages 8-10
 and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:20
@@ -349,9 +304,6 @@ and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah
 
 #### Ages 8-10
 and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - desert: A dry wilderness place
@@ -367,9 +319,6 @@ Israel sent messengers to Sihon king of the Amorites, saying,
 #### Ages 8-10
 Israel sent messengers to Sihon king of the Amorites, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -384,9 +333,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Let me pass through your land. We will not turn away into field or vineyard. We will not drink of the water of the wells. We will go by the king's highway, until we have passed your border."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:23
@@ -397,9 +343,6 @@ Sihon would not allow Israel to pass through his border, but Sihon gathered all 
 
 #### Ages 8-10
 Sihon would not allow Israel to pass through his border, but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz. He fought against Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -416,9 +359,6 @@ Israel struck him with the edge of the sword, and possessed his land from the Ar
 #### Ages 8-10
 Israel struck him with the edge of the sword, and possessed his land from the Arnon to the Jabbok, even to the descendants of Ammon; for the border of the descendants of Ammon was fortified.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -432,9 +372,6 @@ Israel took all these cities. Israel lived in all the cities of the Amorites, in
 
 #### Ages 8-10
 Israel took all these cities. Israel lived in all the cities of the Amorites, in Heshbon, and in all its villages.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -450,9 +387,6 @@ For Heshbon was the city of Sihon the king of the Amorites, who had fought again
 #### Ages 8-10
 For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even to the Arnon.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:27
@@ -463,9 +397,6 @@ Therefore those who speak in proverbs say, "Come to Heshbon. Let the city of Sih
 
 #### Ages 8-10
 Therefore those who speak in proverbs say, "Come to Heshbon. Let the city of Sihon be built and established;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -478,9 +409,6 @@ for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devou
 #### Ages 8-10
 for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devoured Ar of Moab, The lords of the high places of the Arnon.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:29
@@ -491,9 +419,6 @@ Woe to you, Moab! You are undone, people of Chemosh! He has given his sons as fu
 
 #### Ages 8-10
 Woe to you, Moab! You are undone, people of Chemosh! He has given his sons as fugitives, and his daughters into captivity, to Sihon king of the Amorites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -506,9 +431,6 @@ We have shot at them. Heshbon has perished even to Dibon. We have laid waste eve
 #### Ages 8-10
 We have shot at them. Heshbon has perished even to Dibon. We have laid waste even to Nophah, Which reaches to Medeba."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:31
@@ -519,9 +441,6 @@ Thus Israel lived in the land of the Amorites.
 
 #### Ages 8-10
 Thus Israel lived in the land of the Amorites.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -537,9 +456,6 @@ Moses sent to spy out Jazer. They took its villages, and drove out the Amorites 
 #### Ages 8-10
 Moses sent to spy out Jazer. They took its villages, and drove out the Amorites who were there.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -554,9 +470,6 @@ They turned and went up by the way of Bashan. Og the king of Bashan went out aga
 #### Ages 8-10
 They turned and went up by the way of Bashan. Og the king of Bashan went out against them, he and all his people, to battle at Edrei.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 21:34
@@ -567,9 +480,6 @@ The Lord said to Moses, "Don't fear him, for I have delivered him into your hand
 
 #### Ages 8-10
 The Lord said to Moses, "Don't fear him, for I have delivered him into your hand, with all his people, and his land. You must do to him as you did to Sihon king of the Amorites, who lived at Heshbon."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -586,9 +496,6 @@ So they struck him, with his sons and all his people, until there were no surviv
 
 #### Ages 8-10
 So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -610,12 +517,11 @@ The Canaanite, the king of Arad, who lived in the southern land, heard that Isra
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Sin needs rescue?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Sin needs rescue"?
+2. How does this chapter also help explain "God gives victory"?
 ## Prayer
 Lord, help us understand Numbers 21 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

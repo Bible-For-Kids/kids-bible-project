@@ -1,7 +1,7 @@
 # Numbers Chapter 20
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on miriam dies, the people quarrel for water, and Moses strikes the rock instead of honoring the Lord as commanded.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Miriam dies, the people quarrel for water, and Moses strikes the rock instead of honoring the Lord as commanded.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The people of Israel, even the whole group, came into the wilderness of Zin in t
 #### Ages 8-10
 The people of Israel, even the whole community, came into the wilderness of Zin in the first month. The people stayed in Kadesh. Miriam died there, and was buried there.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - wilderness: A wild, dry place away from towns and farms
@@ -39,9 +36,6 @@ There was no water for the whole group; and they assembled themselves together a
 #### Ages 8-10
 There was no water for the community; and they assembled themselves together against Moses and against Aaron.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -56,9 +50,6 @@ The people quarreled with Moses, and spoke, saying, "We wish that we had died wh
 
 #### Ages 8-10
 The people quarreled with Moses, and spoke, saying, "We wish that we had died when our brothers died before the Lord!
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -76,9 +67,6 @@ Why have you brought the Lord's whole group into this wilderness, that we should
 #### Ages 8-10
 Why have you brought the Lord's gathered people into this wilderness, that we should die there, we and our animals?
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - wilderness: A wild, dry place away from towns and farms
@@ -95,9 +83,6 @@ Why have you made us to come up out of Egypt, to bring us in to this evil place?
 #### Ages 8-10
 Why have you made us to come up out of Egypt, to bring us in to this evil place? It is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 - evil: What is wrong and against God
@@ -112,9 +97,6 @@ Moses and Aaron went from the presence of the whole group to the door of the Ten
 
 #### Ages 8-10
 Moses and Aaron went from the presence of the gathered people to the door of the Tent of Meeting, and fell on their faces. The Lord's glory appeared to them.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -133,9 +115,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -152,9 +131,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Take the rod, and assemble the community, you, and Aaron your brother, and speak to the rock before their eyes, that it pour out its water. You must bring water to them out of the rock; so you must give the community and their livestock drink."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -168,9 +144,6 @@ Moses took the rod from before the Lord, as he commanded him.
 
 #### Ages 8-10
 Moses took the rod from before the Lord, as he commanded him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -188,9 +161,6 @@ Moses and Aaron gathered the whole group together before the rock, and he said t
 #### Ages 8-10
 Moses and Aaron gathered the gathered people together before the rock, and he said to them, "Hear now, you rebels! Shall we bring water out of this rock for you?"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -207,8 +177,17 @@ Moses lifted up his hand, and struck the rock with his rod twice, and water came
 Moses lifted up his hand, and struck the rock with his rod twice, and water came out abundantly. The community and their livestock drank.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Miriam dies, the people quarrel for water, and Moses strikes the rock instead of honoring the Lord as commanded. The Lord still gives water, but Moses and Aaron are told they will not bring the people into the land; later Aaron dies on Mount Hor.
 
+<!-- Illustration Prompt -->
+**Scene**: Water pouring from the rock while the people and their animals drink
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 20 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Water pouring from the rock while the people and their animals drink
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -222,9 +201,6 @@ The Lord said to Moses and Aaron, "Because you did not trust me and show the peo
 
 #### Ages 8-10
 The Lord said to Moses and Aaron, "Because you did not trust me and show the people of Israel that I am holy, you will not bring this community into the land I have given them."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -244,9 +220,6 @@ These are the waters of Meribah; because the people of Israel strove with the Lo
 #### Ages 8-10
 These are the waters of Meribah; because the people of Israel strove with the Lord, and he was made holy in them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -264,9 +237,6 @@ Moses sent messengers from Kadesh to the king of Edom, saying: "Your brother Isr
 #### Ages 8-10
 Moses sent messengers from Kadesh to the king of Edom, saying: "Your brother Israel says: You know all the travail that has happened to us;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
@@ -282,9 +252,6 @@ how our fathers went down into Egypt, and we lived in Egypt a long time. The Egy
 #### Ages 8-10
 how our fathers went down into Egypt, and we lived in Egypt a long time. The Egyptians mistreated us and our fathers.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
 
@@ -298,9 +265,6 @@ When we cried to the Lord, he heard our voice, sent an angel, and brought us out
 
 #### Ages 8-10
 When we cried to the Lord, he heard our voice, sent an angel, and brought us out of Egypt. We are in Kadesh, a city in the edge of your border.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -318,9 +282,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Please let us pass through your land. We will not pass through field or through vineyard, neither will we drink from the water of the wells. We will go along the king's highway. We will not turn away to the right hand nor to the left, until we have passed your border."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 20:18
@@ -332,9 +293,6 @@ Edom said to him, "You must not pass through me, or else I come out with the swo
 #### Ages 8-10
 Edom said to him, "You must not pass through me, or else I come out with the sword against you."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 20:19
@@ -345,9 +303,6 @@ The people of Israel said to him, "We will go up by the highway; and if we drink
 
 #### Ages 8-10
 The people of Israel said to him, "We will go up by the highway; and if we drink your water, I and my livestock, then I will give its price. Only let me, without doing anything else, pass through on my feet."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -363,9 +318,6 @@ He said, "You must not pass through." Edom came out against him with many people
 #### Ages 8-10
 He said, "You must not pass through." Edom came out against him with many people, and with a strong hand.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 20:21
@@ -376,9 +328,6 @@ Thus Edom refused to give Israel passage through his border, so Israel turned aw
 
 #### Ages 8-10
 Thus Edom refused to give Israel passage through his border, so Israel turned away from him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -394,9 +343,6 @@ They traveled from Kadesh, and the people of Israel, even the whole group, came 
 #### Ages 8-10
 They traveled from Kadesh, and the people of Israel, even the whole community, came to Mount Hor.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -410,9 +356,6 @@ The Lord spoke to Moses and Aaron in Mount Hor, by the border of the land of Edo
 
 #### Ages 8-10
 The Lord spoke to Moses and Aaron in Mount Hor, by the border of the land of Edom, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -431,9 +374,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Aaron must be gathered to his people in death; for he must not enter into the land which I have given to the people of Israel, because you rebelled against my word at the waters of Meribah.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -449,9 +389,6 @@ Take Aaron and Eleazar his son, and bring them up to Mount Hor;
 #### Ages 8-10
 Take Aaron and Eleazar his son, and bring them up to Mount Hor;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -466,9 +403,6 @@ and strip Aaron of his clothes, and put them on Eleazar his son. Aaron must be g
 #### Ages 8-10
 and strip Aaron of his garments, and put them on Eleazar his son. Aaron must be gathered, and must die there."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -482,9 +416,6 @@ Moses did as the Lord commanded. They went up onto Mount Hor in the sight of all
 
 #### Ages 8-10
 Moses did as the Lord commanded. They went up onto Mount Hor in the sight of all the community.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -502,9 +433,6 @@ Moses stripped Aaron of his clothes, and put them on Eleazar his son. Aaron died
 #### Ages 8-10
 Moses stripped Aaron of his garments, and put them on Eleazar his son. Aaron died there on the top of the mountain, and Moses and Eleazar came down from the mountain.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -519,9 +447,6 @@ When all the people saw that Aaron was dead, they wept for Aaron thirty days, ev
 
 #### Ages 8-10
 When all the community saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -547,12 +472,11 @@ The people of Israel, even the whole community, came into the wilderness of Zin 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God is holy?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God is holy"?
+2. How does this chapter also help explain "God still provides"?
 ## Prayer
 Lord, help us understand Numbers 20 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

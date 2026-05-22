@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.header-book-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.header-book-scroll::-webkit-scrollbar {
+  display: none;
+}
+
 /* Custom styles for better readability */
 .story-content {
   @apply leading-relaxed text-gray-700;

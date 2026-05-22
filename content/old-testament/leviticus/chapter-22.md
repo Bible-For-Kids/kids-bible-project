@@ -1,7 +1,7 @@
 # Leviticus Chapter 22
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord teaches priests how to handle holy food and who may eat it.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord teaches priests how to handle holy food and who may eat it.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Tell Aaron and his sons to separate themselves from the holy things of the people of Israel, which they make holy to me, and that they not dishonor my holy name. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -61,9 +55,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Tell them, 'If any of your descendants, now or in future generations, comes near the holy things of the Lord while he is unclean, that person must be removed from before me. I am the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -81,9 +72,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If any of Aaron's descendants has a serious skin disease or a discharge, he must not eat the holy things until he is clean. The same is true if he touches something made unclean by a dead body, or touches a man who has semen from his body,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -99,9 +87,6 @@ or if he touches a small crawling thing that makes him not clean for worship, or
 #### Ages 8-10
 or if he touches a small crawling thing that makes him unclean, or touches a person whose uncleanness can make him unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 22:6
@@ -112,9 +97,6 @@ the person that touches any such will not be clean for worship until the evening
 
 #### Ages 8-10
 the person that touches any such will be unclean until the evening, and must not eat of the holy things unless he bathes his body in water.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -130,9 +112,6 @@ When the sun is down, he will be clean for worship; and afterward he must eat of
 #### Ages 8-10
 When the sun is down, he will be clean; and afterward he must eat of the holy things, because it is his bread.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -146,9 +125,6 @@ He must not eat an animal that died by itself or was torn by wild animals, becau
 
 #### Ages 8-10
 He must not eat an animal that died by itself or was torn by wild animals, because that would make him unclean. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -164,9 +140,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "They must therefore follow my command, or else they bear sin for it and die in it, if they dishonor it. I am the Lord who makes them holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -186,9 +159,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "No foreigner must eat of the holy thing: a foreigner living with the priests, or a hired servant, must not eat of the holy thing.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -203,9 +173,6 @@ But if a priest buys a slave, purchased by his money, he must eat of it; and tho
 #### Ages 8-10
 But if a priest buys a slave, purchased by his money, he must eat of it; and those who are born in his house must eat of his bread.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -219,9 +186,6 @@ If a priest's daughter is married to an outsider, she must not eat of the specia
 
 #### Ages 8-10
 If a priest's daughter is married to an outsider, she must not eat of the special offering of the holy things.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -239,9 +203,6 @@ But if a priest's daughter is a widow, or divorced, and has no child, and has re
 #### Ages 8-10
 But if a priest's daughter is a widow, or divorced, and has no child, and has returned to her father's house as in her youth, she may eat of her father's bread; but no foreigner must eat any of it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -255,9 +216,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man eats something holy without knowing it, then he must add one fifth more of its value to it, and must give the holy thing to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -273,9 +231,6 @@ The priests must not dishonor the holy things of the people of Israel, which the
 
 #### Ages 8-10
 The priests must not dishonor the holy things of the people of Israel, which they offer to the Lord,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -293,9 +248,6 @@ and so cause them to bear the sin that brings guilt when they eat their holy thi
 
 #### Ages 8-10
 and so cause them to bear the sin that brings guilt when they eat their holy things; for I am the Lord who makes them holy.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -315,9 +267,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -333,9 +282,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to Aaron, his sons, and all the people of Israel. Say to them, 'If any Israelite or foreigner living in Israel brings a burned offering to the Lord, whether it is for a vow or a freewill gift,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -355,9 +301,6 @@ that you may be accepted, you must offer a male with nothing wrong with it, of t
 #### Ages 8-10
 that you may be accepted, you must offer a male with nothing wrong with it, of the bulls, of the sheep, or of the goats.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 22:20
@@ -369,9 +312,6 @@ You must not offer an animal that has something wrong with it, because it will n
 #### Ages 8-10
 You must not offer an animal that has a defect, because it will not be accepted for you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 22:21
@@ -382,9 +322,6 @@ If someone brings a peace offering to the Lord to keep a special promise or as a
 
 #### Ages 8-10
 If someone brings a peace offering to the Lord to keep a vow or as a freewill gift from the herd or flock, the animal must be whole and healthy to be accepted. It must have no defect.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -403,9 +340,6 @@ You must not offer the Lord an animal that is blind, injured, crippled, has sore
 #### Ages 8-10
 You must not offer the Lord an animal that is blind, injured, crippled, has sores, or has a skin disease. You must not put any such animal on the altar as an offering burned to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -423,9 +357,6 @@ You may bring a bull or lamb with one body part too long or too short as a gift 
 #### Ages 8-10
 You may bring a bull or lamb with one body part too long or too short as a freewill gift, but it will not be accepted for a vow.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -439,9 +370,6 @@ You must not offer the Lord an animal whose male body parts are bruised, crushed
 
 #### Ages 8-10
 You must not offer the Lord an animal whose male body parts are bruised, crushed, torn, or cut. You must not do this in your land.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -458,9 +386,6 @@ You must not accept any such animal from a foreigner to offer as the food of you
 #### Ages 8-10
 You must not accept any such animal from a foreigner to offer as the food of your God. Because it has a defect, it will not be accepted for you.' "
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 
@@ -474,9 +399,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -493,9 +415,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When a bull, a sheep, or a goat is born, it must remain seven days with its mother. From the eighth day on it will be accepted for the offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -514,9 +433,6 @@ Whether it is a cow or female sheep, you must not kill it and its young both in 
 #### Ages 8-10
 Whether it is a cow or female sheep, you must not kill it and its young both in one day.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 22:29
@@ -527,9 +443,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When you sacrifice a sacrifice of thanksgiving to the Lord, you must sacrifice it so that you may be accepted.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -547,9 +460,6 @@ It must be eaten on the same day; you must leave none of it until the morning. I
 #### Ages 8-10
 It must be eaten on the same day; you must leave none of it until the morning. I am the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -564,9 +474,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Therefore you must keep my commands, and do them. I am the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -584,7 +491,18 @@ You must not dishonor my holy name, but I will be made holy among the people of 
 You must not dishonor my holy name, but I will be made holy among the people of Israel. I am the Lord who makes you holy,
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The Lord ties these offering laws to his holy name and to the rescue from Egypt. The chapter is about reverence, not mere ritual perfection.
+**Cross-References**:
+- Exodus 6:7
+<!-- Illustration Prompt -->
+**Scene**: A family choosing a healthy animal to bring as an offering to the Lord
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Israelite family, priest in the distance
+**Setting**: Camp with the holy tent nearby
+**Action**: The family brings an offering with nothing wrong with it
+**Emotional Tone**: Careful, honoring, grateful
+**Age Appropriateness**: Peaceful preparation scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -602,9 +520,6 @@ who brought you out of the land of Egypt, to be your God. I am the Lord."
 
 #### Ages 8-10
 who brought you out of the land of Egypt, to be your God. I am the Lord."
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -632,12 +547,11 @@ or if he touches a small crawling thing that makes him unclean, or touches a per
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 22 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

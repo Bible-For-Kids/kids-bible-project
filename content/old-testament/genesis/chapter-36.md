@@ -167,10 +167,10 @@ The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 **Original Reference**: Genesis 36:12 - Timna was concubine to Eliphaz, Esau's son; and she bore to Eliphaz Amalek. These are the descendants of Adah, Esau's wife.
 
 #### Ages 5-7
-Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the sons connected with Adah, Esau's wife.
+Timna was a lesser wife of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the descendants of Adah, Esau's wife.
 
 #### Ages 8-10
-Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a wife, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
+Timna was a lesser wife of Esau's son Eliphaz, and she had Amalek for Eliphaz. These were the descendants of Esau's wife Adah.
 
 **Key Vocabulary**:
 - Esau: Isaac and Rebekah's older son, Jacob's brother
@@ -181,7 +181,7 @@ Timna was a woman joined to Esau's son Eliphaz, but not with the same place as a
 **Original Reference**: Genesis 36:13 - These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Basemath, Esau's wife.
 
 #### Ages 5-7
-The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the sons connected with Bashemath, Esau's wife.
+The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Bashemath, Esau's wife.
 
 #### Ages 8-10
 The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Esau's wife Bashemath.
@@ -224,7 +224,7 @@ These were the leaders among Esau's sons: from Eliphaz, Esau's firstborn, came l
 **Original Reference**: Genesis 36:16 - chief Korah, chief Gatam, chief Amalek. These are the chiefs who came of Eliphaz in the land of Edom. These are the sons of Adah.
 
 #### Ages 5-7
-Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the sons connected with Adah.
+Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
 
 #### Ages 8-10
 Leader Korah, leader Gatam, and leader Amalek also came from Eliphaz in the land of Edom. These were the descendants of Adah.
@@ -334,10 +334,10 @@ Shobal's children were Alvan, Manahath, Ebal, Shepho, and Onam.
 **Original Reference**: Genesis 36:24 - These are the children of Zibeon: Aiah and Anah. This is Anah who found the hot springs in the wilderness, as he fed the donkeys of Zibeon his father.
 
 #### Ages 5-7
-The children of Zibeon were Ajah and Anah. This was the Anah who found the mules in the wilderness while he was feeding the donkeys of his father Zibeon.
+The children of Zibeon were Ajah and Anah. This was the Anah who found the hot springs in the wilderness while he was feeding the donkeys of his father Zibeon.
 
 #### Ages 8-10
-Zibeon's children were Ajah and Anah. This was the Anah who found the mules in the wilderness while feeding the donkeys of his father Zibeon.
+Zibeon's children were Ajah and Anah. This was the Anah who found the hot springs in the wilderness while feeding the donkeys of his father Zibeon.
 
 ---
 

@@ -27,13 +27,13 @@ Abraham was 100 years old when his son Isaac was born.
 Sarah said, "God has brought me laughter. Everyone who hears about this will laugh with me."
 
 ### Genesis 21:7
-She also said, "Who would have told Abraham that Sarah would nurse children? Yet I have given him a son in his old age."
+She also said, "Who would have told Abraham that Sarah would nurse a child? Yet I have given him a son in his old age."
 
 ### Genesis 21:8
 Isaac grew, and the day came for him to stop nursing. Abraham held a great feast that day.
 
 ### Genesis 21:9
-Sarah saw the son Hagar the Egyptian had borne to Abraham laughing.
+Sarah saw the son Hagar the Egyptian had borne to Abraham laughing at Isaac.
 
 ### Genesis 21:10
 So Sarah said to Abraham, "Send away this servant woman and her son. That woman's son must not share the family inheritance with my son Isaac."
@@ -63,7 +63,7 @@ God heard the boy crying. The angel of God called to Hagar from heaven and said,
 Get up, lift the boy, and take him by the hand. I will make him into a great nation."
 
 ### Genesis 21:19
-Then God opened Hagar's eyes, and she saw a well of water. She went, filled the skin with water, and gave the boy a drink.
+Then God opened Hagar's eyes, and she saw a well of water. She went, filled the water-skin, and gave the boy a drink.
 
 ### Genesis 21:20
 God was with the boy as he grew up. He lived in the wilderness and became a man who used a bow and arrows.

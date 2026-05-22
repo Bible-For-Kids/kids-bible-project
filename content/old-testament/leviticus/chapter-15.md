@@ -1,7 +1,7 @@
 # Leviticus Chapter 15
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions about bodily flows that make a person not clean for worship and the washings or offerings connected with them.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives instructions about bodily flows that make a person not clean for worship and the washings or offerings connected with them.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses and to Aaron, saying,
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel and tell them, 'When a man has an unusual discharge from his body, that discharge makes him unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -58,9 +52,6 @@ This is the rule about that body flow: whether the flow keeps coming or has stop
 #### Ages 8-10
 This is the rule about that discharge: whether it keeps flowing or has stopped, it still makes him unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:4
@@ -71,9 +62,6 @@ Every bed the man with the flow lies on will not be clean for worship, and every
 
 #### Ages 8-10
 Every bed the man with the discharge lies on will be unclean, and everything he sits on will be unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -86,9 +74,6 @@ Whoever touches his bed must wash his clothes, wash his body in water, and not b
 #### Ages 8-10
 Whoever touches his bed must wash his clothes, bathe in water, and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:6
@@ -99,9 +84,6 @@ Whoever sits on anything the man with the flow sat on must wash his clothes, was
 
 #### Ages 8-10
 Whoever sits on anything the man with the discharge sat on must wash his clothes, bathe in water, and be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -114,9 +96,6 @@ Whoever touches the body of the man with the flow must wash his clothes, wash hi
 #### Ages 8-10
 Whoever touches the body of the man with the discharge must wash his clothes, bathe in water, and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:8
@@ -127,9 +106,6 @@ If the man with the flow spits on someone who is clean for worship, that person 
 
 #### Ages 8-10
 If the man with the discharge spits on someone who is clean, that person must wash his clothes, bathe in water, and be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -142,9 +118,6 @@ Any saddle the man with the flow rides on will not be clean for worship.
 #### Ages 8-10
 Any saddle the man with the discharge rides on will be unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:10
@@ -155,9 +128,6 @@ Whoever touches anything that was under him will not be clean for worship until 
 
 #### Ages 8-10
 Whoever touches anything that was under him will be unclean until evening. Whoever carries those things must wash his clothes, bathe in water, and be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -170,9 +140,6 @@ If the man with the flow touches someone without first rinsing his hands in wate
 #### Ages 8-10
 If the man with the discharge touches someone without first rinsing his hands in water, that person must wash his clothes, bathe in water, and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:12
@@ -183,9 +150,6 @@ If the man with the flow touches a clay bowl, it must be broken. If he touches a
 
 #### Ages 8-10
 If the man with the discharge touches a clay bowl, it must be broken. If he touches a wooden container, it must be rinsed with water.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -198,9 +162,6 @@ When the man is clean from his flow, he must count seven days. Then he must wash
 #### Ages 8-10
 When the man is clean from his discharge, he must count seven days. Then he must wash his clothes and bathe his body in fresh flowing water, and he will be clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:14
@@ -211,9 +172,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "On the eighth day he must take two doves, or two young pigeons, and come before the Lord to the door of the Tent of Meeting, and give them to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -230,9 +188,6 @@ The priest must offer one bird as an offering for sin and the other as a burned 
 
 #### Ages 8-10
 The priest must offer one bird as a sin offering and the other as a burned offering. The priest must make atonement for him before the Lord because of his discharge.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -252,9 +207,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If semen comes from a man's body, he must bathe his whole body in water and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:17
@@ -265,9 +217,6 @@ Any clothing or leather that the fluid touches must be washed with water and wil
 
 #### Ages 8-10
 Any clothing or leather that the semen touches must be washed with water and will be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -280,9 +229,6 @@ If a man and a woman come together in the way husbands and wives do, and fluid c
 #### Ages 8-10
 If a man and a woman have sexual relations and semen comes from him, they must both bathe in water and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:19
@@ -293,9 +239,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When a woman has her monthly period, she will be unclean for seven days. Whoever touches her will be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -308,9 +251,6 @@ Everything she lies on during that time will not be clean for worship, and every
 #### Ages 8-10
 Everything she lies on during that time will be unclean, and everything she sits on will be unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:21
@@ -321,9 +261,6 @@ Whoever touches her bed must wash his clothes, wash his body in water, and not b
 
 #### Ages 8-10
 Whoever touches her bed must wash his clothes, bathe in water, and be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -336,9 +273,6 @@ Whoever touches anything she sat on must wash his clothes, wash his body in wate
 #### Ages 8-10
 Whoever touches anything she sat on must wash his clothes, bathe in water, and be unclean until evening.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:23
@@ -349,9 +283,6 @@ If someone touches anything on the bed or on the seat where she sat, he will not
 
 #### Ages 8-10
 If someone touches anything on the bed or on the seat where she sat, he will be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -364,9 +295,6 @@ If a man comes together with her in the way husbands and wives do during her mon
 #### Ages 8-10
 If a man has sexual relations with her during her monthly period, he will be unclean for seven days. Every bed he lies on will be unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:25
@@ -377,9 +305,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a woman has bleeding for many days when it is not her monthly period, or if her bleeding lasts longer than her period, she will be unclean for all those days, just as during her period.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -392,9 +317,6 @@ Every bed she lies on during those days will be like the bed of her period, and 
 #### Ages 8-10
 Every bed she lies on during those days will be like the bed of her period, and everything she sits on will be unclean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:27
@@ -405,9 +327,6 @@ Whoever touches those things will not be clean for worship. He must wash his clo
 
 #### Ages 8-10
 Whoever touches those things will be unclean. He must wash his clothes, bathe in water, and be unclean until evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -420,9 +339,6 @@ When she is clean from her flow, she must count seven days. After that she will 
 #### Ages 8-10
 When she is clean from her discharge, she must count seven days. After that she will be clean.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 15:29
@@ -433,9 +349,6 @@ On the eighth day she must take two doves, or two young pigeons, and bring them 
 
 #### Ages 8-10
 On the eighth day she must take two doves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
@@ -450,9 +363,6 @@ The priest must offer one bird as an offering for sin and the other as a burned 
 
 #### Ages 8-10
 The priest must offer one bird as a sin offering and the other as a burned offering. The priest must make atonement for her before the Lord because of her discharge.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -473,7 +383,18 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "In this way you must separate the people of Israel from their uncleanness, so they do not die in their uncleanness by making my holy tent among them unclean.' "
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+These private bodily laws are worded gently while preserving the purpose stated in the chapter: protecting the holy place from uncleanness.
+**Cross-References**:
+- Leviticus 11:44
+<!-- Illustration Prompt -->
+**Scene**: Clothes being washed and set out to dry near clean water
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Israelite family in the distance
+**Setting**: Camp washing area
+**Action**: People wash and wait before returning to worship
+**Emotional Tone**: Quiet, orderly, respectful
+**Age Appropriateness**: No private body detail shown
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -490,9 +411,6 @@ This is the law for a man with an unusual flow from his body, and for a man when
 #### Ages 8-10
 This is the law for a person with a discharge, and for a man when semen comes from his body and makes him unclean;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - law: God's instruction for his people
 
@@ -506,9 +424,6 @@ and for a woman during her period, and for any man or woman with a flow, and for
 
 #### Ages 8-10
 and for a woman during her period, and for any man or woman with a discharge, and for a man who has sexual relations with a woman who is unclean.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -530,12 +445,11 @@ This is the rule about that discharge: whether it keeps flowing or has stopped, 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

@@ -186,7 +186,7 @@ But Israel stretched out his right hand and put it on Ephraim's head, though Eph
 **Original Reference**: Genesis 48:15 - He blessed Joseph, and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,
 
 #### Ages 5-7
-Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life to this day,
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me like a shepherd all my life to this day,
 
 #### Ages 8-10
 Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me like a shepherd all my life to this day,

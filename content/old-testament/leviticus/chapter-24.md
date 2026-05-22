@@ -1,7 +1,7 @@
 # Leviticus Chapter 24
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord commands oil for the lamps and bread for the table before him.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord commands oil for the lamps and bread for the table before him.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -41,7 +38,18 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "Command the people of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The lamp and bread instructions keep the picture of continual service before the Lord before the chapter turns to the seriousness of honoring his name.
+**Cross-References**:
+- Exodus 25:30-37
+<!-- Illustration Prompt -->
+**Scene**: Priests tending the lamps and arranging bread before the Lord
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Priests
+**Setting**: Inside the holy tent, shown respectfully
+**Action**: The lamps are kept burning and the bread is arranged
+**Emotional Tone**: Quiet, holy, attentive
+**Age Appropriateness**: No depiction of God
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -57,9 +65,6 @@ Outside of the curtain of the Testimony, in the Tent of Meeting, Aaron must keep
 
 #### Ages 8-10
 Outside of the curtain of the Testimony, in the Tent of Meeting, Aaron must keep it in order from evening to morning before the Lord continually. It must be a lasting rule for all your generations.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -77,9 +82,6 @@ He must keep in order the lamps on the pure gold lamp stand before the Lord cont
 #### Ages 8-10
 He must keep in order the lamps on the pure gold lamp stand before the Lord continually.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -95,9 +97,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must take fine flour, and bake twelve cakes of it: two tenth-measures must be in one cake.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 24:6
@@ -108,9 +107,6 @@ You must set them in two rows, six on a row, on the pure gold table before the L
 
 #### Ages 8-10
 You must set them in two rows, six on a row, on the pure gold table before the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -126,9 +122,6 @@ You must put pure sweet-smelling incense on each row, that it may be to the brea
 
 #### Ages 8-10
 You must put pure sweet-smelling incense on each row, that it may be to the bread as a reminder offering, even an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -146,9 +139,6 @@ Every Sabbath day he must set it in order before the Lord continually. It is an 
 
 #### Ages 8-10
 Every Sabbath day he must set it in order before the Lord continually. It is an everlasting covenant on the behalf of the people of Israel.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - covenant: A serious promise relationship God makes
@@ -168,9 +158,6 @@ It must be for Aaron and his sons. They must eat it in a holy place; for it is m
 #### Ages 8-10
 It must be for Aaron and his sons. They must eat it in a holy place; for it is most holy to him of the offerings burned for the Lord by a lasting rule."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -188,9 +175,6 @@ The son of an Israelite woman, whose father was an Egyptian, went out among the 
 #### Ages 8-10
 The son of an Israelite woman, whose father was an Egyptian, went out among the people of Israel; and the son of the Israelite woman and a man of Israel strove together in the camp.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -204,9 +188,6 @@ The son of the Israelite woman blasphemed the Name, and cursed; and they brought
 
 #### Ages 8-10
 The son of the Israelite woman blasphemed the Name, and cursed; and they brought him to Moses. His mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - cursed: Placed under judgment instead of blessing
@@ -223,9 +204,6 @@ They put him in custody until the Lord's will should be declared to them.
 #### Ages 8-10
 They put him in custody until the Lord's will should be declared to them.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -240,9 +218,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -260,9 +235,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Bring the person who cursed out of the camp; and let all who heard him lay their hands on his head, and let all the community stone him.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - cursed: Placed under judgment instead of blessing
 
@@ -276,9 +248,6 @@ You must speak to the people of Israel, saying, 'Whoever curses his God carries 
 
 #### Ages 8-10
 You must speak to the people of Israel, saying, 'Whoever curses his God carries his guilt.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -297,9 +266,6 @@ Whoever blasphemes the Lord's name, he must surely be put to death. All the whol
 #### Ages 8-10
 Whoever blasphemes the Lord's name, he must surely be put to death. All the community must certainly stone him. The foreigner as well as the native-born must be put to death when he blasphemes the Name.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -315,9 +281,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Whoever strikes any man mortally must surely be put to death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 24:18
@@ -328,9 +291,6 @@ Whoever strikes an animal mortally must make it good, life for life.
 
 #### Ages 8-10
 Whoever strikes an animal mortally must make it good, life for life.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -343,9 +303,6 @@ If anyone injures his neighbor, it must be done to him as he has done:
 #### Ages 8-10
 If anyone injures his neighbor, it must be done to him as he has done:
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 24:20
@@ -356,9 +313,6 @@ fracture for fracture, eye for eye, tooth for tooth. It must be done to him as h
 
 #### Ages 8-10
 fracture for fracture, eye for eye, tooth for tooth. It must be done to him as he has injured someone.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -371,9 +325,6 @@ Whoever kills an animal must make it good; and whoever kills a man must be put t
 #### Ages 8-10
 Whoever kills an animal must make it good; and whoever kills a man must be put to death.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 24:22
@@ -384,9 +335,6 @@ You must have one kind of law for the foreigner as well as the native-born; for 
 
 #### Ages 8-10
 You must have one kind of law for the foreigner as well as the native-born; for I am the Lord your God.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -404,9 +352,6 @@ Moses spoke to the people of Israel; and they brought the person who had cursed 
 
 #### Ages 8-10
 Moses spoke to the people of Israel; and they brought the person who had cursed out of the camp, and stoned him with stones. The people of Israel did as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - cursed: Placed under judgment instead of blessing
@@ -435,12 +380,11 @@ He must keep in order the lamps on the pure gold lamp stand before the Lord cont
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 24 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

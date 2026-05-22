@@ -115,7 +115,7 @@ Jacob prayed, "O God of my father Abraham and God of my father Isaac, Lord, you 
 **Original Reference**: Genesis 32:10 - I am not worthy of the least of all the loving kindnesses, and of all the truth, which you have shown to your servant; for with just my staff I crossed over this Jordan; and now I have become two companies.
 
 #### Ages 5-7
-"I am not worthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two large groups.
+"I am not worthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan River with only my staff, and now I have become two large groups.
 
 #### Ages 8-10
 "I am not worthy of even the smallest of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two camps.

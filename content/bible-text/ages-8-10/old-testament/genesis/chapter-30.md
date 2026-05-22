@@ -117,7 +117,7 @@ That day Laban removed the male goats that were streaked and spotted, all the fe
 He set three days' journey between himself and Jacob, and Jacob fed the rest of Laban's flocks.
 
 ### Genesis 30:37
-Jacob took fresh sticks of poplar, hazel, and chestnut wood, peeled white streaks in them, and made the white show in the sticks.
+Jacob took fresh sticks of poplar, almond, and plane wood, peeled white streaks in them, and made the white show in the sticks.
 
 ### Genesis 30:38
 He set the peeled sticks before the flocks in the water channels and troughs where the flocks came to drink, so they would see them when they came to drink.

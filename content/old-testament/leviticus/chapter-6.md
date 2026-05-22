@@ -1,7 +1,7 @@
 # Leviticus Chapter 6
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for guilt when someone takes from another person, requiring confession, repayment, and an added amount.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives instructions for guilt when someone takes from another person, requiring confession, repayment, and an added amount.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If anyone sins, and acts unfaithfully against the Lord, and deals falsely with his neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed his neighbor,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -58,9 +52,6 @@ or has found that which was lost, and lied about it, and swearing to a lie-in an
 #### Ages 8-10
 or has found that which was lost, and lied about it, and swearing to a lie-in any of these things that a man sins in his actions-
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 6:4
@@ -71,9 +62,6 @@ then it must be, if he has sinned, and is guilty, he must restore that which he 
 
 #### Ages 8-10
 then it must be, if he has sinned, and is guilty, he must restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -87,7 +75,18 @@ or any thing about which he has sworn falsely: he must restore it in full, and m
 or any thing about which he has sworn falsely: he must restore it in full, and must add one fifth more more to it. He must return it to him to whom it belongs in the day of his being found guilty.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+Repayment is kept with the added fifth because the chapter shows that repentance includes making wrongs right when possible.
+**Cross-References**:
+- Numbers 5:6-7
+<!-- Illustration Prompt -->
+**Scene**: A person returning what was taken and adding extra payment
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Two Israelites and a priest nearby
+**Setting**: Camp marketplace or tent doorway
+**Action**: The guilty person makes repayment
+**Emotional Tone**: Honest, repentant, restored
+**Age Appropriateness**: Peaceful reconciliation scene
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -99,9 +98,6 @@ He must bring his guilt offering to the Lord: a male sheep with nothing wrong wi
 
 #### Ages 8-10
 He must bring his guilt offering to the Lord: a male sheep with nothing wrong with it from the flock, according to its value, for a guilt offering, to the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - guilt: The blame that comes from doing wrong
@@ -121,9 +117,6 @@ The priest must make atonement for him, to help make things right with God befor
 #### Ages 8-10
 The priest must make atonement for him before the Lord, and he will be forgiven concerning whatever he does to become guilty."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -142,9 +135,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -160,9 +150,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Command Aaron and his sons, saying, 'This is the law of the burned offering: the burned offering must be on the hearth on the altar all night until the morning; and the fire of the altar must be kept burning on it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -182,9 +169,6 @@ The priest must put on his linen robe, and he must put on his linen underclothes
 #### Ages 8-10
 The priest must put on his linen garment, and he must put on his linen underclothes; and he must remove the ashes from where the fire has burned up the burned offering on the altar, and he must put them beside the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - offering: A gift brought to the Lord in worship
@@ -201,9 +185,6 @@ He must take off his clothes, and put on other clothes, and carry the ashes outs
 #### Ages 8-10
 He must take off his garments, and put on other garments, and carry the ashes outside the camp to a clean place.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 6:12
@@ -214,9 +195,6 @@ The fire on the altar must be kept burning on it, it must not go out; and the pr
 
 #### Ages 8-10
 The fire on the altar must be kept burning on it, it must not go out; and the priest must burn wood on it every morning. He must lay the burned offering in order upon it, and must burn on it the fat of the peace offerings.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -234,9 +212,6 @@ Fire must be kept burning on the altar continually; it must not go out.
 #### Ages 8-10
 Fire must be kept burning on the altar continually; it must not go out.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 
@@ -250,9 +225,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "This is the law of the grain offering: the sons of Aaron must offer it before the Lord, before the altar.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -272,9 +244,6 @@ He must take from there his handful of the fine flour of the grain gift, and of 
 #### Ages 8-10
 He must take from there his handful of the fine flour of the grain offering, and of its oil, and all the sweet-smelling incense which is on the grain offering, and must burn it on the altar for a pleasant aroma, as its part burned before the Lord, to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -292,9 +261,6 @@ That which is left of it Aaron and his sons must eat. It must be eaten without y
 #### Ages 8-10
 That which is left of it Aaron and his sons must eat. It must be eaten without yeast in a holy place. They must eat it in the court of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -309,9 +275,6 @@ It must not be baked with yeast. I have given it as their portion of my offering
 
 #### Ages 8-10
 It must not be baked with yeast. I have given it as their portion of my offerings burned on the altar. It is most holy, as are the sin offering and the guilt offering.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -331,9 +294,6 @@ Every male among the children of Aaron must eat of it, as their portion forever 
 #### Ages 8-10
 Every male among the children of Aaron must eat of it, as their portion forever for all your generations, from the offerings burned for the Lord. Whoever touches them will be holy.' "
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -351,9 +311,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -369,9 +326,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "This is the offering of Aaron and of his sons, which they must offer to the Lord in the day when he is anointed: one tenth-measure of fine flour for a grain offering continually, half of it in the morning, and half of it in the evening.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -390,9 +344,6 @@ It must be made with oil in a griddle. When it is soaked, you must bring it in. 
 #### Ages 8-10
 It must be made with oil in a griddle. When it is soaked, you must bring it in. You must offer the grain offering in baked pieces for a pleasant aroma to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -408,9 +359,6 @@ The anointed priest that will be in his place from among his sons must offer it.
 
 #### Ages 8-10
 The anointed priest that will be in his place from among his sons must offer it. By a lasting rule, it must be wholly burned to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -428,9 +376,6 @@ Every grain gift of a priest must be wholly burned. It must not be eaten."
 #### Ages 8-10
 Every grain offering of a priest must be wholly burned. It must not be eaten."
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - priest: A worship leader who served at the holy place
@@ -445,9 +390,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -464,9 +406,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to Aaron and to his sons, saying, 'This is the law of the sin offering: in the place where the burned offering is killed, the sin offering must be killed before the Lord. It is most holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -486,9 +425,6 @@ The priest who offers it for sin must eat it. It must be eaten in a holy place, 
 #### Ages 8-10
 The priest who offers it for sin must eat it. It must be eaten in a holy place, in the court of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - priest: A worship leader who served at the holy place
@@ -505,9 +441,6 @@ Whatever touches its flesh will be holy. When there is any of its blood sprinkle
 #### Ages 8-10
 Whatever touches its flesh will be holy. When there is any of its blood sprinkled on a garment, you must wash that on which it was sprinkled in a holy place.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -522,9 +455,6 @@ But the clay bowl in which it is boiled must be broken; and if it is boiled in a
 #### Ages 8-10
 But the clay bowl in which it is boiled must be broken; and if it is boiled in a bronze container, it must be scoured, and rinsed in water.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 6:29
@@ -535,9 +465,6 @@ Every male among the priests must eat of it. It is most holy.
 
 #### Ages 8-10
 Every male among the priests must eat of it. It is most holy.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -552,9 +479,6 @@ No offering for sin, of which any of the blood is brought into the Tent of Meeti
 
 #### Ages 8-10
 No sin offering, of which any of the blood is brought into the Tent of Meeting to make atonement in the Holy Place, must be eaten. It must be burned with fire.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -582,12 +506,11 @@ or has found that which was lost, and lied about it, and swearing to a lie-in an
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 6 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

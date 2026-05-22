@@ -24,7 +24,7 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 "Simeon and Levi are brothers. Their swords are weapons of violence.
 
 ### Genesis 49:6
-"Let my soul not enter their secret plans. Let my honor not join their gathering, for in their anger they killed men, and because they did what they wanted, they crippled oxen.
+"Let me not enter their secret plans. Let my honor not join their gathering, for in their anger they killed men, and because they did what they wanted, they crippled oxen.
 
 ### Genesis 49:7
 "Cursed be their anger, for it was fierce, and their wrath, for it was cruel. I will divide them in Jacob and scatter them in Israel.
@@ -39,10 +39,10 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 "The royal scepter will not depart from Judah, nor the ruler's staff from between his feet, until the one it belongs to comes. To him will be the obedience of the peoples.
 
 ### Genesis 49:11
-"He ties his donkey to the vine, and his donkey's colt to the choice vine. Wine will be so plentiful it is pictured like water for washing clothes.
+"He ties his donkey to the vine, and his donkey's colt to the choice vine. Wine will be so plentiful it is pictured like water for washing clothes and like red grape juice for washing robes.
 
 ### Genesis 49:12
-"His eyes are bright with wine, and his teeth are white with milk.
+"His eyes are red with wine, and his teeth are white with milk.
 
 ### Genesis 49:13
 "Zebulun will live by the seashore. He will become a harbor for ships, and his border will reach toward Sidon.
@@ -69,7 +69,7 @@ Jacob called his sons and said, "Gather yourselves together, and I will tell you
 "Asher's food will be rich, and he will provide food fit for a king.
 
 ### Genesis 49:21
-"Naphtali is a deer set free. He gives beautiful words.
+"Naphtali is a deer set free, with beautiful fawns.
 
 ### Genesis 49:22
 "Joseph is a fruitful branch, a fruitful branch by a spring. His branches run over the wall.

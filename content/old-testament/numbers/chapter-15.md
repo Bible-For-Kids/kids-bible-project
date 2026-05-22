@@ -1,7 +1,7 @@
 # Numbers Chapter 15
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord gives offering laws for the day Israel enters the land, showing that his promise still stands after judgment.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord gives offering laws for the day Israel enters the land, showing that his promise still stands after judgment.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -40,9 +37,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -56,9 +50,6 @@ and will make an offering burned on the altar to the Lord: a burned offering, or
 
 #### Ages 8-10
 and will make an offering burned on the altar to the Lord: a burned offering, or a sacrifice, to accomplish a serious promise, or as a gift someone chooses to bring, or in your set feasts, to make a pleasing smell to the Lord, of the herd, or of the flock-
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -78,9 +69,6 @@ then whoever offers his offering must offer to the Lord a grain gift of a small 
 #### Ages 8-10
 then whoever offers his offering must offer to the Lord a grain offering of one tenth-measure of fine flour mixed with one fourth-measure of oil.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -97,9 +85,6 @@ You must prepare wine for the drink gift, one fourth-measure, with the burned of
 #### Ages 8-10
 You must prepare wine for the drink offering, one fourth-measure, with the burned offering or for the sacrifice, for each lamb.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -115,9 +100,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "For a male sheep, you must prepare for a grain offering two tenth-measures of fine flour mixed with one third-measure of oil;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -131,9 +113,6 @@ and for the drink gift you must offer one third-measure of wine, of a pleasing s
 
 #### Ages 8-10
 and for the drink offering you must offer one third-measure of wine, of a pleasing smell to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -150,9 +129,6 @@ When you prepare a bull for a burned offering or for a sacrifice, to accomplish 
 
 #### Ages 8-10
 When you prepare a bull for a burned offering or for a sacrifice, to accomplish a serious promise, or for peace offerings to the Lord,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -172,9 +148,6 @@ then he must offer with the bull a grain gift of three small measured amounts of
 #### Ages 8-10
 then he must offer with the bull a grain offering of three tenth-measures of fine flour mixed with a half-measure of oil;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 
@@ -188,9 +161,6 @@ and you must offer for the drink gift a half-measure of wine, for an offering bu
 
 #### Ages 8-10
 and you must offer for the drink offering a half-measure of wine, for an offering burned on the altar, a pleasing smell to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -209,9 +179,6 @@ Thus it must be done for each bull, for each male sheep, for each of the male la
 #### Ages 8-10
 Thus it must be done for each bull, for each male sheep, for each of the male lambs, or of the young goats.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 15:12
@@ -223,9 +190,6 @@ According to the number that you must prepare, so you must do to everyone accord
 #### Ages 8-10
 According to the number that you must prepare, so you must do to everyone according to their number.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 15:13
@@ -236,9 +200,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "All who are native-born must do these things in this way, when bringing an offering burned on the altar, a pleasing smell to the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -257,9 +218,6 @@ If a foreigner lives with you, or whoever may be among you for all your generati
 #### Ages 8-10
 If a foreigner lives with you, or whoever may be among you for all your generations, and will bring an offering burned on the altar, a pleasing smell to the Lord, as you do, so he must do.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - Lord: God's covenant name used in many English Bibles
@@ -277,9 +235,6 @@ For the whole group, there must be one rule for you and for the foreigner who li
 #### Ages 8-10
 For the gathered people, there must be one rule for you and for the foreigner who lives as a foreigner, a rule forever for all your generations. As you are, so the foreigner must be before the Lord.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -295,9 +250,6 @@ One law and one command will be for you and for the foreigner who lives with you
 #### Ages 8-10
 One law and one command will be for you and for the foreigner who lives with you.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - law: God's instruction for his people
@@ -312,9 +264,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -332,9 +281,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'When you come into the land where I bring you,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -348,9 +294,6 @@ then when you eat the bread of the land, you must bring an offering lifted befor
 
 #### Ages 8-10
 then when you eat the bread of the land, you must bring an offering lifted before the Lord.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -368,9 +311,6 @@ From the first of your dough, bring a cake as an offering lifted before the Lord
 #### Ages 8-10
 From the first of your dough, bring a cake as an offering lifted before the Lord. Lift it before the Lord just as you lift an offering from the grain harvest.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -385,9 +325,6 @@ From the first of your dough, give the Lord an offering lifted before him throug
 
 #### Ages 8-10
 From the first of your dough, give the Lord an offering lifted before him through all your generations.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -405,9 +342,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "When you err and do not keep all these commands that the Lord spoke to Moses,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -423,9 +357,6 @@ even all that the Lord has commanded you by Moses, from the day that the Lord ga
 
 #### Ages 8-10
 even all that the Lord has commanded you by Moses, from the day that the Lord gave command and onward for all your generations-
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -443,9 +374,6 @@ then it must be, if it was done without meaning to, without the knowledge of the
 
 #### Ages 8-10
 then it must be, if it was done without meaning to, without the knowledge of the community, that all the community must offer one young bull for a burned offering, for a pleasing smell to the Lord, with its grain offering and its drink offering, according to the command, and one male goat for a sin offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -465,9 +393,6 @@ The priest must make atonement for all the people of Israel, and they will be fo
 #### Ages 8-10
 The priest must make atonement for all the community of the people of Israel, and they will be forgiven; for it was an error, and they have brought their offering, an offering burned on the altar to the Lord, and their sin offering before the Lord, for their error.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - atonement: God making a way for sin to be covered and forgiven
@@ -486,9 +411,6 @@ All the people of Israel will be forgiven, as well as the foreigner who lives am
 #### Ages 8-10
 All the community of the people of Israel will be forgiven, as well as the foreigner who lives among them; for with regard to all the people, it was done without meaning to.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -502,9 +424,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "If a person sins without meaning to, then he must offer a female goat a year old for a sin offering.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
@@ -520,9 +439,6 @@ The priest must make atonement for the person who errs when he sins without mean
 
 #### Ages 8-10
 The priest must make atonement for the person who errs when he sins without meaning to before the Lord. He must make atonement for him; and he will be forgiven.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -542,9 +458,6 @@ You must have one law for the person who does anything without meaning to, for t
 #### Ages 8-10
 You must have one law for the person who does anything without meaning to, for the person who is native-born among the people of Israel, and for the foreigner who lives among them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - law: God's instruction for his people
@@ -560,9 +473,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "But the person who does anything with a high hand, whether he is native-born or a foreigner, blasphemes the Lord. That person must be removed from among his people.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -577,9 +487,6 @@ Because he has despised the Lord's word, and has broken his command, that person
 
 #### Ages 8-10
 Because he has despised the Lord's word, and has broken his command, that person must be completely removed. His sin must be on him.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - command: Something God tells someone to do
@@ -598,9 +505,6 @@ While the people of Israel were in the wilderness, they found a man gathering st
 #### Ages 8-10
 While the people of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Sabbath: A day of holy rest
@@ -617,9 +521,6 @@ Those who found him gathering sticks brought him to Moses and Aaron, and to all 
 #### Ages 8-10
 Those who found him gathering sticks brought him to Moses and Aaron, and to all the community.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -635,9 +536,6 @@ They put him in custody, because it had not been declared what should be done to
 #### Ages 8-10
 They put him in custody, because it had not been declared what should be done to him.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 15:35
@@ -648,9 +546,6 @@ The Lord said to Moses, "The man must be put to death. All the people must stone
 
 #### Ages 8-10
 The Lord said to Moses, "The man must be put to death. All the community must stone him with stones outside of the camp."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -668,9 +563,6 @@ All the people brought him outside of the camp, and stoned him to death with sto
 #### Ages 8-10
 All the community brought him outside of the camp, and stoned him to death with stones, as the Lord commanded Moses.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -686,9 +578,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -706,9 +595,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the people of Israel, and tell them that they should make themselves fringes on the borders of their garments for all their generations, and that they put on the fringe of each border a cord of blue.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -724,8 +610,17 @@ This will be a fringe for you, that you may see it, and remember all the Lord's 
 This will be a fringe for you, that you may see it, and remember all the Lord's commands, and do them; and that you don't follow your own heart and your own eyes, by which you used to be unfaithful;
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord gives offering laws for the day Israel enters the land, showing that his promise still stands after judgment. He also teaches about sins done by mistake, serious defiance, Sabbath holiness, and tassels that help Israel remember his commands.
 
+<!-- Illustration Prompt -->
+**Scene**: An Israelite child looking at the blue cord on the tassels of a robe
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 15 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: An Israelite child looking at the blue cord on the tassels of a robe
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -741,9 +636,6 @@ so that you may remember and do all my commands, and be holy to your God.
 #### Ages 8-10
 so that you may remember and do all my commands, and be holy to your God.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - holy: Set apart for God
@@ -758,9 +650,6 @@ I am the Lord your God, who brought you out of the land of Egypt, to be your God
 
 #### Ages 8-10
 I am the Lord your God, who brought you out of the land of Egypt, to be your God: I am the Lord your God."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -788,12 +677,11 @@ then whoever offers his offering must offer to the Lord a grain offering of one 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God keeps his promises?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God keeps his promises"?
+2. How does this chapter also help explain "God helps his people remember"?
 ## Prayer
 Lord, help us understand Numbers 15 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

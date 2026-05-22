@@ -64,10 +64,10 @@ Exodus 29 continues the rescue-and-covenant story. The Lord gives the ceremony f
 **Original Reference**: Exodus 29:5 - You shall take the garments, and put on Aaron the tunic, the robe of the ephod, the ephod, and the breastplate, and clothe him with the skillfully woven band of the ephod.
 
 #### Ages 5-7
-"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the breastplate. Fasten the priestly vest on him with its woven waistband."
+"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the chest piece. Fasten the priestly vest on him with its woven waistband."
 
 #### Ages 8-10
-"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the breastplate. Fasten the priestly vest on him with its woven waistband."
+"Take the clothes and dress Aaron in the long shirt, the robe of the priestly vest, the priestly vest, and the chest piece. Fasten the priestly vest on him with its woven waistband."
 
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place

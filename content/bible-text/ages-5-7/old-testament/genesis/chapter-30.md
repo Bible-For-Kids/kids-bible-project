@@ -117,7 +117,7 @@ That day Laban removed the male goats that were streaked and spotted, all the fe
 Laban set three days' journey between himself and Jacob. Jacob kept the rest of Laban's flocks.
 
 ### Genesis 30:37
-Jacob took fresh sticks from poplar, hazel, and chestnut trees. He peeled white streaks in them, making the white show in the sticks.
+Jacob took fresh sticks from poplar, almond, and plane trees. He peeled white streaks in them, making the white show in the sticks.
 
 ### Genesis 30:38
 He set the peeled sticks before the flocks in the water channels and troughs where the flocks came to drink, so they would see them when they came to drink.

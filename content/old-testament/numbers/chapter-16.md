@@ -1,7 +1,7 @@
 # Numbers Chapter 16
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on korah, Dathan, Abiram, and their followers rebel against Moses and Aaron.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Korah, Dathan, Abiram, and their followers rebel against Moses and Aaron.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and
 #### Ages 8-10
 Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:2
@@ -34,9 +31,6 @@ They rose up against Moses with two hundred fifty well-known leaders from Israel
 
 #### Ages 8-10
 They rose up against Moses with two hundred fifty well-known leaders from Israel, men chosen from the community.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -52,9 +46,6 @@ They gathered together against Moses and Aaron and said, "You have gone too far!
 
 #### Ages 8-10
 They gathered together against Moses and Aaron and said, "You have gone too far! All the people are holy, every one of them, and the Lord is among them. Why do you lift yourselves above the Lord's community?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -74,9 +65,6 @@ When Moses heard it, he fell on his face.
 #### Ages 8-10
 When Moses heard it, he fell on his face.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -90,9 +78,6 @@ He said to Korah and to all his company, "In the morning, the Lord will show who
 
 #### Ages 8-10
 He said to Korah and to all his company, "In the morning, the Lord will show who are his, and who is holy, and will cause him to come near to him. Even him whom he chooses, he will cause to come near to him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -110,9 +95,6 @@ Do this: Korah and all his company must take incense pans.
 #### Ages 8-10
 Do this: Korah and all his company must take incense pans.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:7
@@ -123,9 +105,6 @@ put fire in them, and put sweet-smelling incense on them before the Lord tomorro
 
 #### Ages 8-10
 put fire in them, and put sweet-smelling incense on them before the Lord tomorrow. The man whom the Lord chooses will be holy. You have gone too far, you sons of Levi!"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -143,9 +122,6 @@ Moses said to Korah, "Hear now, you sons of Levi!
 #### Ages 8-10
 Moses said to Korah, "Hear now, you sons of Levi!
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -159,9 +135,6 @@ Is it a small thing to you that the God of Israel has separated you from the who
 
 #### Ages 8-10
 Is it a small thing to you that the God of Israel has separated you from the community of Israel, to bring you near to himself, to do the service of the Lord's tent, and to stand before the community to minister to them;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -181,9 +154,6 @@ and that he has brought you near, and all your brothers the sons of Levi with yo
 #### Ages 8-10
 and that he has brought you near, and all your brothers the sons of Levi with you? Do you seek the priesthood also?
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:11
@@ -194,9 +164,6 @@ Therefore you and all your company have gathered together against the Lord! What
 
 #### Ages 8-10
 Therefore you and all your company have gathered together against the Lord! What is Aaron that you complain against him?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -214,9 +181,6 @@ Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, "We won'
 #### Ages 8-10
 Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, "We won't come up!
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -230,9 +194,6 @@ Is it not enough that you brought us up from Egypt, a land they called full of m
 
 #### Ages 8-10
 Is it not enough that you brought us up from Egypt, a land they called full of milk and honey, to kill us in the wilderness? Must you also make yourself ruler over us?
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -248,9 +209,6 @@ You have not brought us into a land flowing with milk and honey. You have not gi
 #### Ages 8-10
 You have not brought us into a land flowing with milk and honey. You have not given us fields and vineyards. Are you trying to blind these men to the truth? We will not come up."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:15
@@ -261,9 +219,6 @@ Moses was very angry, and said to the Lord, "Don't respect their offering. I hav
 
 #### Ages 8-10
 Moses was very angry, and said to the Lord, "Don't respect their offering. I have not taken one donkey from them, neither have I hurt one of them."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -282,9 +237,6 @@ Moses said to Korah, "You and all your company go before the Lord, you, and they
 #### Ages 8-10
 Moses said to Korah, "You and all your company go before the Lord, you, and they, and Aaron, tomorrow.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -302,9 +254,6 @@ Each man must take his incense pan, put sweet-smelling incense on it, and bring 
 #### Ages 8-10
 Each man must take his incense pan, put incense on it, and bring it before the Lord. There will be two hundred fifty incense pans, plus yours and Aaron's."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -321,9 +270,6 @@ They each took his incense pan, and put fire in it, and laid sweet-smelling ince
 #### Ages 8-10
 They each took his incense pan, and put fire in it, and laid sweet-smelling incense on it, and stood at the door of the Tent of Meeting with Moses and Aaron.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -339,9 +285,6 @@ Korah assembled all the people opposite them to the door of the Tent of Meeting.
 #### Ages 8-10
 Korah assembled all the community opposite them to the door of the Tent of Meeting. The Lord's glory appeared to all the community.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -356,9 +299,6 @@ The Lord spoke to Moses and to Aaron, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses and to Aaron, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -377,9 +317,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Separate yourselves from this community, so I may consume them in a moment!"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:22
@@ -390,9 +327,6 @@ Moses and Aaron fell facedown and said, "God, you give life to every person. If 
 
 #### Ages 8-10
 Moses and Aaron fell facedown and said, "God, you are the God of the spirits of all living beings. If one man sins, will you be angry with all the people?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -408,9 +342,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -428,9 +359,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Speak to the community, saying, 'Get away from around the tent of Korah, Dathan, and Abiram!' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:25
@@ -441,9 +369,6 @@ Moses rose up and went to Dathan and Abiram; and the elders of Israel followed h
 
 #### Ages 8-10
 Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -460,9 +385,6 @@ Moses told the whole group, "Please move away from the tents of these wicked men
 #### Ages 8-10
 Moses told the community, "Please move away from the tents of these wicked men. Do not touch anything that belongs to them, or you may be swept away with them in all their sins!"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:27
@@ -474,9 +396,6 @@ So they went away from the tent of Korah, Dathan, and Abiram, on every side. Dat
 #### Ages 8-10
 So they went away from the tent of Korah, Dathan, and Abiram, on every side. Dathan and Abiram came out, and stood at the door of their tents with their wives, their sons, and their little ones.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:28
@@ -487,9 +406,6 @@ Moses said, "By this you will know that the Lord has sent me to do all these wor
 
 #### Ages 8-10
 Moses said, "By this you will know that the Lord has sent me to do all these works; for they are not from my own mind.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -507,9 +423,6 @@ If these men die the common death of all men, or if they experience what all men
 #### Ages 8-10
 If these men die the common death of all men, or if they experience what all men experience, then the Lord hasn't sent me.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -524,9 +437,6 @@ But if the Lord does something new, if the ground opens its mouth and swallows t
 
 #### Ages 8-10
 But if the Lord does something new, if the ground opens its mouth and swallows them and everything that belongs to them, and they go down alive to Sheol, then you will know these men have despised the Lord."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -543,9 +453,6 @@ As he finished speaking all these words, the ground that was under them split ap
 #### Ages 8-10
 As he finished speaking all these words, the ground that was under them split apart.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:32
@@ -556,9 +463,6 @@ The earth opened its mouth and swallowed them up with their households, all of K
 
 #### Ages 8-10
 The earth opened its mouth and swallowed them up with their households, all of Korah's men, and all their goods.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -571,9 +475,6 @@ They and everything that belonged to them went down alive to the place of the de
 #### Ages 8-10
 They and everything that belonged to them went down alive to Sheol. The earth closed over them, and they perished from among the community.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:34
@@ -584,9 +485,6 @@ All Israel that were around them fled at their cry; for they said, "Lest the ear
 
 #### Ages 8-10
 All Israel that were around them fled at their cry; for they said, "Lest the earth swallow us up!"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -602,9 +500,6 @@ Fire came out from the Lord and burned up the two hundred fifty men who offered 
 #### Ages 8-10
 Fire came out from the Lord and consumed the two hundred fifty men who offered the sweet-smelling incense.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -619,9 +514,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -639,9 +531,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Tell Eleazar son of Aaron the priest to pick up the incense pans from the burning place and scatter the fire away from the camp, because the pans are holy.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - holy: Set apart for God
@@ -657,9 +546,6 @@ The incense pans belonged to the men who sinned and lost their lives. Beat the p
 
 #### Ages 8-10
 The incense pans belonged to the men who sinned against their own lives. Beat the pans into thin plates to cover the altar. They were offered before the Lord, so they are holy. They must be a sign to the people of Israel."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -679,9 +565,6 @@ Eleazar the priest took the bronze incense pans offered by the men who had been 
 #### Ages 8-10
 Eleazar the priest took the bronze incense pans offered by the men who had been burned, and they hammered the pans into a covering for the altar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - priest: A worship leader who served at the holy place
@@ -696,9 +579,6 @@ This became a reminder to the people of Israel. No one who was not from Aaron's 
 
 #### Ages 8-10
 This became a reminder to the people of Israel. No one who was not from Aaron's family was to come near to burn sweet-smelling incense before the Lord, or he might become like Korah and his company, just as the Lord spoke through Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -718,9 +598,6 @@ But on the next day all the people of Israel complained against Moses and agains
 #### Ages 8-10
 But on the next day all the community of the people of Israel complained against Moses and against Aaron, saying, "You have killed the Lord's people!"
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Israel: God's covenant people descended from Jacob
@@ -739,9 +616,6 @@ When the whole group gathered against Moses and Aaron, they looked toward the Te
 #### Ages 8-10
 When the community gathered against Moses and Aaron, they looked toward the Tent of Meeting. The cloud covered it, and the Lord's glory appeared.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -759,9 +633,6 @@ Moses and Aaron came to the front of the Tent of Meeting.
 #### Ages 8-10
 Moses and Aaron came to the front of the Tent of Meeting.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -776,9 +647,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -796,9 +664,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Get away from this community, so I may consume them in a moment!" Then Moses and Aaron fell facedown.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 16:46
@@ -809,9 +674,6 @@ Moses said to Aaron, "Take your incense pan. Put fire from the altar in it, lay 
 
 #### Ages 8-10
 Moses said to Aaron, "Take your incense pan. Put fire from the altar in it, lay incense on it, and carry it quickly to the community. Make atonement for them, because wrath has gone out from the Lord. The plague has begun."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -831,9 +693,6 @@ Aaron did as Moses said, and ran into the middle of the whole group. The terribl
 #### Ages 8-10
 Aaron did as Moses said, and ran into the middle of the gathered people. The terrible sickness had already begun among the people. He put on the sweet-smelling incense, and made atonement for the people.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - atonement: God making a way for sin to be covered and forgiven
@@ -851,10 +710,18 @@ Aaron stood between the dead and the living, and the terrible sickness stopped.
 Aaron stood between the dead and the living, and the plague stopped.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Korah, Dathan, Abiram, and their followers rebel against Moses and Aaron. The Lord judges the rebels, confirms Aaron's priestly place, and Aaron stands with incense between the living and the dead as the terrible sickness stops.
 
+<!-- Illustration Prompt -->
+**Scene**: Aaron standing with an incense pan as the terrible sickness stops
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 16 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Aaron standing with an incense pan as the terrible sickness stops
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 ---
-
 ### Numbers 16:49
 **Original Reference**: Numbers 16:49 - Now those who died by the plague were fourteen thousand and seven hundred, in addition to those who died about the matter of Korah.
 
@@ -863,9 +730,6 @@ Now those who died by the terrible sickness were fourteen thousand and seven hun
 
 #### Ages 8-10
 Now those who died by the terrible sickness were fourteen thousand and seven hundred, in addition to those who died about the matter of Korah.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -877,9 +741,6 @@ Aaron returned to Moses to the door of the Tent of Meeting, and the terrible sic
 
 #### Ages 8-10
 Aaron returned to Moses to the door of the Tent of Meeting, and the terrible sickness was stopped.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -905,12 +766,11 @@ Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God appoints holy service?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God appoints holy service"?
+2. How does this chapter also help explain "Intercession matters"?
 ## Prayer
 Lord, help us understand Numbers 16 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

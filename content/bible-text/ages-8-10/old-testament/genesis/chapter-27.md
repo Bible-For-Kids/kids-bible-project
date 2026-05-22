@@ -18,7 +18,7 @@ Isaac said, "See now, I am old, and I do not know the day of my death."
 "Please take your weapons, your quiver, which holds arrows, and your bow, and go out to the field to hunt some game for me."
 
 ### Genesis 27:4
-"Prepare the tasty food I love and bring it to me to eat, so that my soul may bless you before I die."
+"Prepare the tasty food I love and bring it to me to eat, so that I may bless you from my heart before I die."
 
 ### Genesis 27:5
 Rebekah heard Isaac speaking to Esau his son. Esau went to the field to hunt game and bring it back.
@@ -63,7 +63,7 @@ Then she gave the tasty food and bread she had prepared to her son Jacob.
 Jacob went to his father and said, "My father." Isaac said, "Here I am. Who are you, my son?"
 
 ### Genesis 27:19
-Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so your soul may bless me."
+Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please arise, sit, and eat my game, so you may bless me from your heart."
 
 ### Genesis 27:20
 Isaac said to his son, "How did you find it so quickly, my son?" Jacob said, "Because the Lord your God brought it to me."
@@ -81,7 +81,7 @@ Isaac did not recognize him, because his hands were hairy like Esau's hands. So 
 Isaac asked, "Are you truly my son Esau?" Jacob answered, "I am."
 
 ### Genesis 27:25
-Isaac said, "Bring it near to me, and I will eat my son's game, so my soul may bless you." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
+Isaac said, "Bring it near to me, and I will eat my son's game, so I may bless you from my heart." Jacob brought it near, and Isaac ate. He also brought him wine, and Isaac drank.
 
 ### Genesis 27:26
 Isaac his father said to him, "Come near now and kiss me, my son."
@@ -99,7 +99,7 @@ Jacob came near and kissed him. Isaac smelled his clothes and blessed him, sayin
 As soon as Isaac finished blessing Jacob, and Jacob had barely left his father's presence, Esau his brother came in from hunting.
 
 ### Genesis 27:31
-Esau also prepared tasty food and brought it to his father. He said, "Let my father arise and eat his son's game, so your soul may bless me."
+Esau also prepared tasty food and brought it to his father. He said, "Let my father arise and eat his son's game, so you may bless me from your heart."
 
 ### Genesis 27:32
 Isaac his father said to him, "Who are you?" He answered, "I am your son, your firstborn, Esau."

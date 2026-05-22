@@ -273,10 +273,10 @@ Joseph lived in Egypt, he and his father's household. Joseph lived one hundred t
 **Original Reference**: Genesis 50:23 - Joseph saw Ephraim's children to the third generation. The children also of Machir, the son of Manasseh, were born on Joseph's knees.
 
 #### Ages 5-7
-Joseph saw Ephraim's children to the third generation. The children of Machir, Manasseh's son, were also brought up on Joseph's knees.
+Joseph saw Ephraim's children to the third generation. The children of Machir, Manasseh's son, were also placed on Joseph's knees when they were born.
 
 #### Ages 8-10
-Joseph saw Ephraim's children to the third generation. The children of Machir, the son of Manasseh, were also brought up on Joseph's knees.
+Joseph saw Ephraim's children to the third generation. The children of Machir, the son of Manasseh, were also born on Joseph's knees.
 
 ---
 

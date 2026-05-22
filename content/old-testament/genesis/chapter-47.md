@@ -103,7 +103,7 @@ Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed
 **Original Reference**: Genesis 47:8 - Pharaoh said to Jacob, "How old are you?"
 
 #### Ages 5-7
-Pharaoh asked Jacob, "How many are the days of the years of your life?"
+Pharaoh asked Jacob, "How many years have you lived?"
 
 #### Ages 8-10
 Pharaoh said to Jacob, "How many are the days of the years of your life?"
@@ -114,7 +114,7 @@ Pharaoh said to Jacob, "How many are the days of the years of your life?"
 **Original Reference**: Genesis 47:9 - Jacob said to Pharaoh, "The years of my pilgrimage are one hundred thirty years. The days of the years of my life have been few and evil. They have not attained to the days of the years of the life of my fathers in the days of their pilgrimage."
 
 #### Ages 5-7
-Jacob said to Pharaoh, "The days of the years of my journey are one hundred thirty years. My years have been few and hard, and they have not reached the years of my fathers during their journeys."
+Jacob said to Pharaoh, "My journey through life has lasted one hundred thirty years. My years have been few and hard, and they have not reached the years of my fathers during their journeys."
 
 #### Ages 8-10
 Jacob said to Pharaoh, "The days of the years of my journey are one hundred thirty years. The years of my life have been few and hard, and they have not reached the years of my fathers during their journeys."

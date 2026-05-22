@@ -66,7 +66,7 @@ These were the children of Zilpah, whom Laban gave to his daughter Leah. She had
 The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
 
 ### Genesis 46:20
-In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera priest of On.
+In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 ### Genesis 46:21
 The sons of Benjamin were Belah, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
@@ -90,7 +90,7 @@ All the people who came with Jacob into Egypt, who came from his own family, not
 Joseph had two sons who were born to him in Egypt. All the people of Jacob's house who came into Egypt were seventy.
 
 ### Genesis 46:28
-Jacob sent Judah ahead to Joseph, so Joseph could show the way to Goshen. Then they came into the land of Goshen.
+Jacob sent Judah ahead to Joseph to prepare the way to Goshen. Then they came into the land of Goshen.
 
 ### Genesis 46:29
 Joseph made ready his royal chariot and went up to Goshen to meet Israel his father. When Joseph saw him, he threw his arms around his father's neck and wept there for a long time.
@@ -108,4 +108,4 @@ Joseph said to his brothers and to his father's household, "I will go up and tel
 "When Pharaoh calls you and asks, 'What is your work?'
 
 ### Genesis 46:34
-"you shall say, 'Your servants have cared for cattle from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."
+"you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."

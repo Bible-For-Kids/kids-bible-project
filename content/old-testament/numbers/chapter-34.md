@@ -1,7 +1,7 @@
 # Numbers Chapter 34
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the Lord names the borders of the land Israel will inherit in Canaan and appoints leaders to help divide it among the tribes.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The Lord names the borders of the land Israel will inherit in Canaan and appoints leaders to help divide it among the tribes.
 
 ## Important Keywords
 - command: Something God tells someone to do
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -41,8 +38,17 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 "Command the people of Israel, and tell them, 'When you come into the land of Canaan (this is the land that will be assigned to you as an inheritance, even the land of Canaan according to its borders),
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The Lord names the borders of the land Israel will inherit in Canaan and appoints leaders to help divide it among the tribes. The promised land is not vague; God marks out real places for his people.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses and the appointed leaders looking over a boundary map of Canaan
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 34 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses and the appointed leaders looking over a boundary map of Canaan
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - command: Something God tells someone to do
 - Israel: God's covenant people descended from Jacob
@@ -58,9 +64,6 @@ then your south quarter must be from the wilderness of Zin along by the side of 
 #### Ages 8-10
 then your south quarter must be from the wilderness of Zin along by the side of Edom, and your south border must be from the end of the Salt Sea eastward.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
 
@@ -75,9 +78,6 @@ Your border must turn about southward of the ascent of Akrabbim, and pass along 
 #### Ages 8-10
 Your border must turn about southward of the ascent of Akrabbim, and pass along to Zin; and it must pass southward of Kadesh Barnea; and it must go from there to Hazar Addar, and pass along to Azmon.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:5
@@ -88,9 +88,6 @@ The border must turn about from Azmon to the brook of Egypt, and it must end at 
 
 #### Ages 8-10
 The border must turn about from Azmon to the brook of Egypt, and it must end at the sea.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -106,9 +103,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "For the western border, you must have the great sea and its border. This must be your west border.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:7
@@ -119,9 +113,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "This must be your north border: from the great sea you must mark out for yourselves Mount Hor.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -134,9 +125,6 @@ From Mount Hor you must mark out to the entrance of Hamath; and the border must 
 #### Ages 8-10
 From Mount Hor you must mark out to the entrance of Hamath; and the border must pass by Zedad.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:9
@@ -147,9 +135,6 @@ Then the border must go to Ziphron, and it must end at Hazar Enan. This must be 
 
 #### Ages 8-10
 Then the border must go to Ziphron, and it must end at Hazar Enan. This must be your north border.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -162,9 +147,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "You must mark out your east border from Hazar Enan to Shepham.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:11
@@ -175,9 +157,6 @@ The border must go down from Shepham to Riblah, on the east side of Ain. The bor
 
 #### Ages 8-10
 The border must go down from Shepham to Riblah, on the east side of Ain. The border must go down, and must reach to the side of the sea of Chinnereth eastward.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -190,9 +169,6 @@ The border must go down to the Jordan, and end at the Salt Sea. This must be you
 #### Ages 8-10
 The border must go down to the Jordan, and end at the Salt Sea. This must be your land according to its borders around it.' "
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:13
@@ -203,9 +179,6 @@ Moses commanded the people of Israel, saying, "This is the land which you must i
 
 #### Ages 8-10
 Moses commanded the people of Israel, saying, "This is the land which you must inherit by lot, which the Lord has commanded to give to the nine tribes, and to the half-tribe;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -224,9 +197,6 @@ for the tribe of Reuben according to their family groups, the tribe of Gad accor
 #### Ages 8-10
 for the tribe of Reuben according to their family groups, the tribe of Gad according to their family groups, and the half-tribe of Manasseh have received their inheritance.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:15
@@ -238,9 +208,6 @@ The two tribes and the half-tribe have received their inheritance beyond the Jor
 #### Ages 8-10
 The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:16
@@ -251,9 +218,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -271,9 +235,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "These are the names of the men who must divide the land to you for inheritance: Eleazar the priest, and Joshua the son of Nun.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - priest: A worship leader who served at the holy place
 
@@ -288,9 +249,6 @@ You must take one leader of every tribe, to divide the land for inheritance.
 #### Ages 8-10
 You must take one prince of every tribe, to divide the land for inheritance.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:19
@@ -301,9 +259,6 @@ These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunne
 
 #### Ages 8-10
 These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -316,9 +271,6 @@ Of the tribe of Simeon, Shemuel the son of Ammihud.
 #### Ages 8-10
 Of the tribe of Simeon, Shemuel the son of Ammihud.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:21
@@ -329,9 +281,6 @@ Of the tribe of Benjamin, Elidad the son of Chislon.
 
 #### Ages 8-10
 Of the tribe of Benjamin, Elidad the son of Chislon.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -344,9 +293,6 @@ Of the tribe of Dan a leader, Bukki the son of Jogli.
 #### Ages 8-10
 Of the tribe of Dan a prince, Bukki the son of Jogli.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:23
@@ -357,9 +303,6 @@ Of the descendants of Joseph: of the tribe of Manasseh a leader, Hanniel the son
 
 #### Ages 8-10
 Of the descendants of Joseph: of the tribe of Manasseh a prince, Hanniel the son of Ephod.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -372,9 +315,6 @@ Of the tribe of Ephraim a leader, Kemuel the son of Shiphtan.
 #### Ages 8-10
 Of the tribe of Ephraim a prince, Kemuel the son of Shiphtan.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:25
@@ -385,9 +325,6 @@ Of the tribe of Zebulun a leader, Elizaphan the son of Parnach.
 
 #### Ages 8-10
 Of the tribe of Zebulun a prince, Elizaphan the son of Parnach.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -400,9 +337,6 @@ Of the tribe of Issachar a leader, Paltiel the son of Azzan.
 #### Ages 8-10
 Of the tribe of Issachar a prince, Paltiel the son of Azzan.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:27
@@ -413,9 +347,6 @@ Of the tribe of Asher a leader, Ahihud the son of Shelomi.
 
 #### Ages 8-10
 Of the tribe of Asher a prince, Ahihud the son of Shelomi.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -428,9 +359,6 @@ Of the tribe of Naphtali a leader, Pedahel the son of Ammihud."
 #### Ages 8-10
 Of the tribe of Naphtali a prince, Pedahel the son of Ammihud."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 34:29
@@ -441,9 +369,6 @@ These are they whom the Lord commanded to divide the inheritance to the people o
 
 #### Ages 8-10
 These are they whom the Lord commanded to divide the inheritance to the people of Israel in the land of Canaan.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -470,12 +395,11 @@ then your south quarter must be from the wilderness of Zin along by the side of 
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God gives real promises?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God gives real promises"?
+2. How does this chapter also help explain "God appoints trustworthy order"?
 ## Prayer
 Lord, help us understand Numbers 34 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

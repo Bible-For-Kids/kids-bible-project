@@ -1,7 +1,7 @@
 # Numbers Chapter 36
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the leaders of Manasseh ask how the inheritance of Zelophehad's daughters can stay with their tribe.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The leaders of Manasseh ask how the inheritance of Zelophehad's daughters can stay with their tribe.
 
 ## Important Keywords
 - Israel: God's covenant people descended from Jacob
@@ -20,9 +20,6 @@ The leaders of the family households of the family of the descendants of Gilead,
 #### Ages 8-10
 The heads of the family households of the family of the descendants of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spoke before Moses and before the princes, the heads of the family households of the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Moses: The servant God used to lead Israel out of Egypt
@@ -37,9 +34,6 @@ They said, "The Lord commanded my lord to give the land for inheritance by lot t
 
 #### Ages 8-10
 They said, "The Lord commanded my lord to give the land for inheritance by lot to the people of Israel. My lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -57,9 +51,6 @@ If they are married to any of the sons of the other tribes of the people of Isra
 #### Ages 8-10
 If they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken away from the inheritance of our fathers, and will be added to the inheritance of the tribe to which they will belong. So it will be taken away from the lot of our inheritance.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -74,9 +65,6 @@ When the jubilee of the people of Israel comes, then their inheritance will be a
 #### Ages 8-10
 When the jubilee of the people of Israel comes, then their inheritance will be added to the inheritance of the tribe to which they will belong. So their inheritance will be taken away from the inheritance of the tribe of our fathers."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -90,9 +78,6 @@ Moses commanded the people of Israel according to the Lord's word, saying, "The 
 
 #### Ages 8-10
 Moses commanded the people of Israel according to the Lord's word, saying, "The tribe of the sons of Joseph speaks what is right.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -111,9 +96,6 @@ This is what the Lord commands about the daughters of Zelophehad, saying, 'Let t
 #### Ages 8-10
 This is what the Lord commands about the daughters of Zelophehad, saying, 'Let them be married to whom they think best, only they must marry into the family of the tribe of their father.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -129,9 +111,6 @@ So no inheritance of the people of Israel may move from tribe to tribe; for the 
 #### Ages 8-10
 So no inheritance of the people of Israel may move from tribe to tribe; for the people of Israel must all keep the inheritance of the tribe of his fathers.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -146,9 +125,6 @@ Every daughter who possesses an inheritance in any tribe of the people of Israel
 #### Ages 8-10
 Every daughter who possesses an inheritance in any tribe of the people of Israel must marry someone from the family of her father's tribe, that the people of Israel may each possess the inheritance of his fathers.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -162,9 +138,6 @@ So no inheritance may move from one tribe to another tribe; for the tribes of th
 
 #### Ages 8-10
 So no inheritance may move from one tribe to another tribe; for the tribes of the people of Israel must each keep his own inheritance.' "
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -181,8 +154,17 @@ The daughters of Zelophehad did as the Lord commanded Moses:
 The daughters of Zelophehad did as the Lord commanded Moses:
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The leaders of Manasseh ask how the inheritance of Zelophehad's daughters can stay with their tribe. The Lord commands the daughters to marry within their father's tribe, so each tribe's inheritance remains in place.
 
+<!-- Illustration Prompt -->
+**Scene**: Zelophehad's daughters with their relatives as the inheritance remains with Manasseh
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 36 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Zelophehad's daughters with their relatives as the inheritance remains with Manasseh
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -199,9 +181,6 @@ for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were 
 #### Ages 8-10
 for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to their father's brothers' sons.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 36:12
@@ -213,9 +192,6 @@ They were married into the families of the sons of Manasseh the son of Joseph. T
 #### Ages 8-10
 They were married into the families of the sons of Manasseh the son of Joseph. Their inheritance remained in the tribe of the family of their father.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 36:13
@@ -226,9 +202,6 @@ These are the commands and rules that the Lord commanded through Moses to the pe
 
 #### Ages 8-10
 These are the commands and rules that the Lord commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -256,12 +229,11 @@ This is what the Lord commands about the daughters of Zelophehad, saying, 'Let t
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God protects inheritance?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God protects inheritance"?
+2. How does this chapter also help explain "God gives wise order"?
 ## Prayer
 Lord, help us understand Numbers 36 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

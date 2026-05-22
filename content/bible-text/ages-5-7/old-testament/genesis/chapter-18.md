@@ -21,7 +21,7 @@ He said, "My lord, if you are pleased with me, please do not pass by your servan
 Let a little water be brought so you can wash your feet. Then rest under the tree.
 
 ### Genesis 18:5
-I will bring some bread so you can be refreshed. Then you may go on your way, since you have come to your servant." They said, "Very well. Do as you have said."
+I will bring some bread so you can be refreshed. Then you may go on your way, since you have come near your servant." They said, "Very well. Do as you have said."
 
 ### Genesis 18:6
 Abraham hurried into the tent to Sarah and said, "Quick! Get fine flour, knead it, and make bread."
@@ -30,7 +30,7 @@ Abraham hurried into the tent to Sarah and said, "Quick! Get fine flour, knead i
 Then Abraham ran to the herd, chose a tender young calf, and gave it to a servant, who hurried to prepare it.
 
 ### Genesis 18:8
-Abraham brought curds, milk, and the calf that had been prepared. He set the food before them, and he stood nearby under the tree while they ate.
+Abraham brought curds, milk, and the calf that had been prepared. He set the food before them and stood nearby under the tree while they ate.
 
 ### Genesis 18:9
 They asked him, "Where is your wife Sarah?" Abraham said, "There, in the tent."
@@ -42,7 +42,7 @@ Then one of them said, "I will surely return to you about this time next year, a
 Abraham and Sarah were very old, and Sarah was past the age for having children.
 
 ### Genesis 18:12
-So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I have this pleasure?"
+So Sarah laughed to herself and said, "After I am worn out and my lord is old, will I have this joy?"
 
 ### Genesis 18:13
 Then the Lord said to Abraham, "Why did Sarah laugh and say, 'Will I really have a child now that I am old?'
@@ -81,7 +81,7 @@ Abraham came near and said, "Will you really sweep away the people who do right 
 What if there are fifty people in the city who do right? Will you sweep it away and not spare the place for their sake?
 
 ### Genesis 18:25
-Far be it from you to do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
+Surely you would not do such a thing, to kill the people who do right along with the wicked. Will not the Judge of all the earth do what is right?"
 
 ### Genesis 18:26
 The Lord said, "If I find fifty people in Sodom who do right, I will spare the whole place for their sake."

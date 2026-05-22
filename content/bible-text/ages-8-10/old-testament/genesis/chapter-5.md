@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 5:1
-This is the written family line of Adam. When God created human beings, he made them in the likeness of God.
+This is the written family line that began with Adam. When God created human beings, he made them in the likeness of God.
 
 ### Genesis 5:2
 He created them male and female, blessed them, and called them mankind when they were created.
@@ -78,7 +78,7 @@ After Methuselah was born, Enoch walked faithfully with God for 300 years and ha
 Altogether, Enoch lived 365 years.
 
 ### Genesis 5:24
-Enoch walked faithfully with God. Then he was no more, because God took him away.
+Enoch walked faithfully with God. Then he was not found, because God took him away.
 
 ### Genesis 5:25
 When Methuselah was 187 years old, he became the father of Lamech.
@@ -93,7 +93,7 @@ Altogether, Methuselah lived 969 years, and then he died.
 When Lamech was 182 years old, he had a son.
 
 ### Genesis 5:29
-He named him Noah and said, "He will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."
+He named him Noah and said, "This child will comfort us in the work and painful toil of our hands from the ground the Lord has cursed."
 
 ### Genesis 5:30
 After Noah was born, Lamech lived 595 years and had other sons and daughters.
@@ -102,4 +102,4 @@ After Noah was born, Lamech lived 595 years and had other sons and daughters.
 Altogether, Lamech lived 777 years, and then he died.
 
 ### Genesis 5:32
-After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
+When Noah was 500 years old, he became the father of Shem, Ham, and Japheth.

@@ -261,7 +261,7 @@ They said, "These men are peaceful with us. Let them live in the land and trade 
 **Original Reference**: Genesis 34:23 - Won't their livestock and their possessions and all their animals be ours? Only let's give our consent to them, and they will dwell with us."
 
 #### Ages 5-7
-"Will not their animals, their goods, and all their other animals become ours? Let us agree with them, and they will live with us."
+"Will not their animals, their goods, and everything they own become ours? Let us agree with them, and they will live with us."
 
 #### Ages 8-10
 "Will not their livestock, their possessions, and every animal of theirs become ours? Let us agree to their condition, and they will live with us."

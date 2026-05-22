@@ -1,7 +1,7 @@
 # Numbers Chapter 30
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on moses teaches Israel about serious promises made before the Lord.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Moses teaches Israel about serious promises made before the Lord.
 
 ## Important Keywords
 - Israel: God's covenant people descended from Jacob
@@ -21,9 +21,6 @@ Moses spoke to the leaders of the tribes of the people of Israel, saying, "This 
 #### Ages 8-10
 Moses spoke to the heads of the tribes of the people of Israel, saying, "This is what the Lord has commanded.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -42,8 +39,17 @@ When a man makes a serious promise to the Lord, or swears an oath to bind himsel
 When a man makes a serious promise to the Lord, or swears an oath to bind himself with a binding promise, he must not break his word. He must do according to all that he has spoken.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Moses teaches Israel about serious promises made before the Lord. The chapter shows that words spoken to God matter, and it gives rules for how fathers or husbands may confirm or forbid vows in their households.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses teaching the tribal leaders about promises made to the Lord
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 30 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses teaching the tribal leaders about promises made to the Lord
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - promise: Words someone says and keeps
@@ -59,9 +65,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "Also, when a woman makes a serious promise to the Lord and binds herself with a binding promise, while she is young and living in her father's house,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -79,9 +82,6 @@ and her father hears her serious promise and her binding promise with which she 
 #### Ages 8-10
 and her father hears her serious promise and her binding promise with which she has bound herself, and her father says nothing to her, then all her serious promises must still be kept, and every binding promise with which she has bound herself must still be kept.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -95,9 +95,6 @@ But if her father forbids her on the day he hears, none of her serious promises 
 
 #### Ages 8-10
 But if her father forbids her on the day he hears, none of her serious promises or of her binding promises with which she has bound herself, must still be kept. The Lord will forgive her, because her father has forbidden her.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -114,9 +111,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "If she has a husband, while she is under her serious promises, or the quick promise she spoke with which she has bound herself,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -131,9 +125,6 @@ and her husband hears it, and says nothing to her on the day he hears it; then h
 #### Ages 8-10
 and her husband hears it, and says nothing to her on the day he hears it; then her serious promises must still be kept, and her binding promises with which she has bound herself must still be kept.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 30:8
@@ -144,9 +135,6 @@ But if her husband forbids her on the day he hears it, then he cancels her serio
 
 #### Ages 8-10
 But if her husband forbids her on the day he hears it, then he cancels her serious promise which is on her and the quick promise she spoke, with which she has bound herself. The Lord will forgive her.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -164,9 +152,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "But the serious promise of a widow, or of her who is divorced, everything with which she has bound herself must remain her responsibility.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -180,9 +165,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 
 #### Ages 8-10
 "If she made a serious promise in her husband's house or bound herself with an oath,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - promise: Words someone says and keeps
@@ -198,9 +180,6 @@ and her husband heard it, and said nothing to her and didn't forbid her, then al
 #### Ages 8-10
 and her husband heard it, and said nothing to her and didn't forbid her, then all her serious promises must still be kept, and every binding promise with which she bound herself must still be kept.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -214,9 +193,6 @@ But if her husband canceled them on the day he heard them, then whatever she spo
 
 #### Ages 8-10
 But if her husband canceled them on the day he heard them, then whatever she spoke concerning her serious promises, or concerning the binding promise she made, must not count. Her husband has canceled them. The Lord will forgive her.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -234,9 +210,6 @@ Every serious promise, and every binding oath that requires her to go without so
 #### Ages 8-10
 Every serious promise, and every binding oath that requires her to go without something, her husband may let it stand, or her husband may cancel it.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - promise: Words someone says and keeps
 
@@ -251,9 +224,6 @@ But if her husband says nothing to her from day to day, then he lets all her ser
 #### Ages 8-10
 But if her husband says nothing to her from day to day, then he lets all her serious promises stand or all her binding promises which are on her. He has let them stand, because he said nothing to her on the day he heard them.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 30:15
@@ -264,9 +234,6 @@ But if he cancels them after he has heard them, then he must carry her guilt."
 
 #### Ages 8-10
 But if he cancels them after he has heard them, then he must carry her guilt."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - sin: Disobeying God and going against his good way
@@ -281,9 +248,6 @@ These are the rules which the Lord commanded Moses, between a man and his wife, 
 
 #### Ages 8-10
 These are the rules which the Lord commanded Moses, between a man and his wife, between a father and his daughter, while she is young and living in her father's house.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -310,12 +274,11 @@ When a man makes a serious promise to the Lord, or swears an oath to bind himsel
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Words before God matter?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Words before God matter"?
+2. How does this chapter also help explain "God gives order in households"?
 ## Prayer
 Lord, help us understand Numbers 30 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

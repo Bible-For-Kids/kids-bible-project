@@ -246,10 +246,10 @@ The sons of Rachel, Jacob's wife, were Joseph and Benjamin.
 **Original Reference**: Genesis 46:20 - To Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera, priest of On, bore to him.
 
 #### Ages 5-7
-In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera priest of On.
+In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 #### Ages 8-10
-In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera priest of On.
+In Egypt, Joseph had sons named Manasseh and Ephraim. Their mother was Asenath, the daughter of Potiphera, the priest of On.
 
 **Key Vocabulary**:
 - Egypt: The land where Joseph was taken and where Jacob's family later lived
@@ -344,10 +344,10 @@ Joseph's two sons were born to him in Egypt. All the people of Jacob's house who
 **Original Reference**: Genesis 46:28 - Jacob sent Judah before him to Joseph, to show the way before him to Goshen, and they came into the land of Goshen.
 
 #### Ages 5-7
-Jacob sent Judah ahead to Joseph, so Joseph could show the way to Goshen. Then they came into the land of Goshen.
+Jacob sent Judah ahead to Joseph to prepare the way to Goshen. Then they came into the land of Goshen.
 
 #### Ages 8-10
-Jacob sent Judah ahead to Joseph to show the way before him to Goshen. Then they came into the land of Goshen.
+Jacob sent Judah ahead to Joseph to prepare the way to Goshen. Then they came into the land of Goshen.
 
 ---
 
@@ -410,7 +410,7 @@ Joseph said to his brothers and to his father's household, "I will go up and tel
 **Original Reference**: Genesis 46:34 - that you shall say, 'Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:' that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians."
 
 #### Ages 5-7
-"you shall say, 'Your servants have cared for cattle from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."
+"you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."
 
 #### Ages 8-10
 "you shall say, 'Your servants have cared for livestock from our youth until now, both we and our fathers.' Then you may live in the land of Goshen, because Egyptians looked down on shepherds."

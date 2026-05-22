@@ -42,7 +42,7 @@ Joseph said to his brothers, "Please come near to me." They came near. He said, 
 "'There I will provide for you, because five years of famine are still coming. Otherwise you, your household, and all you have may become poor.'
 
 ### Genesis 45:12
-"Your eyes see, and the eyes of my brother Benjamin see, that it is my mouth speaking to you.
+"You see with your own eyes, and my brother Benjamin sees, that I am the one speaking to you.
 
 ### Genesis 45:13
 "Tell my father about all the honor I have in Egypt and about everything you have seen. Hurry and bring my father down here."

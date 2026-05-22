@@ -1,7 +1,7 @@
 # Numbers Chapter 12
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on miriam and Aaron speak against Moses, but the Lord defends Moses as his faithful servant.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. Miriam and Aaron speak against Moses, but the Lord defends Moses as his faithful servant.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Miriam and Aaron spoke against Moses because of the Cushite woman whom he had ma
 #### Ages 8-10
 Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Moses: The servant God used to lead Israel out of Egypt
@@ -38,9 +35,6 @@ They said, "Has the Lord indeed spoken only with Moses? Hasn't he spoken also wi
 
 #### Ages 8-10
 They said, "Has the Lord indeed spoken only with Moses? Hasn't he spoken also with us?" And the Lord heard it.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -58,9 +52,6 @@ Now the man Moses was very humble, more than all the men who were on the surface
 #### Ages 8-10
 Now the man Moses was very humble, more than all the men who were on the surface of the earth.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -74,9 +65,6 @@ The Lord spoke suddenly to Moses, to Aaron, and to Miriam, "You three come out t
 
 #### Ages 8-10
 The Lord spoke suddenly to Moses, to Aaron, and to Miriam, "You three come out to the Tent of Meeting!" The three of them came out.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -95,9 +83,6 @@ The Lord came down in a pillar of cloud, and stood at the door of the Tent, and 
 #### Ages 8-10
 The Lord came down in a pillar of cloud, and stood at the door of the Tent, and called Aaron and Miriam; and they both came forward.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -114,9 +99,6 @@ He said, "Now hear my words. If there is a prophet among you, I, the Lord, will 
 #### Ages 8-10
 He said, "Now hear my words. If there is a prophet among you, I, the Lord, will make myself known to him in a vision. I will speak with him in a dream.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -132,9 +114,6 @@ My servant Moses is not so. He is faithful in all my house.
 #### Ages 8-10
 My servant Moses is not so. He is faithful in all my house.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Moses: The servant God used to lead Israel out of Egypt
 
@@ -148,9 +127,6 @@ With him, I will speak mouth to mouth, even plainly, and not in riddles; and he 
 
 #### Ages 8-10
 With him, I will speak mouth to mouth, even plainly, and not in riddles; and he must see the Lord's form. Why then were you not afraid to speak against my servant, against Moses?"
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -168,9 +144,6 @@ The Lord's anger burned against them; and he departed.
 #### Ages 8-10
 The Lord's anger burned against them; and he departed.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -186,9 +159,6 @@ The cloud departed from over the Tent; and Miriam was serious, as white as snow.
 #### Ages 8-10
 The cloud departed from over the Tent; and Miriam was serious, as white as snow. Aaron looked at Miriam, and she was serious.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -202,9 +172,6 @@ Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We ac
 
 #### Ages 8-10
 Aaron said to Moses, "Oh, my lord, please do not hold this sin against us. We acted foolishly and sinned.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -223,9 +190,6 @@ Please do not let her be like someone already dying, with the body wasting away.
 #### Ages 8-10
 Please do not let her be like a child born already near death, with the body wasting away."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 12:13
@@ -238,8 +202,17 @@ Moses cried to the Lord, saying, "Heal her, God, I beg you!"
 Moses cried to the Lord, saying, "Heal her, God, I beg you!"
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: Miriam and Aaron speak against Moses, but the Lord defends Moses as his faithful servant. Miriam is struck with a serious skin disease, Moses prays for her, and the camp waits until she is restored.
 
+<!-- Illustration Prompt -->
+**Scene**: Moses praying for Miriam outside the camp after the Lord speaks
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 12 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Moses praying for Miriam outside the camp after the Lord speaks
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - Lord: God's covenant name used in many English Bibles
@@ -257,9 +230,6 @@ The Lord said to Moses, "If her father had but spit in her face, shouldn't she b
 #### Ages 8-10
 The Lord said to Moses, "If her father had but spit in her face, shouldn't she be ashamed seven days? Let her be shut up outside of the camp seven days, and after that she must be brought in again."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -276,9 +246,6 @@ Miriam was shut up outside of the camp seven days, and the people didn't travel 
 #### Ages 8-10
 Miriam was shut up outside of the camp seven days, and the people didn't travel until Miriam was brought in again.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 12:16
@@ -289,9 +256,6 @@ Afterward the people traveled from Hazeroth, and camped in the wilderness of Par
 
 #### Ages 8-10
 Afterward the people traveled from Hazeroth, and camped in the wilderness of Paran.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - wilderness: A wild, dry place away from towns and farms
@@ -316,12 +280,11 @@ Miriam and Aaron spoke against Moses because of the Cushite woman whom he had ma
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: God defends his servant?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "God defends his servant"?
+2. How does this chapter also help explain "God hears humble prayer"?
 ## Prayer
 Lord, help us understand Numbers 12 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

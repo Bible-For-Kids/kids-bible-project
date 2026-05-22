@@ -33,7 +33,7 @@ They said, "The man asked carefully about us and our family. He asked, 'Is your 
 Judah said to Israel his father, "Send the boy with me, and we will get up and go. Then we, you, and our little ones may live and not die.
 
 ### Genesis 43:9
-"I will be responsible for him. You may require him from my hand. If I do not bring him back and set him before you, then I will carry the blame forever.
+"I will be responsible for him. Hold me responsible. If I do not bring him back and set him before you, then I will carry the blame forever.
 
 ### Genesis 43:10
 "If we had not delayed, we could have gone and returned twice by now."

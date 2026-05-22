@@ -1,7 +1,7 @@
 # Leviticus Chapter 3
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives instructions for peace offerings from cattle, sheep, or goats.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives instructions for peace offerings from cattle, sheep, or goats.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, an
 #### Ages 8-10
 "If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he must offer it with nothing wrong with it before the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -41,9 +38,6 @@ He must place his hand on the head of his offering, and kill it at the door of t
 #### Ages 8-10
 He must lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron's sons, the priests, must sprinkle the blood around on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
@@ -59,9 +53,6 @@ He must offer of the sacrifice of peace offerings an offering burned on the alta
 
 #### Ages 8-10
 He must offer of the sacrifice of peace offerings an offering burned on the altar to the Lord. The fat that covers the inner parts, and all the fat that is on the inner parts,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -81,9 +72,6 @@ and the two kidneys, and the fat that is on them, near the lower back, and the c
 #### Ages 8-10
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must take away.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 3:5
@@ -94,9 +82,6 @@ Aaron's sons must burn it on the altar on the burned offering, which is on the w
 
 #### Ages 8-10
 Aaron's sons must burn it on the altar on the burned offering, which is on the wood that is on the fire: it is an offering burned on the altar, of a pleasant aroma to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -116,9 +101,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If his offering for a sacrifice of peace offerings to the Lord is from the flock, either male or female, he must offer it with nothing wrong with it.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -136,9 +118,6 @@ If he offers a lamb for his offering, then he must offer it before the Lord;
 #### Ages 8-10
 If he offers a lamb for his offering, then he must offer it before the Lord;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -155,9 +134,6 @@ and he must place his hand on the head of his offering, and kill it before the T
 #### Ages 8-10
 and he must lay his hand on the head of his offering, and kill it before the Tent of Meeting. Aaron's sons must sprinkle its blood around on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
@@ -173,9 +149,6 @@ He must offer from the sacrifice of peace offerings an offering burned on the al
 
 #### Ages 8-10
 He must offer from the sacrifice of peace offerings an offering burned on the altar to the Lord; its fat, the entire tail fat, he must take away close to the backbone; and the fat that covers the entrails, and all the fat that is on the entrails,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -195,9 +168,6 @@ and the two kidneys, and the fat that is on them, near the lower back, and the c
 #### Ages 8-10
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must take away.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 3:11
@@ -208,9 +178,6 @@ The priest must burn it on the altar: it is the food of the offering burned on t
 
 #### Ages 8-10
 The priest must burn it on the altar: it is the food of the offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -230,9 +197,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If his offering is a goat, then he must offer it before the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -249,9 +213,6 @@ He must place his hand on its head, and kill it before the Tent of Meeting; and 
 #### Ages 8-10
 He must lay his hand on its head, and kill it before the Tent of Meeting; and the sons of Aaron must sprinkle its blood around on the altar.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - altar: A special place where offerings were given to the Lord
@@ -266,9 +227,6 @@ He must offer from it as his offering, an offering burned on the altar to the Lo
 
 #### Ages 8-10
 He must offer from it as his offering, an offering burned on the altar to the Lord; the fat that covers the inner parts, and all the fat that is on the inner parts,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -287,9 +245,6 @@ and the two kidneys, and the fat that is on them, near the lower back, and the c
 #### Ages 8-10
 and the two kidneys, and the fat that is on them, near the lower back, and the cover on the liver, with the kidneys, he must take away.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 3:16
@@ -300,9 +255,6 @@ The priest must burn them on the altar: it is the food of the offering burned on
 
 #### Ages 8-10
 The priest must burn them on the altar: it is the food of the offering burned on the altar, for a pleasant aroma; all the fat is the Lord's.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -323,7 +275,18 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 "It must be a lasting rule for all your generations in all your dwellings, that you must eat neither fat nor blood.' "
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The command about fat and blood is kept because this chapter teaches that life belongs to the Lord and worship must honor his boundaries.
+**Cross-References**:
+- Leviticus 17:11
+<!-- Illustration Prompt -->
+**Scene**: A family bringing a peace offering animal near the altar
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Worshiper, family, priest, offering animal
+**Setting**: The entrance of the Tent of Meeting
+**Action**: The priest prepares the peace offering with careful reverence
+**Emotional Tone**: Peaceful, solemn, thankful
+**Age Appropriateness**: No graphic detail
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -345,12 +308,11 @@ He must lay his hand on the head of his offering, and kill it at the door of the
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

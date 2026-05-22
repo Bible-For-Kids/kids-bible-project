@@ -51,7 +51,7 @@ Joseph took them both, Ephraim in his right hand toward Israel's left hand, and 
 But Israel crossed his hands. He stretched out his right hand and put it on Ephraim's head, though Ephraim was the younger. He put his left hand on Manasseh's head, though Manasseh was the firstborn.
 
 ### Genesis 48:15
-Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life to this day,
+Israel blessed Joseph and said, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me like a shepherd all my life to this day,
 
 ### Genesis 48:16
 "the Angel who has rescued me from every evil, bless the boys. May my name be carried on in them, and the names of my fathers Abraham and Isaac. May they grow into a great many people on the earth."

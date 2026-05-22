@@ -15,13 +15,13 @@ Adam was with his wife Eve, and she became pregnant. She gave birth to Cain and 
 Later, Eve gave birth to Cain's brother Abel. Abel cared for sheep, and Cain worked the ground.
 
 ### Genesis 4:3
-After some time, Cain brought some fruit from the ground as an offering to the Lord.
+After some time, Cain brought some crops from the ground as an offering to the Lord.
 
 ### Genesis 4:4
-Abel also brought an offering. He brought the firstborn from his flock and the best rich parts from them. The Lord looked with favor on Abel and his offering.
+Abel also brought an offering. He brought firstborn animals from his flock and their best rich parts. The Lord looked with favor on Abel and his offering.
 
 ### Genesis 4:5
-But the Lord did not look with favor on Cain and his offering. Cain became very angry, and his face fell.
+But the Lord did not look with favor on Cain and his offering. Cain became very angry, and his face fell low.
 
 ### Genesis 4:6
 Then the Lord said to Cain, "Why are you angry? Why has your face fallen?
@@ -30,7 +30,7 @@ Then the Lord said to Cain, "Why are you angry? Why has your face fallen?
 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door. It wants to rule you, but you must rule over it."
 
 ### Genesis 4:8
-Cain said to his brother Abel, "Let us go out to the field." While they were away from home in the field, Cain attacked his brother Abel and killed him.
+Cain said to his brother Abel, "Let us go out to the field." While they were in the field, Cain attacked his brother Abel and killed him.
 
 ### Genesis 4:9
 Then the Lord said to Cain, "Where is your brother Abel?" Cain said, "I do not know. Am I supposed to guard my brother?"
@@ -42,7 +42,7 @@ The Lord said, "What have you done? Your brother's blood is crying out to me fro
 Now you are cursed from the ground. It opened its mouth to receive your brother's blood from your hand.
 
 ### Genesis 4:12
-When you work the ground, it will no longer give you its strength. You will wander on the earth without a settled home."
+When you work the ground, it will no longer give you its strength. You will wander over the earth without a settled home."
 
 ### Genesis 4:13
 Cain said to the Lord, "My punishment is more than I can carry.
@@ -66,19 +66,19 @@ Enoch became the father of Irad. Irad became the father of Mehujael. Mehujael be
 Lamech married two women. One was named Adah, and the other was named Zillah.
 
 ### Genesis 4:20
-Adah gave birth to Jabal. He was the father of people who live in tents and keep farm animals.
+Adah gave birth to Jabal. He became the father of people who live in tents and keep farm animals.
 
 ### Genesis 4:21
-His brother was named Jubal. He was the father of people who play musical instruments, like lyres and pipes.
+His brother was named Jubal. He became the father of people who play musical instruments, like lyres and pipes.
 
 ### Genesis 4:22
 Zillah also had a son, Tubal-Cain. He made all kinds of tools from bronze and iron. Tubal-Cain's sister was Naamah.
 
 ### Genesis 4:23
-Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I have killed a man for wounding me, a young man for hurting me.
+Lamech said to his wives, "Adah and Zillah, listen to me. Wives of Lamech, hear my words. I killed a man for wounding me, a young man for hurting me.
 
 ### Genesis 4:24
-If Cain is avenged seven times, then Lamech is avenged seventy-seven times."
+If anyone who kills Cain would be paid back seven times, then anyone who hurts Lamech will be paid back seventy-seven times."
 
 ### Genesis 4:25
 Adam was with his wife again, and she gave birth to a son. She named him Seth and said, "God has given me another child in place of Abel, because Cain killed him."

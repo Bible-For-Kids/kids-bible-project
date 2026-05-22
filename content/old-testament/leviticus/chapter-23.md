@@ -1,7 +1,7 @@
 # Leviticus Chapter 23
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives Israel his appointed times: the Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives Israel his appointed times: the Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths.
 
 ## Important Keywords
 - altar: A special place where offerings were given to the Lord
@@ -21,9 +21,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'The set feasts of the Lord, which you must proclaim to be holy gatherings, even these are my set feasts.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -60,9 +54,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Work must be done for six days, but on the seventh day is a Sabbath of quiet holy rest, a holy gathering; you must do no kind of work. It is a Sabbath to the Lord in all your dwellings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -80,9 +71,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "These are the set feasts of the Lord, even holy gatherings, which you must proclaim in their appointed season.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Lord: God's covenant name used in many English Bibles
@@ -99,9 +87,6 @@ In the first month, on the fourteenth day of the month in the evening, is the Lo
 #### Ages 8-10
 In the first month, on the fourteenth day of the month in the evening, is the Lord's Passover.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Passover: The meal and day remembering how God rescued Israel from Egypt
@@ -113,13 +98,10 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 **Original Reference**: Leviticus 23:6 - On the fifteenth day of the same month is the feast of unleavened bread to Yahweh. Seven days you shall eat unleavened bread.
 
 #### Ages 5-7
-On the fifteenth day of the same month is the feast of unleavened bread to the Lord. Seven days you must eat unleavened bread.
+On the fifteenth day of the same month is the feast of bread made without yeast to the Lord. For seven days you must eat bread made without yeast.
 
 #### Ages 8-10
-On the fifteenth day of the same month is the feast of unleavened bread to the Lord. Seven days you must eat unleavened bread.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+On the fifteenth day of the same month is the feast of bread made without yeast to the Lord. For seven days you must eat bread made without yeast.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -136,9 +118,6 @@ On the first day you must have a holy gathering. You must do no regular work.
 #### Ages 8-10
 On the first day you must have a holy gathering. You must do no regular work.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -152,9 +131,6 @@ But you must offer an offering burned on the altar to the Lord seven days. On th
 
 #### Ages 8-10
 But you must offer an offering burned on the altar to the Lord seven days. On the seventh day is a holy gathering. You must do no regular work.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -174,9 +150,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -193,9 +166,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'When you have come into the land that I give to you, and you reap its harvest, then you must bring the sheaf of the first fruits of your harvest to the priest.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - priest: A worship leader who served at the holy place
@@ -210,9 +180,6 @@ He must lift the bundle of grain before the Lord, to be accepted for you. On the
 
 #### Ages 8-10
 He must lift the bundle of grain before the Lord, to be accepted for you. On the next day after the Sabbath the priest must lift it.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -231,9 +198,6 @@ On the day when you lift the bundle of grain, you must offer a male lamb with no
 #### Ages 8-10
 On the day when you lift the bundle of grain, you must offer a male lamb with nothing wrong with it a year old for a burned offering to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -249,9 +213,6 @@ The grain gift with it must be two tenth-measures of fine flour mixed with oil, 
 
 #### Ages 8-10
 The grain offering with it must be two tenth-measures of fine flour mixed with oil, an offering burned on the altar to the Lord for a pleasant aroma; and the drink offering with it must be of wine, one fourth-measure.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -270,9 +231,6 @@ You must not eat bread, or roasted grain, or fresh grain, until this same day, u
 #### Ages 8-10
 You must not eat bread, or roasted grain, or fresh grain, until this same day, until you have brought the offering of your God. This is a lasting rule for all your generations in all your dwellings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 - offering: A gift brought to the Lord in worship
@@ -287,9 +245,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "You must count from the next day after the Sabbath, from the day that you brought the sheaf of the offering lifted before the Lord: seven Sabbaths must be completed.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -306,9 +261,6 @@ The next day after the seventh Sabbath you must count fifty days; and you must o
 
 #### Ages 8-10
 The next day after the seventh Sabbath you must count fifty days; and you must offer a new grain offering to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -327,9 +279,6 @@ You must bring out of your homes two loaves of bread for a lifted offering made 
 #### Ages 8-10
 You must bring out of your homes two loaves of bread for an offering lifted before the Lord made of two tenth-measures of fine flour. They must be baked with yeast, for first fruits to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - offering: A gift brought to the Lord in worship
@@ -345,9 +294,6 @@ You must present with the bread seven lambs a year old with nothing wrong with t
 
 #### Ages 8-10
 You must present with the bread seven year-old lambs with nothing wrong with them, one young bull, and two male sheep. They must be a burned offering to the Lord, with their grain offering and their drink offerings, even an offering burned on the altar, of a sweet aroma to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -366,9 +312,6 @@ You must offer one male goat for an offering for sin, and two male lambs a year 
 #### Ages 8-10
 You must offer one male goat for a sin offering, and two male lambs a year old for a sacrifice of peace offerings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - offering: A gift brought to the Lord in worship
 - sacrifice: An offering given in worship
@@ -384,9 +327,6 @@ The priest must lift them before the Lord with the bread from the first fruits a
 
 #### Ages 8-10
 The priest must lift them before the Lord with the bread from the first fruits as an offering, with the two lambs. They will be holy to the Lord for the priest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -406,9 +346,6 @@ You must make proclamation on the same day that there must be a holy gathering t
 #### Ages 8-10
 You must make proclamation on the same day that there must be a holy gathering to you. You must do no regular work. This is a lasting rule in all your dwellings for all your generations.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -422,9 +359,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "When you reap the harvest of your land, you must not reap all the way into the corners of your field, and you must not gather the gleanings of your harvest. You must leave them for the poor, and for the foreigner. I am the Lord your God.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -442,9 +376,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -461,9 +392,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel, saying, 'In the seventh month, on the first day of the month, there must be a quiet holy rest for you, a memorial of blowing of trumpets, a holy gathering.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -478,9 +406,6 @@ You must do no regular work. You must offer an offering burned on the altar to t
 
 #### Ages 8-10
 You must do no regular work. You must offer an offering burned on the altar to the Lord.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -499,9 +424,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -517,9 +439,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "However on the tenth day of this seventh month is the day of atonement. It must be a holy gathering to you. You must humble yourselves and you must offer an offering burned on the altar to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -539,9 +458,6 @@ You must do no kind of work in that same day, for it is a day of atonement, to m
 #### Ages 8-10
 You must do no kind of work in that same day, for it is a day of atonement, to make atonement for you before the Lord your God.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
 - God: The one true Creator and Lord over all
@@ -559,9 +475,6 @@ For whoever does not humble himself in that same day must be removed from his pe
 #### Ages 8-10
 For whoever does not humble himself in that same day must be removed from his people.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 23:30
@@ -572,9 +485,6 @@ Whoever does any kind of work in that same day, I will destroy that person from 
 
 #### Ages 8-10
 Whoever does any kind of work in that same day, I will destroy that person from among his people.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -587,9 +497,6 @@ You must do no kind of work: it is a lasting rule for all your generations in al
 #### Ages 8-10
 You must do no kind of work: it is a lasting rule for all your generations in all your dwellings.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 23:32
@@ -600,9 +507,6 @@ It must be a Sabbath of quiet holy rest for you, and you must humble yourselves.
 
 #### Ages 8-10
 It must be a Sabbath of quiet holy rest for you, and you must humble yourselves. On the ninth day of the month at evening, from evening to evening, you must keep your Sabbath."
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Sabbath: A day of holy rest
@@ -617,9 +521,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -637,9 +538,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Speak to the people of Israel, and say, 'On the fifteenth day of this seventh month is the feast of booths for seven days to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -656,9 +554,6 @@ On the first day there must be a holy gathering. You must do no regular work.
 #### Ages 8-10
 On the first day there must be a holy gathering. You must do no regular work.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -672,9 +567,6 @@ Seven days you must offer an offering burned on the altar to the Lord. On the ei
 
 #### Ages 8-10
 Seven days you must offer an offering burned on the altar to the Lord. On the eighth day there must be a holy gathering to you. You must offer an offering burned on the altar to the Lord. It is a special holy gathering; you must do no regular work.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -694,9 +586,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "These are the appointed feasts of the Lord which you must proclaim to be holy gatherings, to offer an offering burned on the altar to the Lord, a burned offering, a grain offering, a sacrifice, and drink offerings, each on its own day-
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
 - holy: Set apart for God
@@ -715,9 +604,6 @@ in addition to the Sabbaths of the Lord, and in addition to your gifts, and in a
 #### Ages 8-10
 in addition to the Sabbaths of the Lord, and in addition to your gifts, and in addition to all your vows, and in addition to all your gifts people choose to bring, which you give to the Lord.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -732,9 +618,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you must keep the feast of the Lord seven days. On the first day there must be a quiet holy rest, and on the eighth day there must be a quiet holy rest.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -752,7 +635,18 @@ You must take on the first day the fruit of majestic trees, branches of palm tre
 You must take on the first day the fruit of majestic trees, branches of palm trees, and boughs of thick trees, and willows of the brook; and you must rejoice before the Lord your God seven days.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+The feast names are connected to Israel's calendar of worship. The reader text explains bread without yeast while preserving the appointed times and dates.
+**Cross-References**:
+- Exodus 12:14-17
+<!-- Illustration Prompt -->
+**Scene**: Families rejoicing with branches and living in booths during the feast
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Israelite families and children
+**Setting**: Temporary booths around the camp
+**Action**: The people rejoice before the Lord and remember his care
+**Emotional Tone**: Joyful, thankful, festive
+**Age Appropriateness**: Bright family celebration
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -770,9 +664,6 @@ You must keep it as a feast to the Lord seven days in the year. It is a lasting 
 #### Ages 8-10
 You must keep it as a feast to the Lord seven days in the year. It is a lasting rule for all your generations. You must keep it in the seventh month.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Yahweh: The Lord, God's covenant name in the Hebrew Scriptures
@@ -788,9 +679,6 @@ You must live in temporary shelters for seven days. All who are native-born in I
 #### Ages 8-10
 You must live in temporary shelters for seven days. All who are native-born in Israel must live in temporary shelters,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 
@@ -804,9 +692,6 @@ that your generations may know that I made the people of Israel to live in tempo
 
 #### Ages 8-10
 that your generations may know that I made the people of Israel to live in temporary shelters when I brought them out of the land of Egypt. I am the Lord your God.' "
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -825,9 +710,6 @@ So Moses declared to the people of Israel the appointed feasts of the Lord.
 
 #### Ages 8-10
 So Moses declared to the people of Israel the appointed feasts of the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -855,12 +737,11 @@ In the first month, on the fourteenth day of the month in the evening, is the Lo
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 23 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

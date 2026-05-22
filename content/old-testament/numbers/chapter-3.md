@@ -1,7 +1,7 @@
 # Numbers Chapter 3
 
 ## Book Overview
-Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. This chapter focuses on the chapter names Aaron's sons and sets apart the Levites to serve the priests and guard the holy tent.
+Numbers follows Israel through the wilderness, showing the people counted, tested, corrected, protected, and guided by the Lord. The chapter names Aaron's sons and sets apart the Levites to serve the priests and guard the holy tent.
 
 ## Important Keywords
 - Aaron: Moses' brother and Israel's first high priest
@@ -21,9 +21,6 @@ Now this is the history of the generations of Aaron and Moses in the day that th
 #### Ages 8-10
 Now this is the history of the generations of Aaron and Moses in the day that the Lord spoke with Moses in Mount Sinai.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - Lord: God's covenant name used in many English Bibles
@@ -41,9 +38,6 @@ These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleaza
 #### Ages 8-10
 These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -57,9 +51,6 @@ These are the names of the sons of Aaron, the priests who were anointed, whom he
 
 #### Ages 8-10
 These are the names of the sons of Aaron, the priests who were anointed, whom he set apart to minister in the priest's office.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -75,9 +66,6 @@ Nadab and Abihu died before the Lord when they offered strange fire before the L
 
 #### Ages 8-10
 Nadab and Abihu died before the Lord when they offered strange fire before the Lord in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest's office in the presence of Aaron their father.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -97,9 +85,6 @@ The Lord spoke to Moses, saying,
 #### Ages 8-10
 The Lord spoke to Moses, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -116,9 +101,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - priest: A worship leader who served at the holy place
@@ -134,9 +116,6 @@ They must keep his requirements, and the requirements of the whole group before 
 #### Ages 8-10
 They must keep his requirements, and the requirements of the whole community before the Tent of Meeting, to do the service of the tent.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
 
@@ -150,9 +129,6 @@ They must keep all the furnishings of the Tent of Meeting, and the obligations o
 
 #### Ages 8-10
 They must keep all the furnishings of the Tent of Meeting, and the obligations of the people of Israel, to do the service of the tent.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -168,9 +144,6 @@ You must give the Levites to Aaron and to his sons. They are wholly given to him
 
 #### Ages 8-10
 You must give the Levites to Aaron and to his sons. They are wholly given to him on the behalf of the people of Israel.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -188,9 +161,6 @@ You must appoint Aaron and his sons, and they must keep their priesthood, but th
 #### Ages 8-10
 You must appoint Aaron and his sons, and they must keep their priesthood, but the foreigner who comes near must be put to death."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -204,9 +174,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -224,9 +191,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "I have taken the Levites from among the people of Israel instead of all the firstborn who open the womb among the people of Israel; and the Levites must be mine,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -241,9 +205,6 @@ for all the firstborn are mine. On the day that I struck down all the firstborn 
 
 #### Ages 8-10
 for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both people and animals. They must be mine. I am the Lord."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -263,9 +224,6 @@ The Lord spoke to Moses in the wilderness of Sinai, saying,
 #### Ages 8-10
 The Lord spoke to Moses in the wilderness of Sinai, saying,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -283,9 +241,6 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 #### Ages 8-10
 "Count the descendants of Levi by their family groups, by their families. You must count every male from a month old and older."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:16
@@ -296,9 +251,6 @@ Moses counted them according to the Lord's word, as he was commanded.
 
 #### Ages 8-10
 Moses counted them according to the Lord's word, as he was commanded.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -316,9 +268,6 @@ These were the sons of Levi by their names: Gershon, Kohath, and Merari.
 #### Ages 8-10
 These were the sons of Levi by their names: Gershon, Kohath, and Merari.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:18
@@ -329,9 +278,6 @@ These are the names of the sons of Gershon by their families: Libni and Shimei.
 
 #### Ages 8-10
 These are the names of the sons of Gershon by their families: Libni and Shimei.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 ---
 
@@ -344,9 +290,6 @@ The sons of Kohath by their families: Amram, Izhar, Hebron, and Uzziel.
 #### Ages 8-10
 The sons of Kohath by their families: Amram, Izhar, Hebron, and Uzziel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:20
@@ -357,9 +300,6 @@ The sons of Merari by their families: Mahli and Mushi. These are the families of
 
 #### Ages 8-10
 The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their family groups.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -375,9 +315,6 @@ Of Gershon was the family of the Libnites, and the family of the Shimeites. Thes
 #### Ages 8-10
 Of Gershon was the family of the Libnites, and the family of the Shimeites. These are the families of the Gershonites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:22
@@ -389,9 +326,6 @@ Those who were counted from them, according to the number of all the males from 
 #### Ages 8-10
 Those who were counted from them, according to the number of all the males from a month old and older, even those counted from them were seven thousand five hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:23
@@ -402,9 +336,6 @@ The families of the Gershonites must camp behind the tent westward.
 
 #### Ages 8-10
 The families of the Gershonites must camp behind the tent westward.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -420,9 +351,6 @@ Eliasaph the son of Lael must be the leader of the family group of the Gershonit
 #### Ages 8-10
 Eliasaph the son of Lael must be the prince of the family group of the Gershonites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:25
@@ -433,9 +361,6 @@ The duty of the sons of Gershon in the Tent of Meeting must be the tent, the ten
 
 #### Ages 8-10
 The duty of the sons of Gershon in the Tent of Meeting must be the tent, the tent, its covering, the screen for the door of the Tent of Meeting,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -450,9 +375,6 @@ the hangings of the court, the screen for the door of the court which is by the 
 
 #### Ages 8-10
 the hangings of the court, the screen for the door of the court which is by the tent and around the altar, and its cords for all of its service.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - altar: A special place where offerings were given to the Lord
@@ -469,9 +391,6 @@ Of Kohath was the family of the Amramites, the family of the Izharites, the fami
 #### Ages 8-10
 Of Kohath was the family of the Amramites, the family of the Izharites, the family of the Hebronites, and the family of the Uzzielites. These are the families of the Kohathites.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:28
@@ -482,9 +401,6 @@ According to the number of all the males from a month old and older, there were 
 
 #### Ages 8-10
 According to the number of all the males from a month old and older, there were eight thousand six hundred keeping the requirements of the holy place.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -500,9 +416,6 @@ The families of the sons of Kohath must camp on the south side of the tent.
 #### Ages 8-10
 The families of the sons of Kohath must camp on the south side of the tent.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
 
@@ -517,9 +430,6 @@ The leader of the family group of the families of the Kohathites must be Elizaph
 #### Ages 8-10
 The prince of the family group of the families of the Kohathites must be Elizaphan the son of Uzziel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:31
@@ -530,9 +440,6 @@ Their duty must be the ark, the table, the lamp stand, the altars, the holy tent
 
 #### Ages 8-10
 Their duty must be the ark, the table, the lamp stand, the altars, the holy tent tools with which they minister, the screen, and all its service.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -547,9 +454,6 @@ Eleazar the son of Aaron the priest must be leader of the leaders of the Levites
 
 #### Ages 8-10
 Eleazar the son of Aaron the priest must be prince of the princes of the Levites, with the oversight of those who keep the requirements of the holy place.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -568,9 +472,6 @@ Of Merari was the family of the Mahlites and the family of the Mushites. These a
 #### Ages 8-10
 Of Merari was the family of the Mahlites and the family of the Mushites. These are the families of Merari.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:34
@@ -582,9 +483,6 @@ Those who were counted from them, according to the number of all the males from 
 #### Ages 8-10
 Those who were counted from them, according to the number of all the males from a month old and older, were six thousand two hundred.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:35
@@ -595,9 +493,6 @@ The leader of the family group of the families of Merari was Zuriel the son of A
 
 #### Ages 8-10
 The prince of the family group of the families of Merari was Zuriel the son of Abihail. They must camp on the north side of the tent.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
@@ -613,9 +508,6 @@ The appointed duty of the sons of Merari must be the tent's boards, its bars, it
 #### Ages 8-10
 The appointed duty of the sons of Merari must be the tent's boards, its bars, its pillars, its sockets, all its instruments, all its service,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - tabernacle: The holy tent where the Lord met with Israel
 
@@ -630,9 +522,6 @@ the pillars of the court around it, their sockets, their pins, and their cords.
 #### Ages 8-10
 the pillars of the court around it, their sockets, their pins, and their cords.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:38
@@ -643,9 +532,6 @@ Those who camp before the tent eastward, in front of the Tent of Meeting toward 
 
 #### Ages 8-10
 Those who camp before the tent eastward, in front of the Tent of Meeting toward the sunrise, must be Moses, and Aaron and his sons, keeping the requirements of the holy place for the duty of the people of Israel. The outsider who comes near must be put to death.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -665,9 +551,6 @@ All who were counted from the Levites, whom Moses and Aaron counted at the comma
 #### Ages 8-10
 All who were counted from the Levites, whom Moses and Aaron counted at the command of the Lord, by their families, all the males from a month old and older, were twenty-two thousand.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 - command: Something God tells someone to do
@@ -686,9 +569,6 @@ The Lord said to Moses, "Count all the firstborn males of the people of Israel f
 #### Ages 8-10
 The Lord said to Moses, "Count all the firstborn males of the people of Israel from a month old and older, and take the number of their names.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -705,9 +585,6 @@ You must take the Levites for me-I am the Lord-instead of all the firstborn amon
 
 #### Ages 8-10
 You must take the Levites for me-I am the Lord-instead of all the firstborn among the people of Israel; and the livestock of the Levites instead of all the firstborn among the livestock of the people of Israel."
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -726,9 +603,6 @@ Moses counted, as the Lord commanded him, all the firstborn among the people of 
 #### Ages 8-10
 Moses counted, as the Lord commanded him, all the firstborn among the people of Israel.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Lord: God's covenant name used in many English Bibles
@@ -746,9 +620,6 @@ All the firstborn males according to the number of names from a month old and ol
 #### Ages 8-10
 All the firstborn males according to the number of names from a month old and older, of those counted from them, were twenty-two thousand two hundred seventy-three.
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 ---
 
 ### Numbers 3:44
@@ -759,9 +630,6 @@ The Lord spoke to Moses, saying,
 
 #### Ages 8-10
 The Lord spoke to Moses, saying,
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -780,8 +648,17 @@ Preserve the people, places, numbers, and wilderness setting. Make repeated lega
 "Take the Levites instead of all the firstborn among the people of Israel, and the livestock of the Levites instead of their livestock; and the Levites must be mine. I am the Lord.
 
 **Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
+The reviewed wording for this chapter should preserve its specific order, people, numbers, and theological movement: The chapter names Aaron's sons and sets apart the Levites to serve the priests and guard the holy tent. The Levites are taken in place of Israel's firstborn, and the extra firstborn sons are redeemed with silver.
 
+<!-- Illustration Prompt -->
+**Scene**: Levite families gathered before Moses as the firstborn sons are counted
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: People named in this verse and chapter context
+**Setting**: Numbers 3 in the wilderness camp, holy tent area, or promised-land setting described by the chapter
+**Action**: Show this visible moment: Levite families gathered before Moses as the firstborn sons are counted
+**Emotional Tone**: Reverent, concrete, and attentive to the chapter mood
+**Age Appropriateness**: Keep the scene non-graphic, avoiding frightening battle, disease, or sacrifice closeups.
+<!-- End Illustration Prompt -->
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -799,9 +676,6 @@ For the redemption of the two hundred seventy-three of the firstborn of the peop
 #### Ages 8-10
 For the redemption of the two hundred seventy-three of the firstborn of the people of Israel who exceed the number of the Levites,
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
 - Levites: The tribe set apart for service connected with worship
@@ -817,9 +691,6 @@ you must take five silver pieces apiece for each one; according to the weight us
 #### Ages 8-10
 you must take five silver pieces apiece for each one; by the weight used at the holy place you must take them (the silver piece is twenty small weight units);
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 
@@ -834,9 +705,6 @@ and you must give the money, with which their remainder is bought back, to Aaron
 #### Ages 8-10
 and you must give the money, with which their remainder is redeemed, to Aaron and to his sons."
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
 
@@ -850,9 +718,6 @@ Moses took the redemption money from those who exceeded the number of those who 
 
 #### Ages 8-10
 Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -869,9 +734,6 @@ from the firstborn of the people of Israel he took the money, one thousand three
 #### Ages 8-10
 from the firstborn of the people of Israel he took the money, one thousand three hundred sixty-five silver pieces, by the weight used at the holy place;
 
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
-
 **Key Vocabulary**:
 - holy: Set apart for God
 - Israel: God's covenant people descended from Jacob
@@ -886,9 +748,6 @@ and Moses gave the redemption money to Aaron and to his sons, according to the L
 
 #### Ages 8-10
 and Moses gave the redemption money to Aaron and to his sons, according to the Lord's word, as the Lord commanded Moses.
-
-**Translation Notes**:
-Preserve the people, places, numbers, and wilderness setting. Make repeated legal or travel details readable without deleting them.
 
 **Key Vocabulary**:
 - Aaron: Moses' brother and Israel's first high priest
@@ -916,12 +775,11 @@ Now this is the history of the generations of Aaron and Moses in the day that th
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What does this chapter show about this lesson: Service belongs to God?
+2. What can you picture most clearly from this chapter?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter support the lesson "Service belongs to God"?
+2. How does this chapter also help explain "God provides redemption"?
 ## Prayer
 Lord, help us understand Numbers 3 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

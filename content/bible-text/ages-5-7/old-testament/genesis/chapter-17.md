@@ -24,7 +24,7 @@ God said, "As for me, this is my covenant with you: you will be the father of ma
 Your name will no longer be Abram. Your name will be Abraham, because I have made you the father of many nations.
 
 ### Genesis 17:6
-I will make you very fruitful. I will make nations come from you, and kings will come from you.
+I will make you very fruitful. Nations will come from you, and kings will come from you.
 
 ### Genesis 17:7
 I will keep my covenant between me and you and the family that comes after you, for all generations. It will be a covenant that lasts forever. I will be your God and the God of your family after you.
@@ -42,7 +42,7 @@ This is the sign of my covenant that you must keep: every male among you must re
 You must receive this sign in your flesh. This will be the sign of the covenant between me and you.
 
 ### Genesis 17:12
-For all generations, every boy among you must receive this sign when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
+For all generations, every male among you must receive this sign when he is eight days old. This includes those born in your house and those bought with money from a foreigner.
 
 ### Genesis 17:13
 Whether born in your house or bought with your money, each male must receive this sign. My covenant in your flesh will last forever.

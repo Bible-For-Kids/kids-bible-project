@@ -1,7 +1,7 @@
 # Leviticus Chapter 25
 
 ## Book Overview
-Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. This chapter focuses on the Lord gives the Sabbath year and Jubilee, when the land rests, debts and property are addressed, and families may return to their land.
+Leviticus teaches Israel how to worship the holy Lord, how sin is atoned for, and how God's covenant people are to live as holy among the nations. The Lord gives the Sabbath year and Jubilee, when the land rests, debts and property are addressed, and families may return to their land.
 
 ## Important Keywords
 - atonement: God making a way for sin to be covered and forgiven
@@ -21,9 +21,6 @@ The Lord said to Moses in Mount Sinai,
 #### Ages 8-10
 The Lord said to Moses in Mount Sinai,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
 - Moses: The servant God used to lead Israel out of Egypt
@@ -39,9 +36,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Speak to the people of Israel, and tell them, 'When you come into the land which I give you, then the land must keep a Sabbath to the Lord.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -60,9 +54,6 @@ You must sow your field six years, and you must prune your vineyard six years, a
 #### Ages 8-10
 You must sow your field six years, and you must prune your vineyard six years, and gather in its fruits;
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:4
@@ -73,9 +64,6 @@ but in the seventh year there must be a Sabbath of quiet holy rest for the land,
 
 #### Ages 8-10
 but in the seventh year there must be a Sabbath of quiet holy rest for the land, a Sabbath to the Lord. You must not sow your field or prune your vineyard.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Lord: God's covenant name used in many English Bibles
@@ -93,9 +81,6 @@ What grows of itself in your harvest you must not reap, and you must not gather 
 #### Ages 8-10
 What grows of itself in your harvest you must not reap, and you must not gather the grapes of your undressed vine. It must be a year of quiet holy rest for the land.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:6
@@ -106,9 +91,6 @@ The Sabbath produce of the land will be food for you; for yourself, for your ser
 
 #### Ages 8-10
 The Sabbath produce of the land will be food for you; for yourself, for your servant, for your maid, for your hired servant, and for your foreigner, who lives with you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Sabbath: A day of holy rest
@@ -124,9 +106,6 @@ For your animals also, and for the animals that are in your land, all its increa
 #### Ages 8-10
 For your livestock also, and for the animals that are in your land, all its increase will be for food.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:8
@@ -138,9 +117,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "You must count off seven Sabbaths of years, seven times seven years; and there must be to you the days of seven Sabbaths of years, even forty-nine years.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:9
@@ -151,9 +127,6 @@ Then you must sound the loud trumpet on the tenth day of the seventh month. On t
 
 #### Ages 8-10
 Then you must sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you must sound the trumpet throughout all your land.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - atonement: God making a way for sin to be covered and forgiven
@@ -170,7 +143,18 @@ You must make the fiftieth year holy, and proclaim liberty throughout the land t
 You must make the fiftieth year holy, and proclaim liberty throughout the land to all its people who live there. It must be a jubilee to you; and each of you must return to his own property, and each of you must return to his family.
 
 **Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
+Jubilee is kept as a named year of release because the chapter ties land, family, freedom, and rest to the Lord's ownership.
+**Cross-References**:
+- Isaiah 61:1-2
+<!-- Illustration Prompt -->
+**Scene**: A family returning to its land during the Jubilee year
+**Style**: Children's Bible illustration, reverent and concrete
+**Characters**: Family, neighbors, elders
+**Setting**: Fields and family land in Israel
+**Action**: The family comes home as the trumpet announces release
+**Emotional Tone**: Joyful, restored, merciful
+**Age Appropriateness**: Hopeful family scene
+<!-- End Illustration Prompt -->
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -186,9 +170,6 @@ That fiftieth year must be a jubilee to you. In it you must not sow, neither rea
 #### Ages 8-10
 That fiftieth year must be a jubilee to you. In it you must not sow, neither reap that which grows of itself, nor gather from the undressed vines.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:12
@@ -199,9 +180,6 @@ For it is a jubilee; it will be holy to you. You must eat of its increase out of
 
 #### Ages 8-10
 For it is a jubilee; it will be holy to you. You must eat of its increase out of the field.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - holy: Set apart for God
@@ -217,9 +195,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "In this Year of Jubilee each of you must return to his property.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:14
@@ -230,9 +205,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If you sell anything to your neighbor, or buy from your neighbor, you must not wrong one another.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -245,9 +217,6 @@ According to the number of years after the Jubilee you must buy from your neighb
 #### Ages 8-10
 According to the number of years after the Jubilee you must buy from your neighbor. According to the number of years of the crops he must sell to you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:16
@@ -259,9 +228,6 @@ According to the length of the years you must increase its price, and according 
 #### Ages 8-10
 According to the length of the years you must increase its price, and according to the shortness of the years you must diminish its price; for he is selling the number of the crops to you.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:17
@@ -272,9 +238,6 @@ You must not wrong one another, but you must fear your God; for I am the Lord yo
 
 #### Ages 8-10
 You must not wrong one another, but you must fear your God; for I am the Lord your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -292,9 +255,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "Therefore you must do my rules, and keep my commands and do them; and you must live in the land in safety.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:19
@@ -305,9 +265,6 @@ The land will yield its fruit, and you must eat your fill, and live there in saf
 
 #### Ages 8-10
 The land will yield its fruit, and you must eat your fill, and live there in safety.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -320,9 +277,6 @@ If you ask, "What will we eat in the seventh year? We will not sow or gather in 
 #### Ages 8-10
 If you ask, "What will we eat in the seventh year? We will not sow or gather in our increase,"
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:21
@@ -333,9 +287,6 @@ then I will command my blessing on you in the sixth year, and it will bear fruit
 
 #### Ages 8-10
 then I will command my blessing on you in the sixth year, and it will bear fruit for the three years.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - blessing: Good that comes from God
@@ -352,9 +303,6 @@ You must sow the eighth year, and eat of the fruits from the old store until the
 #### Ages 8-10
 You must sow the eighth year, and eat of the fruits from the old store until the ninth year. Until its fruits come in, you must eat the old store.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:23
@@ -365,9 +313,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "The land must not be sold forever, for the land is mine; for you are foreigners living with me.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -380,9 +325,6 @@ In all the land of your possession you must grant a redemption for the land.
 #### Ages 8-10
 In all the land of your possession you must grant a redemption for the land.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:25
@@ -393,9 +335,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If your brother becomes poor, and sells some of his possessions, then his relative who is next to him must come, and redeem that which his brother has sold.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -408,9 +347,6 @@ If a man has no one to redeem it, and he becomes prosperous and finds sufficient
 #### Ages 8-10
 If a man has no one to redeem it, and he becomes prosperous and finds sufficient means to redeem it,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:27
@@ -421,9 +357,6 @@ then let him count the years since its sale, and restore the surplus to the man 
 
 #### Ages 8-10
 then let him count the years since its sale, and restore the surplus to the man to whom he sold it; and he must return to his property.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -436,9 +369,6 @@ But if he isn't able to get it back for himself, then what he has sold must rema
 #### Ages 8-10
 But if he isn't able to get it back for himself, then what he has sold must remain in the hand of the person who has bought it until the Year of Jubilee. In the Jubilee it must be released, and he must return to his property.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:29
@@ -449,9 +379,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "If a man sells a home house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he must have the right of redemption.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -464,9 +391,6 @@ If it isn't redeemed within the space of a full year, then the house that is in 
 #### Ages 8-10
 If it isn't redeemed within the space of a full year, then the house that is in the walled city must be made sure forever to the person who bought it, for all his generations. It must not be released in the Jubilee.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:31
@@ -478,9 +402,6 @@ But the houses of the villages which have no wall around them must be accounted 
 #### Ages 8-10
 But the houses of the villages which have no wall around them must be accounted for with the fields of the country: they may be redeemed, and they must be released in the Jubilee.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:32
@@ -491,9 +412,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 
 #### Ages 8-10
 "Nevertheless, in the cities of the Levites, the Levites may redeem the houses in the cities of their possession at any time.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Levites: The tribe set apart for service connected with worship
@@ -508,9 +426,6 @@ The Levites may redeem the house that was sold, and the city of his possession, 
 
 #### Ages 8-10
 The Levites may redeem the house that was sold, and the city of his possession, and it must be released in the Jubilee; for the houses of the cities of the Levites are their possession among the people of Israel.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -527,9 +442,6 @@ But the field of the pasture lands of their cities may not be sold, for it is th
 #### Ages 8-10
 But the field of the pasture lands of their cities may not be sold, for it is their lasting possession.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:35
@@ -541,9 +453,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If your brother has become poor, and his hand can't support himself among you, then you must uphold him. He will live with you like a foreigner and a temporary resident.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:36
@@ -554,9 +463,6 @@ Take no interest from him or profit; but fear your God, that your brother may li
 
 #### Ages 8-10
 Take no interest from him or profit; but fear your God, that your brother may live among you.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
@@ -572,9 +478,6 @@ You must not lend him your money at interest, nor give him your food for profit.
 #### Ages 8-10
 You must not lend him your money at interest, nor give him your food for profit.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:38
@@ -585,9 +488,6 @@ I am the Lord your God, who brought you out of the land of Egypt, to give you th
 
 #### Ages 8-10
 I am the Lord your God, who brought you out of the land of Egypt, to give you the land of Canaan, and to be your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -606,9 +506,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If your brother has grown poor among you, and sells himself to you, you must not make him serve as a slave.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:40
@@ -619,9 +516,6 @@ As a hired servant, and as a temporary resident, he must be with you; he must se
 
 #### Ages 8-10
 As a hired servant, and as a temporary resident, he must be with you; he must serve with you until the Year of Jubilee.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -634,9 +528,6 @@ Then he must go out from you, he and his children with him, and must return to h
 #### Ages 8-10
 Then he must go out from you, he and his children with him, and must return to his own family, and to the possession of his fathers.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:42
@@ -647,9 +538,6 @@ For they are my servants, whom I brought out of the land of Egypt. They must not
 
 #### Ages 8-10
 For they are my servants, whom I brought out of the land of Egypt. They must not be sold as slaves.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -665,9 +553,6 @@ You must not rule over him with harshness, but must fear your God.
 #### Ages 8-10
 You must not rule over him with harshness, but must fear your God.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 **Key Vocabulary**:
 - God: The one true Creator and Lord over all
 
@@ -682,9 +567,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "As for your male and your female slaves, whom you may have from the nations that are around you, from them you may buy male and female slaves.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:45
@@ -696,9 +578,6 @@ You may also buy from the children of the foreigners who live among you, and fro
 #### Ages 8-10
 You may also buy from the children of the foreigners who live among you, and from their families living with you who were born in your land. They will be your property.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:46
@@ -709,9 +588,6 @@ You may make them an inheritance for your children after you, to hold for a poss
 
 #### Ages 8-10
 You may make them an inheritance for your children after you, to hold for a possession. Of them you may take your slaves forever, but over your brothers the people of Israel you must not rule, one over another, with harshness.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Israel: God's covenant people descended from Jacob
@@ -727,9 +603,6 @@ Preserve the worship or holiness instruction, but replace adult ritual terms wit
 #### Ages 8-10
 "If a foreigner or temporary resident with you becomes rich, and your brother beside him has grown poor, and sells himself to the foreigner living among you, or to a member of the foreigner's family,
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:48
@@ -740,9 +613,6 @@ after he is sold he may be redeemed. One of his brothers may redeem him;
 
 #### Ages 8-10
 after he is sold he may be redeemed. One of his brothers may redeem him;
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -755,9 +625,6 @@ or his uncle, or his uncle's son, may redeem him, or any close relative from his
 #### Ages 8-10
 or his uncle, or his uncle's son, may redeem him, or any close relative from his family may redeem him; or if he has grown rich, he may redeem himself.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:50
@@ -768,9 +635,6 @@ He must count with the person who bought him from the year that he sold himself 
 
 #### Ages 8-10
 He must count with the person who bought him from the year that he sold himself to him to the Year of Jubilee. The price of his sale must be according to the number of years; he must be with him according to the time of a hired servant.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -783,9 +647,6 @@ If there are yet many years, according to them he must give back the price of hi
 #### Ages 8-10
 If there are yet many years, according to them he must give back the price of his redemption out of the money that he was bought for.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:52
@@ -796,9 +657,6 @@ If only a few years remain to the year of jubilee, then he must count with him; 
 
 #### Ages 8-10
 If only a few years remain to the year of jubilee, then he must count with him; according to his years of service he must give back the price of his redemption.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 ---
 
@@ -811,9 +669,6 @@ He must be with him as a servant hired year by year. He must not rule with harsh
 #### Ages 8-10
 He must be with him as a servant hired year by year. He must not rule with harshness over him in your sight.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:54
@@ -825,9 +680,6 @@ If he isn't redeemed by these means, then he must be released in the Year of Jub
 #### Ages 8-10
 If he isn't redeemed by these means, then he must be released in the Year of Jubilee: he and his children with him.
 
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
-
 ---
 
 ### Leviticus 25:55
@@ -838,9 +690,6 @@ For to me the people of Israel are servants; they are my servants whom I brought
 
 #### Ages 8-10
 For to me the people of Israel are servants; they are my servants whom I brought out of the land of Egypt. I am the Lord your God.
-
-**Translation Notes**:
-Preserve the worship or holiness instruction, but replace adult ritual terms with concrete child-readable wording during review.
 
 **Key Vocabulary**:
 - Egypt: The land where Israel had been enslaved
@@ -869,12 +718,11 @@ but in the seventh year there must be a Sabbath of quiet holy rest for the land,
 ## Discussion Questions by Age
 
 ### Ages 5-7
-1. What happened in this chapter?
-2. What did God show about himself?
+1. What did the Lord teach Israel in this chapter?
+2. Which object, action, or place can you picture most clearly?
 
 ### Ages 8-10
-1. What does this chapter teach about God, people, or covenant life?
-2. Which verse would need the most careful explanation for a younger child?
-
+1. How does this chapter show the Lord's holiness, atonement, or covenant care?
+2. Which repeated detail helps you understand the command?
 ## Prayer
 Lord, help us understand Leviticus 25 truthfully. Teach us to listen to your word, trust your promises, and walk in your ways. Amen.

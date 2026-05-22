@@ -16,7 +16,7 @@ Genesis 37 continues the covenant family story. Joseph receives dreams, his brot
 **Original Reference**: Genesis 37:1 - Jacob lived in the land of his father's travels, in the land of Canaan.
 
 #### Ages 5-7
-Jacob lived in the land of Canaan, the land where his father had lived as a stranger.
+Jacob made his home in the land of Canaan, where his father had lived as a stranger.
 
 #### Ages 8-10
 Jacob lived in the land of Canaan, where his father had lived as a stranger.
@@ -27,7 +27,7 @@ Jacob lived in the land of Canaan, where his father had lived as a stranger.
 **Original Reference**: Genesis 37:2 - This is the history of the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father's wives. Joseph brought an evil report of them to their father.
 
 #### Ages 5-7
-This is the story of Jacob's family. Joseph was seventeen years old, and he was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
+This is the story of Jacob's family. Joseph was seventeen years old, and he cared for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
 
 #### Ages 8-10
 This is the story of Jacob's family. Joseph was seventeen years old and was caring for the flock with his brothers. He worked with the sons of Bilhah and Zilpah, his father's wives, and Joseph brought their father a bad report about them.
@@ -38,7 +38,7 @@ This is the story of Jacob's family. Joseph was seventeen years old and was cari
 **Original Reference**: Genesis 37:3 - Now Israel loved Joseph more than all his children, because he was the son of his old age, and he made him a tunic of many colors.
 
 #### Ages 5-7
-Israel loved Joseph more than all his other children because Joseph had been born to him in his old age, and he made Joseph a special coat of many colors.
+Israel loved Joseph more than all his other children because Joseph had been born to him in his old age. Israel made Joseph a special coat of many colors.
 
 #### Ages 8-10
 Israel loved Joseph more than all his other children because Joseph was the son born to him in his old age, and he made him a coat of many colors.
@@ -127,7 +127,7 @@ Joseph had another dream and told it to his brothers. He said, "I have had anoth
 **Original Reference**: Genesis 37:10 - He told it to his father and to his brothers. His father rebuked him, and said to him, "What is this dream that you have dreamed? Will I and your mother and your brothers indeed come to bow ourselves down to you to the earth?"
 
 #### Ages 5-7
-When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down to the ground before you?"
+When he told the dream to his father and his brothers, his father corrected him and said, "What is this dream you have dreamed? Will I, your mother, and your brothers really come and bow down low to the ground before you?"
 
 #### Ages 8-10
 When he told it to his father and brothers, his father corrected him and said, "What is this dream you have had? Shall I, your mother, and your brothers really come and bow down to the ground before you?"
@@ -141,7 +141,7 @@ When he told it to his father and brothers, his father corrected him and said, "
 **Original Reference**: Genesis 37:11 - His brothers envied him, but his father kept this saying in mind.
 
 #### Ages 5-7
-Joseph's brothers were jealous of him, but his father kept the saying in his mind and wondered about it.
+Joseph's brothers were jealous of him, but his father kept thinking about what Joseph had said.
 
 #### Ages 8-10
 His brothers were jealous of him, but his father kept the saying in mind and wondered about it.
@@ -243,7 +243,7 @@ They said to one another, "Look, here comes this dreamer.
 **Original Reference**: Genesis 37:20 - Come now therefore, and let's kill him, and cast him into one of the pits, and we will say, 'An evil animal has devoured him.' We will see what will become of his dreams."
 
 #### Ages 5-7
-Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' We will see what becomes of his dreams."
+Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal has eaten him.' Then we will see what becomes of his dreams."
 
 #### Ages 8-10
 Come now, let us kill him and throw him into one of the deep pits. Then we will say, 'A wild animal ate him.' Then we will see what becomes of his dreams."
@@ -268,7 +268,7 @@ Reuben heard it and rescued Joseph from their hands. He said, "Let us not kill h
 **Original Reference**: Genesis 37:22 - Reuben said to them, "Shed no blood. Throw him into this pit that is in the wilderness, but lay no hand on him"—that he might deliver him out of their hand, to restore him to his father.
 
 #### Ages 5-7
-Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
+Reuben said to them, "Do not spill blood. Throw him into this deep pit in the wilderness, but do not raise your hands to hurt him." Reuben said this so he could rescue Joseph from them and bring him back to his father.
 
 #### Ages 8-10
 Reuben said, "Shed no blood. Throw him into this deep pit in the wilderness, but do not lay a hand on him." He said this so he could rescue Joseph from them and return him to his father.
@@ -326,7 +326,7 @@ Judah said to his brothers, "What do we gain if we kill our brother and hide his
 **Original Reference**: Genesis 37:27 - Come, and let's sell him to the Ishmaelites, and not let our hand be on him; for he is our brother, our flesh." His brothers listened to him.
 
 #### Ages 5-7
-Come, let us sell him to the Ishmaelites. Let us not hurt him with our own hands, because he is our brother, our own family." His brothers agreed.
+Come, let us sell him to the Ishmaelites. Let us not be the ones to kill him with our own hands, because he is our brother, our own family." His brothers agreed.
 
 #### Ages 8-10
 Come, let us sell him to the Ishmaelites, and let our hands not be against him, because he is our brother and our own family." His brothers agreed.
@@ -337,7 +337,7 @@ Come, let us sell him to the Ishmaelites, and let our hands not be against him, 
 **Original Reference**: Genesis 37:28 - Midianites who were merchants passed by, and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver. The merchants brought Joseph into Egypt.
 
 #### Ages 5-7
-When Midianite merchants passed by, the brothers pulled Joseph up out of the pit. They sold Joseph to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
+When Midianite merchants passed by, the brothers pulled Joseph up out of the deep pit. They sold Joseph to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
 
 #### Ages 8-10
 When Midianite merchants passed by, the brothers drew Joseph up and lifted him out of the pit. They sold him to the Ishmaelites for twenty pieces of silver, and the merchants brought Joseph into Egypt.
