@@ -24,7 +24,10 @@ ASSETS = [
     (1, "creation-begins", "creation_begins"),
     (1, "light-over-darkness", "light_over_darkness"),
     (1, "day-and-night", "day_and_night"),
+    (1, "heavens-formed", "heavens_formed"),
+    (1, "land-and-plants", "land_and_plants"),
     (1, "great-lights", "great_lights"),
+    (1, "waters-and-skies-filled", "waters_and_skies_filled"),
     (1, "very-good-creation", "very_good_creation"),
     (2, "sabbath-rest", "sabbath_rest"),
     (2, "before-field-growth", "before_field_growth"),
@@ -242,6 +245,12 @@ def bird(draw, x, y, scale=1.0, fill=(247, 247, 237)):
     line(draw, [(x + 10 * scale, y), (x + 40 * scale, y - 18 * scale), (x + 70 * scale, y)], c(fill, 230), 5 * scale)
 
 
+def fish(draw, x, y, scale=1.0, fill=(233, 214, 142)):
+    ellipse(draw, (x - 52 * scale, y - 20 * scale, x + 46 * scale, y + 20 * scale), c(fill, 170))
+    poly(draw, [(x + 42 * scale, y), (x + 82 * scale, y - 28 * scale), (x + 82 * scale, y + 28 * scale)], c(fill, 150))
+    ellipse(draw, (x - 22 * scale, y - 6 * scale, x - 10 * scale, y + 6 * scale), c((255, 248, 205), 95))
+
+
 def dove(draw, x, y, scale=1.0):
     ellipse(draw, (x - 38 * scale, y - 18 * scale, x + 34 * scale, y + 22 * scale), c((251, 250, 239), 255))
     ellipse(draw, (x + 20 * scale, y - 36 * scale, x + 54 * scale, y - 4 * scale), c((251, 250, 239), 255))
@@ -382,6 +391,54 @@ def add_light_veil(image, polygons, color=(255, 236, 174), blur=24):
     return Image.alpha_composite(image, layer)
 
 
+def soft_polygon(image, points, color, alpha=80, blur=26):
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer, "RGBA")
+    draw.polygon([(sc(x), sc(y)) for x, y in points], fill=c(color, alpha))
+    layer = layer.filter(ImageFilter.GaussianBlur(sc(blur)))
+    return Image.alpha_composite(image, layer)
+
+
+def soft_ribbon(image, points, color, width=54, alpha=70, blur=16):
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer, "RGBA")
+    draw.line([(sc(x), sc(y)) for x, y in points], fill=c(color, alpha), width=sc(width), joint="curve")
+    layer = layer.filter(ImageFilter.GaussianBlur(sc(blur)))
+    return Image.alpha_composite(image, layer)
+
+
+def horizon_mist(image, y, color=(238, 246, 236), alpha=48, height=120):
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer, "RGBA")
+    rect(draw, (0, y - height / 2, 1600, y + height / 2), c(color, alpha))
+    layer = layer.filter(ImageFilter.GaussianBlur(sc(height // 3)))
+    return Image.alpha_composite(image, layer)
+
+
+def side_gradient_overlay(image, color, start_x=620, end_x=1180, max_alpha=190):
+    if np is None:
+        layer = Image.new("RGBA", image.size, c(color, 0))
+        draw = ImageDraw.Draw(layer, "RGBA")
+        steps = 64
+        for i in range(steps):
+            x1 = start_x + (end_x - start_x) * i / steps
+            x2 = start_x + (end_x - start_x) * (i + 1) / steps
+            alpha = int(max_alpha * i / max(1, steps - 1))
+            rect(draw, (x1, 0, x2, 900), c(color, alpha))
+        rect(draw, (end_x, 0, 1600, 900), c(color, max_alpha))
+        return Image.alpha_composite(image, layer.filter(ImageFilter.GaussianBlur(sc(28))))
+
+    width, height = image.size
+    start_s = sc(start_x)
+    end_s = sc(end_x)
+    x = np.arange(width, dtype=np.float32)[None, :]
+    alpha = np.clip((x - start_s) / max(1, end_s - start_s), 0, 1) ** 1.35
+    layer = np.zeros((height, width, 4), dtype=np.uint8)
+    layer[:, :, :3] = np.array(color, dtype=np.uint8)
+    layer[:, :, 3] = (alpha * max_alpha).astype(np.uint8)
+    return Image.alpha_composite(image, Image.fromarray(layer, "RGBA"))
+
+
 def planet_cloud_bands(image, cx, cy, radius, alpha=68):
     layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer, "RGBA")
@@ -401,6 +458,95 @@ def planet_cloud_bands(image, cx, cy, radius, alpha=68):
     ImageDraw.Draw(mask).ellipse(tuple(sc(v) for v in (cx - radius, cy - radius, cx + radius, cy + radius)), fill=255)
     layer.putalpha(ImageChops.multiply(layer.getchannel("A"), mask))
     return Image.alpha_composite(image, layer)
+
+
+def water_surface(image, horizon=555, deep=(10, 45, 79), bright=(36, 115, 151), reflection=None):
+    if np is not None:
+        width, height = image.size
+        horizon_s = sc(horizon)
+        arr = np.array(image).astype(np.float32)
+        y = np.arange(height - horizon_s, dtype=np.float32)[:, None]
+        x = np.arange(width, dtype=np.float32)[None, :]
+        t = y / max(1, height - horizon_s - 1)
+        wave = (
+            np.sin(x / 78.0 + t * 7.5)
+            + 0.55 * np.sin(x / 137.0 - t * 12.0)
+            + 0.35 * np.cos(x / 42.0 + t * 19.0)
+        )
+        wave = (wave - wave.min()) / (wave.max() - wave.min() + 0.0001)
+        deep_rgb = np.array(deep, dtype=np.float32)
+        bright_rgb = np.array(bright, dtype=np.float32)
+        t3 = t[..., None]
+        color = deep_rgb * (0.68 + 0.32 * t3) + bright_rgb * (0.32 + 0.18 * wave[..., None])
+        foam = np.clip((wave - 0.74) * 2.4, 0, 1) * (0.34 + 0.38 * t)
+        foam_rgb = np.array((198, 235, 244), dtype=np.float32)
+        color = color * (1 - foam[..., None] * 0.22) + foam_rgb * (foam[..., None] * 0.22)
+        arr[horizon_s:, :, :3] = np.clip(color, 0, 255)
+        image = Image.fromarray(arr.astype(np.uint8), "RGBA")
+    else:
+        draw = ImageDraw.Draw(image, "RGBA")
+        rect(draw, (0, horizon, 1600, 900), c(deep, 255))
+
+    highlight = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    hdraw = ImageDraw.Draw(highlight, "RGBA")
+    for row, y in enumerate(range(horizon + 42, 900, 86)):
+        alpha = max(12, 44 - row * 5)
+        hdraw.line(
+            [(sc(-120), sc(y)), (sc(220), sc(y - 22)), (sc(560), sc(y + 10)),
+             (sc(930), sc(y - 18)), (sc(1280), sc(y + 8)), (sc(1720), sc(y - 24))],
+            fill=c((218, 245, 248), alpha),
+            width=sc(max(9, 22 - row * 2)),
+        )
+    highlight = highlight.filter(ImageFilter.GaussianBlur(sc(10)))
+    image = Image.alpha_composite(image, highlight)
+    draw = ImageDraw.Draw(image, "RGBA")
+    if reflection:
+        rx, color = reflection
+        refl = Image.new("RGBA", image.size, (0, 0, 0, 0))
+        rdraw = ImageDraw.Draw(refl, "RGBA")
+        for width, alpha in [(64, 34), (130, 24), (230, 15)]:
+            rdraw.line(
+                [(sc(rx), sc(horizon + 15)), (sc(rx - 24), sc(900))],
+                fill=c(color, alpha),
+                width=sc(width),
+            )
+        for row, y in enumerate(range(horizon + 70, 880, 90)):
+            rdraw.ellipse(
+                tuple(sc(v) for v in (rx - 160 + row * 12, y - 11, rx + 160 - row * 12, y + 13)),
+                fill=c(color, max(8, 22 - row * 3)),
+            )
+        refl = refl.filter(ImageFilter.GaussianBlur(sc(32)))
+        image = Image.alpha_composite(image, refl)
+    return image
+
+
+def layered_heavens(image, base_y=330):
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    layer_draw = ImageDraw.Draw(layer, "RGBA")
+    veils = [
+        (-520, base_y - 510, 2120, base_y + 160, (36, 77, 128), 54),
+        (-340, base_y - 420, 1940, base_y + 230, (70, 128, 174), 44),
+        (-100, base_y - 310, 1700, base_y + 275, (134, 183, 203), 34),
+        (245, base_y - 195, 1355, base_y + 240, (241, 231, 176), 23),
+    ]
+    for x1, y1, x2, y2, color, alpha in veils:
+        layer_draw.ellipse(tuple(sc(v) for v in (x1, y1, x2, y2)), fill=c(color, alpha))
+    layer_draw.polygon(
+        [(sc(-120), sc(base_y - 210)), (sc(1720), sc(base_y - 250)),
+         (sc(1600), sc(base_y - 70)), (sc(0), sc(base_y - 30))],
+        fill=c((237, 242, 230), 13),
+    )
+    layer = layer.filter(ImageFilter.GaussianBlur(sc(38)))
+    image = Image.alpha_composite(image, layer)
+    image = soft_ribbon(
+        image,
+        [(-80, base_y - 10), (250, base_y - 45), (560, base_y - 16), (880, base_y - 52), (1230, base_y - 20), (1680, base_y - 70)],
+        (224, 238, 229),
+        width=64,
+        alpha=38,
+        blur=22,
+    )
+    return image
 
 
 def draw_warm_sun(image, cx, cy, radius):
@@ -591,141 +737,166 @@ def moon_orb(image, cx, cy, radius, phase="crescent"):
 
 
 def scene_creation_begins():
-    image = soft_space_background((0, 1, 8), (4, 9, 22), stars=False)
-    image = polished_planet(
+    image = new_canvas_fast((1, 5, 17), (6, 18, 42))
+    image = radial_glow(image, (800, -120), 760, (82, 125, 166), 42)
+    image = layered_heavens(image, 305)
+    image = soft_ribbon(
         image,
-        810,
-        500,
-        335,
-        ocean_dark=(2, 12, 31),
-        ocean_mid=(8, 40, 72),
-        ocean_light=(31, 93, 126),
-        land=False,
-        clouds=False,
-        light=(-0.18, -0.08, 0.52),
-        shadow_floor=0.02,
-        rim=(45, 108, 151),
-        alpha=238,
+        [(-120, 235), (250, 190), (560, 220), (890, 178), (1220, 205), (1720, 155)],
+        (91, 133, 164),
+        width=120,
+        alpha=55,
+        blur=34,
     )
-    draw = ImageDraw.Draw(image, "RGBA")
-    for offset in [-70, -28, 18, 58]:
-        line(
-            draw,
-            [(500, 316 + offset), (645, 284 + offset * .28), (820, 300 + offset * .10), (1010, 266 + offset * .20)],
-            c((108, 165, 194), 34),
-            5,
-        )
+    image = soft_ribbon(
+        image,
+        [(-80, 105), (310, 70), (650, 96), (960, 58), (1280, 92), (1660, 48)],
+        (51, 94, 138),
+        width=145,
+        alpha=46,
+        blur=40,
+    )
+    image = horizon_mist(image, 560, (133, 165, 175), 26, 150)
+    image = water_surface(image, 575, (3, 23, 51), (18, 78, 118))
+    image = radial_glow(image, (790, 372), 330, (107, 151, 170), 26)
     return add_cosmic_grain(image, 3)
 
 
 def scene_light_over_darkness():
-    image = soft_space_background((0, 2, 10), (5, 12, 30), stars=False)
-    image = add_light_veil(
+    image = new_canvas_fast((0, 2, 13), (9, 26, 54))
+    image = layered_heavens(image, 320)
+    image = radial_glow(image, (480, 70), 570, (255, 238, 180), 150)
+    image = soft_polygon(
         image,
-        [
-            ([(0, -40), (720, -20), (1185, 210), (1060, 405), (485, 245), (0, 185)], 116),
-            ([(0, 80), (475, 155), (1035, 360), (940, 488), (310, 315), (0, 260)], 54),
-        ],
-        (255, 239, 180),
-        34,
+        [(-180, -20), (730, -20), (1040, 560), (50, 625)],
+        (255, 232, 162),
+        alpha=44,
+        blur=92,
     )
-    image = radial_glow(image, (150, 110), 365, (255, 244, 190), 205)
-    image = polished_planet(
-        image,
-        855,
-        505,
-        325,
-        ocean_dark=(3, 18, 43),
-        ocean_mid=(12, 60, 99),
-        ocean_light=(71, 165, 196),
-        land=False,
-        clouds=False,
-        light=(-0.78, -0.22, 0.58),
-        shadow_floor=0.03,
-        rim=(103, 177, 211),
-        alpha=255,
-    )
-    draw = ImageDraw.Draw(image, "RGBA")
-    for i in range(9):
-        line(
-            draw,
-            [(500 + i * 56, 325 + i * 9), (596 + i * 47, 348 + i * 12), (718 + i * 38, 373 + i * 10)],
-            c((255, 244, 196), 46),
-            3,
-        )
+    image = horizon_mist(image, 548, (239, 227, 180), 32, 125)
+    image = water_surface(image, 570, (6, 39, 76), (37, 124, 158), (610, (255, 238, 170)))
+    image = radial_glow(image, (620, 515), 290, (255, 231, 154), 45)
     return add_cosmic_grain(image, 3)
 
 
 def scene_day_and_night():
-    image = soft_space_background((1, 3, 12), (7, 14, 32), stars=False)
-    image = radial_glow(image, (285, 420), 430, (255, 237, 168), 142)
-    image = polished_planet(
+    image = new_canvas_fast((255, 220, 148), (48, 111, 151))
+    image = radial_glow(image, (365, 170), 480, (255, 234, 168), 118)
+    image = layered_heavens(image, 320)
+    image = water_surface(image, 570, (11, 50, 84), (41, 126, 157), (545, (255, 229, 151)))
+    image = side_gradient_overlay(image, (3, 11, 34), 620, 1260, 205)
+    image = soft_ribbon(
         image,
-        850,
-        470,
-        340,
-        ocean_dark=(3, 17, 42),
-        ocean_mid=(15, 70, 115),
-        ocean_light=(82, 184, 211),
-        land=False,
-        clouds=False,
-        light=(-0.94, -0.06, 0.35),
-        shadow_floor=0.02,
-        rim=(120, 190, 218),
-        alpha=255,
+        [(640, -80), (730, 145), (755, 390), (720, 690), (650, 980)],
+        (255, 238, 188),
+        width=115,
+        alpha=32,
+        blur=42,
     )
-    image = add_light_veil(
-        image,
-        [([(760, 96), (900, 116), (890, 820), (738, 800)], 42)],
-        (255, 247, 201),
-        18,
-    )
+    image = horizon_mist(image, 570, (255, 238, 178), 18, 95)
+    return add_cosmic_grain(image, 3)
+
+
+def scene_heavens_formed():
+    image = new_canvas_fast((45, 106, 157), (184, 221, 227))
+    image = radial_glow(image, (800, 175), 520, (233, 245, 232), 62)
+    image = layered_heavens(image, 310)
+    upper_waters = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    udraw = ImageDraw.Draw(upper_waters, "RGBA")
+    for y, width, alpha in [(92, 150, 74), (162, 118, 62), (238, 96, 46)]:
+        udraw.line(
+            [(sc(-160), sc(y)), (sc(210), sc(y - 38)), (sc(540), sc(y + 4)),
+             (sc(890), sc(y - 42)), (sc(1240), sc(y - 5)), (sc(1740), sc(y - 50))],
+            fill=c((232, 248, 247), alpha),
+            width=sc(width),
+            joint="curve",
+        )
+    upper_waters = upper_waters.filter(ImageFilter.GaussianBlur(sc(28)))
+    image = Image.alpha_composite(image, upper_waters)
+    for pts, alpha in [
+        ([(-100, 118), (260, 78), (590, 112), (910, 70), (1240, 106), (1710, 62)], 54),
+        ([(-90, 210), (300, 176), (610, 216), (940, 168), (1280, 202), (1690, 150)], 42),
+        ([(-70, 308), (280, 280), (620, 316), (980, 275), (1320, 304), (1690, 255)], 28),
+    ]:
+        image = soft_ribbon(image, pts, (229, 246, 243), width=62, alpha=alpha, blur=24)
+    image = horizon_mist(image, 575, (226, 244, 238), 35, 135)
+    image = water_surface(image, 615, (21, 82, 121), (55, 147, 174))
+    return add_cosmic_grain(image, 3)
+
+
+def scene_land_and_plants():
+    image = new_canvas_fast((103, 178, 205), (249, 221, 162))
+    image = radial_glow(image, (805, 340), 470, (255, 232, 169), 58)
+    draw = ImageDraw.Draw(image, "RGBA")
+    horizon_mountains = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    mdraw = ImageDraw.Draw(horizon_mountains, "RGBA")
+    mountains(mdraw, 470)
+    horizon_mountains = horizon_mountains.filter(ImageFilter.GaussianBlur(sc(1.5)))
+    image = Image.alpha_composite(image, horizon_mountains)
+    draw = ImageDraw.Draw(image, "RGBA")
+    water(draw, 595, (76, 154, 181), (38, 104, 139))
+    land(draw, 675, (83, 139, 84), (149, 175, 103))
+    poly(draw, [(0, 745), (260, 705), (520, 742), (780, 690), (1040, 735), (1600, 700), (1600, 900), (0, 900)], c((77, 132, 80), 135))
+    for x, y, s in [(210, 738, .92), (405, 770, .66), (1095, 745, .78), (1310, 765, .62)]:
+        tree(draw, x, y, s, (87, 67, 47), (57, 126, 74), True)
+    for x, y, s in [(595, 746, .8), (676, 724, .72), (760, 742, .9), (845, 720, .66), (925, 742, .78)]:
+        line(draw, [(x, y), (x + 8 * s, y - 42 * s)], c((51, 119, 70), 210), max(3, int(5 * s)))
+        ellipse(draw, (x + 3 * s, y - 50 * s, x + 32 * s, y - 29 * s), c((82, 151, 83), 225))
+    image = horizon_mist(image, 545, (247, 235, 188), 18, 85)
     return add_cosmic_grain(image, 3)
 
 
 def scene_great_lights():
-    image = soft_space_background((2, 5, 16), (8, 15, 35), stars=True, star_count=170)
-    image = draw_warm_sun(image, 260, 235, 108)
-    image = polished_planet(
-        image,
-        895,
-        520,
-        235,
-        ocean_dark=(6, 28, 61),
-        ocean_mid=(18, 92, 142),
-        ocean_light=(96, 190, 218),
-        land=False,
-        clouds=False,
-        light=(-0.78, -0.35, 0.50),
-        shadow_floor=0.08,
-        rim=(150, 216, 238),
-        alpha=255,
-    )
-    image = planet_cloud_bands(image, 895, 520, 235, 62)
-    image = moon_orb(image, 1218, 330, 78, "crescent")
+    image = new_canvas_fast((97, 166, 205), (55, 95, 128))
+    draw = ImageDraw.Draw(image, "RGBA")
+    image = side_gradient_overlay(image, (4, 13, 43), 720, 1260, 210)
+    image = draw_warm_sun(image, 390, 240, 88)
+    image = radial_glow(image, (385, 248), 420, (255, 218, 112), 78)
+    image = moon_orb(image, 1240, 168, 54, "crescent")
+    draw = ImageDraw.Draw(image, "RGBA")
+    star_field(draw, 64, (900, 45, 1560, 410), 170)
+    water(draw, 615, (65, 142, 171), (36, 91, 128))
+    land(draw, 705, (65, 116, 74), (114, 153, 89))
+    for x, y, s in [(160, 760, .9), (1420, 760, .9), (310, 780, .55), (1320, 790, .55)]:
+        tree(draw, x, y, s, (65, 57, 43), (45, 98, 68), False)
+    image = horizon_mist(image, 570, (255, 229, 156), 20, 90)
+    return add_cosmic_grain(image, 3)
+
+
+def scene_waters_and_skies_filled():
+    image = new_canvas_fast((93, 172, 207), (239, 218, 165))
+    image = radial_glow(image, (820, 235), 420, (255, 238, 178), 52)
+    draw = ImageDraw.Draw(image, "RGBA")
+    clouds(draw, 115, (255, 255, 255), 88)
+    water(draw, 585, (62, 151, 184), (35, 98, 136))
+    ellipse(draw, (980, 650, 1325, 750), c((21, 82, 118), 62))
+    poly(draw, [(1302, 690), (1395, 645), (1382, 733)], c((21, 82, 118), 52))
+    for x, y, s in [(210, 280, .9), (365, 220, .62), (1080, 260, .8), (1260, 180, .54), (1375, 280, .48)]:
+        bird(draw, x, y, s)
+    for x, y, s in [(305, 665, .72), (485, 720, .55), (750, 680, .52), (900, 650, .68), (1150, 718, .58), (1330, 670, .5)]:
+        fish(draw, x, y, s)
+    image = horizon_mist(image, 585, (235, 245, 226), 16, 80)
     return add_cosmic_grain(image, 3)
 
 
 def scene_very_good_creation():
-    image = soft_space_background((2, 5, 17), (9, 18, 38), stars=True, star_count=150)
-    image = draw_warm_sun(image, -40, 160, 150)
-    image = polished_planet(
-        image,
-        820,
-        465,
-        355,
-        ocean_dark=(7, 31, 65),
-        ocean_mid=(21, 103, 154),
-        ocean_light=(106, 199, 225),
-        land=False,
-        clouds=False,
-        light=(-0.76, -0.30, 0.56),
-        shadow_floor=0.10,
-        rim=(160, 223, 240),
-        alpha=255,
-    )
-    image = planet_cloud_bands(image, 820, 465, 355, 70)
-    image = moon_orb(image, 1225, 260, 56, "crescent")
+    image = new_canvas_fast((119, 194, 222), (255, 229, 169))
+    image = radial_glow(image, (780, 380), 480, (255, 231, 158), 70)
+    draw = ImageDraw.Draw(image, "RGBA")
+    mountains(draw, 445)
+    water(draw, 585, (79, 166, 186), (46, 114, 143))
+    land(draw, 665, (88, 150, 88), (140, 186, 107))
+    poly(draw, [(0, 735), (240, 705), (470, 740), (760, 700), (1050, 735), (1600, 705), (1600, 900), (0, 900)], c((67, 126, 78), 105))
+    for x, y, s in [(170, 725, 1.05), (325, 750, .72), (1300, 720, 1.08), (1460, 755, .72), (1120, 775, .55)]:
+        tree(draw, x, y, s, (83, 66, 46), (55, 128, 76), True)
+    sheep(draw, 1000, 710, .75)
+    deer(draw, 1190, 700, .72)
+    bird(draw, 1050, 250, .82)
+    bird(draw, 1120, 300, .48)
+    fish(draw, 600, 705, .54)
+    person(draw, 735, 700, .66, (39, 47, 54), 205)
+    person(draw, 805, 700, .64, (39, 47, 54), 205)
+    image = horizon_mist(image, 545, (255, 236, 180), 17, 85)
     return add_cosmic_grain(image, 3)
 
 

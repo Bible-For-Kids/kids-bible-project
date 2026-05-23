@@ -15,30 +15,31 @@ At the very beginning, God made everything above us and the earth beneath us.
 In the beginning, God created the heavens and the earth.
 
 **Translation Notes**:
-This verse begins the whole Bible by showing God as Creator before anything else is described.
+This verse begins the whole Bible by showing God as Creator before anything else is described. Later Scripture speaks about the highest heaven as God's dwelling, so Genesis 1 should not be pictured as if God is contained inside the sky or outer space.
 
 **Key Vocabulary**:
 - Beginning: The very start
 - Created: Made by God's power
-- Heavens: Everything above the earth
+- Heavens: The sky and the heavens above the earth; God created them and is not contained by them
 - Earth: The world God made for life
 
 **Cross-References**:
 - John 1:1
 - Colossians 1:16
 - Hebrews 11:3
+- 1 Kings 8:27
 
 <!-- Illustration Prompt -->
-**Scene**: The first moment of creation from a far space view, with a dark watery earth under deep darkness
-**Style**: Polished luminous cosmic watercolor, majestic but safe
+**Scene**: The first moment of creation, with layered heavens above and deep dark waters below
+**Style**: Painterly children's Bible illustration with luminous depth, majestic but safe
 **Characters**: No human form for God
-**Setting**: The formless, empty earth covered by deep waters, with no sun, moon, stars, land, plants, animals, or people shown yet
+**Setting**: The formless, empty earth covered by deep waters, with the created heavens suggested as vast layered space above; no sun, moon, stars, land, plants, animals, or people shown yet
 **Action**: Creation beginning; God's Spirit may be suggested only by gentle movement over the waters, not a visible figure
 **Emotional Tone**: Wonder, peace, awe
 **Age Appropriateness**: Safe and non-frightening for young children
-**Details**: No green vegetation, land shapes, animals, people, sun, moon, stars, or ground-level scenery.
+**Details**: Do not depict God or imply God is contained in outer space; show the heavens as created layered realms, with no throne scene, green vegetation, land shapes, animals, people, sun, moon, or stars.
 **Illustration Asset**: /illustrations/genesis/1/creation-begins.png
-**Alt Text**: A dark watery earth seen from space under deep darkness, with no sun, moon, stars, land, plants, animals, or people visible.
+**Alt Text**: Layered dark heavens stretch above deep waters before sun, moon, stars, land, plants, animals, or people appear.
 **Caption**: In the beginning, God created the heavens and the earth.
 <!-- End Illustration Prompt -->
 
@@ -91,16 +92,16 @@ The light in this verse comes before the sun is made later in the chapter. The t
 - 1 John 1:5
 
 <!-- Illustration Prompt -->
-**Scene**: Bright non-solar light spreading over the dark watery earth after God's command
-**Style**: Polished luminous cosmic watercolor, dramatic but gentle
+**Scene**: Bright non-solar light spreading over the dark waters after God's command
+**Style**: Painterly children's Bible illustration with luminous depth, dramatic but gentle
 **Characters**: No visible human form for God
-**Setting**: The earth still covered in deep waters before the sun, moon, and stars appear
+**Setting**: Above the deep waters before the sun, moon, and stars appear
 **Action**: Light shines over the darkness because God speaks
 **Emotional Tone**: Powerful, hopeful, safe
 **Age Appropriateness**: Exciting but not scary
-**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or ground-level scenery.
+**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or visible form for God.
 **Illustration Asset**: /illustrations/genesis/1/light-over-darkness.png
-**Alt Text**: Light spreads over the dark watery earth from space before any sun, moon, or stars are shown.
+**Alt Text**: Light spreads over dark waters before any sun, moon, or stars are shown.
 **Caption**: God said, "Let there be light," and light came into being.
 <!-- End Illustration Prompt -->
 
@@ -145,16 +146,16 @@ God called the light "Day," and the darkness he called "Night." Evening came, an
 - Mark 13:35
 
 <!-- Illustration Prompt -->
-**Scene**: Day and night shown across the watery earth from space, with light on one side and darkness on the other
-**Style**: Polished luminous cosmic watercolor, warm and educational
+**Scene**: Day and night shown over the waters, with light on one side and darkness on the other
+**Style**: Painterly children's Bible illustration with luminous depth, warm and educational
 **Characters**: None
 **Setting**: Creation's first day-night pattern before the sun, moon, and stars are made
 **Action**: Light and darkness separated
 **Emotional Tone**: Calm, ordered, peaceful
 **Age Appropriateness**: Clear for young children
-**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or ground-level scenery.
+**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or visible form for God.
 **Illustration Asset**: /illustrations/genesis/1/day-and-night.png
-**Alt Text**: The watery earth seen from space with one side light and the other side dark, before sun, moon, or stars appear.
+**Alt Text**: Light and darkness are separated over the waters before sun, moon, or stars appear.
 **Caption**: God called the light Day, and the darkness he called Night.
 <!-- End Illustration Prompt -->
 
@@ -204,6 +205,20 @@ God called the expanse "Sky." Evening came, and morning came: the second day.
 
 **Key Vocabulary**:
 - Sky: The wide space above the earth
+
+<!-- Illustration Prompt -->
+**Scene**: God names the wide space Sky, with waters below and waters above separated
+**Style**: Painterly children's Bible illustration with luminous layered heavens
+**Characters**: No human form for God
+**Setting**: A view from the waters below, looking through the open sky toward higher layered heavens
+**Action**: The sky/expanse stands open between the lower waters and the higher waters
+**Emotional Tone**: Awe, order, spaciousness, peace
+**Age Appropriateness**: Calm and non-frightening
+**Details**: This should hint that the heavens are more than outer space without showing God's dwelling or depicting God; show created layers of sky/heavens and the separated waters, with no sun, moon, stars, land, plants, animals, or people yet.
+**Illustration Asset**: /illustrations/genesis/1/heavens-formed.png
+**Alt Text**: The sky opens between waters below and higher waters, with layered heavens above and no visible form for God.
+**Caption**: God called the wide space Sky.
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -269,6 +284,20 @@ The land produced plants: plants bearing seed and trees bearing fruit with seed 
 **Translation Notes**:
 "According to its kind" shows that God created an ordered world where living things grow and reproduce as he designed.
 
+<!-- Illustration Prompt -->
+**Scene**: Dry land appearing as gathered seas move aside and plants come from the land by God's command
+**Style**: Painterly children's Bible illustration, earth-level and full of fresh wonder
+**Characters**: No people or animals yet; no visible form for God
+**Setting**: Earth-level view with seas, newly dry ground, seed plants, and fruit trees
+**Action**: The land brings out plants with seeds and fruit trees according to their kinds
+**Emotional Tone**: Freshness, beauty, order, joy
+**Age Appropriateness**: Gentle, bright, and safe
+**Details**: This is the first Genesis 1 illustration where green plants belong; do not move animals or people into this scene.
+**Illustration Asset**: /illustrations/genesis/1/land-and-plants.png
+**Alt Text**: Dry land appears beside gathered seas, and seed plants and fruit trees grow from the ground.
+**Caption**: God commanded the land to bring out plants and fruit trees.
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 1:13
@@ -326,16 +355,16 @@ This is where the child can safely connect creation's lights with the sun, moon,
 - Stars: The many lights God made in the night sky
 
 <!-- Illustration Prompt -->
-**Scene**: The great lights appearing in the heavens around the already-created earth
-**Style**: Polished luminous cosmic watercolor, beautiful but not cartoonish
+**Scene**: The great lights appearing in the sky above the newly ordered earth
+**Style**: Painterly children's Bible illustration, beautiful but not cartoonish
 **Characters**: None
-**Setting**: Space view with the sun, moon, stars, and the earth
+**Setting**: Earth-level view with sky over gathered waters and land
 **Action**: The greater light, the smaller light, and the stars shine in their places
 **Emotional Tone**: Wonder, order, beauty
 **Age Appropriateness**: Gentle and clear
-**Details**: Keep the earth as a blue water-world from space; no green vegetation, trees, grass, animals, people, or ground-level scenery.
+**Details**: This scene may show land and plants because Genesis 1 has already named land, seas, and plants; do not show animals, people, or God in human form.
 **Illustration Asset**: /illustrations/genesis/1/great-lights.png
-**Alt Text**: The sun, moon, and stars shine around a blue watery earth in a space view.
+**Alt Text**: The sun, moon, and stars shine in the sky above land and gathered waters.
 **Caption**: God made the greater light for the day, the smaller light for the night, and the stars.
 <!-- End Illustration Prompt -->
 
@@ -400,6 +429,20 @@ So God created the great sea creatures and every living creature that moves in t
 
 **Cross-References**:
 - Psalm 104:25-26
+
+<!-- Illustration Prompt -->
+**Scene**: The waters and skies filled with living creatures and birds
+**Style**: Painterly children's Bible illustration, lively but gentle
+**Characters**: Sea creatures and birds only; no people and no visible form for God
+**Setting**: Earth-level view of the sea below and sky above
+**Action**: Living creatures move through the waters while birds fly across the sky
+**Emotional Tone**: Joy, movement, blessing, wonder
+**Age Appropriateness**: Friendly, non-scary creatures
+**Details**: Do not show land animals or people yet; keep sea life and birds distinct according to the fifth day.
+**Illustration Asset**: /illustrations/genesis/1/waters-and-skies-filled.png
+**Alt Text**: Fish and sea creatures move through the water while birds fly across the sky.
+**Caption**: God filled the waters with living creatures and the sky with birds.
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -563,16 +606,16 @@ God saw all that he had made, and it was very good. Evening came, and morning ca
 - 1 Timothy 4:4
 
 <!-- Illustration Prompt -->
-**Scene**: A wide space view of the completed created earth after the sixth day
-**Style**: Beautiful polished cosmic children's Bible panorama
-**Characters**: No close human figures; any human life is implied at the scale of the whole earth, without visible race or facial details
-**Setting**: The completed world shown from a far cosmic view with blue waters, clouds, and the lights of the heavens
-**Action**: The whole creation is shown as finished and good from a far view
+**Scene**: A wide peaceful view from on the earth after the sixth day, with sky, land, seas, plants, animals, and people
+**Style**: Beautiful painterly children's Bible panorama
+**Characters**: First man and woman shown as small backlit silhouettes with no visible skin color, facial features, or ethnic markers
+**Setting**: The completed created world from an earth-level view
+**Action**: The whole creation is shown as finished and very good
 **Emotional Tone**: Joy, peace, wonder, completion
 **Age Appropriateness**: Gentle, non-sensational, safe for children
-**Details**: Do not depict God in human form; keep the view broad enough that no skin tone, facial features, ethnic markers, green vegetation, trees, grass, animals, or ground-level details are visible.
+**Details**: Do not depict God in human form; keep people modest, distant, and race-neutral. This scene may include plants and animals because the sixth day is complete.
 **Illustration Asset**: /illustrations/genesis/1/very-good-creation.png
-**Alt Text**: The completed earth seen from space as a blue world with clouds, the sun, the moon, and stars.
+**Alt Text**: Completed creation with sky, land, seas, plants, animals, and race-neutral human silhouettes.
 **Caption**: God saw all that he had made, and it was very good.
 <!-- End Illustration Prompt -->
 
