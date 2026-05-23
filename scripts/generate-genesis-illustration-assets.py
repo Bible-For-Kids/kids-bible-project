@@ -1,4 +1,5 @@
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageChops, ImageDraw, ImageFilter
+import argparse
 import math
 import os
 import random
@@ -21,6 +22,7 @@ ASSETS = [
     (1, "great-lights", "great_lights"),
     (1, "very-good-creation", "very_good_creation"),
     (2, "sabbath-rest", "sabbath_rest"),
+    (2, "before-field-growth", "before_field_growth"),
     (2, "breath-of-life", "breath_of_life"),
     (2, "garden-rivers", "garden_rivers"),
     (2, "right-helper", "right_helper"),
@@ -316,99 +318,189 @@ def city(draw, x, y, scale=1.0):
     rect(draw, (x - 20 * scale, y - 10 * scale, x + 20 * scale, y + 48 * scale), c((72, 54, 48), 230))
 
 
+def star_field(draw, count=90, area=(0, 0, 1600, 900), alpha=210):
+    x0, y0, x1, y1 = area
+    for _ in range(count):
+        x = random.uniform(x0, x1)
+        y = random.uniform(y0, y1)
+        r = random.choice([1.2, 1.7, 2.3, 3.0])
+        a = random.randint(max(35, alpha - 85), alpha)
+        ellipse(draw, (x - r, y - r, x + r, y + r), c((250, 247, 220), a))
+
+
+def space_orb(image, cx, cy, radius, ocean=(22, 68, 104), land_shapes=False, clouds=False,
+              water_motion=True, shadow="left", rim=(155, 209, 235), alpha=255):
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    mask = Image.new("L", image.size, 0)
+    box = tuple(sc(v) for v in (cx - radius, cy - radius, cx + radius, cy + radius))
+    ImageDraw.Draw(mask).ellipse(box, fill=255)
+    draw = ImageDraw.Draw(layer, "RGBA")
+    draw.ellipse(box, fill=c(ocean, alpha))
+
+    if water_motion:
+        for _ in range(95):
+            angle = random.uniform(0, math.tau)
+            dist = radius * math.sqrt(random.random()) * 0.84
+            x = cx + math.cos(angle) * dist
+            y = cy + math.sin(angle) * dist * 0.62
+            length = random.uniform(45, 135)
+            line(
+                draw,
+                [(x - length / 2, y), (x - length / 5, y - random.uniform(6, 18)), (x + length / 2, y + random.uniform(-8, 12))],
+                c((210, 237, 245), random.randint(38, 86)),
+                random.uniform(2, 5),
+            )
+
+    if land_shapes:
+        land_color = c((78, 137, 92), 235)
+        light_land = c((113, 164, 96), 210)
+        poly(draw, [(cx - radius * .35, cy - radius * .18), (cx - radius * .05, cy - radius * .34),
+                    (cx + radius * .20, cy - radius * .18), (cx + radius * .05, cy + radius * .05),
+                    (cx - radius * .26, cy + radius * .02)], land_color)
+        poly(draw, [(cx + radius * .22, cy + radius * .10), (cx + radius * .48, cy + radius * .00),
+                    (cx + radius * .55, cy + radius * .22), (cx + radius * .34, cy + radius * .38),
+                    (cx + radius * .12, cy + radius * .30)], light_land)
+        poly(draw, [(cx - radius * .10, cy + radius * .30), (cx + radius * .08, cy + radius * .42),
+                    (cx - radius * .05, cy + radius * .58), (cx - radius * .25, cy + radius * .50),
+                    (cx - radius * .30, cy + radius * .36)], land_color)
+
+    if clouds:
+        for yoff in [-.28, -.06, .18]:
+            line(
+                draw,
+                [(cx - radius * .62, cy + radius * yoff), (cx - radius * .25, cy + radius * (yoff - .08)),
+                 (cx + radius * .12, cy + radius * (yoff + .03)), (cx + radius * .54, cy + radius * (yoff - .04))],
+                c((255, 255, 255), 88),
+                13,
+            )
+
+    shade = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    shade_draw = ImageDraw.Draw(shade, "RGBA")
+    if shadow == "left":
+        shade_draw.ellipse(tuple(sc(v) for v in (cx - radius * 1.25, cy - radius, cx + radius * .15, cy + radius)), fill=c((2, 5, 12), 118))
+    elif shadow == "right":
+        shade_draw.ellipse(tuple(sc(v) for v in (cx - radius * .15, cy - radius, cx + radius * 1.25, cy + radius)), fill=c((2, 5, 12), 118))
+    elif shadow == "half":
+        shade_draw.rectangle(tuple(sc(v) for v in (cx, cy - radius, cx + radius, cy + radius)), fill=c((1, 3, 10), 142))
+        shade_draw.ellipse(tuple(sc(v) for v in (cx - radius * .16, cy - radius, cx + radius * .30, cy + radius)), fill=c((255, 244, 185), 48))
+
+    shade.putalpha(ImageChops.multiply(shade.getchannel("A"), mask))
+    layer = Image.alpha_composite(layer, shade)
+    layer.putalpha(ImageChops.multiply(layer.getchannel("A"), mask))
+    image = Image.alpha_composite(image, layer)
+    draw = ImageDraw.Draw(image, "RGBA")
+    draw.ellipse(box, outline=c(rim, 145), width=sc(4))
+    return image
+
+
+def moon_orb(image, cx, cy, radius, phase="crescent"):
+    draw = ImageDraw.Draw(image, "RGBA")
+    ellipse(draw, (cx - radius, cy - radius, cx + radius, cy + radius), c((229, 226, 203), 235))
+    if phase == "crescent":
+        ellipse(draw, (cx - radius * .52, cy - radius * 1.02, cx + radius * 1.22, cy + radius * 1.02), c((9, 14, 29), 235))
+    for dx, dy, rr in [(-.25, -.20, .06), (.10, .18, .08), (.22, -.05, .04)]:
+        ellipse(draw, (cx + radius * dx - radius * rr, cy + radius * dy - radius * rr,
+                       cx + radius * dx + radius * rr, cy + radius * dy + radius * rr), c((182, 180, 165), 72))
+    return image
+
+
 def scene_creation_begins():
-    image = new_canvas((5, 10, 23), (22, 39, 70))
+    image = new_canvas((1, 3, 12), (5, 10, 24))
     draw = ImageDraw.Draw(image, "RGBA")
-    image = radial_glow(image, (590, 320), 420, PALETTE["gold"], 155)
+    image = space_orb(image, 830, 485, 310, (10, 32, 59), False, False, True, "none", (75, 121, 157), 248)
     draw = ImageDraw.Draw(image, "RGBA")
-    water(draw, 570, (24, 61, 94), (7, 18, 33))
-    poly(draw, [(0, 450), (250, 405), (520, 468), (790, 410), (1050, 462), (1600, 420), (1600, 560), (0, 560)], c((9, 17, 31), 120))
-    line(draw, [(330, 375), (505, 295), (730, 312), (895, 370)], c((255, 229, 142), 135), 10)
-    clouds(draw, 90, (255, 236, 180), 45)
+    for offset in [-85, -35, 20, 72]:
+        line(draw, [(480, 308 + offset), (610, 258 + offset * .35), (785, 275 + offset * .15), (980, 236 + offset * .25)],
+             c((176, 207, 221), 36), 7)
+    ellipse(draw, (455, 155, 1210, 760), c((0, 0, 0), 35))
     return overlay_texture(image)
 
 
 def scene_light_over_darkness():
-    image = new_canvas((8, 12, 30), (30, 55, 84))
+    image = new_canvas((1, 3, 12), (8, 14, 31))
     draw = ImageDraw.Draw(image, "RGBA")
-    poly(draw, [(0, 0), (880, 0), (1600, 225), (1600, 450), (1075, 420), (610, 280), (0, 168)], c((255, 225, 129), 115))
-    image = radial_glow(image, (250, 210), 360, (255, 243, 174), 230)
+    poly(draw, [(0, 0), (680, 0), (1120, 210), (960, 365), (470, 225), (0, 170)], c((255, 235, 152), 112))
+    image = radial_glow(image, (135, 110), 360, (255, 244, 187), 210)
+    image = space_orb(image, 850, 505, 315, (13, 42, 73), False, False, True, "right", (112, 169, 190), 255)
     draw = ImageDraw.Draw(image, "RGBA")
-    water(draw, 590, (47, 117, 153), (17, 49, 80))
-    for i in range(8):
-        line(draw, [(120 + i * 135, 475 + i % 2 * 12), (205 + i * 135, 455), (305 + i * 135, 470)], c((255, 242, 175), 72), 5)
+    for i in range(9):
+        line(draw, [(500 + i * 55, 325 + i * 10), (590 + i * 50, 350 + i * 12), (705 + i * 42, 377 + i * 10)],
+             c((255, 241, 175), 54), 4)
     return overlay_texture(image)
 
 
 def scene_day_and_night():
-    image = new_canvas((107, 190, 219), (251, 219, 158))
+    image = new_canvas((2, 5, 16), (9, 16, 35))
     draw = ImageDraw.Draw(image, "RGBA")
-    rect(draw, (795, 0, 1600, 900), c((30, 37, 80), 255))
-    for i in range(0, 900, 80):
-        ellipse(draw, (735 - i * 0.06, i - 130, 860 + i * 0.06, i + 130), c((255, 239, 180), 28))
-    land(draw, 610, (80, 143, 88), (143, 185, 115))
-    rect(draw, (0, 690, 1600, 900), c((74, 126, 85), 230))
-    poly(draw, [(725, 0), (865, 0), (810, 900), (690, 900)], c((255, 244, 194), 92))
-    tree(draw, 320, 650, 0.9, (87, 68, 49), (66, 142, 82), False)
-    tree(draw, 1125, 660, 0.9, (45, 48, 55), (44, 84, 78), False)
-    for x, y in [(1040, 165), (1195, 110), (1390, 225), (1298, 320)]:
-        ellipse(draw, (x - 4, y - 4, x + 4, y + 4), c((251, 249, 223), 210))
+    image = radial_glow(image, (300, 410), 410, (255, 237, 168), 150)
+    image = space_orb(image, 860, 470, 330, (19, 66, 103), False, False, True, "half", (122, 181, 202), 255)
+    draw = ImageDraw.Draw(image, "RGBA")
+    poly(draw, [(820, 135), (885, 140), (850, 805), (785, 796)], c((255, 245, 191), 80))
+    ellipse(draw, (635, 250, 1085, 700), c((255, 236, 156), 18))
     return overlay_texture(image)
 
 
 def scene_great_lights():
-    image = new_canvas((48, 72, 119), (13, 25, 55))
+    image = new_canvas((4, 8, 22), (8, 14, 33))
     draw = ImageDraw.Draw(image, "RGBA")
-    image = radial_glow(image, (425, 245), 270, (255, 222, 97), 190)
+    star_field(draw, 125, alpha=225)
+    image = radial_glow(image, (280, 250), 320, (255, 223, 91), 220)
     draw = ImageDraw.Draw(image, "RGBA")
-    ellipse(draw, (330, 155, 520, 345), c((255, 222, 89), 255))
-    ellipse(draw, (1060, 135, 1200, 275), c((243, 240, 213), 225))
-    ellipse(draw, (1033, 119, 1160, 246), c((48, 72, 119), 255))
-    for x, y, r in [(820, 160, 5), (930, 240, 4), (1335, 170, 6), (1240, 330, 4), (700, 330, 3), (1480, 290, 5)]:
-        ellipse(draw, (x - r, y - r, x + r, y + r), c((250, 250, 226), 225))
-    for x in [0, 150, 1380, 1520]:
-        tree(draw, x, 900, 2.1, (42, 51, 54), (38, 96, 74), False)
-    line(draw, [(0, 680), (350, 645), (720, 680), (1090, 642), (1600, 675)], c((89, 129, 96), 190), 8)
+    ellipse(draw, (150, 120, 410, 380), c((255, 222, 82), 255))
+    image = space_orb(image, 900, 520, 205, (36, 108, 148), True, True, True, "left", (145, 205, 226), 255)
+    image = moon_orb(image, 1215, 330, 82, "crescent")
+    draw = ImageDraw.Draw(image, "RGBA")
+    line(draw, [(320, 250), (630, 375), (900, 520), (1160, 370)], c((255, 231, 134), 45), 3)
     return overlay_texture(image)
 
 
 def scene_very_good_creation():
-    image = new_canvas((123, 204, 235), (255, 232, 177))
+    image = new_canvas((4, 9, 24), (9, 16, 35))
     draw = ImageDraw.Draw(image, "RGBA")
-    mountains(draw, 450)
-    water(draw, 585, (83, 169, 186), (50, 119, 141))
-    land(draw, 665, (92, 158, 92), (145, 191, 107))
-    tree(draw, 175, 720, 1.1, (84, 67, 45), (58, 139, 79), True)
-    tree(draw, 1360, 725, 1.15, (84, 67, 45), (53, 129, 84), False)
-    sheep(draw, 1030, 710, 0.8)
-    deer(draw, 1215, 700, 0.75)
-    bird(draw, 1000, 250, 1.0)
-    bird(draw, 1080, 300, 0.7)
-    person(draw, 720, 700, 0.75, (41, 48, 54), 210)
-    person(draw, 800, 700, 0.72, (41, 48, 54), 210)
-    image = radial_glow(image, (760, 570), 290, (255, 226, 145), 70)
+    star_field(draw, 105, alpha=190)
+    image = radial_glow(image, (210, 185), 300, (255, 229, 123), 150)
+    image = space_orb(image, 820, 465, 345, (45, 128, 166), True, True, True, "left", (160, 218, 235), 255)
+    image = moon_orb(image, 1225, 260, 55, "crescent")
+    draw = ImageDraw.Draw(image, "RGBA")
+    ellipse(draw, (712, 555, 742, 585), c((255, 232, 153), 115))
+    ellipse(draw, (760, 590, 782, 612), c((255, 232, 153), 105))
     return overlay_texture(image)
 
 
 def scene_sabbath_rest():
-    image = new_canvas((145, 205, 222), (255, 238, 188))
+    image = new_canvas((5, 11, 28), (11, 20, 42))
     draw = ImageDraw.Draw(image, "RGBA")
-    image = radial_glow(image, (800, 385), 460, (255, 240, 180), 115)
+    star_field(draw, 80, alpha=175)
+    image = radial_glow(image, (740, 450), 520, (255, 235, 170), 90)
+    image = space_orb(image, 790, 455, 315, (38, 115, 154), True, True, True, "none", (157, 212, 232), 255)
     draw = ImageDraw.Draw(image, "RGBA")
-    mountains(draw, 500)
-    water(draw, 615, (94, 171, 190), (52, 112, 145))
-    land(draw, 680, (91, 154, 88), (153, 191, 123))
-    for x in [260, 1320]:
-        tree(draw, x, 725, 1.05, (92, 70, 48), (58, 137, 83), False)
-    for x in [520, 600, 680, 760, 840, 920, 1000]:
-        ellipse(draw, (x - 20, 705, x + 20, 730), c((238, 218, 165), 180))
+    for x in [500, 585, 670, 755, 840, 925, 1010]:
+        ellipse(draw, (x - 18, 780, x + 18, 802), c((238, 218, 165), 120))
+    return overlay_texture(image)
+
+
+def scene_before_field_growth():
+    image = new_canvas((151, 183, 181), (217, 187, 139))
+    draw = ImageDraw.Draw(image, "RGBA")
+    rect(draw, (0, 610, 1600, 900), c((154, 123, 82), 255))
+    poly(draw, [(0, 650), (280, 620), (570, 670), (860, 625), (1190, 665), (1600, 635), (1600, 900), (0, 900)],
+         c((130, 101, 70), 180))
+    for x in range(-40, 1650, 140):
+        line(draw, [(x, 715), (x + 75, 695), (x + 155, 718)], c((92, 72, 55), 92), 4)
+    for x in [420, 680, 940, 1180]:
+        ellipse(draw, (x - 38, 625, x + 38, 645), c((95, 83, 66), 115))
+    image = radial_glow(image, (780, 390), 340, (255, 230, 160), 65)
+    draw = ImageDraw.Draw(image, "RGBA")
+    for x in [560, 675, 790, 905, 1020]:
+        line(draw, [(x, 605), (x + 12, 565), (x - 3, 528)], c((190, 216, 216), 95), 8)
     return overlay_texture(image)
 
 
 def scene_breath_of_life():
-    image = new_canvas((72, 125, 151), (231, 202, 151))
+    image = new_canvas((130, 168, 171), (224, 192, 143))
     draw = ImageDraw.Draw(image, "RGBA")
-    land(draw, 650, (135, 102, 72), (170, 132, 88))
+    rect(draw, (0, 620, 1600, 900), c((151, 114, 75), 255))
+    poly(draw, [(0, 695), (330, 650), (660, 690), (980, 645), (1600, 690), (1600, 900), (0, 900)], c((121, 91, 64), 150))
     image = radial_glow(image, (730, 420), 330, (255, 232, 170), 165)
     draw = ImageDraw.Draw(image, "RGBA")
     ellipse(draw, (660, 405, 790, 535), c((71, 60, 49), 125))
@@ -856,8 +948,37 @@ def scene_families_map():
 SCENES = {name: obj for name, obj in globals().items() if name.startswith("scene_")}
 
 
+def parse_chapters(value):
+    chapters = set()
+    for part in value.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        if "-" in part:
+            start, end = (int(piece) for piece in part.split("-", 1))
+            chapters.update(range(start, end + 1))
+        else:
+            chapters.add(int(part))
+    return chapters
+
+
 def main():
+    parser = argparse.ArgumentParser(description="Generate Genesis illustration PNG assets.")
+    parser.add_argument(
+        "--chapters",
+        help="Comma-separated chapters or ranges to generate, such as 1,2 or 1-10. Defaults to all.",
+    )
+    parser.add_argument(
+        "--contact-sheets",
+        action="store_true",
+        help="Also generate review contact sheets under public/illustrations/genesis.",
+    )
+    args = parser.parse_args()
+    selected_chapters = parse_chapters(args.chapters) if args.chapters else None
+
     for chapter, slug, scene_name in ASSETS:
+        if selected_chapters is not None and chapter not in selected_chapters:
+            continue
         out_dir = os.path.join(OUT_ROOT, str(chapter))
         os.makedirs(out_dir, exist_ok=True)
         image = SCENES[f"scene_{scene_name}"]()
@@ -866,6 +987,9 @@ def main():
         out_path = os.path.join(out_dir, f"{slug}.png")
         image.save(out_path, "PNG", optimize=True)
         print(out_path)
+
+    if not args.contact_sheets:
+        return
 
     for start, end, name in [(1, 5, "genesis-1-5-contact.png"), (6, 10, "genesis-6-10-contact.png")]:
         thumbs = []

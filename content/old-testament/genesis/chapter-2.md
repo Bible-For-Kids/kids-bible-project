@@ -60,16 +60,16 @@ God blessed the seventh day and made it holy, because on it he rested from all t
 - Hebrews 4:4
 
 <!-- Illustration Prompt -->
-**Scene**: The completed creation resting under a peaceful seventh-day light
-**Style**: Quiet children's Bible landscape with soft painterly texture
+**Scene**: The completed heavens and earth resting under a peaceful seventh-day light from a wide space view
+**Style**: Quiet cosmic children's Bible illustration with soft painterly texture
 **Characters**: None; no visible form for God
-**Setting**: The finished heavens and earth with land, water, trees, and open sky
+**Setting**: The finished heavens and earth seen broadly, without moving too soon into the close garden details of the chapter
 **Action**: Creation is complete, and the seventh day is blessed and set apart
 **Emotional Tone**: Peace, completion, holiness, rest
 **Age Appropriateness**: Calm, safe, and non-frightening for children
 **Details**: Use visual rhythm and stillness instead of showing God resting as a human figure.
 **Illustration Asset**: /illustrations/genesis/2/sabbath-rest.png
-**Alt Text**: A peaceful completed creation landscape with water, trees, mountains, and seven small stones suggesting holy rest.
+**Alt Text**: The completed earth rests in a peaceful space view with seven small stones suggesting the holy seventh day.
 **Caption**: God blessed the seventh day and made it holy.
 <!-- End Illustration Prompt -->
 
@@ -104,6 +104,20 @@ This verse speaks about field plants and cultivated growth. It should not be wor
 **Key Vocabulary**:
 - Field: Land where plants can grow
 - Work the ground: Care for soil and plants
+
+<!-- Illustration Prompt -->
+**Scene**: The ground before field bushes or field plants had sprung up
+**Style**: Sparse children's Bible illustration with soft earth tones
+**Characters**: No people yet; no visible form for God
+**Setting**: Bare, watered ground before rain, garden planting, or human work
+**Action**: Water begins to rise from the earth, but field growth has not appeared yet
+**Emotional Tone**: Quiet, expectant, humble
+**Age Appropriateness**: Calm and clear, not barren in a scary way
+**Details**: Do not show trees, grass, flowers, crops, animals, or people in this image.
+**Illustration Asset**: /illustrations/genesis/2/before-field-growth.png
+**Alt Text**: Bare earth is gently watered before any field bushes or field plants have grown.
+**Caption**: No field plants had sprung up yet, and there was no person to work the ground.
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -143,7 +157,7 @@ This verse shows both humility and honor: the man is formed from dust, and his l
 **Scene**: The Lord God forming the man from dust and giving the breath of life
 **Style**: Reverent symbolic children's Bible illustration with warm light
 **Characters**: The first man shown as a race-neutral dust silhouette; no visible form for God
-**Setting**: Fresh earth and soil under a warm, holy glow
+**Setting**: Fresh bare earth and soil under a warm, holy glow, before the garden scene is shown
 **Action**: Dust gathers into a living person as God's life-giving breath is pictured by light
 **Emotional Tone**: Wonder, tenderness, humility, honor
 **Age Appropriateness**: Gentle and non-medical; no frightening or graphic detail
