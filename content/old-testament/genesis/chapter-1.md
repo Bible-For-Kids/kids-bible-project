@@ -9,19 +9,19 @@ Genesis means "beginning." This chapter tells how God created the heavens, the e
 **Original Reference**: Genesis 1:1 - God created the heavens and the earth in the beginning.
 
 #### Ages 5-7
-At the very beginning, God made everything above us and the earth beneath us.
+At the very beginning, God created the many heavens - everything above us - and the earth where we live, with everything in it and under it.
 
 #### Ages 8-10
 In the beginning, God created the heavens and the earth.
 
 **Translation Notes**:
-This verse begins the whole Bible by showing God as Creator before anything else is described. Later Scripture speaks about the highest heaven as God's dwelling, so Genesis 1 should not be pictured as if God is contained inside the sky or outer space.
+This verse begins the whole Bible by showing God as Creator before anything else is described. The phrase "many heavens" keeps the Bible's plural word "heavens" clear for young children. Later Scripture speaks about the highest heaven as God's dwelling, so Genesis 1 should not be pictured as if God is contained inside the sky or outer space.
 
 **Key Vocabulary**:
 - Beginning: The very start
 - Created: Made by God's power
-- Heavens: The sky and the heavens above the earth; God created them and is not contained by them
-- Earth: The world God made for life
+- Heavens: The many heavens above the earth; God created them and is not contained by them
+- Earth: The world where we live, with everything in it and under it
 
 **Cross-References**:
 - John 1:1

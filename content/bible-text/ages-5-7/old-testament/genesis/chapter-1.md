@@ -9,7 +9,7 @@ Genesis
 ## Verses
 
 ### Genesis 1:1
-At the very beginning, God made everything above us and the earth beneath us.
+At the very beginning, God created the many heavens - everything above us - and the earth where we live, with everything in it and under it.
 
 ### Genesis 1:2
 The earth God made was not shaped yet. It was empty and covered in deep darkness. Deep waters were there, and God's Spirit moved over the waters.
