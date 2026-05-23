@@ -30,12 +30,13 @@ This verse begins the whole Bible by showing God as Creator before anything else
 
 <!-- Illustration Prompt -->
 **Scene**: The first moment of creation from a far space view, with a dark watery earth under deep darkness
-**Style**: Cosmic children's Bible illustration, majestic but safe
+**Style**: Polished luminous cosmic watercolor, majestic but safe
 **Characters**: No human form for God
 **Setting**: The formless, empty earth covered by deep waters, with no sun, moon, stars, land, plants, animals, or people shown yet
 **Action**: Creation beginning; God's Spirit may be suggested only by gentle movement over the waters, not a visible figure
 **Emotional Tone**: Wonder, peace, awe
 **Age Appropriateness**: Safe and non-frightening for young children
+**Details**: No green vegetation, land shapes, animals, people, sun, moon, stars, or ground-level scenery.
 **Illustration Asset**: /illustrations/genesis/1/creation-begins.png
 **Alt Text**: A dark watery earth seen from space under deep darkness, with no sun, moon, stars, land, plants, animals, or people visible.
 **Caption**: In the beginning, God created the heavens and the earth.
@@ -91,12 +92,13 @@ The light in this verse comes before the sun is made later in the chapter. The t
 
 <!-- Illustration Prompt -->
 **Scene**: Bright non-solar light spreading over the dark watery earth after God's command
-**Style**: Cosmic children's Bible illustration, dramatic but gentle
+**Style**: Polished luminous cosmic watercolor, dramatic but gentle
 **Characters**: No visible human form for God
 **Setting**: The earth still covered in deep waters before the sun, moon, and stars appear
 **Action**: Light shines over the darkness because God speaks
 **Emotional Tone**: Powerful, hopeful, safe
 **Age Appropriateness**: Exciting but not scary
+**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or ground-level scenery.
 **Illustration Asset**: /illustrations/genesis/1/light-over-darkness.png
 **Alt Text**: Light spreads over the dark watery earth from space before any sun, moon, or stars are shown.
 **Caption**: God said, "Let there be light," and light came into being.
@@ -144,12 +146,13 @@ God called the light "Day," and the darkness he called "Night." Evening came, an
 
 <!-- Illustration Prompt -->
 **Scene**: Day and night shown across the watery earth from space, with light on one side and darkness on the other
-**Style**: Simple cosmic children's Bible illustration, warm and educational
+**Style**: Polished luminous cosmic watercolor, warm and educational
 **Characters**: None
 **Setting**: Creation's first day-night pattern before the sun, moon, and stars are made
 **Action**: Light and darkness separated
 **Emotional Tone**: Calm, ordered, peaceful
 **Age Appropriateness**: Clear for young children
+**Details**: No sun disk, moon, stars, green vegetation, land shapes, animals, people, or ground-level scenery.
 **Illustration Asset**: /illustrations/genesis/1/day-and-night.png
 **Alt Text**: The watery earth seen from space with one side light and the other side dark, before sun, moon, or stars appear.
 **Caption**: God called the light Day, and the darkness he called Night.
@@ -324,14 +327,15 @@ This is where the child can safely connect creation's lights with the sun, moon,
 
 <!-- Illustration Prompt -->
 **Scene**: The great lights appearing in the heavens around the already-created earth
-**Style**: Cosmic children's Bible illustration, beautiful but not cartoonish
+**Style**: Polished luminous cosmic watercolor, beautiful but not cartoonish
 **Characters**: None
 **Setting**: Space view with the sun, moon, stars, and the earth
 **Action**: The greater light, the smaller light, and the stars shine in their places
 **Emotional Tone**: Wonder, order, beauty
 **Age Appropriateness**: Gentle and clear
+**Details**: Keep the earth as a blue water-world from space; no green vegetation, trees, grass, animals, people, or ground-level scenery.
 **Illustration Asset**: /illustrations/genesis/1/great-lights.png
-**Alt Text**: The sun, moon, and stars shine around the already-formed earth in a space view.
+**Alt Text**: The sun, moon, and stars shine around a blue watery earth in a space view.
 **Caption**: God made the greater light for the day, the smaller light for the night, and the stars.
 <!-- End Illustration Prompt -->
 
@@ -560,15 +564,15 @@ God saw all that he had made, and it was very good. Evening came, and morning ca
 
 <!-- Illustration Prompt -->
 **Scene**: A wide space view of the completed created earth after the sixth day
-**Style**: Beautiful cosmic children's Bible panorama
+**Style**: Beautiful polished cosmic children's Bible panorama
 **Characters**: No close human figures; any human life is implied at the scale of the whole earth, without visible race or facial details
-**Setting**: The completed world with ordered land, seas, clouds, and the lights of the heavens
+**Setting**: The completed world shown from a far cosmic view with blue waters, clouds, and the lights of the heavens
 **Action**: The whole creation is shown as finished and good from a far view
 **Emotional Tone**: Joy, peace, wonder, completion
 **Age Appropriateness**: Gentle, non-sensational, safe for children
-**Details**: Do not depict God in human form; keep the view broad enough that no skin tone, facial features, or ethnic markers are visible.
+**Details**: Do not depict God in human form; keep the view broad enough that no skin tone, facial features, ethnic markers, green vegetation, trees, grass, animals, or ground-level details are visible.
 **Illustration Asset**: /illustrations/genesis/1/very-good-creation.png
-**Alt Text**: The completed earth seen from space with land, seas, clouds, the sun, the moon, and stars.
+**Alt Text**: The completed earth seen from space as a blue world with clouds, the sun, the moon, and stars.
 **Caption**: God saw all that he had made, and it was very good.
 <!-- End Illustration Prompt -->
 
