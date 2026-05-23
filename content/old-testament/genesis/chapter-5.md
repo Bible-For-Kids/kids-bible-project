@@ -35,6 +35,9 @@ This is the written family line that began with Adam. When God created human bei
 **Action**: The family line begins and continues through many generations
 **Emotional Tone**: Remembering, solemn, hopeful
 **Age Appropriateness**: Calm and respectful, not crowded or confusing
+**Illustration Asset**: /illustrations/genesis/5/family-line.png
+**Alt Text**: A picture-like family tree on a warm parchment background shows generations branching out.
+**Caption**: This is the written record of Adam's family line.
 <!-- End Illustration Prompt -->
 
 ---
@@ -317,6 +320,9 @@ Avoid adding details about Enoch beyond the text. Genesis says he walked with Go
 **Action**: Enoch walks in faithful fellowship with God
 **Emotional Tone**: Peaceful, mysterious, hopeful
 **Age Appropriateness**: Do not show Enoch dying; keep the mystery gentle
+**Illustration Asset**: /illustrations/genesis/5/enoch-walks.png
+**Alt Text**: Enoch walks along a bright path under a gentle sign of God's presence.
+**Caption**: Enoch walked faithfully with God.
 <!-- End Illustration Prompt -->
 
 ---
@@ -391,6 +397,9 @@ Noah's name is tied to hope for comfort from painful work under the curse.
 **Action**: Lamech names Noah and speaks hope about comfort from painful toil
 **Emotional Tone**: Weary hope, tenderness, expectation
 **Age Appropriateness**: Safe family scene with no frightening elements
+**Illustration Asset**: /illustrations/genesis/5/noah-named.png
+**Alt Text**: A family gathers around baby Noah in a simple early home with warm light.
+**Caption**: Lamech named his son Noah with hope for comfort.
 <!-- End Illustration Prompt -->
 
 ---

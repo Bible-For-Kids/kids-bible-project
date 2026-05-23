@@ -204,6 +204,7 @@ function validateChapter(filePath, content) {
   requireSection(content, '## Discussion Questions by Age', 'discussion questions by age', warnings);
   requireSection(content, '## Prayer', 'prayer', warnings);
   collectTheologicalGuardrailWarnings(content, warnings);
+  validateIllustrationAssets(content, errors);
 
   if (content.includes('[Continue for verses')) {
     errors.push('Contains placeholder text for unfinished verses');
@@ -518,6 +519,38 @@ function collectTheologicalGuardrailWarnings(content, warnings) {
       warnings.push(guardrail.message);
     }
   }
+}
+
+function validateIllustrationAssets(content, errors) {
+  const illustrationRegex = /<!--\s*Illustration Prompt\s*-->([\s\S]*?)<!--\s*End Illustration Prompt\s*-->/g;
+  const publicDir = path.join(__dirname, '../public');
+
+  for (const match of content.matchAll(illustrationRegex)) {
+    const prompt = match[1];
+    const asset = extractLabeledLine(prompt, '**Illustration Asset**:');
+    if (!asset) continue;
+
+    const altText = extractLabeledLine(prompt, '**Alt Text**:');
+    if (!altText) {
+      errors.push(`${asset}: illustration asset is missing alt text`);
+    }
+
+    if (!asset.startsWith('/')) {
+      errors.push(`${asset}: illustration asset path must start with /`);
+      continue;
+    }
+
+    const resolvedAssetPath = path.join(publicDir, asset.replace(/^\/+/, ''));
+    if (!fs.existsSync(resolvedAssetPath)) {
+      errors.push(`${asset}: illustration asset file does not exist in public`);
+    }
+  }
+}
+
+function extractLabeledLine(content, label) {
+  const regex = new RegExp(`${escapeRegex(label)}\\s*(.+)`);
+  const match = content.match(regex);
+  return match ? match[1].trim() : null;
 }
 
 function resolveAgeTextPathForChapter(filePath, ageRange) {

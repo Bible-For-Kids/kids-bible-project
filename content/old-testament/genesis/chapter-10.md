@@ -77,6 +77,9 @@ From these families, the coastland peoples spread out into their own lands. Each
 **Action**: Families move outward into their own lands, languages, family groups, and nations
 **Emotional Tone**: Wonder, breadth, God's care over many peoples
 **Age Appropriateness**: Peaceful movement and map-like clarity, no conflict or conquest shown
+**Illustration Asset**: /illustrations/genesis/10/coastlands-spread.png
+**Alt Text**: A warm map-like scene shows small family groups traveling toward coastlands and far lands.
+**Caption**: Families spread into their own lands, languages, clans, and nations.
 <!-- End Illustration Prompt -->
 
 ---
@@ -173,6 +176,9 @@ He also built Resen between Nineveh and Calah, which was a great city.
 **Action**: Cities rise in the land while the chapter names early kingdoms
 **Emotional Tone**: Serious, historical, watchful
 **Age Appropriateness**: Do not glorify power or empire; keep the scene historical and nonviolent
+**Illustration Asset**: /illustrations/genesis/10/early-cities.png
+**Alt Text**: Ancient city walls and roads rise in a restrained landscape with tiny builders and travelers.
+**Caption**: The chapter names early cities connected with Nimrod's kingdom.
 <!-- End Illustration Prompt -->
 
 ---
@@ -426,6 +432,9 @@ The chapter closes by summarizing families, nations, and the spread after the fl
 **Action**: The three family lines branch outward into many nations
 **Emotional Tone**: Expansive, orderly, expectant
 **Age Appropriateness**: Clear and welcoming, emphasizing that many peoples matter to God
+**Illustration Asset**: /illustrations/genesis/10/families-map.png
+**Alt Text**: Three family branches spread across a parchment-style map toward many lands.
+**Caption**: The families of Noah's sons spread over the earth after the flood.
 <!-- End Illustration Prompt -->
 
 ---

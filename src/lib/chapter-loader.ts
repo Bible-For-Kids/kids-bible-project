@@ -11,6 +11,7 @@ export interface VerseData {
   keyVocabulary?: string[]
   crossReferences?: string[]
   illustrationPrompt?: string | null
+  illustration?: VerseIllustration | null
 }
 
 export interface ChapterData {
@@ -23,6 +24,12 @@ export interface ChapterData {
   memoryVerses?: Record<'ages5to7' | 'ages8to10', string | null>
   discussionQuestions?: Record<'ages5to7' | 'ages8to10', string[]>
   prayer?: string | null
+}
+
+export interface VerseIllustration {
+  src: string
+  alt: string
+  caption?: string | null
 }
 
 type AgeRange = '5-7' | '8-10'
@@ -176,6 +183,7 @@ function parseVerses(markdown: string): VerseData[] {
     const keyVocabulary = extractBulletList(body, '**Key Vocabulary**:')
     const crossReferences = extractBulletList(body, '**Cross-References**:')
     const illustrationPrompt = extractIllustrationPrompt(body)
+    const illustration = extractIllustration(body)
 
     verses.push({
       number: verseNumber,
@@ -187,6 +195,7 @@ function parseVerses(markdown: string): VerseData[] {
       keyVocabulary,
       crossReferences,
       illustrationPrompt,
+      illustration,
     })
   }
 
@@ -244,6 +253,23 @@ function extractIllustrationPrompt(block: string): string | null {
   const regex = /<!--\s*Illustration Prompt\s*-->([\s\S]*?)<!--\s*End Illustration Prompt\s*-->/
   const match = block.match(regex)
   return match ? match[1].trim() : null
+}
+
+function extractIllustration(block: string): VerseIllustration | null {
+  const prompt = extractIllustrationPrompt(block)
+  if (!prompt) return null
+
+  const src = extractLine(prompt, '**Illustration Asset**:')
+  const alt = extractLine(prompt, '**Alt Text**:')
+  const caption = extractLine(prompt, '**Caption**:')
+
+  if (!src || !alt) return null
+
+  return {
+    src,
+    alt,
+    caption,
+  }
 }
 
 function extractList(content: string, heading: string): string[] | undefined {

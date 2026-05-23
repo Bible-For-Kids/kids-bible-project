@@ -161,6 +161,9 @@ This is the account of Noah. Noah was a righteous man, blameless among the peopl
 **Action**: Noah walks steadily while people around him turn away from what is good
 **Emotional Tone**: Serious, faithful, hopeful
 **Age Appropriateness**: No direct violence or frightening detail shown
+**Illustration Asset**: /illustrations/genesis/6/noah-faithful.png
+**Alt Text**: Noah and his family walk in warm light while a troubled settlement sits in the distance.
+**Caption**: Noah was a righteous man who walked faithfully with God.
 <!-- End Illustration Prompt -->
 
 ---
@@ -257,6 +260,9 @@ Make a roof for the ark, leaving an opening about 18 inches high near the top fo
 **Action**: Rooms, decks, a side door, and a high opening are being built into the ark
 **Emotional Tone**: Steady obedience, awe, preparation
 **Age Appropriateness**: Safe and practical, focused on construction rather than danger
+**Illustration Asset**: /illustrations/genesis/6/ark-building.png
+**Alt Text**: Noah's family works beside the rising wooden frame of the great ark.
+**Caption**: Noah began building the ark according to God's instructions.
 <!-- End Illustration Prompt -->
 
 ---
@@ -324,6 +330,9 @@ Two of every kind of bird, animal, and crawling creature will come to you to be 
 **Action**: Creatures gather in peaceful pairs as Noah prepares to keep them alive
 **Emotional Tone**: Hope, care, solemn rescue
 **Age Appropriateness**: Gentle animal focus, no flood danger shown in this scene
+**Illustration Asset**: /illustrations/genesis/6/creatures-gather.png
+**Alt Text**: Pairs of peaceful creatures gather near the ark on dry land.
+**Caption**: God promised to keep living creatures alive through the ark.
 <!-- End Illustration Prompt -->
 
 ---

@@ -36,6 +36,9 @@ This verse begins the whole Bible by showing God as Creator before anything else
 **Action**: Creation beginning
 **Emotional Tone**: Wonder, peace, awe
 **Age Appropriateness**: Safe and non-frightening for young children
+**Illustration Asset**: /illustrations/genesis/1/creation-begins.png
+**Alt Text**: Deep darkness over unformed waters with warm light beginning to appear above the deep.
+**Caption**: In the beginning, God created the heavens and the earth.
 <!-- End Illustration Prompt -->
 
 ---
@@ -94,6 +97,9 @@ The light in this verse comes before the sun is made later in the chapter. The t
 **Action**: Light shining over the darkness
 **Emotional Tone**: Powerful, hopeful, safe
 **Age Appropriateness**: Exciting but not scary
+**Illustration Asset**: /illustrations/genesis/1/light-over-darkness.png
+**Alt Text**: Bright light breaking across the waters and darkness after God commands light to exist.
+**Caption**: God said, "Let there be light," and light came into being.
 <!-- End Illustration Prompt -->
 
 ---
@@ -144,6 +150,9 @@ God called the light "Day," and the darkness he called "Night." Evening came, an
 **Action**: Light and darkness separated
 **Emotional Tone**: Calm, ordered, peaceful
 **Age Appropriateness**: Clear for young children
+**Illustration Asset**: /illustrations/genesis/1/day-and-night.png
+**Alt Text**: Day and night shown as a quiet landscape divided by a bright boundary.
+**Caption**: God called the light Day, and the darkness he called Night.
 <!-- End Illustration Prompt -->
 
 ---
@@ -321,6 +330,9 @@ This is where the child can safely connect creation's lights with the sun, moon,
 **Action**: Day and night lights shining in their places
 **Emotional Tone**: Wonder, order, beauty
 **Age Appropriateness**: Gentle and clear
+**Illustration Asset**: /illustrations/genesis/1/great-lights.png
+**Alt Text**: The sun, moon, and stars shining through tree silhouettes above the earth.
+**Caption**: God made the greater light for the day, the smaller light for the night, and the stars.
 <!-- End Illustration Prompt -->
 
 ---
@@ -549,11 +561,15 @@ God saw all that he had made, and it was very good. Evening came, and morning ca
 <!-- Illustration Prompt -->
 **Scene**: A wide peaceful view of completed creation with sky, land, seas, plants, animals, and people
 **Style**: Beautiful children's book panorama
-**Characters**: First man and woman shown modestly and peacefully among creation
+**Characters**: First man and woman shown as small backlit silhouettes with no visible skin color, facial features, or ethnic markers; modest and peaceful among creation
 **Setting**: The completed world after the sixth day
 **Action**: Creation resting in harmony
 **Emotional Tone**: Joy, peace, wonder, completion
 **Age Appropriateness**: Gentle, non-sensational, safe for children
+**Details**: Race-neutral human silhouettes; do not depict God in human form; no facial features or skin tone.
+**Illustration Asset**: /illustrations/genesis/1/very-good-creation.png
+**Alt Text**: Completed creation with land, sea, plants, animals, and race-neutral human silhouettes.
+**Caption**: God saw all that he had made, and it was very good.
 <!-- End Illustration Prompt -->
 
 ---

@@ -41,6 +41,9 @@ Keep the serpent's question clear: he challenges God's word without making the s
 **Action**: The serpent asks a question that twists God's command
 **Emotional Tone**: Watchful, uneasy, not frightening
 **Age Appropriateness**: Keep the serpent realistic but not scary
+**Illustration Asset**: /illustrations/genesis/3/serpent-question.png
+**Alt Text**: The serpent speaks near the fruit tree while the woman stands watchfully in Eden.
+**Caption**: The serpent asked, "Did God really say...?"
 <!-- End Illustration Prompt -->
 
 ---
@@ -119,6 +122,9 @@ Show the temptation through sight, desire, and action without excusing the disob
 **Action**: The woman reaches toward fruit that looks beautiful
 **Emotional Tone**: Serious, tense, sorrow beginning
 **Age Appropriateness**: No shame-focused imagery; keep bodies modest and safe
+**Illustration Asset**: /illustrations/genesis/3/fruit-choice.png
+**Alt Text**: A close view of beautiful forbidden fruit with the man, woman, and serpent nearby.
+**Caption**: The woman saw that the fruit was good for food and pleasing to the eyes.
 <!-- End Illustration Prompt -->
 
 ---
@@ -151,6 +157,9 @@ Then, in the cool of the day, the man and his wife heard the Lord God walking in
 **Action**: They hide after hearing the Lord God in the garden
 **Emotional Tone**: Sad, afraid, quiet
 **Age Appropriateness**: Show fear and hiding without making the image dark or terrifying
+**Illustration Asset**: /illustrations/genesis/3/hiding-among-trees.png
+**Alt Text**: The man and woman hide as small silhouettes among dark garden trees.
+**Caption**: They hid from the Lord God among the trees of the garden.
 <!-- End Illustration Prompt -->
 
 ---
@@ -255,6 +264,9 @@ This is often called the first gospel promise. Keep the serpent, woman, offsprin
 **Action**: The promise points forward to the serpent's defeat
 **Emotional Tone**: Serious judgment with a small light of hope
 **Age Appropriateness**: Do not show graphic crushing or injury
+**Illustration Asset**: /illustrations/genesis/3/promise-over-serpent.png
+**Alt Text**: The serpent lies low while a small golden line of hope crosses the sorrowful garden.
+**Caption**: God promised that the woman's offspring would crush the serpent.
 <!-- End Illustration Prompt -->
 
 ---
@@ -385,6 +397,9 @@ Keep the guarded way to the tree of life clear without making the scene needless
 **Action**: A flaming sword flashes back and forth to guard the way
 **Emotional Tone**: Sorrowful, holy, guarded hope
 **Age Appropriateness**: No violent action; make the sword bright and awe-filled rather than frightening
+**Illustration Asset**: /illustrations/genesis/3/guarded-eden.png
+**Alt Text**: A luminous guarded way to Eden with abstract cherubim wings and a bright flaming sword.
+**Caption**: God placed cherubim and a flaming sword to guard the way to the tree of life.
 <!-- End Illustration Prompt -->
 
 ---

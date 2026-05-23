@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState, type ReactNode } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 import { Book, BookOpen, ChevronLeft, ChevronRight, Eye, List, Share2 } from 'lucide-react'
 import type { BibleBookSummary } from '@/lib/bible-catalog'
@@ -9,6 +10,7 @@ import type { ChapterData } from '@/lib/chapter-loader'
 type AgeRange = '5-7' | '8-10'
 type ReaderMode = 'read' | 'study'
 type Verse = ChapterData['verses'][number]
+type VerseIllustration = NonNullable<Verse['illustration']>
 
 interface VocabularyHint {
   term: string
@@ -37,6 +39,7 @@ interface BibleChapterClientProps {
 
 const AGE_STORAGE_KEY = 'kids-bible-age-range'
 const MODE_STORAGE_KEY = 'kids-bible-reader-mode'
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
 
 function getAgeText(chapter: ChapterData, age: AgeRange, verseIndex: number) {
   const verse = chapter.verses[verseIndex]
@@ -157,6 +160,46 @@ function getReadingParagraphs(verses: Verse[], age: AgeRange) {
   }
 
   return paragraphs
+}
+
+function getPublicAssetSrc(src: string) {
+  return src.startsWith('/') ? `${BASE_PATH}${src}` : src
+}
+
+function getParagraphIllustrations(paragraph: Verse[]) {
+  return paragraph
+    .map(verse => verse.illustration)
+    .filter((illustration): illustration is VerseIllustration => Boolean(illustration))
+}
+
+function VerseIllustrationFigure({
+  illustration,
+  compact = false,
+}: {
+  illustration: VerseIllustration
+  compact?: boolean
+}) {
+  return (
+    <figure className={compact ? 'mt-5' : 'space-y-2'}>
+      <div className="overflow-hidden rounded-md border border-slate-200 bg-slate-100">
+        <Image
+          src={getPublicAssetSrc(illustration.src)}
+          alt={illustration.alt}
+          width={1200}
+          height={675}
+          loading="lazy"
+          unoptimized
+          sizes={compact ? '(min-width: 768px) 720px, 100vw' : '(min-width: 768px) 50vw, 100vw'}
+          className="aspect-[16/9] w-full object-cover"
+        />
+      </div>
+      {illustration.caption && (
+        <figcaption className="px-1 text-sm leading-6 text-slate-600">
+          {illustration.caption}
+        </figcaption>
+      )}
+    </figure>
+  )
 }
 
 function isWordBoundary(character: string | undefined) {
@@ -451,31 +494,47 @@ export function BibleChapterClient({ book, chapter, navigation }: BibleChapterCl
 
         {readerMode === 'read' ? (
           <article className="mb-12 rounded-lg bg-white px-5 py-7 shadow-sm sm:px-8 sm:py-10">
-            <div className="mx-auto max-w-3xl space-y-5">
-              {readingParagraphs.map((paragraph, paragraphIndex) => (
-                <p
-                  key={`read-paragraph-${paragraphIndex}`}
-                  className={`font-story text-slate-900 ${
-                    selectedAge === '5-7' ? 'text-xl leading-9' : 'text-lg leading-8'
-                  }`}
-                >
-                  {paragraph.map((verse, verseIndex) => {
-                    const absoluteVerseIndex = readingGroupSize * paragraphIndex + verseIndex
-                    const text = getAgeText(chapter, selectedAge, absoluteVerseIndex)
+            <div className="mx-auto max-w-3xl space-y-8">
+              {readingParagraphs.map((paragraph, paragraphIndex) => {
+                const paragraphIllustrations = getParagraphIllustrations(paragraph)
 
-                    return (
-                      <span key={`read-verse-${verse.number}`}>
-                        <AnnotatedVerseText
-                          text={text ?? 'Text unavailable for this age range.'}
-                          hints={readModeHintPlan[verse.number] ?? []}
-                          annotationIdPrefix={`verse-${verse.number}`}
-                        />
-                        {verseIndex < paragraph.length - 1 ? ' ' : null}
-                      </span>
-                    )
-                  })}
-                </p>
-              ))}
+                return (
+                  <div key={`read-paragraph-${paragraphIndex}`} className="space-y-4">
+                    <p
+                      className={`font-story text-slate-900 ${
+                        selectedAge === '5-7' ? 'text-xl leading-9' : 'text-lg leading-8'
+                      }`}
+                    >
+                      {paragraph.map((verse, verseIndex) => {
+                        const absoluteVerseIndex = readingGroupSize * paragraphIndex + verseIndex
+                        const text = getAgeText(chapter, selectedAge, absoluteVerseIndex)
+
+                        return (
+                          <span key={`read-verse-${verse.number}`}>
+                            <AnnotatedVerseText
+                              text={text ?? 'Text unavailable for this age range.'}
+                              hints={readModeHintPlan[verse.number] ?? []}
+                              annotationIdPrefix={`verse-${verse.number}`}
+                            />
+                            {verseIndex < paragraph.length - 1 ? ' ' : null}
+                          </span>
+                        )
+                      })}
+                    </p>
+
+                    {paragraphIllustrations.length > 0 && (
+                      <div className={paragraphIllustrations.length > 1 ? 'grid gap-4 sm:grid-cols-2' : 'grid gap-4'}>
+                        {paragraphIllustrations.map((illustration, illustrationIndex) => (
+                          <VerseIllustrationFigure
+                            key={`${paragraphIndex}-illustration-${illustrationIndex}`}
+                            illustration={illustration}
+                          />
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )
+              })}
             </div>
           </article>
         ) : (
@@ -495,6 +554,10 @@ export function BibleChapterClient({ book, chapter, navigation }: BibleChapterCl
                         {getAgeText(chapter, selectedAge, index) ?? 'Text unavailable for this age range.'}
                       </p>
                     </div>
+
+                    {verse.illustration && (
+                      <VerseIllustrationFigure illustration={verse.illustration} compact />
+                    )}
 
                     {verse.original && (
                       <details className="mt-4">

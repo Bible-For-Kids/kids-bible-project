@@ -114,6 +114,9 @@ Noah and his wife, his sons, and his sons' wives entered the ark to escape the w
 **Action**: The family steps into the ark in obedience to the Lord's word
 **Emotional Tone**: Trust, seriousness, shelter
 **Age Appropriateness**: No panic or disaster imagery
+**Illustration Asset**: /illustrations/genesis/7/family-enters-ark.png
+**Alt Text**: Noah's family walks toward the open ark door in calm light.
+**Caption**: Noah and his family entered the ark as the Lord commanded.
 <!-- End Illustration Prompt -->
 
 ---
@@ -149,6 +152,9 @@ Male and female, they came to Noah and entered the ark, just as God had commande
 **Action**: Male and female pairs come to Noah and enter the ark
 **Emotional Tone**: Wonder, order, quiet urgency
 **Age Appropriateness**: Peaceful animal movement, not chaotic or frightening
+**Illustration Asset**: /illustrations/genesis/7/animals-enter-pairs.png
+**Alt Text**: Pairs of animals and birds move in an orderly line toward the ark.
+**Caption**: The animals came to Noah and entered the ark in pairs.
 <!-- End Illustration Prompt -->
 
 ---
@@ -254,6 +260,9 @@ The Lord shutting Noah in is a protective action, not a detail to skip.
 **Action**: The door is closed, showing God's protection over those inside
 **Emotional Tone**: Safety, awe, solemn protection
 **Age Appropriateness**: Comforting and secure, without showing suffering outside
+**Illustration Asset**: /illustrations/genesis/7/ark-door-closed.png
+**Alt Text**: A close view of the ark door shut with a warm line of protected light at the seam.
+**Caption**: The Lord shut Noah safely inside the ark.
 <!-- End Illustration Prompt -->
 
 ---
@@ -293,6 +302,9 @@ The waters rose and increased greatly over the earth, and the ark floated safely
 **Action**: The waters rise higher and lift the ark
 **Emotional Tone**: Serious judgment, protected rescue
 **Age Appropriateness**: Avoid graphic danger; show the ark's preservation clearly
+**Illustration Asset**: /illustrations/genesis/7/waters-lift-ark.png
+**Alt Text**: Rain and rising waters lift the ark above the earth in a majestic but safe scene.
+**Caption**: The waters rose and lifted the ark high above the earth.
 <!-- End Illustration Prompt -->
 
 ---

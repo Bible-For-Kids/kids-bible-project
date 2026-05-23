@@ -59,6 +59,20 @@ God blessed the seventh day and made it holy, because on it he rested from all t
 - Exodus 20:11
 - Hebrews 4:4
 
+<!-- Illustration Prompt -->
+**Scene**: The completed creation resting under a peaceful seventh-day light
+**Style**: Quiet children's Bible landscape with soft painterly texture
+**Characters**: None; no visible form for God
+**Setting**: The finished heavens and earth with land, water, trees, and open sky
+**Action**: Creation is complete, and the seventh day is blessed and set apart
+**Emotional Tone**: Peace, completion, holiness, rest
+**Age Appropriateness**: Calm, safe, and non-frightening for children
+**Details**: Use visual rhythm and stillness instead of showing God resting as a human figure.
+**Illustration Asset**: /illustrations/genesis/2/sabbath-rest.png
+**Alt Text**: A peaceful completed creation landscape with water, trees, mountains, and seven small stones suggesting holy rest.
+**Caption**: God blessed the seventh day and made it holy.
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 2:4
@@ -125,6 +139,20 @@ This verse shows both humility and honor: the man is formed from dust, and his l
 - Psalm 103:14
 - 1 Corinthians 15:45
 
+<!-- Illustration Prompt -->
+**Scene**: The Lord God forming the man from dust and giving the breath of life
+**Style**: Reverent symbolic children's Bible illustration with warm light
+**Characters**: The first man shown as a race-neutral dust silhouette; no visible form for God
+**Setting**: Fresh earth and soil under a warm, holy glow
+**Action**: Dust gathers into a living person as God's life-giving breath is pictured by light
+**Emotional Tone**: Wonder, tenderness, humility, honor
+**Age Appropriateness**: Gentle and non-medical; no frightening or graphic detail
+**Details**: Do not show skin tone, facial features, or a human form for God.
+**Illustration Asset**: /illustrations/genesis/2/breath-of-life.png
+**Alt Text**: A race-neutral dust silhouette becoming a living person as warm light suggests God's breath of life.
+**Caption**: The Lord God formed the man from dust and breathed life into him.
+<!-- End Illustration Prompt -->
+
 ---
 
 ### Genesis 2:8
@@ -167,6 +195,20 @@ A river flowed out from Eden to water the garden. From there, it divided into fo
 
 #### Ages 8-10
 A river flowed from Eden to water the garden. From there it divided and became four rivers.
+
+<!-- Illustration Prompt -->
+**Scene**: Eden watered by one river that divides into four rivers
+**Style**: Children's Bible map-like garden illustration with warm greens and clear water paths
+**Characters**: None
+**Setting**: A beautiful garden seen from above, with trees and four flowing rivers
+**Action**: The river waters the garden and divides outward
+**Emotional Tone**: Wonder, order, abundance
+**Age Appropriateness**: Peaceful, clear, and easy for children to understand
+**Details**: Keep the image as a visual map without labels or written text.
+**Illustration Asset**: /illustrations/genesis/2/garden-rivers.png
+**Alt Text**: A garden seen from above with one bright spring dividing into four blue rivers among fruit trees.
+**Caption**: A river flowed from Eden to water the garden and divided into four rivers.
+<!-- End Illustration Prompt -->
 
 ---
 
@@ -355,6 +397,20 @@ The man said, "This one, at last, is bone of my bones and flesh of my flesh. She
 
 **Translation Notes**:
 "At last" captures the man's joyful recognition that the woman corresponds to him.
+
+<!-- Illustration Prompt -->
+**Scene**: The man and woman together in Eden after God makes the helper who is right for him
+**Style**: Warm children's Bible illustration, modest and peaceful
+**Characters**: The first man and woman shown as race-neutral backlit silhouettes with no visible skin color or facial features
+**Setting**: Eden among trees, open land, and gentle light
+**Action**: The man recognizes the woman with joy and welcome
+**Emotional Tone**: Joy, belonging, safety, gratitude
+**Age Appropriateness**: Modest, safe, and non-sensational for children
+**Details**: Show silhouettes at a respectful distance; do not emphasize nakedness or body detail.
+**Illustration Asset**: /illustrations/genesis/2/right-helper.png
+**Alt Text**: Two race-neutral silhouettes stand together peacefully in Eden under warm light.
+**Caption**: The man said, "This one, at last, is bone of my bones and flesh of my flesh."
+<!-- End Illustration Prompt -->
 
 ---
 

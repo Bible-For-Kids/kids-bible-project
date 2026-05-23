@@ -72,6 +72,9 @@ Abel also brought an offering from the firstborn of his flock and from their ric
 **Action**: The brothers bring offerings in worship
 **Emotional Tone**: Serious, watchful, worshipful
 **Age Appropriateness**: Keep the animal offering modest and non-graphic
+**Illustration Asset**: /illustrations/genesis/4/offerings.png
+**Alt Text**: Cain and Abel bring offerings in open land with crops on one side and sheep on the other.
+**Caption**: Cain and Abel brought offerings to the Lord.
 <!-- End Illustration Prompt -->
 
 ---
@@ -127,6 +130,9 @@ Keep the image of sin crouching at the door; it helps children picture temptatio
 **Action**: Cain hears the warning that sin is crouching at the door
 **Emotional Tone**: Urgent, merciful, serious
 **Age Appropriateness**: Show sin symbolically as a shadow or danger, not as a monster
+**Illustration Asset**: /illustrations/genesis/4/sin-at-the-door.png
+**Alt Text**: A symbolic dark shape crouches near a doorway while Cain stands under a warning light.
+**Caption**: The Lord warned Cain that sin was crouching at the door.
 <!-- End Illustration Prompt -->
 
 ---
@@ -151,6 +157,9 @@ Keep the fact of Abel's death clear, but do not add graphic detail. The verse's 
 **Action**: Cain leads Abel away; the image should stop before the attack
 **Emotional Tone**: Tense, sad, foreboding
 **Age Appropriateness**: Do not show the killing or injury
+**Illustration Asset**: /illustrations/genesis/4/field-before-violence.png
+**Alt Text**: Cain and Abel walk into a quiet field before the attack, with long shadows across the ground.
+**Caption**: Cain spoke to Abel his brother and led him into the field.
 <!-- End Illustration Prompt -->
 
 ---
@@ -383,6 +392,9 @@ Calling on the Lord's name points to worship and dependence on God.
 **Action**: People pray and call on the Lord's name
 **Emotional Tone**: Hopeful, humble, worshipful
 **Age Appropriateness**: Gentle and peaceful after the chapter's sorrow
+**Illustration Asset**: /illustrations/genesis/4/seth-family-prayer.png
+**Alt Text**: Seth's family gathers in warm evening light to call on the name of the Lord.
+**Caption**: At that time people began to call on the name of the Lord.
 <!-- End Illustration Prompt -->
 
 ---

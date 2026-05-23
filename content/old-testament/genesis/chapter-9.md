@@ -112,6 +112,9 @@ As for you, be fruitful and increase in number. Multiply on the earth and become
 **Action**: Noah's family stands together as God's blessing and commands are spoken
 **Emotional Tone**: New beginning, responsibility, dignity
 **Age Appropriateness**: Do not illustrate bloodshed; focus on the value of life
+**Illustration Asset**: /illustrations/genesis/9/life-is-precious.png
+**Alt Text**: Noah's family stands together on renewed earth with a small green plant nearby.
+**Caption**: God blessed Noah's family and taught that human life is precious.
 <!-- End Illustration Prompt -->
 
 ---
@@ -207,6 +210,9 @@ The rainbow is God's covenant sign, not a magical object.
 **Action**: The covenant sign appears in the clouds
 **Emotional Tone**: Wonder, relief, promise, peace
 **Age Appropriateness**: Hopeful and safe, with no flood danger shown
+**Illustration Asset**: /illustrations/genesis/9/rainbow-covenant.png
+**Alt Text**: A bright rainbow stretches across the sky over Noah's family, animals, water, and mountains.
+**Caption**: The rainbow was God's covenant sign in the clouds.
 <!-- End Illustration Prompt -->
 
 ---
@@ -349,6 +355,9 @@ Shem and Japheth honor their father by covering him without looking. Illustratio
 **Action**: The brothers cover their father while keeping their faces turned away
 **Emotional Tone**: Sobriety, honor, family sadness
 **Age Appropriateness**: No nudity, no exposed body, no comedic tone
+**Illustration Asset**: /illustrations/genesis/9/respectful-covering.png
+**Alt Text**: Shem and Japheth carry a garment backward at Noah's tent in a modest, respectful scene.
+**Caption**: Shem and Japheth respectfully covered their father.
 <!-- End Illustration Prompt -->
 
 ---

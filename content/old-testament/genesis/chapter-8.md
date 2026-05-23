@@ -75,6 +75,9 @@ On the seventeenth day of the seventh month, the ark came to rest on the mountai
 **Action**: The ark rests firmly while the waters continue to recede
 **Emotional Tone**: Relief, patience, God's faithful care
 **Age Appropriateness**: Peaceful aftermath, no danger or destruction shown
+**Illustration Asset**: /illustrations/genesis/8/ark-on-ararat.png
+**Alt Text**: The ark rests on mountains as the floodwaters lower under a clearing sky.
+**Caption**: The ark rested on the mountains of Ararat.
 <!-- End Illustration Prompt -->
 
 ---
@@ -171,6 +174,9 @@ When the dove returned to him in the evening, Noah saw a freshly plucked olive l
 **Action**: Noah receives the sign that the waters have gone down
 **Emotional Tone**: Hope, patience, gentle joy
 **Age Appropriateness**: Calm and reassuring
+**Illustration Asset**: /illustrations/genesis/8/dove-olive-leaf.png
+**Alt Text**: A white dove with a fresh olive leaf flies toward the ark window.
+**Caption**: The dove returned to Noah with a fresh olive leaf.
 <!-- End Illustration Prompt -->
 
 ---
@@ -278,6 +284,9 @@ All the animals, all the creatures that move along the ground, and all the birds
 **Action**: Families and creatures step out into the renewed earth
 **Emotional Tone**: Fresh beginning, gratitude, wonder
 **Age Appropriateness**: Joyful and safe, without crowding or chaos
+**Illustration Asset**: /illustrations/genesis/8/leaving-ark.png
+**Alt Text**: Noah's family and animals step out of the ark onto dry ground.
+**Caption**: Noah's family and the creatures left the ark by their kinds.
 <!-- End Illustration Prompt -->
 
 ---
@@ -309,6 +318,9 @@ Keep Noah's altar as worship after rescue, not as payment for rescue.
 **Action**: Noah offers worship on the altar after leaving the ark
 **Emotional Tone**: Gratitude, reverence, peace
 **Age Appropriateness**: Show worship with simple dignity; avoid graphic sacrifice detail
+**Illustration Asset**: /illustrations/genesis/8/altar-after-rescue.png
+**Alt Text**: Noah's family worships near a stone altar on dry ground after rescue.
+**Caption**: Noah built an altar and worshiped the Lord after the flood.
 <!-- End Illustration Prompt -->
 
 ---

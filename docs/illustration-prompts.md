@@ -19,6 +19,12 @@ This document provides guidelines for creating AI illustration prompts that will
 - **Composition**: Clear focal points, uncluttered scenes
 - **Lighting**: Warm, natural lighting, no dramatic shadows
 
+### Race-Neutral Human Depiction
+- Prefer nature, light, objects, landscapes, silhouettes, or backlit figures when a scene does not require identifiable human features.
+- When people must appear and the text does not specify appearance, avoid making race, ethnicity, or skin tone the visual focus.
+- For Adam and Eve or other early universal-human scenes, use modest distance, simplified silhouettes, or varied non-specific features so the illustration serves the text without implying one modern racial identity.
+- Do not erase people when the verse needs them. Make them present, dignified, and non-stereotyped.
+
 ## AI Prompt Structure
 
 ### Standard Prompt Template
